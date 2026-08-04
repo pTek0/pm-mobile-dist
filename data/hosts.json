@@ -1,0 +1,93 @@
+{
+ "generated_at": "2026-08-04T12:52:53+09:00",
+ "this_host": {
+  "id": "DESKTOP-U25DBJA",
+  "label": "집 데스크탑",
+  "os": "Windows 10 Pro",
+  "updated": "2026-08-04T12:52:53+09:00"
+ },
+ "hosts": [
+  {
+   "id": "DESKTOP-U25DBJA",
+   "label": "집 데스크탑",
+   "os": "Windows 10 Pro",
+   "last_seen": "2026-08-04T12:52:53+09:00",
+   "online": true
+  }
+ ],
+ "projects": [
+  {
+   "name": "_root",
+   "host_id": "DESKTOP-U25DBJA",
+   "host_label": "집 데스크탑",
+   "last_activity": "2026-08-04T12:52:39+09:00",
+   "running": true,
+   "minutes_since": 0,
+   "remote_control": {
+    "enabled": false,
+    "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
+   }
+  },
+  {
+   "name": "auto-invest",
+   "host_id": "DESKTOP-U25DBJA",
+   "host_label": "집 데스크탑",
+   "last_activity": "2026-08-04T08:14:36+09:00",
+   "running": false,
+   "minutes_since": 278,
+   "remote_control": {
+    "enabled": false,
+    "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
+   }
+  },
+  {
+   "name": "InsecureBankv2",
+   "host_id": "DESKTOP-U25DBJA",
+   "host_label": "집 데스크탑",
+   "last_activity": "2026-08-03T21:23:39+09:00",
+   "running": false,
+   "minutes_since": 929,
+   "remote_control": {
+    "enabled": false,
+    "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
+   }
+  },
+  {
+   "name": "car-pentest",
+   "host_id": "DESKTOP-U25DBJA",
+   "host_label": "집 데스크탑",
+   "last_activity": "2026-08-03T21:12:10+09:00",
+   "running": false,
+   "minutes_since": 940,
+   "remote_control": {
+    "enabled": false,
+    "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
+   }
+  },
+  {
+   "name": "ship-pentest",
+   "host_id": "DESKTOP-U25DBJA",
+   "host_label": "집 데스크탑",
+   "last_activity": "2026-08-03T10:32:24+09:00",
+   "running": false,
+   "minutes_since": 1580,
+   "remote_control": {
+    "enabled": false,
+    "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
+   }
+  },
+  {
+   "name": "pentest-toolkit",
+   "host_id": "DESKTOP-U25DBJA",
+   "host_label": "집 데스크탑",
+   "last_activity": "2026-07-31T16:47:15+09:00",
+   "running": false,
+   "minutes_since": 5525,
+   "remote_control": {
+    "enabled": false,
+    "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
+   }
+  }
+ ],
+ "note": "여러 PC 가 같은 파일에 각자 host_id 몫만 갱신(병합 발행). running=10분 이내 활동, online/stale=15분."
+}
