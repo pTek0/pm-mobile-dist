@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-08-05T18:49:09+00:00",
+ "generated_at": "2026-08-05T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-05T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-9201 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-9201 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 could allow an authenticated attacker to execute arbitrary",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9201",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9201:2026-08-05T19:19"
+  },
+  {
+   "ts": "2026-08-05T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-9196 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-9196 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 could allow an authenticated attacker to execute unintende",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9196",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9196:2026-08-05T19:19"
+  },
+  {
+   "ts": "2026-08-05T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-8182 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-8182 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 installations allow anyone on the internet to execute arbi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8182",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8182:2026-08-05T19:19"
+  },
+  {
+   "ts": "2026-08-05T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18485 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-18485 📢 Source: NI 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False There is a local privilege escalation vulnerability recently discovered in the NI-PAL kernel dr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18485",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18485:2026-08-05T19:19"
+  },
+  {
+   "ts": "2026-08-05T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17633 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-17633 📢 Source: ibm 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 could allow a remote authenticated attacker to execute ar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17633",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17633:2026-08-05T19:19"
+  },
+  {
+   "ts": "2026-08-05T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17632 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-17632 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 could allow a remote authenticated attacker to execute ar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17632",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17632:2026-08-05T19:19"
+  },
+  {
+   "ts": "2026-08-05T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17624 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-17624 📢 Source: ibm 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3, 1.0.0 through 1.10.3, 1.0.0 through 1.10.3, 1.0.0 throug",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17624",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17624:2026-08-05T19:19"
+  },
   {
    "ts": "2026-08-05T18:49:08+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://www.windowslatest.com/2026/08/04/microsoft-never-learns-it-admins-rage-as-a-new-onedrive-app-invades-windows-11-and-keeps-coming-back-when-you-remove-it/",
    "source": "Lemmy · technology",
    "id": "community:https://www.windowslatest.com/2026/08/04/microsoft-never-learns-it-admins-rage-as-a-new-onedrive-app-invades-windows-11-and-keeps-coming-back-when-you-remove-it/:2026-08-05T11:49"
-  },
-  {
-   "ts": "2026-08-05T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Waymo in Dallas",
-   "body": "Hacker News · 점수 297",
-   "link": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-   "source": "Hacker News",
-   "id": "community:https://waymo.com/blog/shorts/dallas-open-to-all/:2026-08-05T11:49"
-  },
-  {
-   "ts": "2026-08-05T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] libexpat now funded by the City of Munich for up to 6 months",
-   "body": "Hacker News · 점수 286",
-   "link": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-   "source": "Hacker News",
-   "id": "community:https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/:2026-08-05T11:49"
-  },
-  {
-   "ts": "2026-08-05T11:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-66747 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-66747 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Zbtlink router firmware ships an embedded remote-control implant, ENDLESSDOORS, prese",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66747",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66747:2026-08-05T11:19"
-  },
-  {
-   "ts": "2026-08-05T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-60009 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-60009 📢 Source: eclipse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Eclipse Theia versions up to and including 1.73.1, the ` @theia /filesystem` backend bin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60009",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60009:2026-08-05T11:19"
-  },
-  {
-   "ts": "2026-08-05T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12609 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-12609 📢 Source: eclipse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Eclipse Theia versions 1.66.0 and up until including 1.73.1, the ` @theia /plugin-ext` b",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12609",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12609:2026-08-05T11:19"
-  },
-  {
-   "ts": "2026-08-05T11:19:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonde",
-   "body": "Hacker News · 점수 1388",
-   "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-   "source": "Hacker News",
-   "id": "community:https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/:2026-08-05T11:19"
-  },
-  {
-   "ts": "2026-08-05T11:19:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Xbox goes down. You can't play games you own on disc",
-   "body": "Hacker News · 점수 663",
-   "link": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-   "source": "Hacker News",
-   "id": "community:https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/:2026-08-05T11:19"
   }
  ]
 }
