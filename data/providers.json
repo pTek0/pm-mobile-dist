@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-08-05T14:16:11+09:00",
+  "tz": "Asia/Seoul",
+  "providers": [
+    {
+      "id": "anthropic",
+      "kind": "subscription",
+      "display": "Claude",
+      "plan": "Claude Max 5x",
+      "balance": null,
+      "usage_window": {
+        "basis": "month",
+        "value_ratio": 38.18
+      },
+      "cost": {
+        "period": "month",
+        "usd": 3817.71,
+        "krw": 5344794,
+        "estimate": true
+      },
+      "tokens": {
+        "month_total": 2930336134,
+        "month_output": 11759181
+      },
+      "source": "metrics.json",
+      "updated_at": "2026-08-05T05:16:01.3469702Z",
+      "stale": false
+    },
+    {
+      "id": "ollama-cloud",
+      "kind": "usage-metered",
+      "display": "Ollama Cloud · GLM 5.2",
+      "unit": "gpu-credits",
+      "balance": {
+        "remaining": null,
+        "of_total": null,
+        "resets_at": null,
+        "source": "manual"
+      },
+      "usage_window": {
+        "basis": "log",
+        "calls": 5,
+        "log_file": "openclaw-2026-08-05.log"
+      },
+      "cost": {
+        "period": "month",
+        "usd": null,
+        "estimate": true
+      },
+      "models": [
+        {
+          "id": "glm-5.2",
+          "calls": 5
+        }
+      ],
+      "source": "openclaw-local-log+manual",
+      "updated_at": "2026-08-05T14:16:11+09:00",
+      "stale": false,
+      "note": "Ollama Cloud 계정(ollama.com/cloud)의 잔여 사용량/크레딧을 여기 적으면 대시보드에 표시됨. 요금제 Free/$20/$100."
+    },
+    {
+      "id": "burp-ai",
+      "kind": "credit",
+      "display": "Burp AI",
+      "unit": "credits",
+      "balance": {
+        "remaining": null,
+        "of_total": null,
+        "source": "manual"
+      },
+      "usage_window": null,
+      "cost": {
+        "period": "month",
+        "usd": null,
+        "estimate": true
+      },
+      "source": "manual",
+      "updated_at": "2026-08-05T14:16:11+09:00",
+      "stale": false,
+      "note": "PortSwigger Burp AI 크레딧 잔액을 여기 적는다."
+    }
+  ],
+  "totals": {
+    "month_cost_usd_estimate": 3817.71
+  },
+  "note": "AI 프로바이더 통합 사용량·크레딧 원장. Claude=측정, Ollama 호출수=측정/크레딧=수동, Burp=수동."
+}
