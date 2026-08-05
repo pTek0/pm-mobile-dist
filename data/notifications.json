@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-05T15:49:10+00:00",
+ "generated_at": "2026-08-05T16:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-05T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-8400 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-8400 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM WebSphere Application Server 8.5, and 9.0 and IBM WebSphere Application Server - Liberty Con",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8400",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8400:2026-08-05T16:19"
+  },
+  {
+   "ts": "2026-08-05T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-7557 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-7557 📢 Source: ProgressSoftware 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True An improper verification of cryptographic signature vulnerability in the SAML a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7557",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7557:2026-08-05T16:19"
+  },
+  {
+   "ts": "2026-08-05T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-7329 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-7329 📢 Source: ProgressSoftware 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True An improper privilege management vulnerability in the SQL, SPARQL, and Optic RE",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7329",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7329:2026-08-05T16:19"
+  },
+  {
+   "ts": "2026-08-05T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-7327 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-7327 📢 Source: ProgressSoftware 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True An improper privilege management vulnerability in the REST API document processing ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7327",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7327:2026-08-05T16:19"
+  },
+  {
+   "ts": "2026-08-05T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-7326 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-7326 📢 Source: ProgressSoftware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A cross-site request forgery vulnerability in the Admin UI of Progress MarkLogic Se",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7326",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7326:2026-08-05T16:19"
+  },
+  {
+   "ts": "2026-08-05T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10025 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-10025 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM QRadar 7.6.0.0 through 7.6.0.1 , and 7.5.0 through 7.5.0 UP 15 Interim Fix 005 has an XML E",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10025",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10025:2026-08-05T16:19"
+  },
   {
    "ts": "2026-08-05T15:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-55997",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-55997:2026-08-05T08:19"
-  },
-  {
-   "ts": "2026-08-05T05:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71190 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-71190 📢 Source: mitre 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In OpenStack Swift through 2.38.0, the proxy server Accept header parser contains a regular e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71190",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71190:2026-08-05T05:49"
-  },
-  {
-   "ts": "2026-08-05T05:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66839 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-66839 📢 Source: jpcert 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False NetKids iMark, provided by Integrated Systems Technologies, Inc., contains an Unquoted Sear",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66839",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66839:2026-08-05T05:49"
-  },
-  {
-   "ts": "2026-08-05T05:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-55707 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-55707 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In OpenStack Neutron before 28.0.2, the subnetpool onboarding API does not verify ownership o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-55707",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-55707:2026-08-05T05:49"
-  },
-  {
-   "ts": "2026-08-05T05:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-mobile",
-   "body": "**v0.16.0 발행** — **\"AI\" 탭 신설**(dist providers.json → 프로바이더별 사용량·크레딧 카드). v0.15: 패치노트 화면 + 공유 버튼",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-mobile:2026-08-05T05:49"
-  },
-  {
-   "ts": "2026-08-05T05:19:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: auto-invest",
-   "body": "**3단위 체제 가동**(주식/코인×장기·중단기·초공격) — 리뷰 전체 병합, 배당적립·종합판단·초단타 **상주 데몬** 신설, **내부 PM 보드**([PM.md](auto-invest/PM.md)) 매일 자동 생",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: auto-invest:2026-08-05T05:19"
-  },
-  {
-   "ts": "2026-08-05T05:19:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: control-plane",
-   "body": "**설계 + 1~2단계 구현·검증** — ✅registry.json 단일화(수집기 3종 폴백 리팩터, 무중단) ✅providers.json 원장(Claude 측정+Ollama 로그 실측+Burp 수동)+pm-web ",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: control-plane:2026-08-05T05:19"
   }
  ]
 }
