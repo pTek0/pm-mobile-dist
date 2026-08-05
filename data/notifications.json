@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-05T12:49:08+00:00",
- "count": 47,
+ "generated_at": "2026-08-05T13:19:08+00:00",
+ "count": 48,
  "items": [
+  {
+   "ts": "2026-08-05T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71226 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-71226 📢 Source: redhat 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Memory Corruption via Uncanceled AIO Requests on Error: libkcapi's one-shot AIO path can re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71226",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71226:2026-08-05T13:19"
+  },
   {
    "ts": "2026-08-05T12:49:07+00:00",
    "level": "general",
