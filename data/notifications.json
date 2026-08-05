@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-05T05:19:09+00:00",
- "count": 10,
+ "generated_at": "2026-08-05T05:49:08+00:00",
+ "count": 14,
  "items": [
+  {
+   "ts": "2026-08-05T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71190 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-71190 📢 Source: mitre 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In OpenStack Swift through 2.38.0, the proxy server Accept header parser contains a regular e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71190",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71190:2026-08-05T05:49"
+  },
+  {
+   "ts": "2026-08-05T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66839 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-66839 📢 Source: jpcert 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False NetKids iMark, provided by Integrated Systems Technologies, Inc., contains an Unquoted Sear",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66839",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66839:2026-08-05T05:49"
+  },
+  {
+   "ts": "2026-08-05T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-55707 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-55707 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In OpenStack Neutron before 28.0.2, the subnetpool onboarding API does not verify ownership o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-55707",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-55707:2026-08-05T05:49"
+  },
+  {
+   "ts": "2026-08-05T05:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-mobile",
+   "body": "**v0.16.0 발행** — **\"AI\" 탭 신설**(dist providers.json → 프로바이더별 사용량·크레딧 카드). v0.15: 패치노트 화면 + 공유 버튼",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-mobile:2026-08-05T05:49"
+  },
   {
    "ts": "2026-08-05T05:19:08+00:00",
    "level": "general",
