@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-05T20:19:09+00:00",
+ "generated_at": "2026-08-05T20:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-05T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-34966 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-34966 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Gitea prior to 1.27.0 contains a server-side request forgery vulnerability that allows au",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-34966",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34966:2026-08-05T20:49"
+  },
+  {
+   "ts": "2026-08-05T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18411 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-18411 📢 Source: icscert 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False The KARR Security System and SWDS dealer-installed automotive anti-theft systems use a sha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18411",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18411:2026-08-05T20:49"
+  },
+  {
+   "ts": "2026-08-05T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17583 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-17583 📢 Source: icscert 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False The affected Thermo Fisher Applied Biosystems Genetic Analyzers are vulnerable because .fs",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17583",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17583:2026-08-05T20:49"
+  },
   {
    "ts": "2026-08-05T20:19:08+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
    "source": "Lobsters",
    "id": "community:https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/:2026-08-05T12:49"
-  },
-  {
-   "ts": "2026-08-05T12:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Soppo - Go, with the features it's missing",
-   "body": "Lobsters · 점수 76",
-   "link": "https://soppolang.dev/",
-   "source": "Lobsters",
-   "id": "community:https://soppolang.dev/:2026-08-05T12:49"
-  },
-  {
-   "ts": "2026-08-05T12:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Welcome To The Resistance: Meet The Workers Dodging (And Sab",
-   "body": "Lemmy · technology · 점수 52",
-   "link": "https://aftermath.site/ai-resistance-tips-workforce-llm-workers/",
-   "source": "Lemmy · technology",
-   "id": "community:https://aftermath.site/ai-resistance-tips-workforce-llm-workers/:2026-08-05T12:49"
-  },
-  {
-   "ts": "2026-08-05T12:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Decimen Lets You Send Files Through Light, Not a Network",
-   "body": "Lemmy · technology · 점수 52",
-   "link": "https://linuxiac.com/decimen-lets-you-send-files-through-light-not-a-network/",
-   "source": "Lemmy · technology",
-   "id": "community:https://linuxiac.com/decimen-lets-you-send-files-through-light-not-a-network/:2026-08-05T12:49"
   }
  ]
 }
