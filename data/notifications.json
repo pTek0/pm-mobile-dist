@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-05T09:49:08+00:00",
- "count": 20,
+ "generated_at": "2026-08-05T10:19:10+00:00",
+ "count": 22,
  "items": [
+  {
+   "ts": "2026-08-05T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-44945 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-44945 📢 Source: suse 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A privilege escalation vulnerability exists in Rancher's impersonation middleware (pkg/aut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-44945",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-44945:2026-08-05T10:19"
+  },
+  {
+   "ts": "2026-08-05T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25703 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-25703 📢 Source: suse 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True NeuVector through 5.4.9 is can potentially leak information from manager /network/graph API du",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25703",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25703:2026-08-05T10:19"
+  },
   {
    "ts": "2026-08-05T09:19:07+00:00",
    "level": "important",
