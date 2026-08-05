@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-05T08:49:08+00:00",
- "count": 18,
+ "generated_at": "2026-08-05T09:19:11+00:00",
+ "count": 20,
  "items": [
+  {
+   "ts": "2026-08-05T09:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-10090 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-10090 📢 Source: redhat 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in the Application Subscription controller (multicluster-operators-subs",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10090",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10090:2026-08-05T09:19"
+  },
+  {
+   "ts": "2026-08-05T09:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-10059 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-10059 📢 Source: redhat 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in the Multicluster Engine for Kubernetes ClusterCurator controller. A ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10059",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10059:2026-08-05T09:19"
+  },
   {
    "ts": "2026-08-05T08:49:08+00:00",
    "level": "general",
