@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-05T19:49:09+00:00",
+ "generated_at": "2026-08-05T20:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-05T20:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70617 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-70617 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Spacebar Server before commit dcfd910 contains a missing authorization vulnerability that",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70617",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70617:2026-08-05T20:19"
+  },
+  {
+   "ts": "2026-08-05T20:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70616 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-70616 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True boringproxy through 0.10.0 contains a resource exhaustion vulnerability that allows any a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70616",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70616:2026-08-05T20:19"
+  },
+  {
+   "ts": "2026-08-05T20:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68746 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-68746 📢 Source: EEF 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Not Failing Securely ('Failing Open') vulnerability in livebook-dev livebook allows an unauthen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68746",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68746:2026-08-05T20:19"
+  },
+  {
+   "ts": "2026-08-05T20:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66881 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-66881 📢 Source: EEF 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Relative Path Traversal vulnerability in livebook-dev livebook allows an attacker-authored notebo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66881",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66881:2026-08-05T20:19"
+  },
+  {
+   "ts": "2026-08-05T20:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66298 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-66298 📢 Source: EEF 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Origin Validation Error vulnerability in livebook-dev livebook allows untrusted notebook output",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66298",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66298:2026-08-05T20:19"
+  },
+  {
+   "ts": "2026-08-05T20:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17556 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-17556 📢 Source: GitHub_P 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A path traversal vulnerability was identified in GitHub Enterprise Server that allowed an ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17556",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17556:2026-08-05T20:19"
+  },
   {
    "ts": "2026-08-05T19:49:07+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://linuxiac.com/decimen-lets-you-send-files-through-light-not-a-network/",
    "source": "Lemmy · technology",
    "id": "community:https://linuxiac.com/decimen-lets-you-send-files-through-light-not-a-network/:2026-08-05T12:49"
-  },
-  {
-   "ts": "2026-08-05T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-61891 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-61891 📢 Source: eclipse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Eclipse Theia versions up to and including 1.73.1, the ` @theia /filesystem` backend exp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-61891",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-61891:2026-08-05T12:19"
-  },
-  {
-   "ts": "2026-08-05T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI fuels more than half of cybercrime in Africa as scams sur",
-   "body": "Hacker News · 점수 250",
-   "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-   "source": "Hacker News",
-   "id": "community:https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/:2026-08-05T12:19"
-  },
-  {
-   "ts": "2026-08-05T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Stateless MCP has recaptured my interest",
-   "body": "Hacker News · 점수 237",
-   "link": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-   "source": "Hacker News",
-   "id": "community:https://simonwillison.net/2026/Jul/31/stateless-mcp/:2026-08-05T12:19"
-  },
-  {
-   "ts": "2026-08-05T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The moment when you start getting funny while writing fake r",
-   "body": "Lemmy · programming.dev · 점수 168",
-   "link": "https://lemmy.ml/pictrs/image/5e87bb92-3ff5-46bd-b8c2-0f52a37574b0.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.ml/pictrs/image/5e87bb92-3ff5-46bd-b8c2-0f52a37574b0.png:2026-08-05T12:19"
-  },
-  {
-   "ts": "2026-08-05T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tennessee Congressional Candidate Arrested for Shooting Floc",
-   "body": "Lemmy · technology · 점수 143",
-   "link": "https://www.gadgetreview.com/tennessee-congressional-candidate-arrested-for-shooting-flock-safety-cameras",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.gadgetreview.com/tennessee-congressional-candidate-arrested-for-shooting-flock-safety-cameras:2026-08-05T12:19"
-  },
-  {
-   "ts": "2026-08-05T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Security is Hard, Y’all",
-   "body": "Lobsters · 점수 93",
-   "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-   "source": "Lobsters",
-   "id": "community:https://textslashplain.com/2026/08/04/security-is-hard-yall/:2026-08-05T12:19"
   }
  ]
 }
