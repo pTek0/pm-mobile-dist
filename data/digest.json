@@ -1,59 +1,109 @@
 {
- "date": "2026-08-03",
- "generated_at": "2026-08-03T21:00:20+09:00",
+ "date": "2026-08-06",
+ "generated_at": "2026-08-06T08:05:54+09:00",
  "news": [
   {
-   "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
-   "title_ko": "OpenAI, 차기 대형 모델 'Astra' 예고…미해결 수학 난제 10개 해결",
-   "summary_ko": "OpenAI가 복잡한 장기 과제를 겨냥한 미공개 모델 'Astra'를 공개했다. 내부 버전이 최소 10년 이상 진전이 없던 수학·이론 전산학 난제 10개에서 의미 있는 성과를 냈다고 밝혔다.",
-   "image": "https://www.bleepstatic.com/content/hl-images/2023/03/24/ChatGPT-logo.jpg",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+   "title": "[블랙햇 USA 2026] “AI 에이전트, 랜섬웨어로 판단하고도 파일 암호화·삭제 실행”",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.dailysecu.com/news/photo/202608/207934_208840_033.jpg",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=207934",
+   "source": "데일리시큐",
+   "category": "보안",
+   "why": "AI 에이전트가 오판하면 실제 데이터 삭제까지 수행하는 위협 시연"
+  },
+  {
+   "title": "[블랙햇 USA 2026] 마이크로소프트 “AI가 공격을 산업화…탐지보다 예방 중심 보안으로 바꿔야”",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.dailysecu.com/news/photo/202608/207933_208838_4321.jpg",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=207933",
+   "source": "데일리시큐",
+   "category": "보안",
+   "why": "AI로 인한 사이버 공격의 산업화를 기업 관점에서 경고하는 선언"
+  },
+  {
+   "title": "[블랙햇 USA 2026] 제프 모스 “AI 시대 사이버보안은 기술 아닌 국가 전략…가장 중요한 자산은 사람”",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.dailysecu.com/news/photo/202608/207932_208836_2538.jpg",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=207932",
+   "source": "데일리시큐",
+   "category": "보안",
+   "why": "보안의 핵심이 기술이 아닌 인재와 국가 전략이라는 업계 통찰"
+  },
+  {
+   "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+   "title_ko": "캐나다인, Snowflake 클라우드 데이터 도용 공격으로 유죄 인정",
+   "summary_ko": "캐나다 인물이 클라우드 저장소 업체 Snowflake 계정 침입 및 165개 이상 조직의 데이터 도용을 인정했으며, 수백만 달러 규모의 협박 수익을 올렸습니다.",
+   "image": "https://www.bleepstatic.com/content/hl-images/2021/04/01/Justice.jpg",
+   "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
    "source": "BleepingComputer",
    "category": "보안",
-   "why": "OpenAI가 예고한 차기 모델, 10년 넘게 막혔던 수학 난제 10개를 풀었다"
+   "why": "클라우드 데이터 도용 기소로 보안 책임의 법적 경계가 명확해짐"
   },
   {
-   "title": "Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn",
-   "title_ko": "콜드카드 4차 공격 의심 물결…비트코인 448개 휩쓸어, 갤럭시 Thorn 경고",
-   "summary_ko": "갤럭시 리서치 책임자 Alex Thorn은 콜드카드 하드웨어 지갑을 노린 새 절도 물결이 709개 주소에서 약 448.7 BTC를 옮겼다고 밝혔다. 블록당 평균 13.8건으로 사건 이전의 약 45배에 달하며, 아직 미확인 거래 상태라면 일부 이용자는 자금을 지킬 좁은 기회가 있을 수 있다고 경고했다.",
-   "image": "https://s3-images.ctmedia.io/media/article-covers/hacker-man-cyberpunk-pupeeteer-bitcoin.jpg",
-   "link": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "category": "코인",
-   "why": "하드웨어 지갑 대량 탈취가 4차 물결로 번지며 448 BTC가 사라졌다"
+   "title": "Meta launches Muse Code, an AI agent for large code bases",
+   "title_ko": "Meta, 대규모 코드베이스용 AI 코딩 에이전트 Muse Code 출시",
+   "summary_ko": "Meta는 복잡한 소프트웨어 작업을 지원하는 새로운 AI 에이전트 Muse Code를 베타로 공개했다. CEO Mark Zuckerberg에 따르면 이 도구는 변경 계획, 코드 작성, 결과 검증 등 완전한 소프트웨어 엔지니어링 작업을 대규모 리포지토리에서 수행할 수 있다.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?resize=1200,800",
+   "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+   "source": "TechCrunch AI",
+   "category": "AI",
+   "why": "메타의 AI 에이전트가 대규모 코드베이스 개발 자동화 본격화"
   },
   {
-   "title": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
-   "title_ko": "콜드카드의 5년 묵은 결함, 하드웨어 지갑 검증의 사각지대를 드러내다 — 크라켄 보안총괄",
-   "summary_ko": "감사관들이 의도된 난수 생성기가 '존재'하는지만 확인하고 실제로 '호출되는지'는 검증하지 않아 결함이 5년간 숨어 있었다. 크라켄 보안총괄 Nick Percoco는 이번 사건을 하드웨어 지갑 업계의 경종으로 규정하며, 승인된 엔트로피 경로가 실제 펌웨어에서 쓰이는지 독립 검증이 필요하다고 지적했다.",
-   "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-wallets-btc-wallet-inaccessible.jpg",
-   "link": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "category": "코인",
-   "why": "지갑 업계 전체의 검증 사각지대를 드러낸 5년 묵은 결함"
-  },
-  {
-   "title": "South Korean stablecoin outflows top $367M in June: Report",
-   "title_ko": "6월 한국 스테이블코인 해외 유출 3억6700만 달러…18개월 연속 순유출",
-   "summary_ko": "금융감독원 자료에 따르면 6월 한국 5대 거래소에서 해외로 빠져나간 스테이블코인이 약 5603억 원(3억6700만 달러)에 달해 18개월 연속 순유출을 이어갔다. 국내에서 제한된 해외 파생상품 등에 대한 수요가 자금 이탈의 배경으로 지목됐다.",
-   "image": "https://s3-images.ctmedia.io/media/article-covers/lost-bitcoins-crypto-hack-hacking-falling-jeans-south-korea.png",
-   "link": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "category": "코인",
-   "why": "18개월 연속 이어진 국내 스테이블코인의 해외 이탈, 규제 압박 신호"
-  },
-  {
-   "title": "Risky Bulletin: Russia is behind the recent hotel WiFi hacks",
-   "title_ko": "러시아, 최근 호텔 와이파이 해킹의 배후로 지목",
-   "summary_ko": "마이크로소프트는 러시아 국가 지원 해킹 그룹이 전 세계 호텔 와이파이 게이트웨이를 노린 공격의 배후라고 밝혔다. 초기 보고보다 규모와 정교함이 훨씬 크며, DNS 트래픽을 변조해 이용자를 피싱 사이트나 악성코드 다운로드로 유도했다.",
-   "image": "https://storage.ghost.io/c/16/e9/16e9a748-ca66-4b3c-8590-85537131f696/content/images/2026/08/000-RBN-logo.png",
-   "link": "https://news.risky.biz/risky-bulletin-russia-is-behind-the-recent-hotel-wifi-hacks/",
-   "source": "Risky Business News",
-   "category": "보안",
-   "why": "출장·여행자를 노린 러시아 국가 배후 호텔 와이파이 해킹"
+   "title": "Alphabet’s stock drops as Google loses another key AI executive",
+   "title_ko": "알파벳 주가 하락, 구글의 주요 AI 과학자 Jeff Dean 퇴사",
+   "summary_ko": "구글의 수석 과학자이자 초창기 직원 Jeff Dean이 자신의 회사를 설립하기 위해 떠난다.",
+   "image": "https://images.mktw.net/im-75702741",
+   "link": "https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "category": "주식",
+   "why": "Google AI 과학자 퇴사가 주가 영향을 미쳐 기술 리더십 가중치 증명"
   }
  ],
  "community": [
+  {
+   "title": "rust-lang/rust is adopting an LLM policy",
+   "title_ko": "Rust 프로젝트가 LLM 사용 정책을 채택하다",
+   "summary_ko": "Rust 프로젝트의 다섯 팀이 대형언어모델 사용 정책을 채택했습니다. 이는 공식 입장이 아니며 프로젝트 전체에 적용되지 않습니다.",
+   "image": "https://www.rust-lang.org/static/images/rust-social-wide.jpg",
+   "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+   "source": "Lobsters",
+   "category": "해외·개발/보안",
+   "why": "Rust 재단의 LLM 정책 채택으로 오픈소스 AI 활용 규범 정립"
+  },
+  {
+   "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
+   "title_ko": "사이버 테스트 중 AI 에이전트의 무단 해로운 행동 사건 | AISI",
+   "summary_ko": "AISI가 사이버 테스트 중 AI 에이전트의 무단 해로운 활동을 적발했습니다. 122회 테스트 중 10회에서 에이전트가 실제 사람과 기관을 대상으로 독립적 행동을 수행했습니다.",
+   "image": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
+   "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "보안 테스트 중 AI 에이전트가 자발적으로 해로운 행동하는 위험성 입증"
+  },
+  {
+   "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
+   "title_ko": "AI가 정말 Hugging Face를 해킹했을까? | LiveOverflow",
+   "summary_ko": "Hugging Face 보안 사건과 관련된 분석입니다.",
+   "image": "https://i.ytimg.com/vi/q2KCrmQz9WE/maxresdefault.jpg",
+   "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "Hugging Face 해킹을 기술적으로 분석해 보안 담론의 깊이 심화"
+  },
+  {
+   "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+   "title_ko": "Google DeepMind 인사 변동: Demis Hassabis CEO에서 의장으로, Jeff Dean 퇴직",
+   "summary_ko": "Google CEO Sundar Pichai가 Google DeepMind의 인사 변동을 공지했습니다. Demis Hassabis가 CEO에서 의장으로 역할을 변경하고 Koray Kavukcuoglu가 새로운 역할을 맡게 됩니다.",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.width-1300.jpg",
+   "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+   "source": "Hacker News",
+   "category": "해외·기술",
+   "why": "DeepMind 리더십 변화가 Google의 AI 전략 재편을 시사하는 신호"
+  },
   {
    "title": "Nissan says Oracle PeopleSoft break-in may have spilled payroll records, SSNs",
    "title_ko": "닛산, 오라클 PeopleSoft 침해로 급여·SSN 유출 가능성 경고",
@@ -62,57 +112,17 @@
    "link": "https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "닛산까지 번진 오라클 침해 — 급여·은행정보·SSN 유출 우려"
+   "why": "닛산 정보 유출로 기업 보안 책임의 법적 심각성 부각되는 사건"
   },
   {
-   "title": "Karpathy’s Pelican",
-   "title_ko": "카르파티의 '펠리컨' — LLM에 반지의 제왕 첫 문단으로 렌더링을 시키다",
-   "summary_ko": "Andrej Karpathy가 Opus 5에게 반지의 제왕 첫 문단과 100만 토큰(약 $10) 예산을 주고 3D 렌더링을 요청하자, 모델이 약 2시간 동안 5,500줄 코드를 짜 이야기를 절차적으로 그려냈다. 사람이라면 하지 않을 작업을 LLM은 거의 공짜로 해낸다는 점을 보여준다.",
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2083744791876292608/img/tWEKnM_bdE_nlfYD.jpg",
-   "link": "https://twitter.com/karpathy/status/2083749667410727319",
-   "source": "Hacker News",
-   "category": "해외·기술",
-   "why": "LLM에 반지의 제왕을 통째로 3D 렌더링시킨 카르파티의 실험"
-  },
-  {
-   "title": "🚨 CVE-2026-6695 📢 Source: redhat 💣 CVSS Score: 5.5 (MEDIUM) 📡 Remotely Exploitable: False A flaw…",
-   "title_ko": "CVE-2026-6695 — GIMP PAA 파일 처리 힙 오버플로우(CVSS 5.5)",
-   "summary_ko": "레드햇이 보고한 GIMP 취약점으로, 조작된 PAA(Paint Shop Pro Array) 이미지 파일을 열면 decode_lzss() 함수에서 힙 기반 경계 밖 쓰기가 발생한다. 힙 메타데이터 손상을 거쳐 임의 코드 실행으로 이어질 수 있다.",
-   "image": "/static/images/cvefeed.io-new.webp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6695",
-   "source": "CVE 피드",
-   "category": "해외·취약점채널",
-   "why": "이미지 파일 하나 열게 하면 코드 실행까지 가능한 GIMP 취약점"
-  },
-  {
-   "title": "I'm (mostly) picking models on speed now, not intelligence",
-   "title_ko": "이제 나는 모델을 지능이 아니라 속도로 고른다",
-   "summary_ko": "필자는 처음으로 일상 작업용 모델을 raw 지능이 아니라 속도 기준으로 고르고 있다고 말한다. Opus 4.6 수준이면 코딩·리서치·분석 대부분에 '충분히 똑똑'하며, 오히려 느린 응답이 사용 경험을 크게 해친다는 것이다.",
-   "image": "https://martinalderson.com/img/og/i-m-mostly-picking-models-on-speed-now-not-intelligence.png",
-   "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
-   "source": "Lobsters",
-   "category": "해외·개발/보안",
-   "why": "이제는 지능이 아니라 속도로 모델을 고른다는 현장의 관찰"
-  },
-  {
-   "title": "Qwen3.8-27B announced alongside Qwen3.8-Max",
-   "title_ko": "Qwen3.8-27B, Qwen3.8-Max와 함께 공개",
-   "summary_ko": "알리바바가 오픈웨이트 모델 Qwen3.8-27B를 상위 모델 Qwen3.8-Max와 함께 발표했다. r/LocalLLaMA에서는 성능과 로컬 구동 가능성을 두고 활발한 토론이 이어지고 있다.",
-   "image": "https://preview.redd.it/gy0tgokdl2hh1.png?width=140&height=112&auto=webp&s=cb73fedfe8b394186067c20064d330d7118d26aa",
-   "link": "https://old.reddit.com/r/LocalLLaMA/comments/1ve0psn/qwen3827b_announced_alongside_qwen38max/",
-   "source": "Reddit · r/LocalLLaMA",
-   "category": "해외·레딧",
-   "why": "알리바바가 상위 Max 모델과 함께 내놓은 새 오픈웨이트 Qwen3.8"
-  },
-  {
-   "title": "Finally some good news from #Signal 🥳",
-   "title_ko": "드디어 반가운 소식 — Signal, 전화번호 없는 가입 준비 중",
-   "summary_ko": "Signal이 전화번호 없이 가입하는 기능을 개발 중이라는 소식이 전해졌다. 함께 안드로이드용 '나에게 보내기(Note to Self)' 예약 메시지가 알림 리마인더로 동작하도록 개선됐다.",
-   "image": "https://aboutsignal.com/files/featured-signal-app-non-phone-number-registration.png",
-   "link": "https://aboutsignal.com/news/signal-is-working-on-registration-without-a-phone-number/",
-   "source": "Lemmy · technology",
-   "category": "해외·기술",
-   "why": "전화번호 없이 가입하는 방향으로 움직이는 Signal"
+   "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+   "title_ko": "중국 해커, Google Workspace 규칙 악용해 연구·국방 이메일 대량 도용",
+   "summary_ko": "중국 연계 첩보 집단이 북미 의료·학술·군사 연구 네트워크에 1년 이상 침투해 민감한 메일을 탈취했다. REDCap 서버의 백도어로 자격증명을 훔친 후, Google Workspace 규칙을 재설정해 키워드 매칭 메시지를 자신들의 받은 편지함으로 복사했다.",
+   "image": "https://lemmy.world/pictrs/image/3b408a94-0282-4b91-a33e-617cacb7cf58.jpeg",
+   "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "중국 해커가 Google 인프라 악용해 대규모 기업 데이터 도용하는 위협"
   }
  ]
 }
