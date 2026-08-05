@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-05T07:49:08+00:00",
- "count": 14,
+ "generated_at": "2026-08-05T08:19:08+00:00",
+ "count": 16,
  "items": [
+  {
+   "ts": "2026-08-05T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59675 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-59675 📢 Source: suse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True When API audit logging is enabled, the middleware reads the entire HTTP request body into memo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59675",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59675:2026-08-05T08:19"
+  },
+  {
+   "ts": "2026-08-05T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-55997 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-55997 📢 Source: suse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Rancher issues long-lived registration tokens to authenticate nodes and agents joining a down",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-55997",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-55997:2026-08-05T08:19"
+  },
   {
    "ts": "2026-08-05T05:49:07+00:00",
    "level": "general",
