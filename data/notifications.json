@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-05T22:19:08+00:00",
+ "generated_at": "2026-08-05T22:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-05T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19024 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-19024 📢 Source: HDFG 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False NULL pointer dereference in H5Pget_fill_value in HDF5 before 2.1.1 allows attackers to cause ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19024",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19024:2026-08-05T22:49"
+  },
   {
    "ts": "2026-08-05T20:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
    "source": "Lobsters",
    "id": "community:https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/:2026-08-05T12:49"
-  },
-  {
-   "ts": "2026-08-05T12:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Lua community needs to learn to move on",
-   "body": "Lobsters · 점수 80",
-   "link": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
-   "source": "Lobsters",
-   "id": "community:https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/:2026-08-05T12:49"
   }
  ]
 }
