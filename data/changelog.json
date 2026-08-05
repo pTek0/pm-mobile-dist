@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-04T21:36:38+09:00",
- "count": 3,
+ "generated_at": "2026-08-05T14:22:01+09:00",
+ "count": 4,
  "entries": [
+  {
+   "version": "0.16.0",
+   "date": "2026-08-05",
+   "highlight": "AI 사용량·크레딧 탭 신설.",
+   "added": [
+    "AI 탭 — Claude·Ollama Cloud·Burp AI 의 사용량/크레딧 원장을 한 화면에서 확인 (프로바이더별 카드: 이달 비용 추정·구독 활용배율·이달 토큰·GLM 호출수·잔여 크레딧, stale/미입력 정직 표기)"
+   ],
+   "fixed": [],
+   "changed": []
+  },
   {
    "version": "0.15.0",
    "date": "2026-08-04",
