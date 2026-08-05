@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-05T04:49:08+00:00",
- "count": 8,
+ "generated_at": "2026-08-05T05:19:09+00:00",
+ "count": 10,
  "items": [
+  {
+   "ts": "2026-08-05T05:19:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: auto-invest",
+   "body": "**3단위 체제 가동**(주식/코인×장기·중단기·초공격) — 리뷰 전체 병합, 배당적립·종합판단·초단타 **상주 데몬** 신설, **내부 PM 보드**([PM.md](auto-invest/PM.md)) 매일 자동 생",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: auto-invest:2026-08-05T05:19"
+  },
+  {
+   "ts": "2026-08-05T05:19:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: control-plane",
+   "body": "**설계 + 1~2단계 구현·검증** — ✅registry.json 단일화(수집기 3종 폴백 리팩터, 무중단) ✅providers.json 원장(Claude 측정+Ollama 로그 실측+Burp 수동)+pm-web ",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: control-plane:2026-08-05T05:19"
+  },
   {
    "ts": "2026-08-05T04:49:07+00:00",
    "level": "general",
