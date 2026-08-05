@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-05T19:19:08+00:00",
+ "generated_at": "2026-08-05T19:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-05T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-70615 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-70615 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True boringproxy through 0.10.0 contains a newline injection vulnerability that allows aut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70615",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70615:2026-08-05T19:49"
+  },
+  {
+   "ts": "2026-08-05T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-69111 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-69111 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Milvus through 2.6.22 and 3.0.0 contains an unauthenticated denial of service vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69111",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69111:2026-08-05T19:49"
+  },
+  {
+   "ts": "2026-08-05T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18953 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-18953 📢 Source: AMZN 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Improper limitation of a pathname to a restricted directory in the get_resource tool in Amazo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18953",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18953:2026-08-05T19:49"
+  },
   {
    "ts": "2026-08-05T19:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
    "source": "Lobsters",
    "id": "community:https://textslashplain.com/2026/08/04/security-is-hard-yall/:2026-08-05T12:19"
-  },
-  {
-   "ts": "2026-08-05T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] There Will Come Soft Rains (1950) [pdf]",
-   "body": "Hacker News · 점수 390",
-   "link": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-   "source": "Hacker News",
-   "id": "community:https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf:2026-08-05T11:49"
-  },
-  {
-   "ts": "2026-08-05T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Pi's Minimalism Is Its Advantage",
-   "body": "Hacker News · 점수 385",
-   "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-   "source": "Hacker News",
-   "id": "community:https://earendil.com/posts/pi-autoresearch-and-databricks/:2026-08-05T11:49"
-  },
-  {
-   "ts": "2026-08-05T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft never learns, IT admins rage as a new OneDrive app",
-   "body": "Lemmy · technology · 점수 300",
-   "link": "https://www.windowslatest.com/2026/08/04/microsoft-never-learns-it-admins-rage-as-a-new-onedrive-app-invades-windows-11-and-keeps-coming-back-when-you-remove-it/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.windowslatest.com/2026/08/04/microsoft-never-learns-it-admins-rage-as-a-new-onedrive-app-invades-windows-11-and-keeps-coming-back-when-you-remove-it/:2026-08-05T11:49"
   }
  ]
 }
