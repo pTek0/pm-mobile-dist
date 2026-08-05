@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-05T22:49:08+00:00",
+ "generated_at": "2026-08-05T23:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-05T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Discovery Loop",
+   "body": "Hacker News · 점수 502",
+   "link": "https://www.discoveryloop.com/",
+   "source": "Hacker News",
+   "id": "community:https://www.discoveryloop.com/:2026-08-05T23:19"
+  },
+  {
+   "ts": "2026-08-05T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Cloudflare OS: an open platform for agents, apps, and work",
+   "body": "Hacker News · 점수 429",
+   "link": "https://blog.cloudflare.com/cloudflare-os/",
+   "source": "Hacker News",
+   "id": "community:https://blog.cloudflare.com/cloudflare-os/:2026-08-05T23:19"
+  },
+  {
+   "ts": "2026-08-05T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Changes at Google DeepMind: Demis Hassabis from CEO to Chair",
+   "body": "Hacker News · 점수 378",
+   "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+   "source": "Hacker News",
+   "id": "community:https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/:2026-08-05T23:19"
+  },
+  {
+   "ts": "2026-08-05T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Cory Doctorow: The people who tell you ‘AI is changing every",
+   "body": "Lemmy · technology · 점수 346",
+   "link": "https://www.thenerve.news/p/cory-doctorow-ai-business-incentive-to-lie-useless-chatbots-report-nikhil-suresh",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.thenerve.news/p/cory-doctorow-ai-business-incentive-to-lie-useless-chatbots-report-nikhil-suresh:2026-08-05T23:19"
+  },
+  {
+   "ts": "2026-08-05T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Zed DeltaDB",
+   "body": "Hacker News · 점수 241",
+   "link": "https://zed.dev/deltadb",
+   "source": "Hacker News",
+   "id": "community:https://zed.dev/deltadb:2026-08-05T23:19"
+  },
   {
    "ts": "2026-08-05T22:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-12410",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12410:2026-08-05T14:49"
-  },
-  {
-   "ts": "2026-08-05T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-67623 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-67623 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Mistral Vibe before 2.23.3 contains a remote code execution vulnerability that allows att",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67623",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67623:2026-08-05T13:49"
-  },
-  {
-   "ts": "2026-08-05T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16443 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-16443 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the SAML metadata import functionality of the keycloak-services componen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16443",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16443:2026-08-05T13:49"
-  },
-  {
-   "ts": "2026-08-05T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71226 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-71226 📢 Source: redhat 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Memory Corruption via Uncanceled AIO Requests on Error: libkcapi's one-shot AIO path can re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71226",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71226:2026-08-05T13:19"
-  },
-  {
-   "ts": "2026-08-05T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16022 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-16022 📢 Source: NCSC.ch 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False @oblique /cli 15.4.0 contains an OS command injection vulnerability in the project creatio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16022",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16022:2026-08-05T12:49"
-  },
-  {
-   "ts": "2026-08-05T12:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Enabling the next iteration of the borrow checker on nightly",
-   "body": "Lobsters · 점수 86",
-   "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
-   "source": "Lobsters",
-   "id": "community:https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/:2026-08-05T12:49"
   }
  ]
 }
