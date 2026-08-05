@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-05T14:19:08+00:00",
+ "generated_at": "2026-08-05T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-05T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16102 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-16102 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the Dynamic Client Registration (DCR) component of Keycloak, an identity",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16102",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16102:2026-08-05T14:49"
+  },
+  {
+   "ts": "2026-08-05T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15573 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-15573 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Keycloak's Authorization Services. The component responsible for matchin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15573",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15573:2026-08-05T14:49"
+  },
+  {
+   "ts": "2026-08-05T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12410 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-12410 📢 Source: GEN 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Link following vulnerability in the Uninstaller component in CCleaner prior to 7.10.1464 on Wi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12410",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12410:2026-08-05T14:49"
+  },
   {
    "ts": "2026-08-05T13:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://www.phoronix.com/news/Steam-On-Linux-July-2026",
    "source": "Lemmy · technology",
    "id": "community:https://www.phoronix.com/news/Steam-On-Linux-July-2026:2026-08-05T02:19"
-  },
-  {
-   "ts": "2026-08-05T02:19:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: auto-invest",
-   "body": "무인 가동 + **야간 코드리뷰 5라운드 완료**(P0 1건·P1 8건 등 수정, 테스트 311→455)",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: auto-invest:2026-08-05T02:19"
-  },
-  {
-   "ts": "2026-08-05T02:19:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-mobile",
-   "body": "**v0.15.0 발행** — **패치노트 화면**(설정, dist changelog.json 읽음) + **뉴스·커뮤니티 공유 버튼**(share_plus). v0.14: 학습도구 6종·가이드 버그 4건·토큰 프로",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-mobile:2026-08-05T02:19"
-  },
-  {
-   "ts": "2026-08-05T02:19:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: glm-aider-lab",
-   "body": "**✅ 연동 검증 완료** — GLM 5.2 `PONG`/aider `AIDER_READY` 확인, BASE=`ollama.com/v1`(api. 아님), `.aider.conf.yml`·격리 git 저장소",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: glm-aider-lab:2026-08-05T02:19"
   }
  ]
 }
