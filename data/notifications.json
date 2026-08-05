@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-05T16:49:08+00:00",
+ "generated_at": "2026-08-05T17:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-05T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17630 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-17630 📢 Source: ibm 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 could allow a remote attacker to execute arbitrary code d",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17630",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17630:2026-08-05T17:19"
+  },
+  {
+   "ts": "2026-08-05T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17626 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-17626 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 Langflow could allow an authenticated attacker to read, m",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17626",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17626:2026-08-05T17:19"
+  },
+  {
+   "ts": "2026-08-05T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17623 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-17623 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 could allow a remote authenticated attacker to execute ar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17623",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17623:2026-08-05T17:19"
+  },
+  {
+   "ts": "2026-08-05T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17617 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-17617 📢 Source: ibm 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True IBM Application Gateway Operator 22.2 through 26.06 is vulnerable to Server-Side Request Forger",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17617",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17617:2026-08-05T17:19"
+  },
   {
    "ts": "2026-08-05T16:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-10059",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10059:2026-08-05T09:19"
-  },
-  {
-   "ts": "2026-08-05T08:49:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: cloud-eng-course",
-   "body": "**리서치·설계 완료** — 벤더 4종 병렬 리서치(Fable5) 종합 → [설계문서](docs/cloud-eng-course-design.md)(분리방식·스택적재·보안연계·커리큘럼) + 스캐폴드 전개(단일 프로젝트",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: cloud-eng-course:2026-08-05T08:49"
-  },
-  {
-   "ts": "2026-08-05T08:49:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: ollama",
-   "body": "**허브 등록** — 갓 시드된 OpenClaw 워크스페이스(기본 템플릿, 2026-08-05 부트스트랩). glm-aider-lab의 OpenClaw 컨테인먼트와 짝. **방향·뼈대만**(공격기법·페이로드 미생성)",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: ollama:2026-08-05T08:49"
-  },
-  {
-   "ts": "2026-08-05T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59675 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-59675 📢 Source: suse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True When API audit logging is enabled, the middleware reads the entire HTTP request body into memo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59675",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59675:2026-08-05T08:19"
-  },
-  {
-   "ts": "2026-08-05T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-55997 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-55997 📢 Source: suse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Rancher issues long-lived registration tokens to authenticate nodes and agents joining a down",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-55997",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-55997:2026-08-05T08:19"
   }
  ]
 }
