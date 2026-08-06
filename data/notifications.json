@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-06T08:49:09+00:00",
+ "generated_at": "2026-08-06T09:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-06T09:19:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-desktop",
+   "body": "**Phase 2/3 완료** — 프로젝트/호스트 탭 워크스페이스 병합 · 호스트/프로세스(docker·openclaw)/클라우드 헬스체크(호버·우클릭) · 프로그램관리(레지스트리 언인스톨 + 뱅킹 블로트웨어 큐레이",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-desktop:2026-08-06T09:19"
+  },
+  {
+   "ts": "2026-08-06T09:19:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: glm-aider-lab",
+   "body": "**✅ Docker 컨테이너 격리 검증** — GLM 5.2 컨테이너가 auto-invest 등 호스트 자원 접근 못하는 전벡터 차단 실측 확인. identity/SOUL/AGENTS+Error Book 적용, 리서",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: glm-aider-lab:2026-08-06T09:19"
+  },
   {
    "ts": "2026-08-06T08:19:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-9201",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9201:2026-08-05T19:19"
-  },
-  {
-   "ts": "2026-08-05T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-9196 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-9196 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 could allow an authenticated attacker to execute unintende",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9196",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9196:2026-08-05T19:19"
-  },
-  {
-   "ts": "2026-08-05T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-8182 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-8182 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 installations allow anyone on the internet to execute arbi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8182",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8182:2026-08-05T19:19"
   }
  ]
 }
