@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-06T09:49:09+00:00",
+ "generated_at": "2026-08-06T10:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-06T10:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-55978 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-55978 📢 Source: CSA 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False An improper access control vulnerability in CatchPulse could allow a non-administrative local ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-55978",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-55978:2026-08-06T10:19"
+  },
+  {
+   "ts": "2026-08-06T10:19:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: hack-pm",
+   "body": "**v0.1.0 발행** — 프로젝트(해킹 5종)/학습 도구/학습 가이드/보안 알림 4탭. 새 서명키 + CI 재서명 + 인앱 업데이트",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: hack-pm:2026-08-06T10:19"
+  },
   {
    "ts": "2026-08-06T09:49:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-17556",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17556:2026-08-05T20:19"
-  },
-  {
-   "ts": "2026-08-05T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-70615 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-70615 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True boringproxy through 0.10.0 contains a newline injection vulnerability that allows aut",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70615",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70615:2026-08-05T19:49"
-  },
-  {
-   "ts": "2026-08-05T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-69111 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-69111 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Milvus through 2.6.22 and 3.0.0 contains an unauthenticated denial of service vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69111",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69111:2026-08-05T19:49"
   }
  ]
 }
