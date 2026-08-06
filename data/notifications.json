@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-06T02:19:08+00:00",
+ "generated_at": "2026-08-06T02:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-06T02:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-desktop",
+   "body": "**v0.2 — 네이티브 채팅·트리·멀티호스트** — 세션 UX를 터미널→**네이티브 채팅 UI**로 전환(`claude -p --output-format stream-json` 헤드리스 구동, 말풍선·도구카드·스트",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-desktop:2026-08-06T02:49"
+  },
   {
    "ts": "2026-08-06T02:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-10716",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10716:2026-08-05T17:49"
-  },
-  {
-   "ts": "2026-08-05T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17630 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-17630 📢 Source: ibm 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 could allow a remote attacker to execute arbitrary code d",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17630",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17630:2026-08-05T17:19"
   }
  ]
 }
