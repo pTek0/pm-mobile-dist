@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-06T06:19:09+00:00",
+ "generated_at": "2026-08-06T06:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-06T06:49:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-desktop",
+   "body": "**v0.9 — 목업형 조직도 다이어그램 + 우클릭 메뉴** ①**위→아래 조직도**(HOST 배경 프레임 → 👑총괄 PM → 🔓해킹/💹투자 PM → 프로젝트 → 세션 → 서브에이전트, 버스형 화살표 링크). Bro",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-desktop:2026-08-06T06:49"
+  },
   {
    "ts": "2026-08-06T05:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-9130",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9130:2026-08-05T18:49"
-  },
-  {
-   "ts": "2026-08-05T18:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-8478 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-8478 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 could allow a remote attacker to inject arbitrary code on ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8478",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8478:2026-08-05T18:49"
   }
  ]
 }
