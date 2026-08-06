@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-08-05T23:49:09+00:00",
+ "generated_at": "2026-08-06T00:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-06T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+   "body": "Hacker News · 점수 133",
+   "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+   "source": "Hacker News",
+   "id": "community:https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data:2026-08-06T00:19"
+  },
+  {
+   "ts": "2026-08-06T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] EA is now officially owned by Saudi Arabia's Public Investme",
+   "body": "Lemmy · technology · 점수 131",
+   "link": "https://www.polygon.com/ea-owned-saudi-arabia-public-investment-fund-private-equity/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.polygon.com/ea-owned-saudi-arabia-public-investment-fund-private-equity/:2026-08-06T00:19"
+  },
+  {
+   "ts": "2026-08-06T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I'm switching my phone from Android to Linux",
+   "body": "Hacker News · 점수 131",
+   "link": "https://runarcn.no/android-to-linux/",
+   "source": "Hacker News",
+   "id": "community:https://runarcn.no/android-to-linux/:2026-08-06T00:19"
+  },
+  {
+   "ts": "2026-08-06T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] rust-lang/rust is adopting an LLM policy",
+   "body": "Lobsters · 점수 125",
+   "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+   "source": "Lobsters",
+   "id": "community:https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/:2026-08-06T00:19"
+  },
+  {
+   "ts": "2026-08-06T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Born Against, or why hobby programming communities are aggre",
+   "body": "Lobsters · 점수 72",
+   "link": "https://blog.fogus.me/llm/born-against.html",
+   "source": "Lobsters",
+   "id": "community:https://blog.fogus.me/llm/born-against.html:2026-08-06T00:19"
+  },
+  {
+   "ts": "2026-08-06T00:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-mobile",
+   "body": "**v0.17.0 — 순수 PM화 완료**: 학습 탭·학습 도구 6종·학습 가이드를 자매 앱 hack-pm 으로 이관하고 제거. 목록은 **domain=pm 만**(투자 자동화·PM 앱·중앙 관제), 탭 = 홈/AI",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-mobile:2026-08-06T00:19"
+  },
+  {
+   "ts": "2026-08-06T00:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "새 프로젝트: hack-pm",
+   "body": "**v0.1.0 발행** — 프로젝트(해킹 7종)/학습 도구/학습 가이드/보안 알림 4탭. 새 서명키 + CI 재서명 + 인앱 업데이트",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:새 프로젝트: hack-pm:2026-08-06T00:19"
+  },
   {
    "ts": "2026-08-05T23:49:08+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-8400",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8400:2026-08-05T16:19"
-  },
-  {
-   "ts": "2026-08-05T16:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-7557 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-7557 📢 Source: ProgressSoftware 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True An improper verification of cryptographic signature vulnerability in the SAML a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7557",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7557:2026-08-05T16:19"
-  },
-  {
-   "ts": "2026-08-05T16:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-7329 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-7329 📢 Source: ProgressSoftware 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True An improper privilege management vulnerability in the SQL, SPARQL, and Optic RE",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7329",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7329:2026-08-05T16:19"
-  },
-  {
-   "ts": "2026-08-05T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-7327 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-7327 📢 Source: ProgressSoftware 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True An improper privilege management vulnerability in the REST API document processing ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7327",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7327:2026-08-05T16:19"
-  },
-  {
-   "ts": "2026-08-05T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-7326 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-7326 📢 Source: ProgressSoftware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A cross-site request forgery vulnerability in the Admin UI of Progress MarkLogic Se",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7326",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7326:2026-08-05T16:19"
-  },
-  {
-   "ts": "2026-08-05T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-10025 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-10025 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM QRadar 7.6.0.0 through 7.6.0.1 , and 7.5.0 through 7.5.0 UP 15 Interim Fix 005 has an XML E",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10025",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10025:2026-08-05T16:19"
-  },
-  {
-   "ts": "2026-08-05T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-39924 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-39924 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Flarum before 1.8.16 contains an improper session invalidation vulnerability that allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-39924",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-39924:2026-08-05T15:49"
-  },
-  {
-   "ts": "2026-08-05T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-39923 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-39923 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Flarum before 1.8.16 contains a password reset token expiry bypass vulnerability that",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-39923",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-39923:2026-08-05T15:49"
   }
  ]
 }
