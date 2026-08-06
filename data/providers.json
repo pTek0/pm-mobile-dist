@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T15:56:01+09:00",
+  "generated_at": "2026-08-06T16:36:01+09:00",
   "tz": "Asia/Seoul",
   "providers": [
     {
@@ -10,20 +10,20 @@
       "balance": null,
       "usage_window": {
         "basis": "month",
-        "value_ratio": 47.54
+        "value_ratio": 48.21
       },
       "cost": {
         "period": "month",
-        "usd": 4754.5,
-        "krw": 6656300,
+        "usd": 4821.45,
+        "krw": 6750030,
         "estimate": true
       },
       "tokens": {
-        "month_total": 4006881545,
-        "month_output": 17008199
+        "month_total": 4075429141,
+        "month_output": 17945403
       },
       "source": "metrics.json",
-      "updated_at": "2026-08-06T06:54:00.3692154Z",
+      "updated_at": "2026-08-06T07:34:01.5276775Z",
       "stale": false
     },
     {
@@ -39,8 +39,8 @@
       },
       "usage_window": {
         "basis": "log",
-        "calls": 1,
-        "log_file": "openclaw-2026-08-06.log"
+        "calls": null,
+        "log_file": null
       },
       "cost": {
         "period": "month",
@@ -50,12 +50,12 @@
       "models": [
         {
           "id": "glm-5.2",
-          "calls": 1
+          "calls": null
         }
       ],
       "source": "openclaw-local-log+manual",
-      "updated_at": "2026-08-06T15:56:01+09:00",
-      "stale": false,
+      "updated_at": "2026-08-06T16:36:01+09:00",
+      "stale": true,
       "note": "Ollama Cloud 계정(ollama.com/cloud)의 잔여 사용량/크레딧을 여기 적으면 대시보드에 표시됨. 요금제 Free/$20/$100."
     },
     {
@@ -75,13 +75,13 @@
         "estimate": true
       },
       "source": "manual",
-      "updated_at": "2026-08-06T15:56:01+09:00",
+      "updated_at": "2026-08-06T16:36:01+09:00",
       "stale": false,
       "note": "PortSwigger Burp AI 크레딧 잔액을 여기 적는다."
     }
   ],
   "totals": {
-    "month_cost_usd_estimate": 4754.5
+    "month_cost_usd_estimate": 4821.45
   },
   "note": "AI 프로바이더 통합 사용량·크레딧 원장. Claude=측정, Ollama 호출수=측정/크레딧=수동, Burp=수동."
 }
