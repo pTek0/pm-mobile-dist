@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-06T04:49:08+00:00",
+ "generated_at": "2026-08-06T05:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-06T05:19:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-desktop",
+   "body": "**v0.6 — 접힌 PM 런처 · 서브에이전트 실시간 · 통합 다이어그램** ①대시보드 PM = **입력칸만**(대화 시작 시 확장, 로드 시 프로세스 미스폰) ②채팅에 **서브에이전트 실행 실시간 표시**(`--",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-desktop:2026-08-06T05:19"
+  },
   {
    "ts": "2026-08-06T04:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-8470",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8470:2026-08-05T18:49"
-  },
-  {
-   "ts": "2026-08-05T18:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-8183 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-8183 📢 Source: ibm 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3, 1.0.0 through 1.10.3, 1.0.0 through 1.10.3, 1.0.0 through",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8183",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8183:2026-08-05T18:49"
   }
  ]
 }
