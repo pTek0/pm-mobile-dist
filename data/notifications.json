@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-06T13:49:07+00:00",
+ "generated_at": "2026-08-06T14:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-06T14:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-5134 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-5134 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-5134",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-5134:2026-08-06T14:19"
+  },
+  {
+   "ts": "2026-08-06T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16731 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-16731 📢 Source: OMICRON 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True OMICRON StationScout before version 3.05 contains a cryptographic timing side-channel vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16731",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16731:2026-08-06T14:19"
+  },
+  {
+   "ts": "2026-08-06T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16315 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-16315 📢 Source: OMICRON 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True OMICRON StationGuard before version 4.10 contains a cryptographic timing side-channel vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16315",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16315:2026-08-06T14:19"
+  },
+  {
+   "ts": "2026-08-06T14:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-12605 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-12605 📢 Source: eclipse 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True In Eclipse GlassFish versions 8.0.x before 8.0.4, CSRF + SSRF in DownloadServlet Conten",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12605",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12605:2026-08-06T14:19"
+  },
   {
    "ts": "2026-08-06T13:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
    "source": "Hacker News",
    "id": "community:https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/:2026-08-05T23:49"
-  },
-  {
-   "ts": "2026-08-05T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Valley of Webhooks",
-   "body": "Hacker News · 점수 136",
-   "link": "https://weli.dev/blog/the-valley-of-webhooks/",
-   "source": "Hacker News",
-   "id": "community:https://weli.dev/blog/the-valley-of-webhooks/:2026-08-05T23:49"
-  },
-  {
-   "ts": "2026-08-05T23:49:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-mobile",
-   "body": "**v0.16.0 발행** — **\"AI\" 탭 신설**(dist providers.json → 프로바이더별 사용량·크레딧 카드). **[예정] 학습탭 제거 → 순수 PM화**",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-mobile:2026-08-05T23:49"
-  },
-  {
-   "ts": "2026-08-05T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Discovery Loop",
-   "body": "Hacker News · 점수 502",
-   "link": "https://www.discoveryloop.com/",
-   "source": "Hacker News",
-   "id": "community:https://www.discoveryloop.com/:2026-08-05T23:19"
-  },
-  {
-   "ts": "2026-08-05T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Cloudflare OS: an open platform for agents, apps, and work",
-   "body": "Hacker News · 점수 429",
-   "link": "https://blog.cloudflare.com/cloudflare-os/",
-   "source": "Hacker News",
-   "id": "community:https://blog.cloudflare.com/cloudflare-os/:2026-08-05T23:19"
   }
  ]
 }
