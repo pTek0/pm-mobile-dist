@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-06T12:49:07+00:00",
+ "generated_at": "2026-08-06T13:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-06T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66733 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-66733 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Sonic 3 A.I.R. before commit 2492d18 contains an unbounded memory allocation vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66733",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66733:2026-08-06T13:19"
+  },
+  {
+   "ts": "2026-08-06T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66732 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-66732 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Sonic 3 A.I.R. before commit 2492d18 contains a missing source address validation vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66732",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66732:2026-08-06T13:19"
+  },
+  {
+   "ts": "2026-08-06T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65551 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-65551 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Soflyy Breakdance allows Exploiting Incorrectly C",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65551",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65551:2026-08-06T13:19"
+  },
   {
    "ts": "2026-08-06T11:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://blog.cloudflare.com/cloudflare-os/",
    "source": "Hacker News",
    "id": "community:https://blog.cloudflare.com/cloudflare-os/:2026-08-05T23:19"
-  },
-  {
-   "ts": "2026-08-05T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Changes at Google DeepMind: Demis Hassabis from CEO to Chair",
-   "body": "Hacker News · 점수 378",
-   "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-   "source": "Hacker News",
-   "id": "community:https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/:2026-08-05T23:19"
-  },
-  {
-   "ts": "2026-08-05T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Cory Doctorow: The people who tell you ‘AI is changing every",
-   "body": "Lemmy · technology · 점수 346",
-   "link": "https://www.thenerve.news/p/cory-doctorow-ai-business-incentive-to-lie-useless-chatbots-report-nikhil-suresh",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.thenerve.news/p/cory-doctorow-ai-business-incentive-to-lie-useless-chatbots-report-nikhil-suresh:2026-08-05T23:19"
-  },
-  {
-   "ts": "2026-08-05T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Zed DeltaDB",
-   "body": "Hacker News · 점수 241",
-   "link": "https://zed.dev/deltadb",
-   "source": "Hacker News",
-   "id": "community:https://zed.dev/deltadb:2026-08-05T23:19"
   }
  ]
 }
