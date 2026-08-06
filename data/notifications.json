@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-06T22:49:08+00:00",
+ "generated_at": "2026-08-06T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-06T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Mario Meets Pareto",
+   "body": "Hacker News · 점수 822",
+   "link": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+   "source": "Hacker News",
+   "id": "community:https://www.mayerowitz.io/blog/mario-meets-pareto:2026-08-06T23:19"
+  },
+  {
+   "ts": "2026-08-06T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Crime Pays but Botany Doesn't",
+   "body": "Hacker News · 점수 630",
+   "link": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+   "source": "Hacker News",
+   "id": "community:https://www.crimepaysbutbotanydoesnt.com/reading-list:2026-08-06T23:19"
+  },
+  {
+   "ts": "2026-08-06T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] How to Make a Nintendo 64 Game in 2026",
+   "body": "Hacker News · 점수 446",
+   "link": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+   "source": "Hacker News",
+   "id": "community:https://phoboslab.org/log/2026/08/xibalba64-making-of:2026-08-06T23:19"
+  },
+  {
+   "ts": "2026-08-06T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Qwen3.8 Max now ranked as the best overall model by agentic ",
+   "body": "Hacker News · 점수 375",
+   "link": "https://artificialanalysis.ai/?intelligence=agentic-index",
+   "source": "Hacker News",
+   "id": "community:https://artificialanalysis.ai/?intelligence=agentic-index:2026-08-06T23:19"
+  },
+  {
+   "ts": "2026-08-06T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nah it wasn't him. He was with me  studying about Jesus.",
+   "body": "Lemmy · programming.dev · 점수 327",
+   "link": "https://discuss.online/pictrs/image/0475a3ce-462a-4041-b652-7e7b632e4907.jpeg",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://discuss.online/pictrs/image/0475a3ce-462a-4041-b652-7e7b632e4907.jpeg:2026-08-06T23:19"
+  },
   {
    "ts": "2026-08-06T22:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: glm-aider-lab:2026-08-06T09:19"
-  },
-  {
-   "ts": "2026-08-06T08:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-5430 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-5430 📢 Source: WSO2 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True The JWT authentication mechanism accepts tokens signed with algorithms other than those expl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-5430",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-5430:2026-08-06T08:19"
-  },
-  {
-   "ts": "2026-08-06T08:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-1728 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-1728 📢 Source: WSO2 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Tokens issued to a low-privileged user are not sufficiently restricted, allowing them to be",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-1728",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-1728:2026-08-06T08:19"
-  },
-  {
-   "ts": "2026-08-06T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18597 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-18597 📢 Source: Foxit 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True The PDF creation feature of Foxit PDF Services API supports referencing external files. Altho",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18597",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18597:2026-08-06T08:19"
-  },
-  {
-   "ts": "2026-08-06T08:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2025-15039 (CVSS 9.4)",
-   "body": "🚨 CVE-2025-15039 📢 Source: WSO2 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True The Conditional Authentication (Adaptive Authentication) script does not correctly enforce",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-15039",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-15039:2026-08-06T08:19"
-  },
-  {
-   "ts": "2026-08-06T07:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18649 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-18649 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the GStreamer gst-plugins-good package. The rtph264depay and rtph265depa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18649",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18649:2026-08-06T07:49"
   }
  ]
 }
