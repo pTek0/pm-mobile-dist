@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-06T14:19:10+00:00",
+ "generated_at": "2026-08-06T14:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-06T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70637 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-70637 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True LightFTP through 2.4 contains multiple data race vulnerabilities in ftpserv.c that allow ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70637",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70637:2026-08-06T14:49"
+  },
+  {
+   "ts": "2026-08-06T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-67261 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-67261 📢 Source: dell 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Dell Virtual Storage Integrator for VMware vSphere Client, versions prior to 10.11.1.0 , c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67261",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67261:2026-08-06T14:49"
+  },
+  {
+   "ts": "2026-08-06T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65554 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-65554 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Subscriber Broken Access Control in AnsPress – Question and answer 4.4.4 versions. 📅 Pub",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65554",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65554:2026-08-06T14:49"
+  },
+  {
+   "ts": "2026-08-06T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-54489 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-54489 📢 Source: dell 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Dell Virtual Storage Integrator for VMware vSphere Client, versions prior to 10.11.1.0 , c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54489",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54489:2026-08-06T14:49"
+  },
+  {
+   "ts": "2026-08-06T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-53976 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-53976 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True OpenChamber 1.11.7 contains a path traversal vulnerability in the file-serving endpoi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53976",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53976:2026-08-06T14:49"
+  },
+  {
+   "ts": "2026-08-06T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-53975 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-53975 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True OpenChamber 1.11.7 contains an unauthenticated remote code execution vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53975",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53975:2026-08-06T14:49"
+  },
   {
    "ts": "2026-08-06T14:19:06+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://blog.fogus.me/llm/born-against.html",
    "source": "Lobsters",
    "id": "community:https://blog.fogus.me/llm/born-against.html:2026-08-06T00:19"
-  },
-  {
-   "ts": "2026-08-06T00:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-mobile",
-   "body": "**v0.17.0 — 순수 PM화 완료**: 학습 탭·학습 도구 6종·학습 가이드를 자매 앱 hack-pm 으로 이관하고 제거. 목록은 **domain=pm 만**(투자 자동화·PM 앱·중앙 관제), 탭 = 홈/AI",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-mobile:2026-08-06T00:19"
-  },
-  {
-   "ts": "2026-08-06T00:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: hack-pm",
-   "body": "**v0.1.0 발행** — 프로젝트(해킹 7종)/학습 도구/학습 가이드/보안 알림 4탭. 새 서명키 + CI 재서명 + 인앱 업데이트",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: hack-pm:2026-08-06T00:19"
-  },
-  {
-   "ts": "2026-08-05T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Meta Ran Ads That Contained AI-Generated Child Sexual Abuse ",
-   "body": "Hacker News · 점수 198",
-   "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-   "source": "Hacker News",
-   "id": "community:https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/:2026-08-05T23:49"
-  },
-  {
-   "ts": "2026-08-05T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Beating GPT-5.6 Sol on retrieval with 100x cheaper open mode",
-   "body": "Hacker News · 점수 168",
-   "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-   "source": "Hacker News",
-   "id": "community:https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency:2026-08-05T23:49"
-  },
-  {
-   "ts": "2026-08-05T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] DuckDuckGo Is Selling Anti Pervert Glasses That Contain Zero",
-   "body": "Lemmy · technology · 점수 153",
-   "link": "https://futurism.com/artificial-intelligence/duckduckgo-selling-anti-pervert-glasses",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/duckduckgo-selling-anti-pervert-glasses:2026-08-05T23:49"
-  },
-  {
-   "ts": "2026-08-05T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Aristotle quotes on virtue, knowledge, and happiness",
-   "body": "Hacker News · 점수 145",
-   "link": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-   "source": "Hacker News",
-   "id": "community:https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/:2026-08-05T23:49"
   }
  ]
 }
