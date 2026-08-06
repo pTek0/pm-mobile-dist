@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-06T09:19:08+00:00",
+ "generated_at": "2026-08-06T09:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-06T09:49:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "새 프로젝트: glm-lab",
+   "body": "**✅ Docker 컨테이너 격리 검증** — GLM 5.2 컨테이너가 auto-invest 등 호스트 자원 접근 못하는 전벡터 차단 실측 확인. identity/SOUL/AGENTS+Error Book 적용, 리서",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:새 프로젝트: glm-lab:2026-08-06T09:49"
+  },
+  {
+   "ts": "2026-08-06T09:49:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "새 프로젝트: glm-workspace",
+   "body": "**허브 등록** — 갓 시드된 OpenClaw 워크스페이스(기본 템플릿, 2026-08-05 부트스트랩). glm-lab의 OpenClaw 컨테인먼트와 짝. **방향·뼈대만**(공격기법·페이로드 미생성)",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:새 프로젝트: glm-workspace:2026-08-06T09:49"
+  },
   {
    "ts": "2026-08-06T09:19:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-69111",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69111:2026-08-05T19:49"
-  },
-  {
-   "ts": "2026-08-05T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18953 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-18953 📢 Source: AMZN 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Improper limitation of a pathname to a restricted directory in the get_resource tool in Amazo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18953",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18953:2026-08-05T19:49"
-  },
-  {
-   "ts": "2026-08-05T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-9201 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-9201 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 could allow an authenticated attacker to execute arbitrary",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9201",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9201:2026-08-05T19:19"
   }
  ]
 }
