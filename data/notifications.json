@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-06T07:49:09+00:00",
+ "generated_at": "2026-08-06T08:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-06T08:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-5430 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-5430 📢 Source: WSO2 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True The JWT authentication mechanism accepts tokens signed with algorithms other than those expl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-5430",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-5430:2026-08-06T08:19"
+  },
+  {
+   "ts": "2026-08-06T08:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-1728 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-1728 📢 Source: WSO2 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Tokens issued to a low-privileged user are not sufficiently restricted, allowing them to be",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-1728",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-1728:2026-08-06T08:19"
+  },
+  {
+   "ts": "2026-08-06T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18597 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-18597 📢 Source: Foxit 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True The PDF creation feature of Foxit PDF Services API supports referencing external files. Altho",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18597",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18597:2026-08-06T08:19"
+  },
+  {
+   "ts": "2026-08-06T08:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-15039 (CVSS 9.4)",
+   "body": "🚨 CVE-2025-15039 📢 Source: WSO2 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True The Conditional Authentication (Adaptive Authentication) script does not correctly enforce",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-15039",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-15039:2026-08-06T08:19"
+  },
   {
    "ts": "2026-08-06T07:49:08+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-8182",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8182:2026-08-05T19:19"
-  },
-  {
-   "ts": "2026-08-05T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18485 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-18485 📢 Source: NI 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False There is a local privilege escalation vulnerability recently discovered in the NI-PAL kernel dr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18485",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18485:2026-08-05T19:19"
-  },
-  {
-   "ts": "2026-08-05T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17633 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-17633 📢 Source: ibm 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 could allow a remote authenticated attacker to execute ar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17633",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17633:2026-08-05T19:19"
-  },
-  {
-   "ts": "2026-08-05T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17632 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-17632 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3 could allow a remote authenticated attacker to execute ar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17632",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17632:2026-08-05T19:19"
-  },
-  {
-   "ts": "2026-08-05T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17624 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-17624 📢 Source: ibm 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.10.3, 1.0.0 through 1.10.3, 1.0.0 through 1.10.3, 1.0.0 throug",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17624",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17624:2026-08-05T19:19"
   }
  ]
 }
