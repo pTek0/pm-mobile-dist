@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-07T05:49:07+00:00",
+ "generated_at": "2026-08-07T06:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-07T06:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: riding-app",
+   "body": "**v0.3.0(2026-08-07)** — 자동화 완결: v0.2 결제 감지·OCR·GPS 적산에 더해 ①**감지 즉시 상태바 알림**(앱 미실행 시에도, 탭→앱 진입 E2E 검증) ②**정비 임박/초과 로컬 알림",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: riding-app:2026-08-07T06:19"
+  },
+  {
+   "ts": "2026-08-07T06:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: r6-android-auto",
+   "body": "**11차 조사 — 분리 채택 → 내비 디스플레이·거치 확정**: 기존 폰=AA 소스 + 무선 AA 내장 모니터 폰 직결(**동글 불필요·보관**). 디스플레이 후보=①Aoocci C3/C3 Plus(가성비·IP67",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: r6-android-auto:2026-08-07T06:19"
+  },
   {
    "ts": "2026-08-07T05:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://artificialanalysis.ai/?intelligence=agentic-index",
    "source": "Hacker News",
    "id": "community:https://artificialanalysis.ai/?intelligence=agentic-index:2026-08-06T23:19"
-  },
-  {
-   "ts": "2026-08-06T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nah it wasn't him. He was with me  studying about Jesus.",
-   "body": "Lemmy · programming.dev · 점수 327",
-   "link": "https://discuss.online/pictrs/image/0475a3ce-462a-4041-b652-7e7b632e4907.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://discuss.online/pictrs/image/0475a3ce-462a-4041-b652-7e7b632e4907.jpeg:2026-08-06T23:19"
-  },
-  {
-   "ts": "2026-08-06T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70640 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-70640 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False llama.cpp builds b1886 through b7445 contain a race condition use-after-free vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70640",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70640:2026-08-06T22:19"
   }
  ]
 }
