@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-07T04:49:08+00:00",
+ "generated_at": "2026-08-07T05:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-07T05:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: r6-android-auto",
+   "body": "**6차 조사 완료 — Wi-Fi 인젝션 우선 재검토**: 통념교정=내장 인젝션은 구형칩(qcacld-2.0)만, 최신은 모니터전용 → 실질 경로=외장 USB 어댑터+NetHunter 커널(내장칩 무관), 선정 기준",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: r6-android-auto:2026-08-07T05:19"
+  },
   {
    "ts": "2026-08-07T04:49:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-70638",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70638:2026-08-06T22:19"
-  },
-  {
-   "ts": "2026-08-06T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70636 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-70636 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Flowise through 3.1.4 contains an authentication bypass vulnerability that allows unauthe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70636",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70636:2026-08-06T22:19"
   }
  ]
 }
