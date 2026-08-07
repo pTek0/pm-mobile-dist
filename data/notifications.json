@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-07T16:19:09+00:00",
+ "generated_at": "2026-08-07T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-07T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68772 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-68772 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True ZenML 0.94.6 contains a remote code execution vulnerability in the CloudpickleMaterialize",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68772",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68772:2026-08-07T16:49"
+  },
+  {
+   "ts": "2026-08-07T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-67585 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-67585 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in DivvyPayHQ absinthe_feder",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67585",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67585:2026-08-07T16:49"
+  },
+  {
+   "ts": "2026-08-07T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17603 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-17603 📢 Source: Sonatype 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Nexus Repository 3 did not sufficiently restrict which HikariCP connection-pool properties",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17603",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17603:2026-08-07T16:49"
+  },
+  {
+   "ts": "2026-08-07T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17601 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-17601 📢 Source: Sonatype 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True A user holding a permission to update privilege definitions could modify a wildcard privil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17601",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17601:2026-08-07T16:49"
+  },
+  {
+   "ts": "2026-08-07T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17600 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-17600 📢 Source: Sonatype 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Sonatype Nexus Repository 3 did not immediately terminate a user's active login session or",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17600",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17600:2026-08-07T16:49"
+  },
   {
    "ts": "2026-08-07T15:19:07+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: r6-android-auto:2026-08-07T06:19"
-  },
-  {
-   "ts": "2026-08-07T05:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: r6-android-auto",
-   "body": "**8차 조사 완료 — 5조건(국내중고·~20만·≤10\"·데이터·해킹커뮤니티) 최종 2강**: 완벽 동시만족 없음(⑤해킹커뮤니티↔③≤10\" 상충). **★1 Galaxy Tab S5e LTE(SM-T725)**=10",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: r6-android-auto:2026-08-07T05:49"
-  },
-  {
-   "ts": "2026-08-07T05:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: r6-android-auto",
-   "body": "**6차 조사 완료 — Wi-Fi 인젝션 우선 재검토**: 통념교정=내장 인젝션은 구형칩(qcacld-2.0)만, 최신은 모니터전용 → 실질 경로=외장 USB 어댑터+NetHunter 커널(내장칩 무관), 선정 기준",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: r6-android-auto:2026-08-07T05:19"
-  },
-  {
-   "ts": "2026-08-07T04:49:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: r6-android-auto",
-   "body": "**5차 조사 완료 — 올인원(내비+개발+탈착 해킹기) 검토**: 벽=NetHunter 커널(태블릿 지원 빈약, 가성비 LTE탭 전부 MediaTek→내장 인젝션 불가). 3안=A(Galaxy Tab S6 Lite ",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: r6-android-auto:2026-08-07T04:49"
-  },
-  {
-   "ts": "2026-08-07T03:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: r6-android-auto",
-   "body": "**4차 조사 완료 — 3택 정리**: 옵션1=Zmecar ZM050X 5\"+동글($70~100, 유선 AA 명시 유일) · 옵션2A=iPlay 50 Mini Pro NFE(8.4\" G99·LTE, 신품 ~10만, ",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: r6-android-auto:2026-08-07T03:49"
-  },
-  {
-   "ts": "2026-08-07T03:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: riding-app",
-   "body": "**v0.2.0 차계부 자동화(2026-08-07)** — \"사람 개입 최소화\" 방침 구현: ①결제 알림 자동 감지(Kotlin NotificationListener→큐→홈 확인 카드→원탭 기록, 에뮬레이터에서 가짜",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: riding-app:2026-08-07T03:19"
   }
  ]
 }
