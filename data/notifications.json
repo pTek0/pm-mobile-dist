@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-07T03:19:07+00:00",
+ "generated_at": "2026-08-07T03:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-07T03:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: r6-android-auto",
+   "body": "**4차 조사 완료 — 3택 정리**: 옵션1=Zmecar ZM050X 5\"+동글($70~100, 유선 AA 명시 유일) · 옵션2A=iPlay 50 Mini Pro NFE(8.4\" G99·LTE, 신품 ~10만, ",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: r6-android-auto:2026-08-07T03:49"
+  },
   {
    "ts": "2026-08-07T03:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-70635",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70635:2026-08-06T22:19"
-  },
-  {
-   "ts": "2026-08-06T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70634 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-70634 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True TimescaleDB through 2.29.1, fixed in commit 517c13e, contains an out-of-bounds read in th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70634",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70634:2026-08-06T22:19"
   }
  ]
 }
