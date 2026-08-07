@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-07T18:49:07+00:00",
+ "generated_at": "2026-08-07T19:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-07T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-11430 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-11430 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Grav CMS's scheduler-webhook plugin contains an authentication bypass in the webhook toke",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-11430",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-11430:2026-08-07T19:19"
+  },
+  {
+   "ts": "2026-08-07T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-71412 (CVSS 7.1)",
+   "body": "🚨 CVE-2025-71412 📢 Source: icscert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Injection of false emergency or status messages over CPDLC may lead to misallocation of res",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71412",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71412:2026-08-07T19:19"
+  },
+  {
+   "ts": "2026-08-07T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-71409 (CVSS 7.1)",
+   "body": "🚨 CVE-2025-71409 📢 Source: icscert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Lack of authentication for Very High Frequency Data Link messages allows rogue ground stati",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71409",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71409:2026-08-07T19:19"
+  },
+  {
+   "ts": "2026-08-07T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70561 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-70561 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True TestLink 1.9.20 and prior contains an insecure direct object reference vulnerability that",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70561",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70561:2026-08-07T19:19"
+  },
   {
    "ts": "2026-08-07T17:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: r6-android-auto:2026-08-07T07:49"
-  },
-  {
-   "ts": "2026-08-07T07:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: riding-app",
-   "body": "**v0.6.0(2026-08-07)** — 자동화(결제감지→알림→원탭기록·OCR·GPS적산·정비알림) + 릴리스 APK·백업/복원·리포트·통계·편집 + 신규: **주변 주유소**(오피넷 API, KATEC 좌표변환",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: riding-app:2026-08-07T07:19"
-  },
-  {
-   "ts": "2026-08-07T06:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: riding-app",
-   "body": "**v0.5.0(2026-08-07)** — 자동화(결제 알림 감지→상태바 알림→원탭 기록 · 영수증/계기판 OCR · GPS→ODO 적산 · 정비 임박 알림) + 실기기용 **릴리스 서명 APK**(R8 통과, 8",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: riding-app:2026-08-07T06:49"
-  },
-  {
-   "ts": "2026-08-07T06:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: r6-android-auto",
-   "body": "**13차 결정 — 3안 객관 비교 → ③ AA내장 모니터 권장**: ①해킹겸용 태블릿=탈락(내비 나쁨 비방수·400nit·큼 + 루팅기 바이크 노출 보안리스크 + 최고비용 20~35만) · ②Zmecar+동글=좋으",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: r6-android-auto:2026-08-07T06:49"
-  },
-  {
-   "ts": "2026-08-07T06:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: riding-app",
-   "body": "**v0.3.0(2026-08-07)** — 자동화 완결: v0.2 결제 감지·OCR·GPS 적산에 더해 ①**감지 즉시 상태바 알림**(앱 미실행 시에도, 탭→앱 진입 E2E 검증) ②**정비 임박/초과 로컬 알림",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: riding-app:2026-08-07T06:19"
   }
  ]
 }
