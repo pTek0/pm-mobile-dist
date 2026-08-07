@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-07T13:19:07+00:00",
+ "generated_at": "2026-08-07T13:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-07T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15570 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-15570 📢 Source: Vestel 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An improper restriction of URL schemes and destinations in the SmartCenter browserseturl co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15570",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15570:2026-08-07T13:49"
+  },
+  {
+   "ts": "2026-08-07T13:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: r6-android-auto",
+   "body": "**18차 — 16차 \"유일해\" 전제 붕괴, 축 재편**: 17차=**\"바이크용\" 라벨 불필요**(제네릭·마린 동일)이나 **AA 헤드유닛 역할은 불가피**(멍텅구리 방수화면으론 AA 안 뜸). 18차=🔴**\"동글 ",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: r6-android-auto:2026-08-07T13:49"
+  },
   {
    "ts": "2026-08-07T13:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: riding-app:2026-08-07T02:49"
-  },
-  {
-   "ts": "2026-08-07T02:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: r6-android-auto",
-   "body": "**2차 조사 완료 — 동글 활용·가성비 방향 확정**(완제품 배제). 경로 3안: ①알리 저가 IP67 유선AA 모니터+동글(권장, 8~15만) ②라즈베리파이 헤드유닛(유지보수 최고) ③HUR 앱으로 동글 사전검증",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: r6-android-auto:2026-08-07T02:49"
-  },
-  {
-   "ts": "2026-08-07T02:19:10+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: riding-app",
-   "body": "**리서치 1·2차 완료(에이전트 9종)** — [종합 보고서](apps/riding-app/docs/feasibility-2026-08-07.md) 최종판 + [HUMAN-TODO 가이드](apps/riding-a",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: riding-app:2026-08-07T02:19"
   }
  ]
 }
