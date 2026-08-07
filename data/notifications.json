@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-07T01:19:09+00:00",
+ "generated_at": "2026-08-07T01:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-07T01:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "새 프로젝트: riding-app",
+   "body": "**기능별 실현 가능성 리서치 완료** — 병렬 에이전트 6종 조사 → [종합 보고서](apps/riding-app/docs/feasibility-2026-08-07.md). 결론: 전 기능 구현 가능(부품은 조회+",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:새 프로젝트: riding-app:2026-08-07T01:49"
+  },
   {
    "ts": "2026-08-07T00:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-53985",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53985:2026-08-06T15:49"
-  },
-  {
-   "ts": "2026-08-06T15:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-53977 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-53977 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True OpenChamber 1.11.7 contains an authentication bypass vulnerability that allows unauthenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53977",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53977:2026-08-06T15:49"
   }
  ]
 }
