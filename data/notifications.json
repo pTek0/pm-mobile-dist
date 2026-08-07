@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-07T02:49:07+00:00",
+ "generated_at": "2026-08-07T03:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-07T03:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: riding-app",
+   "body": "**v0.2.0 차계부 자동화(2026-08-07)** — \"사람 개입 최소화\" 방침 구현: ①결제 알림 자동 감지(Kotlin NotificationListener→큐→홈 확인 카드→원탭 기록, 에뮬레이터에서 가짜",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: riding-app:2026-08-07T03:19"
+  },
+  {
+   "ts": "2026-08-07T03:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: r6-android-auto",
+   "body": "**3차 조사 완료 — 최종 2택 정리**: 옵션1=Zmecar ZM050X 5\"(유선 AA 명시 유일 확인, $70~100)+동글 · 옵션2=8\" LTE 러기드 태블릿(Oukitel RT3 Pro 20만원대, **",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: r6-android-auto:2026-08-07T03:19"
+  },
   {
    "ts": "2026-08-07T02:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-70634",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70634:2026-08-06T22:19"
-  },
-  {
-   "ts": "2026-08-06T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70633 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-70633 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True TimescaleDB through 2.29.1, fixed in commit 517c13e, contains an out-of-bounds read vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70633",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70633:2026-08-06T22:19"
-  },
-  {
-   "ts": "2026-08-06T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70632 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-70632 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False FFmpeg versions from 4.4 up to, but not including, 9.0 contain an out-of-bounds heap wri",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70632",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70632:2026-08-06T22:19"
   }
  ]
 }
