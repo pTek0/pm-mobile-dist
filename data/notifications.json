@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-07T19:19:07+00:00",
+ "generated_at": "2026-08-07T19:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-07T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15972 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-15972 📢 Source: HashiCorp 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Consul Community Edition and Consul Enterprise 1.13.0 through 2.0.2 are vulnerable to an",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15972",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15972:2026-08-07T19:49"
+  },
   {
    "ts": "2026-08-07T19:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:새 프로젝트: governance:2026-08-07T08:19"
-  },
-  {
-   "ts": "2026-08-07T07:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: r6-android-auto",
-   "body": "**16차 최종 확정 — Zmecar ZM050X(기성 방수·유선 AA) + 보유 동글**: 요구 확정(메인=바이크 AA 작동·유지보수 직접·HW 기성품·SW만 내가 건드림·판 키우지 말 것)의 유일해. HW 기성품",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: r6-android-auto:2026-08-07T07:49"
   }
  ]
 }
