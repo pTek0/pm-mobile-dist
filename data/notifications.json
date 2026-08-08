@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-07T23:49:08+00:00",
+ "generated_at": "2026-08-08T00:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-08T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I'm leaving OpenAI to build Jurassic Park",
+   "body": "Lobsters · 점수 120",
+   "link": "https://taylor.town/leaving-openai",
+   "source": "Lobsters",
+   "id": "community:https://taylor.town/leaving-openai:2026-08-08T00:19"
+  },
+  {
+   "ts": "2026-08-08T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Mark Zuckerberg apologises for child sex abuse and deepfake ",
+   "body": "Lemmy · technology · 점수 105",
+   "link": "https://www.tribuneindia.com/news/india/mark-zuckerberg-apologies-for-child-abuse-deepfake-content-on-meta-platforms-sources/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.tribuneindia.com/news/india/mark-zuckerberg-apologies-for-child-abuse-deepfake-content-on-meta-platforms-sources/:2026-08-08T00:19"
+  },
+  {
+   "ts": "2026-08-08T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] America’s largest newspaper chain, USA Today Co., partners w",
+   "body": "Lemmy · technology · 점수 74",
+   "link": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/:2026-08-08T00:19"
+  },
+  {
+   "ts": "2026-08-08T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Meta becomes latest firm to say its AI hacked another compan",
+   "body": "Lemmy · technology · 점수 69",
+   "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.bbc.co.uk/news/articles/cx2kgdnyk2po:2026-08-08T00:19"
+  },
+  {
+   "ts": "2026-08-08T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] After severe 76% electricity price hikes due to AI data cent",
+   "body": "Lemmy · technology · 점수 64",
+   "link": "https://www.tomshardware.com/tech-industry/data-centers/after-severe-76-percent-electricity-price-hikes-due-to-ai-data-centers-virginia-requires-firms-to-pay-for-all-dedicated-upstream-electrical-infrastructure-state-regulators-crack-down-governor-says-move-will-save-civilians-hundreds-of-millions-of-dollars",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.tomshardware.com/tech-industry/data-centers/after-severe-76-percent-electricity-price-hikes-due-to-ai-data-centers-virginia-requires-firms-to-pay-for-all-dedicated-upstream-electrical-infrastructure-state-regulators-crack-down-governor-says-move-will-save-civilians-hundreds-of-millions-of-dollars:2026-08-08T00:19"
+  },
+  {
+   "ts": "2026-08-08T00:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-desktop",
+   "body": "**★ 2026-08-08 재설계 v0.2.0 구현 → 당일 실사용 장애 수정 v0.2.1 dist 배포·실행 중** — \"전 탭 빈 화면\" 리포트 원인 = **pm-api 프로세스 사망**(직전 세션의 자식으로 재",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-desktop:2026-08-08T00:19"
+  },
   {
    "ts": "2026-08-07T23:49:08+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-54210",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54210:2026-08-07T10:19"
-  },
-  {
-   "ts": "2026-08-07T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-54209 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-54209 📢 Source: NCSC.ch 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True Tobit Laboratories AG TeamDavid's Webbox application handles password changes using a funct",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54209",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54209:2026-08-07T10:19"
-  },
-  {
-   "ts": "2026-08-07T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-54208 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-54208 📢 Source: NCSC.ch 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Tobit Laboratories AG TeamDavid's Webbox application is vulnerable to arbitrary file write,",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54208",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54208:2026-08-07T10:19"
-  },
-  {
-   "ts": "2026-08-07T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-54204 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-54204 📢 Source: NCSC.ch 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Tobit Laboratories AG TeamDavid's Webbox 's search functionality accepts a “pathnameroot” p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54204",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54204:2026-08-07T10:19"
-  },
-  {
-   "ts": "2026-08-07T10:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-54203 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-54203 📢 Source: NCSC.ch 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Memory Leak to an Unauthorized Actor vulnerability in Tobit Laboratories AG TeamDavid's",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54203",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54203:2026-08-07T10:19"
-  },
-  {
-   "ts": "2026-08-07T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-54202 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-54202 📢 Source: NCSC.ch 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Tobit Laboratories AG TeamDavid's Webbox is vulnerable to a path traversal vulnerability in",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54202",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54202:2026-08-07T10:19"
-  },
-  {
-   "ts": "2026-08-07T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-54200 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-54200 📢 Source: NCSC.ch 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Tobit Laboratories AG TeamDavid's Webbox is vulnerable to a local file inclusion vulnerabil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54200",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54200:2026-08-07T10:19"
   }
  ]
 }
