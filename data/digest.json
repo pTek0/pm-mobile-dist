@@ -1,78 +1,78 @@
 {
- "date": "2026-08-08",
- "generated_at": "2026-08-08T08:06:51+09:00",
+ "date": "2026-08-09",
+ "generated_at": "2026-08-09T08:06:05+09:00",
  "news": [
   {
-   "title": "[8월7일] “챗GPT 충격 이후 최대 개편”…구글, AI 경쟁 ‘두 번째 대전환’ 나섰다",
+   "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+   "title_ko": "Claude Code, Pro·Max·Team 플랜에서 자동 모드 기본값 전환",
+   "summary_ko": "Anthropic이 8월 14일부터 Claude Code의 Pro, Max, Team 플랜 새 세션에서 자동 모드를 기본값으로 설정합니다. Anthropic 내부에서는 거의 모든 직원이 자동 모드를 사용 중이며, 프롬프트 인젝션과 데이터 유출 위험이 일반 검수자보다 훨씬 낮다고 평가했습니다.",
+   "image": "https://static.simonwillison.net/static/2026/auto-mode-comparison.png",
+   "link": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+   "source": "Simon Willison",
+   "category": "AI",
+   "why": "Claude 개발자 도구의 자동화 수준 상향, 코딩 생산성 혁신의 신호탄"
+  },
+  {
+   "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+   "title_ko": "Bitcoin, 블록 961,632 도달하며 BIP-110 소프트포크 시작",
+   "summary_ko": "Bitcoin이 블록 961,632에서 BIP-110 의무 신호 단계를 시작했으나 마이너 지지도는 2.5% 수준으로 필요한 55%에 크게 못 미쳤습니다.",
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/150bd8fd2754dee0949457a7279cad6ca896ec75-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "link": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+   "source": "CoinDesk",
+   "category": "코인",
+   "why": "블록체인 거버넌스의 심각한 분열, 마이너 의견 불일치로 체인 분리 현실화"
+  },
+  {
+   "title": "🏴‍☠️ Panzer has just published a new victim : Daily Trust",
+   "title_ko": "🏴‍☠️ Panzer, 나이지리아 뉴스사 Daily Trust를 피해 기관으로 공개",
+   "summary_ko": "Panzer 랜섬웨어 그룹이 나이지리아 뉴스사 Daily Trust를 피해 기관으로 공개했습니다.",
+   "image": "https://images.ransomware.live/victims/621aacd18dc9fc22832041481d05f1b3.png",
+   "link": "https://www.ransomware.live/id/RGFpbHkgVHJ1c3RAUGFuemVy",
+   "source": "ransomware.live",
+   "category": "보안",
+   "why": "나이지리아 주요 뉴스사 피해, 아프리카 미디어 인프라 공격 고조"
+  },
+  {
+   "title": "트럼프, 의회의 AI 규제 움직임에 \"산업 폐업\" 강력 반발…여야 '우회적 방관' 초당적 비판",
    "title_ko": "",
    "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202608/213652_217174_5659.png",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=213652",
+   "image": "https://cdn.aitimes.com/news/photo/202608/213709_217246_3035.jpg",
+   "link": "https://www.aitimes.com/news/articleView.html?idxno=213709",
    "source": "AI타임스",
    "category": "AI",
-   "why": "구글의 AI 대전환으로 ChatGPT 이후 경쟁 구도 재편, 산업 파급력 큼"
+   "why": "AI 규제 움직임에 산업 폐업 경고, 미 정치의 기술 정책 기로"
   },
   {
-   "title": "[Black Hat USA 2026 결산] AI가 바꾼 사이버보안…“완벽한 방어보다 침해돼도 버티는 보안 필요”",
+   "title": "‘에이전트 플러그인 1.0’ 공개...스킬·MCP 묶어 에이전트 호환성 높여",
    "title_ko": "",
    "summary_ko": "",
-   "image": "https://cdn.dailysecu.com/news/photo/202608/207960_208872_5918.jpg",
-   "link": "https://www.dailysecu.com/news/articleView.html?idxno=207960",
-   "source": "데일리시큐",
-   "category": "보안",
-   "why": "사이버보안 전략이 완벽한 방어에서 침해 회복력으로 전환되는 핵심 트렌드 반영"
-  },
-  {
-   "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
-   "title_ko": "Metabase SQL 인젝션 제로데이 악용, 고객 데이터 탈취 공격",
-   "summary_ko": "Metabase 클라우드 플랫폼이 미공개 SQL 인젝션 취약점을 악용한 공격으로 침해돼 고객 데이터가 도용됐습니다.",
-   "image": "https://www.bleepstatic.com/content/hl-images/2026/08/07/metabase-header.jpg",
-   "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
-   "source": "BleepingComputer",
-   "category": "보안",
-   "why": "제로데이 SQL 인젝션으로 고객 데이터 대량 탈취, 기업 보안의 긴급 위협"
-  },
-  {
-   "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
-   "title_ko": "OpenAI, 신규 AI 모델 Astra가 최고 사이버보안 위험 수준에 도달할 가능성 지적",
-   "summary_ko": "OpenAI의 새로운 AI 모델 Astra 내부 테스트에서 회사 보안 프레임워크 최고 위험 수준을 배제할 수 없을 정도의 사이버보안 능력이 드러났으며, 개발 일부가 중단됐습니다.",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_kraken_cyber.png",
-   "link": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/",
-   "source": "The Decoder",
-   "category": "AI",
-   "why": "OpenAI 신규 모델이 최고 수준 사이버보안 위험을 경고하며 AI 안전성 우려 증폭"
-  },
-  {
-   "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
-   "title_ko": "약 800개의 악성 npm 패키지가 크로스플랫폼 RAT 및 정보 탈취 악웨어 배포",
-   "summary_ko": "Windows, Mac, Linux를 대상으로 하는 크로스플랫폼 악웨어를 배포하는 약 800개의 악성 npm 패키지가 새로운 캠페인의 일부로 발견됐습니다.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEXaa59LRblZ0rcBVbKDdH4w9Rszk27anNt20Onx7Li8D7FXbf3Ipod53uo3N2aa6Hj1QLJaNFDIBlrcgM3YZg0UJCsjI3maDKkFEdOeyhzis15St3QDg6WCXcYlbDRlw2WvgiOH-BL_v8I21QoSTE9kmJzzKqQwstqn11JWkAL1_9W41ZF04T-9ImaiL/s1600/npms.jpg",
-   "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
-   "source": "The Hacker News",
-   "category": "보안",
-   "why": "npm 생태계의 공급망 공격, 800개 악성 패키지로 개발자 직결 위협 심각화"
-  },
-  {
-   "title": "AI가 바이러스 유전체 설계…스탠포드, 세계 최초 바이러스 합성 성공",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202608/213666_217191_1844.png",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=213666",
+   "image": "https://cdn.aitimes.com/news/photo/202608/213705_217240_1811.png",
+   "link": "https://www.aitimes.com/news/articleView.html?idxno=213705",
    "source": "AI타임스",
    "category": "AI",
-   "why": "AI가 바이러스 유전체를 설계하며 AI의 양면성과 규제 필요성을 직시하게 한 이정표"
+   "why": "AI 에이전트 표준화 추진, 호환성 개선으로 에이전트 생태계 전환점"
+  },
+  {
+   "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
+   "title_ko": "러시아 암호화폐 규제 임박 속 하드웨어 지갑 판매량 2배 이상 급증",
+   "summary_ko": "새로운 암호화폐 규제 도입을 앞두고 러시아 소비자의 하드웨어 지갑 수요가 2026년 상반기 2배 이상 폭증했다.",
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/30976665dd7fa778eff16c38318b48d658559cdb-1920x1282.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "link": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
+   "source": "CoinDesk",
+   "category": "코인",
+   "why": "규제 임박 속 하드웨어 지갑 판매 폭증, 암호화폐 대피 현상 포착"
   }
  ],
  "community": [
   {
-   "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-   "title_ko": "AMD, Taalas 인수로 AI 칩 추론 성능 강화",
-   "summary_ko": "AMD가 모델 가중치를 실리콘에 직접 새기는 방식의 AI 칩 스타트업 Taalas를 인수했습니다. 이는 추론 성능을 대폭 향상시킬 것으로 기대되며, Nvidia의 AI 하드웨어 시장 지배력에 대한 AMD의 대응입니다.",
-   "image": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-   "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+   "title": "What happens if an entire class of workers loses faith in their careers",
+   "title_ko": "한 직업군 전체가 경력에 대한 믿음을 잃으면 어떻게 될까",
+   "summary_ko": "많은 사람들이 지식 기반 업무가 대부분 무의미하다고 깨닫고 있으며, AI가 이런 상황을 더 가속화할 수 있다. 창의기술 회사의 AI 담당자가 인간과 비즈니스를 모두 지원하는 AI 구현에 관해 이야기한다.",
+   "image": "https://noemamag.imgix.net/2026/08/HR_Knitting_Noema_LeonieBos-copy.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C32%2C945%2C495&w=1200&wpsize=noema-social-facebook&s=ff77fe7391cba53b40080273232ce909",
+   "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
    "source": "Hacker News",
    "category": "해외·기술",
-   "why": "AI 칩 경쟁에서 AMD의 인수전략으로 엔비디아 대항 기술력 강화의 신호"
+   "why": "AI 시대 기술 직종의 미래 불안감, 해킹 커뮤니티도 공감하는 생존 위협"
   },
   {
    "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
@@ -82,17 +82,17 @@
    "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "AI 에이전트의 무단 해로운 행동 사건은 AI 안전성의 현실적 위협을 보여주는 경고"
+   "why": "AI가 시험 중 무단으로 해로운 행동, 자율성과 통제의 딜레마 노출"
   },
   {
-   "title": "Chinese Router Backdoor Opens Root Access on 100,000 Devices Worldwide",
-   "title_ko": "중국 라우터 백도어, 전 세계 10만 대 기기의 루트 접근 개방",
-   "summary_ko": "중국 제조 라우터에서 발견된 백도어 취약점으로 전 세계 약 10만 대 기기에 루트 권한 접근이 가능해졌다.",
-   "image": "https://external-preview.redd.it/Cd63fab9RgbjUaQV7ECCk3bfykrvqCWYgwvnnFtIYXY.jpeg?width=640&crop=smart&auto=webp&s=17a7f29d13826d03f21da89814ff0e4d2312cbea",
-   "link": "https://old.reddit.com/r/cybersecurity/comments/1vhydky/chinese_router_backdoor_opens_root_access_on/",
-   "source": "Reddit · r/cybersecurity",
-   "category": "해외·레딧",
-   "why": "10만 대 기기 루트 접근을 노출한 중국 라우터 백도어는 보안 위협의 규모 심각성 입증"
+   "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
+   "title_ko": "AI가 정말 Hugging Face를 해킹했을까? | LiveOverflow",
+   "summary_ko": "Hugging Face 보안 사건과 관련된 분석입니다.",
+   "image": "https://i.ytimg.com/vi/q2KCrmQz9WE/maxresdefault.jpg",
+   "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "HuggingFace 침투, AI가 실제로 공격 역할을 했는지 검증하는 업계 관심"
   },
   {
    "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
@@ -102,17 +102,17 @@
    "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "정부·연구기관 이메일 대량 탈취는 국가 수준 보안 위협의 현재 진행형 사례"
+   "why": "구글 규칙 악용한 연구·국방 이메일 대량 도용, 국가급 사이버전 심화"
   },
   {
-   "title": "Oracle bans AI-generated code from OpenJDK",
-   "title_ko": "Oracle, OpenJDK에서 AI 생성 코드 금지",
-   "summary_ko": "Oracle이 OpenJDK 프로젝트에서 AI가 생성한 코드 사용을 금지하는 정책을 시행했다.",
-   "image": "https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fnews%2Ffeed%2Foracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code%3Fscreenshot%3Dtrue",
-   "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-   "source": "Hacker News",
-   "category": "해외·기술",
-   "why": "Oracle의 AI 생성 코드 금지 정책은 개발자 커뮤니티의 신뢰와 보안을 모두 고려한 실마리"
+   "title": "DEF CON talk: 8 in 10 Banks in Belgium HATE This One Weird eID RCE",
+   "title_ko": "DEF CON: 벨기에 은행 10곳 중 8곳의 eID 원격코드 실행 취약점",
+   "summary_ko": "DEF CON에서 벨기에의 전자신원증(eID) 시스템에서 발견된 원격코드 실행 취약점에 대한 발표가 있었다.",
+   "image": "https://external-preview.redd.it/eZH8u7yYmPEa1gp-WJe1LoB5v_hr4ipzHJ2WiCa73iY.png?width=140&height=78&auto=webp",
+   "link": "https://old.reddit.com/r/netsec/comments/1viux00/def_con_talk_8_in_10_banks_in_belgium_hate_this/",
+   "source": "Reddit · r/netsec",
+   "category": "해외·레딧",
+   "why": "DEF CON서 공개된 벨기에 은행 eID 치명적 취약점, 금융 인프라 신뢰 동요"
   },
   {
    "title": "HP Poly VoIP vulnerability sets the stage for executive voice deepfakes",
@@ -122,7 +122,7 @@
    "link": "https://www.csoonline.com/article/4180223/hp-poly-voip-vulnerability-sets-the-stage-for-executive-voice-deepfakes.html",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "VoIP 취약점이 임원진 딥페이크의 발판이 되며 기술과 보안의 새로운 위협 조합 형성"
+   "why": "임원 음성 딥페이크 발판 마련, 음성 인증 시스템의 새로운 위협"
   }
  ]
 }
