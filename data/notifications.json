@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-08T00:49:07+00:00",
+ "generated_at": "2026-08-08T01:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-08T01:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-8798 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-8798 📢 Source: bcorg 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Bouncy Castle for Java FIPS (BC-FJA) before bc-fips 2.1.3, the native entropy source used o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8798",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8798:2026-08-08T01:19"
+  },
   {
    "ts": "2026-08-08T00:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-54212",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54212:2026-08-07T10:19"
-  },
-  {
-   "ts": "2026-08-07T10:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-54211 (CVSS 9.5)",
-   "body": "🚨 CVE-2026-54211 📢 Source: NCSC.ch 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True Tobit Laboratories AG TeamDavid's Webbox application’s endpoint “//serverClient_close.h",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54211",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54211:2026-08-07T10:19"
   }
  ]
 }
