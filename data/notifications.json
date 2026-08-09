@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-09T15:49:07+00:00",
+ "generated_at": "2026-08-09T16:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-09T16:19:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pentest-toolkit",
+   "body": "쉐도우 모드(관찰만) — **정체(마지막 세션 07-17, 24일+)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→⏸ 정정",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pentest-toolkit:2026-08-09T16:19"
+  },
+  {
+   "ts": "2026-08-09T16:19:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "새 프로젝트: web-scanner",
+   "body": "GLM 샌드박스에 디스패치돼 자율 수행 예정 — 단 **GLM 컨테이너 현재 미가동**. registry엔 등록돼 있었으나 2026-08-10 갭분석서 **표 누락 확인해 등재**",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:새 프로젝트: web-scanner:2026-08-09T16:19"
+  },
   {
    "ts": "2026-08-09T14:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71954",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71954:2026-08-08T17:19"
-  },
-  {
-   "ts": "2026-08-08T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-71953 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-71953 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True D-Link DWR-M961 devices with hardware version C1 and firmware version before 1.1.5_C1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71953",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71953:2026-08-08T17:19"
-  },
-  {
-   "ts": "2026-08-08T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-71952 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-71952 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True D-Link DWR-M961 devices with hardware version C1 and firmware version before 1.1.5_C1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71952",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71952:2026-08-08T17:19"
   }
  ]
 }
