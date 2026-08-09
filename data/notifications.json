@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-09T17:19:09+00:00",
+ "generated_at": "2026-08-09T17:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-09T17:49:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-mobile",
+   "body": "**★ v0.25.0 스테이징(2026-08-10) — 워크스페이스 시안 A 이식**(상태 모양+색 글리프·상시 범례·무채색 호스트·도메인 단일축 색·유휴 \"+N 더보기\" 접기·\"오케스트레이터\" 표기 통일 — 기능 ",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-mobile:2026-08-09T17:49"
+  },
+  {
+   "ts": "2026-08-09T17:49:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-desktop",
+   "body": "**★ 2026-08-10 v0.2.9 시안 A(지휘 계통 수직 트리 정제) 실구현 — 데스크탑+모바일**: [HUMAN] 채택=A → design/workspace-option-A.html 기준 구현(시각/인코딩만",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-desktop:2026-08-09T17:49"
+  },
+  {
+   "ts": "2026-08-09T17:49:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "새 프로젝트: 공용모듈 10종",
+   "body": "**★ 2026-08-10 자율빌드 완료 — 10종 전부 ✅**(Fable5 오케스트레이터 + 병렬 서브에이전트, 계약 고정→파일도메인 분리→통합검증). 각 모듈 전용 venv `pip install -e` + py",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:새 프로젝트: 공용모듈 10종:2026-08-09T17:49"
+  },
   {
    "ts": "2026-08-09T16:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71958",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71958:2026-08-08T17:49"
-  },
-  {
-   "ts": "2026-08-08T17:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-71957 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-71957 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True D-Link DWR-M961 devices with hardware version C1 and software version 1.1.2_C1_202602",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71957",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71957:2026-08-08T17:49"
-  },
-  {
-   "ts": "2026-08-08T17:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-71956 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-71956 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True D-Link DWR-M961 devices with hardware version C1 and software version 1.1.2_C1_202602",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71956",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71956:2026-08-08T17:49"
-  },
-  {
-   "ts": "2026-08-08T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-71955 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-71955 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True D-Link DWR-M961 devices with hardware version C1 and firmware version before 1.1.5_C1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71955",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71955:2026-08-08T17:19"
   }
  ]
 }
