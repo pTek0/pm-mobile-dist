@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-09T16:19:08+00:00",
+ "generated_at": "2026-08-09T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-09T16:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-desktop",
+   "body": "**★ 2026-08-10 워크스페이스 다이어그램 디자인 평가+시안 3종**(코드 무변경): 현행을 다이어그램 원칙으로 평가(색 4축 혼용·범례 부재·색맹 비안전·전부펼침 밀도 과부하·세션칩 말줄임 가독성·데스크탑/",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-desktop:2026-08-09T16:49"
+  },
   {
    "ts": "2026-08-09T16:19:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71955",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71955:2026-08-08T17:19"
-  },
-  {
-   "ts": "2026-08-08T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-71954 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-71954 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True D-Link DWR-M961 devices with hardware version C1 and firmware version before 1.1.5_C1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71954",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71954:2026-08-08T17:19"
   }
  ]
 }
