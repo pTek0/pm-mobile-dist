@@ -1,7 +1,217 @@
 {
- "generated_at": "2026-08-10T10:49:07+00:00",
+ "generated_at": "2026-08-10T11:19:15+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72581 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-72581 📢 Source: TuranSec 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False A server-side request forgery (SSRF) vulnerability in duhow/xiaoai-patch through commit f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72581",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72581:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72580 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-72580 📢 Source: TuranSec 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: False An OS command injection vulnerability in duhow/xiaoai-patch through commit fb07049 al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72580",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72580:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72579 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-72579 📢 Source: TuranSec 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False An OS command injection vulnerability in NASA HyperCP (main branch) allows a network-adja",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72579",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72579:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72578 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-72578 📢 Source: TuranSec 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A cross-site request forgery (CSRF) vulnerability in FreePBX Framework 17.0 allows an una",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72578",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72578:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72577 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-72577 📢 Source: TuranSec 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: False Multiple vulnerabilities in NASA fprime-gds through 3.4.3 allow an unauthenticated re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72577",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72577:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72575 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-72575 📢 Source: TuranSec 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False An improper authorization vulnerability in daptin through v0.12.34 allows unauthentic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72575",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72575:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72573 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-72573 📢 Source: TuranSec 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False An OS command injection vulnerability in 4xmen/pm2panel (all versions) allows an authenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72573",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72573:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72572 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-72572 📢 Source: TuranSec 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False A path traversal vulnerability in o1lab/xmysql (all versions) allows an unauthenticated r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72572",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72572:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72571 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-72571 📢 Source: TuranSec 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False A path traversal vulnerability in mustafaakin/cast-localvideo (all versions) allows an un",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72571",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72571:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72569 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-72569 📢 Source: TuranSec 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False A path traversal vulnerability in cube-root/directory-serve through 1.3.7 allows an u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72569",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72569:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72568 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-72568 📢 Source: TuranSec 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An out-of-bounds read vulnerability in Redis through 8.8.1 allows an adjacent unauthentic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72568",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72568:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72567 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-72567 📢 Source: TuranSec 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: False An improper path validation vulnerability in AsyncFuncAI/deepwiki-open through commit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72567",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72567:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72566 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-72566 📢 Source: TuranSec 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False A server-side request forgery (SSRF) vulnerability in automatisch through commit 41f3c56 ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72566",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72566:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72565 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-72565 📢 Source: TuranSec 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: False A SQL injection vulnerability in Tencent APIJSON through 8.1.8 allows unauthenticated",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72565",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72565:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72564 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-72564 📢 Source: TuranSec 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False An improper authorization vulnerability in fosrl/pangolin through v1.20.0 allows an a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72564",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72564:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59087 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-59087 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the GIMP image manipulation program, specifically within its Seattle Fi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59087",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59087:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] What Happened to HackerOne?",
+   "body": "Hacker News · 점수 249",
+   "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+   "source": "Hacker News",
+   "id": "community:https://blog.teknogeek.io/posts/what-happened-to-hackerone/:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Docker Sandboxes – Disposable, isolated sandboxes for AI age",
+   "body": "Hacker News · 점수 239",
+   "link": "https://www.docker.com/products/docker-sandboxes/",
+   "source": "Hacker News",
+   "id": "community:https://www.docker.com/products/docker-sandboxes/:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Auto mode is now the default in Claude Code",
+   "body": "Hacker News · 점수 225",
+   "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
+   "source": "Hacker News",
+   "id": "community:https://claude.com/blog/auto-mode-default-in-claude-code:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] OpenChamber: An Agentic Development Environment",
+   "body": "Hacker News · 점수 151",
+   "link": "https://openchamber.dev/",
+   "source": "Hacker News",
+   "id": "community:https://openchamber.dev/:2026-08-10T11:19"
+  },
+  {
+   "ts": "2026-08-10T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Linux Wireless Maintainer Takes Firm Stance Against AI/LLM G",
+   "body": "Lemmy · programming.dev · 점수 130",
+   "link": "https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch:2026-08-10T11:19"
+  },
   {
    "ts": "2026-08-10T09:49:08+00:00",
    "level": "general",
@@ -291,216 +501,6 @@
    "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
    "source": "Hacker News",
    "id": "community:https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/:2026-08-09T23:19"
-  },
-  {
-   "ts": "2026-08-09T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Canada investigating how Skyrim username mixup sent innocent",
-   "body": "Lemmy · technology · 점수 206",
-   "link": "https://www.dexerto.com/gaming/canada-investigating-how-skyrim-username-mixup-sent-innocent-man-to-prison-for-18-months-3396037/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.dexerto.com/gaming/canada-investigating-how-skyrim-username-mixup-sent-innocent-man-to-prison-for-18-months-3396037/:2026-08-09T23:19"
-  },
-  {
-   "ts": "2026-08-09T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] greeting a CEO",
-   "body": "Lemmy · programming.dev · 점수 187",
-   "link": "https://lemmy.blahaj.zone/pictrs/image/72c389e8-fe9e-458f-9098-29f1b7f8d885.webp",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.blahaj.zone/pictrs/image/72c389e8-fe9e-458f-9098-29f1b7f8d885.webp:2026-08-09T23:19"
-  },
-  {
-   "ts": "2026-08-09T17:49:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-mobile",
-   "body": "**★ v0.25.0 스테이징(2026-08-10) — 워크스페이스 시안 A 이식**(상태 모양+색 글리프·상시 범례·무채색 호스트·도메인 단일축 색·유휴 \"+N 더보기\" 접기·\"오케스트레이터\" 표기 통일 — 기능 ",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-mobile:2026-08-09T17:49"
-  },
-  {
-   "ts": "2026-08-09T17:49:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-desktop",
-   "body": "**★ 2026-08-10 v0.2.9 시안 A(지휘 계통 수직 트리 정제) 실구현 — 데스크탑+모바일**: [HUMAN] 채택=A → design/workspace-option-A.html 기준 구현(시각/인코딩만",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-desktop:2026-08-09T17:49"
-  },
-  {
-   "ts": "2026-08-09T17:49:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: 공용모듈 10종",
-   "body": "**★ 2026-08-10 자율빌드 완료 — 10종 전부 ✅**(Fable5 오케스트레이터 + 병렬 서브에이전트, 계약 고정→파일도메인 분리→통합검증). 각 모듈 전용 venv `pip install -e` + py",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: 공용모듈 10종:2026-08-09T17:49"
-  },
-  {
-   "ts": "2026-08-09T16:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-desktop",
-   "body": "**★ 2026-08-10 워크스페이스 다이어그램 디자인 평가+시안 3종**(코드 무변경): 현행을 다이어그램 원칙으로 평가(색 4축 혼용·범례 부재·색맹 비안전·전부펼침 밀도 과부하·세션칩 말줄임 가독성·데스크탑/",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-desktop:2026-08-09T16:49"
-  },
-  {
-   "ts": "2026-08-09T16:19:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pentest-toolkit",
-   "body": "쉐도우 모드(관찰만) — **정체(마지막 세션 07-17, 24일+)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→⏸ 정정",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pentest-toolkit:2026-08-09T16:19"
-  },
-  {
-   "ts": "2026-08-09T16:19:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: web-scanner",
-   "body": "GLM 샌드박스에 디스패치돼 자율 수행 예정 — 단 **GLM 컨테이너 현재 미가동**. registry엔 등록돼 있었으나 2026-08-10 갭분석서 **표 누락 확인해 등재**",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: web-scanner:2026-08-09T16:19"
-  },
-  {
-   "ts": "2026-08-09T14:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: web-harvest",
-   "body": "**★ P0 코어 수집 레이어 완성·검증(2026-08-09)** — 5개 병렬 서브에이전트로 구현(계약 `core/contracts.py` 고정→파일도메인 분리): SearXNG 격리배포(127.0.0.1:8610",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: web-harvest:2026-08-09T14:49"
-  },
-  {
-   "ts": "2026-08-09T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] some software talks i like",
-   "body": "Lobsters · 점수 72",
-   "link": "https://char.lt/blog/2026/08/talks-i-like/",
-   "source": "Lobsters",
-   "id": "community:https://char.lt/blog/2026/08/talks-i-like/:2026-08-09T12:19"
-  },
-  {
-   "ts": "2026-08-09T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Retraction: The App Store Rejection of the Week That Was a C",
-   "body": "Hacker News · 점수 199",
-   "link": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
-   "source": "Hacker News",
-   "id": "community:https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week:2026-08-09T11:49"
-  },
-  {
-   "ts": "2026-08-09T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Triton: DirectX 11 Driver for QEMU",
-   "body": "Hacker News · 점수 185",
-   "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-   "source": "Hacker News",
-   "id": "community:https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/:2026-08-09T11:49"
-  },
-  {
-   "ts": "2026-08-09T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-   "body": "Hacker News · 점수 180",
-   "link": "https://os8088.com/",
-   "source": "Hacker News",
-   "id": "community:https://os8088.com/:2026-08-09T11:49"
-  },
-  {
-   "ts": "2026-08-09T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Open-source interactive map for the Aug 12 total solar eclip",
-   "body": "Hacker News · 점수 152",
-   "link": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-   "source": "Hacker News",
-   "id": "community:https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute:2026-08-09T11:49"
-  },
-  {
-   "ts": "2026-08-09T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] SpaceX’s Terafab will rely on natural gas power plants, not ",
-   "body": "Lemmy · technology · 점수 148",
-   "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-   "source": "Lemmy · technology",
-   "id": "community:https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/:2026-08-09T11:49"
-  },
-  {
-   "ts": "2026-08-09T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fastmail offers EU data region",
-   "body": "Hacker News · 점수 425",
-   "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-   "source": "Hacker News",
-   "id": "community:https://www.fastmail.com/blog/fastmail-offers-eu-data-region/:2026-08-09T11:19"
-  },
-  {
-   "ts": "2026-08-09T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Meta Caught Paying Nazis to Post on Facebook",
-   "body": "Lemmy · technology · 점수 358",
-   "link": "https://futurism.com/artificial-intelligence/meta-caught-paying-nazis-to-post-on-facebook",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/meta-caught-paying-nazis-to-post-on-facebook:2026-08-09T11:19"
-  },
-  {
-   "ts": "2026-08-09T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] My server is a phone now",
-   "body": "Hacker News · 점수 339",
-   "link": "https://seg6.space/posts/phone-server/",
-   "source": "Hacker News",
-   "id": "community:https://seg6.space/posts/phone-server/:2026-08-09T11:19"
-  },
-  {
-   "ts": "2026-08-09T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Improving Heuristics for A* Pathfinding",
-   "body": "Hacker News · 점수 249",
-   "link": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-   "source": "Hacker News",
-   "id": "community:https://www.redblobgames.com/pathfinding/heuristics/differential.html:2026-08-09T11:19"
-  },
-  {
-   "ts": "2026-08-09T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Shopify replaced Redis with MySQL for inventory reservations",
-   "body": "Hacker News · 점수 213",
-   "link": "https://shopify.engineering/scaling-inventory-reservations",
-   "source": "Hacker News",
-   "id": "community:https://shopify.engineering/scaling-inventory-reservations:2026-08-09T11:19"
-  },
-  {
-   "ts": "2026-08-09T11:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: web-harvest",
-   "body": "**설계 SSOT + 실행문서 완료(2026-08-09)** — 6갈래 병렬 리서치(웹 각 8~25회 검증) 종합. 4계층(검색 SearXNG+Brave→렌더 Crawl4AI→추출 trafilatura→품질 RRF)",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: web-harvest:2026-08-09T11:19"
   }
  ]
 }
