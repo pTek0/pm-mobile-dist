@@ -1,28 +1,28 @@
 {
- "generated_at": "2026-08-10T10:27:11+09:00",
+ "generated_at": "2026-08-10T10:57:04+09:00",
  "plan": "Max 20x",
- "tokens_total": 3937578915,
- "msgs_total": 17620,
+ "tokens_total": 3978824874,
+ "msgs_total": 17803,
  "window_5h": {
-  "used": 80064962,
+  "used": 121310921,
   "limit": 344383904,
-  "pct": 23.2,
+  "pct": 35.2,
   "resets_at": "2026-08-10T14:00:00+09:00",
-  "msgs": 504,
+  "msgs": 687,
   "basis": "measured",
   "limit_basis": "estimated"
  },
  "window_weekly": {
-  "used": 3121970061,
+  "used": 3159210647,
   "limit": null,
   "pct": null,
   "resets_at": null,
-  "msgs": 14796,
+  "msgs": 14961,
   "basis": "measured",
   "limit_basis": null,
   "window_basis": "rolling_7d"
  },
- "projects_tokens_total": 3936901705,
- "source_files": 542,
+ "projects_tokens_total": 3977896492,
+ "source_files": 548,
  "note": "tokens_total/window used = 로그 실측(input+output+cache). 5h limit=과거 최대 블록 기준 추정(estimated). 정확한 한도는 usage-limits.json 에 입력. weekly limit 미설정 -> used 만 발행(app 이 추정/숨김). weekly window=rolling_7d(최근 7일 롤링 근사) projects_tokens_total=metrics.json 합계(실측)."
 }
