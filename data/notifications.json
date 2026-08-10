@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-10T19:49:11+00:00",
+ "generated_at": "2026-08-10T20:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-10T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-69118 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-69118 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cachet through 2.4.1 contains a server-side template injection vulnerability in incident ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69118",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69118:2026-08-10T20:19"
+  },
   {
    "ts": "2026-08-10T19:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://openchamber.dev/",
    "source": "Hacker News",
    "id": "community:https://openchamber.dev/:2026-08-10T11:19"
-  },
-  {
-   "ts": "2026-08-10T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Linux Wireless Maintainer Takes Firm Stance Against AI/LLM G",
-   "body": "Lemmy · programming.dev · 점수 130",
-   "link": "https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch:2026-08-10T11:19"
   }
  ]
 }
