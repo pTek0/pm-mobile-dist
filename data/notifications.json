@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-10T20:19:08+00:00",
+ "generated_at": "2026-08-10T20:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-10T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-11810 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-11810 📢 Source: zephyr 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False The UpdateHub firmware-update agent's probe handler (z_impl_updatehub_probe() in subsys/mgm",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-11810",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-11810:2026-08-10T20:49"
+  },
+  {
+   "ts": "2026-08-10T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73033 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-73033 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Sucuri Security WordPress plugin through version 2.7.3 contains a path traversal vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73033",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73033:2026-08-10T20:49"
+  },
+  {
+   "ts": "2026-08-10T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73030 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-73030 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True unearth through 0.18.2, fixed in commit 6c78164, contains a path traversal vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73030",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73030:2026-08-10T20:49"
+  },
   {
    "ts": "2026-08-10T20:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
    "source": "Hacker News",
    "id": "community:https://blog.teknogeek.io/posts/what-happened-to-hackerone/:2026-08-10T11:19"
-  },
-  {
-   "ts": "2026-08-10T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Docker Sandboxes – Disposable, isolated sandboxes for AI age",
-   "body": "Hacker News · 점수 239",
-   "link": "https://www.docker.com/products/docker-sandboxes/",
-   "source": "Hacker News",
-   "id": "community:https://www.docker.com/products/docker-sandboxes/:2026-08-10T11:19"
-  },
-  {
-   "ts": "2026-08-10T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Auto mode is now the default in Claude Code",
-   "body": "Hacker News · 점수 225",
-   "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
-   "source": "Hacker News",
-   "id": "community:https://claude.com/blog/auto-mode-default-in-claude-code:2026-08-10T11:19"
-  },
-  {
-   "ts": "2026-08-10T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] OpenChamber: An Agentic Development Environment",
-   "body": "Hacker News · 점수 151",
-   "link": "https://openchamber.dev/",
-   "source": "Hacker News",
-   "id": "community:https://openchamber.dev/:2026-08-10T11:19"
   }
  ]
 }
