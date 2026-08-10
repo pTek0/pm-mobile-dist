@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-10T12:19:08+00:00",
+ "generated_at": "2026-08-10T12:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-10T12:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-13206 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-13206 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command ('OS command injectio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13206",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13206:2026-08-10T12:49"
+  },
   {
    "ts": "2026-08-10T12:19:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://townflex.com/us-cities-cancel-50-flock-surveillance-contracts-amid-public-backlash/",
    "source": "Lemmy · technology",
    "id": "community:https://townflex.com/us-cities-cancel-50-flock-surveillance-contracts-amid-public-backlash/:2026-08-10T00:19"
-  },
-  {
-   "ts": "2026-08-10T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] John C. Lilly on solid state intelligence and the eliminatio",
-   "body": "Hacker News · 점수 110",
-   "link": "https://kibotronics.net/unlisted/lilly-machines/",
-   "source": "Hacker News",
-   "id": "community:https://kibotronics.net/unlisted/lilly-machines/:2026-08-10T00:19"
   }
  ]
 }
