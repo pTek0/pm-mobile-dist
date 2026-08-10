@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-10T19:19:08+00:00",
+ "generated_at": "2026-08-10T19:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-10T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-69114 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-69114 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Spacebar Server before commit 8d126f4 contains a cross-channel message deletion vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69114",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69114:2026-08-10T19:49"
+  },
+  {
+   "ts": "2026-08-10T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-15683 (CVSS 8.8)",
+   "body": "🚨 CVE-2025-15683 📢 Source: CyberDanube 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True TBEA TLogger V2.1.0.0B0.0.0.0 contains multiple unauthenticated denial-of-service vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-15683",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-15683:2026-08-10T19:49"
+  },
+  {
+   "ts": "2026-08-10T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-15682 (CVSS 8.7)",
+   "body": "🚨 CVE-2025-15682 📢 Source: CyberDanube 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True TBEA TLogger V2.1.0.0B0.0.0.0 contains an unauthenticated resource exhaustion vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-15682",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-15682:2026-08-10T19:49"
+  },
+  {
+   "ts": "2026-08-10T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-15681 (CVSS 9.2)",
+   "body": "🚨 CVE-2025-15681 📢 Source: CyberDanube 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True TBEA TLogger V2.1.0.0B0.0.0.0 contains an authentication bypass in its web server. ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-15681",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-15681:2026-08-10T19:49"
+  },
+  {
+   "ts": "2026-08-10T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-13294 (CVSS 9.3)",
+   "body": "🚨 CVE-2025-13294 📢 Source: CyberDanube 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated SQL injection vulnerability exists in the web server of TBEA TLo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-13294",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-13294:2026-08-10T19:49"
+  },
+  {
+   "ts": "2026-08-10T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-13293 (CVSS 9.3)",
+   "body": "🚨 CVE-2025-13293 📢 Source: CyberDanube 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A hard-coded or default root account credential in TBEA TLogger V2.1.0.0B0.0.0.0 al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-13293",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-13293:2026-08-10T19:49"
+  },
   {
    "ts": "2026-08-10T19:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch",
    "source": "Lemmy · programming.dev",
    "id": "community:https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch:2026-08-10T11:19"
-  },
-  {
-   "ts": "2026-08-10T09:49:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: riding-app",
-   "body": "**★ v0.7.0(2026-08-10) — GPX 경로기록·지도·내보내기**(dev 워크트리 커밋 4a4b3fa, main 미머지): 라이딩 중 GPS 좌표(ts/lat/lng/고도/속도) 수집·200m 점프 제외",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: riding-app:2026-08-10T09:49"
-  },
-  {
-   "ts": "2026-08-10T09:19:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21079 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-21079 📢 Source: SamsungMobile 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Missing encryption of sensitive data in Smart Switch prior to version 3.7.72.6 allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21079",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21079:2026-08-10T09:19"
-  },
-  {
-   "ts": "2026-08-10T09:19:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21074 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-21074 📢 Source: SamsungMobile 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False Incorrect default permissions in Bixby prior to version 4.0.86.0 allows local attack",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21074",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21074:2026-08-10T09:19"
-  },
-  {
-   "ts": "2026-08-10T09:19:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21068 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-21068 📢 Source: SamsungMobile 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Stack-based buffer overflow in libril_sem.so prior to SMR Aug-2026 Release 1 allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21068",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21068:2026-08-10T09:19"
-  },
-  {
-   "ts": "2026-08-10T09:19:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21064 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-21064 📢 Source: SamsungMobile 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Improper access control in Weaver prior to SMR Aug-2026 Release 1 allows local attacke",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21064",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21064:2026-08-10T09:19"
-  },
-  {
-   "ts": "2026-08-10T09:19:10+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: auto-invest",
-   "body": "**★ R10 리뷰 master 병합 + 데몬 재시작 + 수익실현 자동화 가동** — swing 트랙에 자동 손절/익절 브래킷(매시 집행, 킬스위치 무관 매도 전용) + 실현수익 풀(이익분 스윕 = '수익 실현' 페",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: auto-invest:2026-08-10T09:19"
   }
  ]
 }
