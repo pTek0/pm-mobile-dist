@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-10T13:49:07+00:00",
+ "generated_at": "2026-08-10T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-10T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-63106 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-63106 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ReadyEcommerce before 4.5.2 contains an unauthenticated SQL injection vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63106",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63106:2026-08-10T14:19"
+  },
   {
    "ts": "2026-08-10T13:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
    "source": "Hacker News",
    "id": "community:https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650:2026-08-10T00:19"
-  },
-  {
-   "ts": "2026-08-10T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Windscribe: Proton VPN got caught running secret price tests",
-   "body": "Lemmy · technology · 점수 123",
-   "link": "https://piefed.world/post/1323233",
-   "source": "Lemmy · technology",
-   "id": "community:https://piefed.world/post/1323233:2026-08-10T00:19"
   }
  ]
 }
