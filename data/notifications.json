@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-10T09:19:11+00:00",
+ "generated_at": "2026-08-10T09:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-10T09:49:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: riding-app",
+   "body": "**★ v0.7.0(2026-08-10) — GPX 경로기록·지도·내보내기**(dev 워크트리 커밋 4a4b3fa, main 미머지): 라이딩 중 GPS 좌표(ts/lat/lng/고도/속도) 수집·200m 점프 제외",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: riding-app:2026-08-10T09:49"
+  },
   {
    "ts": "2026-08-10T09:19:09+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: web-harvest:2026-08-09T11:19"
-  },
-  {
-   "ts": "2026-08-09T10:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: web-harvest",
-   "body": "**설계 SSOT 완료(2026-08-09)** — 3갈래 병렬 리서치(웹 각 12~15회 검증) 종합. 4계층(검색 SearXNG+Brave→렌더 Crawl4AI→추출 trafilatura→품질 RRF)+정책 라우",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: web-harvest:2026-08-09T10:19"
   }
  ]
 }
