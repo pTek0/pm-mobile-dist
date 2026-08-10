@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-10T22:19:08+00:00",
+ "generated_at": "2026-08-10T22:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-10T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-30241 (CVSS 8.6)",
+   "body": "🚨 CVE-2025-30241 📢 Source: TPLink 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Certain web interface components in affected TP-Link Aginet devices do not validate and san",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30241",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30241:2026-08-10T22:49"
+  },
+  {
+   "ts": "2026-08-10T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-30239 (CVSS 8.5)",
+   "body": "🚨 CVE-2025-30239 📢 Source: TPLink 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False In affected TP-Link Aginet devices, use of hardcoded cryptographic keys embedded in the fir",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30239",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30239:2026-08-10T22:49"
+  },
+  {
+   "ts": "2026-08-10T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-30238 (CVSS 8.6)",
+   "body": "🚨 CVE-2025-30238 📢 Source: TPLink 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False In affected TP-Link Aginet devices, insufficient authorization validation allows authentica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30238",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30238:2026-08-10T22:49"
+  },
+  {
+   "ts": "2026-08-10T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-30237 (CVSS 8.7)",
+   "body": "🚨 CVE-2025-30237 📢 Source: TPLink 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False The affected TP-Link Aginet devices contain a flaw in the web management interface where au",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30237",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30237:2026-08-10T22:49"
+  },
   {
    "ts": "2026-08-10T21:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://suppo.fi/api/v3/image_proxy?url=https%3A%2F%2Flemmy.ml%2Fpictrs%2Fimage%2Ff6199eb1-c080-4c30-9245-15bc6f482da5.png",
    "source": "Lemmy · programming.dev",
    "id": "community:https://suppo.fi/api/v3/image_proxy?url=https%3A%2F%2Flemmy.ml%2Fpictrs%2Fimage%2Ff6199eb1-c080-4c30-9245-15bc6f482da5.png:2026-08-10T11:49"
-  },
-  {
-   "ts": "2026-08-10T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72581 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-72581 📢 Source: TuranSec 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False A server-side request forgery (SSRF) vulnerability in duhow/xiaoai-patch through commit f",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72581",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72581:2026-08-10T11:19"
-  },
-  {
-   "ts": "2026-08-10T11:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-72580 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-72580 📢 Source: TuranSec 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: False An OS command injection vulnerability in duhow/xiaoai-patch through commit fb07049 al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72580",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72580:2026-08-10T11:19"
-  },
-  {
-   "ts": "2026-08-10T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72579 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-72579 📢 Source: TuranSec 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False An OS command injection vulnerability in NASA HyperCP (main branch) allows a network-adja",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72579",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72579:2026-08-10T11:19"
-  },
-  {
-   "ts": "2026-08-10T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72578 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-72578 📢 Source: TuranSec 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A cross-site request forgery (CSRF) vulnerability in FreePBX Framework 17.0 allows an una",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72578",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72578:2026-08-10T11:19"
   }
  ]
 }
