@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-08-11T00:19:08+00:00",
+ "generated_at": "2026-08-11T00:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-11T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-58243 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-58243 📢 Source: sap 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SAP ABAP Development Tools does not perform necessary authorization checks for certain function",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58243",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58243:2026-08-11T00:49"
+  },
+  {
+   "ts": "2026-08-11T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-58230 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-58230 📢 Source: sap 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True SAP Approuter does not sufficiently validate certain token content under specific configurations.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58230",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58230:2026-08-11T00:49"
+  },
+  {
+   "ts": "2026-08-11T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-44765 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-44765 📢 Source: sap 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Due to a Missing Authorization Check vulnerability in SAP Manufacturing Integration and Intelli",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-44765",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-44765:2026-08-11T00:49"
+  },
+  {
+   "ts": "2026-08-11T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-44764 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-44764 📢 Source: sap 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Due to a Missing Authorization Check vulnerability in SAP Manufacturing Integration and Intelli",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-44764",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-44764:2026-08-11T00:49"
+  },
+  {
+   "ts": "2026-08-11T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-44763 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-44763 📢 Source: sap 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True SAP Manufacturing Integration and Intelligence allows a privileged attacker to exploit insuffic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-44763",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-44763:2026-08-11T00:49"
+  },
+  {
+   "ts": "2026-08-11T00:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-44758 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-44758 📢 Source: sap 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SAP Manufacturing Integration and Intelligence (MII) allows an attacker with high privilege",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-44758",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-44758:2026-08-11T00:49"
+  },
+  {
+   "ts": "2026-08-11T00:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-34265 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-34265 📢 Source: sap 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True SAP NetWeaver Application Server ABAP allows an unauthenticated attacker to exploit logical",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-34265",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34265:2026-08-11T00:49"
+  },
   {
    "ts": "2026-08-11T00:19:08+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71964",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71964:2026-08-10T19:19"
-  },
-  {
-   "ts": "2026-08-10T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59091 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-59091 📢 Source: redhat 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A flaw was found in GIMP's file format plugins, including those for PSD and PAA files. A re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59091",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59091:2026-08-10T19:19"
-  },
-  {
-   "ts": "2026-08-10T18:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71969 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-71969 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False OP-TEE OS through 4.10.0, fixed in commit 7b8b494, contains a buffer underwrite vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71969",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71969:2026-08-10T18:49"
-  },
-  {
-   "ts": "2026-08-10T18:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71968 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-71968 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False OP-TEE OS through 4.10.0, fixed in commit 8794043, contains a use-after-free vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71968",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71968:2026-08-10T18:49"
-  },
-  {
-   "ts": "2026-08-10T18:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71962 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-71962 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Flowise versions 2.2.4 through 3.1.4 contain a missing authorization vulnerability in the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71962",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71962:2026-08-10T18:49"
-  },
-  {
-   "ts": "2026-08-10T18:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-16626 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-16626 📢 Source: Jaspersoft 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper restriction of XML external entity reference vulnerability (unauthenticated",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16626",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16626:2026-08-10T18:19"
-  },
-  {
-   "ts": "2026-08-10T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70622 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-70622 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True tar-rs versions 0.4.11 through 0.4.46 contain a symlink escape vulnerability in the Build",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70622",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70622:2026-08-10T18:19"
-  },
-  {
-   "ts": "2026-08-10T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-10754 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-10754 📢 Source: Pega 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Pega Platform versions 8.5.0 through 25.1.2 are affected by an improper validation of cryptogr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10754",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10754:2026-08-10T18:19"
   }
  ]
 }
