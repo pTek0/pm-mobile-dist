@@ -1,7 +1,167 @@
 {
- "generated_at": "2026-08-11T12:19:08+00:00",
+ "generated_at": "2026-08-11T12:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72785 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-72785 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Craft CMS 5.0.0-RC1 through 5.10.5 contains an incorrect authorization vulnerability.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72785",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72785:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72782 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-72782 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Craft CMS versions >= 5.0.0-RC1 before 5.10.6 and >= 4.0.0-RC1 before 4.18.2 interpolate ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72782",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72782:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72781 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-72781 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Craft CMS versions >= 5.0.0-RC1 before 5.10.7 and >= 4.0.0-RC1 before 4.18.3 contain a re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72781",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72781:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72780 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-72780 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Craft CMS before 5.10.5 fails to persist updated credential counters after WebAuthn asser",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72780",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72780:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72779 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-72779 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Craft CMS 5.0.0-RC1 before 5.10.6 and 4.0.0-RC1 before 4.18.2 contain an arbitrary file r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72779",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72779:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18972 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-18972 📢 Source: rapid7 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True An authenticated attacker can spoof another GUI user's identity by sending their request",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18972",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18972:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72774 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-72774 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.67, 2.31.5, and 2.32.1 contains a credential authorization bypass in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72774",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72774:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72772 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-72772 📢 Source: VulnCheck 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True n8n before 2.32.1 (and before 2.31.5) is vulnerable to account takeover via the Token Exc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72772",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72772:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72771 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-72771 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n versions before 2.32.1 fail to enforce the Allowed HTTP Request Domains allowlist in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72771",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72771:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72770 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-72770 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n versions before 1.123.67 contain a path traversal vulnerability in the Git node's fet",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72770",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72770:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72767 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-72767 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.67, 2.x before 2.31.5, and 2.32.x before 2.32.1 contain a remote code ex",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72767",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72767:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72766 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-72766 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.67, 2.x before 2.31.5, and 2.32.x before 2.32.1 contain a type confusion",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72766",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72766:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72765 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-72765 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True n8n before 2.31.5 and before 2.32.1 contain a sandbox escape vulnerability in expression ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72765",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72765:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72763 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-72763 📢 Source: VulnCheck 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.67, 2.31.5, and 2.32.1 validates credential-access only for a node's top",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72763",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72763:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] tech companies doing incident response",
+   "body": "Lemmy · programming.dev · 점수 53",
+   "link": "https://infosec.exchange/@cR0w/117071756357306113",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://infosec.exchange/@cR0w/117071756357306113:2026-08-11T12:49"
+  },
+  {
+   "ts": "2026-08-11T12:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Linux Mint 22.3 HWE released with Linux kernel 7.0 - OMG! Ub",
+   "body": "Lemmy · programming.dev · 점수 50",
+   "link": "https://www.omgubuntu.co.uk/2026/08/linux-mint-linux-kernel-7-hwe",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://www.omgubuntu.co.uk/2026/08/linux-mint-linux-kernel-7-hwe:2026-08-11T12:49"
+  },
   {
    "ts": "2026-08-11T12:19:07+00:00",
    "level": "general",
@@ -341,166 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15565",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15565:2026-08-11T09:19"
-  },
-  {
-   "ts": "2026-08-11T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15563 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-15563 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in EAP's IIOP. The listener's NameService would accept bind operations with",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15563",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15563:2026-08-11T09:19"
-  },
-  {
-   "ts": "2026-08-11T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15562 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-15562 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in EAP's jboss-remoting. A remote unauthenticated attacker who can reach :8",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15562",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15562:2026-08-11T09:19"
-  },
-  {
-   "ts": "2026-08-11T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15561 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-15561 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in EAP's undertow http/1.1 chunked-transfer decoder. missing limits on size",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15561",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15561:2026-08-11T09:19"
-  },
-  {
-   "ts": "2026-08-11T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15560 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-15560 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True when EAP runs with -secmgr, the openjdk-orb's JDKBridge honours attacker-supplied CDR codeba",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15560",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15560:2026-08-11T09:19"
-  },
-  {
-   "ts": "2026-08-11T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15556 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-15556 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Picketlink's SP signature validation; a SAML response containing zero as",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15556",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15556:2026-08-11T09:19"
-  },
-  {
-   "ts": "2026-08-11T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15555 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-15555 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in JBoss marshalling. The Infinispan session replication path deserializes",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15555",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15555:2026-08-11T09:19"
-  },
-  {
-   "ts": "2026-08-11T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15554 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-15554 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True the Undertow AJP listener honours forged ssl_cert and is_ssl AJP attributes without requirin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15554",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15554:2026-08-11T09:19"
-  },
-  {
-   "ts": "2026-08-11T09:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-10579 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-10579 📢 Source: redhat 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in Picketlink Federation SAML; the unsolcited response handler would ac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10579",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10579:2026-08-11T09:19"
-  },
-  {
-   "ts": "2026-08-11T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72694 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-72694 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A flaw was found in MRTG. When the MRTG daemon is started as a root user and subsequently d",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72694",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72694:2026-08-11T09:19"
-  },
-  {
-   "ts": "2026-08-11T07:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19418 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-19418 📢 Source: TYPO3 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True The referrer enforcement introduced with TYPO3-CORE-SA-2020-006 https://news.typo3.com/securi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19418",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19418:2026-08-11T07:49"
-  },
-  {
-   "ts": "2026-08-11T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16053 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-16053 📢 Source: Zohocorp 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine M365 Manager Plus and M365 Security Plus versions below 4820 are aff",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16053",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16053:2026-08-11T07:19"
-  },
-  {
-   "ts": "2026-08-11T06:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-13716 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-13716 📢 Source: GitLab 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Path traversal in server import and admin file upload in Crafty Controller. Allows a rem",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13716",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13716:2026-08-11T06:19"
-  },
-  {
-   "ts": "2026-08-11T06:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-4757 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-4757 📢 Source: Axis 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A VAPIX API parameter had improper input validation which could allow code execution and potent",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-4757",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4757:2026-08-11T06:19"
-  },
-  {
-   "ts": "2026-08-11T04:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-19425 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-19425 📢 Source: twcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Travel Agency Management System developed by Win Men Intermational has a SQL Injection v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19425",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19425:2026-08-11T04:49"
-  },
-  {
-   "ts": "2026-08-11T02:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-8917 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-8917 📢 Source: ASUS 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Untrusted Pointer Dereference in ASUS GPU Tweak III, GPUTweakII, AI Suite3, and VGAdll: An IOC",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8917",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8917:2026-08-11T02:49"
-  },
-  {
-   "ts": "2026-08-11T02:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19424 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-19424 📢 Source: twcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Chiline Cloud developed by Inventec Appliances has a Insecure Direct Object Reference vulner",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19424",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19424:2026-08-11T02:49"
   }
  ]
 }
