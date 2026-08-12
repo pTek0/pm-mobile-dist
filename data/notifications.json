@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-08-12T17:49:08+00:00",
+ "generated_at": "2026-08-12T18:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73327 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-73327 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Joomla 6.1.1 contains a path traversal vulnerability in the com_joomlaupdate extension th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73327",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73327:2026-08-12T18:19"
+  },
+  {
+   "ts": "2026-08-12T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16627 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-16627 📢 Source: GitLab 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 19.2.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16627",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16627:2026-08-12T18:19"
+  },
+  {
+   "ts": "2026-08-12T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15423 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-15423 📢 Source: GitLab 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.0 before 19.0.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15423",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15423:2026-08-12T18:19"
+  },
+  {
+   "ts": "2026-08-12T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-69106 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-69106 📢 Source: JFROG 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A low-privileged user may poison cached artifact metadata under specific conditions, potentia",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69106",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69106:2026-08-12T18:19"
+  },
+  {
+   "ts": "2026-08-12T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-42018 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-42018 📢 Source: JFROG 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True JFrog Artifactory could return an internal anonymous-user token to an unauthenticated caller ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-42018",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-42018:2026-08-12T18:19"
+  },
+  {
+   "ts": "2026-08-12T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18669 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-18669 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 is vulnerable to a privilege escalation as the result of a remote ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18669",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18669:2026-08-12T18:19"
+  },
+  {
+   "ts": "2026-08-12T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17271 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-17271 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to cause a denial of service due to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17271",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17271:2026-08-12T18:19"
+  },
+  {
+   "ts": "2026-08-12T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17248 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-17248 📢 Source: ibm 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to cause a denial of s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17248",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17248:2026-08-12T18:19"
+  },
+  {
+   "ts": "2026-08-12T18:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-17218 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-17218 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to execute arbitrary code due to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17218",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17218:2026-08-12T18:19"
+  },
+  {
+   "ts": "2026-08-12T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17110 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-17110 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to execute arbitrary c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17110",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17110:2026-08-12T18:19"
+  },
+  {
+   "ts": "2026-08-12T18:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-16956 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-16956 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Db2 Mirror for i 7.4, 7.5, and 7.6 could allow a remote attacker to execute arbitrary c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16956",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16956:2026-08-12T18:19"
+  },
   {
    "ts": "2026-08-12T17:49:07+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-72782",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72782:2026-08-11T12:49"
-  },
-  {
-   "ts": "2026-08-11T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72781 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-72781 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Craft CMS versions >= 5.0.0-RC1 before 5.10.7 and >= 4.0.0-RC1 before 4.18.3 contain a re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72781",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72781:2026-08-11T12:49"
-  },
-  {
-   "ts": "2026-08-11T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72780 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-72780 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Craft CMS before 5.10.5 fails to persist updated credential counters after WebAuthn asser",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72780",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72780:2026-08-11T12:49"
-  },
-  {
-   "ts": "2026-08-11T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72779 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-72779 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Craft CMS 5.0.0-RC1 before 5.10.6 and 4.0.0-RC1 before 4.18.2 contain an arbitrary file r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72779",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72779:2026-08-11T12:49"
-  },
-  {
-   "ts": "2026-08-11T12:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-18972 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-18972 📢 Source: rapid7 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True An authenticated attacker can spoof another GUI user's identity by sending their request",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18972",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18972:2026-08-11T12:49"
-  },
-  {
-   "ts": "2026-08-11T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72774 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-72774 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.67, 2.31.5, and 2.32.1 contains a credential authorization bypass in the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72774",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72774:2026-08-11T12:49"
-  },
-  {
-   "ts": "2026-08-11T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72772 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-72772 📢 Source: VulnCheck 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True n8n before 2.32.1 (and before 2.31.5) is vulnerable to account takeover via the Token Exc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72772",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72772:2026-08-11T12:49"
-  },
-  {
-   "ts": "2026-08-11T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72771 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-72771 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n versions before 2.32.1 fail to enforce the Allowed HTTP Request Domains allowlist in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72771",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72771:2026-08-11T12:49"
-  },
-  {
-   "ts": "2026-08-11T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72770 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-72770 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n versions before 1.123.67 contain a path traversal vulnerability in the Git node's fet",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72770",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72770:2026-08-11T12:49"
-  },
-  {
-   "ts": "2026-08-11T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72767 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-72767 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.67, 2.x before 2.31.5, and 2.32.x before 2.32.1 contain a remote code ex",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72767",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72767:2026-08-11T12:49"
-  },
-  {
-   "ts": "2026-08-11T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72766 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-72766 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.67, 2.x before 2.31.5, and 2.32.x before 2.32.1 contain a type confusion",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72766",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72766:2026-08-11T12:49"
-  },
-  {
-   "ts": "2026-08-11T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72765 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-72765 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True n8n before 2.31.5 and before 2.32.1 contain a sandbox escape vulnerability in expression ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72765",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72765:2026-08-11T12:49"
   }
  ]
 }
