@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-12T15:49:08+00:00",
+ "generated_at": "2026-08-12T16:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15803 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-15803 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Eclipse RDF4J, several XML parser entry points do not fully restrict XML External Entity",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15803",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15803:2026-08-12T16:19"
+  },
   {
    "ts": "2026-08-12T15:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-72548",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72548:2026-08-11T11:49"
-  },
-  {
-   "ts": "2026-08-11T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72547 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-72547 📢 Source: TuranSec 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An insecure direct object reference vulnerability in Attendize through commit 9289acb all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72547",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72547:2026-08-11T11:49"
   }
  ]
 }
