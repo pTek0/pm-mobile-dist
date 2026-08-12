@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-12T12:19:07+00:00",
+ "generated_at": "2026-08-12T12:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T12:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-57858 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-57858 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Cal.com Cal.diy versions 2.1.1 through 6.2.0 contain a stored cross-site scripting vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57858",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57858:2026-08-12T12:49"
+  },
+  {
+   "ts": "2026-08-12T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-26035 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-26035 📢 Source: fortinet 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An Improper Authentication vulnerability [CWE-287] vulnerability in Fortinet FortiWeb 8.0.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-26035",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-26035:2026-08-12T12:49"
+  },
   {
    "ts": "2026-08-12T12:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://github.com/antirez/h3.c",
    "source": "Hacker News",
    "id": "community:https://github.com/antirez/h3.c:2026-08-11T11:49"
-  },
-  {
-   "ts": "2026-08-11T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Stowaway – Take the window seat on any plane or satellite ov",
-   "body": "Hacker News · 점수 277",
-   "link": "https://stowaway.live/",
-   "source": "Hacker News",
-   "id": "community:https://stowaway.live/:2026-08-11T11:49"
-  },
-  {
-   "ts": "2026-08-11T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Learning more about Claude's mathematical capabilities",
-   "body": "Hacker News · 점수 211",
-   "link": "https://www.anthropic.com/research/riemann-zeta",
-   "source": "Hacker News",
-   "id": "community:https://www.anthropic.com/research/riemann-zeta:2026-08-11T11:49"
   }
  ]
 }
