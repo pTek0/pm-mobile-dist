@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-12T14:49:08+00:00",
+ "generated_at": "2026-08-12T15:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68757 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-68757 📢 Source: JFROG 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A user with access to a valid SAML response may impersonate another user under specific condi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68757",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68757:2026-08-12T15:19"
+  },
+  {
+   "ts": "2026-08-12T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68752 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-68752 📢 Source: JFROG 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A Project Resource Manager may gain broader administrative privileges under specific conditio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68752",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68752:2026-08-12T15:19"
+  },
+  {
+   "ts": "2026-08-12T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66375 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-66375 📢 Source: JFROG 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A low-privilege authenticated user may permanently remove protected internal metadata across ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66375",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66375:2026-08-12T15:19"
+  },
+  {
+   "ts": "2026-08-12T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14478 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-14478 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously created executable, when executed on the victim's machine, may allow a loca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14478",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14478:2026-08-12T15:19"
+  },
   {
    "ts": "2026-08-12T13:19:09+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-72543",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72543:2026-08-11T11:49"
-  },
-  {
-   "ts": "2026-08-11T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72538 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-72538 📢 Source: TuranSec 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False An argument injection vulnerability in PrefectHQ Prefect through 3.8.2 allows authenticat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72538",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72538:2026-08-11T11:49"
-  },
-  {
-   "ts": "2026-08-11T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72537 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-72537 📢 Source: TuranSec 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A privilege escalation vulnerability in Authentik Security authentik through 2026.5.6 all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72537",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72537:2026-08-11T11:49"
-  },
-  {
-   "ts": "2026-08-11T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72536 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-72536 📢 Source: TuranSec 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False A missing authentication vulnerability in Chaskiq through commit 46dfdd1 allows unauthent",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72536",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72536:2026-08-11T11:49"
-  },
-  {
-   "ts": "2026-08-11T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] As AI eats the web, the internet’s collective memory is disa",
-   "body": "Hacker News · 점수 328",
-   "link": "https://thewalrus.ca/google-search-is-dying/",
-   "source": "Hacker News",
-   "id": "community:https://thewalrus.ca/google-search-is-dying/:2026-08-11T11:49"
   }
  ]
 }
