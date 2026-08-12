@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-12T15:19:07+00:00",
+ "generated_at": "2026-08-12T15:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-69105 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-69105 📢 Source: JFROG 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True An unauthenticated attacker may cause untrusted package content to be cached under specific c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69105",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69105:2026-08-12T15:49"
+  },
+  {
+   "ts": "2026-08-12T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68759 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-68759 📢 Source: JFROG 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A holder of a valid integration credential may impersonate other users under specific conditi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68759",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68759:2026-08-12T15:49"
+  },
+  {
+   "ts": "2026-08-12T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65941 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-65941 📢 Source: ProgressSoftware 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False In WhatsUp Gold versions released before 2026.0.2, an unauthenticated remote atta",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65941",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65941:2026-08-12T15:49"
+  },
+  {
+   "ts": "2026-08-12T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65937 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-65937 📢 Source: ProgressSoftware 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False In WhatsUp Gold versions released before 2026.0.2, an authenticated attacker can by",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65937",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65937:2026-08-12T15:49"
+  },
   {
    "ts": "2026-08-12T15:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-72547",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72547:2026-08-11T11:49"
-  },
-  {
-   "ts": "2026-08-11T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72546 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-72546 📢 Source: TuranSec 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An insecure direct object reference vulnerability in Attendize through commit 9289acb all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72546",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72546:2026-08-11T11:49"
-  },
-  {
-   "ts": "2026-08-11T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72545 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-72545 📢 Source: TuranSec 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False An insecure direct object reference vulnerability in OpenSignLabs OpenSign through 2.37.0",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72545",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72545:2026-08-11T11:49"
-  },
-  {
-   "ts": "2026-08-11T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72544 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-72544 📢 Source: TuranSec 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False An integrity verification vulnerability in OpenSignLabs OpenSign through 2.37.0 allows un",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72544",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72544:2026-08-11T11:49"
-  },
-  {
-   "ts": "2026-08-11T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72543 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-72543 📢 Source: TuranSec 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False An insecure direct object reference vulnerability in OpenSignLabs OpenSign through 2.37.0",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72543",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72543:2026-08-11T11:49"
   }
  ]
 }
