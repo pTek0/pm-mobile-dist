@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-08-12T20:19:09+00:00",
+ "generated_at": "2026-08-12T20:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19004 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-19004 📢 Source: mongodb 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An application using the MongoDB BI Connector ODBC Driver may experience a memory-safety is",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19004",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19004:2026-08-12T20:49"
+  },
+  {
+   "ts": "2026-08-12T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19002 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-19002 📢 Source: mongodb 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A missing bounds check when parsing stored procedure parameter metadata in the MongoDB BI C",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19002",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19002:2026-08-12T20:49"
+  },
+  {
+   "ts": "2026-08-12T20:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19001 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-19001 📢 Source: mongodb 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The MongoDB BI Connector ODBC Driver may write outside the bounds of a fixed-size buffe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19001",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19001:2026-08-12T20:49"
+  },
+  {
+   "ts": "2026-08-12T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18888 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-18888 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True The MongoDB BI Connector ODBC Driver converts floating point column values into text withou",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18888",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18888:2026-08-12T20:49"
+  },
+  {
+   "ts": "2026-08-12T20:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-66898 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-66898 📢 Source: canonical 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A path traversal vulnerability in LXD allows an attacker to manipulate file system pa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66898",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66898:2026-08-12T20:49"
+  },
+  {
+   "ts": "2026-08-12T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16033 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-16033 📢 Source: canonical 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True A path traversal vulnerability in LXD allows an attacker to achieve arbitrary host file r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16033",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16033:2026-08-12T20:49"
+  },
+  {
+   "ts": "2026-08-12T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14866 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-14866 📢 Source: ibm 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False IBM i Access Client Solutions 1.1.2.0 through 1.1.9.13 is vulnerable to injection of rogue cer",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14866",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14866:2026-08-12T20:49"
+  },
   {
    "ts": "2026-08-12T20:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-48553",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-48553:2026-08-12T17:19"
-  },
-  {
-   "ts": "2026-08-12T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18847 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-18847 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote unauthenticated attacker to harvest credentia",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18847",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18847:2026-08-12T17:19"
-  },
-  {
-   "ts": "2026-08-12T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18683 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-18683 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 is vulnerable to privilege escalation via Navigator for i. An auth",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18683",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18683:2026-08-12T17:19"
-  },
-  {
-   "ts": "2026-08-12T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18098 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-18098 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to obtain sensitive in",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18098",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18098:2026-08-12T17:19"
-  },
-  {
-   "ts": "2026-08-12T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17095 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-17095 📢 Source: ibm 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to bypass security res",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17095",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17095:2026-08-12T17:19"
-  },
-  {
-   "ts": "2026-08-12T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-48551 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-48551 📢 Source: VulnCheck 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Nagios Core before 4.5.14 and Nagios XI before 2026R1.7 contain a cross-site request forg",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-48551",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-48551:2026-08-12T16:49"
-  },
-  {
-   "ts": "2026-08-12T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18499 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-18499 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM WebSphere Application Server - Liberty 17.0.0.3 through 26.0.0.8 is vulnerable to a privile",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18499",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18499:2026-08-12T16:49"
-  },
-  {
-   "ts": "2026-08-12T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15803 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-15803 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Eclipse RDF4J, several XML parser entry points do not fully restrict XML External Entity",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15803",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15803:2026-08-12T16:19"
   }
  ]
 }
