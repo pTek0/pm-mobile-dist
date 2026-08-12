@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-12T22:49:12+00:00",
+ "generated_at": "2026-08-12T23:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Tailscale Traces Database Corruption to 16y/o SQLite WAL-Res",
+   "body": "Hacker News · 점수 704",
+   "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+   "source": "Hacker News",
+   "id": "community:https://tailscale.com/blog/sqlite-wal-reset-bug:2026-08-12T23:19"
+  },
+  {
+   "ts": "2026-08-12T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI is removing the middle class of software engineering?",
+   "body": "Hacker News · 점수 655",
+   "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+   "source": "Hacker News",
+   "id": "community:https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html:2026-08-12T23:19"
+  },
+  {
+   "ts": "2026-08-12T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] DeepSeek V4 Pro 0813",
+   "body": "Hacker News · 점수 655",
+   "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+   "source": "Hacker News",
+   "id": "community:https://openrouter.ai/deepseek/deepseek-v4-pro-0813:2026-08-12T23:19"
+  },
+  {
+   "ts": "2026-08-12T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] License plate reader searches should require a warrant",
+   "body": "Hacker News · 점수 498",
+   "link": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+   "source": "Hacker News",
+   "id": "community:https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/:2026-08-12T23:19"
+  },
+  {
+   "ts": "2026-08-12T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Woman Calls Out Doctor Wearing Smart Glasses During Consulta",
+   "body": "Lemmy · technology · 점수 484",
+   "link": "https://www.fashiontimes.co.uk/patient-privacy-concerns-meta-smart-glasses-1762492",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.fashiontimes.co.uk/patient-privacy-concerns-meta-smart-glasses-1762492:2026-08-12T23:19"
+  },
   {
    "ts": "2026-08-12T22:49:10+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-17111",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17111:2026-08-12T19:49"
-  },
-  {
-   "ts": "2026-08-12T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-17083 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-17083 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to execute arbitrary code due to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17083",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17083:2026-08-12T19:49"
-  },
-  {
-   "ts": "2026-08-12T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17082 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-17082 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to gain elevated privi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17082",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17082:2026-08-12T19:49"
-  },
-  {
-   "ts": "2026-08-12T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-13361 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-13361 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Informix Dynamic Server 14.10, 12.10.x, and 15.0 IBM Informix oninit sq_sgkprepare RCE via ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13361",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13361:2026-08-12T19:49"
-  },
-  {
-   "ts": "2026-08-12T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19311 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-19311 📢 Source: AMZN 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Missing authorization in the Execute Monitor API in Amazon OpenSearch Alerting plugin might al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19311",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19311:2026-08-12T19:19"
-  },
-  {
-   "ts": "2026-08-12T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18952 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-18952 📢 Source: AMZN 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Missing input validation in the threat intelligence feed parser in the OpenSearch Security Ana",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18952",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18952:2026-08-12T19:19"
   }
  ]
 }
