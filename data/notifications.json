@@ -1,7 +1,147 @@
 {
- "generated_at": "2026-08-12T19:19:07+00:00",
+ "generated_at": "2026-08-12T19:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63298 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-63298 📢 Source: canonical 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An improper neutralization of special elements vulnerability in LXD's NVIDIA instance con",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63298",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63298:2026-08-12T19:49"
+  },
+  {
+   "ts": "2026-08-12T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-63297 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-63297 📢 Source: canonical 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True An authorization bypass vulnerability in LXD due to a timing flaw during configuratio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63297",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63297:2026-08-12T19:49"
+  },
+  {
+   "ts": "2026-08-12T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-63296 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-63296 📢 Source: canonical 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True An authorization bypass vulnerability in LXD allows an authenticated attacker to bypa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63296",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63296:2026-08-12T19:49"
+  },
+  {
+   "ts": "2026-08-12T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59917 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-59917 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Display and Peripheral Manager (DDPM Windows), versions prior to 2.3.0.17 , contain Impr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59917",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59917:2026-08-12T19:49"
+  },
+  {
+   "ts": "2026-08-12T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59914 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-59914 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Display and Peripheral Manager (DDPM Windows), versions prior to 2.3.0.17 , contain an A",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59914",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59914:2026-08-12T19:49"
+  },
+  {
+   "ts": "2026-08-12T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-46731 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-46731 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Display and Peripheral Manager (DDPM Windows), versions prior to 2.3.0.17 , contain an A",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-46731",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-46731:2026-08-12T19:49"
+  },
+  {
+   "ts": "2026-08-12T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18099 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-18099 📢 Source: ibm 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to execute arbitrary s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18099",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18099:2026-08-12T19:49"
+  },
+  {
+   "ts": "2026-08-12T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17642 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-17642 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to execute arbitrary c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17642",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17642:2026-08-12T19:49"
+  },
+  {
+   "ts": "2026-08-12T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17445 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-17445 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to bypass security res",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17445",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17445:2026-08-12T19:49"
+  },
+  {
+   "ts": "2026-08-12T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17417 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-17417 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to execute arbitrary c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17417",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17417:2026-08-12T19:49"
+  },
+  {
+   "ts": "2026-08-12T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17111 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-17111 📢 Source: ibm 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 s vulnerable to SQL injection. A remote attacker could send specia",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17111",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17111:2026-08-12T19:49"
+  },
+  {
+   "ts": "2026-08-12T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-17083 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-17083 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to execute arbitrary code due to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17083",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17083:2026-08-12T19:49"
+  },
+  {
+   "ts": "2026-08-12T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17082 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-17082 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to gain elevated privi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17082",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17082:2026-08-12T19:49"
+  },
+  {
+   "ts": "2026-08-12T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13361 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-13361 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Informix Dynamic Server 14.10, 12.10.x, and 15.0 IBM Informix oninit sq_sgkprepare RCE via ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13361",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13361:2026-08-12T19:49"
+  },
   {
    "ts": "2026-08-12T19:19:07+00:00",
    "level": "general",
@@ -361,146 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-53996",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53996:2026-08-12T13:19"
-  },
-  {
-   "ts": "2026-08-12T12:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-57858 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-57858 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Cal.com Cal.diy versions 2.1.1 through 6.2.0 contain a stored cross-site scripting vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57858",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57858:2026-08-12T12:49"
-  },
-  {
-   "ts": "2026-08-12T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-26035 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-26035 📢 Source: fortinet 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An Improper Authentication vulnerability [CWE-287] vulnerability in Fortinet FortiWeb 8.0.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-26035",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-26035:2026-08-12T12:49"
-  },
-  {
-   "ts": "2026-08-12T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70465 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-70465 📢 Source: fortinet 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True A buffer copy without checking size of input ('classic buffer overflow') vulnerability in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70465",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70465:2026-08-12T12:19"
-  },
-  {
-   "ts": "2026-08-12T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-11325 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-11325 📢 Source: cloudflare 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Description Cloudflare was recently notified by external researchers of vulnerabilities ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-11325",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-11325:2026-08-12T11:49"
-  },
-  {
-   "ts": "2026-08-12T10:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: 배치 시뮬(room-scan)",
-   "body": "**리서치 완료(3D-R01, 08-12)** — iPhone Pro(LiDAR)+RoomPlan 파라메트릭+임계치수 줄자 검증 하이브리드 권고(R03 방 모델과 1:1 동형)",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: 배치 시뮬(room-scan):2026-08-12T10:19"
-  },
-  {
-   "ts": "2026-08-12T10:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: 에셋 저작(asset-pipeline)",
-   "body": "**리서치 완료(3D-R02, 08-12)** — 3-way 라우팅(장식=생성형·규격부품=OpenSCAD/Adam CAD·기성품=마켓)+도구 추천(Meshy/TRELLIS.2/Poly Haven)",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: 에셋 저작(asset-pipeline):2026-08-12T10:19"
-  },
-  {
-   "ts": "2026-08-12T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-41770 (CVSS 8.7)",
-   "body": "🚨 CVE-2025-41770 📢 Source: CERTVDE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An unauthenticated denial-of-service vulnerability in the device's PLCnext Engineer communi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-41770",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-41770:2026-08-12T09:19"
-  },
-  {
-   "ts": "2026-08-12T09:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2025-41769 (CVSS 9.8)",
-   "body": "🚨 CVE-2025-41769 📢 Source: CERTVDE 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The device's PROFINET service is affected by a buffer overflow vulnerability that exist",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-41769",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-41769:2026-08-12T09:19"
-  },
-  {
-   "ts": "2026-08-12T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19426 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-19426 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True POS System developed by FitSoft has a Missing Authentication vulnerability. Unauthenticated ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19426",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19426:2026-08-12T09:19"
-  },
-  {
-   "ts": "2026-08-12T09:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: 배치 시뮬(room-scan)",
-   "body": "**리서치 공백** — R03은 줄자 실측 전제(스캔 불요). 사용자는 실제 3D 스캔 원함 → 스캔 기술 실현성 리서치 위임(3D-R01)",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: 배치 시뮬(room-scan):2026-08-12T09:19"
-  },
-  {
-   "ts": "2026-08-12T09:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: 가상 조립(rack-assembly)",
-   "body": "**설계 완료(R03)** — three.js+WebView2 + 원장 스키마(rack/component/placement) + 규격 검증 룰",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: 가상 조립(rack-assembly):2026-08-12T09:19"
-  },
-  {
-   "ts": "2026-08-12T09:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: 에셋 저작(asset-pipeline)",
-   "body": "**리서치 공백** — R08은 OpenSCAD·Bambu 출력만. \"에셋 구매/LLM 생성\" 경로 미조사 → text/image-to-3D + 에셋 마켓 리서치 위임(3D-R02)",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: 에셋 저작(asset-pipeline):2026-08-12T09:19"
-  },
-  {
-   "ts": "2026-08-11T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19539 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-19539 📢 Source: Secur0 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key in the ticket management component in Rosku",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19539",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19539:2026-08-11T14:19"
-  },
-  {
-   "ts": "2026-08-11T13:49:09+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-desktop",
-   "body": "**★ 2026-08-11 Phase 2(Wave1~3, PM 구조 개편 후속) 구현·검증 완료** — W1: 탭 드래그 재정렬(관리 탭을 대시보드 다음, 순서 영속)·개발 탭 레이아웃 통일+개발 기록(작업내역/오류",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-desktop:2026-08-11T13:49"
   }
  ]
 }
