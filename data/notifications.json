@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-08-12T20:49:09+00:00",
+ "generated_at": "2026-08-12T21:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-64826 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-64826 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True rConfig before 8.2.13 contains a path traversal vulnerability that allows authenticated a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64826",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64826:2026-08-12T21:19"
+  },
+  {
+   "ts": "2026-08-12T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19654 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-19654 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A unauthenticated remote peer may lead rsyslogd to crash due to a flaw in the optional imptc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19654",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19654:2026-08-12T21:19"
+  },
+  {
+   "ts": "2026-08-12T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16695 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-16695 📢 Source: ibm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False IBM i Access Client Solutions 1.1.2.0 through 1.1.9.13 could allow a local attacker to execute",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16695",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16695:2026-08-12T21:19"
+  },
+  {
+   "ts": "2026-08-12T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13476 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-13476 📢 Source: ibm 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True IBM Informix Dynamic Server 14.10, 15.0, and 12.10 IBM Informix could allow an unauthenticated ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13476",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13476:2026-08-12T21:19"
+  },
+  {
+   "ts": "2026-08-12T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13433 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-13433 📢 Source: ibm 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False IBM i Access Client Solutions 1.1.2.0 through 1.1.9.13 (ACS) is vulnerable to downloading unve",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13433",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13433:2026-08-12T21:19"
+  },
+  {
+   "ts": "2026-08-12T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13367 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-13367 📢 Source: ibm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False IBM Informix Dynamic Server 14.10, and 15.0 contain a local privilege escalation vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13367",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13367:2026-08-12T21:19"
+  },
+  {
+   "ts": "2026-08-12T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13105 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-13105 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM i Access Client Solutions 1.1.2.0 through 1.1.9.13 is vulnerable to zip slip path traversal",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13105",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13105:2026-08-12T21:19"
+  },
+  {
+   "ts": "2026-08-12T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13094 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-13094 📢 Source: ibm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False IBM i Access Client Solutions 1.1.2.0 through 1.1.9.13 is vulnerable to arbitrary code executi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13094",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13094:2026-08-12T21:19"
+  },
+  {
+   "ts": "2026-08-12T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10543 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-10543 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM Db2 11.5.0 through 11.5.9, and 12.1.0 through 12.1.5 is vulnerable to privilege escalation ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10543",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10543:2026-08-12T21:19"
+  },
   {
    "ts": "2026-08-12T20:49:07+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-17218",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17218:2026-08-12T18:19"
-  },
-  {
-   "ts": "2026-08-12T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17110 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-17110 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to execute arbitrary c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17110",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17110:2026-08-12T18:19"
-  },
-  {
-   "ts": "2026-08-12T18:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-16956 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-16956 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Db2 Mirror for i 7.4, 7.5, and 7.6 could allow a remote attacker to execute arbitrary c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16956",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16956:2026-08-12T18:19"
-  },
-  {
-   "ts": "2026-08-12T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18713 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-18713 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 s vulnerable to privilege escalation via Navigator for i. An authe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18713",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18713:2026-08-12T17:49"
-  },
-  {
-   "ts": "2026-08-12T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18235 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-18235 📢 Source: ibm 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to execute arbitrary C",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18235",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18235:2026-08-12T17:49"
-  },
-  {
-   "ts": "2026-08-12T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17418 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-17418 📢 Source: ibm 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a local authenticated attacker to cause a denial of se",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17418",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17418:2026-08-12T17:49"
-  },
-  {
-   "ts": "2026-08-12T17:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-17276 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-17276 📢 Source: ibm 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to escalate privil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17276",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17276:2026-08-12T17:49"
-  },
-  {
-   "ts": "2026-08-12T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16904 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-16904 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to execute arbitrary c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16904",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16904:2026-08-12T17:49"
-  },
-  {
-   "ts": "2026-08-12T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-48554 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-48554 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Nagios Core before 4.5.14 and Nagios XI before 2026R1.7 are vulnerable to authenticated r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-48554",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-48554:2026-08-12T17:19"
-  },
-  {
-   "ts": "2026-08-12T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-48553 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-48553 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Nagios Core before 4.5.13 and Nagios XI before 2026R1.5 are vulnerable to authenticated r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-48553",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-48553:2026-08-12T17:19"
   }
  ]
 }
