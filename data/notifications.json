@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-12T21:49:09+00:00",
+ "generated_at": "2026-08-12T22:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71473 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-71473 📢 Source: redhat 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the `search-v2-operator` component. A user with specific administrative ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71473",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71473:2026-08-12T22:19"
+  },
+  {
+   "ts": "2026-08-12T22:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-71471 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-71471 📢 Source: redhat 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in acm-search-v2-rhel9. An attacker with administrative privileges on the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71471",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71471:2026-08-12T22:19"
+  },
+  {
+   "ts": "2026-08-12T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71469 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-71469 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in search-v2-api. An unauthenticated attacker can exploit this by sending r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71469",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71469:2026-08-12T22:19"
+  },
   {
    "ts": "2026-08-12T21:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73327",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73327:2026-08-12T18:19"
-  },
-  {
-   "ts": "2026-08-12T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16627 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-16627 📢 Source: GitLab 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 19.2.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16627",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16627:2026-08-12T18:19"
-  },
-  {
-   "ts": "2026-08-12T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15423 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-15423 📢 Source: GitLab 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.0 before 19.0.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15423",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15423:2026-08-12T18:19"
-  },
-  {
-   "ts": "2026-08-12T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-69106 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-69106 📢 Source: JFROG 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A low-privileged user may poison cached artifact metadata under specific conditions, potentia",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69106",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69106:2026-08-12T18:19"
   }
  ]
 }
