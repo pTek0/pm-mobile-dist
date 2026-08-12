@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-12T12:49:08+00:00",
+ "generated_at": "2026-08-12T13:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T13:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-53996 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-53996 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False NetBSD's hdaudio(4) driver in sys/dev/hdaudio/hdaudio.c contains a missing access contro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53996",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53996:2026-08-12T13:19"
+  },
   {
    "ts": "2026-08-12T12:49:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://thewalrus.ca/google-search-is-dying/",
    "source": "Hacker News",
    "id": "community:https://thewalrus.ca/google-search-is-dying/:2026-08-11T11:49"
-  },
-  {
-   "ts": "2026-08-11T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-   "body": "Hacker News · 점수 290",
-   "link": "https://github.com/antirez/h3.c",
-   "source": "Hacker News",
-   "id": "community:https://github.com/antirez/h3.c:2026-08-11T11:49"
   }
  ]
 }
