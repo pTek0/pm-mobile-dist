@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-12T11:49:08+00:00",
+ "generated_at": "2026-08-12T12:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70465 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-70465 📢 Source: fortinet 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True A buffer copy without checking size of input ('classic buffer overflow') vulnerability in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70465",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70465:2026-08-12T12:19"
+  },
   {
    "ts": "2026-08-12T11:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.anthropic.com/research/riemann-zeta",
    "source": "Hacker News",
    "id": "community:https://www.anthropic.com/research/riemann-zeta:2026-08-11T11:49"
-  },
-  {
-   "ts": "2026-08-11T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Top economist warns that the AI math doesn’t make sense: 'Pr",
-   "body": "Lemmy · technology · 점수 202",
-   "link": "https://fortune.com/2026/08/10/torsten-slok-ai-profit-margins-capex-oracle/",
-   "source": "Lemmy · technology",
-   "id": "community:https://fortune.com/2026/08/10/torsten-slok-ai-profit-margins-capex-oracle/:2026-08-11T11:49"
   }
  ]
 }
