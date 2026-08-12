@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-12T21:19:07+00:00",
+ "generated_at": "2026-08-12T21:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17485 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-17485 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to cause a denial of service and obt",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17485",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17485:2026-08-12T21:49"
+  },
+  {
+   "ts": "2026-08-12T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10534 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-10534 📢 Source: ibm 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False IBM Db2 11.5.0 through 11.5.9, and 12.1.0 through 12.1.5 is vulnerable to buffer overflow in t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10534",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10534:2026-08-12T21:49"
+  },
+  {
+   "ts": "2026-08-12T21:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2024-27253 (CVSS 10.0)",
+   "body": "🚨 CVE-2024-27253 📢 Source: ibm 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True IBM DOORS Next 7.0.3 through 7.0.3 Interim Fix 018 could allow an authenticated user to bypa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2024-27253",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-27253:2026-08-12T21:49"
+  },
+  {
+   "ts": "2026-08-12T21:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73519 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-73519 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True WolfStack before 25.9.2 contains a hard-coded cluster-authentication secret compiled ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73519",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73519:2026-08-12T21:49"
+  },
+  {
+   "ts": "2026-08-12T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19003 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-19003 📢 Source: mongodb 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False A data source definition containing an over-length file path setting may cause the MongoDB",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19003",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19003:2026-08-12T21:49"
+  },
   {
    "ts": "2026-08-12T21:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-69106",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69106:2026-08-12T18:19"
-  },
-  {
-   "ts": "2026-08-12T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-42018 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-42018 📢 Source: JFROG 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True JFrog Artifactory could return an internal anonymous-user token to an unauthenticated caller ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-42018",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-42018:2026-08-12T18:19"
-  },
-  {
-   "ts": "2026-08-12T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18669 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-18669 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 is vulnerable to a privilege escalation as the result of a remote ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18669",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18669:2026-08-12T18:19"
-  },
-  {
-   "ts": "2026-08-12T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17271 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-17271 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to cause a denial of service due to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17271",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17271:2026-08-12T18:19"
-  },
-  {
-   "ts": "2026-08-12T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17248 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-17248 📢 Source: ibm 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to cause a denial of s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17248",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17248:2026-08-12T18:19"
-  },
-  {
-   "ts": "2026-08-12T18:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-17218 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-17218 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to execute arbitrary code due to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17218",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17218:2026-08-12T18:19"
   }
  ]
 }
