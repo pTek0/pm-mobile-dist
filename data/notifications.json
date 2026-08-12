@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-08-12T19:49:10+00:00",
+ "generated_at": "2026-08-12T20:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-67579 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-67579 📢 Source: EEF 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Deserialization of Untrusted Data vulnerability in ash-project ash allows an unauthenticated a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67579",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67579:2026-08-12T20:19"
+  },
+  {
+   "ts": "2026-08-12T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-63294 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-63294 📢 Source: canonical 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A link following vulnerability in LXD allows an attacker to achieve root command exec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63294",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63294:2026-08-12T20:19"
+  },
+  {
+   "ts": "2026-08-12T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-63293 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-63293 📢 Source: canonical 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A link following vulnerability in LXD allows an attacker to achieve arbitrary file re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63293",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63293:2026-08-12T20:19"
+  },
+  {
+   "ts": "2026-08-12T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13267 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-13267 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13267",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13267:2026-08-12T20:19"
+  },
+  {
+   "ts": "2026-08-12T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12618 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-12618 📢 Source: ibm 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12618",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12618:2026-08-12T20:19"
+  },
+  {
+   "ts": "2026-08-12T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12359 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-12359 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12359",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12359:2026-08-12T20:19"
+  },
+  {
+   "ts": "2026-08-12T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12005 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-12005 📢 Source: ibm 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12005",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12005:2026-08-12T20:19"
+  },
+  {
+   "ts": "2026-08-12T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12004 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-12004 📢 Source: ibm 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12004",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12004:2026-08-12T20:19"
+  },
+  {
+   "ts": "2026-08-12T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-11923 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-11923 📢 Source: ibm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-11923",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-11923:2026-08-12T20:19"
+  },
   {
    "ts": "2026-08-12T19:49:07+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15803",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15803:2026-08-12T16:19"
-  },
-  {
-   "ts": "2026-08-12T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-69105 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-69105 📢 Source: JFROG 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True An unauthenticated attacker may cause untrusted package content to be cached under specific c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69105",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69105:2026-08-12T15:49"
-  },
-  {
-   "ts": "2026-08-12T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-68759 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-68759 📢 Source: JFROG 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A holder of a valid integration credential may impersonate other users under specific conditi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68759",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68759:2026-08-12T15:49"
-  },
-  {
-   "ts": "2026-08-12T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65941 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-65941 📢 Source: ProgressSoftware 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False In WhatsUp Gold versions released before 2026.0.2, an unauthenticated remote atta",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65941",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65941:2026-08-12T15:49"
-  },
-  {
-   "ts": "2026-08-12T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65937 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-65937 📢 Source: ProgressSoftware 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False In WhatsUp Gold versions released before 2026.0.2, an authenticated attacker can by",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65937",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65937:2026-08-12T15:49"
-  },
-  {
-   "ts": "2026-08-12T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-68757 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-68757 📢 Source: JFROG 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A user with access to a valid SAML response may impersonate another user under specific condi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68757",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68757:2026-08-12T15:19"
-  },
-  {
-   "ts": "2026-08-12T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-68752 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-68752 📢 Source: JFROG 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A Project Resource Manager may gain broader administrative privileges under specific conditio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68752",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68752:2026-08-12T15:19"
-  },
-  {
-   "ts": "2026-08-12T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66375 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-66375 📢 Source: JFROG 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A low-privilege authenticated user may permanently remove protected internal metadata across ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66375",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66375:2026-08-12T15:19"
-  },
-  {
-   "ts": "2026-08-12T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14478 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-14478 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously created executable, when executed on the victim's machine, may allow a loca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14478",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14478:2026-08-12T15:19"
-  },
-  {
-   "ts": "2026-08-12T13:19:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-53996 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-53996 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False NetBSD's hdaudio(4) driver in sys/dev/hdaudio/hdaudio.c contains a missing access contro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53996",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53996:2026-08-12T13:19"
   }
  ]
 }
