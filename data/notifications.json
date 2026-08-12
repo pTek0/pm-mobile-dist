@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-11T14:19:08+00:00",
+ "generated_at": "2026-08-12T09:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-12T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-41770 (CVSS 8.7)",
+   "body": "🚨 CVE-2025-41770 📢 Source: CERTVDE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An unauthenticated denial-of-service vulnerability in the device's PLCnext Engineer communi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-41770",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-41770:2026-08-12T09:19"
+  },
+  {
+   "ts": "2026-08-12T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-41769 (CVSS 9.8)",
+   "body": "🚨 CVE-2025-41769 📢 Source: CERTVDE 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The device's PROFINET service is affected by a buffer overflow vulnerability that exist",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-41769",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-41769:2026-08-12T09:19"
+  },
+  {
+   "ts": "2026-08-12T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19426 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-19426 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True POS System developed by FitSoft has a Missing Authentication vulnerability. Unauthenticated ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19426",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19426:2026-08-12T09:19"
+  },
+  {
+   "ts": "2026-08-12T09:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "새 프로젝트: 배치 시뮬(room-scan)",
+   "body": "**리서치 공백** — R03은 줄자 실측 전제(스캔 불요). 사용자는 실제 3D 스캔 원함 → 스캔 기술 실현성 리서치 위임(3D-R01)",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:새 프로젝트: 배치 시뮬(room-scan):2026-08-12T09:19"
+  },
+  {
+   "ts": "2026-08-12T09:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "새 프로젝트: 가상 조립(rack-assembly)",
+   "body": "**설계 완료(R03)** — three.js+WebView2 + 원장 스키마(rack/component/placement) + 규격 검증 룰",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:새 프로젝트: 가상 조립(rack-assembly):2026-08-12T09:19"
+  },
+  {
+   "ts": "2026-08-12T09:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "새 프로젝트: 에셋 저작(asset-pipeline)",
+   "body": "**리서치 공백** — R08은 OpenSCAD·Bambu 출력만. \"에셋 구매/LLM 생성\" 경로 미조사 → text/image-to-3D + 에셋 마켓 리서치 위임(3D-R02)",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:새 프로젝트: 에셋 저작(asset-pipeline):2026-08-12T09:19"
+  },
   {
    "ts": "2026-08-11T14:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://www.windowscentral.com/microsoft/windows-11/amid-ram-price-hikes-microsoft-reportedly-raises-windows-license-cost-forcing-oems-to-hike-prices-even-further-on-hardware",
    "source": "Lemmy · technology",
    "id": "community:https://www.windowscentral.com/microsoft/windows-11/amid-ram-price-hikes-microsoft-reportedly-raises-windows-license-cost-forcing-oems-to-hike-prices-even-further-on-hardware:2026-08-11T11:19"
-  },
-  {
-   "ts": "2026-08-11T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] This has been happening to a lot of people recently",
-   "body": "Lemmy · programming.dev · 점수 446",
-   "link": "https://lemmy.dbzer0.com/pictrs/image/df6a9f5d-5683-46b2-9620-0375b17cf093.webp",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.dbzer0.com/pictrs/image/df6a9f5d-5683-46b2-9620-0375b17cf093.webp:2026-08-11T11:19"
-  },
-  {
-   "ts": "2026-08-11T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: Needle2: 14MB agentic LLM for phones, wearables, sm",
-   "body": "Hacker News · 점수 352",
-   "link": "https://cactuscompute.com/needle",
-   "source": "Hacker News",
-   "id": "community:https://cactuscompute.com/needle:2026-08-11T11:19"
-  },
-  {
-   "ts": "2026-08-11T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Salem Brought a Guillotine To Oppose New Data Center. Compan",
-   "body": "Lemmy · technology · 점수 349",
-   "link": "https://www.gadgetreview.com/salem-brought-a-guillotine-to-oppose-new-data-center-company-reps-left-feeling-unsafe",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.gadgetreview.com/salem-brought-a-guillotine-to-oppose-new-data-center-company-reps-left-feeling-unsafe:2026-08-11T11:19"
-  },
-  {
-   "ts": "2026-08-11T10:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-58231 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-58231 📢 Source: sap 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True SAP Commerce Cloud allows an unauthenticated attacker to abuse a default authentication clie",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58231",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58231:2026-08-11T10:49"
-  },
-  {
-   "ts": "2026-08-11T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73160 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-73160 📢 Source: CIRCL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Affected versions of cti-transmute contain an SSRF vulnerability in the /fetch_misp_event and",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73160",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73160:2026-08-11T09:19"
-  },
-  {
-   "ts": "2026-08-11T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71217 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-71217 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in iperf3. A remote attacker can exploit this vulnerability by sending craf",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71217",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71217:2026-08-11T09:19"
   }
  ]
 }
