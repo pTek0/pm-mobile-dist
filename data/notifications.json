@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-13T14:19:19+00:00",
+ "generated_at": "2026-08-13T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19734 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-19734 📢 Source: Secur0 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Missing Authorization and Authorization Bypass Through User-Controlled Key in the product ma",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19734",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19734:2026-08-13T14:49"
+  },
+  {
+   "ts": "2026-08-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19292 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-19292 📢 Source: Silabs 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Re-pairing with a legitimate device can use a lower security level than previous making bru",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19292",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19292:2026-08-13T14:49"
+  },
+  {
+   "ts": "2026-08-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19291 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-19291 📢 Source: Silabs 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Bluetooth re-pairing with an existing device can use a lower security level. RS9116W and Si",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19291",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19291:2026-08-13T14:49"
+  },
+  {
+   "ts": "2026-08-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16101 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-16101 📢 Source: Silabs 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Spoofing an already bonded device can force either RS9116W or SiWx917 to re-pair/bond with ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16101",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16101:2026-08-13T14:49"
+  },
   {
    "ts": "2026-08-13T14:19:18+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-59499",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59499:2026-08-13T09:49"
-  },
-  {
-   "ts": "2026-08-13T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19484 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-19484 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /busboy is a multipart form-data parser. In versions 3.1.0 through 3.2.0, a remote",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19484",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19484:2026-08-13T09:49"
-  },
-  {
-   "ts": "2026-08-13T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19481 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-19481 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /busboy is a multipart form-data parser. In versions 1.0.0 through 3.2.0, an attac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19481",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19481:2026-08-13T09:19"
-  },
-  {
-   "ts": "2026-08-13T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-11840 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-11840 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine Password Manager Pro versions before 13232 and ManageEngine PAM360 v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-11840",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-11840:2026-08-13T08:19"
-  },
-  {
-   "ts": "2026-08-13T01:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I hate packaging my software for Linux",
-   "body": "Lobsters · 점수 55",
-   "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
-   "source": "Lobsters",
-   "id": "community:https://getfresh.dev/docs/blog/packaging-for-linux/:2026-08-13T01:19"
   }
  ]
 }
