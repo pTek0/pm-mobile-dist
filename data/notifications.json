@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-13T08:49:08+00:00",
+ "generated_at": "2026-08-13T09:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19481 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-19481 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /busboy is a multipart form-data parser. In versions 1.0.0 through 3.2.0, an attac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19481",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19481:2026-08-13T09:19"
+  },
   {
    "ts": "2026-08-13T08:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-63294",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63294:2026-08-12T20:19"
-  },
-  {
-   "ts": "2026-08-12T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-63293 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-63293 📢 Source: canonical 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A link following vulnerability in LXD allows an attacker to achieve arbitrary file re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63293",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63293:2026-08-12T20:19"
   }
  ]
 }
