@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-13T22:49:09+00:00",
+ "generated_at": "2026-08-13T23:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T23:19:10+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Gemini 3.7 Flash",
+   "body": "Hacker News · 점수 523",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+   "source": "Hacker News",
+   "id": "community:https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/:2026-08-13T23:19"
+  },
+  {
+   "ts": "2026-08-13T23:19:10+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] DeepSeek Harness developer preview",
+   "body": "Hacker News · 점수 520",
+   "link": "https://deepseek.com/harness/en/",
+   "source": "Hacker News",
+   "id": "community:https://deepseek.com/harness/en/:2026-08-13T23:19"
+  },
+  {
+   "ts": "2026-08-13T23:19:10+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Spaghettifying DRAM",
+   "body": "Hacker News · 점수 456",
+   "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+   "source": "Hacker News",
+   "id": "community:https://github.com/xoreaxeaxeax/skitter-creek-bath-salts:2026-08-13T23:19"
+  },
+  {
+   "ts": "2026-08-13T23:19:10+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] PBS broadcaster loses access to 50TB of data comprising 70 y",
+   "body": "Lemmy · technology · 점수 392",
+   "link": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+   "source": "Lemmy · technology",
+   "id": "community:https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/:2026-08-13T23:19"
+  },
+  {
+   "ts": "2026-08-13T23:19:10+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Gloomberb",
+   "body": "Hacker News · 점수 366",
+   "link": "https://gloom.sh/",
+   "source": "Hacker News",
+   "id": "community:https://gloom.sh/:2026-08-13T23:19"
+  },
   {
    "ts": "2026-08-13T22:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-13460",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13460:2026-08-13T19:49"
-  },
-  {
-   "ts": "2026-08-13T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-13365 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-13365 📢 Source: ibm 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True IBM Planning Analytics 2.0, and 2.1 Local is vulnerable to cross-site request forgery which cou",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13365",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13365:2026-08-13T19:49"
-  },
-  {
-   "ts": "2026-08-13T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72632 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-72632 📢 Source: elastic 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Observable Discrepancy (CWE-203) in Kibana Fleet can lead to information disclosure via Exc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72632",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72632:2026-08-13T19:49"
-  },
-  {
-   "ts": "2026-08-13T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72630 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-72630 📢 Source: elastic 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Incorrect Authorization (CWE-863) in Kibana Fleet can lead to privilege escalation via Priv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72630",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72630:2026-08-13T19:49"
-  },
-  {
-   "ts": "2026-08-13T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72629 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-72629 📢 Source: elastic 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key (CWE-639) in Kibana can lead to unauthoriz",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72629",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72629:2026-08-13T19:49"
-  },
-  {
-   "ts": "2026-08-13T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73482 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-73482 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True phpList before 3.7.0-RC5 contains a cross-site request forgery (CSRF) vulnerability in li",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73482",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73482:2026-08-13T19:19"
   }
  ]
 }
