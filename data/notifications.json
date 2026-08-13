@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-13T15:49:08+00:00",
+ "generated_at": "2026-08-13T16:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73533 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-73533 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Ninja Tables Pro 5.2.11 contains an embedded malicious code vulnerability introduced ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73533",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73533:2026-08-13T16:19"
+  },
+  {
+   "ts": "2026-08-13T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73532 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-73532 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Fluent Forms Pro 6.2.7 contains an embedded malicious code vulnerability introduced v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73532",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73532:2026-08-13T16:19"
+  },
+  {
+   "ts": "2026-08-13T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73670 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-73670 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A CMS contains a SQL injection vulnerability in admin/db_data.php at line 509 that allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73670",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73670:2026-08-13T16:19"
+  },
+  {
+   "ts": "2026-08-13T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73515 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-73515 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True PostGIS before 3.7.0beta2 contains an out-of-bounds read vulnerability that allows attack",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73515",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73515:2026-08-13T16:19"
+  },
+  {
+   "ts": "2026-08-13T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73514 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-73514 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The address_standardizer extension for PostGIS through 3.7.0, fixed in commit 423570b, co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73514",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73514:2026-08-13T16:19"
+  },
   {
    "ts": "2026-08-13T15:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73484",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73484:2026-08-13T11:49"
-  },
-  {
-   "ts": "2026-08-13T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] YouTube now requires creators to have twice as many watch ho",
-   "body": "Lemmy · technology · 점수 127",
-   "link": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
-   "source": "Lemmy · technology",
-   "id": "community:https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/:2026-08-13T11:49"
-  },
-  {
-   "ts": "2026-08-13T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The security co-processor in many CPUs is insecure",
-   "body": "Lemmy · technology · 점수 97",
-   "link": "https://www.heise.de/en/news/The-security-co-processor-in-many-CPUs-is-insecure-11411956.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.heise.de/en/news/The-security-co-processor-in-many-CPUs-is-insecure-11411956.html:2026-08-13T11:49"
-  },
-  {
-   "ts": "2026-08-13T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI agents aren’t legally responsible for any harm that they ",
-   "body": "Lemmy · technology · 점수 84",
-   "link": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is:2026-08-13T11:49"
-  },
-  {
-   "ts": "2026-08-13T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] ‘New models will mark AI-generated content from day one’: Cl",
-   "body": "Lemmy · technology · 점수 68",
-   "link": "https://www.techradar.com/ai-platforms-assistants/claude/new-models-will-mark-ai-generated-content-from-day-one-claude-will-now-hide-an-invisible-watermark-inside-ordinary-words-heres-how-thats-even-possible-and-how-eu-rules-could-push-openai-and-google-to-follow-suit",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.techradar.com/ai-platforms-assistants/claude/new-models-will-mark-ai-generated-content-from-day-one-claude-will-now-hide-an-invisible-watermark-inside-ordinary-words-heres-how-thats-even-possible-and-how-eu-rules-could-push-openai-and-google-to-follow-suit:2026-08-13T11:49"
-  },
-  {
-   "ts": "2026-08-13T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Valve informs customers about data breach, personal data sto",
-   "body": "Lemmy · technology · 점수 60",
-   "link": "https://www.neowin.net/news/valve-informs-customers-about-data-breach-personal-data-stolen/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.neowin.net/news/valve-informs-customers-about-data-breach-personal-data-stolen/:2026-08-13T11:49"
   }
  ]
 }
