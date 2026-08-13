@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-08-13T21:49:09+00:00",
+ "generated_at": "2026-08-13T22:19:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72857 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-72857 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Budibase before 3.40.0 fails to redact datasource credentials stored in STRING typed fiel",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72857",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72857:2026-08-13T22:19"
+  },
+  {
+   "ts": "2026-08-13T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72856 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-72856 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Budibase versions before 3.40.0 contain an authorization/authentication bypass in the PUT",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72856",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72856:2026-08-13T22:19"
+  },
+  {
+   "ts": "2026-08-13T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72855 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-72855 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Budibase before 3.40.0 contains server-side request forgery vulnerabilities in OpenAPI qu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72855",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72855:2026-08-13T22:19"
+  },
+  {
+   "ts": "2026-08-13T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72853 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-72853 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Budibase before 3.40.0 contains a SQL injection vulnerability in the Oracle datasource co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72853",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72853:2026-08-13T22:19"
+  },
+  {
+   "ts": "2026-08-13T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72851 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-72851 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Budibase before 3.40.0 contains an unauthenticated SQL injection vulnerability in webh",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72851",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72851:2026-08-13T22:19"
+  },
+  {
+   "ts": "2026-08-13T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72850 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-72850 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Budibase before 3.40.0 fails to properly sanitize S3 object keys, allowing authentica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72850",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72850:2026-08-13T22:19"
+  },
+  {
+   "ts": "2026-08-13T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72849 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-72849 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Budibase before 3.40.0 contains a cross-site request forgery vulnerability in the chat-li",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72849",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72849:2026-08-13T22:19"
+  },
+  {
+   "ts": "2026-08-13T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72842 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-72842 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True luci-app-lxc contains an ACL inconsistency vulnerability that allows low-privileged a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72842",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72842:2026-08-13T22:19"
+  },
+  {
+   "ts": "2026-08-13T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72841 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-72841 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True luci-app-openvpn fails to properly validate the instance_name2 parameter during file ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72841",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72841:2026-08-13T22:19"
+  },
+  {
+   "ts": "2026-08-13T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72840 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-72840 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenWrt LuCI contains an overly permissive ACL definition in luci-mod-system-mounts that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72840",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72840:2026-08-13T22:19"
+  },
+  {
+   "ts": "2026-08-13T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72839 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-72839 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True filebrowser through 2.63.16 fails to properly restrict scope and permissions when sel",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72839",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72839:2026-08-13T22:19"
+  },
   {
    "ts": "2026-08-13T21:49:07+00:00",
    "level": "important",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73482",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73482:2026-08-13T19:19"
-  },
-  {
-   "ts": "2026-08-13T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18071 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-18071 📢 Source: ibm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False IBM i 7.6, 7.5, 7.4, and 7.3 could allow a local attacker to gain elevated privileges due to i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18071",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18071:2026-08-13T19:19"
-  },
-  {
-   "ts": "2026-08-13T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17220 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-17220 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to cause a denial of service and mod",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17220",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17220:2026-08-13T19:19"
-  },
-  {
-   "ts": "2026-08-13T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17197 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-17197 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to bypass security restrictions due ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17197",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17197:2026-08-13T19:19"
-  },
-  {
-   "ts": "2026-08-13T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72777 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-72777 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Next AI Draw.io through 0.4.16 contains a server-side request forgery vulnerability in th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72777",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72777:2026-08-13T18:49"
-  },
-  {
-   "ts": "2026-08-13T18:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72741 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-72741 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Rainbond through 6.9.7 contains a broken access control vulnerability in the CheckToken f",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72741",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72741:2026-08-13T18:19"
-  },
-  {
-   "ts": "2026-08-13T18:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18428 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-18428 📢 Source: AMZN 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A SQL query validation bypass in the Flint extension query handler in the OpenSearch SQL plugi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18428",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18428:2026-08-13T18:19"
-  },
-  {
-   "ts": "2026-08-13T18:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2019-25765 (CVSS 8.7)",
-   "body": "🚨 CVE-2019-25765 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True ASP-CMS contains a SQL injection vulnerability in the commentList.asp endpoint that allow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2019-25765",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2019-25765:2026-08-13T18:19"
-  },
-  {
-   "ts": "2026-08-13T17:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-67614 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-67614 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True CyberPanel before 3.0.0 contains a hard-coded JWT secret vulnerability in the WebTerm",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67614",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67614:2026-08-13T17:49"
-  },
-  {
-   "ts": "2026-08-13T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2024-58374 (CVSS 8.7)",
-   "body": "🚨 CVE-2024-58374 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Hongjing e-HR contains an unauthenticated SQL injection vulnerability in the getSdutyTree",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58374",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58374:2026-08-13T17:49"
-  },
-  {
-   "ts": "2026-08-13T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-55402 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-55402 📢 Source: Absolute 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True CVE-2026-55402 is an out of bounds read vulnerability in Secure Access servers prior to ve",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-55402",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-55402:2026-08-13T16:49"
-  },
-  {
-   "ts": "2026-08-13T16:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73533 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-73533 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Ninja Tables Pro 5.2.11 contains an embedded malicious code vulnerability introduced ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73533",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73533:2026-08-13T16:19"
   }
  ]
 }
