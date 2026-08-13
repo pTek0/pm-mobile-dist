@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-08-13T20:49:09+00:00",
+ "generated_at": "2026-08-13T21:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18511 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-18511 📢 Source: ibm 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a local authenticated attacker to generate a stack-bas",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18511",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18511:2026-08-13T21:19"
+  },
+  {
+   "ts": "2026-08-13T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18509 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-18509 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a local authenticated attacker to gain privilege escal",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18509",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18509:2026-08-13T21:19"
+  },
+  {
+   "ts": "2026-08-13T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18249 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-18249 📢 Source: ibm 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to gain elevated privi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18249",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18249:2026-08-13T21:19"
+  },
+  {
+   "ts": "2026-08-13T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18193 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-18193 📢 Source: ibm 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to bypass security restrictions due ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18193",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18193:2026-08-13T21:19"
+  },
+  {
+   "ts": "2026-08-13T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18101 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-18101 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False IBM i 7.6, 7.5, 7.4, and 7.3 could allow a local attacker to gain elevated privileges due to i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18101",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18101:2026-08-13T21:19"
+  },
+  {
+   "ts": "2026-08-13T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18077 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-18077 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to cause a denial of service due to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18077",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18077:2026-08-13T21:19"
+  },
+  {
+   "ts": "2026-08-13T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17502 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-17502 📢 Source: ibm 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to cause a denial of service due to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17502",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17502:2026-08-13T21:19"
+  },
+  {
+   "ts": "2026-08-13T21:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-17482 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-17482 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Documentation Offline 1.0.0 through 1.4.1 could allow a remote attacker to execute arbi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17482",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17482:2026-08-13T21:19"
+  },
+  {
+   "ts": "2026-08-13T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17481 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-17481 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False IBM Documentation Offline 1.0.0 through 1.4.1 could allow a remote attacker to execute arbitra",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17481",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17481:2026-08-13T21:19"
+  },
+  {
+   "ts": "2026-08-13T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17473 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-17473 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Documentation Offline 1.0.0 through 1.4.1 could allow a remote attacker to read arbitrary f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17473",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17473:2026-08-13T21:19"
+  },
   {
    "ts": "2026-08-13T20:49:07+00:00",
    "level": "important",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73532",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73532:2026-08-13T16:19"
-  },
-  {
-   "ts": "2026-08-13T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73670 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-73670 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A CMS contains a SQL injection vulnerability in admin/db_data.php at line 509 that allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73670",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73670:2026-08-13T16:19"
-  },
-  {
-   "ts": "2026-08-13T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73515 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-73515 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True PostGIS before 3.7.0beta2 contains an out-of-bounds read vulnerability that allows attack",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73515",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73515:2026-08-13T16:19"
-  },
-  {
-   "ts": "2026-08-13T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73514 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-73514 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The address_standardizer extension for PostGIS through 3.7.0, fixed in commit 423570b, co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73514",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73514:2026-08-13T16:19"
-  },
-  {
-   "ts": "2026-08-13T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73570 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-73570 📢 Source: mitre 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True A remote code execution vulnerability exists in Zimbra Collaboration (ZCS) before 10.1.20 whe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73570",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73570:2026-08-13T15:49"
-  },
-  {
-   "ts": "2026-08-13T15:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-53795 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-53795 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True rsync before 3.5.0 contains an arbitrary file write vulnerability that allows attackers t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53795",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53795:2026-08-13T15:19"
-  },
-  {
-   "ts": "2026-08-13T15:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-53793 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-53793 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True rsync before 3.5.0 contains a path confinement bypass vulnerability that allows remot",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53793",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53793:2026-08-13T15:19"
-  },
-  {
-   "ts": "2026-08-13T15:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-53792 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-53792 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True rsync before 3.5.0 contains an out-of-bounds read vulnerability in the sender-side block ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53792",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53792:2026-08-13T15:19"
-  },
-  {
-   "ts": "2026-08-13T15:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-53791 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-53791 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True rsync daemon before 3.5.0 contains an IP address spoofing vulnerability that allows u",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53791",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53791:2026-08-13T15:19"
-  },
-  {
-   "ts": "2026-08-13T15:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-53790 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-53790 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True rsync before 3.5.0 contains multiple command and argument injection vulnerabilities t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53790",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53790:2026-08-13T15:19"
-  },
-  {
-   "ts": "2026-08-13T15:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-53789 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-53789 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True rsync before 3.5.0 contains an improper path handling vulnerability that allows a malicio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53789",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53789:2026-08-13T15:19"
   }
  ]
 }
