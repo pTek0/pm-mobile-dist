@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-13T09:19:08+00:00",
+ "generated_at": "2026-08-13T09:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T09:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-59500 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-59500 📢 Source: INCD 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True CWE-287: Improper Authentication 📅 Published Date: 2026-08-13T09:18:37.783Z https://cvefeed",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59500",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59500:2026-08-13T09:49"
+  },
+  {
+   "ts": "2026-08-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59499 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-59499 📢 Source: INCD 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True CWE-200: Exposure of Sensitive Information to an Unauthorized Actor 📅 Published Date: 2026-08-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59499",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59499:2026-08-13T09:49"
+  },
+  {
+   "ts": "2026-08-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19484 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-19484 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /busboy is a multipart form-data parser. In versions 3.1.0 through 3.2.0, a remote",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19484",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19484:2026-08-13T09:49"
+  },
   {
    "ts": "2026-08-13T09:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16033",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16033:2026-08-12T20:49"
-  },
-  {
-   "ts": "2026-08-12T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14866 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-14866 📢 Source: ibm 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False IBM i Access Client Solutions 1.1.2.0 through 1.1.9.13 is vulnerable to injection of rogue cer",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14866",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14866:2026-08-12T20:49"
-  },
-  {
-   "ts": "2026-08-12T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-67579 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-67579 📢 Source: EEF 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Deserialization of Untrusted Data vulnerability in ash-project ash allows an unauthenticated a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67579",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67579:2026-08-12T20:19"
-  },
-  {
-   "ts": "2026-08-12T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-63294 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-63294 📢 Source: canonical 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A link following vulnerability in LXD allows an attacker to achieve root command exec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63294",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63294:2026-08-12T20:19"
   }
  ]
 }
