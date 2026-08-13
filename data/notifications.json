@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-13T21:19:10+00:00",
+ "generated_at": "2026-08-13T21:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T21:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72776 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-72776 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True AgenticSeek (commit fc242c7) contains an unauthenticated remote code execution vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72776",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72776:2026-08-13T21:49"
+  },
   {
    "ts": "2026-08-13T21:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73533",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73533:2026-08-13T16:19"
-  },
-  {
-   "ts": "2026-08-13T16:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73532 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-73532 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Fluent Forms Pro 6.2.7 contains an embedded malicious code vulnerability introduced v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73532",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73532:2026-08-13T16:19"
   }
  ]
 }
