@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-13T15:19:12+00:00",
+ "generated_at": "2026-08-13T15:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73570 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-73570 📢 Source: mitre 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True A remote code execution vulnerability exists in Zimbra Collaboration (ZCS) before 10.1.20 whe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73570",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73570:2026-08-13T15:49"
+  },
   {
    "ts": "2026-08-13T15:19:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.neowin.net/news/valve-informs-customers-about-data-breach-personal-data-stolen/",
    "source": "Lemmy · technology",
    "id": "community:https://www.neowin.net/news/valve-informs-customers-about-data-breach-personal-data-stolen/:2026-08-13T11:49"
-  },
-  {
-   "ts": "2026-08-13T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Why tiny JPEGs look different in Chrome",
-   "body": "Hacker News · 점수 310",
-   "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-   "source": "Hacker News",
-   "id": "community:https://guillaumetech.github.io/posts/jpg-scaling-chrome/:2026-08-13T11:19"
   }
  ]
 }
