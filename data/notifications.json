@@ -1,7 +1,187 @@
 {
- "generated_at": "2026-08-13T11:19:08+00:00",
+ "generated_at": "2026-08-13T11:49:15+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73615 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-73615 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Network-AI versions before 5.15.1 contain a security matcher bypass vulnerability where S",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73615",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73615:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73614 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-73614 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Network-AI ClaudeHookBridge before 5.15.1 truncates the target string to 500 characters b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73614",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73614:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73613 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-73613 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True filebrowser versions before 2.63.19 contain an out-of-scope file deletion vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73613",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73613:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73612 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-73612 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True File Browser before v2.63.22 fails to validate access rules for descendants during recurs",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73612",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73612:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73611 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-73611 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True File Browser versions from 2.50.0 through 2.63.21 fail to validate JWT expiration when pr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73611",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73611:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73608 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-73608 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True SiYuan's development branch (endpoint introduced by commit 9b8e8956f, not present in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73608",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73608:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73604 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-73604 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Flowise before 3.1.3 contains an incomplete credential redaction vulnerability in the GET",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73604",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73604:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73602 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-73602 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Flowise before 3.1.3 contains a sandbox escape vulnerability in the vm2 JavaScript sand",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73602",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73602:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73601 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-73601 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Flowise versions before 3.1.3 contain a remote code execution vulnerability in the Cust",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73601",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73601:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73487 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-73487 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Flowise before 3.1.3 contains a regex-based Python code validator bypass in CSV and Air",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73487",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73487:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73486 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-73486 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Flowise before 3.1.3 contains a code injection vulnerability in the CSV Agent node's cu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73486",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73486:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73485 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-73485 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Flowise before 3.1.3 contains a code injection vulnerability in the Airtable Agent node",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73485",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73485:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73484 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-73484 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Flowise before 3.1.3 contains a sandbox escape vulnerability in pythonCodeValidator.ts th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73484",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73484:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] YouTube now requires creators to have twice as many watch ho",
+   "body": "Lemmy · technology · 점수 127",
+   "link": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
+   "source": "Lemmy · technology",
+   "id": "community:https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The security co-processor in many CPUs is insecure",
+   "body": "Lemmy · technology · 점수 97",
+   "link": "https://www.heise.de/en/news/The-security-co-processor-in-many-CPUs-is-insecure-11411956.html",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.heise.de/en/news/The-security-co-processor-in-many-CPUs-is-insecure-11411956.html:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI agents aren’t legally responsible for any harm that they ",
+   "body": "Lemmy · technology · 점수 84",
+   "link": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] ‘New models will mark AI-generated content from day one’: Cl",
+   "body": "Lemmy · technology · 점수 68",
+   "link": "https://www.techradar.com/ai-platforms-assistants/claude/new-models-will-mark-ai-generated-content-from-day-one-claude-will-now-hide-an-invisible-watermark-inside-ordinary-words-heres-how-thats-even-possible-and-how-eu-rules-could-push-openai-and-google-to-follow-suit",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.techradar.com/ai-platforms-assistants/claude/new-models-will-mark-ai-generated-content-from-day-one-claude-will-now-hide-an-invisible-watermark-inside-ordinary-words-heres-how-thats-even-possible-and-how-eu-rules-could-push-openai-and-google-to-follow-suit:2026-08-13T11:49"
+  },
+  {
+   "ts": "2026-08-13T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Valve informs customers about data breach, personal data sto",
+   "body": "Lemmy · technology · 점수 60",
+   "link": "https://www.neowin.net/news/valve-informs-customers-about-data-breach-personal-data-stolen/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.neowin.net/news/valve-informs-customers-about-data-breach-personal-data-stolen/:2026-08-13T11:49"
+  },
   {
    "ts": "2026-08-13T11:19:08+00:00",
    "level": "general",
@@ -321,186 +501,6 @@
    "link": "https://x.ai/news/grok-4-6",
    "source": "Hacker News",
    "id": "community:https://x.ai/news/grok-4-6:2026-08-12T23:49"
-  },
-  {
-   "ts": "2026-08-12T23:49:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Delta",
-   "body": "Hacker News · 점수 302",
-   "link": "https://zed.dev/blog/introducing-delta",
-   "source": "Hacker News",
-   "id": "community:https://zed.dev/blog/introducing-delta:2026-08-12T23:49"
-  },
-  {
-   "ts": "2026-08-12T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tailscale Traces Database Corruption to 16y/o SQLite WAL-Res",
-   "body": "Hacker News · 점수 704",
-   "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-   "source": "Hacker News",
-   "id": "community:https://tailscale.com/blog/sqlite-wal-reset-bug:2026-08-12T23:19"
-  },
-  {
-   "ts": "2026-08-12T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI is removing the middle class of software engineering?",
-   "body": "Hacker News · 점수 655",
-   "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-   "source": "Hacker News",
-   "id": "community:https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html:2026-08-12T23:19"
-  },
-  {
-   "ts": "2026-08-12T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] DeepSeek V4 Pro 0813",
-   "body": "Hacker News · 점수 655",
-   "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-   "source": "Hacker News",
-   "id": "community:https://openrouter.ai/deepseek/deepseek-v4-pro-0813:2026-08-12T23:19"
-  },
-  {
-   "ts": "2026-08-12T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] License plate reader searches should require a warrant",
-   "body": "Hacker News · 점수 498",
-   "link": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-   "source": "Hacker News",
-   "id": "community:https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/:2026-08-12T23:19"
-  },
-  {
-   "ts": "2026-08-12T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Woman Calls Out Doctor Wearing Smart Glasses During Consulta",
-   "body": "Lemmy · technology · 점수 484",
-   "link": "https://www.fashiontimes.co.uk/patient-privacy-concerns-meta-smart-glasses-1762492",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.fashiontimes.co.uk/patient-privacy-concerns-meta-smart-glasses-1762492:2026-08-12T23:19"
-  },
-  {
-   "ts": "2026-08-12T22:49:10+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-71193 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-71193 📢 Source: mitre 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True In OpenStack Designate before 22.0.1, zone creation checks (_is_subzone, _is_superzone, a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71193",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71193:2026-08-12T22:49"
-  },
-  {
-   "ts": "2026-08-12T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71473 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-71473 📢 Source: redhat 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the `search-v2-operator` component. A user with specific administrative ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71473",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71473:2026-08-12T22:19"
-  },
-  {
-   "ts": "2026-08-12T22:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-71471 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-71471 📢 Source: redhat 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in acm-search-v2-rhel9. An attacker with administrative privileges on the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71471",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71471:2026-08-12T22:19"
-  },
-  {
-   "ts": "2026-08-12T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71469 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-71469 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in search-v2-api. An unauthenticated attacker can exploit this by sending r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71469",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71469:2026-08-12T22:19"
-  },
-  {
-   "ts": "2026-08-12T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17485 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-17485 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to cause a denial of service and obt",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17485",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17485:2026-08-12T21:49"
-  },
-  {
-   "ts": "2026-08-12T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-10534 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-10534 📢 Source: ibm 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False IBM Db2 11.5.0 through 11.5.9, and 12.1.0 through 12.1.5 is vulnerable to buffer overflow in t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10534",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10534:2026-08-12T21:49"
-  },
-  {
-   "ts": "2026-08-12T21:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2024-27253 (CVSS 10.0)",
-   "body": "🚨 CVE-2024-27253 📢 Source: ibm 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True IBM DOORS Next 7.0.3 through 7.0.3 Interim Fix 018 could allow an authenticated user to bypa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2024-27253",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-27253:2026-08-12T21:49"
-  },
-  {
-   "ts": "2026-08-12T21:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73519 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-73519 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True WolfStack before 25.9.2 contains a hard-coded cluster-authentication secret compiled ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73519",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73519:2026-08-12T21:49"
-  },
-  {
-   "ts": "2026-08-12T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19003 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-19003 📢 Source: mongodb 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False A data source definition containing an over-length file path setting may cause the MongoDB",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19003",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19003:2026-08-12T21:49"
-  },
-  {
-   "ts": "2026-08-12T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-64826 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-64826 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True rConfig before 8.2.13 contains a path traversal vulnerability that allows authenticated a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64826",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64826:2026-08-12T21:19"
-  },
-  {
-   "ts": "2026-08-12T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19654 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-19654 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A unauthenticated remote peer may lead rsyslogd to crash due to a flaw in the optional imptc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19654",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19654:2026-08-12T21:19"
-  },
-  {
-   "ts": "2026-08-12T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16695 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-16695 📢 Source: ibm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False IBM i Access Client Solutions 1.1.2.0 through 1.1.9.13 could allow a local attacker to execute",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16695",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16695:2026-08-12T21:19"
   }
  ]
 }
