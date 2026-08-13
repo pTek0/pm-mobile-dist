@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-13T09:49:09+00:00",
+ "generated_at": "2026-08-13T10:19:15+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T10:19:09+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-59507 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-59507 📢 Source: INCD 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True CWE-798: Use of Hard-coded Credentials CWE-200: Exposure of Sensitive Information to an Un",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59507",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59507:2026-08-13T10:19"
+  },
+  {
+   "ts": "2026-08-13T10:19:09+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-59506 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-59506 📢 Source: INCD 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True CWE-306: Missing Authentication for Critical Function 📅 Published Date: 2026-08-13T09:41:1",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59506",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59506:2026-08-13T10:19"
+  },
+  {
+   "ts": "2026-08-13T10:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59505 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-59505 📢 Source: INCD 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True CWE-284: Improper Access Control 📅 Published Date: 2026-08-13T09:36:41.720Z https://cvefeed.io",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59505",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59505:2026-08-13T10:19"
+  },
+  {
+   "ts": "2026-08-13T10:19:09+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-59504 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-59504 📢 Source: INCD 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True CWE-602: Client-Side Enforcement of Server-Side Security 📅 Published Date: 2026-08-13T09:3",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59504",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59504:2026-08-13T10:19"
+  },
+  {
+   "ts": "2026-08-13T10:19:09+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-59503 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-59503 📢 Source: INCD 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True CWE-200: Exposure of Sensitive Information to an Unauthorized Actor CWE-359: Exposure of P",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59503",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59503:2026-08-13T10:19"
+  },
+  {
+   "ts": "2026-08-13T10:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59501 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-59501 📢 Source: INCD 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True CWE-284: Improper Access Control 📅 Published Date: 2026-08-13T09:24:10.024Z https://cvefeed.io",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59501",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59501:2026-08-13T10:19"
+  },
   {
    "ts": "2026-08-13T09:49:07+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-10543",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10543:2026-08-12T21:19"
-  },
-  {
-   "ts": "2026-08-12T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19004 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-19004 📢 Source: mongodb 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An application using the MongoDB BI Connector ODBC Driver may experience a memory-safety is",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19004",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19004:2026-08-12T20:49"
-  },
-  {
-   "ts": "2026-08-12T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19002 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-19002 📢 Source: mongodb 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A missing bounds check when parsing stored procedure parameter metadata in the MongoDB BI C",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19002",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19002:2026-08-12T20:49"
-  },
-  {
-   "ts": "2026-08-12T20:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-19001 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-19001 📢 Source: mongodb 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The MongoDB BI Connector ODBC Driver may write outside the bounds of a fixed-size buffe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19001",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19001:2026-08-12T20:49"
-  },
-  {
-   "ts": "2026-08-12T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18888 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-18888 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True The MongoDB BI Connector ODBC Driver converts floating point column values into text withou",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18888",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18888:2026-08-12T20:49"
-  },
-  {
-   "ts": "2026-08-12T20:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-66898 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-66898 📢 Source: canonical 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A path traversal vulnerability in LXD allows an attacker to manipulate file system pa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66898",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66898:2026-08-12T20:49"
-  },
-  {
-   "ts": "2026-08-12T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16033 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-16033 📢 Source: canonical 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True A path traversal vulnerability in LXD allows an attacker to achieve arbitrary host file r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16033",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16033:2026-08-12T20:49"
   }
  ]
 }
