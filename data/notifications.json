@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-08-13T12:49:08+00:00",
+ "generated_at": "2026-08-13T13:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16238 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-16238 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Type confusion in PostgreSQL pg_restore_attribute_stats() allows an object creator to e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16238",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16238:2026-08-13T13:19"
+  },
+  {
+   "ts": "2026-08-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15742 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-15742 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Integer wraparound in PostgreSQL fuzzystrmatch allows a user to direct writes to a huge",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15742",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15742:2026-08-13T13:19"
+  },
+  {
+   "ts": "2026-08-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15741 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-15741 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False SQL injection in PostgreSQL EXTRACT() deparse allows an object owner to execute arbitra",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15741",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15741:2026-08-13T13:19"
+  },
+  {
+   "ts": "2026-08-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14680 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-14680 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Type confusion with PostgreSQL \"internal\" data type arguments allows any user to execut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14680",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14680:2026-08-13T13:19"
+  },
+  {
+   "ts": "2026-08-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14679 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-14679 📢 Source: PostgreSQL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Stack buffer overflow in PostgreSQL argument name matching allows an object creator to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14679",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14679:2026-08-13T13:19"
+  },
+  {
+   "ts": "2026-08-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14677 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-14677 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Integer wraparound in PostgreSQL 32-bit builds of pltcl and plperl allows an object cre",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14677",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14677:2026-08-13T13:19"
+  },
+  {
+   "ts": "2026-08-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14676 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-14676 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Heap buffer overflow in PostgreSQL pg_stat_statements allows the query author to execut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14676",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14676:2026-08-13T13:19"
+  },
+  {
+   "ts": "2026-08-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14671 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-14671 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Type confusion in PostgreSQL module \"refint\" allows an object creator to execute arbitr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14671",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14671:2026-08-13T13:19"
+  },
+  {
+   "ts": "2026-08-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14670 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-14670 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Heap buffer overflow in PostgreSQL plperl return of a tied hash allows the function own",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14670",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14670:2026-08-13T13:19"
+  },
+  {
+   "ts": "2026-08-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14669 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-14669 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Heap buffer overflow in PostgreSQL to_char(timestamptz) allows the party choosing the t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14669",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14669:2026-08-13T13:19"
+  },
+  {
+   "ts": "2026-08-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14668 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-14668 📢 Source: PostgreSQL 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False Type confusion regarding input of PostgreSQL ctid data type selectivity estimator allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14668",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14668:2026-08-13T13:19"
+  },
+  {
+   "ts": "2026-08-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14664 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-14664 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Heap buffer overflow in PostgreSQL regexp allows the query author to execute arbitrary ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14664",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14664:2026-08-13T13:19"
+  },
+  {
+   "ts": "2026-08-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14662 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-14662 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Integer wraparound in PostgreSQL tsvector and tsquery data type functions allows an unp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14662",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14662:2026-08-13T13:19"
+  },
   {
    "ts": "2026-08-13T11:49:08+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists",
    "source": "Lemmy · technology",
    "id": "community:https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists:2026-08-13T00:49"
-  },
-  {
-   "ts": "2026-08-13T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Facebook is paying controversial creators to produce rage-ba",
-   "body": "Lemmy · technology · 점수 117",
-   "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696:2026-08-13T00:49"
-  },
-  {
-   "ts": "2026-08-13T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How governments design laws against you and call it cybersec",
-   "body": "Lemmy · technology · 점수 86",
-   "link": "https://smex.org/how-governments-design-laws-against-you-and-call-it-cybersecurity/",
-   "source": "Lemmy · technology",
-   "id": "community:https://smex.org/how-governments-design-laws-against-you-and-call-it-cybersecurity/:2026-08-13T00:49"
-  },
-  {
-   "ts": "2026-08-13T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Guide to (not) fucking up QR codes",
-   "body": "Lobsters · 점수 72",
-   "link": "https://infosec.exchange/@rebane2001/117078420917152774",
-   "source": "Lobsters",
-   "id": "community:https://infosec.exchange/@rebane2001/117078420917152774:2026-08-13T00:49"
-  },
-  {
-   "ts": "2026-08-13T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I'm done using AI",
-   "body": "Lobsters · 점수 72",
-   "link": "https://brettcodes.com/im-done-using-ai/",
-   "source": "Lobsters",
-   "id": "community:https://brettcodes.com/im-done-using-ai/:2026-08-13T00:49"
-  },
-  {
-   "ts": "2026-08-13T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Grok 4.6 scores 61 on the Artificial Analysis Intelligence I",
-   "body": "Hacker News · 점수 293",
-   "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-   "source": "Hacker News",
-   "id": "community:https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis:2026-08-13T00:19"
-  },
-  {
-   "ts": "2026-08-13T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: Woxi - Open-source Mathematica / Wolfram Language r",
-   "body": "Hacker News · 점수 244",
-   "link": "https://woxi.ad-si.com",
-   "source": "Hacker News",
-   "id": "community:https://woxi.ad-si.com:2026-08-13T00:19"
-  },
-  {
-   "ts": "2026-08-13T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] US hires over 2,000 video gamers as air traffic controllers",
-   "body": "Lemmy · technology · 점수 191",
-   "link": "https://www.fox21online.com/news/national/us-hires-over-2-000-video-gamers-as-air-traffic-controllers/article_0a497575-59b7-54f4-bfa0-f7ebfb62eba8.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.fox21online.com/news/national/us-hires-over-2-000-video-gamers-as-air-traffic-controllers/article_0a497575-59b7-54f4-bfa0-f7ebfb62eba8.html:2026-08-13T00:19"
-  },
-  {
-   "ts": "2026-08-13T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Mark Zuckerberg Posts Deranged 6,500-Word Essay About Giving",
-   "body": "Lemmy · technology · 점수 145",
-   "link": "https://archive.is/xnyJQ",
-   "source": "Lemmy · technology",
-   "id": "community:https://archive.is/xnyJQ:2026-08-13T00:19"
-  },
-  {
-   "ts": "2026-08-13T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] France's Power Prices Jump 22% as Heatwave Trims Nuclear Out",
-   "body": "Lemmy · technology · 점수 144",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Frances-Power-Prices-Jump-22-as-Heatwave-Trims-Nuclear-Output.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://oilprice.com/Latest-Energy-News/World-News/Frances-Power-Prices-Jump-22-as-Heatwave-Trims-Nuclear-Output.html:2026-08-13T00:19"
-  },
-  {
-   "ts": "2026-08-12T23:49:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] 2026 Eclipse Webcams",
-   "body": "Hacker News · 점수 449",
-   "link": "https://jonty.github.io/2026_eclipse_webcams/",
-   "source": "Hacker News",
-   "id": "community:https://jonty.github.io/2026_eclipse_webcams/:2026-08-12T23:49"
-  },
-  {
-   "ts": "2026-08-12T23:49:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Qwen3.8-2.4T",
-   "body": "Hacker News · 점수 430",
-   "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-   "source": "Hacker News",
-   "id": "community:https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B:2026-08-12T23:49"
-  },
-  {
-   "ts": "2026-08-12T23:49:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] uBlock Origin Is Giving Up the Fight to Keep Ads Off Faceboo",
-   "body": "Lemmy · technology · 점수 340",
-   "link": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html:2026-08-12T23:49"
-  },
-  {
-   "ts": "2026-08-12T23:49:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Grok 4.6",
-   "body": "Hacker News · 점수 337",
-   "link": "https://x.ai/news/grok-4-6",
-   "source": "Hacker News",
-   "id": "community:https://x.ai/news/grok-4-6:2026-08-12T23:49"
   }
  ]
 }
