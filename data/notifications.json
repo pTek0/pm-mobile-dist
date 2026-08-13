@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-13T13:49:08+00:00",
+ "generated_at": "2026-08-13T14:19:19+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T14:19:18+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-28002 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-28002 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-28002",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-28002:2026-08-13T14:19"
+  },
   {
    "ts": "2026-08-13T13:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
    "source": "Lobsters",
    "id": "community:https://getfresh.dev/docs/blog/packaging-for-linux/:2026-08-13T01:19"
-  },
-  {
-   "ts": "2026-08-13T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Spotify to distinguish AI artists from real people and block",
-   "body": "Lemmy · technology · 점수 121",
-   "link": "https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists:2026-08-13T00:49"
   }
  ]
 }
