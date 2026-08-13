@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-08-13T19:19:08+00:00",
+ "generated_at": "2026-08-13T19:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16815 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-16815 📢 Source: ibm 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to cause a denial of service and pot",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16815",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16815:2026-08-13T19:49"
+  },
+  {
+   "ts": "2026-08-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16722 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-16722 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to obtain unauthorized",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16722",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16722:2026-08-13T19:49"
+  },
+  {
+   "ts": "2026-08-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16674 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-16674 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to execute arbitrary c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16674",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16674:2026-08-13T19:49"
+  },
+  {
+   "ts": "2026-08-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14875 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-14875 📢 Source: ibm 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False IBM i Access Client Solutions 1.1.2.0 through 1.1.9.13 is vulnerable to arbitrary code executi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14875",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14875:2026-08-13T19:49"
+  },
+  {
+   "ts": "2026-08-13T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-14525 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-14525 📢 Source: ibm 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True IBM WebSphere Application Server - Liberty 17.0.0.3 through 26.0.0.8 IBM WebSphere Applicat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14525",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14525:2026-08-13T19:49"
+  },
+  {
+   "ts": "2026-08-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13460 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-13460 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Storage Scale 5.2.3.0 through 5.2.3.8 , and 6.0.0.0 through 6.0.1.0 GUI contains a hardcode",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13460",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13460:2026-08-13T19:49"
+  },
+  {
+   "ts": "2026-08-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13365 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-13365 📢 Source: ibm 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True IBM Planning Analytics 2.0, and 2.1 Local is vulnerable to cross-site request forgery which cou",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13365",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13365:2026-08-13T19:49"
+  },
+  {
+   "ts": "2026-08-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72632 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-72632 📢 Source: elastic 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Observable Discrepancy (CWE-203) in Kibana Fleet can lead to information disclosure via Exc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72632",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72632:2026-08-13T19:49"
+  },
+  {
+   "ts": "2026-08-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72630 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-72630 📢 Source: elastic 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Incorrect Authorization (CWE-863) in Kibana Fleet can lead to privilege escalation via Priv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72630",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72630:2026-08-13T19:49"
+  },
+  {
+   "ts": "2026-08-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72629 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-72629 📢 Source: elastic 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key (CWE-639) in Kibana can lead to unauthoriz",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72629",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72629:2026-08-13T19:49"
+  },
   {
    "ts": "2026-08-13T19:19:07+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14679",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14679:2026-08-13T13:19"
-  },
-  {
-   "ts": "2026-08-13T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14677 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-14677 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Integer wraparound in PostgreSQL 32-bit builds of pltcl and plperl allows an object cre",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14677",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14677:2026-08-13T13:19"
-  },
-  {
-   "ts": "2026-08-13T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14676 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-14676 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Heap buffer overflow in PostgreSQL pg_stat_statements allows the query author to execut",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14676",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14676:2026-08-13T13:19"
-  },
-  {
-   "ts": "2026-08-13T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14671 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-14671 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Type confusion in PostgreSQL module \"refint\" allows an object creator to execute arbitr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14671",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14671:2026-08-13T13:19"
-  },
-  {
-   "ts": "2026-08-13T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14670 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-14670 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Heap buffer overflow in PostgreSQL plperl return of a tied hash allows the function own",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14670",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14670:2026-08-13T13:19"
-  },
-  {
-   "ts": "2026-08-13T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14669 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-14669 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Heap buffer overflow in PostgreSQL to_char(timestamptz) allows the party choosing the t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14669",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14669:2026-08-13T13:19"
-  },
-  {
-   "ts": "2026-08-13T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14668 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-14668 📢 Source: PostgreSQL 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False Type confusion regarding input of PostgreSQL ctid data type selectivity estimator allow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14668",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14668:2026-08-13T13:19"
-  },
-  {
-   "ts": "2026-08-13T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14664 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-14664 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Heap buffer overflow in PostgreSQL regexp allows the query author to execute arbitrary ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14664",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14664:2026-08-13T13:19"
-  },
-  {
-   "ts": "2026-08-13T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14662 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-14662 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Integer wraparound in PostgreSQL tsvector and tsquery data type functions allows an unp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14662",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14662:2026-08-13T13:19"
-  },
-  {
-   "ts": "2026-08-13T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73615 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-73615 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Network-AI versions before 5.15.1 contain a security matcher bypass vulnerability where S",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73615",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73615:2026-08-13T11:49"
-  },
-  {
-   "ts": "2026-08-13T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73614 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-73614 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Network-AI ClaudeHookBridge before 5.15.1 truncates the target string to 500 characters b",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73614",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73614:2026-08-13T11:49"
   }
  ]
 }
