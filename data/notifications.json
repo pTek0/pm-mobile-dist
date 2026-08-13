@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-08-13T14:49:08+00:00",
+ "generated_at": "2026-08-13T15:19:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T15:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-53795 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-53795 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True rsync before 3.5.0 contains an arbitrary file write vulnerability that allows attackers t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53795",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53795:2026-08-13T15:19"
+  },
+  {
+   "ts": "2026-08-13T15:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-53793 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-53793 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True rsync before 3.5.0 contains a path confinement bypass vulnerability that allows remot",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53793",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53793:2026-08-13T15:19"
+  },
+  {
+   "ts": "2026-08-13T15:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-53792 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-53792 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True rsync before 3.5.0 contains an out-of-bounds read vulnerability in the sender-side block ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53792",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53792:2026-08-13T15:19"
+  },
+  {
+   "ts": "2026-08-13T15:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-53791 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-53791 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True rsync daemon before 3.5.0 contains an IP address spoofing vulnerability that allows u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53791",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53791:2026-08-13T15:19"
+  },
+  {
+   "ts": "2026-08-13T15:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-53790 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-53790 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True rsync before 3.5.0 contains multiple command and argument injection vulnerabilities t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53790",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53790:2026-08-13T15:19"
+  },
+  {
+   "ts": "2026-08-13T15:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-53789 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-53789 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True rsync before 3.5.0 contains an improper path handling vulnerability that allows a malicio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53789",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53789:2026-08-13T15:19"
+  },
+  {
+   "ts": "2026-08-13T15:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-53785 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-53785 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False rsync before 3.5.0 contains a path traversal vulnerability that allows a malicious sende",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53785",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53785:2026-08-13T15:19"
+  },
+  {
+   "ts": "2026-08-13T15:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-53784 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-53784 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False rsync before 3.5.0 contains a path traversal vulnerability that allows remote clients to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53784",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53784:2026-08-13T15:19"
+  },
+  {
+   "ts": "2026-08-13T15:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-53783 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-53783 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True rsync before 3.5.0 contains a time-of-check to time-of-use (TOCTOU) race condition vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53783",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53783:2026-08-13T15:19"
+  },
+  {
+   "ts": "2026-08-13T15:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-28154 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-28154 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-28154",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-28154:2026-08-13T15:19"
+  },
+  {
+   "ts": "2026-08-13T15:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19293 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-19293 📢 Source: Silabs 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False SMP security request (from peripheral) does not include the maximum encryption key size sup",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19293",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19293:2026-08-13T15:19"
+  },
+  {
+   "ts": "2026-08-13T15:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15994 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-15994 📢 Source: lenovo 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False During an internal security assessment, an improper link following vulnerability was identi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15994",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15994:2026-08-13T15:19"
+  },
+  {
+   "ts": "2026-08-13T15:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12036 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-12036 📢 Source: lenovo 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An improper link following vulnerability was reported in the VantageCoreAddin for Lenovo Va",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12036",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12036:2026-08-13T15:19"
+  },
   {
    "ts": "2026-08-13T14:49:07+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
    "source": "Hacker News",
    "id": "community:https://guillaumetech.github.io/posts/jpg-scaling-chrome/:2026-08-13T11:19"
-  },
-  {
-   "ts": "2026-08-13T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Someone is running mass vulnerability scans, spoofing AI bot",
-   "body": "Hacker News · 점수 278",
-   "link": "https://knownagents.com/insights",
-   "source": "Hacker News",
-   "id": "community:https://knownagents.com/insights:2026-08-13T11:19"
-  },
-  {
-   "ts": "2026-08-13T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tim King, AmigaDOS developer, has died",
-   "body": "Hacker News · 점수 277",
-   "link": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-   "source": "Hacker News",
-   "id": "community:https://amiga-news.de/en/news/AN-2026-08-00070-EN.html:2026-08-13T11:19"
-  },
-  {
-   "ts": "2026-08-13T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia AI Chip Found in New Russian Missile, Ukraine Says",
-   "body": "Lemmy · technology · 점수 247",
-   "link": "https://www.kyivpost.com/post/82225",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.kyivpost.com/post/82225:2026-08-13T11:19"
-  },
-  {
-   "ts": "2026-08-13T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Terabytes of credentials leaked in massive supply-chain atta",
-   "body": "Lemmy · technology · 점수 172",
-   "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/:2026-08-13T11:19"
-  },
-  {
-   "ts": "2026-08-13T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12263 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-12263 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine Password Manager Pro versions before 13232 and PAM360 versions befor",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12263",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12263:2026-08-13T10:49"
-  },
-  {
-   "ts": "2026-08-13T10:19:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-59507 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-59507 📢 Source: INCD 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True CWE-798: Use of Hard-coded Credentials CWE-200: Exposure of Sensitive Information to an Un",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59507",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59507:2026-08-13T10:19"
-  },
-  {
-   "ts": "2026-08-13T10:19:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-59506 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-59506 📢 Source: INCD 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True CWE-306: Missing Authentication for Critical Function 📅 Published Date: 2026-08-13T09:41:1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59506",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59506:2026-08-13T10:19"
-  },
-  {
-   "ts": "2026-08-13T10:19:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59505 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-59505 📢 Source: INCD 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True CWE-284: Improper Access Control 📅 Published Date: 2026-08-13T09:36:41.720Z https://cvefeed.io",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59505",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59505:2026-08-13T10:19"
-  },
-  {
-   "ts": "2026-08-13T10:19:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-59504 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-59504 📢 Source: INCD 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True CWE-602: Client-Side Enforcement of Server-Side Security 📅 Published Date: 2026-08-13T09:3",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59504",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59504:2026-08-13T10:19"
-  },
-  {
-   "ts": "2026-08-13T10:19:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-59503 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-59503 📢 Source: INCD 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True CWE-200: Exposure of Sensitive Information to an Unauthorized Actor CWE-359: Exposure of P",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59503",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59503:2026-08-13T10:19"
-  },
-  {
-   "ts": "2026-08-13T10:19:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59501 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-59501 📢 Source: INCD 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True CWE-284: Improper Access Control 📅 Published Date: 2026-08-13T09:24:10.024Z https://cvefeed.io",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59501",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59501:2026-08-13T10:19"
-  },
-  {
-   "ts": "2026-08-13T09:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-59500 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-59500 📢 Source: INCD 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True CWE-287: Improper Authentication 📅 Published Date: 2026-08-13T09:18:37.783Z https://cvefeed",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59500",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59500:2026-08-13T09:49"
-  },
-  {
-   "ts": "2026-08-13T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59499 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-59499 📢 Source: INCD 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True CWE-200: Exposure of Sensitive Information to an Unauthorized Actor 📅 Published Date: 2026-08-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59499",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59499:2026-08-13T09:49"
   }
  ]
 }
