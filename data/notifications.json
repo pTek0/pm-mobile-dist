@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-13T17:49:09+00:00",
+ "generated_at": "2026-08-13T18:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-13T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72741 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-72741 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Rainbond through 6.9.7 contains a broken access control vulnerability in the CheckToken f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72741",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72741:2026-08-13T18:19"
+  },
+  {
+   "ts": "2026-08-13T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18428 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-18428 📢 Source: AMZN 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A SQL query validation bypass in the Flint extension query handler in the OpenSearch SQL plugi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18428",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18428:2026-08-13T18:19"
+  },
+  {
+   "ts": "2026-08-13T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2019-25765 (CVSS 8.7)",
+   "body": "🚨 CVE-2019-25765 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True ASP-CMS contains a SQL injection vulnerability in the commentList.asp endpoint that allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2019-25765",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2019-25765:2026-08-13T18:19"
+  },
   {
    "ts": "2026-08-13T17:49:07+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73604",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73604:2026-08-13T11:49"
-  },
-  {
-   "ts": "2026-08-13T11:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73602 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-73602 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Flowise before 3.1.3 contains a sandbox escape vulnerability in the vm2 JavaScript sand",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73602",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73602:2026-08-13T11:49"
-  },
-  {
-   "ts": "2026-08-13T11:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73601 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-73601 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Flowise versions before 3.1.3 contain a remote code execution vulnerability in the Cust",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73601",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73601:2026-08-13T11:49"
-  },
-  {
-   "ts": "2026-08-13T11:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73487 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-73487 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Flowise before 3.1.3 contains a regex-based Python code validator bypass in CSV and Air",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73487",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73487:2026-08-13T11:49"
   }
  ]
 }
