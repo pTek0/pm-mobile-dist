@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-14T18:49:09+00:00",
+ "generated_at": "2026-08-14T19:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-14T19:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73679 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-73679 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True ImpressCMS contains an authenticated remote code execution vulnerability in the custom ta",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73679",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73679:2026-08-14T19:19"
+  },
+  {
+   "ts": "2026-08-14T19:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73678 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-73678 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True MindsDB Minds Platform version 26.1.0 and earlier contains an unauthenticated remote c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73678",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73678:2026-08-14T19:19"
+  },
+  {
+   "ts": "2026-08-14T19:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-7639 (CVSS 10.0)",
+   "body": "🚨 CVE-2025-7639 📢 Source: icscert 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True The vulnerability, if exploited, could allow an authenticated miscreant with \"DNA Authori",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-7639",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-7639:2026-08-14T19:19"
+  },
   {
    "ts": "2026-08-14T18:49:07+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
    "source": "Lobsters",
    "id": "community:https://sebsite.pw/w/20260801-pythonconstants.html:2026-08-14T00:19"
-  },
-  {
-   "ts": "2026-08-14T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Modder exploits GeForce NOW to run a full Windows desktop th",
-   "body": "Lemmy · technology · 점수 75",
-   "link": "https://www.tomshardware.com/service-providers/streaming/geforce-now-exploit-lets-you-access-the-full-windows-desktop-through-a-simple-file-swap-modder-runs-local-ai-models-on-ultimate-tier-with-48gb-of-vram-and-no-restrictions",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/service-providers/streaming/geforce-now-exploit-lets-you-access-the-full-windows-desktop-through-a-simple-file-swap-modder-runs-local-ai-models-on-ultimate-tier-with-48gb-of-vram-and-no-restrictions:2026-08-14T00:19"
-  },
-  {
-   "ts": "2026-08-13T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Accelerating GPT-5.6 Sol Ultrafast",
-   "body": "Hacker News · 점수 347",
-   "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-   "source": "Hacker News",
-   "id": "community:https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai:2026-08-13T23:49"
-  },
-  {
-   "ts": "2026-08-13T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Mistral OCR 4.1",
-   "body": "Hacker News · 점수 220",
-   "link": "https://docs.mistral.ai/models/ocr-4-1",
-   "source": "Hacker News",
-   "id": "community:https://docs.mistral.ai/models/ocr-4-1:2026-08-13T23:49"
   }
  ]
 }
