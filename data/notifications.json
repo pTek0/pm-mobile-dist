@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-14T15:19:08+00:00",
+ "generated_at": "2026-08-14T15:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-14T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66270 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-66270 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell Wyse Management Suite (WMS), versions prior to 2605.0.2, contain an Unrestricted Upload o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66270",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66270:2026-08-14T15:49"
+  },
+  {
+   "ts": "2026-08-14T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-53970 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-53970 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True ZeroBrew version 0.3.1 and prior contains a missing integrity verification vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53970",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53970:2026-08-14T15:49"
+  },
+  {
+   "ts": "2026-08-14T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19884 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-19884 📢 Source: eclipse 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False In Eclipse Theia versions up to and including 1.69.0, opening a folder starts source contr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19884",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19884:2026-08-14T15:49"
+  },
+  {
+   "ts": "2026-08-14T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13197 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-13197 📢 Source: Nozomi 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Nozomi Networks Labs identified a CWE-362: Concurrent Execution using Shared Resource with ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13197",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13197:2026-08-14T15:49"
+  },
+  {
+   "ts": "2026-08-14T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13196 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-13196 📢 Source: Nozomi 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Nozomi Networks Labs identified a CWE-787: Out-of-bounds Write vulnerability in the process",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13196",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13196:2026-08-14T15:49"
+  },
   {
    "ts": "2026-08-14T14:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-72849",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72849:2026-08-13T22:19"
-  },
-  {
-   "ts": "2026-08-13T22:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-72842 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-72842 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True luci-app-lxc contains an ACL inconsistency vulnerability that allows low-privileged a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72842",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72842:2026-08-13T22:19"
-  },
-  {
-   "ts": "2026-08-13T22:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-72841 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-72841 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True luci-app-openvpn fails to properly validate the instance_name2 parameter during file ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72841",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72841:2026-08-13T22:19"
-  },
-  {
-   "ts": "2026-08-13T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72840 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-72840 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenWrt LuCI contains an overly permissive ACL definition in luci-mod-system-mounts that ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72840",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72840:2026-08-13T22:19"
-  },
-  {
-   "ts": "2026-08-13T22:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-72839 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-72839 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True filebrowser through 2.63.16 fails to properly restrict scope and permissions when sel",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72839",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72839:2026-08-13T22:19"
-  },
-  {
-   "ts": "2026-08-13T21:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-72776 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-72776 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True AgenticSeek (commit fc242c7) contains an unauthenticated remote code execution vulner",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72776",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72776:2026-08-13T21:49"
   }
  ]
 }
