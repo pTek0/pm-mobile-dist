@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-14T20:49:07+00:00",
+ "generated_at": "2026-08-14T21:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-14T21:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73682 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-73682 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Semaphore versions prior to 2.18.20 contain an OS command injection (argument injection) ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73682",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73682:2026-08-14T21:19"
+  },
+  {
+   "ts": "2026-08-14T21:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-50523 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-50523 📢 Source: microsoft 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-08-14T21:05:20.277Z https://cvefeed.io/vuln/detail/CVE-2026-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-50523",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-50523:2026-08-14T21:19"
+  },
   {
    "ts": "2026-08-14T20:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-72827",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72827:2026-08-14T11:49"
-  },
-  {
-   "ts": "2026-08-14T11:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-72826 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-72826 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The getgrav/grav-plugin-api plugin before 1.0.13 fails to validate that the scopes of",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72826",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72826:2026-08-14T11:49"
-  },
-  {
-   "ts": "2026-08-14T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72825 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-72825 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True The getgrav/grav-plugin-api plugin before 1.0.13 contains an API-key scope cap bypass in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72825",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72825:2026-08-14T11:49"
   }
  ]
 }
