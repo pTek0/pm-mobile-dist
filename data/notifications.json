@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-14T16:49:08+00:00",
+ "generated_at": "2026-08-14T17:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-14T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19628 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-19628 📢 Source: tenable 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A command injection vulnerability exists in Tenable Security Center. An authenticated admin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19628",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19628:2026-08-14T17:19"
+  },
+  {
+   "ts": "2026-08-14T17:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19626 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-19626 📢 Source: tenable 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A remote code execution vulnerability exists in Tenable Security Center's report genera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19626",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19626:2026-08-14T17:19"
+  },
   {
    "ts": "2026-08-14T16:19:12+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-72855",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72855:2026-08-13T22:19"
-  },
-  {
-   "ts": "2026-08-13T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72853 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-72853 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Budibase before 3.40.0 contains a SQL injection vulnerability in the Oracle datasource co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72853",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72853:2026-08-13T22:19"
-  },
-  {
-   "ts": "2026-08-13T22:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-72851 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-72851 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Budibase before 3.40.0 contains an unauthenticated SQL injection vulnerability in webh",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72851",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72851:2026-08-13T22:19"
   }
  ]
 }
