@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-14T13:49:08+00:00",
+ "generated_at": "2026-08-14T14:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-14T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19871 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-19871 📢 Source: Secur0 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Use of Hard-coded Credentials in the human resources component in Roskus Prospero Flow C",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19871",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19871:2026-08-14T14:19"
+  },
   {
    "ts": "2026-08-14T12:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18511",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18511:2026-08-13T21:19"
-  },
-  {
-   "ts": "2026-08-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18509 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-18509 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a local authenticated attacker to gain privilege escal",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18509",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18509:2026-08-13T21:19"
   }
  ]
 }
