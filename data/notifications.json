@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-14T14:19:09+00:00",
+ "generated_at": "2026-08-14T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-14T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-69101 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-69101 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Datavane TIS v5.0.0 contains an XML external entity (XXE) injection vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69101",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69101:2026-08-14T14:49"
+  },
   {
    "ts": "2026-08-14T14:19:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-72776",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72776:2026-08-13T21:49"
-  },
-  {
-   "ts": "2026-08-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18511 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-18511 📢 Source: ibm 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a local authenticated attacker to generate a stack-bas",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18511",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18511:2026-08-13T21:19"
   }
  ]
 }
