@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-14T12:19:08+00:00",
+ "generated_at": "2026-08-14T12:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-14T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73673 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-73673 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Netis NC63 router firmware V3.0.0.3327 contains an unauthenticated firmware update vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73673",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73673:2026-08-14T12:49"
+  },
+  {
+   "ts": "2026-08-14T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19870 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-19870 📢 Source: Secur0 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key in the payroll module in Roskus Prospero Fl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19870",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19870:2026-08-14T12:49"
+  },
   {
    "ts": "2026-08-14T11:49:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18509",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18509:2026-08-13T21:19"
-  },
-  {
-   "ts": "2026-08-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18249 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-18249 📢 Source: ibm 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to gain elevated privi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18249",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18249:2026-08-13T21:19"
-  },
-  {
-   "ts": "2026-08-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18193 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-18193 📢 Source: ibm 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to bypass security restrictions due ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18193",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18193:2026-08-13T21:19"
   }
  ]
 }
