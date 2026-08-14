@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-14T22:49:07+00:00",
+ "generated_at": "2026-08-14T23:19:21+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-14T23:19:20+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] GLM-5.3: Frontier coding with emergent cyber capabilities",
+   "body": "Hacker News · 점수 1014",
+   "link": "https://z.ai/blog/glm-5.3",
+   "source": "Hacker News",
+   "id": "community:https://z.ai/blog/glm-5.3:2026-08-14T23:19"
+  },
+  {
+   "ts": "2026-08-14T23:19:20+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Qwen 3.8 27B",
+   "body": "Hacker News · 점수 776",
+   "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+   "source": "Hacker News",
+   "id": "community:https://huggingface.co/Qwen/Qwen3.8-27B-FP8:2026-08-14T23:19"
+  },
+  {
+   "ts": "2026-08-14T23:19:20+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Why does Opus 5 feel worse to work with?",
+   "body": "Hacker News · 점수 708",
+   "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+   "source": "Hacker News",
+   "id": "community:https://mun-logadan.github.io/why-does-opus-5-feel-worse/:2026-08-14T23:19"
+  },
+  {
+   "ts": "2026-08-14T23:19:20+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Every Fucking Website (2020)",
+   "body": "Hacker News · 점수 699",
+   "link": "https://lxe.github.io/everywebsite/",
+   "source": "Hacker News",
+   "id": "community:https://lxe.github.io/everywebsite/:2026-08-14T23:19"
+  },
+  {
+   "ts": "2026-08-14T23:19:20+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Firefox is now the last major browser that still supports uB",
+   "body": "Lemmy · technology · 점수 427",
+   "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html:2026-08-14T23:19"
+  },
   {
    "ts": "2026-08-14T22:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-69101",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69101:2026-08-14T14:49"
-  },
-  {
-   "ts": "2026-08-14T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-19871 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-19871 📢 Source: Secur0 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Use of Hard-coded Credentials in the human resources component in Roskus Prospero Flow C",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19871",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19871:2026-08-14T14:19"
-  },
-  {
-   "ts": "2026-08-14T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73673 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-73673 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Netis NC63 router firmware V3.0.0.3327 contains an unauthenticated firmware update vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73673",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73673:2026-08-14T12:49"
-  },
-  {
-   "ts": "2026-08-14T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19870 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-19870 📢 Source: Secur0 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key in the payroll module in Roskus Prospero Fl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19870",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19870:2026-08-14T12:49"
-  },
-  {
-   "ts": "2026-08-14T11:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-72830 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-72830 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Grav API plugin versions before 1.0.13 fail to enforce API key scope caps in ConfigCo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72830",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72830:2026-08-14T11:49"
-  },
-  {
-   "ts": "2026-08-14T11:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-72829 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-72829 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The Grav API plugin (getgrav/grav-plugin-api) before 1.0.13 contains an API-key scope",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72829",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72829:2026-08-14T11:49"
   }
  ]
 }
