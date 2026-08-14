@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-08-14T11:19:08+00:00",
+ "generated_at": "2026-08-14T11:49:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-14T11:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72830 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-72830 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Grav API plugin versions before 1.0.13 fail to enforce API key scope caps in ConfigCo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72830",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72830:2026-08-14T11:49"
+  },
+  {
+   "ts": "2026-08-14T11:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72829 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-72829 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The Grav API plugin (getgrav/grav-plugin-api) before 1.0.13 contains an API-key scope",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72829",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72829:2026-08-14T11:49"
+  },
+  {
+   "ts": "2026-08-14T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72828 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-72828 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Grav Plugin API (getgrav/grav-plugin-api) before 1.0.13 fails to enforce API-key scope ca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72828",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72828:2026-08-14T11:49"
+  },
+  {
+   "ts": "2026-08-14T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72827 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-72827 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Grav CMS before 2.0.13 contains a server-side template injection vulnerability in email-a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72827",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72827:2026-08-14T11:49"
+  },
+  {
+   "ts": "2026-08-14T11:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72826 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-72826 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The getgrav/grav-plugin-api plugin before 1.0.13 fails to validate that the scopes of",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72826",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72826:2026-08-14T11:49"
+  },
+  {
+   "ts": "2026-08-14T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72825 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-72825 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True The getgrav/grav-plugin-api plugin before 1.0.13 contains an API-key scope cap bypass in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72825",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72825:2026-08-14T11:49"
+  },
+  {
+   "ts": "2026-08-14T11:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72824 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-72824 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The Grav API plugin (getgrav/grav-plugin-api) before 1.0.13 contains an API key scope",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72824",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72824:2026-08-14T11:49"
+  },
+  {
+   "ts": "2026-08-14T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72819 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-72819 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Grav CMS before 2.0.13 contains a remote code execution vulnerability in the Flex Objects",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72819",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72819:2026-08-14T11:49"
+  },
+  {
+   "ts": "2026-08-14T11:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72810 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-72810 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True SiYuan versions before v3.7.4 contain a publish-boundary bypass vulnerability in WebS",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72810",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72810:2026-08-14T11:49"
+  },
+  {
+   "ts": "2026-08-14T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The Indian government arbitrarily suspended a website that h",
+   "body": "Lemmy · technology · 점수 72",
+   "link": "https://internetfreedom.in/first-invalid-whois-then-a-critical-keyword-iff-gives-legal-assistance-over-nixis-suspension-of-chalosansad-in/",
+   "source": "Lemmy · technology",
+   "id": "community:https://internetfreedom.in/first-invalid-whois-then-a-critical-keyword-iff-gives-legal-assistance-over-nixis-suspension-of-chalosansad-in/:2026-08-14T11:49"
+  },
+  {
+   "ts": "2026-08-14T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I want extern \"fil-c\"",
+   "body": "Lobsters · 점수 57",
+   "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+   "source": "Lobsters",
+   "id": "community:https://domenkozar.com/2026/08/13/i-want-extern-fil-c/:2026-08-14T11:49"
+  },
+  {
+   "ts": "2026-08-14T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Linux Patches Enable Apple M4 NVMe Support",
+   "body": "Lemmy · programming.dev · 점수 53",
+   "link": "https://www.phoronix.com/news/Linux-Apple-M4-NVMe-Patches",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://www.phoronix.com/news/Linux-Apple-M4-NVMe-Patches:2026-08-14T11:49"
+  },
+  {
+   "ts": "2026-08-14T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] “An inherent conflict of interest”: More than 800 USA Today ",
+   "body": "Lemmy · technology · 점수 50",
+   "link": "https://www.niemanlab.org/2026/08/an-inherent-conflict-of-interest-800-usa-today-co-employees-want-the-company-to-end-its-new-palantir-partnership/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.niemanlab.org/2026/08/an-inherent-conflict-of-interest-800-usa-today-co-employees-want-the-company-to-end-its-new-palantir-partnership/:2026-08-14T11:49"
+  },
   {
    "ts": "2026-08-14T11:19:08+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18193",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18193:2026-08-13T21:19"
-  },
-  {
-   "ts": "2026-08-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18101 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-18101 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False IBM i 7.6, 7.5, 7.4, and 7.3 could allow a local attacker to gain elevated privileges due to i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18101",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18101:2026-08-13T21:19"
-  },
-  {
-   "ts": "2026-08-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18077 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-18077 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to cause a denial of service due to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18077",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18077:2026-08-13T21:19"
-  },
-  {
-   "ts": "2026-08-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17502 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-17502 📢 Source: ibm 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to cause a denial of service due to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17502",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17502:2026-08-13T21:19"
-  },
-  {
-   "ts": "2026-08-13T21:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-17482 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-17482 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Documentation Offline 1.0.0 through 1.4.1 could allow a remote attacker to execute arbi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17482",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17482:2026-08-13T21:19"
-  },
-  {
-   "ts": "2026-08-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17481 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-17481 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False IBM Documentation Offline 1.0.0 through 1.4.1 could allow a remote attacker to execute arbitra",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17481",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17481:2026-08-13T21:19"
-  },
-  {
-   "ts": "2026-08-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17473 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-17473 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Documentation Offline 1.0.0 through 1.4.1 could allow a remote attacker to read arbitrary f",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17473",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17473:2026-08-13T21:19"
-  },
-  {
-   "ts": "2026-08-13T20:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-8715 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-8715 📢 Source: HashiCorp 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False Vault Secrets Operator 1.3.0 up to 1.4.1 is vulnerable to an arbitrary file read and ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8715",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8715:2026-08-13T20:49"
-  },
-  {
-   "ts": "2026-08-13T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17272 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-17272 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to cause a denial of service due to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17272",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17272:2026-08-13T20:49"
-  },
-  {
-   "ts": "2026-08-13T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17101 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-17101 📢 Source: ibm 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to execute arbitrary code or obtain ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17101",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17101:2026-08-13T20:49"
-  },
-  {
-   "ts": "2026-08-13T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17099 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-17099 📢 Source: ibm 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to obtain sensitive information due ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17099",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17099:2026-08-13T20:49"
-  },
-  {
-   "ts": "2026-08-13T20:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17069 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-17069 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to bypass security res",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17069",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17069:2026-08-13T20:19"
-  },
-  {
-   "ts": "2026-08-13T20:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17045 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-17045 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote authenticated attacker to perform unauthorize",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17045",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17045:2026-08-13T20:19"
-  },
-  {
-   "ts": "2026-08-13T20:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17029 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-17029 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False IBM i 7.6, 7.5, 7.4, and 7.3 could allow a local attacker to execute arbitrary code due to an ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17029",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17029:2026-08-13T20:19"
   }
  ]
 }
