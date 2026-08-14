@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-14T23:19:21+00:00",
+ "generated_at": "2026-08-14T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-14T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Seven books I keep close because I love them",
+   "body": "Hacker News · 점수 281",
+   "link": "https://blog.plover.com/2026/08/02/",
+   "source": "Hacker News",
+   "id": "community:https://blog.plover.com/2026/08/02/:2026-08-14T23:49"
+  },
+  {
+   "ts": "2026-08-14T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Google is making private AI practical with homomorphic encry",
+   "body": "Hacker News · 점수 230",
+   "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+   "source": "Hacker News",
+   "id": "community:https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/:2026-08-14T23:49"
+  },
+  {
+   "ts": "2026-08-14T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Don't classify, hallucinate",
+   "body": "Hacker News · 점수 210",
+   "link": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+   "source": "Hacker News",
+   "id": "community:https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications:2026-08-14T23:49"
+  },
+  {
+   "ts": "2026-08-14T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] RustDesk now supports true unattended remote access on Wayla",
+   "body": "Hacker News · 점수 188",
+   "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+   "source": "Hacker News",
+   "id": "community:https://rustdesk.com/blog/unattended-remote-access-wayland/:2026-08-14T23:49"
+  },
+  {
+   "ts": "2026-08-14T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Introducing Toast 1",
+   "body": "Hacker News · 점수 166",
+   "link": "https://www.mixedbread.com/blog/toast-1",
+   "source": "Hacker News",
+   "id": "community:https://www.mixedbread.com/blog/toast-1:2026-08-14T23:49"
+  },
   {
    "ts": "2026-08-14T23:19:20+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66270",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66270:2026-08-14T15:49"
-  },
-  {
-   "ts": "2026-08-14T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-53970 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-53970 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True ZeroBrew version 0.3.1 and prior contains a missing integrity verification vulnerability ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53970",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53970:2026-08-14T15:49"
-  },
-  {
-   "ts": "2026-08-14T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19884 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-19884 📢 Source: eclipse 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False In Eclipse Theia versions up to and including 1.69.0, opening a folder starts source contr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19884",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19884:2026-08-14T15:49"
-  },
-  {
-   "ts": "2026-08-14T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-13197 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-13197 📢 Source: Nozomi 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Nozomi Networks Labs identified a CWE-362: Concurrent Execution using Shared Resource with ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13197",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13197:2026-08-14T15:49"
-  },
-  {
-   "ts": "2026-08-14T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-13196 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-13196 📢 Source: Nozomi 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Nozomi Networks Labs identified a CWE-787: Out-of-bounds Write vulnerability in the process",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13196",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13196:2026-08-14T15:49"
-  },
-  {
-   "ts": "2026-08-14T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-69101 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-69101 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Datavane TIS v5.0.0 contains an XML external entity (XXE) injection vulnerability that al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69101",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69101:2026-08-14T14:49"
   }
  ]
 }
