@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-08-14T17:49:08+00:00",
+ "generated_at": "2026-08-14T18:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-14T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72970 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-72970 📢 Source: microsoft 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-08-14T18:06:02.569Z https://cvefeed.io/vuln/detail/CVE-2026-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72970",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72970:2026-08-14T18:19"
+  },
+  {
+   "ts": "2026-08-14T18:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19682 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-19682 📢 Source: tenable 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A command injection vulnerability exists in Security Center where a remote, unauthentic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19682",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19682:2026-08-14T18:19"
+  },
+  {
+   "ts": "2026-08-14T18:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19681 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-19681 📢 Source: tenable 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True An authenticated command injection vulnerability exists in Security Center related to f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19681",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19681:2026-08-14T18:19"
+  },
+  {
+   "ts": "2026-08-14T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12366 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-12366 📢 Source: zephyr 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Zephyr's dynamic kernel-object disposal path unref_check() in kernel/userspace/userspace.c ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12366",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12366:2026-08-14T18:19"
+  },
+  {
+   "ts": "2026-08-14T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12364 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-12364 📢 Source: zephyr 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False The user-space system-call verifier z_vrfy_z_log_msg_static_create() in subsys/logging/log_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12364",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12364:2026-08-14T18:19"
+  },
+  {
+   "ts": "2026-08-14T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19680 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-19680 📢 Source: tenable 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A SQL injection vulnerability exists in Security Center that could allow an attacker to acc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19680",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19680:2026-08-14T18:19"
+  },
+  {
+   "ts": "2026-08-14T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19679 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-19679 📢 Source: tenable 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An input validation vulnerability exists in Security Center's file upload handling, where i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19679",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19679:2026-08-14T18:19"
+  },
   {
    "ts": "2026-08-14T17:49:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://mcfunley.com/choose-boring-technology",
    "source": "Hacker News",
    "id": "community:https://mcfunley.com/choose-boring-technology:2026-08-13T23:49"
-  },
-  {
-   "ts": "2026-08-13T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Choosing an AI model: one prompt, 11 models, different resul",
-   "body": "Hacker News · 점수 162",
-   "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-   "source": "Hacker News",
-   "id": "community:https://www.netlify.com/blog/one-prompt-11-models-very-different-results/:2026-08-13T23:49"
-  },
-  {
-   "ts": "2026-08-13T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Donkey.bas is 45 Years Old – 131 line of Glory",
-   "body": "Hacker News · 점수 158",
-   "link": "https://donkeybas.com/",
-   "source": "Hacker News",
-   "id": "community:https://donkeybas.com/:2026-08-13T23:49"
-  },
-  {
-   "ts": "2026-08-13T23:19:10+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Gemini 3.7 Flash",
-   "body": "Hacker News · 점수 523",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-   "source": "Hacker News",
-   "id": "community:https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/:2026-08-13T23:19"
-  },
-  {
-   "ts": "2026-08-13T23:19:10+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] DeepSeek Harness developer preview",
-   "body": "Hacker News · 점수 520",
-   "link": "https://deepseek.com/harness/en/",
-   "source": "Hacker News",
-   "id": "community:https://deepseek.com/harness/en/:2026-08-13T23:19"
-  },
-  {
-   "ts": "2026-08-13T23:19:10+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Spaghettifying DRAM",
-   "body": "Hacker News · 점수 456",
-   "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-   "source": "Hacker News",
-   "id": "community:https://github.com/xoreaxeaxeax/skitter-creek-bath-salts:2026-08-13T23:19"
-  },
-  {
-   "ts": "2026-08-13T23:19:10+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] PBS broadcaster loses access to 50TB of data comprising 70 y",
-   "body": "Lemmy · technology · 점수 392",
-   "link": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-   "source": "Lemmy · technology",
-   "id": "community:https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/:2026-08-13T23:19"
-  },
-  {
-   "ts": "2026-08-13T23:19:10+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Gloomberb",
-   "body": "Hacker News · 점수 366",
-   "link": "https://gloom.sh/",
-   "source": "Hacker News",
-   "id": "community:https://gloom.sh/:2026-08-13T23:19"
   }
  ]
 }
