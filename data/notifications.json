@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-15T15:19:08+00:00",
+ "generated_at": "2026-08-15T15:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-15T15:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19474 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-19474 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /multipart is a multipart form-data parser for Fastify. In versions from 3.0.0 up ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19474",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19474:2026-08-15T15:49"
+  },
+  {
+   "ts": "2026-08-15T15:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18549 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-18549 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /multipart is a multipart form-data parser for Fastify. In versions from 5.3.0 up ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18549",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18549:2026-08-15T15:49"
+  },
+  {
+   "ts": "2026-08-15T15:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18500 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-18500 📢 Source: openjs 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False @fastify /jwt is a JSON Web Token plugin for Fastify. In versions before 10.2.2, a per-requ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18500",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18500:2026-08-15T15:49"
+  },
   {
    "ts": "2026-08-15T12:19:09+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16915",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16915:2026-08-14T19:49"
-  },
-  {
-   "ts": "2026-08-14T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16879 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-16879 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Db2 Mirror for i 7.4, 7.5, and 7.6 could allow a remote authenticated attacker to bypass se",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16879",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16879:2026-08-14T19:49"
-  },
-  {
-   "ts": "2026-08-14T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16708 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-16708 📢 Source: ibm 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True IBM Db2 Mirror for i 7.4, 7.5, and 7.6 could allow a remote attacker to obtain sensitive inform",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16708",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16708:2026-08-14T19:49"
-  },
-  {
-   "ts": "2026-08-14T19:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73679 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-73679 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True ImpressCMS contains an authenticated remote code execution vulnerability in the custom ta",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73679",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73679:2026-08-14T19:19"
   }
  ]
 }
