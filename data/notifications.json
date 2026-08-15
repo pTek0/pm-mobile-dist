@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-15T05:19:08+00:00",
+ "generated_at": "2026-08-15T05:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-15T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16007 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-16007 📢 Source: PRJBLK 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True AppFlowy's qcuiknote feature is affected by a SQL injection vulnerability. Authenticated use",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16007",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16007:2026-08-15T05:49"
+  },
   {
    "ts": "2026-08-15T00:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-63361",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63361:2026-08-14T17:49"
-  },
-  {
-   "ts": "2026-08-14T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19635 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-19635 📢 Source: tenable 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A local privilege escalation vulnerability exists in Security Center. An attacker with wri",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19635",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19635:2026-08-14T17:49"
   }
  ]
 }
