@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-15T21:19:08+00:00",
+ "generated_at": "2026-08-15T21:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-15T21:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18855 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-18855 📢 Source: None 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True The Link Library plugin for WordPress is vulnerable to arbitrary file deletion due to insu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18855",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18855:2026-08-15T21:49"
+  },
   {
    "ts": "2026-08-15T15:49:09+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-17081",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17081:2026-08-14T19:49"
-  },
-  {
-   "ts": "2026-08-14T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16915 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-16915 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Db2 Mirror for i 7.4, 7.5, and 7.6 could allow a remote authenticated attacker to obtain se",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16915",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16915:2026-08-14T19:49"
   }
  ]
 }
