@@ -1,7 +1,167 @@
 {
- "generated_at": "2026-08-16T13:19:09+00:00",
+ "generated_at": "2026-08-16T13:49:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74796 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-74796 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True OpenTofu before 1.11.7 fails to validate existing symlinks in the provider cache directory ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74796",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74796:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74795 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-74795 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban before 6.6.0 contains an uncontrolled recursion vulnerability in its recursive-de",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74795",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74795:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74794 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-74794 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban before 6.6.0 contains an infinite recursion vulnerability in object rendering whe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74794",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74794:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74791 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-74791 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Scriban before 7.0.0 fails to clear the CachedTemplates dictionary when TemplateConte",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74791",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74791:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74790 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-74790 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Scriban before 7.0.0 caches TypedObjectAccessor by Type only without considering Memb",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74790",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74790:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74787 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-74787 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban before 7.0.0 contains an uncontrolled recursion vulnerability in the object.to_js",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74787",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74787:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74785 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-74785 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Scriban before 7.0.0 contains three distinct denial-of-service vulnerabilities in express",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74785",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74785:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74784 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-74784 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban before 7.2.0 contains a denial of service vulnerability in the array.insert_at fu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74784",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74784:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74783 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-74783 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban versions 6.6.0 through 7.2.0 contain a non-enforcing ExpressionDepthLimit guard t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74783",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74783:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73062 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-73062 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban versions 3.0.0 through 7.2.0 contain a denial of service vulnerability in the arr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73062",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73062:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73061 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-73061 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Scriban before 7.2.2 contains an access-modifier bypass vulnerability in TypedObjectA",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73061",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73061:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73060 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-73060 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban versions from 3.0.0 through 7.2.5 contain a denial of service vulnerability in th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73060",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73060:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73059 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-73059 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True stoatchat before 0.15.0 contains a permission bypass vulnerability in the message_fetch r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73059",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73059:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73057 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-73057 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True stoatchat before 0.15.0 fails to validate SVG viewBox dimensions in the proxy endpoint, a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73057",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73057:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73056 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-73056 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True SiYuan kernel versions before 3.7.4 contain an improper restriction of excessive auth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73056",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73056:2026-08-16T13:49"
+  },
+  {
+   "ts": "2026-08-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2024-58375 (CVSS 8.7)",
+   "body": "🚨 CVE-2024-58375 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True OpenTofu versions 1.8.0 through 1.8.2 do not properly restrict sensitive variables and lo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58375",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58375:2026-08-16T13:49"
+  },
   {
    "ts": "2026-08-16T13:19:07+00:00",
    "level": "important",
@@ -341,166 +501,6 @@
    "link": "https://www.techspot.com/news/113467-twitch-finally-gives-streamers-ai-training-opt-out.html",
    "source": "Lemmy · technology",
    "id": "community:https://www.techspot.com/news/113467-twitch-finally-gives-streamers-ai-training-opt-out.html:2026-08-15T23:49"
-  },
-  {
-   "ts": "2026-08-15T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Amazon's New AI Data Center Is So Enormous That It Appears I",
-   "body": "Lemmy · technology · 점수 485",
-   "link": "https://futurism.com/artificial-intelligence/amazon-data-center-largest-pollution-source-texas-usa",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/amazon-data-center-largest-pollution-source-texas-usa:2026-08-15T23:19"
-  },
-  {
-   "ts": "2026-08-15T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Auto-research with codex: How I achieved a 232x Faster Kerne",
-   "body": "Hacker News · 점수 370",
-   "link": "https://sankalp.bearblog.dev/autoresearch/",
-   "source": "Hacker News",
-   "id": "community:https://sankalp.bearblog.dev/autoresearch/:2026-08-15T23:19"
-  },
-  {
-   "ts": "2026-08-15T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI has access to a vastly larger working memory than the hum",
-   "body": "Hacker News · 점수 344",
-   "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-   "source": "Hacker News",
-   "id": "community:https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians:2026-08-15T23:19"
-  },
-  {
-   "ts": "2026-08-15T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Semaglutide linked to lower predicted dementia risk",
-   "body": "Hacker News · 점수 307",
-   "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-   "source": "Hacker News",
-   "id": "community:https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432:2026-08-15T23:19"
-  },
-  {
-   "ts": "2026-08-15T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Working with AI feels more like leadership than coding",
-   "body": "Hacker News · 점수 240",
-   "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-   "source": "Hacker News",
-   "id": "community:https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/:2026-08-15T23:19"
-  },
-  {
-   "ts": "2026-08-15T21:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-18855 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-18855 📢 Source: None 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True The Link Library plugin for WordPress is vulnerable to arbitrary file deletion due to insu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18855",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18855:2026-08-15T21:49"
-  },
-  {
-   "ts": "2026-08-15T15:49:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19474 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-19474 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /multipart is a multipart form-data parser for Fastify. In versions from 3.0.0 up ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19474",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19474:2026-08-15T15:49"
-  },
-  {
-   "ts": "2026-08-15T15:49:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18549 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-18549 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /multipart is a multipart form-data parser for Fastify. In versions from 5.3.0 up ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18549",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18549:2026-08-15T15:49"
-  },
-  {
-   "ts": "2026-08-15T15:49:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18500 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-18500 📢 Source: openjs 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False @fastify /jwt is a JSON Web Token plugin for Fastify. In versions before 10.2.2, a per-requ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18500",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18500:2026-08-15T15:49"
-  },
-  {
-   "ts": "2026-08-15T12:19:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Workers are hitting back at employer plans to use Al to scre",
-   "body": "Lemmy · programming.dev · 점수 56",
-   "link": "https://www.techradar.com/pro/workers-are-hitting-back-at-employer-plans-to-use-ai-to-screen-job-applications",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.techradar.com/pro/workers-are-hitting-back-at-employer-plans-to-use-ai-to-screen-job-applications:2026-08-15T12:19"
-  },
-  {
-   "ts": "2026-08-15T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] First test flight of largest all-electric aircraft used just",
-   "body": "Lemmy · technology · 점수 143",
-   "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/:2026-08-15T11:49"
-  },
-  {
-   "ts": "2026-08-15T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Flock Sock",
-   "body": "Lemmy · programming.dev · 점수 99",
-   "link": "https://makerworld.com/en/models/3107766-flock-sock-flock-camera-cover",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://makerworld.com/en/models/3107766-flock-sock-flock-camera-cover:2026-08-15T11:49"
-  },
-  {
-   "ts": "2026-08-15T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] PayPal Honey Under Fire: Affiliate Tracking Lawsuit Moves Fo",
-   "body": "Lemmy · technology · 점수 70",
-   "link": "https://thecybersecguru.com/news/paypal-honey-affiliate-tracking-lawsuit/",
-   "source": "Lemmy · technology",
-   "id": "community:https://thecybersecguru.com/news/paypal-honey-affiliate-tracking-lawsuit/:2026-08-15T11:49"
-  },
-  {
-   "ts": "2026-08-15T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] RISC-V: They Should Have Known Better",
-   "body": "Lobsters · 점수 63",
-   "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-   "source": "Lobsters",
-   "id": "community:https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV:2026-08-15T11:49"
-  },
-  {
-   "ts": "2026-08-15T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Plaintiff busted trying to use AI prompt injection to win co",
-   "body": "Lemmy · technology · 점수 58",
-   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/plaintiff-busted-trying-to-use-ai-prompt-injection-to-win-court-case-hides-text-instruction-in-filing-demands-ai-model-reviewing-the-text-should-side-with-him-rumbled-because-of-strange-white-spaces-in-text",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/artificial-intelligence/plaintiff-busted-trying-to-use-ai-prompt-injection-to-win-court-case-hides-text-instruction-in-filing-demands-ai-model-reviewing-the-text-should-side-with-him-rumbled-because-of-strange-white-spaces-in-text:2026-08-15T11:49"
-  },
-  {
-   "ts": "2026-08-15T11:19:12+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Grok Calls for Assassination of Elon Musk, Accusing Him of P",
-   "body": "Lemmy · technology · 점수 406",
-   "link": "https://futurism.com/future-society/grok-calls-for-assassination-elon-musk",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/future-society/grok-calls-for-assassination-elon-musk:2026-08-15T11:19"
   }
  ]
 }
