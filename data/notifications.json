@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-16T12:49:08+00:00",
+ "generated_at": "2026-08-16T13:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-16T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74251 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-74251 📢 Source: Joomla 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - phoca.cz - Unauthenticated SQL injection via attribute filter in Phoc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74251",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74251:2026-08-16T13:19"
+  },
   {
    "ts": "2026-08-16T11:49:12+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://futurism.com/future-society/grok-calls-for-assassination-elon-musk",
    "source": "Lemmy · technology",
    "id": "community:https://futurism.com/future-society/grok-calls-for-assassination-elon-musk:2026-08-15T11:19"
-  },
-  {
-   "ts": "2026-08-15T11:19:12+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Going Dark, and the era of law enforcement hacking",
-   "body": "Hacker News · 점수 351",
-   "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-   "source": "Hacker News",
-   "id": "community:https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/:2026-08-15T11:19"
   }
  ]
 }
