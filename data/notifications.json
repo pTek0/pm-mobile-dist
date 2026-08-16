@@ -1,7 +1,157 @@
 {
- "generated_at": "2026-08-16T00:19:08+00:00",
+ "generated_at": "2026-08-16T00:49:18+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74767 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-74767 📢 Source: CIRCL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Pandora contains a denial-of-service vulnerability in its handling of DAA (Direct Access Arch",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74767",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74767:2026-08-16T00:49"
+  },
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74764 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-74764 📢 Source: CIRCL 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Pandora contains a path traversal vulnerability in its TAR archive extraction functionalit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74764",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74764:2026-08-16T00:49"
+  },
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73055 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-73055 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Shescape before 2.1.15 (and 3.0.0 before 3.0.2) fails to properly escape tilde (~) ch",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73055",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73055:2026-08-16T00:49"
+  },
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73054 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-73054 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan versions before v3.7.4 contain an authentication bypass vulnerability in the WebSo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73054",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73054:2026-08-16T00:49"
+  },
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73053 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-73053 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan versions before v3.7.4 contain a cross-site scripting vulnerability in the uni",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73053",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73053:2026-08-16T00:49"
+  },
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73052 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-73052 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before v3.7.4 stores attribute-view field names without HTML escaping and inte",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73052",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73052:2026-08-16T00:49"
+  },
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73050 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-73050 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan versions before v3.7.4 fail to validate or escape the color field in attribute",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73050",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73050:2026-08-16T00:49"
+  },
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73046 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-73046 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before v3.7.4 improperly restricts excessive authentication attempts in the Ch",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73046",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73046:2026-08-16T00:49"
+  },
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73045 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-73045 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan before 3.7.4 contains an improper restriction of excessive authentication attempts",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73045",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73045:2026-08-16T00:49"
+  },
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73044 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-73044 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan versions before v3.7.4 fail to validate or escape table column width values, a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73044",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73044:2026-08-16T00:49"
+  },
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73043 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-73043 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan versions before v3.7.4 contain a remote code execution vulnerability in the Te",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73043",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73043:2026-08-16T00:49"
+  },
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73042 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-73042 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before v3.7.4 fails to properly escape database menu metadata in HTML interpol",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73042",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73042:2026-08-16T00:49"
+  },
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73041 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-73041 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan versions before v3.7.4 fail to validate or escape annotation fields written to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73041",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73041:2026-08-16T00:49"
+  },
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Research: The whole Reddit has become more negative over tim",
+   "body": "Lemmy · technology · 점수 88",
+   "link": "https://news.harvard.edu/gazette/story/2026/08/does-vitriol-make-you-feel-special/",
+   "source": "Lemmy · technology",
+   "id": "community:https://news.harvard.edu/gazette/story/2026/08/does-vitriol-make-you-feel-special/:2026-08-16T00:49"
+  },
+  {
+   "ts": "2026-08-16T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The best Spotify alternatives to ease your conscience",
+   "body": "Lemmy · technology · 점수 88",
+   "link": "https://www.engadget.com/2234678/best-spotify-alternatives-2026/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.engadget.com/2234678/best-spotify-alternatives-2026/:2026-08-16T00:49"
+  },
   {
    "ts": "2026-08-16T00:19:07+00:00",
    "level": "general",
@@ -351,156 +501,6 @@
    "link": "https://www.latimes.com/business/story/2026-08-12/ai-giants-stay-quiet-on-climate-as-california-prepares-to-force-disclosure",
    "source": "Lemmy · technology",
    "id": "community:https://www.latimes.com/business/story/2026-08-12/ai-giants-stay-quiet-on-climate-as-california-prepares-to-force-disclosure:2026-08-15T00:19"
-  },
-  {
-   "ts": "2026-08-15T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A judge orders Kalshi to stop offering most of its predictio",
-   "body": "Lemmy · technology · 점수 90",
-   "link": "https://www.atg.wa.gov/news/news-releases/judge-orders-kalshi-cease-numerous-washington-operations",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.atg.wa.gov/news/news-releases/judge-orders-kalshi-cease-numerous-washington-operations:2026-08-15T00:19"
-  },
-  {
-   "ts": "2026-08-15T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] This AI Chatbot Was Just One Busy Guy, and He Has Hit His Li",
-   "body": "Lemmy · technology · 점수 69",
-   "link": "https://www.cnet.com/tech/services-and-software/this-ai-chatbot-chat-tjb-was-just-one-busy-guy-and-he-has-hit-his-limit/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.cnet.com/tech/services-and-software/this-ai-chatbot-chat-tjb-was-just-one-busy-guy-and-he-has-hit-his-limit/:2026-08-15T00:19"
-  },
-  {
-   "ts": "2026-08-14T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Seven books I keep close because I love them",
-   "body": "Hacker News · 점수 281",
-   "link": "https://blog.plover.com/2026/08/02/",
-   "source": "Hacker News",
-   "id": "community:https://blog.plover.com/2026/08/02/:2026-08-14T23:49"
-  },
-  {
-   "ts": "2026-08-14T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Google is making private AI practical with homomorphic encry",
-   "body": "Hacker News · 점수 230",
-   "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-   "source": "Hacker News",
-   "id": "community:https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/:2026-08-14T23:49"
-  },
-  {
-   "ts": "2026-08-14T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Don't classify, hallucinate",
-   "body": "Hacker News · 점수 210",
-   "link": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-   "source": "Hacker News",
-   "id": "community:https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications:2026-08-14T23:49"
-  },
-  {
-   "ts": "2026-08-14T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] RustDesk now supports true unattended remote access on Wayla",
-   "body": "Hacker News · 점수 188",
-   "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-   "source": "Hacker News",
-   "id": "community:https://rustdesk.com/blog/unattended-remote-access-wayland/:2026-08-14T23:49"
-  },
-  {
-   "ts": "2026-08-14T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Introducing Toast 1",
-   "body": "Hacker News · 점수 166",
-   "link": "https://www.mixedbread.com/blog/toast-1",
-   "source": "Hacker News",
-   "id": "community:https://www.mixedbread.com/blog/toast-1:2026-08-14T23:49"
-  },
-  {
-   "ts": "2026-08-14T23:19:20+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GLM-5.3: Frontier coding with emergent cyber capabilities",
-   "body": "Hacker News · 점수 1014",
-   "link": "https://z.ai/blog/glm-5.3",
-   "source": "Hacker News",
-   "id": "community:https://z.ai/blog/glm-5.3:2026-08-14T23:19"
-  },
-  {
-   "ts": "2026-08-14T23:19:20+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Qwen 3.8 27B",
-   "body": "Hacker News · 점수 776",
-   "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-   "source": "Hacker News",
-   "id": "community:https://huggingface.co/Qwen/Qwen3.8-27B-FP8:2026-08-14T23:19"
-  },
-  {
-   "ts": "2026-08-14T23:19:20+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Why does Opus 5 feel worse to work with?",
-   "body": "Hacker News · 점수 708",
-   "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-   "source": "Hacker News",
-   "id": "community:https://mun-logadan.github.io/why-does-opus-5-feel-worse/:2026-08-14T23:19"
-  },
-  {
-   "ts": "2026-08-14T23:19:20+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Every Fucking Website (2020)",
-   "body": "Hacker News · 점수 699",
-   "link": "https://lxe.github.io/everywebsite/",
-   "source": "Hacker News",
-   "id": "community:https://lxe.github.io/everywebsite/:2026-08-14T23:19"
-  },
-  {
-   "ts": "2026-08-14T23:19:20+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Firefox is now the last major browser that still supports uB",
-   "body": "Lemmy · technology · 점수 427",
-   "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html:2026-08-14T23:19"
-  },
-  {
-   "ts": "2026-08-14T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-69414 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-69414 📢 Source: microsoft 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-08-14T21:50:58.641Z https://cvefeed.io/vuln/detail/CVE-2026-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69414",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69414:2026-08-14T22:19"
-  },
-  {
-   "ts": "2026-08-14T21:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73683 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-73683 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Laravel Socialite's Facebook provider contains an authentication bypass vulnerability",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73683",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73683:2026-08-14T21:49"
-  },
-  {
-   "ts": "2026-08-14T21:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73682 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-73682 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Semaphore versions prior to 2.18.20 contain an OS command injection (argument injection) ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73682",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73682:2026-08-14T21:19"
   }
  ]
 }
