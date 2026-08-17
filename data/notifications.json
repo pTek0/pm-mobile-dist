@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-08-17T20:19:09+00:00",
+ "generated_at": "2026-08-17T20:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75482 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-75482 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SWE-agent's trajectory inspector (sweagent inspector), confirmed in v1.1.0, is an HTTP se",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75482",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75482:2026-08-17T20:49"
+  },
+  {
+   "ts": "2026-08-17T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75481 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-75481 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SkyPilot fails to validate that authenticated users are entitled to grant administrator r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75481",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75481:2026-08-17T20:49"
+  },
+  {
+   "ts": "2026-08-17T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75480 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-75480 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenViking debug vector scroll and count endpoints apply only account-level scoping witho",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75480",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75480:2026-08-17T20:49"
+  },
+  {
+   "ts": "2026-08-17T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75479 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-75479 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True JimuReport contains an authentication bypass vulnerability in the report folder template ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75479",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75479:2026-08-17T20:49"
+  },
+  {
+   "ts": "2026-08-17T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75111 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-75111 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Evidently UI fails to properly validate the filename parameter in the dataset materializa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75111",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75111:2026-08-17T20:49"
+  },
+  {
+   "ts": "2026-08-17T20:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75110 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-75110 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True MemOS is a memory operating system for LLMs and AI agents. In deployments where authe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75110",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75110:2026-08-17T20:49"
+  },
+  {
+   "ts": "2026-08-17T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75109 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-75109 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Determined fails to authorize requests on the generic task kill, pause, and unpause endpo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75109",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75109:2026-08-17T20:49"
+  },
+  {
+   "ts": "2026-08-17T20:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75106 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-75106 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True OpnForm derives editable-submission secrets from sequential row identifiers using Has",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75106",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75106:2026-08-17T20:49"
+  },
+  {
+   "ts": "2026-08-17T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75105 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-75105 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True phpIPAM through 1.8.1 fails to verify that a requested IP address belongs to the subnet a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75105",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75105:2026-08-17T20:49"
+  },
+  {
+   "ts": "2026-08-17T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75103 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-75103 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Crawlab fails to verify user ownership or administrative role on the password-change endp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75103",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75103:2026-08-17T20:49"
+  },
+  {
+   "ts": "2026-08-17T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-40506 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-40506 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.2.0 contains a path traversal vulnerability in the standard_tables_manage.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40506",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40506:2026-08-17T20:49"
+  },
   {
    "ts": "2026-08-17T20:19:07+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74998",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74998:2026-08-17T13:19"
-  },
-  {
-   "ts": "2026-08-17T13:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74997 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-74997 📢 Source: mitre 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Roundcube Webmail before 1.6.18 and 1.7.x before 1.7.3, the cmd_learn driver of the markas",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74997",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74997:2026-08-17T13:19"
-  },
-  {
-   "ts": "2026-08-17T12:49:10+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-14564 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-14564 📢 Source: TR-CERT 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Insufficiently Protected Credentials vulnerability in Innotim Software Telecommunications",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14564",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14564:2026-08-17T12:49"
-  },
-  {
-   "ts": "2026-08-17T12:49:10+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18674 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-18674 📢 Source: Kong 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True On a Kong Mesh global control plane, resources received over the zone-to-global KDS sync are att",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18674",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18674:2026-08-17T12:49"
-  },
-  {
-   "ts": "2026-08-17T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Protobuf has LSP support",
-   "body": "Hacker News · 점수 157",
-   "link": "https://buf.build/blog/protobuf-lsp",
-   "source": "Hacker News",
-   "id": "community:https://buf.build/blog/protobuf-lsp:2026-08-17T11:49"
-  },
-  {
-   "ts": "2026-08-17T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] New website lets drivers check whether their license plate h",
-   "body": "Lemmy · technology · 점수 118",
-   "link": "https://www.dexerto.com/entertainment/new-website-lets-drivers-check-whether-their-license-plate-has-been-searched-on-flock-database-3398804/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.dexerto.com/entertainment/new-website-lets-drivers-check-whether-their-license-plate-has-been-searched-on-flock-database-3398804/:2026-08-17T11:49"
-  },
-  {
-   "ts": "2026-08-17T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Every Fucking Website",
-   "body": "Lobsters · 점수 71",
-   "link": "https://op.tngl.io/every-fucking-website/",
-   "source": "Lobsters",
-   "id": "community:https://op.tngl.io/every-fucking-website/:2026-08-17T11:49"
-  },
-  {
-   "ts": "2026-08-17T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Torvalds: AI Is the New Compiler, Not the New Programmer",
-   "body": "Lemmy · technology · 점수 64",
-   "link": "https://pbxscience.com/torvalds-ai-is-the-new-compiler-not-the-new-programmer/",
-   "source": "Lemmy · technology",
-   "id": "community:https://pbxscience.com/torvalds-ai-is-the-new-compiler-not-the-new-programmer/:2026-08-17T11:49"
-  },
-  {
-   "ts": "2026-08-17T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia scales back funding guarantee for Ohio OpenAI data ce",
-   "body": "Lemmy · technology · 점수 52",
-   "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/:2026-08-17T11:49"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74882 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-74882 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 contain an insecure default configuration that trus",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74882",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74882:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74881 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-74881 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 configure CORS with allow_origins set to wildcard a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74881",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74881:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74880 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-74880 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 accept refresh tokens as URL query parameters i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74880",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74880:2026-08-17T11:19"
   }
  ]
 }
