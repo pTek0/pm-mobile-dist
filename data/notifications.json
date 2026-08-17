@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-17T02:19:08+00:00",
+ "generated_at": "2026-08-17T02:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T02:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-50602 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-50602 📢 Source: Acer 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A security vulnerability has been identified in Planet9 due to incorrect file permissions ass",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-50602",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-50602:2026-08-17T02:49"
+  },
   {
    "ts": "2026-08-17T00:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74764",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74764:2026-08-16T00:49"
-  },
-  {
-   "ts": "2026-08-16T00:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73055 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-73055 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Shescape before 2.1.15 (and 3.0.0 before 3.0.2) fails to properly escape tilde (~) ch",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73055",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73055:2026-08-16T00:49"
   }
  ]
 }
