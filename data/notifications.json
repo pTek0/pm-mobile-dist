@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-17T13:19:09+00:00",
+ "generated_at": "2026-08-17T13:49:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T13:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-56686 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-56686 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell ObjectScale, versions prior to 4.3.0.1 , contain(s) an Improper Neutralization of Specia",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56686",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56686:2026-08-17T13:49"
+  },
+  {
+   "ts": "2026-08-17T13:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16471 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-16471 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Dolusoft Software Technologies Sonlogger allows Acce",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16471",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16471:2026-08-17T13:49"
+  },
   {
    "ts": "2026-08-17T13:19:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: auto-invest:2026-08-17T00:49"
-  },
-  {
-   "ts": "2026-08-17T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: InsecureBankv2",
-   "body": "정적분석 보고서 완료 — **정체 지속(마지막 활동 07-20 → 2026-08-17 기준 28일 경과)**",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: InsecureBankv2:2026-08-17T00:49"
-  },
-  {
-   "ts": "2026-08-17T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pentest-toolkit",
-   "body": "쉐도우 모드(관찰만) — **정체 지속(마지막 세션 07-17 → 2026-08-17 기준 31일 경과, 지난 7일 커밋 0)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→⏸",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pentest-toolkit:2026-08-17T00:49"
   }
  ]
 }
