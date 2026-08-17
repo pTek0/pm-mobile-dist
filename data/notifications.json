@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-08-17T15:49:21+00:00",
+ "generated_at": "2026-08-17T16:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T16:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-40144 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-40144 📢 Source: BT 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A memory-corruption vulnerability exists in a kernel-mode component of BeyondTrust Endpoint Pri",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40144",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40144:2026-08-17T16:19"
+  },
+  {
+   "ts": "2026-08-17T16:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75056 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-75056 📢 Source: JetBrains 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In JetBrains IntelliJ IDEA before 2026.2.1 rCE via Markdown export tool was possible 📅 P",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75056",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75056:2026-08-17T16:19"
+  },
+  {
+   "ts": "2026-08-17T16:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75051 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-75051 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains YouTrack before 2026.2.17917 unauthorised project transfer between organisat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75051",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75051:2026-08-17T16:19"
+  },
+  {
+   "ts": "2026-08-17T16:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75050 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-75050 📢 Source: JetBrains 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains YouTrack before 2026.1.13901, 2026.2.17950 doS attack was possible via craft",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75050",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75050:2026-08-17T16:19"
+  },
+  {
+   "ts": "2026-08-17T16:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75048 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-75048 📢 Source: JetBrains 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains YouTrack before 2026.2.18068 stored XSS via the fenced code-block language l",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75048",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75048:2026-08-17T16:19"
+  },
+  {
+   "ts": "2026-08-17T16:19:09+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75045 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-75045 📢 Source: JetBrains 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True In JetBrains YouTrack before 2025.3.156085, 2026.1.13913, 2026.2.18112 an unauthentic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75045",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75045:2026-08-17T16:19"
+  },
+  {
+   "ts": "2026-08-17T16:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75044 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-75044 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains YouTrack before 2025.3.156085, 2026.1.13914, 2026.2.18095 missing authorisat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75044",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75044:2026-08-17T16:19"
+  },
   {
    "ts": "2026-08-17T15:19:10+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
    "source": "Hacker News",
    "id": "community:https://simonwillison.net/2026/Aug/16/qwen-38-27b/:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Stripe will reportedly acquire OpenRouter for $7B+",
-   "body": "Hacker News · 점수 368",
-   "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-   "source": "Hacker News",
-   "id": "community:https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Low-Tech Ceramic Water Filter",
-   "body": "Hacker News · 점수 191",
-   "link": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-   "source": "Hacker News",
-   "id": "community:https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GIMP Development Update",
-   "body": "Hacker News · 점수 185",
-   "link": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-   "source": "Hacker News",
-   "id": "community:https://www.gimp.org/news/2026/08/16/dev-update-august-2026/:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Pollution Being Churned Out by AI Data Centers Is So Sev",
-   "body": "Lemmy · technology · 점수 180",
-   "link": "https://futurism.com/artificial-intelligence/pollution-ai-data-centers-severe",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/pollution-ai-data-centers-severe:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T10:49:09+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: 공용모듈 15종 modules/",
-   "body": "**★ 2026-08-10 `modules/` 물리 통합 완료 — 13/13 이동·editable/링크 재배선·무회귀 검증(전체 692 passed 베이스라인 동일, [CLEANUP-REPORT](docs/hando",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: 공용모듈 15종 modules/:2026-08-17T10:49"
-  },
-  {
-   "ts": "2026-08-17T10:49:09+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: learning",
-   "body": "**P0 구조·스키마 완료(2026-08-17)** — [설계 정본](learning/docs/DESIGN.md)(도메인 귀속 근거 4종) + [원자 스키마](learning/curriculum/atom.schema",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: learning:2026-08-17T10:49"
-  },
-  {
-   "ts": "2026-08-17T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74845 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-74845 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Official Document Management System developed by 2100 Technology has an Arbitrary File Uploa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74845",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74845:2026-08-17T10:19"
   }
  ]
 }
