@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-17T14:19:14+00:00",
+ "generated_at": "2026-08-17T14:49:25+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71567 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-71567 📢 Source: redhat-cnalr 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In openshift-metal3/fakefish there is a repeated pattern in some of the scripts where ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71567",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71567:2026-08-17T14:49"
+  },
+  {
+   "ts": "2026-08-17T14:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-71566 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-71566 📢 Source: redhat-cnalr 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True FakeFish handles incoming credentials by passing them down to scripts. This works ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71566",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71566:2026-08-17T14:49"
+  },
   {
    "ts": "2026-08-17T14:19:09+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: pm-desktop:2026-08-17T10:19"
-  },
-  {
-   "ts": "2026-08-17T08:49:09+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-desktop",
-   "body": "**★ 2026-08-17 저녁 v0.9.0+23 스테이징 — 해킹 red/blue 전용 에이전트 배선 + 2D 네이티브 편집기 PoC**: ①해킹 탭 서브탭(레드팀 PL·블루팀 PL)을 각자 전용 GLM 에이전트로",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-desktop:2026-08-17T08:49"
-  },
-  {
-   "ts": "2026-08-17T08:19:14+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: auto-invest",
-   "body": "**★ 2026-08-17 계측 파이프라인 3대 결함 수리 완료(회고 지적 대응)** — ①**testnet 관측 정지 근인 확정 = 수집기 사망이 아니라 `KILL_SWITCH_SCALP=true`(08-06 사용",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: auto-invest:2026-08-17T08:19"
   }
  ]
 }
