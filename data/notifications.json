@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-17T19:19:08+00:00",
+ "generated_at": "2026-08-17T19:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-71472 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-71472 📢 Source: redhat 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in acm-search-v2-rhel9. This vulnerability allows an authenticated atta",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71472",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71472:2026-08-17T19:49"
+  },
+  {
+   "ts": "2026-08-17T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70495 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-70495 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in search-v2-operator. This component's `search-serviceaccount` has overly",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70495",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70495:2026-08-17T19:49"
+  },
   {
    "ts": "2026-08-17T18:49:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74877",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74877:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74876 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-74876 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 contain a vulnerability in PublicKeyBundle.from",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74876",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74876:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74875 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-74875 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 silently skip JSON schema validation when the j",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74875",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74875:2026-08-17T11:19"
   }
  ]
 }
