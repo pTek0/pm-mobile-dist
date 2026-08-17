@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-17T17:49:09+00:00",
+ "generated_at": "2026-08-17T18:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74238 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-74238 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True TIER IV Nebula through 1.2.0 contains an out-of-bounds read vulnerability in the Vlp32Dec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74238",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74238:2026-08-17T18:49"
+  },
+  {
+   "ts": "2026-08-17T18:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-66792 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-66792 📢 Source: redhat 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in the multicloud-operators-subscription component. This vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66792",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66792:2026-08-17T18:49"
+  },
+  {
+   "ts": "2026-08-17T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12553 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-12553 📢 Source: hp 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True HP has identified a potential vulnerability in HP Web Jetadmin (WJA) that may allow an unauthent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12553",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12553:2026-08-17T18:49"
+  },
+  {
+   "ts": "2026-08-17T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73523 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-73523 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True COVESA Open1722 through 0.9.2 contains an integer truncation vulnerability in acf-can-lis",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73523",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73523:2026-08-17T18:49"
+  },
+  {
+   "ts": "2026-08-17T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73522 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-73522 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True COVESA Open1722 through 0.9.2 contains a stack buffer overflow vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73522",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73522:2026-08-17T18:49"
+  },
+  {
+   "ts": "2026-08-17T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71980 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-71980 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Belledonne Communications bcg729 through 1.1.2 contains an out-of-bounds read vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71980",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71980:2026-08-17T18:49"
+  },
   {
    "ts": "2026-08-17T17:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74875",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74875:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74874 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-74874 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 use Python's non-cryptographic random module for st",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74874",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74874:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74873 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-74873 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 expose passwords passed via the --password CLI argu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74873",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74873:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74872 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-74872 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 contain an arbitrary code execution vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74872",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74872:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74869 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-74869 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True stoatchat before 0.15.0 contains a missing authorization vulnerability in the Subscribe m",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74869",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74869:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74868 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-74868 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan versions before 3.7.4 contain an unthrottled brute-force vulnerability in the Publ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74868",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74868:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74802 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-74802 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True SiYuan versions before 3.7.4 contain a cross-site WebSocket hijacking vulnerability in th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74802",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74802:2026-08-17T11:19"
   }
  ]
 }
