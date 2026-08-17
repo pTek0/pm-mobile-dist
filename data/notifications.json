@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-17T00:19:08+00:00",
+ "generated_at": "2026-08-17T00:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Twitch Adds Opt-Out for Amazon AI Training After Enrolling A",
+   "body": "Lemmy · technology · 점수 67",
+   "link": "https://www.ghacks.net/2026/08/14/twitch-adds-opt-out-for-amazon-ai-training-after-enrolling-all-creators-by-default/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.ghacks.net/2026/08/14/twitch-adds-opt-out-for-amazon-ai-training-after-enrolling-all-creators-by-default/:2026-08-17T00:49"
+  },
+  {
+   "ts": "2026-08-17T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I thought I was building a C replacement. I was wrong",
+   "body": "Lobsters · 점수 56",
+   "link": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+   "source": "Lobsters",
+   "id": "community:https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/:2026-08-17T00:49"
+  },
+  {
+   "ts": "2026-08-17T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] You should stop using Meta (Facebook) products at all costs.",
+   "body": "Lemmy · programming.dev · 점수 53",
+   "link": "https://minddump-5f4.pages.dev/posts/meta/?=0",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://minddump-5f4.pages.dev/posts/meta/?=0:2026-08-17T00:49"
+  },
+  {
+   "ts": "2026-08-17T00:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: auto-invest",
+   "body": "**★ 2026-08-16 주간 리포트(W33) + 4회차 회고 — 관측 파이프라인 이상 적발(성과 아닌 계측 문제)**: 전 트랙 판정 유보(최장 paper 17일차, 28일 임계 미달 — **1차 판정 최초 가능",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: auto-invest:2026-08-17T00:49"
+  },
+  {
+   "ts": "2026-08-17T00:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: InsecureBankv2",
+   "body": "정적분석 보고서 완료 — **정체 지속(마지막 활동 07-20 → 2026-08-17 기준 28일 경과)**",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: InsecureBankv2:2026-08-17T00:49"
+  },
+  {
+   "ts": "2026-08-17T00:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pentest-toolkit",
+   "body": "쉐도우 모드(관찰만) — **정체 지속(마지막 세션 07-17 → 2026-08-17 기준 31일 경과, 지난 7일 커밋 0)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→⏸",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pentest-toolkit:2026-08-17T00:49"
+  },
   {
    "ts": "2026-08-17T00:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73055",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73055:2026-08-16T00:49"
-  },
-  {
-   "ts": "2026-08-16T00:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73054 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-73054 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan versions before v3.7.4 contain an authentication bypass vulnerability in the WebSo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73054",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73054:2026-08-16T00:49"
-  },
-  {
-   "ts": "2026-08-16T00:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73053 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-73053 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan versions before v3.7.4 contain a cross-site scripting vulnerability in the uni",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73053",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73053:2026-08-16T00:49"
-  },
-  {
-   "ts": "2026-08-16T00:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73052 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-73052 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before v3.7.4 stores attribute-view field names without HTML escaping and inte",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73052",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73052:2026-08-16T00:49"
-  },
-  {
-   "ts": "2026-08-16T00:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73050 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-73050 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan versions before v3.7.4 fail to validate or escape the color field in attribute",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73050",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73050:2026-08-16T00:49"
-  },
-  {
-   "ts": "2026-08-16T00:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73046 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-73046 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before v3.7.4 improperly restricts excessive authentication attempts in the Ch",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73046",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73046:2026-08-16T00:49"
-  },
-  {
-   "ts": "2026-08-16T00:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73045 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-73045 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan before 3.7.4 contains an improper restriction of excessive authentication attempts",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73045",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73045:2026-08-16T00:49"
   }
  ]
 }
