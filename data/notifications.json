@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-17T05:49:08+00:00",
+ "generated_at": "2026-08-17T06:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T06:19:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "새 프로젝트: lecture-notes",
+   "body": "**v1 완성·검증(2026-08-17)** — CPU 배치: 시스템오디오 loopback→faster-whisper 한국어 전사(SRT/txt) + 화면 주기 스크린샷(슬라이드 변경만)→OCR(Windows 내장/",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:새 프로젝트: lecture-notes:2026-08-17T06:19"
+  },
   {
    "ts": "2026-08-17T02:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74767",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74767:2026-08-16T00:49"
-  },
-  {
-   "ts": "2026-08-16T00:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74764 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-74764 📢 Source: CIRCL 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Pandora contains a path traversal vulnerability in its TAR archive extraction functionalit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74764",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74764:2026-08-16T00:49"
   }
  ]
 }
