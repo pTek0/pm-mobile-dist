@@ -1,7 +1,237 @@
 {
- "generated_at": "2026-08-17T10:49:10+00:00",
+ "generated_at": "2026-08-17T11:19:17+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74882 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-74882 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 contain an insecure default configuration that trus",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74882",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74882:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74881 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-74881 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 configure CORS with allow_origins set to wildcard a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74881",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74881:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74880 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-74880 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 accept refresh tokens as URL query parameters i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74880",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74880:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74879 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-74879 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 contain an information disclosure vulnerability in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74879",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74879:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74878 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-74878 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 use an in-memory rate limiter for TOTP brute-fo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74878",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74878:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74877 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-74877 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 contain a missing ownership verification vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74877",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74877:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74876 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-74876 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 contain a vulnerability in PublicKeyBundle.from",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74876",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74876:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74875 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-74875 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 silently skip JSON schema validation when the j",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74875",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74875:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74874 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-74874 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 use Python's non-cryptographic random module for st",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74874",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74874:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74873 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-74873 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 expose passwords passed via the --password CLI argu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74873",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74873:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74872 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-74872 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True openssl_encrypt versions before 1.4.0 contain an arbitrary code execution vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74872",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74872:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74869 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-74869 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True stoatchat before 0.15.0 contains a missing authorization vulnerability in the Subscribe m",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74869",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74869:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74868 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-74868 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan versions before 3.7.4 contain an unthrottled brute-force vulnerability in the Publ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74868",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74868:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74802 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-74802 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True SiYuan versions before 3.7.4 contain a cross-site WebSocket hijacking vulnerability in th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74802",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74802:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74801 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-74801 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False SiYuan before 3.7.4 fails to properly escape workspace directory paths when constructing",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74801",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74801:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74800 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-74800 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before v3.7.4 fails to set Content-Disposition and X-Content-Type-Options head",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74800",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74800:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74799 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-74799 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before 3.7.4 registers Go net/http/pprof debug endpoints including heap and go",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74799",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74799:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74798 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-74798 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True SiYuan kernel before v3.7.4 contains a path traversal vulnerability in the database_c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74798",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74798:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Qwen 3.8 27B is excellent, but it defaults to overthinking t",
+   "body": "Hacker News · 점수 516",
+   "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+   "source": "Hacker News",
+   "id": "community:https://simonwillison.net/2026/Aug/16/qwen-38-27b/:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Stripe will reportedly acquire OpenRouter for $7B+",
+   "body": "Hacker News · 점수 368",
+   "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+   "source": "Hacker News",
+   "id": "community:https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Low-Tech Ceramic Water Filter",
+   "body": "Hacker News · 점수 191",
+   "link": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+   "source": "Hacker News",
+   "id": "community:https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] GIMP Development Update",
+   "body": "Hacker News · 점수 185",
+   "link": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+   "source": "Hacker News",
+   "id": "community:https://www.gimp.org/news/2026/08/16/dev-update-august-2026/:2026-08-17T11:19"
+  },
+  {
+   "ts": "2026-08-17T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The Pollution Being Churned Out by AI Data Centers Is So Sev",
+   "body": "Lemmy · technology · 점수 180",
+   "link": "https://futurism.com/artificial-intelligence/pollution-ai-data-centers-severe",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/artificial-intelligence/pollution-ai-data-centers-severe:2026-08-17T11:19"
+  },
   {
    "ts": "2026-08-17T10:49:09+00:00",
    "level": "general",
@@ -271,236 +501,6 @@
    "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
    "source": "Hacker News",
    "id": "community:https://support.mozilla.org/en-US/kb/block-ads-firefox-ios:2026-08-16T23:19"
-  },
-  {
-   "ts": "2026-08-16T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Claude: System Prompts",
-   "body": "Hacker News · 점수 471",
-   "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-   "source": "Hacker News",
-   "id": "community:https://platform.claude.com/docs/en/release-notes/system-prompts:2026-08-16T23:19"
-  },
-  {
-   "ts": "2026-08-16T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A 3rd World Embedded Engineer Responds to \"RISC-V They Shoul",
-   "body": "Hacker News · 점수 289",
-   "link": "https://rvembedded.com/blog_post/12/",
-   "source": "Hacker News",
-   "id": "community:https://rvembedded.com/blog_post/12/:2026-08-16T23:19"
-  },
-  {
-   "ts": "2026-08-16T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tell HN: Cloudflare silently injects its analytics when you ",
-   "body": "Hacker News · 점수 210",
-   "link": "https://news.ycombinator.com/item?id=49322107",
-   "source": "Hacker News",
-   "id": "community:https://news.ycombinator.com/item?id=49322107:2026-08-16T23:19"
-  },
-  {
-   "ts": "2026-08-16T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Models Are Getting Dumber on Purpose",
-   "body": "Hacker News · 점수 204",
-   "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-   "source": "Hacker News",
-   "id": "community:https://w4g1.dev/blog/models-are-getting-dumber-on-purpose:2026-08-16T23:19"
-  },
-  {
-   "ts": "2026-08-16T16:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-desktop",
-   "body": "**★ 2026-08-17 v0.8.0+22 스테이징 — 2D 뷰어 선명화(A-2)+디자인 모드 대화→뷰어 구동(A-3)**: 사전조사([research-2026-08-17-2d-viewer-native.md](PM",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-desktop:2026-08-16T16:19"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74796 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-74796 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True OpenTofu before 1.11.7 fails to validate existing symlinks in the provider cache directory ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74796",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74796:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74795 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-74795 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban before 6.6.0 contains an uncontrolled recursion vulnerability in its recursive-de",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74795",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74795:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74794 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-74794 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban before 6.6.0 contains an infinite recursion vulnerability in object rendering whe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74794",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74794:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74791 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-74791 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Scriban before 7.0.0 fails to clear the CachedTemplates dictionary when TemplateConte",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74791",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74791:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74790 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-74790 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Scriban before 7.0.0 caches TypedObjectAccessor by Type only without considering Memb",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74790",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74790:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74787 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-74787 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban before 7.0.0 contains an uncontrolled recursion vulnerability in the object.to_js",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74787",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74787:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74785 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-74785 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Scriban before 7.0.0 contains three distinct denial-of-service vulnerabilities in express",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74785",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74785:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74784 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-74784 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban before 7.2.0 contains a denial of service vulnerability in the array.insert_at fu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74784",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74784:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74783 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-74783 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban versions 6.6.0 through 7.2.0 contain a non-enforcing ExpressionDepthLimit guard t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74783",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74783:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73062 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-73062 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban versions 3.0.0 through 7.2.0 contain a denial of service vulnerability in the arr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73062",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73062:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73061 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-73061 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Scriban before 7.2.2 contains an access-modifier bypass vulnerability in TypedObjectA",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73061",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73061:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73060 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-73060 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban versions from 3.0.0 through 7.2.5 contain a denial of service vulnerability in th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73060",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73060:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73059 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-73059 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True stoatchat before 0.15.0 contains a permission bypass vulnerability in the message_fetch r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73059",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73059:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73057 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-73057 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True stoatchat before 0.15.0 fails to validate SVG viewBox dimensions in the proxy endpoint, a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73057",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73057:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73056 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-73056 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True SiYuan kernel versions before 3.7.4 contain an improper restriction of excessive auth",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73056",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73056:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2024-58375 (CVSS 8.7)",
-   "body": "🚨 CVE-2024-58375 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True OpenTofu versions 1.8.0 through 1.8.2 do not properly restrict sensitive variables and lo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58375",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58375:2026-08-16T13:49"
-  },
-  {
-   "ts": "2026-08-16T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74251 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-74251 📢 Source: Joomla 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - phoca.cz - Unauthenticated SQL injection via attribute filter in Phoc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74251",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74251:2026-08-16T13:19"
-  },
-  {
-   "ts": "2026-08-16T11:49:12+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] France’s nuclear fleet gives it one of the world’s lowest-ca",
-   "body": "Lemmy · technology · 점수 98",
-   "link": "https://ourworldindata.org/data-insights/frances-nuclear-fleet-gives-it-one-of-the-worlds-lowest-carbon-electricity-grids",
-   "source": "Lemmy · technology",
-   "id": "community:https://ourworldindata.org/data-insights/frances-nuclear-fleet-gives-it-one-of-the-worlds-lowest-carbon-electricity-grids:2026-08-16T11:49"
   }
  ]
 }
