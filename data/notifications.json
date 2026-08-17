@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-17T06:19:08+00:00",
+ "generated_at": "2026-08-17T06:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T06:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-15623 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-15623 📢 Source: GoogleCloud 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True A SQL Injection vulnerability in a legacy dashboard widget API in Google Cloud Goog",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15623",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15623:2026-08-17T06:49"
+  },
+  {
+   "ts": "2026-08-17T06:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-22072 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-22072 📢 Source: OPPO 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Loading arbitrary external URLs through WebView components introduces malicious JS code that c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22072",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22072:2026-08-17T06:49"
+  },
   {
    "ts": "2026-08-17T06:19:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
    "source": "Hacker News",
    "id": "community:https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/:2026-08-16T11:19"
-  },
-  {
-   "ts": "2026-08-16T11:19:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Australians to get at least three hours a day of free solar ",
-   "body": "Lemmy · technology · 점수 130",
-   "link": "https://www.theguardian.com/australia-news/2025/nov/03/australians-to-get-at-least-three-hours-a-day-of-free-solar-power-even-if-they-dont-have-solar-panels",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/australia-news/2025/nov/03/australians-to-get-at-least-three-hours-a-day-of-free-solar-power-even-if-they-dont-have-solar-panels:2026-08-16T11:19"
-  },
-  {
-   "ts": "2026-08-16T00:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74767 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-74767 📢 Source: CIRCL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Pandora contains a denial-of-service vulnerability in its handling of DAA (Direct Access Arch",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74767",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74767:2026-08-16T00:49"
   }
  ]
 }
