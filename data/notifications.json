@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-16T23:49:08+00:00",
+ "generated_at": "2026-08-17T00:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control",
+   "body": "Hacker News · 점수 138",
+   "link": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+   "source": "Hacker News",
+   "id": "community:https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core:2026-08-17T00:19"
+  },
+  {
+   "ts": "2026-08-17T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Does anyone run Postgres without PgBouncer?",
+   "body": "Hacker News · 점수 133",
+   "link": "https://brandur.org/fragments/postgres-without-pgbouncer",
+   "source": "Hacker News",
+   "id": "community:https://brandur.org/fragments/postgres-without-pgbouncer:2026-08-17T00:19"
+  },
+  {
+   "ts": "2026-08-17T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] ‘We detected unusual activity’: the scam that uses AI to exp",
+   "body": "Lemmy · technology · 점수 97",
+   "link": "https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook:2026-08-17T00:19"
+  },
+  {
+   "ts": "2026-08-17T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] GIMP is gearing up for a massive upgrade",
+   "body": "Lemmy · programming.dev · 점수 81",
+   "link": "https://testing.gimp.org/news/2026/08/16/dev-update-august-2026/?=0",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://testing.gimp.org/news/2026/08/16/dev-update-august-2026/?=0:2026-08-17T00:19"
+  },
+  {
+   "ts": "2026-08-17T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] State judge orders Kalshi to stop offering sports bets and o",
+   "body": "Lemmy · technology · 점수 71",
+   "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/:2026-08-17T00:19"
+  },
   {
    "ts": "2026-08-16T23:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73045",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73045:2026-08-16T00:49"
-  },
-  {
-   "ts": "2026-08-16T00:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73044 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-73044 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan versions before v3.7.4 fail to validate or escape table column width values, a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73044",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73044:2026-08-16T00:49"
-  },
-  {
-   "ts": "2026-08-16T00:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73043 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-73043 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan versions before v3.7.4 contain a remote code execution vulnerability in the Te",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73043",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73043:2026-08-16T00:49"
-  },
-  {
-   "ts": "2026-08-16T00:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73042 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-73042 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before v3.7.4 fails to properly escape database menu metadata in HTML interpol",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73042",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73042:2026-08-16T00:49"
-  },
-  {
-   "ts": "2026-08-16T00:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73041 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-73041 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan versions before v3.7.4 fail to validate or escape annotation fields written to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73041",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73041:2026-08-16T00:49"
-  },
-  {
-   "ts": "2026-08-16T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Research: The whole Reddit has become more negative over tim",
-   "body": "Lemmy · technology · 점수 88",
-   "link": "https://news.harvard.edu/gazette/story/2026/08/does-vitriol-make-you-feel-special/",
-   "source": "Lemmy · technology",
-   "id": "community:https://news.harvard.edu/gazette/story/2026/08/does-vitriol-make-you-feel-special/:2026-08-16T00:49"
   }
  ]
 }
