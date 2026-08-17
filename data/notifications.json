@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-08-17T13:49:13+00:00",
+ "generated_at": "2026-08-17T14:19:14+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T14:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59909 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-59909 📢 Source: dell 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Dell ObjectScale, versions prior to 4.3.0.1 , contain(s) a Path Traversal vulnerability. A lo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59909",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59909:2026-08-17T14:19"
+  },
+  {
+   "ts": "2026-08-17T14:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59910 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-59910 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell ObjectScale, versions prior to 4.3.0.1 , contain(s) an Improper Neutralization of Specia",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59910",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59910:2026-08-17T14:19"
+  },
+  {
+   "ts": "2026-08-17T14:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-56685 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-56685 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell ObjectScale, versions prior to 4.3.0.1 , contain(s) an Improper Neutralization of Specia",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56685",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56685:2026-08-17T14:19"
+  },
+  {
+   "ts": "2026-08-17T14:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-56090 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-56090 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell ObjectScale, versions prior to 4.3.0.1 , contain(s) an Uncontrolled Search Path Element ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56090",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56090:2026-08-17T14:19"
+  },
+  {
+   "ts": "2026-08-17T14:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19693 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-19693 📢 Source: seal 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True extract-zip through 2.0.1 containment-checks only the parent directory of each archive entry a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19693",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19693:2026-08-17T14:19"
+  },
+  {
+   "ts": "2026-08-17T14:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16138 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-16138 📢 Source: ProgressSoftware 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False In Progress ShareFile Storage Zones Controller v5.12.5 and below versions, unsafe d",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16138",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16138:2026-08-17T14:19"
+  },
+  {
+   "ts": "2026-08-17T14:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16137 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-16137 📢 Source: ProgressSoftware 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In Progress ShareFile Storage Zones Controller v5.12.5 and below, a party with val",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16137",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16137:2026-08-17T14:19"
+  },
+  {
+   "ts": "2026-08-17T14:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15218 (CVSS 7.9)",
+   "body": "🚨 CVE-2026-15218 📢 Source: redhat 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the maas-api and maas-controller ServiceAccounts within Red Hat OpenShif",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15218",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15218:2026-08-17T14:19"
+  },
   {
    "ts": "2026-08-17T13:49:08+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: auto-invest:2026-08-17T08:19"
-  },
-  {
-   "ts": "2026-08-17T06:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-15623 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-15623 📢 Source: GoogleCloud 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True A SQL Injection vulnerability in a legacy dashboard widget API in Google Cloud Goog",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15623",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15623:2026-08-17T06:49"
-  },
-  {
-   "ts": "2026-08-17T06:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-22072 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-22072 📢 Source: OPPO 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Loading arbitrary external URLs through WebView components introduces malicious JS code that c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22072",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22072:2026-08-17T06:49"
-  },
-  {
-   "ts": "2026-08-17T06:19:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: lecture-notes",
-   "body": "**v1 완성·검증(2026-08-17)** — CPU 배치: 시스템오디오 loopback→faster-whisper 한국어 전사(SRT/txt) + 화면 주기 스크린샷(슬라이드 변경만)→OCR(Windows 내장/",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: lecture-notes:2026-08-17T06:19"
-  },
-  {
-   "ts": "2026-08-17T02:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-50602 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-50602 📢 Source: Acer 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A security vulnerability has been identified in Planet9 due to incorrect file permissions ass",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-50602",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-50602:2026-08-17T02:49"
-  },
-  {
-   "ts": "2026-08-17T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Twitch Adds Opt-Out for Amazon AI Training After Enrolling A",
-   "body": "Lemmy · technology · 점수 67",
-   "link": "https://www.ghacks.net/2026/08/14/twitch-adds-opt-out-for-amazon-ai-training-after-enrolling-all-creators-by-default/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.ghacks.net/2026/08/14/twitch-adds-opt-out-for-amazon-ai-training-after-enrolling-all-creators-by-default/:2026-08-17T00:49"
-  },
-  {
-   "ts": "2026-08-17T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I thought I was building a C replacement. I was wrong",
-   "body": "Lobsters · 점수 56",
-   "link": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
-   "source": "Lobsters",
-   "id": "community:https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/:2026-08-17T00:49"
-  },
-  {
-   "ts": "2026-08-17T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] You should stop using Meta (Facebook) products at all costs.",
-   "body": "Lemmy · programming.dev · 점수 53",
-   "link": "https://minddump-5f4.pages.dev/posts/meta/?=0",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://minddump-5f4.pages.dev/posts/meta/?=0:2026-08-17T00:49"
-  },
-  {
-   "ts": "2026-08-17T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: auto-invest",
-   "body": "**★ 2026-08-16 주간 리포트(W33) + 4회차 회고 — 관측 파이프라인 이상 적발(성과 아닌 계측 문제)**: 전 트랙 판정 유보(최장 paper 17일차, 28일 임계 미달 — **1차 판정 최초 가능",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: auto-invest:2026-08-17T00:49"
   }
  ]
 }
