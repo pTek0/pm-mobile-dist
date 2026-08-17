@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-17T17:19:10+00:00",
+ "generated_at": "2026-08-17T17:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71979 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-71979 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True INDI (Instrument Neutral Distributed Interface) indiserver through 2.2.4.2 , fixed in com",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71979",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71979:2026-08-17T17:49"
+  },
   {
    "ts": "2026-08-17T17:19:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74802",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74802:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74801 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-74801 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False SiYuan before 3.7.4 fails to properly escape workspace directory paths when constructing",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74801",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74801:2026-08-17T11:19"
   }
  ]
 }
