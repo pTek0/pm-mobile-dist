@@ -1,28 +1,40 @@
 {
- "generated_at": "2026-08-18T08:19:01+09:00",
+ "generated_at": "2026-08-18T08:24:01+09:00",
  "this_host": {
   "id": "DESKTOP-U25DBJA",
   "label": "집 데스크탑",
   "os": "Windows 10 Pro",
-  "updated": "2026-08-18T08:19:01+09:00"
+  "updated": "2026-08-18T08:24:01+09:00"
  },
  "hosts": [
   {
    "id": "DESKTOP-U25DBJA",
    "label": "집 데스크탑",
    "os": "Windows 10 Pro",
-   "last_seen": "2026-08-18T08:19:01+09:00",
+   "last_seen": "2026-08-18T08:24:01+09:00",
    "online": true
   }
  ],
  "projects": [
+  {
+   "name": "_root",
+   "host_id": "DESKTOP-U25DBJA",
+   "host_label": "집 데스크탑",
+   "last_activity": "2026-08-18T08:23:42+09:00",
+   "running": true,
+   "minutes_since": 0,
+   "remote_control": {
+    "enabled": false,
+    "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
+   }
+  },
   {
    "name": "auto-invest",
    "host_id": "DESKTOP-U25DBJA",
    "host_label": "집 데스크탑",
    "last_activity": "2026-08-18T07:52:33+09:00",
    "running": false,
-   "minutes_since": 26,
+   "minutes_since": 31,
    "remote_control": {
     "enabled": false,
     "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
@@ -34,19 +46,7 @@
    "host_label": "집 데스크탑",
    "last_activity": "2026-08-18T07:52:33+09:00",
    "running": false,
-   "minutes_since": 26,
-   "remote_control": {
-    "enabled": false,
-    "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
-   }
-  },
-  {
-   "name": "_root",
-   "host_id": "DESKTOP-U25DBJA",
-   "host_label": "집 데스크탑",
-   "last_activity": "2026-08-18T02:12:55+09:00",
-   "running": false,
-   "minutes_since": 366,
+   "minutes_since": 31,
    "remote_control": {
     "enabled": false,
     "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
@@ -58,7 +58,7 @@
    "host_label": "집 데스크탑",
    "last_activity": "2026-08-17T23:51:45+09:00",
    "running": false,
-   "minutes_since": 507,
+   "minutes_since": 512,
    "remote_control": {
     "enabled": false,
     "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
@@ -70,7 +70,7 @@
    "host_label": "집 데스크탑",
    "last_activity": "2026-08-17T12:29:01+09:00",
    "running": false,
-   "minutes_since": 1189,
+   "minutes_since": 1194,
    "remote_control": {
     "enabled": false,
     "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
@@ -82,7 +82,7 @@
    "host_label": "집 데스크탑",
    "last_activity": "2026-08-11T20:43:19+09:00",
    "running": false,
-   "minutes_since": 9335,
+   "minutes_since": 9340,
    "remote_control": {
     "enabled": false,
     "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
@@ -94,7 +94,7 @@
    "host_label": "집 데스크탑",
    "last_activity": "2026-08-11T15:17:43+09:00",
    "running": false,
-   "minutes_since": 9661,
+   "minutes_since": 9666,
    "remote_control": {
     "enabled": false,
     "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
@@ -106,7 +106,7 @@
    "host_label": "집 데스크탑",
    "last_activity": "2026-08-07T22:52:20+09:00",
    "running": false,
-   "minutes_since": 14966,
+   "minutes_since": 14971,
    "remote_control": {
     "enabled": false,
     "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
@@ -118,7 +118,7 @@
    "host_label": "집 데스크탑",
    "last_activity": "2026-08-06T13:35:31+09:00",
    "running": false,
-   "minutes_since": 16963,
+   "minutes_since": 16968,
    "remote_control": {
     "enabled": false,
     "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
@@ -130,7 +130,7 @@
    "host_label": "집 데스크탑",
    "last_activity": "2026-08-03T21:12:10+09:00",
    "running": false,
-   "minutes_since": 20826,
+   "minutes_since": 20831,
    "remote_control": {
     "enabled": false,
     "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
@@ -142,7 +142,7 @@
    "host_label": "집 데스크탑",
    "last_activity": "2026-08-03T20:44:27+09:00",
    "running": false,
-   "minutes_since": 20854,
+   "minutes_since": 20859,
    "remote_control": {
     "enabled": false,
     "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
@@ -154,7 +154,7 @@
    "host_label": "집 데스크탑",
    "last_activity": "2026-07-31T16:47:15+09:00",
    "running": false,
-   "minutes_since": 25411,
+   "minutes_since": 25416,
    "remote_control": {
     "enabled": false,
     "detail": "꺼짐 — 자동 연결 설정 없음, 실행 중인 원격 세션 없음 (claude --remote-control / claude remote-control 로 세션마다 수동 시작)"
