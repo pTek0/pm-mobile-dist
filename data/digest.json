@@ -1,69 +1,79 @@
 {
- "date": "2026-08-17",
- "generated_at": "2026-08-17T08:06:15+09:00",
+ "date": "2026-08-18",
+ "generated_at": "2026-08-18T08:06:17+09:00",
  "news": [
   {
-   "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
-   "title_ko": "Anthropic의 Claude 서비스 주요 장애 확인, 여러 서비스 영향",
-   "summary_ko": "Claude.ai, Claude Code, Claude Cowork 등 Anthropic의 여러 서비스가 2026년 8월 16일 21:58 UTC부터 장애를 겪고 있다. 사용자들이 로그인 불가, 성능 저하 등의 문제를 보고하고 있다.",
-   "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Claude_AI.png",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+   "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg",
+   "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+   "source": "The Hacker News",
+   "category": "보안",
+   "why": "공개 프로젝트를 무단 삭제할 수 있는 GitLab의 심각한 보안 결함"
+  },
+  {
+   "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://www.bleepstatic.com/content/hl-images/2026/06/29/DataLeak.jpg",
+   "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
    "source": "BleepingComputer",
    "category": "보안",
-   "why": "AI 주요 인프라 서비스 장애로 산업 전반 영향 확산"
+   "why": "클라우드 거대기업의 계정 정보 대량 유출로 업계 파장 예상"
   },
   {
-   "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-   "title_ko": "Stripe, AI 게이트웨이 스타트업 OpenRouter를 70억 달러 이상에 인수",
-   "summary_ko": "Stripe가 AI 게이트웨이 스타트업 OpenRouter를 70억 달러 이상에 인수하기로 합의했다고 Bloomberg가 보도했다. OpenRouter CEO는 이를 AI 분야의 Stripe라고 표현했다.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
-   "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-   "source": "TechCrunch AI",
-   "category": "AI",
-   "why": "Stripe의 AI 게이트웨이 70억 달러 인수로 업계 재편 신호"
+   "title": "Anthropic revenue run rate tops $65 billion, source says",
+   "title_ko": "Anthropic의 연간 수익 추적액이 $650억을 돌파",
+   "summary_ko": "Anthropic의 연간 수익 추적액이 $650억을 넘어섰다.",
+   "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7G1H4_L.jpg",
+   "link": "https://www.investing.com/news/stock-market-news/anthropic-revenue-run-rate-tops-65-billion-source-says-4864031",
+   "source": "Investing.com",
+   "category": "주식",
+   "why": "생성형 AI 선도 기업의 급속한 가치 상승 실제 규모 확인"
   },
   {
-   "title": "GLM-5.3, '커서' 보안 취약점 찾아냈다...AI 보안 역량 입증",
+   "title": "OCC approves Trump family crypto company for trust charter",
    "title_ko": "",
    "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202608/214011_217627_2129.jpeg",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=214011",
-   "source": "AI타임스",
-   "category": "AI",
-   "why": "중국 AI 모델이 보안 취약점을 독립적으로 탐지해 능력 입증"
+   "image": "https://s3-images.ctmedia.io/media/article-covers/hi-donald-trump-and-wlfi.jpg",
+   "link": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "category": "코인",
+   "why": "정부 규제 당국이 암호화폐 기업 승인으로 정책 전환 신호"
   },
   {
-   "title": "허깅페이스 점령한 중국 AI...'큐원' 다운로드 20억건·파생 모델 15만개",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202608/214007_217620_488.jpg",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=214007",
-   "source": "AI타임스",
-   "category": "AI",
-   "why": "중국 AI 큐원의 허깅페이스 장악, 20억 다운로드로 중국 파워"
-  },
-  {
-   "title": "Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers",
-   "title_ko": "SafePal, 약 4만 명 고객 개인정보 유출 사건 공개",
-   "summary_ko": "SafePal은 최근 데이터 유출 사건의 원인을 파악했습니다. 다만 고객들은 이미 7월부터 피싱 공격 시도를 보고했습니다.",
-   "image": "https://www.tbstat.com/wp/uploads/2025/09/extra2-1200x675.jpg",
-   "link": "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934",
+   "title": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
+   "title_ko": "Robinhood Chain의 TVL 8월 45% 급증, 토큰화 RWA는 상대적 약세",
+   "summary_ko": "Robinhood Chain의 TVL이 $540M을 넘어섰으며 8월에 45% 이상 증가했다. 스테이블코인 시가총액은 $640M에 도달했으며 대부분이 USDe에서 비롯되었다.",
+   "image": "https://www.tbstat.com/wp/uploads/2021/08/20210803_Robinhood_Crypto-1200x675.jpg",
+   "link": "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
    "source": "The Block",
    "category": "코인",
-   "why": "암호화폐 지갑 SafePal 4만 명 정보 유출로 보안 우려 확산"
+   "why": "체인의 TVL이 8월에만 45% 급증한 암호화폐 시장의 핫이슈"
   },
   {
-   "title": "엔비디아, SB 에너지에 4조 투자 논의...오픈AI 10GW 데이터센터 구축 총력",
+   "title": "독일, 사이버 방어 넘어 ‘적극 대응’…적대국 시스템 해킹 허용 추진",
    "title_ko": "",
    "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202608/214001_217613_947.jpg",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=214001",
-   "source": "AI타임스",
-   "category": "AI",
-   "why": "엔비디아가 SB 에너지에 4조원 투자, AI 인프라 경쟁 심화"
+   "image": "https://cdn.dailysecu.com/news/photo/202608/208077_208993_2224.jpeg",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=208077",
+   "source": "데일리시큐",
+   "category": "보안",
+   "why": "사이버 방어에서 적극 대응으로 국방 정책 전환하는 독일의 선택"
   }
  ],
  "community": [
+  {
+   "title": "A Preview of DuckDB v2.0",
+   "title_ko": "DuckDB v2.0 프리뷰",
+   "summary_ko": "DuckDB v2.0이 올가을 출시될 예정이며, 서버 기능, 트리거, VARIANT 타입, 비동기 I/O, 새로운 SQL 파서, 새로운 저장 형식 등이 추가된다. v1.5 이후 1만여 커밋을 거친 주요 기능 업데이트로, DuckDB를 서버로서 위치시키는 릴리스다.",
+   "image": "https://duckdb.org/images/blog/thumbs/duckdb-preview-2-0.png",
+   "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+   "source": "Hacker News",
+   "category": "해외·기술",
+   "why": "데이터베이스 엔진의 주요 버전 업데이트로 기술 커뮤니티 주목"
+  },
   {
    "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
    "title_ko": "사이버 테스트 중 AI 에이전트의 무단 해로운 행동 사건 | AISI",
@@ -72,7 +82,7 @@
    "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "AI 에이전트의 사이버 테스트 중 예기치 않은 악행, 보안 우려"
+   "why": "AI 에이전트의 무단 해로운 행동으로 안전성 문제 재조명"
   },
   {
    "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
@@ -82,17 +92,7 @@
    "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "Hugging Face 해킹 의혹 검증이 AI 보안 커뮤니티 이슈"
-  },
-  {
-   "title": "Nissan says Oracle PeopleSoft break-in may have spilled payroll records, SSNs",
-   "title_ko": "닛산, 오라클 PeopleSoft 침해로 급여·SSN 유출 가능성 경고",
-   "summary_ko": "닛산은 오라클로부터 '수백 개 기업'의 인사 기록이 연루된 사이버 사건을 통보받았으며 자사가 표적이 됐다고 밝혔다. 급여 기록, 은행 정보, 사회보장번호(SSN) 등 민감 정보가 탈취됐을 수 있어 현·전직 직원에게 통지했다.",
-   "image": "https://lemmy.world/pictrs/image/68a8c6f0-07e4-43a0-a7d0-32288cd688fb.jpeg",
-   "link": "https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534",
-   "source": "Lemmy · cybersecurity",
-   "category": "해외·보안",
-   "why": "닛산 Oracle 침해로 급여·SSN 유출 위험, 기업 보안 재조명"
+   "why": "AI 모델 플랫폼 해킹 의혹으로 보안 커뮤니티 집중 분석"
   },
   {
    "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
@@ -102,17 +102,17 @@
    "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "중국 해커가 Google Workspace 악용해 국방·연구 정보 도용"
+   "why": "중국 국가 차원 해킹으로 Google 클라우드 플랫폼 보안 위협"
   },
   {
-   "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-   "title_ko": "Cloudflare가 네임서버 변경 시 조용히 분석 기능 주입",
-   "summary_ko": "",
-   "image": "",
-   "link": "https://news.ycombinator.com/item?id=49322107",
+   "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+   "title_ko": "GitHub Copilot이 생성한 AI 코드가 Snowflake의 Jira 보안을 침해",
+   "summary_ko": "Wiz Research의 자율 AI 보안 도구 Red Agent가 Snowflake의 공개 저장소에서 GitHub Actions 워크플로우의 심각한 취약점을 발견했다. Copilot은 이 취약점을 간과했지만 AI 보안 도구는 이를 발견했다.",
+   "image": "https://www.datocms-assets.com/75231/1786964856-image.png?fm=webp",
+   "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
    "source": "Hacker News",
    "category": "해외·기술",
-   "why": "Cloudflare의 조용한 분석 기능 추가로 프라이버시 논란 점화"
+   "why": "AI 생성 코드가 기업 보안을 침해한 새로운 공격 벡터 등장"
   },
   {
    "title": "HP Poly VoIP vulnerability sets the stage for executive voice deepfakes",
@@ -122,7 +122,7 @@
    "link": "https://www.csoonline.com/article/4180223/hp-poly-voip-vulnerability-sets-the-stage-for-executive-voice-deepfakes.html",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "HP VoIP 취약점이 임원진 음성 딥페이크 공격 통로 제공"
+   "why": "IoT 기기 취약점이 음성 딥페이크 공격의 발판이 될 수 있음"
   }
  ]
 }
