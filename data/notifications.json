@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-17T14:49:25+00:00",
+ "generated_at": "2026-08-17T15:19:15+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T15:19:10+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13202 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-13202 📢 Source: OpenText 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True A vulnerability in OpenText Opentext Directory Services allows Input Data Manipulation. Th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13202",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13202:2026-08-17T15:19"
+  },
   {
    "ts": "2026-08-17T14:49:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74845",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74845:2026-08-17T10:19"
-  },
-  {
-   "ts": "2026-08-17T10:19:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-desktop",
-   "body": "**★ 2026-08-17 저녁 v0.9.0 발행 완료([dist v0.9.0](https://github.com/pTek0/pm-desktop-dist/releases/tag/v0.9.0)) — 해킹 red/blu",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-desktop:2026-08-17T10:19"
   }
  ]
 }
