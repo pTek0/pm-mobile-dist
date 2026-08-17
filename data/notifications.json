@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-17T16:49:13+00:00",
+ "generated_at": "2026-08-17T17:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-17T17:19:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: 혜택",
+   "body": "**★ 수집기 2종 구현·오프라인 검증 완료(2026-08-18, 정체 해소)** — finlife 금리 수집기(예·적금·연금저축, 페이징+일 10,000건 상한 강제) + data.go.kr 3종(공공서비스 151",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: 혜택:2026-08-17T17:19"
+  },
+  {
+   "ts": "2026-08-17T17:19:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: web-harvest",
+   "body": "**★ 2026-08-18 국내 검색 재구성 + 라이브 준비 완료(테스트 203 passed / integration 5 deselect — 이전 199 대비 무회귀)** — ①**카카오 Daum 검색 활성화 준비 ",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: web-harvest:2026-08-17T17:19"
+  },
   {
    "ts": "2026-08-17T16:49:12+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74801",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74801:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74800 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-74800 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before v3.7.4 fails to set Content-Disposition and X-Content-Type-Options head",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74800",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74800:2026-08-17T11:19"
-  },
-  {
-   "ts": "2026-08-17T11:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74799 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-74799 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before 3.7.4 registers Go net/http/pprof debug endpoints including heap and go",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74799",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74799:2026-08-17T11:19"
   }
  ]
 }
