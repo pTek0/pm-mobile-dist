@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-18T15:49:08+00:00",
+ "generated_at": "2026-08-18T16:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73373 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-73373 📢 Source: Joomla 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True Joomla! Core - [20260810] - Unrestricted uploads of SHTML files in Joomla 1.0.0-5.4.7, 6.0.0",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73373",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73373:2026-08-18T16:19"
+  },
+  {
+   "ts": "2026-08-18T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73337 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-73337 📢 Source: Joomla 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Joomla! Core - [20260807] - MFA Authentication Bypass in Joomla 4.0.0-5.4.7 and 6.0.0-6.1.2 ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73337",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73337:2026-08-18T16:19"
+  },
+  {
+   "ts": "2026-08-18T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71574 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-71574 📢 Source: Joomla 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Joomla! Core - [20260803] - Inconsistent ACL checks for mutating webservice endpoints in Joo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71574",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71574:2026-08-18T16:19"
+  },
+  {
+   "ts": "2026-08-18T16:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75926 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-75926 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False Hugo 0.161.0 placed the Node asset pipelines behind the Node.js permission model so ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75926",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75926:2026-08-18T16:19"
+  },
+  {
+   "ts": "2026-08-18T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71365 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-71365 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A server-side request forgery (SSRF) vulnerability was found in AWX's webhook status callbac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71365",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71365:2026-08-18T16:19"
+  },
   {
    "ts": "2026-08-18T15:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: pm-desktop:2026-08-18T03:49"
-  },
-  {
-   "ts": "2026-08-18T03:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: web-harvest",
-   "body": "**★ 2026-08-18 심야 — 다나와·에누리 opt-in 어댑터 구현(전체 357 passed, 무회귀)**: 회색지대 소스라 **opt-in 전용·개인용 한정**(default_adapters 비합류 — re",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: web-harvest:2026-08-18T03:49"
-  },
-  {
-   "ts": "2026-08-18T02:19:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: 혜택",
-   "body": "**★ 주기 수집 예약 가동(2026-08-18 밤)** — 예약 태스크 2종 등록: `finance-benefits-finlife-weekly`(매주 월 04:00, 러너 [run-finlife-weekly.ps1",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: 혜택:2026-08-18T02:19"
-  },
-  {
-   "ts": "2026-08-18T02:19:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: web-harvest",
-   "body": "**★ 2026-08-18 밤 — D-32 절충 채택 구현(사용자 결정)**: Apify 는 **opt-in 전용** — `search_domestic_listings(..., deep=True)` 또는 `core.",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: web-harvest:2026-08-18T02:19"
-  },
-  {
-   "ts": "2026-08-18T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Woman claims her stepfather used Grok to transform childhood",
-   "body": "Lemmy · technology · 점수 103",
-   "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-   "source": "Lemmy · technology",
-   "id": "community:https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/:2026-08-18T00:49"
-  },
-  {
-   "ts": "2026-08-18T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Israel creates fake think tank in likely attempt to dupe AI ",
-   "body": "Lemmy · technology · 점수 73",
-   "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-   "source": "Lemmy · technology",
-   "id": "community:https://responsiblestatecraft.org/israel-influence-chatgpt/:2026-08-18T00:49"
   }
  ]
 }
