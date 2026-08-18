@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-18T20:19:07+00:00",
+ "generated_at": "2026-08-18T20:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15571 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-15571 📢 Source: redhat 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the legacy client-initiated account-linking endpoint of Keycloak, a wide",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15571",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15571:2026-08-18T20:49"
+  },
   {
    "ts": "2026-08-18T20:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75829",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75829:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75828 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-75828 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Grav before 2.0.15 contains a stored cross-site scripting vulnerability in the detect",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75828",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75828:2026-08-18T11:49"
   }
  ]
 }
