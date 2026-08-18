@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-18T14:19:15+00:00",
+ "generated_at": "2026-08-18T14:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75898 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-75898 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True RAGFlow before 0.26.3 contains a server-side request forgery vulnerability in the agent w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75898",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75898:2026-08-18T14:49"
+  },
+  {
+   "ts": "2026-08-18T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66046 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-66046 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Expat through 2.8.3 contains a denial of service vulnerability caused by quadratic algori",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66046",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66046:2026-08-18T14:49"
+  },
   {
    "ts": "2026-08-18T13:49:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://sunclock.net/",
    "source": "Hacker News",
    "id": "community:https://sunclock.net/:2026-08-18T00:19"
-  },
-  {
-   "ts": "2026-08-18T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Kansas Schools Now Collect Phones at the Door – Spends $180K",
-   "body": "Lemmy · technology · 점수 111",
-   "link": "https://www.gadgetreview.com/kansas-schools-now-collect-phones-at-the-door-spends-180k-on-smartphone-lockers",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.gadgetreview.com/kansas-schools-now-collect-phones-at-the-door-spends-180k-on-smartphone-lockers:2026-08-18T00:19"
-  },
-  {
-   "ts": "2026-08-18T00:19:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: finance",
-   "body": "**★ 2026-08-17 계측 파이프라인 3대 결함 수리 완료(회고 지적 대응)** — ①**testnet 관측 정지 근인 확정 = 수집기 사망이 아니라 `KILL_SWITCH_SCALP=true`(08-06 사용",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: finance:2026-08-18T00:19"
   }
  ]
 }
