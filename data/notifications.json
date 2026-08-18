@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-18T04:49:07+00:00",
+ "generated_at": "2026-08-18T05:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T05:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-desktop",
+   "body": "**★ 2026-08-18 최종 — pm_desktop v0.9.2 발행 완료(pTek0/pm-desktop-dist) + pm-api 0.14.2 호스트 반영·라이브**: pm-api **0.14.1** 통합검색 ",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-desktop:2026-08-18T05:19"
+  },
+  {
+   "ts": "2026-08-18T05:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: web-harvest",
+   "body": "**★ 2026-08-18 최종 — 검색엔진 프로파일 설계(소비처 마운트)**: web-harvest 를 **도메인 무지(domain-blind) 검색엔진**으로 형식화 — 소비처(하드웨어 탭·riding-app)가",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: web-harvest:2026-08-18T05:19"
+  },
   {
    "ts": "2026-08-18T03:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74238",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74238:2026-08-17T18:49"
-  },
-  {
-   "ts": "2026-08-17T18:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-66792 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-66792 📢 Source: redhat 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in the multicloud-operators-subscription component. This vulnerability ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66792",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66792:2026-08-17T18:49"
-  },
-  {
-   "ts": "2026-08-17T18:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12553 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-12553 📢 Source: hp 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True HP has identified a potential vulnerability in HP Web Jetadmin (WJA) that may allow an unauthent",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12553",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12553:2026-08-17T18:49"
   }
  ]
 }
