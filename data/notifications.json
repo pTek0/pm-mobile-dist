@@ -1,7 +1,197 @@
 {
- "generated_at": "2026-08-18T11:19:09+00:00",
+ "generated_at": "2026-08-18T11:49:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T11:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75837 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-75837 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Grav before 2.0.14 fails to guard the access field in the core group blueprint with t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75837",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75837:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75836 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-75836 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The Grav API plugin (getgrav/grav-plugin-api, bundled with Grav's admin-next/API stack) b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75836",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75836:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75835 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-75835 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Grav API plugin (getgrav/grav-plugin-api) before 1.0.14 contains a missing authorizat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75835",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75835:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75833 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-75833 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True The Grav API plugin (getgrav/grav-plugin-api, bundled with Grav 2.0's admin-next/API stac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75833",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75833:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75831 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-75831 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Grav before 2.0.15 contains a stored cross-site scripting vulnerability in the audio and ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75831",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75831:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75829 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-75829 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True grav-plugin-api versions before 1.0.15 fail to validate Twig content in the translate() e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75829",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75829:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75828 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-75828 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Grav before 2.0.15 contains a stored cross-site scripting vulnerability in the detect",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75828",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75828:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75827 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-75827 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Grav before 2.0.15 contains an arbitrary file write vulnerability in the Blueprint dy",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75827",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75827:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74907 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-74907 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Grav before 2.0.15 contains a path traversal vulnerability in the static asset server wit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74907",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74907:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74906 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-74906 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan before v3.7.4 contains an incorrect authorization vulnerability in eight publish-m",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74906",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74906:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74905 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-74905 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True SiYuan before v3.7.4 contains a server-side request forgery (SSRF) vulnerability in the i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74905",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74905:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74904 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-74904 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan before v3.7.4 is missing authorization checks in 17 block metadata/content endpoin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74904",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74904:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74902 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-74902 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False SiYuan before v3.7.4 contains a cross-site scripting vulnerability in the file uploa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74902",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74902:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15585 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-15585 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15585",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15585:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] New ChatGPT Feature Collects Every Keystroke You Make",
+   "body": "Lemmy · technology · 점수 112",
+   "link": "https://futurism.com/artificial-intelligence/new-chatgpt-feature-collects-every-keystroke-you-make",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/artificial-intelligence/new-chatgpt-feature-collects-every-keystroke-you-make:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] GitHub Has an Availability Problem. Is It Time to Look Elsew",
+   "body": "Lemmy · programming.dev · 점수 88",
+   "link": "https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] How Bluesky draws its logo on screenshots",
+   "body": "Lobsters · 점수 63",
+   "link": "https://timmarinin.net/2026/bluesky-screenshots/",
+   "source": "Lobsters",
+   "id": "community:https://timmarinin.net/2026/bluesky-screenshots/:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I don't enjoy the Internet any more",
+   "body": "Lemmy · technology · 점수 59",
+   "link": "https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/",
+   "source": "Lemmy · technology",
+   "id": "community:https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/:2026-08-18T11:49"
+  },
+  {
+   "ts": "2026-08-18T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Apple is working on camera-equipped AirPods that appear to b",
+   "body": "Lemmy · technology · 점수 52",
+   "link": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/:2026-08-18T11:49"
+  },
   {
    "ts": "2026-08-18T11:19:06+00:00",
    "level": "important",
@@ -311,196 +501,6 @@
    "link": "https://blog.roboflow.com/openai-gpt-5-6/",
    "source": "Hacker News",
    "id": "community:https://blog.roboflow.com/openai-gpt-5-6/:2026-08-17T23:49"
-  },
-  {
-   "ts": "2026-08-17T23:49:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Qwen3.8 27B scores 52 on Artificial Analysis",
-   "body": "Hacker News · 점수 264",
-   "link": "https://artificialanalysis.ai/models/qwen3-8-27b",
-   "source": "Hacker News",
-   "id": "community:https://artificialanalysis.ai/models/qwen3-8-27b:2026-08-17T23:49"
-  },
-  {
-   "ts": "2026-08-17T23:49:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Olo (Color)",
-   "body": "Hacker News · 점수 260",
-   "link": "https://en.wikipedia.org/wiki/Olo_(color)",
-   "source": "Hacker News",
-   "id": "community:https://en.wikipedia.org/wiki/Olo_(color):2026-08-17T23:49"
-  },
-  {
-   "ts": "2026-08-17T23:49:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How to disable or avoid intrusive AI",
-   "body": "Hacker News · 점수 229",
-   "link": "https://www.librarian.net/notoai/",
-   "source": "Hacker News",
-   "id": "community:https://www.librarian.net/notoai/:2026-08-17T23:49"
-  },
-  {
-   "ts": "2026-08-17T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A Preview of DuckDB v2.0",
-   "body": "Hacker News · 점수 494",
-   "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-   "source": "Hacker News",
-   "id": "community:https://duckdb.org/2026/08/17/duckdb-20-highlights:2026-08-17T23:19"
-  },
-  {
-   "ts": "2026-08-17T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Incident with Github.com",
-   "body": "Hacker News · 점수 478",
-   "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-   "source": "Hacker News",
-   "id": "community:https://www.githubstatus.com/incidents/zkxwbgr0cnmx:2026-08-17T23:19"
-  },
-  {
-   "ts": "2026-08-17T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ask HN: Alternatives to GitHub",
-   "body": "Hacker News · 점수 459",
-   "link": "https://news.ycombinator.com/item?id=49331033",
-   "source": "Hacker News",
-   "id": "community:https://news.ycombinator.com/item?id=49331033:2026-08-17T23:19"
-  },
-  {
-   "ts": "2026-08-17T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GitDown is Hub",
-   "body": "Lemmy · programming.dev · 점수 443",
-   "link": "https://programming.dev/pictrs/image/b93f2c99-6c99-425b-b3f5-3ca96cc8de18.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://programming.dev/pictrs/image/b93f2c99-6c99-425b-b3f5-3ca96cc8de18.jpeg:2026-08-17T23:19"
-  },
-  {
-   "ts": "2026-08-17T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Never seen it this bad",
-   "body": "Lemmy · programming.dev · 점수 434",
-   "link": "https://sh.itjust.works/pictrs/image/bac418c2-3d9b-4e9a-a714-703d1aa0b4ec.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://sh.itjust.works/pictrs/image/bac418c2-3d9b-4e9a-a714-703d1aa0b4ec.png:2026-08-17T23:19"
-  },
-  {
-   "ts": "2026-08-17T21:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71518 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-71518 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Typemill before 2.26.0 contains an authorization bypass vulnerability in the media file d",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71518",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71518:2026-08-17T21:19"
-  },
-  {
-   "ts": "2026-08-17T21:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75531 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-75531 📢 Source: CIRCL 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Pandora contains a stored cross-site scripting (XSS) vulnerability in the rendering of URL obse",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75531",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75531:2026-08-17T21:19"
-  },
-  {
-   "ts": "2026-08-17T21:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-66795 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-66795 📢 Source: redhat 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in the managedcluster-import-controller. The Certificate Signing Reques",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66795",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66795:2026-08-17T21:19"
-  },
-  {
-   "ts": "2026-08-17T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75482 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-75482 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SWE-agent's trajectory inspector (sweagent inspector), confirmed in v1.1.0, is an HTTP se",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75482",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75482:2026-08-17T20:49"
-  },
-  {
-   "ts": "2026-08-17T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75481 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-75481 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SkyPilot fails to validate that authenticated users are entitled to grant administrator r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75481",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75481:2026-08-17T20:49"
-  },
-  {
-   "ts": "2026-08-17T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75480 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-75480 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenViking debug vector scroll and count endpoints apply only account-level scoping witho",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75480",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75480:2026-08-17T20:49"
-  },
-  {
-   "ts": "2026-08-17T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75479 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-75479 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True JimuReport contains an authentication bypass vulnerability in the report folder template ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75479",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75479:2026-08-17T20:49"
-  },
-  {
-   "ts": "2026-08-17T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75111 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-75111 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Evidently UI fails to properly validate the filename parameter in the dataset materializa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75111",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75111:2026-08-17T20:49"
-  },
-  {
-   "ts": "2026-08-17T20:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75110 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-75110 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True MemOS is a memory operating system for LLMs and AI agents. In deployments where authe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75110",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75110:2026-08-17T20:49"
-  },
-  {
-   "ts": "2026-08-17T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75109 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-75109 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Determined fails to authorize requests on the generic task kill, pause, and unpause endpo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75109",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75109:2026-08-17T20:49"
-  },
-  {
-   "ts": "2026-08-17T20:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75106 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-75106 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True OpnForm derives editable-submission secrets from sequential row identifiers using Has",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75106",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75106:2026-08-17T20:49"
   }
  ]
 }
