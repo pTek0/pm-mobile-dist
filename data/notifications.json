@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-18T21:49:07+00:00",
+ "generated_at": "2026-08-18T22:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66602 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-66602 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in DevItems HashBar – WordPress Notifica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66602",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66602:2026-08-18T22:19"
+  },
   {
    "ts": "2026-08-18T21:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75835",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75835:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75833 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-75833 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True The Grav API plugin (getgrav/grav-plugin-api, bundled with Grav 2.0's admin-next/API stac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75833",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75833:2026-08-18T11:49"
   }
  ]
 }
