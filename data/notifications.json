@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-18T16:19:08+00:00",
+ "generated_at": "2026-08-18T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75924 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-75924 📢 Source: redhat 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in managed-serviceaccount. A compromised addon-manager pod, due to its Clus",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75924",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75924:2026-08-18T16:49"
+  },
   {
    "ts": "2026-08-18T16:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: 소비:2026-08-18T03:49"
-  },
-  {
-   "ts": "2026-08-18T03:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-desktop",
-   "body": "**★ 2026-08-18 — 통합 상품검색 Phase 1(pm-api 0.14.0 + 데스크탑 패널)**: pm-api `/api/products/search`(`lib/product-search.js`) 신설 —",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-desktop:2026-08-18T03:49"
   }
  ]
 }
