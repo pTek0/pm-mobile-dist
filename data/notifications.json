@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-18T17:19:09+00:00",
+ "generated_at": "2026-08-18T17:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74044 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-74044 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Wazuh 4.0.0 before 4.14.6 contains a path traversal vulnerability that allows authenticated",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74044",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74044:2026-08-18T17:49"
+  },
+  {
+   "ts": "2026-08-18T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74039 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-74039 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Wazuh 4.0.0 before 4.14.7 and 5.0.0-beta2 contain a denial of service vulnerability that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74039",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74039:2026-08-18T17:49"
+  },
+  {
+   "ts": "2026-08-18T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74038 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-74038 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Wazuh 4.0.0 before 4.14.6 contains a path traversal vulnerability that allows unauthentic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74038",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74038:2026-08-18T17:49"
+  },
+  {
+   "ts": "2026-08-18T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-67262 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-67262 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains a Missing Authorization vulnerability. An attacker with access to a m",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67262",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67262:2026-08-18T17:49"
+  },
+  {
+   "ts": "2026-08-18T17:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-66780 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-66780 📢 Source: redhat 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in the submariner-operator component. The `submariner-k8s-broker-cluste",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66780",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66780:2026-08-18T17:49"
+  },
   {
    "ts": "2026-08-18T17:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
    "source": "Lemmy · technology",
    "id": "community:https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75627 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-75627 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Bastillion fails to properly validate request URI paths in its controller dispatcher,",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75627",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75627:2026-08-18T11:19"
-  },
-  {
-   "ts": "2026-08-18T11:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75626 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-75626 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True SpiderFoot fails to HTML-escape correlation titles built from external scan data sour",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75626",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75626:2026-08-18T11:19"
-  },
-  {
-   "ts": "2026-08-18T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI;DR (AI; Didn't Read)",
-   "body": "Hacker News · 점수 902",
-   "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-   "source": "Hacker News",
-   "id": "community:https://www.rickmanelius.com/p/aidr-ai-didnt-read:2026-08-18T11:19"
-  },
-  {
-   "ts": "2026-08-18T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GPT-5.6 Sol Pricing Cut by 50%",
-   "body": "Hacker News · 점수 465",
-   "link": "https://openrouter.ai/openai/gpt-5.6-sol",
-   "source": "Hacker News",
-   "id": "community:https://openrouter.ai/openai/gpt-5.6-sol:2026-08-18T11:19"
-  },
-  {
-   "ts": "2026-08-18T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GitHub you wiley fox!",
-   "body": "Lemmy · programming.dev · 점수 206",
-   "link": "https://moplemmy.fyi/pictrs/image/1c652534-8dd4-4d6c-b196-a33f39abfa95.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://moplemmy.fyi/pictrs/image/1c652534-8dd4-4d6c-b196-a33f39abfa95.jpeg:2026-08-18T11:19"
   }
  ]
 }
