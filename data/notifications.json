@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-18T14:49:09+00:00",
+ "generated_at": "2026-08-18T15:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66793 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-66793 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the governance-policy-addon-controller component of Red Hat Advanced Clu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66793",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66793:2026-08-18T15:19"
+  },
+  {
+   "ts": "2026-08-18T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18534 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-18534 📢 Source: BCNY 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True ArcSearch for iOS versions prior to 1.48.0 could keep the address bar hidden after a page-init",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18534",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18534:2026-08-18T15:19"
+  },
+  {
+   "ts": "2026-08-18T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-61407 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-61407 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Dell Watchdog Timer Driver versions prior to 2.0.0.1 contain an Exposed IOCTL with Insufficie",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-61407",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-61407:2026-08-18T15:19"
+  },
   {
    "ts": "2026-08-18T14:49:08+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://futurism.com/artificial-intelligence/amazon-destroying-rare-books-ai",
    "source": "Lemmy · technology",
    "id": "community:https://futurism.com/artificial-intelligence/amazon-destroying-rare-books-ai:2026-08-18T00:19"
-  },
-  {
-   "ts": "2026-08-18T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Divine tech support",
-   "body": "Lemmy · programming.dev · 점수 160",
-   "link": "https://lemmy.dbzer0.com/pictrs/image/399e77f3-826d-4bab-887e-f75d7959fb99.webp",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.dbzer0.com/pictrs/image/399e77f3-826d-4bab-887e-f75d7959fb99.webp:2026-08-18T00:19"
-  },
-  {
-   "ts": "2026-08-18T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GitHub has been down for most of the morning - Engadget",
-   "body": "Lemmy · technology · 점수 160",
-   "link": "https://www.engadget.com/2238231/github-has-been-down-for-most-of-the-morning/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.engadget.com/2238231/github-has-been-down-for-most-of-the-morning/:2026-08-18T00:19"
-  },
-  {
-   "ts": "2026-08-18T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Sun Clock",
-   "body": "Hacker News · 점수 150",
-   "link": "https://sunclock.net/",
-   "source": "Hacker News",
-   "id": "community:https://sunclock.net/:2026-08-18T00:19"
   }
  ]
 }
