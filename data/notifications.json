@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-18T17:49:08+00:00",
+ "generated_at": "2026-08-18T18:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T18:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75130 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-75130 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Context7 through 2.1.2 contains a prompt injection vulnerability that allows attackers ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75130",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75130:2026-08-18T18:19"
+  },
   {
    "ts": "2026-08-18T17:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/",
    "source": "Lemmy · technology",
    "id": "community:https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Apple is working on camera-equipped AirPods that appear to b",
-   "body": "Lemmy · technology · 점수 52",
-   "link": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/:2026-08-18T11:49"
   }
  ]
 }
