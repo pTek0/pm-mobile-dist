@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-08-18T16:49:08+00:00",
+ "generated_at": "2026-08-18T17:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75897 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-75897 📢 Source: AMZN 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Improper input validation in the capabilities route handler in OpenSearch Dashboards - the siz",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75897",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75897:2026-08-18T17:19"
+  },
+  {
+   "ts": "2026-08-18T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66783 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-66783 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the `submariner-operator` component of Red Hat Advanced Cluster Managem",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66783",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66783:2026-08-18T17:19"
+  },
+  {
+   "ts": "2026-08-18T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66782 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-66782 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the Submariner operator. This vulnerability allows for the exposure of ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66782",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66782:2026-08-18T17:19"
+  },
+  {
+   "ts": "2026-08-18T17:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18963 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-18963 📢 Source: redhat 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in the reset-credentials flow of the keycloak-services component, which",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18963",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18963:2026-08-18T17:19"
+  },
+  {
+   "ts": "2026-08-18T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70415 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-70415 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore SDNAS contains a Buffer Copy without Checking Size of Input vulnerability in t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70415",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70415:2026-08-18T17:19"
+  },
+  {
+   "ts": "2026-08-18T17:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-67271 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-67271 📢 Source: dell 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Dell PowerStore SDNAS, contains an Out-of-bounds Write vulnerability in the SMB/CIFS. An u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67271",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67271:2026-08-18T17:19"
+  },
+  {
+   "ts": "2026-08-18T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19869 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-19869 📢 Source: Neo4j 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True @neo4j /graphql from 5.2.0 until the patched versions fails to enforce field-level @authentic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19869",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19869:2026-08-18T17:19"
+  },
   {
    "ts": "2026-08-18T16:49:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://moplemmy.fyi/pictrs/image/1c652534-8dd4-4d6c-b196-a33f39abfa95.jpeg",
    "source": "Lemmy · programming.dev",
    "id": "community:https://moplemmy.fyi/pictrs/image/1c652534-8dd4-4d6c-b196-a33f39abfa95.jpeg:2026-08-18T11:19"
-  },
-  {
-   "ts": "2026-08-18T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Facebook Is Drowning In Islamophobic AI Slop Calling for Vio",
-   "body": "Lemmy · technology · 점수 148",
-   "link": "https://futurism.com/artificial-intelligence/facebook-ai-slop-violence-muslim-americans",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/facebook-ai-slop-violence-muslim-americans:2026-08-18T11:19"
-  },
-  {
-   "ts": "2026-08-18T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] We Tracked a Shipment of Rare Books. It Ended at an Amazon A",
-   "body": "Lemmy · technology · 점수 136",
-   "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility:2026-08-18T11:19"
-  },
-  {
-   "ts": "2026-08-18T10:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2025-0001 (CVSS 9.8)",
-   "body": "🚨 CVE-2025-0001 📢 Source: None 💣 CVSS Score: 9.8 (None) 📡 Remotely Exploitable: False Office laugh could. Onto behind such reduce late indeed. Item themselves new case near for pic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-0001",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-0001:2026-08-18T10:49"
-  },
-  {
-   "ts": "2026-08-18T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15371 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-15371 📢 Source: rapid7 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Velociraptor's web GUI allows specifying a custom type for columns in tables. The URL type t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15371",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15371:2026-08-18T07:19"
-  },
-  {
-   "ts": "2026-08-18T05:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-desktop",
-   "body": "**★ 2026-08-18 최종 — pm_desktop v0.9.2 발행 완료(pTek0/pm-desktop-dist) + pm-api 0.14.2 호스트 반영·라이브**: pm-api **0.14.1** 통합검색 ",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-desktop:2026-08-18T05:19"
-  },
-  {
-   "ts": "2026-08-18T05:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: web-harvest",
-   "body": "**★ 2026-08-18 최종 — 검색엔진 프로파일 설계(소비처 마운트)**: web-harvest 를 **도메인 무지(domain-blind) 검색엔진**으로 형식화 — 소비처(하드웨어 탭·riding-app)가",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: web-harvest:2026-08-18T05:19"
-  },
-  {
-   "ts": "2026-08-18T03:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: 소비",
-   "body": "**★ 2026-08-18 후반 — 카드 이메일 수집기 + 주입력 전략 전환**: Gmail **readonly** 폴러 기반 카드 명세서 수집기 구현(pytest **54 passed** — 파이프라인 42 포함 ",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: 소비:2026-08-18T03:49"
   }
  ]
 }
