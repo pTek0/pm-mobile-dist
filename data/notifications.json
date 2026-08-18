@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-18T21:19:07+00:00",
+ "generated_at": "2026-08-18T21:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15316 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-15316 📢 Source: TPLink 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An improper input validation vulnerability in the configuration service for processing encr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15316",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15316:2026-08-18T21:49"
+  },
+  {
+   "ts": "2026-08-18T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15315 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-15315 📢 Source: TPLink 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Tapo C200 v5 contains an improper authentication vulnerability within the login authenticat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15315",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15315:2026-08-18T21:49"
+  },
   {
    "ts": "2026-08-18T20:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75833",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75833:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75831 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-75831 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Grav before 2.0.15 contains a stored cross-site scripting vulnerability in the audio and ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75831",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75831:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75829 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-75829 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True grav-plugin-api versions before 1.0.15 fail to validate Twig content in the translate() e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75829",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75829:2026-08-18T11:49"
   }
  ]
 }
