@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-18T22:49:07+00:00",
+ "generated_at": "2026-08-18T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The Amazon tax",
+   "body": "Hacker News · 점수 800",
+   "link": "https://seths.blog/2026/08/the-amazon-tax/",
+   "source": "Hacker News",
+   "id": "community:https://seths.blog/2026/08/the-amazon-tax/:2026-08-18T23:19"
+  },
+  {
+   "ts": "2026-08-18T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Linux 7.3 improves performance when running out of vRAM",
+   "body": "Hacker News · 점수 492",
+   "link": "https://pixelcluster.dev/VRAM-Overcommit/",
+   "source": "Hacker News",
+   "id": "community:https://pixelcluster.dev/VRAM-Overcommit/:2026-08-18T23:19"
+  },
+  {
+   "ts": "2026-08-18T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Cursor launches Origin, GitHub alternative",
+   "body": "Hacker News · 점수 415",
+   "link": "https://cursor.com/changelog/origin-code-hosting",
+   "source": "Hacker News",
+   "id": "community:https://cursor.com/changelog/origin-code-hosting:2026-08-18T23:19"
+  },
+  {
+   "ts": "2026-08-18T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Memory prices climb 500% in 12 months",
+   "body": "Hacker News · 점수 413",
+   "link": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+   "source": "Hacker News",
+   "id": "community:https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399:2026-08-18T23:19"
+  },
+  {
+   "ts": "2026-08-18T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Beware Management Consultants",
+   "body": "Hacker News · 점수 386",
+   "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+   "source": "Hacker News",
+   "id": "community:https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/:2026-08-18T23:19"
+  },
   {
    "ts": "2026-08-18T22:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66046",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66046:2026-08-18T14:49"
-  },
-  {
-   "ts": "2026-08-18T13:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-24301 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-24301 📢 Source: microsoft 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-08-18T13:19:23.436Z https://cvefeed.io/vuln/detail/CVE-2026-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24301",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24301:2026-08-18T13:49"
-  },
-  {
-   "ts": "2026-08-18T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GitHub has alternatives, but no replacement",
-   "body": "Lobsters · 점수 50",
-   "link": "https://lalitm.com/post/github-alternatives/",
-   "source": "Lobsters",
-   "id": "community:https://lalitm.com/post/github-alternatives/:2026-08-18T12:19"
-  },
-  {
-   "ts": "2026-08-18T11:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75837 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-75837 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Grav before 2.0.14 fails to guard the access field in the core group blueprint with t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75837",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75837:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75836 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-75836 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The Grav API plugin (getgrav/grav-plugin-api, bundled with Grav's admin-next/API stack) b",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75836",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75836:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75835 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-75835 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Grav API plugin (getgrav/grav-plugin-api) before 1.0.14 contains a missing authorizat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75835",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75835:2026-08-18T11:49"
   }
  ]
 }
