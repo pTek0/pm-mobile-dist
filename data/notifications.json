@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-08-18T10:49:08+00:00",
+ "generated_at": "2026-08-18T11:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T11:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75627 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-75627 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Bastillion fails to properly validate request URI paths in its controller dispatcher,",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75627",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75627:2026-08-18T11:19"
+  },
+  {
+   "ts": "2026-08-18T11:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75626 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-75626 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True SpiderFoot fails to HTML-escape correlation titles built from external scan data sour",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75626",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75626:2026-08-18T11:19"
+  },
+  {
+   "ts": "2026-08-18T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI;DR (AI; Didn't Read)",
+   "body": "Hacker News · 점수 902",
+   "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+   "source": "Hacker News",
+   "id": "community:https://www.rickmanelius.com/p/aidr-ai-didnt-read:2026-08-18T11:19"
+  },
+  {
+   "ts": "2026-08-18T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] GPT-5.6 Sol Pricing Cut by 50%",
+   "body": "Hacker News · 점수 465",
+   "link": "https://openrouter.ai/openai/gpt-5.6-sol",
+   "source": "Hacker News",
+   "id": "community:https://openrouter.ai/openai/gpt-5.6-sol:2026-08-18T11:19"
+  },
+  {
+   "ts": "2026-08-18T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] GitHub you wiley fox!",
+   "body": "Lemmy · programming.dev · 점수 206",
+   "link": "https://moplemmy.fyi/pictrs/image/1c652534-8dd4-4d6c-b196-a33f39abfa95.jpeg",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://moplemmy.fyi/pictrs/image/1c652534-8dd4-4d6c-b196-a33f39abfa95.jpeg:2026-08-18T11:19"
+  },
+  {
+   "ts": "2026-08-18T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Facebook Is Drowning In Islamophobic AI Slop Calling for Vio",
+   "body": "Lemmy · technology · 점수 148",
+   "link": "https://futurism.com/artificial-intelligence/facebook-ai-slop-violence-muslim-americans",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/artificial-intelligence/facebook-ai-slop-violence-muslim-americans:2026-08-18T11:19"
+  },
+  {
+   "ts": "2026-08-18T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] We Tracked a Shipment of Rare Books. It Ended at an Amazon A",
+   "body": "Lemmy · technology · 점수 136",
+   "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility:2026-08-18T11:19"
+  },
   {
    "ts": "2026-08-18T10:49:06+00:00",
    "level": "important",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75106",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75106:2026-08-17T20:49"
-  },
-  {
-   "ts": "2026-08-17T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75105 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-75105 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True phpIPAM through 1.8.1 fails to verify that a requested IP address belongs to the subnet a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75105",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75105:2026-08-17T20:49"
-  },
-  {
-   "ts": "2026-08-17T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75103 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-75103 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Crawlab fails to verify user ownership or administrative role on the password-change endp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75103",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75103:2026-08-17T20:49"
-  },
-  {
-   "ts": "2026-08-17T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-40506 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-40506 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.2.0 contains a path traversal vulnerability in the standard_tables_manage.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40506",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40506:2026-08-17T20:49"
-  },
-  {
-   "ts": "2026-08-17T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19650 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-19650 📢 Source: GitLab 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.2 before 18.11",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19650",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19650:2026-08-17T20:19"
-  },
-  {
-   "ts": "2026-08-17T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-19478 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-19478 📢 Source: GitLab 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.2 before 1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19478",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19478:2026-08-17T20:19"
-  },
-  {
-   "ts": "2026-08-17T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74234 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-74234 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Legora before 2026-08-14 contains a cross-site scripting vulnerability that allows attack",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74234",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74234:2026-08-17T20:19"
-  },
-  {
-   "ts": "2026-08-17T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-71472 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-71472 📢 Source: redhat 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in acm-search-v2-rhel9. This vulnerability allows an authenticated atta",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71472",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71472:2026-08-17T19:49"
   }
  ]
 }
