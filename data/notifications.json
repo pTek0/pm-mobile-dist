@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-08-18T18:19:08+00:00",
+ "generated_at": "2026-08-18T18:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17106 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-17106 📢 Source: Docker 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False The tar extraction routines in moby/go-archive (Unpack, UnpackLayer, Untar/UntarUncompresse",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17106",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17106:2026-08-18T18:49"
+  },
+  {
+   "ts": "2026-08-18T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-9210 (CVSS 8.1)",
+   "body": "🚨 CVE-2025-9210 📢 Source: Mandiant 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Missing signature validation in JSON Web Tokens in Otalio Ship Property Management System v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-9210",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-9210:2026-08-18T18:49"
+  },
+  {
+   "ts": "2026-08-18T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47629 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-47629 📢 Source: nvidia 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True NVIDIA Triton Inference Server for Linux contains a vulnerability where an attacker could ca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47629",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47629:2026-08-18T18:49"
+  },
+  {
+   "ts": "2026-08-18T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47628 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-47628 📢 Source: nvidia 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True NVIDIA Triton Inference Server for Linux contains a vulnerability where an attacker could ca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47628",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47628:2026-08-18T18:49"
+  },
+  {
+   "ts": "2026-08-18T18:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-47627 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-47627 📢 Source: nvidia 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True NVIDIA Triton Inference Server for Linux contains a vulnerability where an attacker coul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47627",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47627:2026-08-18T18:49"
+  },
+  {
+   "ts": "2026-08-18T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-24185 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-24185 📢 Source: nvidia 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False NVIDIA NVOS for network switches contains a vulnerability in the secure shell (SSH) server ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24185",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24185:2026-08-18T18:49"
+  },
+  {
+   "ts": "2026-08-18T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-24184 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-24184 📢 Source: nvidia 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False NVIDIA Cumulus Linux contains a vulnerability in the Link Layer Discovery Protocol (LLDP) d",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24184",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24184:2026-08-18T18:49"
+  },
+  {
+   "ts": "2026-08-18T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-24183 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-24183 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA Cumulus Linux contains a vulnerability in the user management component, where an un",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24183",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24183:2026-08-18T18:49"
+  },
   {
    "ts": "2026-08-18T18:19:07+00:00",
    "level": "important",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74906",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74906:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74905 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-74905 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True SiYuan before v3.7.4 contains a server-side request forgery (SSRF) vulnerability in the i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74905",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74905:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74904 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-74904 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan before v3.7.4 is missing authorization checks in 17 block metadata/content endpoin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74904",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74904:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74902 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-74902 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False SiYuan before v3.7.4 contains a cross-site scripting vulnerability in the file uploa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74902",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74902:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15585 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-15585 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15585",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15585:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] New ChatGPT Feature Collects Every Keystroke You Make",
-   "body": "Lemmy · technology · 점수 112",
-   "link": "https://futurism.com/artificial-intelligence/new-chatgpt-feature-collects-every-keystroke-you-make",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/new-chatgpt-feature-collects-every-keystroke-you-make:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GitHub Has an Availability Problem. Is It Time to Look Elsew",
-   "body": "Lemmy · programming.dev · 점수 88",
-   "link": "https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How Bluesky draws its logo on screenshots",
-   "body": "Lobsters · 점수 63",
-   "link": "https://timmarinin.net/2026/bluesky-screenshots/",
-   "source": "Lobsters",
-   "id": "community:https://timmarinin.net/2026/bluesky-screenshots/:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I don't enjoy the Internet any more",
-   "body": "Lemmy · technology · 점수 59",
-   "link": "https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/",
-   "source": "Lemmy · technology",
-   "id": "community:https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/:2026-08-18T11:49"
   }
  ]
 }
