@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-18T15:19:07+00:00",
+ "generated_at": "2026-08-18T15:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75915 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-75915 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True CodeWhale versions before 0.8.64 contain an environment variable exposure vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75915",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75915:2026-08-18T15:49"
+  },
+  {
+   "ts": "2026-08-18T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75914 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-75914 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True CodeWhale versions before 0.8.64 contain a path traversal vulnerability in the image_anal",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75914",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75914:2026-08-18T15:49"
+  },
+  {
+   "ts": "2026-08-18T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75912 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-75912 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True CodeWhale versions before 0.8.64 contain an argument injection vulnerability in the git_b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75912",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75912:2026-08-18T15:49"
+  },
+  {
+   "ts": "2026-08-18T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75911 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-75911 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False CodeWhale versions before 0.8.64 fail to properly validate the allow_shell configuration",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75911",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75911:2026-08-18T15:49"
+  },
+  {
+   "ts": "2026-08-18T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75859 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-75859 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True CodeWhale versions before 0.8.64 fail to validate file paths in the project config instru",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75859",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75859:2026-08-18T15:49"
+  },
+  {
+   "ts": "2026-08-18T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75856 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-75856 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True CodeWhale before 0.8.64 contains a server-side request forgery bypass vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75856",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75856:2026-08-18T15:49"
+  },
   {
    "ts": "2026-08-18T15:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
    "source": "Lemmy · technology",
    "id": "community:https://responsiblestatecraft.org/israel-influence-chatgpt/:2026-08-18T00:49"
-  },
-  {
-   "ts": "2026-08-18T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Does it make sense to switch to a Github Alternative ?",
-   "body": "Lobsters · 점수 60",
-   "link": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github",
-   "source": "Lobsters",
-   "id": "community:https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github:2026-08-18T00:49"
-  },
-  {
-   "ts": "2026-08-18T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tesla Robotaxi Mows Down Bollards & Keeps Driving, After “Im",
-   "body": "Lemmy · technology · 점수 59",
-   "link": "https://fuelarc.com/cars/tesla-robotaxi-mows-down-bollards-keeps-driving-shortly-after-stock-call-touts-impeccable-safety-record/",
-   "source": "Lemmy · technology",
-   "id": "community:https://fuelarc.com/cars/tesla-robotaxi-mows-down-bollards-keeps-driving-shortly-after-stock-call-touts-impeccable-safety-record/:2026-08-18T00:49"
-  },
-  {
-   "ts": "2026-08-18T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: 혜택",
-   "body": "**★ 라이브 검증+본수집 완료(2026-08-18 저녁)** — live-check **6/6** 통과(finlife 3+data.go.kr 3), 본수집 **finlife 775상품**(15콜)·**data.go",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: 혜택:2026-08-18T00:49"
-  },
-  {
-   "ts": "2026-08-18T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: 소비",
-   "body": "**파이프라인 구현 완료 — 합성 데이터 E2E 검증 / 실데이터 미검증**(2026-08-18): 인제스천(어댑터 14 프로파일·EUC-KR/cp949 인코딩 자동판별)→SQLite 중복제거→분석 5종(카테고리·고",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: 소비:2026-08-18T00:49"
-  },
-  {
-   "ts": "2026-08-18T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: web-harvest",
-   "body": "**★ 2026-08-18 저녁 2차 — 신규 어댑터 4종 + 통합 배선(전체 291 passed + 3 skipped, 무회귀)**: 표준 페치 레이어 `fetch_page`(HTTP→JS 셸 감지→헤드리스 렌더 ",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: web-harvest:2026-08-18T00:49"
-  },
-  {
-   "ts": "2026-08-18T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Amazon Caught Destroying Rare Books to Train AI",
-   "body": "Lemmy · technology · 점수 178",
-   "link": "https://futurism.com/artificial-intelligence/amazon-destroying-rare-books-ai",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/amazon-destroying-rare-books-ai:2026-08-18T00:19"
   }
  ]
 }
