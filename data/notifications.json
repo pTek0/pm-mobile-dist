@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-18T19:49:08+00:00",
+ "generated_at": "2026-08-18T20:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59915 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-59915 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell Alienware Command Center (AWCC), versions prior to 6.14.20.0 , contain a Least Privilege",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59915",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59915:2026-08-18T20:19"
+  },
   {
    "ts": "2026-08-18T19:49:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75828",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75828:2026-08-18T11:49"
-  },
-  {
-   "ts": "2026-08-18T11:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75827 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-75827 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Grav before 2.0.15 contains an arbitrary file write vulnerability in the Blueprint dy",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75827",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75827:2026-08-18T11:49"
   }
  ]
 }
