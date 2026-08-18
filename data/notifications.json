@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-18T03:19:07+00:00",
+ "generated_at": "2026-08-18T03:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-18T03:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: 소비",
+   "body": "**★ 2026-08-18 후반 — 카드 이메일 수집기 + 주입력 전략 전환**: Gmail **readonly** 폴러 기반 카드 명세서 수집기 구현(pytest **54 passed** — 파이프라인 42 포함 ",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: 소비:2026-08-18T03:49"
+  },
+  {
+   "ts": "2026-08-18T03:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-desktop",
+   "body": "**★ 2026-08-18 — 통합 상품검색 Phase 1(pm-api 0.14.0 + 데스크탑 패널)**: pm-api `/api/products/search`(`lib/product-search.js`) 신설 —",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-desktop:2026-08-18T03:49"
+  },
+  {
+   "ts": "2026-08-18T03:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: web-harvest",
+   "body": "**★ 2026-08-18 심야 — 다나와·에누리 opt-in 어댑터 구현(전체 357 passed, 무회귀)**: 회색지대 소스라 **opt-in 전용·개인용 한정**(default_adapters 비합류 — re",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: web-harvest:2026-08-18T03:49"
+  },
   {
    "ts": "2026-08-18T02:19:08+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-12553",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12553:2026-08-17T18:49"
-  },
-  {
-   "ts": "2026-08-17T18:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73523 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-73523 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True COVESA Open1722 through 0.9.2 contains an integer truncation vulnerability in acf-can-lis",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73523",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73523:2026-08-17T18:49"
-  },
-  {
-   "ts": "2026-08-17T18:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73522 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-73522 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True COVESA Open1722 through 0.9.2 contains a stack buffer overflow vulnerability that allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73522",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73522:2026-08-17T18:49"
-  },
-  {
-   "ts": "2026-08-17T18:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71980 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-71980 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Belledonne Communications bcg729 through 1.1.2 contains an out-of-bounds read vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71980",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71980:2026-08-17T18:49"
   }
  ]
 }
