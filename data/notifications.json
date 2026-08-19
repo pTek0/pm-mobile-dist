@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-19T04:49:07+00:00",
+ "generated_at": "2026-08-19T05:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-19T05:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70408 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-70408 📢 Source: jpcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False An incorrect authorization vulnerability exists in acmailer, which may allow a user to crea",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70408",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70408:2026-08-19T05:19"
+  },
   {
    "ts": "2026-08-19T00:49:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73337",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73337:2026-08-18T16:19"
-  },
-  {
-   "ts": "2026-08-18T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71574 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-71574 📢 Source: Joomla 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Joomla! Core - [20260803] - Inconsistent ACL checks for mutating webservice endpoints in Joo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71574",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71574:2026-08-18T16:19"
   }
  ]
 }
