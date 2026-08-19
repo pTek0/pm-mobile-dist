@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-19T00:19:07+00:00",
+ "generated_at": "2026-08-19T00:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-19T00:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Rethinking Database Programming",
+   "body": "Lobsters · 점수 63",
+   "link": "https://acadia.engineering/blog/rethinking-database-programming",
+   "source": "Lobsters",
+   "id": "community:https://acadia.engineering/blog/rethinking-database-programming:2026-08-19T00:49"
+  },
+  {
+   "ts": "2026-08-19T00:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Google buys crashed airline Spirit’s data at auction, becaus",
+   "body": "Lemmy · technology · 점수 62",
+   "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962:2026-08-19T00:49"
+  },
   {
    "ts": "2026-08-19T00:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71574",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71574:2026-08-18T16:19"
-  },
-  {
-   "ts": "2026-08-18T16:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75926 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-75926 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False Hugo 0.161.0 placed the Node asset pipelines behind the Node.js permission model so ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75926",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75926:2026-08-18T16:19"
-  },
-  {
-   "ts": "2026-08-18T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71365 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-71365 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A server-side request forgery (SSRF) vulnerability was found in AWX's webhook status callbac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71365",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71365:2026-08-18T16:19"
   }
  ]
 }
