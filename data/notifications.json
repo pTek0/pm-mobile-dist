@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-21T15:49:08+00:00",
+ "generated_at": "2026-08-21T16:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-21T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-69502 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-69502 📢 Source: microsoft 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-08-21T16:03:56.685Z https://cvefeed.io/vuln/detail/CVE-20",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69502",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69502:2026-08-21T16:19"
+  },
+  {
+   "ts": "2026-08-21T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-22681 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-22681 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True OpenViking before 0.3.4 contains a server-side request forgery vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22681",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22681:2026-08-21T16:19"
+  },
   {
    "ts": "2026-08-21T15:19:09+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://events.documentfoundation.org/libreoffice-conference-2026/talk/",
    "source": "Lemmy · programming.dev",
    "id": "community:https://events.documentfoundation.org/libreoffice-conference-2026/talk/:2026-08-19T00:19"
-  },
-  {
-   "ts": "2026-08-19T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Why your Amazon order confirmation emails have become so unh",
-   "body": "Lemmy · technology · 점수 84",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data:2026-08-19T00:19"
-  },
-  {
-   "ts": "2026-08-19T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How weaving helped invent modern computing - and is shaping ",
-   "body": "Lemmy · technology · 점수 75",
-   "link": "https://theconversation.com/how-weaving-helped-invent-modern-computing-and-is-shaping-its-future-287283",
-   "source": "Lemmy · technology",
-   "id": "community:https://theconversation.com/how-weaving-helped-invent-modern-computing-and-is-shaping-its-future-287283:2026-08-19T00:19"
   }
  ]
 }
