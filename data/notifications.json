@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-21T17:19:08+00:00",
+ "generated_at": "2026-08-21T17:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-41451 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-41451 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False UAC (Unix-like Artifacts Collector) versions prior to 3.3.0 contain a command injection ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-41451",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-41451:2026-08-21T17:49"
+  },
+  {
+   "ts": "2026-08-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-41450 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-41450 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False UAC (Unix-like Artifacts Collector) versions prior to 3.3.0 contain a command injection ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-41450",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-41450:2026-08-21T17:49"
+  },
+  {
+   "ts": "2026-08-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-41449 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-41449 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False UAC (Unix-like Artifacts Collector) versions prior to 3.3.0 contain a command injection ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-41449",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-41449:2026-08-21T17:49"
+  },
+  {
+   "ts": "2026-08-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17252 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-17252 📢 Source: TPLink 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A stack-based out-of-bounds write vulnerability exists in the login request handling functi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17252",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17252:2026-08-21T17:49"
+  },
+  {
+   "ts": "2026-08-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17251 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-17251 📢 Source: TPLink 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A NULL pointer dereference vulnerability exists in the HTTP request parsing functionality o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17251",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17251:2026-08-21T17:49"
+  },
+  {
+   "ts": "2026-08-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17250 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-17250 📢 Source: TPLink 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A stack-based buffer overflow vulnerability exists in the firmware update functionality of ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17250",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17250:2026-08-21T17:49"
+  },
   {
    "ts": "2026-08-21T16:49:07+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77755",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77755:2026-08-21T10:49"
-  },
-  {
-   "ts": "2026-08-21T10:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77751 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-77751 📢 Source: CIRCL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A path traversal vulnerability existed in the handling of MISP object template names during S",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77751",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77751:2026-08-21T10:49"
-  },
-  {
-   "ts": "2026-08-21T10:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-47827 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-47827 📢 Source: vmware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Command Injection in BOSH CLI tool on windows in Cloud Foundry allows a remote attacker to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47827",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47827:2026-08-21T10:49"
-  },
-  {
-   "ts": "2026-08-19T07:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2025-0030 (CVSS 9.5)",
-   "body": "🚨 CVE-2025-0030 📢 Source: None 💣 CVSS Score: 9.5 (None) 📡 Remotely Exploitable: True With small owner have dream eight. Someone become course his then director here. Wait write nex",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-0030",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-0030:2026-08-19T07:19"
-  },
-  {
-   "ts": "2026-08-19T05:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70408 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-70408 📢 Source: jpcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False An incorrect authorization vulnerability exists in acmailer, which may allow a user to crea",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70408",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70408:2026-08-19T05:19"
-  },
-  {
-   "ts": "2026-08-19T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Rethinking Database Programming",
-   "body": "Lobsters · 점수 63",
-   "link": "https://acadia.engineering/blog/rethinking-database-programming",
-   "source": "Lobsters",
-   "id": "community:https://acadia.engineering/blog/rethinking-database-programming:2026-08-19T00:49"
-  },
-  {
-   "ts": "2026-08-19T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Google buys crashed airline Spirit’s data at auction, becaus",
-   "body": "Lemmy · technology · 점수 62",
-   "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962:2026-08-19T00:49"
   }
  ]
 }
