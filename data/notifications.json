@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-08-21T10:49:10+00:00",
+ "generated_at": "2026-08-21T11:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-21T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77769 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-77769 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True The report.list procedure in packages/trpc/src/routers/report.ts accepted a projectId and",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77769",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77769:2026-08-21T11:19"
+  },
+  {
+   "ts": "2026-08-21T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77768 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-77768 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True The report.get procedure in packages/trpc/src/routers/report.ts accepted only a reportId ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77768",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77768:2026-08-21T11:19"
+  },
+  {
+   "ts": "2026-08-21T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77767 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-77767 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Reconmap's API applies a fallback authorization policy in apps/api/app/Program.cs that re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77767",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77767:2026-08-21T11:19"
+  },
+  {
+   "ts": "2026-08-21T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77763 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-77763 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True The filestore backend in pkg/object/file.go, used for file:// stores and as a common juic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77763",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77763:2026-08-21T11:19"
+  },
+  {
+   "ts": "2026-08-21T11:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77086 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-77086 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before v3.7.4 fails to validate the packageName parameter in Bazaar install an",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77086",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77086:2026-08-21T11:19"
+  },
+  {
+   "ts": "2026-08-21T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AliExpress runs silent WebAudio fingerprinting that breaks B",
+   "body": "Hacker News · 점수 974",
+   "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+   "source": "Hacker News",
+   "id": "community:https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html:2026-08-21T11:19"
+  },
+  {
+   "ts": "2026-08-21T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] HTML Can Do That",
+   "body": "Hacker News · 점수 828",
+   "link": "https://chrisburnell.com/html-can-do-that/",
+   "source": "Hacker News",
+   "id": "community:https://chrisburnell.com/html-can-do-that/:2026-08-21T11:19"
+  },
+  {
+   "ts": "2026-08-21T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Aaron Swartz was prosecuted for scraping, while Meta does it",
+   "body": "Lemmy · technology · 점수 820",
+   "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+   "source": "Lemmy · technology",
+   "id": "community:https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/:2026-08-21T11:19"
+  },
+  {
+   "ts": "2026-08-21T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I like 'em thick: an apology to my English teachers",
+   "body": "Hacker News · 점수 743",
+   "link": "https://www.experimental-history.com/p/i-like-em-thick",
+   "source": "Hacker News",
+   "id": "community:https://www.experimental-history.com/p/i-like-em-thick:2026-08-21T11:19"
+  },
+  {
+   "ts": "2026-08-21T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The August 17 outage",
+   "body": "Hacker News · 점수 539",
+   "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+   "source": "Hacker News",
+   "id": "community:https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/:2026-08-21T11:19"
+  },
   {
    "ts": "2026-08-21T10:49:08+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74044",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74044:2026-08-18T17:49"
-  },
-  {
-   "ts": "2026-08-18T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74039 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-74039 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Wazuh 4.0.0 before 4.14.7 and 5.0.0-beta2 contain a denial of service vulnerability that ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74039",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74039:2026-08-18T17:49"
-  },
-  {
-   "ts": "2026-08-18T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74038 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-74038 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Wazuh 4.0.0 before 4.14.6 contains a path traversal vulnerability that allows unauthentic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74038",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74038:2026-08-18T17:49"
-  },
-  {
-   "ts": "2026-08-18T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-67262 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-67262 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains a Missing Authorization vulnerability. An attacker with access to a m",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67262",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67262:2026-08-18T17:49"
-  },
-  {
-   "ts": "2026-08-18T17:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-66780 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-66780 📢 Source: redhat 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in the submariner-operator component. The `submariner-k8s-broker-cluste",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66780",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66780:2026-08-18T17:49"
-  },
-  {
-   "ts": "2026-08-18T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75897 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-75897 📢 Source: AMZN 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Improper input validation in the capabilities route handler in OpenSearch Dashboards - the siz",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75897",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75897:2026-08-18T17:19"
-  },
-  {
-   "ts": "2026-08-18T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66783 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-66783 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the `submariner-operator` component of Red Hat Advanced Cluster Managem",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66783",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66783:2026-08-18T17:19"
-  },
-  {
-   "ts": "2026-08-18T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66782 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-66782 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the Submariner operator. This vulnerability allows for the exposure of ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66782",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66782:2026-08-18T17:19"
-  },
-  {
-   "ts": "2026-08-18T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-18963 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-18963 📢 Source: redhat 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in the reset-credentials flow of the keycloak-services component, which",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18963",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18963:2026-08-18T17:19"
-  },
-  {
-   "ts": "2026-08-18T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70415 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-70415 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore SDNAS contains a Buffer Copy without Checking Size of Input vulnerability in t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70415",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70415:2026-08-18T17:19"
-  },
-  {
-   "ts": "2026-08-18T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-67271 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-67271 📢 Source: dell 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Dell PowerStore SDNAS, contains an Out-of-bounds Write vulnerability in the SMB/CIFS. An u",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67271",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67271:2026-08-18T17:19"
   }
  ]
 }
