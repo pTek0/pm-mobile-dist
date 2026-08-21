@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-08-21T12:19:08+00:00",
+ "generated_at": "2026-08-21T12:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-21T12:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76613 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-76613 📢 Source: Joomla 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - yootheme.com - Authenticated, privileged SQL injection in YOOtheme Pr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76613",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76613:2026-08-21T12:49"
+  },
+  {
+   "ts": "2026-08-21T12:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75115 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-75115 📢 Source: Joomla 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - yootheme.com - Authenticated, privileged arbitrary file read in YOOtheme Pr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75115",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75115:2026-08-21T12:49"
+  },
+  {
+   "ts": "2026-08-21T12:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Japan tried to build an operating system for the entire worl",
+   "body": "Lemmy · technology · 점수 110",
+   "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/:2026-08-21T12:49"
+  },
+  {
+   "ts": "2026-08-21T12:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Roblox tries to dismiss wrongful death lawsuit by arguing th",
+   "body": "Lemmy · technology · 점수 110",
+   "link": "https://www.thegamer.com/roblox-wrongful-death-lawsuit-dismissal-request/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.thegamer.com/roblox-wrongful-death-lawsuit-dismissal-request/:2026-08-21T12:49"
+  },
+  {
+   "ts": "2026-08-21T12:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Voters Aren't Waiting for November to Try Ousting Officials ",
+   "body": "Lemmy · technology · 점수 101",
+   "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html:2026-08-21T12:49"
+  },
+  {
+   "ts": "2026-08-21T12:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Supply chain attack on arrayref",
+   "body": "Lobsters · 점수 79",
+   "link": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+   "source": "Lobsters",
+   "id": "community:https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/:2026-08-21T12:49"
+  },
+  {
+   "ts": "2026-08-21T12:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Bun 1.4",
+   "body": "Lobsters · 점수 67",
+   "link": "https://bun.com/blog/bun-v1.4",
+   "source": "Lobsters",
+   "id": "community:https://bun.com/blog/bun-v1.4:2026-08-21T12:49"
+  },
   {
    "ts": "2026-08-21T12:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://seths.blog/2026/08/the-amazon-tax/",
    "source": "Hacker News",
    "id": "community:https://seths.blog/2026/08/the-amazon-tax/:2026-08-18T23:19"
-  },
-  {
-   "ts": "2026-08-18T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Linux 7.3 improves performance when running out of vRAM",
-   "body": "Hacker News · 점수 492",
-   "link": "https://pixelcluster.dev/VRAM-Overcommit/",
-   "source": "Hacker News",
-   "id": "community:https://pixelcluster.dev/VRAM-Overcommit/:2026-08-18T23:19"
-  },
-  {
-   "ts": "2026-08-18T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Cursor launches Origin, GitHub alternative",
-   "body": "Hacker News · 점수 415",
-   "link": "https://cursor.com/changelog/origin-code-hosting",
-   "source": "Hacker News",
-   "id": "community:https://cursor.com/changelog/origin-code-hosting:2026-08-18T23:19"
-  },
-  {
-   "ts": "2026-08-18T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Memory prices climb 500% in 12 months",
-   "body": "Hacker News · 점수 413",
-   "link": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-   "source": "Hacker News",
-   "id": "community:https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399:2026-08-18T23:19"
-  },
-  {
-   "ts": "2026-08-18T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Beware Management Consultants",
-   "body": "Hacker News · 점수 386",
-   "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-   "source": "Hacker News",
-   "id": "community:https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/:2026-08-18T23:19"
-  },
-  {
-   "ts": "2026-08-18T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66602 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-66602 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in DevItems HashBar – WordPress Notifica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66602",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66602:2026-08-18T22:19"
-  },
-  {
-   "ts": "2026-08-18T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15316 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-15316 📢 Source: TPLink 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An improper input validation vulnerability in the configuration service for processing encr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15316",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15316:2026-08-18T21:49"
-  },
-  {
-   "ts": "2026-08-18T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15315 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-15315 📢 Source: TPLink 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Tapo C200 v5 contains an improper authentication vulnerability within the login authenticat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15315",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15315:2026-08-18T21:49"
   }
  ]
 }
