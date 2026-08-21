@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-08-21T11:19:10+00:00",
+ "generated_at": "2026-08-21T11:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-21T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77759 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-77759 📢 Source: Secur0 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key in the transaction API in Roskus Prospero F",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77759",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77759:2026-08-21T11:49"
+  },
+  {
+   "ts": "2026-08-21T11:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77776 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-77776 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Headroom's LLM proxy derives the memory owner from the x-headroom-user-id request hea",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77776",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77776:2026-08-21T11:49"
+  },
+  {
+   "ts": "2026-08-21T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77775 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-77775 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Headroom's LLM proxy lets a client choose the upstream destination with the x-headroom-ba",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77775",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77775:2026-08-21T11:49"
+  },
+  {
+   "ts": "2026-08-21T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Malicious Rust crate Arrayref runs a build-time payload",
+   "body": "Hacker News · 점수 508",
+   "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+   "source": "Hacker News",
+   "id": "community:https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/:2026-08-21T11:49"
+  },
+  {
+   "ts": "2026-08-21T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] CIA funding helped keep NeXT afloat in the 80s",
+   "body": "Hacker News · 점수 403",
+   "link": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+   "source": "Hacker News",
+   "id": "community:https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink:2026-08-21T11:49"
+  },
+  {
+   "ts": "2026-08-21T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] My home server was a totally justified purchase",
+   "body": "Lemmy · programming.dev · 점수 383",
+   "link": "https://lemmy.world/pictrs/image/73a30cff-cd42-4307-be26-05dc03509fde.png",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.world/pictrs/image/73a30cff-cd42-4307-be26-05dc03509fde.png:2026-08-21T11:49"
+  },
+  {
+   "ts": "2026-08-21T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Show HN: Huzzah – a novel approach to coding with AI",
+   "body": "Hacker News · 점수 320",
+   "link": "https://www.danielvaughn.dev/posts/huzzah/",
+   "source": "Hacker News",
+   "id": "community:https://www.danielvaughn.dev/posts/huzzah/:2026-08-21T11:49"
+  },
+  {
+   "ts": "2026-08-21T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I should have loved biology (2020)",
+   "body": "Hacker News · 점수 289",
+   "link": "https://jsomers.net/i-should-have-loved-biology/",
+   "source": "Hacker News",
+   "id": "community:https://jsomers.net/i-should-have-loved-biology/:2026-08-21T11:49"
+  },
   {
    "ts": "2026-08-21T11:19:07+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2025-9210",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-9210:2026-08-18T18:49"
-  },
-  {
-   "ts": "2026-08-18T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-47629 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-47629 📢 Source: nvidia 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True NVIDIA Triton Inference Server for Linux contains a vulnerability where an attacker could ca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47629",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47629:2026-08-18T18:49"
-  },
-  {
-   "ts": "2026-08-18T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-47628 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-47628 📢 Source: nvidia 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True NVIDIA Triton Inference Server for Linux contains a vulnerability where an attacker could ca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47628",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47628:2026-08-18T18:49"
-  },
-  {
-   "ts": "2026-08-18T18:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-47627 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-47627 📢 Source: nvidia 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True NVIDIA Triton Inference Server for Linux contains a vulnerability where an attacker coul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47627",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47627:2026-08-18T18:49"
-  },
-  {
-   "ts": "2026-08-18T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-24185 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-24185 📢 Source: nvidia 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False NVIDIA NVOS for network switches contains a vulnerability in the secure shell (SSH) server ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24185",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24185:2026-08-18T18:49"
-  },
-  {
-   "ts": "2026-08-18T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-24184 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-24184 📢 Source: nvidia 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False NVIDIA Cumulus Linux contains a vulnerability in the Link Layer Discovery Protocol (LLDP) d",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24184",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24184:2026-08-18T18:49"
-  },
-  {
-   "ts": "2026-08-18T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-24183 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-24183 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA Cumulus Linux contains a vulnerability in the user management component, where an un",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24183",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24183:2026-08-18T18:49"
-  },
-  {
-   "ts": "2026-08-18T18:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75130 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-75130 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Context7 through 2.1.2 contains a prompt injection vulnerability that allows attackers ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75130",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75130:2026-08-18T18:19"
-  },
-  {
-   "ts": "2026-08-18T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74044 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-74044 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Wazuh 4.0.0 before 4.14.6 contains a path traversal vulnerability that allows authenticated",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74044",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74044:2026-08-18T17:49"
   }
  ]
 }
