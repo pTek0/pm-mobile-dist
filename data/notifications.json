@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-21T16:19:09+00:00",
+ "generated_at": "2026-08-21T16:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-21T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-39909 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-39909 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True llama.cpp before b8585 contains a use-after-free vulnerability in the RPC server's GR",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-39909",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-39909:2026-08-21T16:49"
+  },
   {
    "ts": "2026-08-21T16:19:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
    "source": "Lemmy · technology",
    "id": "community:https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962:2026-08-19T00:49"
-  },
-  {
-   "ts": "2026-08-19T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] While corporate oligarchs gather on their Yachts, the open s",
-   "body": "Lemmy · programming.dev · 점수 87",
-   "link": "https://events.documentfoundation.org/libreoffice-conference-2026/talk/",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://events.documentfoundation.org/libreoffice-conference-2026/talk/:2026-08-19T00:19"
   }
  ]
 }
