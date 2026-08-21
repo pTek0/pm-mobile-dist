@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-21T11:49:09+00:00",
+ "generated_at": "2026-08-21T12:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-21T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59279 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-59279 📢 Source: vmware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The MCP Streamable HTTP server transport (WebFlux and WebMvc variants) does not place any li",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59279",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59279:2026-08-21T12:19"
+  },
+  {
+   "ts": "2026-08-21T12:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Vomit: Clean up Claude 5's token output with a separate LLM",
+   "body": "Hacker News · 점수 262",
+   "link": "https://github.com/zachahn/vomit",
+   "source": "Hacker News",
+   "id": "community:https://github.com/zachahn/vomit:2026-08-21T12:19"
+  },
+  {
+   "ts": "2026-08-21T12:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Linux 7.2",
+   "body": "Hacker News · 점수 256",
+   "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+   "source": "Hacker News",
+   "id": "community:https://www.igalia.com/2026/08/19/Linux-72-Released.html:2026-08-21T12:19"
+  },
+  {
+   "ts": "2026-08-21T12:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] An amazing directory: /proc",
+   "body": "Lemmy · programming.dev · 점수 210",
+   "link": "https://europe.pub/api/v3/image_proxy?url=https%3A%2F%2Flemmy.ml%2Fapi%2Fv3%2Fimage_proxy%3Furl%3Dhttps%253A%252F%252Fsh.itjust.works%252Fpictrs%252Fimage%252F07b394f0-b285-4202-9129-f080de7ae426.png",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://europe.pub/api/v3/image_proxy?url=https%3A%2F%2Flemmy.ml%2Fapi%2Fv3%2Fimage_proxy%3Furl%3Dhttps%253A%252F%252Fsh.itjust.works%252Fpictrs%252Fimage%252F07b394f0-b285-4202-9129-f080de7ae426.png:2026-08-21T12:19"
+  },
+  {
+   "ts": "2026-08-21T12:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI companies destroy physical books — let’s scan rare books ",
+   "body": "Lemmy · technology · 점수 112",
+   "link": "https://annas-archive.gl/blog/physical-destruction.html",
+   "source": "Lemmy · technology",
+   "id": "community:https://annas-archive.gl/blog/physical-destruction.html:2026-08-21T12:19"
+  },
+  {
+   "ts": "2026-08-21T12:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] How a joke domain purchase turned into geopolitical warfare",
+   "body": "Lobsters · 점수 111",
+   "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+   "source": "Lobsters",
+   "id": "community:https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/:2026-08-21T12:19"
+  },
   {
    "ts": "2026-08-21T11:49:08+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15315",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15315:2026-08-18T21:49"
-  },
-  {
-   "ts": "2026-08-18T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15571 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-15571 📢 Source: redhat 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the legacy client-initiated account-linking endpoint of Keycloak, a wide",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15571",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15571:2026-08-18T20:49"
-  },
-  {
-   "ts": "2026-08-18T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59915 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-59915 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell Alienware Command Center (AWCC), versions prior to 6.14.20.0 , contain a Least Privilege",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59915",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59915:2026-08-18T20:19"
-  },
-  {
-   "ts": "2026-08-18T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75936 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-75936 📢 Source: AMZN 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Improper handling of highly compressed data in the GZIP auto-decompression handler in Amaz",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75936",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75936:2026-08-18T19:49"
-  },
-  {
-   "ts": "2026-08-18T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75935 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-75935 📢 Source: AMZN 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Uncontrolled memory allocation in the binary Ion stream cursor in Amazon ion-java before 1.12.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75935",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75935:2026-08-18T19:49"
-  },
-  {
-   "ts": "2026-08-18T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17106 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-17106 📢 Source: Docker 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False The tar extraction routines in moby/go-archive (Unpack, UnpackLayer, Untar/UntarUncompresse",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17106",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17106:2026-08-18T18:49"
-  },
-  {
-   "ts": "2026-08-18T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-9210 (CVSS 8.1)",
-   "body": "🚨 CVE-2025-9210 📢 Source: Mandiant 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Missing signature validation in JSON Web Tokens in Otalio Ship Property Management System v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-9210",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-9210:2026-08-18T18:49"
   }
  ]
 }
