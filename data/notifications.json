@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-21T14:49:10+00:00",
+ "generated_at": "2026-08-21T15:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-21T15:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77815 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-77815 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True to_abs_path in scripts/iib/ tool.py normalised the requested path with os.path.normpath, ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77815",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77815:2026-08-21T15:19"
+  },
+  {
+   "ts": "2026-08-21T15:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77814 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-77814 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True is_path_trusted in scripts/iib/ api.py compares the requested path against each allowed p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77814",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77814:2026-08-21T15:19"
+  },
+  {
+   "ts": "2026-08-21T15:19:09+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77087 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-77087 📢 Source: VulnCheck 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Paperclip before 0.3.1 in default local_trusted mode fails to validate Host headers, ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77087",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77087:2026-08-21T15:19"
+  },
   {
    "ts": "2026-08-21T14:49:08+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://theconversation.com/how-weaving-helped-invent-modern-computing-and-is-shaping-its-future-287283",
    "source": "Lemmy · technology",
    "id": "community:https://theconversation.com/how-weaving-helped-invent-modern-computing-and-is-shaping-its-future-287283:2026-08-19T00:19"
-  },
-  {
-   "ts": "2026-08-19T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Repairing the Steam Deck LCD Gets Much More Expensive as Off",
-   "body": "Lemmy · technology · 점수 74",
-   "link": "https://www.eteknix.com/repairing-the-steam-deck-lcd-gets-much-more-expensive-as-official-battery-reaches-180/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.eteknix.com/repairing-the-steam-deck-lcd-gets-much-more-expensive-as-official-battery-reaches-180/:2026-08-19T00:19"
-  },
-  {
-   "ts": "2026-08-19T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Meta Ran Ads for an App That Promised to Nudify Female Polit",
-   "body": "Lemmy · technology · 점수 63",
-   "link": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/:2026-08-19T00:19"
-  },
-  {
-   "ts": "2026-08-18T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fairphone Is Finally Selling Its Repairable Phone in the US",
-   "body": "Lemmy · technology · 점수 375",
-   "link": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/:2026-08-18T23:49"
   }
  ]
 }
