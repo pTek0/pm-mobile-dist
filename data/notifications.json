@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-22T22:49:08+00:00",
+ "generated_at": "2026-08-22T23:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-22T23:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78122 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-78122 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False docker-socket-proxy fails to properly gate read endpoints in the /containers Docker API ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78122",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78122:2026-08-22T23:19"
+  },
+  {
+   "ts": "2026-08-22T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Canada will match US tariffs 'dollar for dollar' as trade ta",
+   "body": "Hacker News · 점수 401",
+   "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+   "source": "Hacker News",
+   "id": "community:https://www.bbc.com/news/articles/cvgvyy4x2mvo:2026-08-22T23:19"
+  },
+  {
+   "ts": "2026-08-22T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Rust Glancer: Rust LSP using 100x less RAM",
+   "body": "Hacker News · 점수 392",
+   "link": "https://rust-glancer.github.io/blog/hello-world/",
+   "source": "Hacker News",
+   "id": "community:https://rust-glancer.github.io/blog/hello-world/:2026-08-22T23:19"
+  },
+  {
+   "ts": "2026-08-22T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] 80% of developers find AI coding more addictive than helpful",
+   "body": "Lemmy · technology · 점수 384",
+   "link": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/:2026-08-22T23:19"
+  },
+  {
+   "ts": "2026-08-22T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] \"This guy knows his stuff\"",
+   "body": "Lemmy · programming.dev · 점수 289",
+   "link": "https://lemmy.world/pictrs/image/7e680112-e4f0-4183-920b-48a2a09d05f0.jpeg",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.world/pictrs/image/7e680112-e4f0-4183-920b-48a2a09d05f0.jpeg:2026-08-22T23:19"
+  },
+  {
+   "ts": "2026-08-22T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] ElevenLabs, TwelveLabs, ThirteenLabs",
+   "body": "Hacker News · 점수 274",
+   "link": "https://quantumi.sh/public/labs.html",
+   "source": "Hacker News",
+   "id": "community:https://quantumi.sh/public/labs.html:2026-08-22T23:19"
+  },
   {
    "ts": "2026-08-22T14:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-59279",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59279:2026-08-21T12:19"
-  },
-  {
-   "ts": "2026-08-21T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Vomit: Clean up Claude 5's token output with a separate LLM",
-   "body": "Hacker News · 점수 262",
-   "link": "https://github.com/zachahn/vomit",
-   "source": "Hacker News",
-   "id": "community:https://github.com/zachahn/vomit:2026-08-21T12:19"
-  },
-  {
-   "ts": "2026-08-21T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Linux 7.2",
-   "body": "Hacker News · 점수 256",
-   "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-   "source": "Hacker News",
-   "id": "community:https://www.igalia.com/2026/08/19/Linux-72-Released.html:2026-08-21T12:19"
-  },
-  {
-   "ts": "2026-08-21T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] An amazing directory: /proc",
-   "body": "Lemmy · programming.dev · 점수 210",
-   "link": "https://europe.pub/api/v3/image_proxy?url=https%3A%2F%2Flemmy.ml%2Fapi%2Fv3%2Fimage_proxy%3Furl%3Dhttps%253A%252F%252Fsh.itjust.works%252Fpictrs%252Fimage%252F07b394f0-b285-4202-9129-f080de7ae426.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://europe.pub/api/v3/image_proxy?url=https%3A%2F%2Flemmy.ml%2Fapi%2Fv3%2Fimage_proxy%3Furl%3Dhttps%253A%252F%252Fsh.itjust.works%252Fpictrs%252Fimage%252F07b394f0-b285-4202-9129-f080de7ae426.png:2026-08-21T12:19"
-  },
-  {
-   "ts": "2026-08-21T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI companies destroy physical books — let’s scan rare books ",
-   "body": "Lemmy · technology · 점수 112",
-   "link": "https://annas-archive.gl/blog/physical-destruction.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://annas-archive.gl/blog/physical-destruction.html:2026-08-21T12:19"
-  },
-  {
-   "ts": "2026-08-21T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How a joke domain purchase turned into geopolitical warfare",
-   "body": "Lobsters · 점수 111",
-   "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-   "source": "Lobsters",
-   "id": "community:https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/:2026-08-21T12:19"
-  },
-  {
-   "ts": "2026-08-21T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77759 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-77759 📢 Source: Secur0 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key in the transaction API in Roskus Prospero F",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77759",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77759:2026-08-21T11:49"
   }
  ]
 }
