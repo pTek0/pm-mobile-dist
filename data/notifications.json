@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-22T13:49:08+00:00",
+ "generated_at": "2026-08-22T14:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-22T14:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71513 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-71513 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True NLTK before 3.10.3 contains a remote code execution vulnerability in AllowlistUnpickler t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71513",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71513:2026-08-22T14:19"
+  },
   {
    "ts": "2026-08-22T12:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77768",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77768:2026-08-21T11:19"
-  },
-  {
-   "ts": "2026-08-21T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77767 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-77767 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Reconmap's API applies a fallback authorization policy in apps/api/app/Program.cs that re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77767",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77767:2026-08-21T11:19"
   }
  ]
 }
