@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-08-22T12:19:09+00:00",
+ "generated_at": "2026-08-22T12:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-22T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-62243 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-62243 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Netty (io.netty:netty-handler) versions from 4.2.0.Final through 4.2.16.Final and version",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62243",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62243:2026-08-22T12:49"
+  },
+  {
+   "ts": "2026-08-22T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-60084 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-60084 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan versions before v3.7.4 contain an arbitrary file deletion vulnerability in the /ap",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60084",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60084:2026-08-22T12:49"
+  },
+  {
+   "ts": "2026-08-22T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59808 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-59808 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True AVideo through commit 9c39d8c8 contains an authentication bypass vulnerability where dedu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59808",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59808:2026-08-22T12:49"
+  },
+  {
+   "ts": "2026-08-22T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59256 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-59256 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True WWBN AVideo through commit 9c39d8c8 contains an authorization bypass vulnerability where ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59256",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59256:2026-08-22T12:49"
+  },
+  {
+   "ts": "2026-08-22T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-58003 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-58003 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True WWBN AVideo through commit 9c39d8c8 contains a cross-site request forgery vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58003",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58003:2026-08-22T12:49"
+  },
+  {
+   "ts": "2026-08-22T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-58002 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-58002 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True WWBN AVideo through commit 9c39d8c8b4c1f75540788d6b391740852ceb0732 contains an authoriza",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58002",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58002:2026-08-22T12:49"
+  },
+  {
+   "ts": "2026-08-22T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-57998 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-57998 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False better-npm-audit through 3.11.0, and the 4.0.0-rc.2 prerelease, builds its npm audit com",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57998",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57998:2026-08-22T12:49"
+  },
   {
    "ts": "2026-08-22T12:19:07+00:00",
    "level": "important",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77767",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77767:2026-08-21T11:19"
-  },
-  {
-   "ts": "2026-08-21T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77763 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-77763 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True The filestore backend in pkg/object/file.go, used for file:// stores and as a common juic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77763",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77763:2026-08-21T11:19"
-  },
-  {
-   "ts": "2026-08-21T11:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-77086 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-77086 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before v3.7.4 fails to validate the packageName parameter in Bazaar install an",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77086",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77086:2026-08-21T11:19"
-  },
-  {
-   "ts": "2026-08-21T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AliExpress runs silent WebAudio fingerprinting that breaks B",
-   "body": "Hacker News · 점수 974",
-   "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-   "source": "Hacker News",
-   "id": "community:https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html:2026-08-21T11:19"
-  },
-  {
-   "ts": "2026-08-21T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] HTML Can Do That",
-   "body": "Hacker News · 점수 828",
-   "link": "https://chrisburnell.com/html-can-do-that/",
-   "source": "Hacker News",
-   "id": "community:https://chrisburnell.com/html-can-do-that/:2026-08-21T11:19"
-  },
-  {
-   "ts": "2026-08-21T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Aaron Swartz was prosecuted for scraping, while Meta does it",
-   "body": "Lemmy · technology · 점수 820",
-   "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-   "source": "Lemmy · technology",
-   "id": "community:https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/:2026-08-21T11:19"
-  },
-  {
-   "ts": "2026-08-21T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I like 'em thick: an apology to my English teachers",
-   "body": "Hacker News · 점수 743",
-   "link": "https://www.experimental-history.com/p/i-like-em-thick",
-   "source": "Hacker News",
-   "id": "community:https://www.experimental-history.com/p/i-like-em-thick:2026-08-21T11:19"
-  },
-  {
-   "ts": "2026-08-21T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The August 17 outage",
-   "body": "Hacker News · 점수 539",
-   "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-   "source": "Hacker News",
-   "id": "community:https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/:2026-08-21T11:19"
   }
  ]
 }
