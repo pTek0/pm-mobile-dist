@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-08-22T14:19:09+00:00",
+ "generated_at": "2026-08-22T14:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-22T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70626 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-70626 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False NLTK versions before 3.9.4 contain a symlink escape vulnerability in CorpusReader.open (",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70626",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70626:2026-08-22T14:49"
+  },
+  {
+   "ts": "2026-08-22T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68766 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-68766 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False hashcat fails to restrict command-line options when parsing restore files, allowing atta",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68766",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68766:2026-08-22T14:49"
+  },
+  {
+   "ts": "2026-08-22T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66393 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-66393 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True NLTK versions before 3.9.4 contain an unbounded recursion vulnerability in JSONTaggedDeco",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66393",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66393:2026-08-22T14:49"
+  },
+  {
+   "ts": "2026-08-22T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65915 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-65915 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True NLTK versions before 3.10.0 contain a logic bug in FileSystemPathPointer.open () where th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65915",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65915:2026-08-22T14:49"
+  },
+  {
+   "ts": "2026-08-22T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63312 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-63312 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True NLTK before 3.10.0 contains an arbitrary local file read vulnerability in StreamBackedCor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63312",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63312:2026-08-22T14:49"
+  },
+  {
+   "ts": "2026-08-22T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-63310 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-63310 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True NLTK before 3.9.3 fails to verify file integrity after downloading packages and befor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63310",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63310:2026-08-22T14:49"
+  },
+  {
+   "ts": "2026-08-22T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-62388 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-62388 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True NLTK versions before 3.10.0 default to ENFORCE=False in pathsec.py , causing all security",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62388",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62388:2026-08-22T14:49"
+  },
+  {
+   "ts": "2026-08-22T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-62385 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-62385 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True NLTK versions before 3.10.0 contain a path traversal vulnerability in FramenetCorpusReade",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62385",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62385:2026-08-22T14:49"
+  },
+  {
+   "ts": "2026-08-22T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-62384 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-62384 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True NLTK versions before 3.10.2 contain a symlink-based sandbox bypass in FramenetCorpusReade",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62384",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62384:2026-08-22T14:49"
+  },
   {
    "ts": "2026-08-22T14:19:09+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77759",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77759:2026-08-21T11:49"
-  },
-  {
-   "ts": "2026-08-21T11:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-77776 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-77776 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Headroom's LLM proxy derives the memory owner from the x-headroom-user-id request hea",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77776",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77776:2026-08-21T11:49"
-  },
-  {
-   "ts": "2026-08-21T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77775 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-77775 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Headroom's LLM proxy lets a client choose the upstream destination with the x-headroom-ba",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77775",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77775:2026-08-21T11:49"
-  },
-  {
-   "ts": "2026-08-21T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Malicious Rust crate Arrayref runs a build-time payload",
-   "body": "Hacker News · 점수 508",
-   "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-   "source": "Hacker News",
-   "id": "community:https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/:2026-08-21T11:49"
-  },
-  {
-   "ts": "2026-08-21T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] CIA funding helped keep NeXT afloat in the 80s",
-   "body": "Hacker News · 점수 403",
-   "link": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-   "source": "Hacker News",
-   "id": "community:https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink:2026-08-21T11:49"
-  },
-  {
-   "ts": "2026-08-21T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] My home server was a totally justified purchase",
-   "body": "Lemmy · programming.dev · 점수 383",
-   "link": "https://lemmy.world/pictrs/image/73a30cff-cd42-4307-be26-05dc03509fde.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/73a30cff-cd42-4307-be26-05dc03509fde.png:2026-08-21T11:49"
-  },
-  {
-   "ts": "2026-08-21T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: Huzzah – a novel approach to coding with AI",
-   "body": "Hacker News · 점수 320",
-   "link": "https://www.danielvaughn.dev/posts/huzzah/",
-   "source": "Hacker News",
-   "id": "community:https://www.danielvaughn.dev/posts/huzzah/:2026-08-21T11:49"
-  },
-  {
-   "ts": "2026-08-21T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I should have loved biology (2020)",
-   "body": "Hacker News · 점수 289",
-   "link": "https://jsomers.net/i-should-have-loved-biology/",
-   "source": "Hacker News",
-   "id": "community:https://jsomers.net/i-should-have-loved-biology/:2026-08-21T11:49"
-  },
-  {
-   "ts": "2026-08-21T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77769 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-77769 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True The report.list procedure in packages/trpc/src/routers/report.ts accepted a projectId and",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77769",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77769:2026-08-21T11:19"
-  },
-  {
-   "ts": "2026-08-21T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77768 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-77768 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True The report.get procedure in packages/trpc/src/routers/report.ts accepted only a reportId ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77768",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77768:2026-08-21T11:19"
   }
  ]
 }
