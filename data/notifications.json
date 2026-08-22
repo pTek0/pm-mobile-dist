@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-21T17:49:08+00:00",
+ "generated_at": "2026-08-22T12:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-22T12:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-12710 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-12710 📢 Source: GoogleCloud 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A Missing Authorization vulnerability in the QueryEngineTask of Google Cloud Applic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12710",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12710:2026-08-22T12:19"
+  },
   {
    "ts": "2026-08-21T17:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
    "source": "Hacker News",
    "id": "community:https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/:2026-08-21T11:19"
-  },
-  {
-   "ts": "2026-08-21T10:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77755 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-77755 📢 Source: CIRCL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A denial-of-service vulnerability was identified in misp-stix when processing attacker-contro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77755",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77755:2026-08-21T10:49"
   }
  ]
 }
