@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-23T09:19:08+00:00",
+ "generated_at": "2026-08-23T09:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-23T09:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78155 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-78155 📢 Source: GitLab 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True privilege escalation in StackGres operator allows a low-privilege tenant who owns a data",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78155",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78155:2026-08-23T09:49"
+  },
+  {
+   "ts": "2026-08-23T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10053 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-10053 📢 Source: GitLab 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.8 before 19.0.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10053",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10053:2026-08-23T09:49"
+  },
   {
    "ts": "2026-08-23T01:19:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-22681",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22681:2026-08-21T16:19"
-  },
-  {
-   "ts": "2026-08-21T15:19:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77815 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-77815 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True to_abs_path in scripts/iib/ tool.py normalised the requested path with os.path.normpath, ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77815",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77815:2026-08-21T15:19"
-  },
-  {
-   "ts": "2026-08-21T15:19:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77814 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-77814 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True is_path_trusted in scripts/iib/ api.py compares the requested path against each allowed p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77814",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77814:2026-08-21T15:19"
   }
  ]
 }
