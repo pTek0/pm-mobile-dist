@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-23T00:49:08+00:00",
+ "generated_at": "2026-08-23T01:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-23T01:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78136 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-78136 📢 Source: mitre 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False chirpmyradio CHIRP before 39178db allows eval injection via crafted CSV data. This occurs in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78136",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78136:2026-08-23T01:19"
+  },
   {
    "ts": "2026-08-23T00:49:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77814",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77814:2026-08-21T15:19"
-  },
-  {
-   "ts": "2026-08-21T15:19:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-77087 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-77087 📢 Source: VulnCheck 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Paperclip before 0.3.1 in default local_trusted mode fails to validate Host headers, ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77087",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77087:2026-08-21T15:19"
   }
  ]
 }
