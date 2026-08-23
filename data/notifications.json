@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-23T10:49:08+00:00",
+ "generated_at": "2026-08-23T11:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-23T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Why your local LLM feels dumber than it is",
+   "body": "Hacker News · 점수 363",
+   "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+   "source": "Hacker News",
+   "id": "community:https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917:2026-08-23T11:19"
+  },
+  {
+   "ts": "2026-08-23T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] typ.ing",
+   "body": "Hacker News · 점수 280",
+   "link": "https://typ.ing/",
+   "source": "Hacker News",
+   "id": "community:https://typ.ing/:2026-08-23T11:19"
+  },
+  {
+   "ts": "2026-08-23T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] RF Cafe",
+   "body": "Hacker News · 점수 205",
+   "link": "https://www.rfcafe.com/",
+   "source": "Hacker News",
+   "id": "community:https://www.rfcafe.com/:2026-08-23T11:19"
+  },
+  {
+   "ts": "2026-08-23T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A week of using Codex more than Claude",
+   "body": "Hacker News · 점수 199",
+   "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+   "source": "Hacker News",
+   "id": "community:https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/:2026-08-23T11:19"
+  },
+  {
+   "ts": "2026-08-23T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Meta glasses are a workplace menace",
+   "body": "Lemmy · technology · 점수 171",
+   "link": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security:2026-08-23T11:19"
+  },
   {
    "ts": "2026-08-23T09:49:07+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-17252",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17252:2026-08-21T17:49"
-  },
-  {
-   "ts": "2026-08-21T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17251 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-17251 📢 Source: TPLink 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A NULL pointer dereference vulnerability exists in the HTTP request parsing functionality o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17251",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17251:2026-08-21T17:49"
-  },
-  {
-   "ts": "2026-08-21T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17250 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-17250 📢 Source: TPLink 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A stack-based buffer overflow vulnerability exists in the firmware update functionality of ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17250",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17250:2026-08-21T17:49"
-  },
-  {
-   "ts": "2026-08-21T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-39909 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-39909 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True llama.cpp before b8585 contains a use-after-free vulnerability in the RPC server's GR",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-39909",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-39909:2026-08-21T16:49"
-  },
-  {
-   "ts": "2026-08-21T16:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-69502 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-69502 📢 Source: microsoft 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-08-21T16:03:56.685Z https://cvefeed.io/vuln/detail/CVE-20",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69502",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69502:2026-08-21T16:19"
-  },
-  {
-   "ts": "2026-08-21T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-22681 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-22681 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True OpenViking before 0.3.4 contains a server-side request forgery vulnerability that allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22681",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22681:2026-08-21T16:19"
   }
  ]
 }
