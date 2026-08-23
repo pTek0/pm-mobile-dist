@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-23T13:49:07+00:00",
+ "generated_at": "2026-08-23T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-23T14:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-7808 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-7808 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True justhtml before 1.16.0 contains multiple HTML sanitization bypass issues that can allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7808",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7808:2026-08-23T14:19"
+  },
+  {
+   "ts": "2026-08-23T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-4671 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-4671 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True justhtml before 1.18.0 contains multiple low-severity denial-of-service issues in CSS sele",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-4671",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4671:2026-08-23T14:19"
+  },
   {
    "ts": "2026-08-23T11:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-58002",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58002:2026-08-22T12:49"
-  },
-  {
-   "ts": "2026-08-22T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-57998 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-57998 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False better-npm-audit through 3.11.0, and the 4.0.0-rc.2 prerelease, builds its npm audit com",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57998",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57998:2026-08-22T12:49"
-  },
-  {
-   "ts": "2026-08-22T12:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-12710 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-12710 📢 Source: GoogleCloud 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A Missing Authorization vulnerability in the QueryEngineTask of Google Cloud Applic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12710",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12710:2026-08-22T12:19"
   }
  ]
 }
