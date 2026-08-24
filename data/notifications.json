@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-24T11:19:07+00:00",
+ "generated_at": "2026-08-24T11:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-6017 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-6017 📢 Source: CERT-PL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Firmware in KAON PG5298A and PG5298B routers allow an unauthenticated user to query a speci",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6017",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6017:2026-08-24T11:49"
+  },
+  {
+   "ts": "2026-08-24T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-63080 (CVSS 8.5)",
+   "body": "🚨 CVE-2025-63080 📢 Source: CERT-PL 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Firmware in KAON PG5298A and PG5298B routers allow an authenticated user to send crafted J",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-63080",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-63080:2026-08-24T11:49"
+  },
+  {
+   "ts": "2026-08-24T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Replicating Reddit's best feature on other forums",
+   "body": "Lobsters · 점수 51",
+   "link": "https://xavd.id/blog/post/highlighting-users/",
+   "source": "Lobsters",
+   "id": "community:https://xavd.id/blog/post/highlighting-users/:2026-08-24T11:49"
+  },
   {
    "ts": "2026-08-24T11:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://www.engadget.com/2242192/uber-hit-with-1-billion-fine-for-automatically-deactivating-drivers-in-europe/?amp%3Butm_campaign=Echobox-Engadget&amp%3Butm_medium=Social-Distribution&amp%3Butm_source=Twitter",
    "source": "Lemmy · technology",
    "id": "community:https://www.engadget.com/2242192/uber-hit-with-1-billion-fine-for-automatically-deactivating-drivers-in-europe/?amp%3Butm_campaign=Echobox-Engadget&amp%3Butm_medium=Social-Distribution&amp%3Butm_source=Twitter:2026-08-23T23:19"
-  },
-  {
-   "ts": "2026-08-23T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How a Texas student blew the whistle on a rogue AI hacking a",
-   "body": "Hacker News · 점수 188",
-   "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-   "source": "Hacker News",
-   "id": "community:https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/:2026-08-23T23:19"
-  },
-  {
-   "ts": "2026-08-23T14:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-7808 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-7808 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True justhtml before 1.16.0 contains multiple HTML sanitization bypass issues that can allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7808",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7808:2026-08-23T14:19"
-  },
-  {
-   "ts": "2026-08-23T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-4671 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-4671 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True justhtml before 1.18.0 contains multiple low-severity denial-of-service issues in CSS sele",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-4671",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4671:2026-08-23T14:19"
   }
  ]
 }
