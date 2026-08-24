@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-08-24T13:19:08+00:00",
+ "generated_at": "2026-08-24T13:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78381 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-78381 📢 Source: CIRCL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True RansomLook contains a path traversal vulnerability in the handling of the screen field associ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78381",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78381:2026-08-24T13:49"
+  },
+  {
+   "ts": "2026-08-24T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78380 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-78380 📢 Source: CIRCL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True RansomLook fails to enforce the privacy status of ransomware groups and markets when distribu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78380",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78380:2026-08-24T13:49"
+  },
+  {
+   "ts": "2026-08-24T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78376 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-78376 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in WebKitGTK. Processing malicious web content can cause a use-after-free i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78376",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78376:2026-08-24T13:49"
+  },
+  {
+   "ts": "2026-08-24T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-59564 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-59564 📢 Source: Zscaler 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True An authentication bypass issue exists in communications between affected versions of th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59564",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59564:2026-08-24T13:49"
+  },
+  {
+   "ts": "2026-08-24T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78372 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-78372 📢 Source: CIRCL 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True RansomLook does not consistently enforce authorization checks when accessing groups, mark",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78372",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78372:2026-08-24T13:49"
+  },
+  {
+   "ts": "2026-08-24T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78369 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-78369 📢 Source: CIRCL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True RansomLook contains a missing authentication vulnerability in the /admin/crypto/group/new end",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78369",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78369:2026-08-24T13:49"
+  },
+  {
+   "ts": "2026-08-24T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76848 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-76848 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True TypeORM's SelectQueryBuilder.distinctOn accepts an array of strings and stores it on the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76848",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76848:2026-08-24T13:49"
+  },
+  {
+   "ts": "2026-08-24T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76847 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76847 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False act starts an HTTP Artifacts V4 backend whenever a workflow uses actions/upload-artifact",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76847",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76847:2026-08-24T13:49"
+  },
+  {
+   "ts": "2026-08-24T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76844 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-76844 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True webpack-dev-middleware resolves a request to a local file in getFilenameFromUrl by testin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76844",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76844:2026-08-24T13:49"
+  },
+  {
+   "ts": "2026-08-24T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76843 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-76843 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False The official Flair wheels for 0.15.0 and 0.15.1 still contain flair/models/ clustering.p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76843",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76843:2026-08-24T13:49"
+  },
+  {
+   "ts": "2026-08-24T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76842 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76842 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The Mercado Pago Node.js SDK interpolates caller-supplied identifiers into API request pa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76842",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76842:2026-08-24T13:49"
+  },
+  {
+   "ts": "2026-08-24T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76841 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76841 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Xinference loads models with Hugging Face remote code execution unconditionally enabled, ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76841",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76841:2026-08-24T13:49"
+  },
+  {
+   "ts": "2026-08-24T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-21751 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-21751 📢 Source: HCL 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True HCL Hive is affected by a cryptographic primitive with a risky implementation which could allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21751",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21751:2026-08-24T13:49"
+  },
   {
    "ts": "2026-08-24T13:19:07+00:00",
    "level": "important",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78206",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78206:2026-08-24T00:49"
-  },
-  {
-   "ts": "2026-08-24T00:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78203 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-78203 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Ghostwriter before 7.1.2 fails to validate template ownership in the report template swap",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78203",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78203:2026-08-24T00:49"
-  },
-  {
-   "ts": "2026-08-24T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: InsecureBankv2",
-   "body": "정적분석 보고서 완료 — **정체 지속(마지막 활동 07-20 → 2026-08-24 기준 35일 경과)**",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: InsecureBankv2:2026-08-24T00:49"
-  },
-  {
-   "ts": "2026-08-24T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pentest-toolkit",
-   "body": "쉐도우 모드(관찰만) — **정체 지속(마지막 세션 07-17 → 2026-08-24 기준 38일 경과, 지난 7일 커밋 0)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→⏸",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pentest-toolkit:2026-08-24T00:49"
-  },
-  {
-   "ts": "2026-08-24T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Rockstar reportedly furious by GTA 6 leaks and has no idea h",
-   "body": "Lemmy · technology · 점수 72",
-   "link": "https://www.dexerto.com/gta/rockstar-reportedly-furious-by-gta-6-leaks-but-wont-change-netflix-premiere-date-3401043/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.dexerto.com/gta/rockstar-reportedly-furious-by-gta-6-leaks-but-wont-change-netflix-premiere-date-3401043/:2026-08-24T00:19"
-  },
-  {
-   "ts": "2026-08-24T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] And then the men with guns tell you to do it anyway",
-   "body": "Lobsters · 점수 71",
-   "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-   "source": "Lobsters",
-   "id": "community:https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/:2026-08-24T00:19"
-  },
-  {
-   "ts": "2026-08-24T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I gave Qwen 3.8 27B a reverse-engineering job I assumed need",
-   "body": "Lemmy · technology · 점수 61",
-   "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/:2026-08-24T00:19"
-  },
-  {
-   "ts": "2026-08-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Flock CEO calls for ‘compromise’ as surveillance company fac",
-   "body": "Lemmy · technology · 점수 164",
-   "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-   "source": "Lemmy · technology",
-   "id": "community:https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/:2026-08-23T23:49"
-  },
-  {
-   "ts": "2026-08-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] You'll never guess what will happen if you try to print out ",
-   "body": "Lemmy · programming.dev · 점수 140",
-   "link": "https://media.piefed.social/posts/jm/zj/jmzjCna8EWBEJVl.jpg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://media.piefed.social/posts/jm/zj/jmzjCna8EWBEJVl.jpg:2026-08-23T23:49"
-  },
-  {
-   "ts": "2026-08-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Reddit fades from ChatGPT citations",
-   "body": "Lemmy · technology · 점수 126",
-   "link": "https://www.axios.com/2026/08/20/chatgpt-reddit-citations-geo-strategy",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.axios.com/2026/08/20/chatgpt-reddit-citations-geo-strategy:2026-08-23T23:49"
-  },
-  {
-   "ts": "2026-08-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Canadians have a historic opportunity to punch Microsoft in ",
-   "body": "Lemmy · programming.dev · 점수 108",
-   "link": "https://europe.pub/api/v3/image_proxy?url=https%3A%2F%2Flemmy.ml%2Fapi%2Fv3%2Fimage_proxy%3Furl%3Dhttps%253A%252F%252Flemmy.zip%252Fpictrs%252Fimage%252F91a6a2be-9d68-4261-9213-537c1f577a79.avif",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://europe.pub/api/v3/image_proxy?url=https%3A%2F%2Flemmy.ml%2Fapi%2Fv3%2Fimage_proxy%3Furl%3Dhttps%253A%252F%252Flemmy.zip%252Fpictrs%252Fimage%252F91a6a2be-9d68-4261-9213-537c1f577a79.avif:2026-08-23T23:49"
-  },
-  {
-   "ts": "2026-08-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Longtime Linux CIFS/SMB3 Maintainer Passes Away",
-   "body": "Lemmy · programming.dev · 점수 74",
-   "link": "https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change?=0",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change?=0:2026-08-23T23:49"
-  },
-  {
-   "ts": "2026-08-23T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] To become a better writer, read as much as you can",
-   "body": "Hacker News · 점수 316",
-   "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-   "source": "Hacker News",
-   "id": "community:https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/:2026-08-23T23:19"
-  },
-  {
-   "ts": "2026-08-23T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Sony Reminds PS Users They Don't Own Digital Games",
-   "body": "Lemmy · technology · 점수 282",
-   "link": "https://games.gg/news/sony-eula-email-psblackout-boycott/",
-   "source": "Lemmy · technology",
-   "id": "community:https://games.gg/news/sony-eula-email-psblackout-boycott/:2026-08-23T23:19"
   }
  ]
 }
