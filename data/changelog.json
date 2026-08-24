@@ -1,7 +1,21 @@
 {
- "generated_at": "2026-08-24T12:06:06+09:00",
- "count": 19,
+ "generated_at": "2026-08-24T17:00:36+09:00",
+ "count": 20,
  "entries": [
+  {
+   "version": "0.32.0",
+   "date": "2026-08-24",
+   "highlight": "pTek 네이밍 표준 전면 적용 — 도메인 탭·조직도·대화창의 옛 'PM/PL·한글 도메인' 표기를 pTek 부문 브랜드·콜사인(Command/Capital/Red·Blue/Labs/Grid/Studio/Counsel)으로 개칭. 표시만 바뀌며 기능·탭·배선은 그대로.",
+   "added": [],
+   "fixed": [],
+   "changed": [
+    "**레일 탭 라벨** — 투자→Capital · 관리→Counsel · 개발→Labs · 디자인→Studio (탭 순서·개수·화면 불변)",
+    "**총괄 PM 표기** — 대시보드/워크스페이스의 총괄 PM = 'Command · 총괄 PM'(콜사인 병기)",
+    "**도메인 PM 대화 타이틀** — 'Capital · 금융 PM' 형식(콜사인+한글) · 해킹 = 'Red/Blue · 해킹 PM' · 관리 = 'Counsel · 관리 PM' · 개발 = 'Labs · 개발 PM' · 2D/3D = 'Studio 2D/3D'",
+    "**워크스페이스 조직도** — 도메인 박스가 부문 브랜드(pTek Capital 등)로 표시(pm-api 0.16.0 연동, 한글 부문명은 별칭 병기) · GLM 컨테이너 = 'ptek-raven' 콜사인",
+    "공유 pm_core 에 네이밍 매핑 모듈(naming.dart) 신설 — 브랜드/콜사인 표기의 단일 소스"
+   ]
+  },
   {
    "version": "0.31.0",
    "date": "2026-08-24",
