@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-24T18:49:07+00:00",
+ "generated_at": "2026-08-24T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71509 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-71509 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dolibarr before 24.0.0 contains an improper authorization vulnerability in the expense re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71509",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71509:2026-08-24T19:19"
+  },
+  {
+   "ts": "2026-08-24T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71508 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-71508 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dolibarr before 24.0.0 contains an improper authorization vulnerability in the user REST ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71508",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71508:2026-08-24T19:19"
+  },
+  {
+   "ts": "2026-08-24T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71507 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-71507 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dolibarr before 24.0.0 contains a broken object-level authorization vulnerability in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71507",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71507:2026-08-24T19:19"
+  },
+  {
+   "ts": "2026-08-24T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71506 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-71506 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dolibarr before 24.0.0 contains an improper authorization vulnerability in the payments R",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71506",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71506:2026-08-24T19:19"
+  },
+  {
+   "ts": "2026-08-24T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71505 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-71505 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dolibarr before 24.0.0 contains a broken object-level authorization vulnerability in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71505",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71505:2026-08-24T19:19"
+  },
+  {
+   "ts": "2026-08-24T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71504 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-71504 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Dolibarr before 24.0.0 contains an improper authorization vulnerability in the Members RE",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71504",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71504:2026-08-24T19:19"
+  },
   {
    "ts": "2026-08-24T18:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76055",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76055:2026-08-24T14:49"
-  },
-  {
-   "ts": "2026-08-24T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76054 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-76054 📢 Source: BlackDuck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Invocation of Process Using Visible Sensitive Information in Black Duck blackduck-c-cpp ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76054",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76054:2026-08-24T14:49"
-  },
-  {
-   "ts": "2026-08-24T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-39915 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-39915 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True TIM Flow before 26.0.6 contains a CRLF injection vulnerability that allows remote attacke",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-39915",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-39915:2026-08-24T14:49"
-  },
-  {
-   "ts": "2026-08-24T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-39914 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-39914 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True TIM Flow before 26.0.6 contains an improper authorization vulnerability that allows any a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-39914",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-39914:2026-08-24T14:49"
-  },
-  {
-   "ts": "2026-08-24T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78385 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-78385 📢 Source: CIRCL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True RansomLook contains insufficient resource validation in the analysis PDF generation functiona",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78385",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78385:2026-08-24T14:19"
-  },
-  {
-   "ts": "2026-08-24T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78367 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-78367 📢 Source: redhat 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A flaw was found in rpmbuild. When rpmbuild processes a crafted tarball in tarball mode, a sp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78367",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78367:2026-08-24T14:19"
-  },
-  {
-   "ts": "2026-08-24T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-67602 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-67602 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True phpIPAM before 1.8.2 contains an authentication bypass vulnerability in the REST API ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67602",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67602:2026-08-24T14:19"
   }
  ]
 }
