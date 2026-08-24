@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-24T19:49:07+00:00",
+ "generated_at": "2026-08-24T20:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78555 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-78555 📢 Source: CIRCL 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True RansomLook exposed complete API keys in the HTML source of the authenticated /admin/apikey",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78555",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78555:2026-08-24T20:19"
+  },
   {
    "ts": "2026-08-24T19:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2025-68825",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-68825:2026-08-24T16:19"
-  },
-  {
-   "ts": "2026-08-24T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71364 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-71364 📢 Source: redhat 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A path traversal vulnerability was found in AWX's project archive extraction. The project_ar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71364",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71364:2026-08-24T15:49"
   }
  ]
 }
