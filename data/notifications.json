@@ -1,7 +1,177 @@
 {
- "generated_at": "2026-08-24T17:19:09+00:00",
+ "generated_at": "2026-08-24T17:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-9254 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-9254 📢 Source: TPLink 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False An unauthenticated OS command injection vulnerability exists in the parental control functio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9254",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9254:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16348 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-16348 📢 Source: TPLink 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An authenticated command injection vulnerability in TP-Link Archer BE800 V1 allows an attac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16348",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16348:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71922 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-71922 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorSwitch models contain a pre-authentication null pointer dereference",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71922",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71922:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-71921 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-71921 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Multiple DrayTek VigorSwitch models contain a pre-authentication command injection vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71921",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71921:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71919 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-71919 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the sysr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71919",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71919:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71918 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-71918 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the webB",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71918",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71918:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71917 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-71917 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the ping",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71917",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71917:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71916 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-71916 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the comm",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71916",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71916:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71915 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-71915 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the json",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71915",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71915:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-71914 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-71914 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Multiple DrayTek VigorAP models contain a command injection vulnerability in the dray",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71914",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71914:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71913 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-71913 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorAP models contain a command injection vulnerability in the upload_s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71913",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71913:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71912 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-71912 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorAP models contain a buffer overflow vulnerability in the apautotest",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71912",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71912:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71911 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-71911 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorAP models contain a buffer overflow vulnerability in the setLan fun",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71911",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71911:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71910 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-71910 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorAP models contain a command injection vulnerability in the apautote",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71910",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71910:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71909 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-71909 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorAP models contain a command injection vulnerability in the InquierT",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71909",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71909:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71908 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-71908 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorAP models contain a command injection vulnerability in the mesh_sta",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71908",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71908:2026-08-24T17:49"
+  },
+  {
+   "ts": "2026-08-24T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71907 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-71907 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorAP models contain a command injection vulnerability in the setcamse",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71907",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71907:2026-08-24T17:49"
+  },
   {
    "ts": "2026-08-24T17:19:07+00:00",
    "level": "general",
@@ -331,176 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78380",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78380:2026-08-24T13:49"
-  },
-  {
-   "ts": "2026-08-24T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78376 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-78376 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in WebKitGTK. Processing malicious web content can cause a use-after-free i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78376",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78376:2026-08-24T13:49"
-  },
-  {
-   "ts": "2026-08-24T13:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-59564 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-59564 📢 Source: Zscaler 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True An authentication bypass issue exists in communications between affected versions of th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59564",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59564:2026-08-24T13:49"
-  },
-  {
-   "ts": "2026-08-24T13:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-78372 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-78372 📢 Source: CIRCL 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True RansomLook does not consistently enforce authorization checks when accessing groups, mark",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78372",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78372:2026-08-24T13:49"
-  },
-  {
-   "ts": "2026-08-24T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78369 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-78369 📢 Source: CIRCL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True RansomLook contains a missing authentication vulnerability in the /admin/crypto/group/new end",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78369",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78369:2026-08-24T13:49"
-  },
-  {
-   "ts": "2026-08-24T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76848 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-76848 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True TypeORM's SelectQueryBuilder.distinctOn accepts an array of strings and stores it on the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76848",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76848:2026-08-24T13:49"
-  },
-  {
-   "ts": "2026-08-24T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76847 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-76847 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False act starts an HTTP Artifacts V4 backend whenever a workflow uses actions/upload-artifact",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76847",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76847:2026-08-24T13:49"
-  },
-  {
-   "ts": "2026-08-24T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76844 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-76844 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True webpack-dev-middleware resolves a request to a local file in getFilenameFromUrl by testin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76844",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76844:2026-08-24T13:49"
-  },
-  {
-   "ts": "2026-08-24T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76843 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-76843 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False The official Flair wheels for 0.15.0 and 0.15.1 still contain flair/models/ clustering.p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76843",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76843:2026-08-24T13:49"
-  },
-  {
-   "ts": "2026-08-24T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76842 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-76842 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The Mercado Pago Node.js SDK interpolates caller-supplied identifiers into API request pa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76842",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76842:2026-08-24T13:49"
-  },
-  {
-   "ts": "2026-08-24T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76841 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-76841 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Xinference loads models with Hugging Face remote code execution unconditionally enabled, ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76841",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76841:2026-08-24T13:49"
-  },
-  {
-   "ts": "2026-08-24T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21751 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-21751 📢 Source: HCL 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True HCL Hive is affected by a cryptographic primitive with a risky implementation which could allow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21751",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21751:2026-08-24T13:49"
-  },
-  {
-   "ts": "2026-08-24T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-78365 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-78365 📢 Source: Secur0 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key in the supplier API in Roskus Prospero ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78365",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78365:2026-08-24T13:19"
-  },
-  {
-   "ts": "2026-08-24T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21756 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-21756 📢 Source: HCL 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True HCL Hive is affected by a broken access control vulnerability which could allow an attacker or ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21756",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21756:2026-08-24T13:19"
-  },
-  {
-   "ts": "2026-08-24T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-6017 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-6017 📢 Source: CERT-PL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Firmware in KAON PG5298A and PG5298B routers allow an unauthenticated user to query a speci",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6017",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6017:2026-08-24T11:49"
-  },
-  {
-   "ts": "2026-08-24T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-63080 (CVSS 8.5)",
-   "body": "🚨 CVE-2025-63080 📢 Source: CERT-PL 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Firmware in KAON PG5298A and PG5298B routers allow an authenticated user to send crafted J",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-63080",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-63080:2026-08-24T11:49"
-  },
-  {
-   "ts": "2026-08-24T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Replicating Reddit's best feature on other forums",
-   "body": "Lobsters · 점수 51",
-   "link": "https://xavd.id/blog/post/highlighting-users/",
-   "source": "Lobsters",
-   "id": "community:https://xavd.id/blog/post/highlighting-users/:2026-08-24T11:49"
-  },
-  {
-   "ts": "2026-08-24T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GTA 6 leaks prompt Take-Two to subpoena Microsoft for Window",
-   "body": "Lemmy · technology · 점수 289",
-   "link": "https://www.tomshardware.com/video-games/console-gaming/take-two-subpoenas-microsoft-for-windows-device-ids-of-everyone-in-three-discord-servers-in-gta-6-leak-hunt",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/video-games/console-gaming/take-two-subpoenas-microsoft-for-windows-device-ids-of-everyone-in-three-discord-servers-in-gta-6-leak-hunt:2026-08-24T11:19"
   }
  ]
 }
