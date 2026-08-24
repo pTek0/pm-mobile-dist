@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-24T08:19:08+00:00",
+ "generated_at": "2026-08-24T08:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78306 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-78306 📢 Source: CIRCL 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False DJI drones expose an unauthenticated DUML command interface over Bluetooth that allows an at",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78306",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78306:2026-08-24T08:49"
+  },
   {
    "ts": "2026-08-24T07:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cybernews.com/privacy/darth-vader-joins-the-flock-side-in-san-diego-city-hall/",
    "source": "Lemmy · technology",
    "id": "community:https://cybernews.com/privacy/darth-vader-joins-the-flock-side-in-san-diego-city-hall/:2026-08-23T00:49"
-  },
-  {
-   "ts": "2026-08-23T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] You should never be angry at work",
-   "body": "Lobsters · 점수 59",
-   "link": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
-   "source": "Lobsters",
-   "id": "community:https://www.seangoedecke.com/you-should-never-be-angry-at-work/:2026-08-23T00:49"
   }
  ]
 }
