@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-24T03:49:07+00:00",
+ "generated_at": "2026-08-24T04:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T04:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78213 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-78213 📢 Source: twcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Heptabase developed by Hepta Platforms, Inc. has a Stored Cross-Site Scripting vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78213",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78213:2026-08-24T04:19"
+  },
+  {
+   "ts": "2026-08-24T04:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78212 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-78212 📢 Source: twcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True 4MOSAn developed by 4MOSAn Security Technology Co., Ltd. has an Arbitrary File Read vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78212",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78212:2026-08-24T04:19"
+  },
+  {
+   "ts": "2026-08-24T04:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78211 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-78211 📢 Source: twcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True 4MOSAn GCB Doctor developed by 4MOSAn Security Technology has a OS Command Injection vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78211",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78211:2026-08-24T04:19"
+  },
   {
    "ts": "2026-08-24T03:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://twitter.com/moxie/status/2091218652133732491",
    "source": "Hacker News",
    "id": "community:https://twitter.com/moxie/status/2091218652133732491:2026-08-22T23:49"
-  },
-  {
-   "ts": "2026-08-22T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A Kantian Critique of \"Sorry\" by Justin Bieber",
-   "body": "Hacker News · 점수 188",
-   "link": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-   "source": "Hacker News",
-   "id": "community:https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/:2026-08-22T23:49"
-  },
-  {
-   "ts": "2026-08-22T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Hister – A private, full content search index that you contr",
-   "body": "Hacker News · 점수 187",
-   "link": "https://hister.org/",
-   "source": "Hacker News",
-   "id": "community:https://hister.org/:2026-08-22T23:49"
-  },
-  {
-   "ts": "2026-08-22T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A Friendly Introduction to Racket",
-   "body": "Hacker News · 점수 172",
-   "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-   "source": "Hacker News",
-   "id": "community:https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/:2026-08-22T23:49"
   }
  ]
 }
