@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-24T19:19:08+00:00",
+ "generated_at": "2026-08-24T19:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78553 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-78553 📢 Source: CIRCL 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False RansomLook created its Flask session-signing key without explicitly restricting the file permi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78553",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78553:2026-08-24T19:49"
+  },
+  {
+   "ts": "2026-08-24T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78551 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-78551 📢 Source: CIRCL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True RansomLook contains multiple weaknesses in its authentication endpoint that allow an unauthen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78551",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78551:2026-08-24T19:49"
+  },
+  {
+   "ts": "2026-08-24T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-61419 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-61419 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell ThinOS 10, versions prior to 2605_10.2518, contain an Improper Access Control vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-61419",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-61419:2026-08-24T19:49"
+  },
+  {
+   "ts": "2026-08-24T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71511 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-71511 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dolibarr before 24.0.0 contains a sensitive data exposure vulnerability in the Members RE",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71511",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71511:2026-08-24T19:49"
+  },
+  {
+   "ts": "2026-08-24T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71510 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-71510 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dolibarr before 24.0.0 contains a SQL injection vulnerability in the users REST API that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71510",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71510:2026-08-24T19:49"
+  },
   {
    "ts": "2026-08-24T19:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71364",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71364:2026-08-24T15:49"
-  },
-  {
-   "ts": "2026-08-24T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21752 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-21752 📢 Source: HCL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True HCL Hive is affected by a use of vulnerable third-party components which could allow an attacke",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21752",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21752:2026-08-24T15:49"
-  },
-  {
-   "ts": "2026-08-24T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78414 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-78414 📢 Source: NX 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False Cross-site scripting in the Web Administration interface of Network Optix Nx Witness VMS before v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78414",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78414:2026-08-24T15:19"
-  },
-  {
-   "ts": "2026-08-24T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78391 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-78391 📢 Source: CIRCL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True RansomLook contains a stored cross-site scripting (XSS) vulnerability in the cryptocurrency w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78391",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78391:2026-08-24T14:49"
-  },
-  {
-   "ts": "2026-08-24T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-78387 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-78387 📢 Source: CIRCL 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True RansomLook contains an authorization weakness in the web-based configuration editor expos",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78387",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78387:2026-08-24T14:49"
-  },
-  {
-   "ts": "2026-08-24T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76055 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-76055 📢 Source: BlackDuck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Improper Neutralization of Special Elements used in an OS Command in the package manager",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76055",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76055:2026-08-24T14:49"
   }
  ]
 }
