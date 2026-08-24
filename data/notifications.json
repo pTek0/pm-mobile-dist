@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-24T16:49:09+00:00",
+ "generated_at": "2026-08-24T17:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15469 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-15469 📢 Source: TPLink 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False The use of hard-coded cryptographic key vulnerability has been identified in the mesh funct",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15469",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15469:2026-08-24T17:19"
+  },
+  {
+   "ts": "2026-08-24T17:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-36939 (CVSS 10.0)",
+   "body": "🚨 CVE-2025-36939 📢 Source: Google_Devices 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Multiple vulnerabilities exist in OpenThread's handling of MLE packets. An authen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-36939",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-36939:2026-08-24T17:19"
+  },
   {
    "ts": "2026-08-24T16:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://www.tomshardware.com/video-games/console-gaming/take-two-subpoenas-microsoft-for-windows-device-ids-of-everyone-in-three-discord-servers-in-gta-6-leak-hunt",
    "source": "Lemmy · technology",
    "id": "community:https://www.tomshardware.com/video-games/console-gaming/take-two-subpoenas-microsoft-for-windows-device-ids-of-everyone-in-three-discord-servers-in-gta-6-leak-hunt:2026-08-24T11:19"
-  },
-  {
-   "ts": "2026-08-24T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] An Introduction to Canvas in GNU Emacs",
-   "body": "Lobsters · 점수 70",
-   "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
-   "source": "Lobsters",
-   "id": "community:https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html:2026-08-24T11:19"
-  },
-  {
-   "ts": "2026-08-24T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] World's largest open library calls for volunteers to scan an",
-   "body": "Lemmy · technology · 점수 61",
-   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/worlds-largest-open-library-calls-for-volunteers-to-scan-and-preserve-physical-books-as-ai-companies-buy-scan-and-destroy-them-annas-archive-says-time-is-running-out-as-knowledge-is-permanently-monopolized-on-private-servers",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/artificial-intelligence/worlds-largest-open-library-calls-for-volunteers-to-scan-and-preserve-physical-books-as-ai-companies-buy-scan-and-destroy-them-annas-archive-says-time-is-running-out-as-knowledge-is-permanently-monopolized-on-private-servers:2026-08-24T11:19"
   }
  ]
 }
