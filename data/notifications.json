@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-08-24T00:19:07+00:00",
+ "generated_at": "2026-08-24T00:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78209 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-78209 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True exceljs-hardened versions before 5.0.0 fail to neutralize leading equals, plus, minus, or",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78209",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78209:2026-08-24T00:49"
+  },
+  {
+   "ts": "2026-08-24T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78208 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-78208 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True exceljs-hardened before 5.0.0 contains a path traversal vulnerability in the Workbook.add",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78208",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78208:2026-08-24T00:49"
+  },
+  {
+   "ts": "2026-08-24T00:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78207 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-78207 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True exceljs-hardened before 5.0.0 contains a prototype pollution vulnerability in the dee",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78207",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78207:2026-08-24T00:49"
+  },
+  {
+   "ts": "2026-08-24T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78206 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-78206 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True exceljs-hardened before 5.0.0 decompresses all entries from supplied xlsx archives into m",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78206",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78206:2026-08-24T00:49"
+  },
+  {
+   "ts": "2026-08-24T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78203 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-78203 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Ghostwriter before 7.1.2 fails to validate template ownership in the report template swap",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78203",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78203:2026-08-24T00:49"
+  },
+  {
+   "ts": "2026-08-24T00:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: InsecureBankv2",
+   "body": "정적분석 보고서 완료 — **정체 지속(마지막 활동 07-20 → 2026-08-24 기준 35일 경과)**",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: InsecureBankv2:2026-08-24T00:49"
+  },
+  {
+   "ts": "2026-08-24T00:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pentest-toolkit",
+   "body": "쉐도우 모드(관찰만) — **정체 지속(마지막 세션 07-17 → 2026-08-24 기준 38일 경과, 지난 7일 커밋 0)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→⏸",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pentest-toolkit:2026-08-24T00:49"
+  },
   {
    "ts": "2026-08-24T00:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
    "source": "Hacker News",
    "id": "community:https://www.bbc.com/news/articles/cvgvyy4x2mvo:2026-08-22T23:19"
-  },
-  {
-   "ts": "2026-08-22T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Rust Glancer: Rust LSP using 100x less RAM",
-   "body": "Hacker News · 점수 392",
-   "link": "https://rust-glancer.github.io/blog/hello-world/",
-   "source": "Hacker News",
-   "id": "community:https://rust-glancer.github.io/blog/hello-world/:2026-08-22T23:19"
-  },
-  {
-   "ts": "2026-08-22T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] 80% of developers find AI coding more addictive than helpful",
-   "body": "Lemmy · technology · 점수 384",
-   "link": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/:2026-08-22T23:19"
-  },
-  {
-   "ts": "2026-08-22T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] \"This guy knows his stuff\"",
-   "body": "Lemmy · programming.dev · 점수 289",
-   "link": "https://lemmy.world/pictrs/image/7e680112-e4f0-4183-920b-48a2a09d05f0.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/7e680112-e4f0-4183-920b-48a2a09d05f0.jpeg:2026-08-22T23:19"
-  },
-  {
-   "ts": "2026-08-22T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] ElevenLabs, TwelveLabs, ThirteenLabs",
-   "body": "Hacker News · 점수 274",
-   "link": "https://quantumi.sh/public/labs.html",
-   "source": "Hacker News",
-   "id": "community:https://quantumi.sh/public/labs.html:2026-08-22T23:19"
-  },
-  {
-   "ts": "2026-08-22T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70626 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-70626 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False NLTK versions before 3.9.4 contain a symlink escape vulnerability in CorpusReader.open (",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70626",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70626:2026-08-22T14:49"
-  },
-  {
-   "ts": "2026-08-22T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-68766 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-68766 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False hashcat fails to restrict command-line options when parsing restore files, allowing atta",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68766",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68766:2026-08-22T14:49"
-  },
-  {
-   "ts": "2026-08-22T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66393 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-66393 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True NLTK versions before 3.9.4 contain an unbounded recursion vulnerability in JSONTaggedDeco",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66393",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66393:2026-08-22T14:49"
   }
  ]
 }
