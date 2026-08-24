@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-08-24T13:49:10+00:00",
+ "generated_at": "2026-08-24T14:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78385 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-78385 📢 Source: CIRCL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True RansomLook contains insufficient resource validation in the analysis PDF generation functiona",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78385",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78385:2026-08-24T14:19"
+  },
+  {
+   "ts": "2026-08-24T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78367 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-78367 📢 Source: redhat 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A flaw was found in rpmbuild. When rpmbuild processes a crafted tarball in tarball mode, a sp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78367",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78367:2026-08-24T14:19"
+  },
+  {
+   "ts": "2026-08-24T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-67602 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-67602 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True phpIPAM before 1.8.2 contains an authentication bypass vulnerability in the REST API ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67602",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67602:2026-08-24T14:19"
+  },
+  {
+   "ts": "2026-08-24T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-59568 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-59568 📢 Source: Zscaler 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Multiple vulnerabilities on affected versions of Zscaler Client Connector allow remote ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59568",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59568:2026-08-24T14:19"
+  },
+  {
+   "ts": "2026-08-24T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59567 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-59567 📢 Source: Zscaler 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Multiple vulnerabilities on affected versions of Zscaler Client Connector allow local priv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59567",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59567:2026-08-24T14:19"
+  },
+  {
+   "ts": "2026-08-24T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59566 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-59566 📢 Source: Zscaler 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False A locally exploitable buffer overflow bug can cause a local denial-of-service attack on af",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59566",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59566:2026-08-24T14:19"
+  },
+  {
+   "ts": "2026-08-24T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59565 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-59565 📢 Source: Zscaler 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A remotely exploitable buffer overflow bug can cause a local and kernel denial-of-service a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59565",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59565:2026-08-24T14:19"
+  },
   {
    "ts": "2026-08-24T13:49:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78212",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78212:2026-08-24T04:19"
-  },
-  {
-   "ts": "2026-08-24T04:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-78211 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-78211 📢 Source: twcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True 4MOSAn GCB Doctor developed by 4MOSAn Security Technology has a OS Command Injection vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78211",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78211:2026-08-24T04:19"
-  },
-  {
-   "ts": "2026-08-24T03:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19200 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-19200 📢 Source: rapid7 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True The Velociraptor verify() VQL function allows a user to verify an artifact for syntatic and ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19200",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19200:2026-08-24T03:49"
-  },
-  {
-   "ts": "2026-08-24T01:49:09+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-desktop",
-   "body": "**★ 2026-08-24 — pm-api 0.15.0 라이브 토폴로지 백엔드(계약+엔드포인트, ptek-labs)**: 자동 라이브 토폴로지 다이어그램의 데이터 계약 **topology/1**([정본](PM-app",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-desktop:2026-08-24T01:49"
-  },
-  {
-   "ts": "2026-08-24T00:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78209 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-78209 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True exceljs-hardened versions before 5.0.0 fail to neutralize leading equals, plus, minus, or",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78209",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78209:2026-08-24T00:49"
-  },
-  {
-   "ts": "2026-08-24T00:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78208 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-78208 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True exceljs-hardened before 5.0.0 contains a path traversal vulnerability in the Workbook.add",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78208",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78208:2026-08-24T00:49"
-  },
-  {
-   "ts": "2026-08-24T00:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-78207 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-78207 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True exceljs-hardened before 5.0.0 contains a prototype pollution vulnerability in the dee",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78207",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78207:2026-08-24T00:49"
-  },
-  {
-   "ts": "2026-08-24T00:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78206 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-78206 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True exceljs-hardened before 5.0.0 decompresses all entries from supplied xlsx archives into m",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78206",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78206:2026-08-24T00:49"
   }
  ]
 }
