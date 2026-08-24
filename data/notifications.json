@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-24T17:49:09+00:00",
+ "generated_at": "2026-08-24T18:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T18:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76835 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-76835 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True OAuth2 Proxy honours a client-supplied X-Forwarded-Uri header when deciding whether a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76835",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76835:2026-08-24T18:19"
+  },
+  {
+   "ts": "2026-08-24T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76073 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76073 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Label Studio does not scope the annotation detail endpoint to the requesting user's organ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76073",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76073:2026-08-24T18:19"
+  },
+  {
+   "ts": "2026-08-24T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76072 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-76072 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True The Continue CLI applies an incomplete denylist as its only barrier to destructive shell ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76072",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76072:2026-08-24T18:19"
+  },
+  {
+   "ts": "2026-08-24T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76838 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-76838 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Hi.Events validates a webhook destination only when it is registered, never when it is us",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76838",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76838:2026-08-24T18:19"
+  },
+  {
+   "ts": "2026-08-24T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76836 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76836 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True AzuraCast exposes the Liquidsoap custom configuration fields through an endpoint that doe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76836",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76836:2026-08-24T18:19"
+  },
   {
    "ts": "2026-08-24T17:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-59568",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59568:2026-08-24T14:19"
-  },
-  {
-   "ts": "2026-08-24T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59567 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-59567 📢 Source: Zscaler 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Multiple vulnerabilities on affected versions of Zscaler Client Connector allow local priv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59567",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59567:2026-08-24T14:19"
-  },
-  {
-   "ts": "2026-08-24T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59566 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-59566 📢 Source: Zscaler 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False A locally exploitable buffer overflow bug can cause a local denial-of-service attack on af",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59566",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59566:2026-08-24T14:19"
-  },
-  {
-   "ts": "2026-08-24T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59565 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-59565 📢 Source: Zscaler 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A remotely exploitable buffer overflow bug can cause a local and kernel denial-of-service a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59565",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59565:2026-08-24T14:19"
-  },
-  {
-   "ts": "2026-08-24T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78381 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-78381 📢 Source: CIRCL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True RansomLook contains a path traversal vulnerability in the handling of the screen field associ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78381",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78381:2026-08-24T13:49"
-  },
-  {
-   "ts": "2026-08-24T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78380 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-78380 📢 Source: CIRCL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True RansomLook fails to enforce the privacy status of ransomware groups and markets when distribu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78380",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78380:2026-08-24T13:49"
   }
  ]
 }
