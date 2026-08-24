@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-24T10:19:07+00:00",
+ "generated_at": "2026-08-24T10:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10582 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-10582 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False Hugo's security.http.urls allowlist is the only control on outbound fetches made by reso",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10582",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10582:2026-08-24T10:49"
+  },
+  {
+   "ts": "2026-08-24T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76172 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-76172 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False fast-uri is a URI parser for Node.js. During parsing it runs a legacy decoding pass over th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76172",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76172:2026-08-24T10:49"
+  },
   {
    "ts": "2026-08-24T10:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
    "source": "Hacker News",
    "id": "community:https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917:2026-08-23T11:19"
-  },
-  {
-   "ts": "2026-08-23T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] typ.ing",
-   "body": "Hacker News · 점수 280",
-   "link": "https://typ.ing/",
-   "source": "Hacker News",
-   "id": "community:https://typ.ing/:2026-08-23T11:19"
-  },
-  {
-   "ts": "2026-08-23T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] RF Cafe",
-   "body": "Hacker News · 점수 205",
-   "link": "https://www.rfcafe.com/",
-   "source": "Hacker News",
-   "id": "community:https://www.rfcafe.com/:2026-08-23T11:19"
   }
  ]
 }
