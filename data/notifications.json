@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-24T09:49:09+00:00",
+ "generated_at": "2026-08-24T10:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75975 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-75975 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False fast-uri is a URI parser for Node.js. Its custom parser for bracketed IPv6 literals does no",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75975",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75975:2026-08-24T10:19"
+  },
   {
    "ts": "2026-08-24T09:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.rfcafe.com/",
    "source": "Hacker News",
    "id": "community:https://www.rfcafe.com/:2026-08-23T11:19"
-  },
-  {
-   "ts": "2026-08-23T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A week of using Codex more than Claude",
-   "body": "Hacker News · 점수 199",
-   "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-   "source": "Hacker News",
-   "id": "community:https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/:2026-08-23T11:19"
   }
  ]
 }
