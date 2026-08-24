@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-24T12:49:07+00:00",
+ "generated_at": "2026-08-24T13:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78365 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-78365 📢 Source: Secur0 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key in the supplier API in Roskus Prospero ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78365",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78365:2026-08-24T13:19"
+  },
+  {
+   "ts": "2026-08-24T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-21756 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-21756 📢 Source: HCL 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True HCL Hive is affected by a broken access control vulnerability which could allow an attacker or ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21756",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21756:2026-08-24T13:19"
+  },
   {
    "ts": "2026-08-24T11:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://games.gg/news/sony-eula-email-psblackout-boycott/",
    "source": "Lemmy · technology",
    "id": "community:https://games.gg/news/sony-eula-email-psblackout-boycott/:2026-08-23T23:19"
-  },
-  {
-   "ts": "2026-08-23T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Thinking in Python",
-   "body": "Hacker News · 점수 251",
-   "link": "https://thinkinginpython.com/",
-   "source": "Hacker News",
-   "id": "community:https://thinkinginpython.com/:2026-08-23T23:19"
-  },
-  {
-   "ts": "2026-08-23T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Uber hit with a nearly $1 billion fine for automatically dea",
-   "body": "Lemmy · technology · 점수 188",
-   "link": "https://www.engadget.com/2242192/uber-hit-with-1-billion-fine-for-automatically-deactivating-drivers-in-europe/?amp%3Butm_campaign=Echobox-Engadget&amp%3Butm_medium=Social-Distribution&amp%3Butm_source=Twitter",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.engadget.com/2242192/uber-hit-with-1-billion-fine-for-automatically-deactivating-drivers-in-europe/?amp%3Butm_campaign=Echobox-Engadget&amp%3Butm_medium=Social-Distribution&amp%3Butm_source=Twitter:2026-08-23T23:19"
   }
  ]
 }
