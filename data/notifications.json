@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-24T18:19:09+00:00",
+ "generated_at": "2026-08-24T18:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78541 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-78541 📢 Source: TPLink 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A stored OS command injection vulnerability exists in the parent-control module of TP-Link ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78541",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78541:2026-08-24T18:49"
+  },
   {
    "ts": "2026-08-24T18:19:08+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-67602",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67602:2026-08-24T14:19"
-  },
-  {
-   "ts": "2026-08-24T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-59568 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-59568 📢 Source: Zscaler 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Multiple vulnerabilities on affected versions of Zscaler Client Connector allow remote ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59568",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59568:2026-08-24T14:19"
   }
  ]
 }
