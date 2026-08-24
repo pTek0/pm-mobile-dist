@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-24T16:19:10+00:00",
+ "generated_at": "2026-08-24T16:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78465 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-78465 📢 Source: redhat 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the file-pcx plugin in GIMP, affecting 32-bit builds only. When processin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78465",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78465:2026-08-24T16:49"
+  },
+  {
+   "ts": "2026-08-24T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77915 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-77915 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True rConfig 8.0.0 before 8.2.13 contains an authentication bypass vulnerability that allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77915",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77915:2026-08-24T16:49"
+  },
+  {
+   "ts": "2026-08-24T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77914 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-77914 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True rConfig before 8.2.13 contains a path traversal vulnerability that allows authenticated u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77914",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77914:2026-08-24T16:49"
+  },
+  {
+   "ts": "2026-08-24T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18349 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-18349 📢 Source: Microchip 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Improper protection against voltage and clock glitches vulnerability in Microchip SAMA5D",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18349",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18349:2026-08-24T16:49"
+  },
   {
    "ts": "2026-08-24T16:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/worlds-largest-open-library-calls-for-volunteers-to-scan-and-preserve-physical-books-as-ai-companies-buy-scan-and-destroy-them-annas-archive-says-time-is-running-out-as-knowledge-is-permanently-monopolized-on-private-servers",
    "source": "Lemmy · technology",
    "id": "community:https://www.tomshardware.com/tech-industry/artificial-intelligence/worlds-largest-open-library-calls-for-volunteers-to-scan-and-preserve-physical-books-as-ai-companies-buy-scan-and-destroy-them-annas-archive-says-time-is-running-out-as-knowledge-is-permanently-monopolized-on-private-servers:2026-08-24T11:19"
-  },
-  {
-   "ts": "2026-08-24T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Amazon kept shutting down my tablet, so I spent $266 on four",
-   "body": "Lobsters · 점수 58",
-   "link": "https://ericpardee.github.io/fire-hd-ownership/",
-   "source": "Lobsters",
-   "id": "community:https://ericpardee.github.io/fire-hd-ownership/:2026-08-24T11:19"
-  },
-  {
-   "ts": "2026-08-24T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Court Rejects Fair Use Claim, Orders YouTube to Unmask Anime",
-   "body": "Lemmy · technology · 점수 56",
-   "link": "https://torrentfreak.com/court-rejects-fair-use-claim-orders-youtube-to-unmask-anime-recap-channels/",
-   "source": "Lemmy · technology",
-   "id": "community:https://torrentfreak.com/court-rejects-fair-use-claim-orders-youtube-to-unmask-anime-recap-channels/:2026-08-24T11:19"
-  },
-  {
-   "ts": "2026-08-24T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-10582 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-10582 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False Hugo's security.http.urls allowlist is the only control on outbound fetches made by reso",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10582",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10582:2026-08-24T10:49"
-  },
-  {
-   "ts": "2026-08-24T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76172 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-76172 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False fast-uri is a URI parser for Node.js. During parsing it runs a legacy decoding pass over th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76172",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76172:2026-08-24T10:49"
   }
  ]
 }
