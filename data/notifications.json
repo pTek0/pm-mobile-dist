@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-24T07:19:08+00:00",
+ "generated_at": "2026-08-24T07:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78255 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-78255 📢 Source: CIRCL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The HTTP media server running on DJI drones serves stored photos and videos through the `/v2`",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78255",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78255:2026-08-24T07:49"
+  },
+  {
+   "ts": "2026-08-24T07:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78251 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-78251 📢 Source: CIRCL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True DJI drones contain an FTP service that uses hardcoded credentials shared across affected ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78251",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78251:2026-08-24T07:49"
+  },
+  {
+   "ts": "2026-08-24T07:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-mobile",
+   "body": "**★ v0.32.0 pTek 네이밍 표준 적용 스테이징(2026-08-24, 발행=총괄 PM)** — 레일 탭(Capital/Counsel/Labs/Studio)·조직도(부문 브랜드)·대화창 타이틀(Command·",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-mobile:2026-08-24T07:49"
+  },
+  {
+   "ts": "2026-08-24T07:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-desktop",
+   "body": "**★ v0.13.0 pTek 네이밍 표준 적용 스테이징(2026-08-24, 발행=총괄 PM · pm-api 0.16.0 재시작 포함)** — 레일 탭 콜사인·총괄=Command·도메인 PM/PL 타이틀 콜사인 병",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-desktop:2026-08-24T07:49"
+  },
   {
    "ts": "2026-08-24T07:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
    "source": "Lobsters",
    "id": "community:https://www.seangoedecke.com/you-should-never-be-angry-at-work/:2026-08-23T00:49"
-  },
-  {
-   "ts": "2026-08-23T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The FTC is cracking down on companies that charge you a pers",
-   "body": "Lemmy · technology · 점수 171",
-   "link": "https://www.consumerreports.org/money/prices-price-comparison/personalized-pricing-surveillance-ftc-policy-a9891636455/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.consumerreports.org/money/prices-price-comparison/personalized-pricing-surveillance-ftc-policy-a9891636455/:2026-08-23T00:19"
-  },
-  {
-   "ts": "2026-08-23T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] New MCP Roadmap",
-   "body": "Hacker News · 점수 167",
-   "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-   "source": "Hacker News",
-   "id": "community:https://blog.modelcontextprotocol.io/posts/mcp-roadmap/:2026-08-23T00:19"
-  },
-  {
-   "ts": "2026-08-23T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Reddit Almost Disappears from ChatGPT Answers as Search Cita",
-   "body": "Lemmy · technology · 점수 160",
-   "link": "https://promptwatch.com/data/reddit-citations-are-dropping-in-chatgpt",
-   "source": "Lemmy · technology",
-   "id": "community:https://promptwatch.com/data/reddit-citations-are-dropping-in-chatgpt:2026-08-23T00:19"
-  },
-  {
-   "ts": "2026-08-23T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Texas A&M physics prof writes: In ten years, light diffused ",
-   "body": "Lemmy · technology · 점수 159",
-   "link": "https://www.houstonchronicle.com/opinion/outlook/article/satellites-night-sky-stars-22397123.php?amp%3Butm_medium=copy-url-link&amp%3Butm_campaign=article-share&amp%3Bhash=aHR0cHM6Ly93d3cuaG91c3RvbmNocm9uaWNsZS5jb20vb3Bpbmlvbi9vdXRsb29rL2FydGljbGUvc2F0ZWxsaXRlcy1uaWdodC1za3ktc3RhcnMtMjIzOTcxMjMucGhw&amp%3Btime=MTc4NzM0NDA4MzI3NA%3D%3D&amp%3Brid=OTAwMzBiZWUtODdhOS00NzI4LTllOGUtNjg1MmM0MGMzNDRm&amp%3Bsharecount=NQ%3D%3D",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.houstonchronicle.com/opinion/outlook/article/satellites-night-sky-stars-22397123.php?amp%3Butm_medium=copy-url-link&amp%3Butm_campaign=article-share&amp%3Bhash=aHR0cHM6Ly93d3cuaG91c3RvbmNocm9uaWNsZS5jb20vb3Bpbmlvbi9vdXRsb29rL2FydGljbGUvc2F0ZWxsaXRlcy1uaWdodC1za3ktc3RhcnMtMjIzOTcxMjMucGhw&amp%3Btime=MTc4NzM0NDA4MzI3NA%3D%3D&amp%3Brid=OTAwMzBiZWUtODdhOS00NzI4LTllOGUtNjg1MmM0MGMzNDRm&amp%3Bsharecount=NQ%3D%3D:2026-08-23T00:19"
   }
  ]
 }
