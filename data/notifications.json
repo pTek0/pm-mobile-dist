@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-24T15:19:07+00:00",
+ "generated_at": "2026-08-24T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71364 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-71364 📢 Source: redhat 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A path traversal vulnerability was found in AWX's project archive extraction. The project_ar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71364",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71364:2026-08-24T15:49"
+  },
+  {
+   "ts": "2026-08-24T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-21752 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-21752 📢 Source: HCL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True HCL Hive is affected by a use of vulnerable third-party components which could allow an attacke",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21752",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21752:2026-08-24T15:49"
+  },
   {
    "ts": "2026-08-24T15:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78306",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78306:2026-08-24T08:49"
-  },
-  {
-   "ts": "2026-08-24T07:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78255 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-78255 📢 Source: CIRCL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The HTTP media server running on DJI drones serves stored photos and videos through the `/v2`",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78255",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78255:2026-08-24T07:49"
-  },
-  {
-   "ts": "2026-08-24T07:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-78251 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-78251 📢 Source: CIRCL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True DJI drones contain an FTP service that uses hardcoded credentials shared across affected ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78251",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78251:2026-08-24T07:49"
   }
  ]
 }
