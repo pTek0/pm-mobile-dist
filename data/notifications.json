@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-24T20:49:08+00:00",
+ "generated_at": "2026-08-24T21:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-24T21:19:10+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-7455 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-7455 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted FLT file, when parsed through Autodesk 3ds Max, can force an Out-of-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7455",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7455:2026-08-24T21:19"
+  },
+  {
+   "ts": "2026-08-24T21:19:10+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19568 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-19568 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted SVG file, when parsed through Autodesk 3ds Max, can force a Memory ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19568",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19568:2026-08-24T21:19"
+  },
+  {
+   "ts": "2026-08-24T21:19:10+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16783 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-16783 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted ABC file, when parsed through Autodesk 3ds Max, can force an Out-of",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16783",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16783:2026-08-24T21:19"
+  },
   {
    "ts": "2026-08-24T20:19:07+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76070",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76070:2026-08-24T16:19"
-  },
-  {
-   "ts": "2026-08-24T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71366 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-71366 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A server-side request forgery (SSRF) vulnerability was found in multiple AWX notification ba",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71366",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71366:2026-08-24T16:19"
-  },
-  {
-   "ts": "2026-08-24T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-13212 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-13212 📢 Source: zephyr 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The Zephyr virtio driver does not validate the descriptor-chain head id that the virtio dev",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13212",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13212:2026-08-24T16:19"
-  },
-  {
-   "ts": "2026-08-24T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-68825 (CVSS 7.5)",
-   "body": "🚨 CVE-2025-68825 📢 Source: HCL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True HCL Hive is affected by incorrect default permissions which could allow an attacker unauthorize",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-68825",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-68825:2026-08-24T16:19"
   }
  ]
 }
