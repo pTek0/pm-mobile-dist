@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-25T14:19:08+00:00",
+ "generated_at": "2026-08-25T14:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-25T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-16286 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-16286 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Unrestricted upload of file with dangerous type vulnerability in TRtek Technological Pr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16286",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16286:2026-08-25T14:49"
+  },
   {
    "ts": "2026-08-25T14:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-67578",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67578:2026-08-25T08:19"
-  },
-  {
-   "ts": "2026-08-25T08:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-59769 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-59769 📢 Source: jpcert 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False FA-50 all versions contain hard-coded credentials. An attacker, who knows the credentia",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59769",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59769:2026-08-25T08:19"
   }
  ]
 }
