@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-25T04:19:08+00:00",
+ "generated_at": "2026-08-25T04:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-25T04:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-13214 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-13214 📢 Source: zephyr 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: False The OCPP 1.6 client in subsys/net/lib/ocpp/ocpp_j.c contains a stack buffer overflow in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13214",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13214:2026-08-25T04:49"
+  },
   {
    "ts": "2026-08-25T02:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71913",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71913:2026-08-24T17:49"
-  },
-  {
-   "ts": "2026-08-24T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71912 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-71912 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorAP models contain a buffer overflow vulnerability in the apautotest",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71912",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71912:2026-08-24T17:49"
   }
  ]
 }
