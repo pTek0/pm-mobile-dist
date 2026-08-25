@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-25T06:19:08+00:00",
+ "generated_at": "2026-08-25T06:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-25T06:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-69665 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-69665 📢 Source: jpcert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False SKYSEA Client View and SKYMEC IT Manager contain an issue with incorrect default permission",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69665",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69665:2026-08-25T06:49"
+  },
+  {
+   "ts": "2026-08-25T06:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68960 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-68960 📢 Source: jpcert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A stack-based buffer overflow vulnerability exists in SKYSEA Client View and SKYMEC IT Mana",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68960",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68960:2026-08-25T06:49"
+  },
+  {
+   "ts": "2026-08-25T06:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68959 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-68959 📢 Source: jpcert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False SKYSEA Client View and SKYMEC IT Manager contain a path traversal vulnerability. If this vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68959",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68959:2026-08-25T06:49"
+  },
+  {
+   "ts": "2026-08-25T06:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68062 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-68062 📢 Source: jpcert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False SKYSEA Client View and SKYMEC IT Manager contain a path traversal vulnerability. If this vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68062",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68062:2026-08-25T06:49"
+  },
+  {
+   "ts": "2026-08-25T06:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66109 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-66109 📢 Source: jpcert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A missing authorization vulnerability exists in SKYSEA Client View and SKYMEC IT Manager. I",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66109",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66109:2026-08-25T06:49"
+  },
   {
    "ts": "2026-08-25T04:49:08+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71918",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71918:2026-08-24T17:49"
-  },
-  {
-   "ts": "2026-08-24T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71917 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-71917 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the ping",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71917",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71917:2026-08-24T17:49"
-  },
-  {
-   "ts": "2026-08-24T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71916 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-71916 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the comm",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71916",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71916:2026-08-24T17:49"
-  },
-  {
-   "ts": "2026-08-24T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71915 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-71915 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the json",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71915",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71915:2026-08-24T17:49"
-  },
-  {
-   "ts": "2026-08-24T17:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-71914 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-71914 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Multiple DrayTek VigorAP models contain a command injection vulnerability in the dray",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71914",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71914:2026-08-24T17:49"
-  },
-  {
-   "ts": "2026-08-24T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71913 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-71913 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorAP models contain a command injection vulnerability in the upload_s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71913",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71913:2026-08-24T17:49"
   }
  ]
 }
