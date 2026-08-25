@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-25T12:19:08+00:00",
+ "generated_at": "2026-08-25T12:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-25T12:49:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] We ignored the signs.",
+   "body": "Lemmy · programming.dev · 점수 84",
+   "link": "https://sh.itjust.works/pictrs/image/7d373bb9-8039-4ac2-a8cd-050bcfe25c59.jpeg",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://sh.itjust.works/pictrs/image/7d373bb9-8039-4ac2-a8cd-050bcfe25c59.jpeg:2026-08-25T12:49"
+  },
+  {
+   "ts": "2026-08-25T12:49:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Intent to Ship: JPEG XL",
+   "body": "Lobsters · 점수 76",
+   "link": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+   "source": "Lobsters",
+   "id": "community:https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/:2026-08-25T12:49"
+  },
+  {
+   "ts": "2026-08-25T12:49:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] ChatGPT access to Apple Messages is dangerous and irresponsi",
+   "body": "Lemmy · programming.dev · 점수 69",
+   "link": "https://paulfwalsh.substack.com/p/giving-chatgpt-access-to-apple-messages?r=80idku%3F%3D0",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://paulfwalsh.substack.com/p/giving-chatgpt-access-to-apple-messages?r=80idku%3F%3D0:2026-08-25T12:49"
+  },
+  {
+   "ts": "2026-08-25T12:49:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] PSA: Firefox now auto-uses the XDG portal file picker",
+   "body": "Lemmy · programming.dev · 점수 51",
+   "link": "https://lemmy.world/post/55556601",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.world/post/55556601:2026-08-25T12:49"
+  },
+  {
+   "ts": "2026-08-25T12:49:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Can a blog post be handwritten?",
+   "body": "Lobsters · 점수 50",
+   "link": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
+   "source": "Lobsters",
+   "id": "community:https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/:2026-08-25T12:49"
+  },
   {
    "ts": "2026-08-25T12:19:08+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-69665",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69665:2026-08-25T06:49"
-  },
-  {
-   "ts": "2026-08-25T06:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-68960 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-68960 📢 Source: jpcert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A stack-based buffer overflow vulnerability exists in SKYSEA Client View and SKYMEC IT Mana",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68960",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68960:2026-08-25T06:49"
-  },
-  {
-   "ts": "2026-08-25T06:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-68959 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-68959 📢 Source: jpcert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False SKYSEA Client View and SKYMEC IT Manager contain a path traversal vulnerability. If this vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68959",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68959:2026-08-25T06:49"
-  },
-  {
-   "ts": "2026-08-25T06:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-68062 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-68062 📢 Source: jpcert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False SKYSEA Client View and SKYMEC IT Manager contain a path traversal vulnerability. If this vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68062",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68062:2026-08-25T06:49"
-  },
-  {
-   "ts": "2026-08-25T06:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66109 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-66109 📢 Source: jpcert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A missing authorization vulnerability exists in SKYSEA Client View and SKYMEC IT Manager. I",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66109",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66109:2026-08-25T06:49"
-  },
-  {
-   "ts": "2026-08-25T04:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-13214 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-13214 📢 Source: zephyr 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: False The OCPP 1.6 client in subsys/net/lib/ocpp/ocpp_j.c contains a stack buffer overflow in",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13214",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13214:2026-08-25T04:49"
   }
  ]
 }
