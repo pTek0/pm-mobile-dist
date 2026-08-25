@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-08-25T08:49:08+00:00",
+ "generated_at": "2026-08-25T09:19:18+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-25T09:19:14+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77140 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-77140 📢 Source: TYPO3 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The extension validates the HMAC of a frontend employee edit link only in the action that ren",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77140",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77140:2026-08-25T09:19"
+  },
+  {
+   "ts": "2026-08-25T09:19:14+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77138 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-77138 📢 Source: TYPO3 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The extension fails to safely process untrusted client input of an attacker-controlled co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77138",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77138:2026-08-25T09:19"
+  },
+  {
+   "ts": "2026-08-25T09:19:14+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77137 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-77137 📢 Source: TYPO3 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True The extension fails to properly sanitize user input before using it in a database query. As a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77137",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77137:2026-08-25T09:19"
+  },
+  {
+   "ts": "2026-08-25T09:19:14+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77136 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-77136 📢 Source: TYPO3 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True The extension passes the raw value of a form field configured as \"This field contains the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77136",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77136:2026-08-25T09:19"
+  },
+  {
+   "ts": "2026-08-25T09:19:14+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77135 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-77135 📢 Source: TYPO3 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True The extension's user detail view fails to verify that a requested user record matches the con",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77135",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77135:2026-08-25T09:19"
+  },
+  {
+   "ts": "2026-08-25T09:19:14+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77134 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-77134 📢 Source: TYPO3 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True The extension fails to require the dedicated admin confirmation token when processing an admi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77134",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77134:2026-08-25T09:19"
+  },
+  {
+   "ts": "2026-08-25T09:19:14+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77129 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-77129 📢 Source: TYPO3 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True The extension passes an editor-configurable email subject string directly into a Fluid templa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77129",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77129:2026-08-25T09:19"
+  },
+  {
+   "ts": "2026-08-25T09:19:14+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63587 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-63587 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The SMS control function of IE-SR-2TX-WL-4G devices can require a password for SMS commands",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63587",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63587:2026-08-25T09:19"
+  },
+  {
+   "ts": "2026-08-25T09:19:14+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-63586 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-63586 📢 Source: CERTVDE 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The web-based management interface uses a modified uhttpd server with CGI shell scripts",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63586",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63586:2026-08-25T09:19"
+  },
+  {
+   "ts": "2026-08-25T09:19:14+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-56095 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-56095 📢 Source: TYPO3 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True The extension's indexer passed every field value returned by content object rendering through",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56095",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56095:2026-08-25T09:19"
+  },
+  {
+   "ts": "2026-08-25T09:19:14+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-56092 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-56092 📢 Source: TYPO3 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True The extension forces empty frontend-group and subpage-inheritance restrictions onto page reco",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56092",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56092:2026-08-25T09:19"
+  },
   {
    "ts": "2026-08-25T08:19:07+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71507",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71507:2026-08-24T19:19"
-  },
-  {
-   "ts": "2026-08-24T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71506 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-71506 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dolibarr before 24.0.0 contains an improper authorization vulnerability in the payments R",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71506",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71506:2026-08-24T19:19"
-  },
-  {
-   "ts": "2026-08-24T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71505 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-71505 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dolibarr before 24.0.0 contains a broken object-level authorization vulnerability in the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71505",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71505:2026-08-24T19:19"
-  },
-  {
-   "ts": "2026-08-24T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71504 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-71504 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Dolibarr before 24.0.0 contains an improper authorization vulnerability in the Members RE",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71504",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71504:2026-08-24T19:19"
-  },
-  {
-   "ts": "2026-08-24T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78541 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-78541 📢 Source: TPLink 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A stored OS command injection vulnerability exists in the parent-control module of TP-Link ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78541",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78541:2026-08-24T18:49"
-  },
-  {
-   "ts": "2026-08-24T18:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76835 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-76835 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True OAuth2 Proxy honours a client-supplied X-Forwarded-Uri header when deciding whether a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76835",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76835:2026-08-24T18:19"
-  },
-  {
-   "ts": "2026-08-24T18:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76073 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-76073 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Label Studio does not scope the annotation detail endpoint to the requesting user's organ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76073",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76073:2026-08-24T18:19"
-  },
-  {
-   "ts": "2026-08-24T18:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76072 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-76072 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True The Continue CLI applies an incomplete denylist as its only barrier to destructive shell ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76072",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76072:2026-08-24T18:19"
-  },
-  {
-   "ts": "2026-08-24T18:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76838 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-76838 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Hi.Events validates a webhook destination only when it is registered, never when it is us",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76838",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76838:2026-08-24T18:19"
-  },
-  {
-   "ts": "2026-08-24T18:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76836 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-76836 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True AzuraCast exposes the Liquidsoap custom configuration fields through an endpoint that doe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76836",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76836:2026-08-24T18:19"
-  },
-  {
-   "ts": "2026-08-24T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-9254 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-9254 📢 Source: TPLink 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False An unauthenticated OS command injection vulnerability exists in the parental control functio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9254",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9254:2026-08-24T17:49"
-  },
-  {
-   "ts": "2026-08-24T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16348 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-16348 📢 Source: TPLink 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An authenticated command injection vulnerability in TP-Link Archer BE800 V1 allows an attac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16348",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16348:2026-08-24T17:49"
   }
  ]
 }
