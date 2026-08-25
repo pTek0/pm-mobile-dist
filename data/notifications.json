@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-25T13:49:08+00:00",
+ "generated_at": "2026-08-25T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-25T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79655 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-79655 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in sos clean, a utility within the sos package. This vulnerability allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79655",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79655:2026-08-25T14:19"
+  },
   {
    "ts": "2026-08-25T13:19:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-59769",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59769:2026-08-25T08:19"
-  },
-  {
-   "ts": "2026-08-25T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19851 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-19851 📢 Source: 3DS 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A Use of Default Password vulnerability affecting Tuleap Enterprise Edition from 17.0 through 1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19851",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19851:2026-08-25T08:19"
   }
  ]
 }
