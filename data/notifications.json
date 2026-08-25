@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-25T14:49:10+00:00",
+ "generated_at": "2026-08-25T15:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-25T15:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70551 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-70551 📢 Source: JFROG 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True A user who can read an existing remote VCS repository can replace its configured origin or su",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70551",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70551:2026-08-25T15:19"
+  },
+  {
+   "ts": "2026-08-25T15:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-69104 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-69104 📢 Source: JFROG 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True An authenticated user may initiate repository migration operations without required repositor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69104",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69104:2026-08-25T15:19"
+  },
   {
    "ts": "2026-08-25T14:49:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-56092",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56092:2026-08-25T09:19"
-  },
-  {
-   "ts": "2026-08-25T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65633 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-65633 📢 Source: EEF 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Authentication vulnerability in team-alembic AshAuthentication allows purpose-limited ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65633",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65633:2026-08-25T08:19"
-  },
-  {
-   "ts": "2026-08-25T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-67578 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-67578 📢 Source: jpcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False FA-50 all versions miss authentication for some configuration. An attacker with access to t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67578",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67578:2026-08-25T08:19"
   }
  ]
 }
