@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-25T07:49:08+00:00",
+ "generated_at": "2026-08-25T08:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-25T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65633 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-65633 📢 Source: EEF 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Authentication vulnerability in team-alembic AshAuthentication allows purpose-limited ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65633",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65633:2026-08-25T08:19"
+  },
+  {
+   "ts": "2026-08-25T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-67578 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-67578 📢 Source: jpcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False FA-50 all versions miss authentication for some configuration. An attacker with access to t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67578",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67578:2026-08-25T08:19"
+  },
+  {
+   "ts": "2026-08-25T08:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-59769 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-59769 📢 Source: jpcert 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False FA-50 all versions contain hard-coded credentials. An attacker, who knows the credentia",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59769",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59769:2026-08-25T08:19"
+  },
+  {
+   "ts": "2026-08-25T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19851 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-19851 📢 Source: 3DS 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A Use of Default Password vulnerability affecting Tuleap Enterprise Edition from 17.0 through 1",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19851",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19851:2026-08-25T08:19"
+  },
   {
    "ts": "2026-08-25T06:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16348",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16348:2026-08-24T17:49"
-  },
-  {
-   "ts": "2026-08-24T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71922 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-71922 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorSwitch models contain a pre-authentication null pointer dereference",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71922",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71922:2026-08-24T17:49"
-  },
-  {
-   "ts": "2026-08-24T17:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-71921 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-71921 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Multiple DrayTek VigorSwitch models contain a pre-authentication command injection vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71921",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71921:2026-08-24T17:49"
-  },
-  {
-   "ts": "2026-08-24T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71919 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-71919 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the sysr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71919",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71919:2026-08-24T17:49"
-  },
-  {
-   "ts": "2026-08-24T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71918 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-71918 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the webB",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71918",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71918:2026-08-24T17:49"
   }
  ]
 }
