@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-08-25T11:19:08+00:00",
+ "generated_at": "2026-08-25T11:49:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-25T11:49:10+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79667 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-79667 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Ech0 version 4.3.4 and earlier fails to reliably enforce scoped access token (least-privi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79667",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79667:2026-08-25T11:49"
+  },
+  {
+   "ts": "2026-08-25T11:49:10+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79666 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-79666 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Ech0 before 4.4.3 fails to enforce administrator authorization on dashboard log endpoints",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79666",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79666:2026-08-25T11:49"
+  },
+  {
+   "ts": "2026-08-25T11:49:10+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79665 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-79665 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Ech0 before 4.5.1 contains an authorization bypass vulnerability where session tokens ski",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79665",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79665:2026-08-25T11:49"
+  },
+  {
+   "ts": "2026-08-25T11:49:10+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-79664 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-79664 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Ech0 before 4.7.3 fails to properly revoke access tokens created with never-expire op",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79664",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79664:2026-08-25T11:49"
+  },
+  {
+   "ts": "2026-08-25T11:49:10+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79662 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-79662 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Ech0 through 4.5.6 contains an OAuth redirect URI validation vulnerability in parseAndVal",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79662",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79662:2026-08-25T11:49"
+  },
+  {
+   "ts": "2026-08-25T11:49:10+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79659 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-79659 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Ech0 before 4.7.3 contains a server-side request forgery vulnerability in the fetchPeerCo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79659",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79659:2026-08-25T11:49"
+  },
+  {
+   "ts": "2026-08-25T11:49:10+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79658 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-79658 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Ech0 before 5.0.1 does not impose any size or shape limit on the Accept-Language header p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79658",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79658:2026-08-25T11:49"
+  },
+  {
+   "ts": "2026-08-25T11:49:10+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-79657 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-79657 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True NLTK versions before 3.10.3 contain a remote code execution vulnerability in allowlis",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79657",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79657:2026-08-25T11:49"
+  },
+  {
+   "ts": "2026-08-25T11:49:10+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] iCloud+ Hide My Email addresses will remain on icloud.com",
+   "body": "Hacker News · 점수 480",
+   "link": "https://developer.apple.com/news/?id=1ptvdtcm",
+   "source": "Hacker News",
+   "id": "community:https://developer.apple.com/news/?id=1ptvdtcm:2026-08-25T11:49"
+  },
+  {
+   "ts": "2026-08-25T11:49:10+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The entire city of San Francisco as a video game",
+   "body": "Hacker News · 점수 478",
+   "link": "https://sf.thijs.gg/",
+   "source": "Hacker News",
+   "id": "community:https://sf.thijs.gg/:2026-08-25T11:49"
+  },
+  {
+   "ts": "2026-08-25T11:49:10+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Means to deceive",
+   "body": "Lemmy · programming.dev · 점수 386",
+   "link": "https://lemmy.world/pictrs/image/9870c779-7aee-4409-871a-d132f2242dbc.webp",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.world/pictrs/image/9870c779-7aee-4409-871a-d132f2242dbc.webp:2026-08-25T11:49"
+  },
+  {
+   "ts": "2026-08-25T11:49:10+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Where did all the public bathrooms go?",
+   "body": "Hacker News · 점수 251",
+   "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+   "source": "Hacker News",
+   "id": "community:https://daily.jstor.org/where-did-all-the-public-bathrooms-go/:2026-08-25T11:49"
+  },
+  {
+   "ts": "2026-08-25T11:49:10+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Twitch and Amazon hit with lawsuit for training AI with stre",
+   "body": "Lemmy · technology · 점수 234",
+   "link": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/:2026-08-25T11:49"
+  },
   {
    "ts": "2026-08-25T11:19:07+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-56709",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56709:2026-08-25T02:19"
-  },
-  {
-   "ts": "2026-08-25T02:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-56707 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-56707 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Grav Flex Objects plugin versions 1.4.0 through 1.4.7 contain an authorization bypass vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56707",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56707:2026-08-25T02:19"
-  },
-  {
-   "ts": "2026-08-25T02:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-56705 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-56705 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Adminer before 5.4.3 fails to sanitize the server field before constructing a PDO DSN",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56705",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56705:2026-08-25T02:19"
-  },
-  {
-   "ts": "2026-08-25T02:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-56703 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-56703 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Adminer before 5.4.3 contains a remote code execution vulnerability in SQLite query handl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56703",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56703:2026-08-25T02:19"
-  },
-  {
-   "ts": "2026-08-25T02:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-56702 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-56702 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Adminer versions before 5.4.3 contain an unrestricted file upload vulnerability in the Ad",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56702",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56702:2026-08-25T02:19"
-  },
-  {
-   "ts": "2026-08-25T02:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-34968 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-34968 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Adminer before 5.4.3 contains an arbitrary file deletion vulnerability in SQLite mode whe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-34968",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34968:2026-08-25T02:19"
-  },
-  {
-   "ts": "2026-08-25T01:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66766 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-66766 📢 Source: sap 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True SAP S/4HANA (Private Cloud) uses a third-party component that contains a Regular Expression Den",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66766",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66766:2026-08-25T01:19"
-  },
-  {
-   "ts": "2026-08-24T23:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-mobile",
-   "body": "**★ pm→pTek P5-코드 완료(2026-08-25, 작업트리만·미발행)** — 폴더 물리 rename 5종+벤더(`ptek_core/ptek_mobile/ptek_desktop/ptek_hacking/ptek",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-mobile:2026-08-24T23:49"
-  },
-  {
-   "ts": "2026-08-24T22:49:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-mobile",
-   "body": "**★ pm→pTek P3 클라이언트 rename 완료(2026-08-25, 작업트리만·미발행)** — ptek_core/ptek_mobile/ptek_desktop/ptek_hacking(pubspec name+i",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-mobile:2026-08-24T22:49"
-  },
-  {
-   "ts": "2026-08-24T22:49:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-desktop",
-   "body": "**★ pm→pTek P3 클라이언트 rename 완료(2026-08-25, 작업트리만·미발행)** — ptek_core/ptek_mobile/ptek_desktop/ptek_hacking(pubspec name+i",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-desktop:2026-08-24T22:49"
-  },
-  {
-   "ts": "2026-08-24T22:19:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-desktop",
-   "body": "**★ 워크스페이스 조직도 재구조화: 호스트→드라이브→폴더→세션 + 원격 페더레이션 + 호버 헬스(2026-08-25, ptek-labs — pm-api 0.18.0·pm_desktop v0.14.0+30 스테이징,",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-desktop:2026-08-24T22:19"
-  },
-  {
-   "ts": "2026-08-24T21:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-desktop",
-   "body": "**★ pm→pTek 마이그레이션 P0+P1 완료(2026-08-25, ptek-labs)** — P0 매핑 SSOT 확정([docs/handoff/2026-08-25-ptek-rename-mapping.md](do",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-desktop:2026-08-24T21:49"
-  },
-  {
-   "ts": "2026-08-24T21:19:10+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-7455 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-7455 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted FLT file, when parsed through Autodesk 3ds Max, can force an Out-of-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7455",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7455:2026-08-24T21:19"
-  },
-  {
-   "ts": "2026-08-24T21:19:10+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19568 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-19568 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted SVG file, when parsed through Autodesk 3ds Max, can force a Memory ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19568",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19568:2026-08-24T21:19"
   }
  ]
 }
