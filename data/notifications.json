@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-08-25T10:49:08+00:00",
+ "generated_at": "2026-08-25T11:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-25T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59335 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-59335 📢 Source: vmware 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Improper handling of case sensitivity (CWE-178) in the identity zone authorization check in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59335",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59335:2026-08-25T11:19"
+  },
+  {
+   "ts": "2026-08-25T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12600 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-12600 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Denial-of-service (DoS) vulnerability in the internal JPEG2000 (JPX) decoding implementation",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12600",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12600:2026-08-25T11:19"
+  },
+  {
+   "ts": "2026-08-25T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] How Europe is killing makers and micro-entrepreneurs",
+   "body": "Hacker News · 점수 1396",
+   "link": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+   "source": "Hacker News",
+   "id": "community:https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs:2026-08-25T11:19"
+  },
+  {
+   "ts": "2026-08-25T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Xiaomi: New CPU matches Apple cores single threaded, much fa",
+   "body": "Hacker News · 점수 886",
+   "link": "https://twitter.com/lemire/status/2091894299289874926",
+   "source": "Hacker News",
+   "id": "community:https://twitter.com/lemire/status/2091894299289874926:2026-08-25T11:19"
+  },
+  {
+   "ts": "2026-08-25T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] MS Paint and Photos inivisibly watermark even locally genera",
+   "body": "Hacker News · 점수 726",
+   "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+   "source": "Hacker News",
+   "id": "community:https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/:2026-08-25T11:19"
+  },
+  {
+   "ts": "2026-08-25T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Oceans hit highest temperature on record",
+   "body": "Hacker News · 점수 578",
+   "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+   "source": "Hacker News",
+   "id": "community:https://www.bbc.com/news/articles/c62m4gpnp78o:2026-08-25T11:19"
+  },
+  {
+   "ts": "2026-08-25T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I were 17, I'd learn how to build LLMs from scratch",
+   "body": "Hacker News · 점수 557",
+   "link": "https://twitter.com/paulg/status/2091544343589060625",
+   "source": "Hacker News",
+   "id": "community:https://twitter.com/paulg/status/2091544343589060625:2026-08-25T11:19"
+  },
   {
    "ts": "2026-08-25T10:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19568",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19568:2026-08-24T21:19"
-  },
-  {
-   "ts": "2026-08-24T21:19:10+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16783 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-16783 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted ABC file, when parsed through Autodesk 3ds Max, can force an Out-of",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16783",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16783:2026-08-24T21:19"
-  },
-  {
-   "ts": "2026-08-24T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-78555 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-78555 📢 Source: CIRCL 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True RansomLook exposed complete API keys in the HTML source of the authenticated /admin/apikey",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78555",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78555:2026-08-24T20:19"
-  },
-  {
-   "ts": "2026-08-24T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78553 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-78553 📢 Source: CIRCL 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False RansomLook created its Flask session-signing key without explicitly restricting the file permi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78553",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78553:2026-08-24T19:49"
-  },
-  {
-   "ts": "2026-08-24T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78551 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-78551 📢 Source: CIRCL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True RansomLook contains multiple weaknesses in its authentication endpoint that allow an unauthen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78551",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78551:2026-08-24T19:49"
-  },
-  {
-   "ts": "2026-08-24T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-61419 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-61419 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell ThinOS 10, versions prior to 2605_10.2518, contain an Improper Access Control vulnerabil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-61419",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-61419:2026-08-24T19:49"
-  },
-  {
-   "ts": "2026-08-24T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71511 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-71511 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dolibarr before 24.0.0 contains a sensitive data exposure vulnerability in the Members RE",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71511",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71511:2026-08-24T19:49"
-  },
-  {
-   "ts": "2026-08-24T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71510 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-71510 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dolibarr before 24.0.0 contains a SQL injection vulnerability in the users REST API that ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71510",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71510:2026-08-24T19:49"
   }
  ]
 }
