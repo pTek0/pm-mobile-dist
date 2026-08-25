@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-08-25T15:19:08+00:00",
+ "generated_at": "2026-08-25T15:49:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-25T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79676 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-79676 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True NLTK versions before 3.10.3 contain a path traversal vulnerability in corpus readers that",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79676",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79676:2026-08-25T15:49"
+  },
+  {
+   "ts": "2026-08-25T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-79675 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-79675 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True NLTK before 3.10.3 fails to validate JVM options passed through the per-call options ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79675",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79675:2026-08-25T15:49"
+  },
+  {
+   "ts": "2026-08-25T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79674 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-79674 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True NLTK versions before 3.10.3 contain a path sandbox bypass vulnerability in corpus-reader ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79674",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79674:2026-08-25T15:49"
+  },
+  {
+   "ts": "2026-08-25T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-71407 (CVSS 9.8)",
+   "body": "🚨 CVE-2025-71407 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Nokogiri before 1.18.3 contains a stack buffer overflow vulnerability in libxml2 when",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71407",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71407:2026-08-25T15:49"
+  },
+  {
+   "ts": "2026-08-25T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-71406 (CVSS 8.7)",
+   "body": "🚨 CVE-2025-71406 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Nokogiri before 1.18.4 bundles a vulnerable version of libxslt (prior to 1.1.43) that con",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71406",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71406:2026-08-25T15:49"
+  },
+  {
+   "ts": "2026-08-25T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-71346 (CVSS 8.7)",
+   "body": "🚨 CVE-2025-71346 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Nokogiri before 1.18.8 packages a vulnerable version of libxml2 (before 2.13.8) that cont",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71346",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71346:2026-08-25T15:49"
+  },
+  {
+   "ts": "2026-08-25T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2024-58378 (CVSS 9.8)",
+   "body": "🚨 CVE-2024-58378 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Nokogiri before 1.15.6 and 1.16.x before 1.16.2 (CRuby, when using the packaged libxm",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58378",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58378:2026-08-25T15:49"
+  },
+  {
+   "ts": "2026-08-25T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2024-58377 (CVSS 9.3)",
+   "body": "🚨 CVE-2024-58377 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Nokogiri versions before 1.16.5 bundle libxml2 2.12.6, which is affected by CVE-2024-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58377",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58377:2026-08-25T15:49"
+  },
+  {
+   "ts": "2026-08-25T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2023-54354 (CVSS 8.7)",
+   "body": "🚨 CVE-2023-54354 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Nokogiri before 1.14.3 (CRuby implementation only, when using the packaged libxml2) bundl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2023-54354",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54354:2026-08-25T15:49"
+  },
+  {
+   "ts": "2026-08-25T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2022-51000 (CVSS 9.8)",
+   "body": "🚨 CVE-2022-51000 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Nokogiri before 1.13.2 (CRuby, when using packaged libraries) ships vendored libxml2 ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2022-51000",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51000:2026-08-25T15:49"
+  },
+  {
+   "ts": "2026-08-25T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2022-50999 (CVSS 8.8)",
+   "body": "🚨 CVE-2022-50999 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Nokogiri versions before 1.13.5 contain an integer overflow vulnerability in packaged lib",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2022-50999",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-50999:2026-08-25T15:49"
+  },
+  {
+   "ts": "2026-08-25T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2022-50998 (CVSS 8.7)",
+   "body": "🚨 CVE-2022-50998 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Nokogiri before 1.13.9 (CRuby implementation using packaged libraries) bundles libxml2 v2",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2022-50998",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-50998:2026-08-25T15:49"
+  },
+  {
+   "ts": "2026-08-25T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2021-47996 (CVSS 8.7)",
+   "body": "🚨 CVE-2021-47996 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Nokogiri before 1.11.4 (CRuby implementation only, when the packaged/vendored libxml2 is ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2021-47996",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-47996:2026-08-25T15:49"
+  },
   {
    "ts": "2026-08-25T15:19:08+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75037",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75037:2026-08-25T10:19"
-  },
-  {
-   "ts": "2026-08-25T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16231 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-16231 📢 Source: openjs 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False hbs is an Express view engine that wraps Handlebars. Its registerAsyncHelper API bypasses H",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16231",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16231:2026-08-25T10:19"
-  },
-  {
-   "ts": "2026-08-25T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12878 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-12878 📢 Source: Octopus 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True In affected versions of the Codefresh platform an authenticated user can utilize an API end",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12878",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12878:2026-08-25T09:49"
-  },
-  {
-   "ts": "2026-08-25T09:19:14+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77140 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-77140 📢 Source: TYPO3 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The extension validates the HMAC of a frontend employee edit link only in the action that ren",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77140",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77140:2026-08-25T09:19"
-  },
-  {
-   "ts": "2026-08-25T09:19:14+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-77138 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-77138 📢 Source: TYPO3 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The extension fails to safely process untrusted client input of an attacker-controlled co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77138",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77138:2026-08-25T09:19"
-  },
-  {
-   "ts": "2026-08-25T09:19:14+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77137 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-77137 📢 Source: TYPO3 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True The extension fails to properly sanitize user input before using it in a database query. As a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77137",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77137:2026-08-25T09:19"
-  },
-  {
-   "ts": "2026-08-25T09:19:14+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-77136 (CVSS 9.5)",
-   "body": "🚨 CVE-2026-77136 📢 Source: TYPO3 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True The extension passes the raw value of a form field configured as \"This field contains the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77136",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77136:2026-08-25T09:19"
-  },
-  {
-   "ts": "2026-08-25T09:19:14+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77135 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-77135 📢 Source: TYPO3 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True The extension's user detail view fails to verify that a requested user record matches the con",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77135",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77135:2026-08-25T09:19"
-  },
-  {
-   "ts": "2026-08-25T09:19:14+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77134 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-77134 📢 Source: TYPO3 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True The extension fails to require the dedicated admin confirmation token when processing an admi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77134",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77134:2026-08-25T09:19"
-  },
-  {
-   "ts": "2026-08-25T09:19:14+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77129 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-77129 📢 Source: TYPO3 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True The extension passes an editor-configurable email subject string directly into a Fluid templa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77129",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77129:2026-08-25T09:19"
-  },
-  {
-   "ts": "2026-08-25T09:19:14+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-63587 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-63587 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The SMS control function of IE-SR-2TX-WL-4G devices can require a password for SMS commands",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63587",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63587:2026-08-25T09:19"
-  },
-  {
-   "ts": "2026-08-25T09:19:14+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-63586 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-63586 📢 Source: CERTVDE 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The web-based management interface uses a modified uhttpd server with CGI shell scripts",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63586",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63586:2026-08-25T09:19"
-  },
-  {
-   "ts": "2026-08-25T09:19:14+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-56095 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-56095 📢 Source: TYPO3 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True The extension's indexer passed every field value returned by content object rendering through",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56095",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56095:2026-08-25T09:19"
-  },
-  {
-   "ts": "2026-08-25T09:19:14+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-56092 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-56092 📢 Source: TYPO3 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True The extension forces empty frontend-group and subpage-inheritance restrictions onto page reco",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56092",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56092:2026-08-25T09:19"
   }
  ]
 }
