@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-25T12:49:09+00:00",
+ "generated_at": "2026-08-25T13:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-25T13:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-57863 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-57863 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Crater Invoice through 6.0.6 contains a path traversal vulnerability in the self-update A",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57863",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57863:2026-08-25T13:19"
+  },
   {
    "ts": "2026-08-25T12:49:09+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19851",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19851:2026-08-25T08:19"
-  },
-  {
-   "ts": "2026-08-25T06:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-69665 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-69665 📢 Source: jpcert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False SKYSEA Client View and SKYMEC IT Manager contain an issue with incorrect default permission",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69665",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69665:2026-08-25T06:49"
   }
  ]
 }
