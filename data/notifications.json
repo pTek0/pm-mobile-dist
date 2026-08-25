@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-25T00:49:08+00:00",
+ "generated_at": "2026-08-25T01:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-25T01:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66766 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-66766 📢 Source: sap 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True SAP S/4HANA (Private Cloud) uses a third-party component that contains a Regular Expression Den",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66766",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66766:2026-08-25T01:19"
+  },
   {
    "ts": "2026-08-24T23:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18349",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18349:2026-08-24T16:49"
-  },
-  {
-   "ts": "2026-08-24T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12556 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-12556 📢 Source: hp 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Potential security vulnerabilities have been identified in HP Easy Start for macOS, versions pri",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12556",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12556:2026-08-24T16:19"
   }
  ]
 }
