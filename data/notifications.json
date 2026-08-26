@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-26T19:19:08+00:00",
+ "generated_at": "2026-08-26T19:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-26T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74770 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-74770 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerProtect One, versions 20.1.0.0 and below, contain an Improper Neutralization of Spec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74770",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74770:2026-08-26T19:49"
+  },
+  {
+   "ts": "2026-08-26T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68863 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-68863 📢 Source: dell 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Dell PowerProtect One, versions 20.1.0.0 and below, contain a Stack-based Buffer Overflow vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68863",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68863:2026-08-26T19:49"
+  },
+  {
+   "ts": "2026-08-26T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68861 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-68861 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerProtect One, versions 20.1.0.0 and below, contain an Improper Neutralization of Spec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68861",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68861:2026-08-26T19:49"
+  },
   {
    "ts": "2026-08-26T18:49:08+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
    "source": "Lobsters",
    "id": "community:https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout:2026-08-25T12:19"
-  },
-  {
-   "ts": "2026-08-25T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Emacs 31.1 released",
-   "body": "Lobsters · 점수 89",
-   "link": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
-   "source": "Lobsters",
-   "id": "community:https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html:2026-08-25T12:19"
-  },
-  {
-   "ts": "2026-08-25T11:49:10+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79667 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-79667 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Ech0 version 4.3.4 and earlier fails to reliably enforce scoped access token (least-privi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79667",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79667:2026-08-25T11:49"
-  },
-  {
-   "ts": "2026-08-25T11:49:10+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79666 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-79666 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Ech0 before 4.4.3 fails to enforce administrator authorization on dashboard log endpoints",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79666",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79666:2026-08-25T11:49"
   }
  ]
 }
