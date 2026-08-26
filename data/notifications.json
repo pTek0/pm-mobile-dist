@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-26T19:49:08+00:00",
+ "generated_at": "2026-08-26T20:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-26T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79938 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-79938 📢 Source: dell 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Dell PowerProtect Cyber Recovery, versions prior to 20.3, contain an Improper Authentication v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79938",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79938:2026-08-26T20:19"
+  },
+  {
+   "ts": "2026-08-26T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-60004 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-60004 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Gitea before 1.27.1 allows remote code execution via the diffpatch API through Git hook i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60004",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60004:2026-08-26T20:19"
+  },
   {
    "ts": "2026-08-26T19:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://ciechanow.ski/moon/",
    "source": "Hacker News",
    "id": "community:https://ciechanow.ski/moon/:2026-08-25T12:19"
-  },
-  {
-   "ts": "2026-08-25T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Your executable is a SQLite database",
-   "body": "Lobsters · 점수 184",
-   "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-   "source": "Lobsters",
-   "id": "community:https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database:2026-08-25T12:19"
-  },
-  {
-   "ts": "2026-08-25T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I cannot survive from burnout",
-   "body": "Lobsters · 점수 167",
-   "link": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
-   "source": "Lobsters",
-   "id": "community:https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout:2026-08-25T12:19"
   }
  ]
 }
