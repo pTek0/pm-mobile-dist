@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-26T23:19:07+00:00",
+ "generated_at": "2026-08-26T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-26T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Tailcat – Like netcat, but over Tailscale’s data plane",
+   "body": "Hacker News · 점수 411",
+   "link": "https://github.com/tailscale/tailcat",
+   "source": "Hacker News",
+   "id": "community:https://github.com/tailscale/tailcat:2026-08-26T23:49"
+  },
+  {
+   "ts": "2026-08-26T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nebula Sans",
+   "body": "Hacker News · 점수 311",
+   "link": "https://www.nebulasans.com",
+   "source": "Hacker News",
+   "id": "community:https://www.nebulasans.com:2026-08-26T23:49"
+  },
+  {
+   "ts": "2026-08-26T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Stalking the Wily Hacker: 40 years later – Cliff Stoll [vide",
+   "body": "Hacker News · 점수 278",
+   "link": "https://www.youtube.com/watch?v=656058JxTM0",
+   "source": "Hacker News",
+   "id": "community:https://www.youtube.com/watch?v=656058JxTM0:2026-08-26T23:49"
+  },
+  {
+   "ts": "2026-08-26T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Twitter Viewer – View Twitter Without Account",
+   "body": "Hacker News · 점수 268",
+   "link": "https://twitterwebviewer.com/",
+   "source": "Hacker News",
+   "id": "community:https://twitterwebviewer.com/:2026-08-26T23:49"
+  },
+  {
+   "ts": "2026-08-26T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Meta agrees to pay up to $17.1bn to settle claims its platfo",
+   "body": "Lemmy · technology · 점수 259",
+   "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.bbc.co.uk/news/articles/cd68q3wynnqo:2026-08-26T23:49"
+  },
   {
    "ts": "2026-08-26T23:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2022-50998",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-50998:2026-08-25T15:49"
-  },
-  {
-   "ts": "2026-08-25T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2021-47996 (CVSS 8.7)",
-   "body": "🚨 CVE-2021-47996 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Nokogiri before 1.11.4 (CRuby implementation only, when the packaged/vendored libxml2 is ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2021-47996",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-47996:2026-08-25T15:49"
-  },
-  {
-   "ts": "2026-08-25T15:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70551 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-70551 📢 Source: JFROG 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True A user who can read an existing remote VCS repository can replace its configured origin or su",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70551",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70551:2026-08-25T15:19"
-  },
-  {
-   "ts": "2026-08-25T15:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-69104 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-69104 📢 Source: JFROG 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True An authenticated user may initiate repository migration operations without required repositor",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69104",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69104:2026-08-25T15:19"
-  },
-  {
-   "ts": "2026-08-25T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-16286 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-16286 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Unrestricted upload of file with dangerous type vulnerability in TRtek Technological Pr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16286",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16286:2026-08-25T14:49"
-  },
-  {
-   "ts": "2026-08-25T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79655 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-79655 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in sos clean, a utility within the sos package. This vulnerability allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79655",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79655:2026-08-25T14:19"
   }
  ]
 }
