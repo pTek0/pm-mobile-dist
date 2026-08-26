@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-25T15:49:13+00:00",
+ "generated_at": "2026-08-26T15:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-26T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75062 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-75062 📢 Source: Google 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75062",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75062:2026-08-26T15:49"
+  },
   {
    "ts": "2026-08-25T15:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://twitter.com/paulg/status/2091544343589060625",
    "source": "Hacker News",
    "id": "community:https://twitter.com/paulg/status/2091544343589060625:2026-08-25T11:19"
-  },
-  {
-   "ts": "2026-08-25T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75037 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-75037 📢 Source: suse 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Polkit Authentication Based on UnixProcessSubject / Peer PID in LACT on Linux allows an Authe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75037",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75037:2026-08-25T10:19"
   }
  ]
 }
