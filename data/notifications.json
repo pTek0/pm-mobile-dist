@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-08-26T15:49:10+00:00",
+ "generated_at": "2026-08-26T16:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-26T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81036 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-81036 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Stalwart Mail Server does not compare an OAuth redirect target against any registered des",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81036",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81036:2026-08-26T16:19"
+  },
+  {
+   "ts": "2026-08-26T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81035 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-81035 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Midday allows any member of a team to delete it. The delete procedure in apps/api/src/trp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81035",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81035:2026-08-26T16:19"
+  },
+  {
+   "ts": "2026-08-26T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81034 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-81034 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Netmaker disables certificate verification on the connection to the configured mail serve",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81034",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81034:2026-08-26T16:19"
+  },
+  {
+   "ts": "2026-08-26T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-81032 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-81032 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True NebulaGraph exposes its runtime configuration over an unauthenticated HTTP service. E",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81032",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81032:2026-08-26T16:19"
+  },
+  {
+   "ts": "2026-08-26T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81031 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-81031 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True IDURAR ERP CRM changes the password of whichever account a request names rather than the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81031",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81031:2026-08-26T16:19"
+  },
+  {
+   "ts": "2026-08-26T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81030 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-81030 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Mage AI does not confine the paths accepted by its browser-items API to the project direc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81030",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81030:2026-08-26T16:19"
+  },
+  {
+   "ts": "2026-08-26T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81029 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-81029 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True OpenMetadata accepts a caller-supplied post-authentication redirect target and appends th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81029",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81029:2026-08-26T16:19"
+  },
+  {
+   "ts": "2026-08-26T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81027 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-81027 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True one-api gates one of its two channel-pinning paths and not the other. middleware/auth.go ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81027",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81027:2026-08-26T16:19"
+  },
+  {
+   "ts": "2026-08-26T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-80428 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-80428 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ILIAS deserialises stored session data for an unauthenticated caller. The Shibboleth ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80428",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80428:2026-08-26T16:19"
+  },
+  {
+   "ts": "2026-08-26T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80427 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-80427 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False bestzip builds the argument list for the system zip utility without separating options f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80427",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80427:2026-08-26T16:19"
+  },
+  {
+   "ts": "2026-08-26T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80426 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-80426 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FiftyOne renders a dataset field's description as markup. The sidebar field-information c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80426",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80426:2026-08-26T16:19"
+  },
   {
    "ts": "2026-08-26T15:49:07+00:00",
    "level": "important",
@@ -391,116 +501,6 @@
    "link": "https://developer.apple.com/news/?id=1ptvdtcm",
    "source": "Hacker News",
    "id": "community:https://developer.apple.com/news/?id=1ptvdtcm:2026-08-25T11:49"
-  },
-  {
-   "ts": "2026-08-25T11:49:10+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The entire city of San Francisco as a video game",
-   "body": "Hacker News · 점수 478",
-   "link": "https://sf.thijs.gg/",
-   "source": "Hacker News",
-   "id": "community:https://sf.thijs.gg/:2026-08-25T11:49"
-  },
-  {
-   "ts": "2026-08-25T11:49:10+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Means to deceive",
-   "body": "Lemmy · programming.dev · 점수 386",
-   "link": "https://lemmy.world/pictrs/image/9870c779-7aee-4409-871a-d132f2242dbc.webp",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/9870c779-7aee-4409-871a-d132f2242dbc.webp:2026-08-25T11:49"
-  },
-  {
-   "ts": "2026-08-25T11:49:10+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Where did all the public bathrooms go?",
-   "body": "Hacker News · 점수 251",
-   "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-   "source": "Hacker News",
-   "id": "community:https://daily.jstor.org/where-did-all-the-public-bathrooms-go/:2026-08-25T11:49"
-  },
-  {
-   "ts": "2026-08-25T11:49:10+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Twitch and Amazon hit with lawsuit for training AI with stre",
-   "body": "Lemmy · technology · 점수 234",
-   "link": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/:2026-08-25T11:49"
-  },
-  {
-   "ts": "2026-08-25T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59335 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-59335 📢 Source: vmware 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Improper handling of case sensitivity (CWE-178) in the identity zone authorization check in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59335",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59335:2026-08-25T11:19"
-  },
-  {
-   "ts": "2026-08-25T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12600 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-12600 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Denial-of-service (DoS) vulnerability in the internal JPEG2000 (JPX) decoding implementation",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12600",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12600:2026-08-25T11:19"
-  },
-  {
-   "ts": "2026-08-25T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How Europe is killing makers and micro-entrepreneurs",
-   "body": "Hacker News · 점수 1396",
-   "link": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-   "source": "Hacker News",
-   "id": "community:https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs:2026-08-25T11:19"
-  },
-  {
-   "ts": "2026-08-25T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Xiaomi: New CPU matches Apple cores single threaded, much fa",
-   "body": "Hacker News · 점수 886",
-   "link": "https://twitter.com/lemire/status/2091894299289874926",
-   "source": "Hacker News",
-   "id": "community:https://twitter.com/lemire/status/2091894299289874926:2026-08-25T11:19"
-  },
-  {
-   "ts": "2026-08-25T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] MS Paint and Photos inivisibly watermark even locally genera",
-   "body": "Hacker News · 점수 726",
-   "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-   "source": "Hacker News",
-   "id": "community:https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/:2026-08-25T11:19"
-  },
-  {
-   "ts": "2026-08-25T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Oceans hit highest temperature on record",
-   "body": "Hacker News · 점수 578",
-   "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-   "source": "Hacker News",
-   "id": "community:https://www.bbc.com/news/articles/c62m4gpnp78o:2026-08-25T11:19"
-  },
-  {
-   "ts": "2026-08-25T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I were 17, I'd learn how to build LLMs from scratch",
-   "body": "Hacker News · 점수 557",
-   "link": "https://twitter.com/paulg/status/2091544343589060625",
-   "source": "Hacker News",
-   "id": "community:https://twitter.com/paulg/status/2091544343589060625:2026-08-25T11:19"
   }
  ]
 }
