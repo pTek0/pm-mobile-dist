@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-26T21:49:08+00:00",
+ "generated_at": "2026-08-26T22:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-26T22:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63360 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-63360 📢 Source: Fluid Attacks 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True LimeSurvey Community Edition 7.0.5+260623 contains an authenticated reflected Cross-S",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63360",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63360:2026-08-26T22:19"
+  },
+  {
+   "ts": "2026-08-26T22:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-43621 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-43621 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Simple Machines Forum (SMF) through 2.1.7, fixed in commit 6f0dc61, contains an authoriza",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43621",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43621:2026-08-26T22:19"
+  },
+  {
+   "ts": "2026-08-26T22:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16809 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-16809 📢 Source: Fluid Attacks 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True LimeSurvey Community Edition 7.0.5 contains a stored cross-site scripting vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16809",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16809:2026-08-26T22:19"
+  },
   {
    "ts": "2026-08-26T21:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://lemmy.world/post/55556601",
    "source": "Lemmy · programming.dev",
    "id": "community:https://lemmy.world/post/55556601:2026-08-25T12:49"
-  },
-  {
-   "ts": "2026-08-25T12:49:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Can a blog post be handwritten?",
-   "body": "Lobsters · 점수 50",
-   "link": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
-   "source": "Lobsters",
-   "id": "community:https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/:2026-08-25T12:49"
-  },
-  {
-   "ts": "2026-08-25T12:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77996 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-77996 📢 Source: Joomla 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - yootheme.com - Authenticated, privileged stored XSS in YOOtheme Pro 1.0.0",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77996",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77996:2026-08-25T12:19"
-  },
-  {
-   "ts": "2026-08-25T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Jabber/XMPP: 25 Years of Digital Independence",
-   "body": "Hacker News · 점수 234",
-   "link": "https://gultsch.de/posts/25-years-of-digital-independence/",
-   "source": "Hacker News",
-   "id": "community:https://gultsch.de/posts/25-years-of-digital-independence/:2026-08-25T12:19"
   }
  ]
 }
