@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-26T18:19:08+00:00",
+ "generated_at": "2026-08-26T18:49:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-26T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71171 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-71171 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell Cloud Disaster Recovery, versions 20.2 and prior, contain an Improper Neutralization of S",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71171",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71171:2026-08-26T18:49"
+  },
+  {
+   "ts": "2026-08-26T18:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-70419 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-70419 📢 Source: dell 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Dell Cloud Disaster Recovery, versions 20.2 and prior, contain an Improper Neutralization ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70419",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70419:2026-08-26T18:49"
+  },
+  {
+   "ts": "2026-08-26T18:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19485 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-19485 📢 Source: GoogleCloud 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A Predictable Resource Name vulnerability in BigQuery Import Staging in Google Clou",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19485",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19485:2026-08-26T18:49"
+  },
   {
    "ts": "2026-08-26T18:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-79666",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79666:2026-08-25T11:49"
-  },
-  {
-   "ts": "2026-08-25T11:49:10+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79665 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-79665 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Ech0 before 4.5.1 contains an authorization bypass vulnerability where session tokens ski",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79665",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79665:2026-08-25T11:49"
-  },
-  {
-   "ts": "2026-08-25T11:49:10+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-79664 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-79664 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Ech0 before 4.7.3 fails to properly revoke access tokens created with never-expire op",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79664",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79664:2026-08-25T11:49"
-  },
-  {
-   "ts": "2026-08-25T11:49:10+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79662 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-79662 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Ech0 through 4.5.6 contains an OAuth redirect URI validation vulnerability in parseAndVal",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79662",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79662:2026-08-25T11:49"
   }
  ]
 }
