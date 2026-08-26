@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-26T17:49:08+00:00",
+ "generated_at": "2026-08-26T18:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-26T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76784 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-76784 📢 Source: TPLink 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Multiple TP-Link Kasa smart home devices contain insufficient cryptographic protections in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76784",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76784:2026-08-26T18:19"
+  },
+  {
+   "ts": "2026-08-26T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-58474 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-58474 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True whichllm before 0.5.16 contains a code injection vulnerability in the run and snippet com",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58474",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58474:2026-08-26T18:19"
+  },
+  {
+   "ts": "2026-08-26T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47841 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-47841 📢 Source: vmware 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True An application using Spring Security's WebAuthn support may be vulnerable to user verificati",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47841",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47841:2026-08-26T18:19"
+  },
+  {
+   "ts": "2026-08-26T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47836 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-47836 📢 Source: vmware 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False The base directory (spring.cloud.config.server.svn.basedir) used by the Spring Cloud Config",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47836",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47836:2026-08-26T18:19"
+  },
   {
    "ts": "2026-08-26T16:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-79662",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79662:2026-08-25T11:49"
-  },
-  {
-   "ts": "2026-08-25T11:49:10+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79659 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-79659 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Ech0 before 4.7.3 contains a server-side request forgery vulnerability in the fetchPeerCo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79659",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79659:2026-08-25T11:49"
-  },
-  {
-   "ts": "2026-08-25T11:49:10+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79658 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-79658 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Ech0 before 5.0.1 does not impose any size or shape limit on the Accept-Language header p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79658",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79658:2026-08-25T11:49"
-  },
-  {
-   "ts": "2026-08-25T11:49:10+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-79657 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-79657 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True NLTK versions before 3.10.3 contain a remote code execution vulnerability in allowlis",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79657",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79657:2026-08-25T11:49"
-  },
-  {
-   "ts": "2026-08-25T11:49:10+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] iCloud+ Hide My Email addresses will remain on icloud.com",
-   "body": "Hacker News · 점수 480",
-   "link": "https://developer.apple.com/news/?id=1ptvdtcm",
-   "source": "Hacker News",
-   "id": "community:https://developer.apple.com/news/?id=1ptvdtcm:2026-08-25T11:49"
   }
  ]
 }
