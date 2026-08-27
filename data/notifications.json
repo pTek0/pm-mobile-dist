@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-27T11:19:08+00:00",
+ "generated_at": "2026-08-27T11:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-27T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] An ongoing 3D-printer AGPL violation",
+   "body": "Hacker News · 점수 416",
+   "link": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+   "source": "Hacker News",
+   "id": "community:https://lwn.net/SubscriberLink/1089390/46116614cc74b814/:2026-08-27T11:49"
+  },
+  {
+   "ts": "2026-08-27T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] current status of the web",
+   "body": "Lemmy · technology · 점수 88",
+   "link": "https://how-i-experience-web-today.com/detail",
+   "source": "Lemmy · technology",
+   "id": "community:https://how-i-experience-web-today.com/detail:2026-08-27T11:49"
+  },
+  {
+   "ts": "2026-08-27T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI agents meant to replace Meta workers made “large-scale, d",
+   "body": "Lemmy · technology · 점수 85",
+   "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/:2026-08-27T11:49"
+  },
+  {
+   "ts": "2026-08-27T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Merchants of Insecurity",
+   "body": "Lobsters · 점수 82",
+   "link": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+   "source": "Lobsters",
+   "id": "community:https://blog.happyfellow.dev/merchants-of-insecurity/:2026-08-27T11:49"
+  },
+  {
+   "ts": "2026-08-27T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Bill Gates accuses the tech industry of knowingly downplayin",
+   "body": "Lemmy · technology · 점수 68",
+   "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make:2026-08-27T11:49"
+  },
   {
    "ts": "2026-08-27T11:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16809",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16809:2026-08-26T22:19"
-  },
-  {
-   "ts": "2026-08-26T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15973 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-15973 📢 Source: Fluid Attacks 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True LimeSurvey Community Edition 7.0.5 contains a stored cross-site scripting vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15973",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15973:2026-08-26T21:19"
-  },
-  {
-   "ts": "2026-08-26T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79938 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-79938 📢 Source: dell 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Dell PowerProtect Cyber Recovery, versions prior to 20.3, contain an Improper Authentication v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79938",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79938:2026-08-26T20:19"
-  },
-  {
-   "ts": "2026-08-26T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-60004 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-60004 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Gitea before 1.27.1 allows remote code execution via the diffpatch API through Git hook i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60004",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60004:2026-08-26T20:19"
-  },
-  {
-   "ts": "2026-08-26T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74770 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-74770 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerProtect One, versions 20.1.0.0 and below, contain an Improper Neutralization of Spec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74770",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74770:2026-08-26T19:49"
-  },
-  {
-   "ts": "2026-08-26T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-68863 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-68863 📢 Source: dell 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Dell PowerProtect One, versions 20.1.0.0 and below, contain a Stack-based Buffer Overflow vuln",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68863",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68863:2026-08-26T19:49"
   }
  ]
 }
