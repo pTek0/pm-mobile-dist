@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-08-27T12:49:07+00:00",
+ "generated_at": "2026-08-27T13:19:14+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-27T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81743 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-81743 📢 Source: CIRCL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Affected versions of Flowintel allow the LOG_FILE configuration value to be modified through ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81743",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81743:2026-08-27T13:19"
+  },
+  {
+   "ts": "2026-08-27T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81677 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-81677 📢 Source: INCIBE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The ‘/ws/apiprensa/getVideo’ endpoint is vulnerable to SQL injection due to improper validat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81677",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81677:2026-08-27T13:19"
+  },
+  {
+   "ts": "2026-08-27T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81676 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-81676 📢 Source: INCIBE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A vulnerability in the endpoint ‘/ws/apitribuna/ultimosVideos’ where the `limit_videos` para",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81676",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81676:2026-08-27T13:19"
+  },
+  {
+   "ts": "2026-08-27T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-81675 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-81675 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The endpoint ‘/ws/apiprensa/getVideoUltimasSeccion’ contains an SQL injection vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81675",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81675:2026-08-27T13:19"
+  },
+  {
+   "ts": "2026-08-27T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-81674 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-81674 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The endpoint ‘/ws/apiprensa/getVideoNextPrev’ is vulnerable to SQL injection via the id_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81674",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81674:2026-08-27T13:19"
+  },
+  {
+   "ts": "2026-08-27T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-81673 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-81673 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The ‘/ws/apitribuna/setVisita’ endpoint is vulnerable to SQL injection through the id_vi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81673",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81673:2026-08-27T13:19"
+  },
+  {
+   "ts": "2026-08-27T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-81672 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-81672 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True SQL injection vulnerability in the ‘/ws/apiprensa/getVideoSubcanal’ endpoint due to impr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81672",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81672:2026-08-27T13:19"
+  },
+  {
+   "ts": "2026-08-27T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81662 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-81662 📢 Source: CIRCL 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Affected versions of Flowintel improperly trust configuration keys supplied to the alerts set",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81662",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81662:2026-08-27T13:19"
+  },
+  {
+   "ts": "2026-08-27T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81659 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-81659 📢 Source: CIRCL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Affected versions of Flowintel allow attacker-controlled note content to be processed by Pand",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81659",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81659:2026-08-27T13:19"
+  },
+  {
+   "ts": "2026-08-27T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74233 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-74233 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Zbtlink WE1326, WE357, WE5926, WE5926-WD, WE826-Q, WE826-T2, WE826-WD, WG108, and WG3",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74233",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74233:2026-08-27T13:19"
+  },
+  {
+   "ts": "2026-08-27T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74232 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-74232 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Zbtlink L3_V2_8 firmware 3.0.0.4.528, Zbtlink WE826-T2 firmware 19.1101, Zbtlink ZBT-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74232",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74232:2026-08-27T13:19"
+  },
   {
    "ts": "2026-08-27T12:19:07+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://github.com/tailscale/tailcat",
    "source": "Hacker News",
    "id": "community:https://github.com/tailscale/tailcat:2026-08-26T23:49"
-  },
-  {
-   "ts": "2026-08-26T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nebula Sans",
-   "body": "Hacker News · 점수 311",
-   "link": "https://www.nebulasans.com",
-   "source": "Hacker News",
-   "id": "community:https://www.nebulasans.com:2026-08-26T23:49"
-  },
-  {
-   "ts": "2026-08-26T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Stalking the Wily Hacker: 40 years later – Cliff Stoll [vide",
-   "body": "Hacker News · 점수 278",
-   "link": "https://www.youtube.com/watch?v=656058JxTM0",
-   "source": "Hacker News",
-   "id": "community:https://www.youtube.com/watch?v=656058JxTM0:2026-08-26T23:49"
-  },
-  {
-   "ts": "2026-08-26T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Twitter Viewer – View Twitter Without Account",
-   "body": "Hacker News · 점수 268",
-   "link": "https://twitterwebviewer.com/",
-   "source": "Hacker News",
-   "id": "community:https://twitterwebviewer.com/:2026-08-26T23:49"
-  },
-  {
-   "ts": "2026-08-26T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Meta agrees to pay up to $17.1bn to settle claims its platfo",
-   "body": "Lemmy · technology · 점수 259",
-   "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.bbc.co.uk/news/articles/cd68q3wynnqo:2026-08-26T23:49"
-  },
-  {
-   "ts": "2026-08-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AWS Acquires DuckLabs",
-   "body": "Hacker News · 점수 915",
-   "link": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-   "source": "Hacker News",
-   "id": "community:https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws:2026-08-26T23:19"
-  },
-  {
-   "ts": "2026-08-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GLM-5.3-Flash",
-   "body": "Hacker News · 점수 805",
-   "link": "https://z.ai/blog/glm-5.3-flash",
-   "source": "Hacker News",
-   "id": "community:https://z.ai/blog/glm-5.3-flash:2026-08-26T23:19"
-  },
-  {
-   "ts": "2026-08-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Qwen3.8-Flash-Next",
-   "body": "Hacker News · 점수 593",
-   "link": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-   "source": "Hacker News",
-   "id": "community:https://qwen.ai/blog?id=qwen3.8-flash-next:2026-08-26T23:19"
-  },
-  {
-   "ts": "2026-08-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tim Curry has died",
-   "body": "Hacker News · 점수 531",
-   "link": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
-   "source": "Hacker News",
-   "id": "community:https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film:2026-08-26T23:19"
-  },
-  {
-   "ts": "2026-08-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] RAG Is Simpler Than You Think",
-   "body": "Hacker News · 점수 418",
-   "link": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-   "source": "Hacker News",
-   "id": "community:https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think:2026-08-26T23:19"
-  },
-  {
-   "ts": "2026-08-26T22:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-63360 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-63360 📢 Source: Fluid Attacks 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True LimeSurvey Community Edition 7.0.5+260623 contains an authenticated reflected Cross-S",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63360",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63360:2026-08-26T22:19"
-  },
-  {
-   "ts": "2026-08-26T22:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-43621 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-43621 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Simple Machines Forum (SMF) through 2.1.7, fixed in commit 6f0dc61, contains an authoriza",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43621",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43621:2026-08-26T22:19"
   }
  ]
 }
