@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-26T23:49:07+00:00",
+ "generated_at": "2026-08-27T00:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-27T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Disruption with Some GitHub Services",
+   "body": "Hacker News · 점수 253",
+   "link": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+   "source": "Hacker News",
+   "id": "community:https://www.githubstatus.com/incidents/hcbtzksccj2f:2026-08-27T00:19"
+  },
+  {
+   "ts": "2026-08-27T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] New bootloader lets you take the \"Meta\" out of the original ",
+   "body": "Lemmy · technology · 점수 211",
+   "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/:2026-08-27T00:19"
+  },
+  {
+   "ts": "2026-08-27T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I can definitely maybe do this!",
+   "body": "Lemmy · programming.dev · 점수 195",
+   "link": "https://piefed.cdn.blahaj.zone/posts/8Q/vr/8QvruE4XvAHB0tn.jpg",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://piefed.cdn.blahaj.zone/posts/8Q/vr/8QvruE4XvAHB0tn.jpg:2026-08-27T00:19"
+  },
+  {
+   "ts": "2026-08-27T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] All AI Data Centers Under Construction Could Emit as Much CO",
+   "body": "Lemmy · technology · 점수 161",
+   "link": "https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars:2026-08-27T00:19"
+  },
+  {
+   "ts": "2026-08-27T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I stabilized never type",
+   "body": "Lobsters · 점수 150",
+   "link": "https://blog.ihatereality.space/0C-never-type/",
+   "source": "Lobsters",
+   "id": "community:https://blog.ihatereality.space/0C-never-type/:2026-08-27T00:19"
+  },
   {
    "ts": "2026-08-26T23:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2024-58378",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58378:2026-08-25T15:49"
-  },
-  {
-   "ts": "2026-08-25T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2024-58377 (CVSS 9.3)",
-   "body": "🚨 CVE-2024-58377 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Nokogiri versions before 1.16.5 bundle libxml2 2.12.6, which is affected by CVE-2024-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58377",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58377:2026-08-25T15:49"
-  },
-  {
-   "ts": "2026-08-25T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2023-54354 (CVSS 8.7)",
-   "body": "🚨 CVE-2023-54354 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Nokogiri before 1.14.3 (CRuby implementation only, when using the packaged libxml2) bundl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2023-54354",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54354:2026-08-25T15:49"
-  },
-  {
-   "ts": "2026-08-25T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2022-51000 (CVSS 9.8)",
-   "body": "🚨 CVE-2022-51000 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Nokogiri before 1.13.2 (CRuby, when using packaged libraries) ships vendored libxml2 ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2022-51000",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51000:2026-08-25T15:49"
-  },
-  {
-   "ts": "2026-08-25T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2022-50999 (CVSS 8.8)",
-   "body": "🚨 CVE-2022-50999 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Nokogiri versions before 1.13.5 contain an integer overflow vulnerability in packaged lib",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2022-50999",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-50999:2026-08-25T15:49"
-  },
-  {
-   "ts": "2026-08-25T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2022-50998 (CVSS 8.7)",
-   "body": "🚨 CVE-2022-50998 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Nokogiri before 1.13.9 (CRuby implementation using packaged libraries) bundles libxml2 v2",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2022-50998",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-50998:2026-08-25T15:49"
   }
  ]
 }
