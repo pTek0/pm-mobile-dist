@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-08-27T00:19:07+00:00",
+ "generated_at": "2026-08-27T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-27T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80183 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-80183 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In OpenStack Keystone before 29.0.3, any authenticated user holding role:reader on any projec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80183",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80183:2026-08-27T00:49"
+  },
+  {
+   "ts": "2026-08-27T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47852 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-47852 📢 Source: vmware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A local attacker on a multi-user host can pre-create the deterministic cache path and plant ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47852",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47852:2026-08-27T00:49"
+  },
+  {
+   "ts": "2026-08-27T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47851 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-47851 📢 Source: vmware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Analyzing a PDF with a deeply nested or cyclic table of contents can cause a StackOverflowEr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47851",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47851:2026-08-27T00:49"
+  },
+  {
+   "ts": "2026-08-27T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The Move to Python 3 Begins",
+   "body": "Lobsters · 점수 139",
+   "link": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+   "source": "Lobsters",
+   "id": "community:https://www.eveonline.com/news/view/the-move-to-python-3-begins:2026-08-27T00:49"
+  },
+  {
+   "ts": "2026-08-27T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Promting to copy is art...I swear.",
+   "body": "Lemmy · programming.dev · 점수 95",
+   "link": "https://lemmy.world/pictrs/image/1a33f118-72de-4cb6-90c5-f3780a1e4623.jpeg",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.world/pictrs/image/1a33f118-72de-4cb6-90c5-f3780a1e4623.jpeg:2026-08-27T00:49"
+  },
+  {
+   "ts": "2026-08-27T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] CoMaps: The Offline App That Guided Rescuers Without a Signa",
+   "body": "Lemmy · technology · 점수 75",
+   "link": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
+   "source": "Lemmy · technology",
+   "id": "community:https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/:2026-08-27T00:49"
+  },
+  {
+   "ts": "2026-08-27T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The Root of The Root of All Evil",
+   "body": "Lobsters · 점수 60",
+   "link": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+   "source": "Lobsters",
+   "id": "community:https://www.youtube.com/watch?v=hpj6r6CjJf8:2026-08-27T00:49"
+  },
+  {
+   "ts": "2026-08-27T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] mold: A Massively Parallel Linker",
+   "body": "Lobsters · 점수 58",
+   "link": "https://arxiv.org/abs/2608.23228",
+   "source": "Lobsters",
+   "id": "community:https://arxiv.org/abs/2608.23228:2026-08-27T00:49"
+  },
   {
    "ts": "2026-08-27T00:19:07+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-80426",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80426:2026-08-26T16:19"
-  },
-  {
-   "ts": "2026-08-26T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75062 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-75062 📢 Source: Google 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75062",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75062:2026-08-26T15:49"
-  },
-  {
-   "ts": "2026-08-25T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79676 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-79676 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True NLTK versions before 3.10.3 contain a path traversal vulnerability in corpus readers that",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79676",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79676:2026-08-25T15:49"
-  },
-  {
-   "ts": "2026-08-25T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-79675 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-79675 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True NLTK before 3.10.3 fails to validate JVM options passed through the per-call options ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79675",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79675:2026-08-25T15:49"
-  },
-  {
-   "ts": "2026-08-25T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79674 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-79674 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True NLTK versions before 3.10.3 contain a path sandbox bypass vulnerability in corpus-reader ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79674",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79674:2026-08-25T15:49"
-  },
-  {
-   "ts": "2026-08-25T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2025-71407 (CVSS 9.8)",
-   "body": "🚨 CVE-2025-71407 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Nokogiri before 1.18.3 contains a stack buffer overflow vulnerability in libxml2 when",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71407",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71407:2026-08-25T15:49"
-  },
-  {
-   "ts": "2026-08-25T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-71406 (CVSS 8.7)",
-   "body": "🚨 CVE-2025-71406 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Nokogiri before 1.18.4 bundles a vulnerable version of libxslt (prior to 1.1.43) that con",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71406",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71406:2026-08-25T15:49"
-  },
-  {
-   "ts": "2026-08-25T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-71346 (CVSS 8.7)",
-   "body": "🚨 CVE-2025-71346 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Nokogiri before 1.18.8 packages a vulnerable version of libxml2 (before 2.13.8) that cont",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71346",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71346:2026-08-25T15:49"
-  },
-  {
-   "ts": "2026-08-25T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2024-58378 (CVSS 9.8)",
-   "body": "🚨 CVE-2024-58378 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Nokogiri before 1.15.6 and 1.16.x before 1.16.2 (CRuby, when using the packaged libxm",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58378",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58378:2026-08-25T15:49"
   }
  ]
 }
