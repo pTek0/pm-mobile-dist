@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-27T19:49:08+00:00",
+ "generated_at": "2026-08-27T20:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-27T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18886 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-18886 📢 Source: SN 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True ServiceNow has remediated an improper access control vulnerability that was identified in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18886",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18886:2026-08-27T20:19"
+  },
+  {
+   "ts": "2026-08-27T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18885 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-18885 📢 Source: SN 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True ServiceNow has remediated a code injection vulnerability that was identified in the ServiceNo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18885",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18885:2026-08-27T20:19"
+  },
+  {
+   "ts": "2026-08-27T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10036 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-10036 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SpeechBrain before 1.1.1 contains an arbitrary code execution vulnerability that allows a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10036",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10036:2026-08-27T20:19"
+  },
   {
    "ts": "2026-08-27T16:49:07+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: finance:2026-08-27T02:19"
-  },
-  {
-   "ts": "2026-08-27T01:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Haiku R1/beta6 released",
-   "body": "Lobsters · 점수 52",
-   "link": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/",
-   "source": "Lobsters",
-   "id": "community:https://www.haiku-os.org/get-haiku/r1beta6/release-notes/:2026-08-27T01:19"
-  },
-  {
-   "ts": "2026-08-27T00:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80183 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-80183 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In OpenStack Keystone before 29.0.3, any authenticated user holding role:reader on any projec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80183",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80183:2026-08-27T00:49"
-  },
-  {
-   "ts": "2026-08-27T00:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-47852 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-47852 📢 Source: vmware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A local attacker on a multi-user host can pre-create the deterministic cache path and plant ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47852",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47852:2026-08-27T00:49"
   }
  ]
 }
