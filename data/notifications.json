@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-27T00:49:07+00:00",
+ "generated_at": "2026-08-27T01:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-27T01:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Haiku R1/beta6 released",
+   "body": "Lobsters · 점수 52",
+   "link": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/",
+   "source": "Lobsters",
+   "id": "community:https://www.haiku-os.org/get-haiku/r1beta6/release-notes/:2026-08-27T01:19"
+  },
   {
    "ts": "2026-08-27T00:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-80427",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80427:2026-08-26T16:19"
-  },
-  {
-   "ts": "2026-08-26T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80426 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-80426 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FiftyOne renders a dataset field's description as markup. The sidebar field-information c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80426",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80426:2026-08-26T16:19"
   }
  ]
 }
