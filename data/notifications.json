@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-27T01:49:07+00:00",
+ "generated_at": "2026-08-27T02:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-27T02:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: finance",
+   "body": "**★ 2026-08-27 승격 전략 페이퍼 가동(H-13 승인 집행, 847→858 pass)**: TSMOM 바스켓(65만·매일 07:40)+BTC MA100 추세(25만·매일 09:15)+펌프캡처 샹들리에 BT",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: finance:2026-08-27T02:19"
+  },
   {
    "ts": "2026-08-27T01:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-80428",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80428:2026-08-26T16:19"
-  },
-  {
-   "ts": "2026-08-26T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80427 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-80427 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False bestzip builds the argument list for the system zip utility without separating options f",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80427",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80427:2026-08-26T16:19"
   }
  ]
 }
