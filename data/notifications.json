@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-08-27T09:19:07+00:00",
+ "generated_at": "2026-08-27T09:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-27T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81625 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-81625 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A remote attacker with user privileges may use a malicious or compromised NASL vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81625",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81625:2026-08-27T09:49"
+  },
+  {
+   "ts": "2026-08-27T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81581 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-81581 📢 Source: wibu 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Improper validation of memory boundaries in WibuKey64.sys of WibuKey up to 6.70 for Windows c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81581",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81581:2026-08-27T09:49"
+  },
+  {
+   "ts": "2026-08-27T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81579 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-81579 📢 Source: wibu 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False In WibuKey for Windows before version 6.71, an untrusted pointer dereference in the WibuKey2_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81579",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81579:2026-08-27T09:49"
+  },
+  {
+   "ts": "2026-08-27T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81576 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-81576 📢 Source: wibu 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True If configured as a server, CodeMeter Runtime before versions 8.41a and 9.10 issues handles per",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81576",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81576:2026-08-27T09:49"
+  },
+  {
+   "ts": "2026-08-27T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81575 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-81575 📢 Source: wibu 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True If configured as a server, CodeMeter Runtime before versions 8.41a and 9.10 accepts requests w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81575",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81575:2026-08-27T09:49"
+  },
+  {
+   "ts": "2026-08-27T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81574 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-81574 📢 Source: wibu 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In CodeMeter Runtime before versions 8.41a and 9.10, the logger does not sanitize input string",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81574",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81574:2026-08-27T09:49"
+  },
+  {
+   "ts": "2026-08-27T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81573 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-81573 📢 Source: wibu 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True If CodeMeter Runtime before 8.41a or 9.10 is configured as a server, the configuration command",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81573",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81573:2026-08-27T09:49"
+  },
+  {
+   "ts": "2026-08-27T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81572 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-81572 📢 Source: wibu 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False cmu.exe --create-io --file C: creates a predictable temporary file under C:\\CM-Stick. The dir",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81572",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81572:2026-08-27T09:49"
+  },
+  {
+   "ts": "2026-08-27T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75020 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-75020 📢 Source: apache 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection') vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75020",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75020:2026-08-27T09:49"
+  },
+  {
+   "ts": "2026-08-27T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75005 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-75005 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Inefficient Algorithmic Complexity vulnerability in Apache APISIX. A single small request ca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75005",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75005:2026-08-27T09:49"
+  },
+  {
+   "ts": "2026-08-27T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74848 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-74848 📢 Source: apache 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling') vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74848",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74848:2026-08-27T09:49"
+  },
   {
    "ts": "2026-08-27T02:49:07+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76784",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76784:2026-08-26T18:19"
-  },
-  {
-   "ts": "2026-08-26T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-58474 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-58474 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True whichllm before 0.5.16 contains a code injection vulnerability in the run and snippet com",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58474",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58474:2026-08-26T18:19"
-  },
-  {
-   "ts": "2026-08-26T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-47841 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-47841 📢 Source: vmware 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True An application using Spring Security's WebAuthn support may be vulnerable to user verificati",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47841",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47841:2026-08-26T18:19"
-  },
-  {
-   "ts": "2026-08-26T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-47836 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-47836 📢 Source: vmware 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False The base directory (spring.cloud.config.server.svn.basedir) used by the Spring Cloud Config",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47836",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47836:2026-08-26T18:19"
-  },
-  {
-   "ts": "2026-08-26T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81036 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-81036 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Stalwart Mail Server does not compare an OAuth redirect target against any registered des",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81036",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81036:2026-08-26T16:19"
-  },
-  {
-   "ts": "2026-08-26T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81035 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-81035 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Midday allows any member of a team to delete it. The delete procedure in apps/api/src/trp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81035",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81035:2026-08-26T16:19"
-  },
-  {
-   "ts": "2026-08-26T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81034 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-81034 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Netmaker disables certificate verification on the connection to the configured mail serve",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81034",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81034:2026-08-26T16:19"
-  },
-  {
-   "ts": "2026-08-26T16:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-81032 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-81032 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True NebulaGraph exposes its runtime configuration over an unauthenticated HTTP service. E",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81032",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81032:2026-08-26T16:19"
-  },
-  {
-   "ts": "2026-08-26T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81031 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-81031 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True IDURAR ERP CRM changes the password of whichever account a request names rather than the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81031",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81031:2026-08-26T16:19"
-  },
-  {
-   "ts": "2026-08-26T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81030 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-81030 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Mage AI does not confine the paths accepted by its browser-items API to the project direc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81030",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81030:2026-08-26T16:19"
-  },
-  {
-   "ts": "2026-08-26T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81029 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-81029 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True OpenMetadata accepts a caller-supplied post-authentication redirect target and appends th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81029",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81029:2026-08-26T16:19"
-  },
-  {
-   "ts": "2026-08-26T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81027 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-81027 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True one-api gates one of its two channel-pinning paths and not the other. middleware/auth.go ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81027",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81027:2026-08-26T16:19"
   }
  ]
 }
