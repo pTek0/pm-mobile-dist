@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-08-27T16:19:07+00:00",
+ "generated_at": "2026-08-27T16:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-27T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-81094 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-81094 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The mcp-router CLI served its MCP aggregator on every interface and enforced authenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81094",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81094:2026-08-27T16:49"
+  },
+  {
+   "ts": "2026-08-27T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81093 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-81093 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The get-html-skeleton tool fetched a URL the caller supplied after checking only its synt",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81093",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81093:2026-08-27T16:49"
+  },
+  {
+   "ts": "2026-08-27T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81092 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-81092 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True mcp-go accepted requests on its HTTP transports without checking the Host header. Streama",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81092",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81092:2026-08-27T16:49"
+  },
+  {
+   "ts": "2026-08-27T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81091 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-81091 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The proxy middleware in mcp-use's inspector forwards requests to a destination the caller",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81091",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81091:2026-08-27T16:49"
+  },
+  {
+   "ts": "2026-08-27T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80212 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-80212 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An issue was discovered in the resolv gem before 0.7.2 for Ruby. Resolv::DNS::Resource.get_cl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80212",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80212:2026-08-27T16:49"
+  },
+  {
+   "ts": "2026-08-27T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80211 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-80211 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True FrontAccounting through 2.4.20 stores and verifies user passwords as unsalted MD5 digests",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80211",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80211:2026-08-27T16:49"
+  },
+  {
+   "ts": "2026-08-27T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80210 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-80210 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FrontAccounting through 2.4.20 generates a CSRF token in end_form() in includes/ui/ui_con",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80210",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80210:2026-08-27T16:49"
+  },
+  {
+   "ts": "2026-08-27T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80208 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-80208 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True APITable through 1.13.0-beta.1 annotates both getUserHistories and closePausedUserAccount",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80208",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80208:2026-08-27T16:49"
+  },
+  {
+   "ts": "2026-08-27T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79988 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-79988 📢 Source: Hackrate 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The Twig sandbox mechanism in Craft CMS is configured to allow dangerous functionality fro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79988",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79988:2026-08-27T16:49"
+  },
+  {
+   "ts": "2026-08-27T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78002 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-78002 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in rsyslog. An unauthenticated remote attacker can trigger a heap buffer ov",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78002",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78002:2026-08-27T16:49"
+  },
+  {
+   "ts": "2026-08-27T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75871 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-75871 📢 Source: GitLab 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated a vulnerability in the GitLab AI Gateway component affecting all versi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75871",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75871:2026-08-27T16:49"
+  },
+  {
+   "ts": "2026-08-27T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75159 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-75159 📢 Source: mongodb 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True An unauthenticated client that can reach a MongoDB Connector for BI deployment configured w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75159",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75159:2026-08-27T16:49"
+  },
   {
    "ts": "2026-08-27T13:19:07+00:00",
    "level": "general",
@@ -381,126 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-47852",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47852:2026-08-27T00:49"
-  },
-  {
-   "ts": "2026-08-27T00:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-47851 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-47851 📢 Source: vmware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Analyzing a PDF with a deeply nested or cyclic table of contents can cause a StackOverflowEr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47851",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47851:2026-08-27T00:49"
-  },
-  {
-   "ts": "2026-08-27T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Move to Python 3 Begins",
-   "body": "Lobsters · 점수 139",
-   "link": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-   "source": "Lobsters",
-   "id": "community:https://www.eveonline.com/news/view/the-move-to-python-3-begins:2026-08-27T00:49"
-  },
-  {
-   "ts": "2026-08-27T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Promting to copy is art...I swear.",
-   "body": "Lemmy · programming.dev · 점수 95",
-   "link": "https://lemmy.world/pictrs/image/1a33f118-72de-4cb6-90c5-f3780a1e4623.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/1a33f118-72de-4cb6-90c5-f3780a1e4623.jpeg:2026-08-27T00:49"
-  },
-  {
-   "ts": "2026-08-27T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] CoMaps: The Offline App That Guided Rescuers Without a Signa",
-   "body": "Lemmy · technology · 점수 75",
-   "link": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
-   "source": "Lemmy · technology",
-   "id": "community:https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/:2026-08-27T00:49"
-  },
-  {
-   "ts": "2026-08-27T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Root of The Root of All Evil",
-   "body": "Lobsters · 점수 60",
-   "link": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
-   "source": "Lobsters",
-   "id": "community:https://www.youtube.com/watch?v=hpj6r6CjJf8:2026-08-27T00:49"
-  },
-  {
-   "ts": "2026-08-27T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] mold: A Massively Parallel Linker",
-   "body": "Lobsters · 점수 58",
-   "link": "https://arxiv.org/abs/2608.23228",
-   "source": "Lobsters",
-   "id": "community:https://arxiv.org/abs/2608.23228:2026-08-27T00:49"
-  },
-  {
-   "ts": "2026-08-27T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Disruption with Some GitHub Services",
-   "body": "Hacker News · 점수 253",
-   "link": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
-   "source": "Hacker News",
-   "id": "community:https://www.githubstatus.com/incidents/hcbtzksccj2f:2026-08-27T00:19"
-  },
-  {
-   "ts": "2026-08-27T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] New bootloader lets you take the \"Meta\" out of the original ",
-   "body": "Lemmy · technology · 점수 211",
-   "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/:2026-08-27T00:19"
-  },
-  {
-   "ts": "2026-08-27T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I can definitely maybe do this!",
-   "body": "Lemmy · programming.dev · 점수 195",
-   "link": "https://piefed.cdn.blahaj.zone/posts/8Q/vr/8QvruE4XvAHB0tn.jpg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://piefed.cdn.blahaj.zone/posts/8Q/vr/8QvruE4XvAHB0tn.jpg:2026-08-27T00:19"
-  },
-  {
-   "ts": "2026-08-27T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] All AI Data Centers Under Construction Could Emit as Much CO",
-   "body": "Lemmy · technology · 점수 161",
-   "link": "https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars:2026-08-27T00:19"
-  },
-  {
-   "ts": "2026-08-27T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I stabilized never type",
-   "body": "Lobsters · 점수 150",
-   "link": "https://blog.ihatereality.space/0C-never-type/",
-   "source": "Lobsters",
-   "id": "community:https://blog.ihatereality.space/0C-never-type/:2026-08-27T00:19"
-  },
-  {
-   "ts": "2026-08-26T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tailcat – Like netcat, but over Tailscale’s data plane",
-   "body": "Hacker News · 점수 411",
-   "link": "https://github.com/tailscale/tailcat",
-   "source": "Hacker News",
-   "id": "community:https://github.com/tailscale/tailcat:2026-08-26T23:49"
   }
  ]
 }
