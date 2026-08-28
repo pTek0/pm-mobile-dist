@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-28T04:49:08+00:00",
+ "generated_at": "2026-08-28T05:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-28T05:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82090 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-82090 📢 Source: mitre 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Pocket through 8.33.0.0 allows XSS because \"Save to Pocket\" injects external HTML into th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82090",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82090:2026-08-28T05:19"
+  },
+  {
+   "ts": "2026-08-28T05:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82089 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-82089 📢 Source: mitre 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The wallabag (aka fr.gaulupeau.apps.InThePoche) application through 2.6.0 for Android allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82089",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82089:2026-08-28T05:19"
+  },
+  {
+   "ts": "2026-08-28T05:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82082 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82082 📢 Source: twcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True NUMail developed by Green-Computing has an OS Command Injection vulnerability. Unauthent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82082",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82082:2026-08-28T05:19"
+  },
   {
    "ts": "2026-08-28T02:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81674",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81674:2026-08-27T13:19"
-  },
-  {
-   "ts": "2026-08-27T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-81673 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-81673 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The ‘/ws/apitribuna/setVisita’ endpoint is vulnerable to SQL injection through the id_vi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81673",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81673:2026-08-27T13:19"
-  },
-  {
-   "ts": "2026-08-27T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-81672 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-81672 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True SQL injection vulnerability in the ‘/ws/apiprensa/getVideoSubcanal’ endpoint due to impr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81672",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81672:2026-08-27T13:19"
-  },
-  {
-   "ts": "2026-08-27T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81662 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-81662 📢 Source: CIRCL 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Affected versions of Flowintel improperly trust configuration keys supplied to the alerts set",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81662",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81662:2026-08-27T13:19"
   }
  ]
 }
