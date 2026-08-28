@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-28T10:49:08+00:00",
+ "generated_at": "2026-08-28T11:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-28T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Gemini-3.5-Transcribe",
+   "body": "Hacker News · 점수 299",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+   "source": "Hacker News",
+   "id": "community:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/:2026-08-28T11:19"
+  },
+  {
+   "ts": "2026-08-28T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] We found a division by zero bug in FFmpeg with a vibecoded f",
+   "body": "Hacker News · 점수 253",
+   "link": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+   "source": "Hacker News",
+   "id": "community:https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290:2026-08-28T11:19"
+  },
+  {
+   "ts": "2026-08-28T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] You wouldn't download furniture",
+   "body": "Lemmy · programming.dev · 점수 238",
+   "link": "https://feditown.com/pictrs/image/9bdc7414-8651-463c-bc44-75569ecff3fe.webp",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://feditown.com/pictrs/image/9bdc7414-8651-463c-bc44-75569ecff3fe.webp:2026-08-28T11:19"
+  },
+  {
+   "ts": "2026-08-28T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Flock CEO Garrett Langley targeted as address shared online",
+   "body": "Lemmy · technology · 점수 195",
+   "link": "https://www.newsweek.com/flock-ceo-garrett-langley-targeted-as-address-shared-online-12375766",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.newsweek.com/flock-ceo-garrett-langley-targeted-as-address-shared-online-12375766:2026-08-28T11:19"
+  },
+  {
+   "ts": "2026-08-28T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] def hssss():",
+   "body": "Lemmy · programming.dev · 점수 150",
+   "link": "https://lemmy.world/pictrs/image/be4040a5-1eec-4888-9a1c-deca66edb6f4.png",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.world/pictrs/image/be4040a5-1eec-4888-9a1c-deca66edb6f4.png:2026-08-28T11:19"
+  },
   {
    "ts": "2026-08-28T07:49:08+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78002",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78002:2026-08-27T16:49"
-  },
-  {
-   "ts": "2026-08-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75871 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-75871 📢 Source: GitLab 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated a vulnerability in the GitLab AI Gateway component affecting all versi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75871",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75871:2026-08-27T16:49"
-  },
-  {
-   "ts": "2026-08-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75159 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-75159 📢 Source: mongodb 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True An unauthenticated client that can reach a MongoDB Connector for BI deployment configured w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75159",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75159:2026-08-27T16:49"
-  },
-  {
-   "ts": "2026-08-27T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81743 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-81743 📢 Source: CIRCL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Affected versions of Flowintel allow the LOG_FILE configuration value to be modified through ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81743",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81743:2026-08-27T13:19"
-  },
-  {
-   "ts": "2026-08-27T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81677 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-81677 📢 Source: INCIBE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The ‘/ws/apiprensa/getVideo’ endpoint is vulnerable to SQL injection due to improper validat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81677",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81677:2026-08-27T13:19"
-  },
-  {
-   "ts": "2026-08-27T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81676 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-81676 📢 Source: INCIBE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A vulnerability in the endpoint ‘/ws/apitribuna/ultimosVideos’ where the `limit_videos` para",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81676",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81676:2026-08-27T13:19"
   }
  ]
 }
