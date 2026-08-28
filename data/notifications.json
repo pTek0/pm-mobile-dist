@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-28T07:19:08+00:00",
+ "generated_at": "2026-08-28T07:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-28T07:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78032 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-78032 📢 Source: jpcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: False SOY CMS contains an issue with deserialization of untrusted data. An arbitrary code may",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78032",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78032:2026-08-28T07:49"
+  },
+  {
+   "ts": "2026-08-28T07:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-40541 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-40541 📢 Source: synology 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True An improper neutralization of input during web page generation ('Cross-site Scripting') ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40541",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40541:2026-08-28T07:49"
+  },
   {
    "ts": "2026-08-28T05:19:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81676",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81676:2026-08-27T13:19"
-  },
-  {
-   "ts": "2026-08-27T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-81675 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-81675 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The endpoint ‘/ws/apiprensa/getVideoUltimasSeccion’ contains an SQL injection vulnerabil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81675",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81675:2026-08-27T13:19"
-  },
-  {
-   "ts": "2026-08-27T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-81674 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-81674 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The endpoint ‘/ws/apiprensa/getVideoNextPrev’ is vulnerable to SQL injection via the id_",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81674",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81674:2026-08-27T13:19"
   }
  ]
 }
