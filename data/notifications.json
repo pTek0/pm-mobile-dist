@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-28T01:49:08+00:00",
+ "generated_at": "2026-08-28T02:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-28T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-38822 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-38822 📢 Source: mitre 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: False In openNDS before 11.0.0, the client_params.sh script, invoked by the openNDS daemon to serv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-38822",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-38822:2026-08-28T02:19"
+  },
+  {
+   "ts": "2026-08-28T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-38821 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-38821 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A heap-based buffer overflow vulnerability exists in openNDS before 11.0.0 that allows an un",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-38821",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-38821:2026-08-28T02:19"
+  },
+  {
+   "ts": "2026-08-28T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-38820 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-38820 📢 Source: mitre 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False openNDS before 11.0.0 is susceptible to unauthenticated OS command execution via shell comma",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-38820",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-38820:2026-08-28T02:19"
+  },
   {
    "ts": "2026-08-28T00:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81662",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81662:2026-08-27T13:19"
-  },
-  {
-   "ts": "2026-08-27T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81659 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-81659 📢 Source: CIRCL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Affected versions of Flowintel allow attacker-controlled note content to be processed by Pand",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81659",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81659:2026-08-27T13:19"
-  },
-  {
-   "ts": "2026-08-27T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74233 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-74233 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Zbtlink WE1326, WE357, WE5926, WE5926-WD, WE826-Q, WE826-T2, WE826-WD, WG108, and WG3",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74233",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74233:2026-08-27T13:19"
-  },
-  {
-   "ts": "2026-08-27T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74232 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-74232 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Zbtlink L3_V2_8 firmware 3.0.0.4.528, Zbtlink WE826-T2 firmware 19.1101, Zbtlink ZBT-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74232",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74232:2026-08-27T13:19"
   }
  ]
 }
