@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-08-28T21:49:07+00:00",
+ "generated_at": "2026-08-28T22:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-28T22:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-3627 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-3627 📢 Source: ibm 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True IBM Concert 1.0.0 through 2.3.1 is vulnerable to SQL injection. A remote attacker could send",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-3627",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-3627:2026-08-28T22:19"
+  },
+  {
+   "ts": "2026-08-28T22:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19295 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-19295 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.11.1 allows an authenticated attacker to execute arbitrary",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19295",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19295:2026-08-28T22:19"
+  },
+  {
+   "ts": "2026-08-28T22:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19286 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-19286 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.11.1 could allow a remote attacker to execute arbitrary co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19286",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19286:2026-08-28T22:19"
+  },
+  {
+   "ts": "2026-08-28T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18904 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-18904 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.11.1 could allow a remote attacker to obtain sensitive informa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18904",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18904:2026-08-28T22:19"
+  },
+  {
+   "ts": "2026-08-28T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18899 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-18899 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.11.1 could allow a remote attacker to read arbitrary files due",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18899",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18899:2026-08-28T22:19"
+  },
+  {
+   "ts": "2026-08-28T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18891 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-18891 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.11.1 could allow a remote attacker to execute arbitrary flows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18891",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18891:2026-08-28T22:19"
+  },
+  {
+   "ts": "2026-08-28T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18729 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-18729 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.11.1 could allow a remote authenticated attacker to execute ar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18729",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18729:2026-08-28T22:19"
+  },
+  {
+   "ts": "2026-08-28T22:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18527 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-18527 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM Administration Runtime Expert for i 1R1M0 IBM Application Runtime Expert (ARE) for i co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18527",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18527:2026-08-28T22:19"
+  },
+  {
+   "ts": "2026-08-28T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17203 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-17203 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Administration Runtime Expert for i 1R1M0 could allow a remote authenticated attacker to ob",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17203",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17203:2026-08-28T22:19"
+  },
+  {
+   "ts": "2026-08-28T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16821 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-16821 📢 Source: ibm 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False IBM AIX 7.2, and 7.3 and IBM PowerVM VIOS 4.1 could allow a local attacker to gain elevated priv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16821",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16821:2026-08-28T22:19"
+  },
   {
    "ts": "2026-08-28T19:49:06+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
    "source": "Hacker News",
    "id": "community:https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med:2026-08-28T00:19"
-  },
-  {
-   "ts": "2026-08-28T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Gemini Omni 1.1 Flash",
-   "body": "Hacker News · 점수 166",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-   "source": "Hacker News",
-   "id": "community:https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/:2026-08-28T00:19"
-  },
-  {
-   "ts": "2026-08-28T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Suica, Japan's First IC Transit Card",
-   "body": "Hacker News · 점수 159",
-   "link": "https://www.tokyodev.com/articles/the-story-of-suica",
-   "source": "Hacker News",
-   "id": "community:https://www.tokyodev.com/articles/the-story-of-suica:2026-08-28T00:19"
-  },
-  {
-   "ts": "2026-08-28T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Decompiling a Nintendo 64 game in 84 days",
-   "body": "Hacker News · 점수 158",
-   "link": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
-   "source": "Hacker News",
-   "id": "community:https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/:2026-08-28T00:19"
-  },
-  {
-   "ts": "2026-08-28T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Changes to SourceHut's terms of service regarding LLMs",
-   "body": "Lobsters · 점수 140",
-   "link": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
-   "source": "Lobsters",
-   "id": "community:https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/:2026-08-28T00:19"
-  },
-  {
-   "ts": "2026-08-27T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-5706 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-5706 📢 Source: Silabs 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: False In Bluetooth Mesh SDK 6.1.4 and earlier, malformed extended advertisements can trigger out-o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-5706",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-5706:2026-08-27T23:49"
-  },
-  {
-   "ts": "2026-08-27T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-44629 (CVSS 7.9)",
-   "body": "🚨 CVE-2026-44629 📢 Source: Genetec 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: False Improper access control to the Synergis Softwire installation folder. This vulnerability a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-44629",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-44629:2026-08-27T23:49"
-  },
-  {
-   "ts": "2026-08-27T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18965 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-18965 📢 Source: icscert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True PayRange API is missing proper authorization on management endpoints, which allows verbose ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18965",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18965:2026-08-27T23:49"
-  },
-  {
-   "ts": "2026-08-27T23:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-18717 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-18717 📢 Source: icscert 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True ASE2000 2.35 through 2.37 is vulnerable to an improper certificate validation vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18717",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18717:2026-08-27T23:49"
-  },
-  {
-   "ts": "2026-08-27T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] True",
-   "body": "Lemmy · programming.dev · 점수 270",
-   "link": "https://sh.itjust.works/pictrs/image/cf8ed77b-3501-45c7-96f1-2705ac6953d4.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://sh.itjust.works/pictrs/image/cf8ed77b-3501-45c7-96f1-2705ac6953d4.jpeg:2026-08-27T23:49"
-  },
-  {
-   "ts": "2026-08-27T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Panic passes Trump tariff refunds back to the Playdate custo",
-   "body": "Lemmy · technology · 점수 249",
-   "link": "https://arstechnica.com/gaming/2026/08/panic-refunds-illegal-tariffs-customers-paid-on-its-playdate-gaming-handheld/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/gaming/2026/08/panic-refunds-illegal-tariffs-customers-paid-on-its-playdate-gaming-handheld/:2026-08-27T23:49"
   }
  ]
 }
