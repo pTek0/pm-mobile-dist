@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-08-28T11:19:08+00:00",
+ "generated_at": "2026-08-28T11:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-28T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-42391 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-42391 📢 Source: OX 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An unauthenticated attacker can send an IMAP ID command with a very large number of parameters b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-42391",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-42391:2026-08-28T11:49"
+  },
+  {
+   "ts": "2026-08-28T11:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-42007 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-42007 📢 Source: OX 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True An attacker that has valid credentials can use a Sieve script with the editheader extension ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-42007",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-42007:2026-08-28T11:49"
+  },
+  {
+   "ts": "2026-08-28T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-40018 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-40018 📢 Source: OX 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True None None None No publicly available exploits are known. 📅 Published Date: 2026-08-28T10:12:20.4",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40018",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40018:2026-08-28T11:49"
+  },
+  {
+   "ts": "2026-08-28T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-33605 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-33605 📢 Source: OX 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An unauthenticated attacker can crash the ManageSieve login process by sending a small malformed",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-33605",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33605:2026-08-28T11:49"
+  },
+  {
+   "ts": "2026-08-28T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-27852 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-27852 📢 Source: OX 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An attacker that can send mail to a user can craft a message whose headers contain a very large ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-27852",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-27852:2026-08-28T11:49"
+  },
+  {
+   "ts": "2026-08-28T11:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18918 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-18918 📢 Source: eclipse 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True In Eclipse Lyo versions 2.0.0 to 7.0.0, OAuth server authorization checks can be bypass",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18918",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18918:2026-08-28T11:49"
+  },
+  {
+   "ts": "2026-08-28T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] LibreOffice 26.8 Doubles Down on No AI, Right After Collabor",
+   "body": "Lemmy · programming.dev · 점수 112",
+   "link": "https://itsfoss.com/news/libreoffice-26-8-release/?=0",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://itsfoss.com/news/libreoffice-26-8-release/?=0:2026-08-28T11:49"
+  },
+  {
+   "ts": "2026-08-28T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Please stop flooding our projects with AI slop to furnish yo",
+   "body": "Lemmy · technology · 점수 72",
+   "link": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+   "source": "Lemmy · technology",
+   "id": "community:https://neilalexander.dev/2026/06/30/flooding-contributions:2026-08-28T11:49"
+  },
+  {
+   "ts": "2026-08-28T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Please stop flooding our projects with AI slop to furnish yo",
+   "body": "Lobsters · 점수 70",
+   "link": "https://neilalexander.dev/2026/06/30/flooding-contributions.html",
+   "source": "Lobsters",
+   "id": "community:https://neilalexander.dev/2026/06/30/flooding-contributions.html:2026-08-28T11:49"
+  },
+  {
+   "ts": "2026-08-28T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI industry says Trump plans to tax chips in the “single dum",
+   "body": "Lemmy · technology · 점수 66",
+   "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/:2026-08-28T11:49"
+  },
+  {
+   "ts": "2026-08-28T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Real Science Is Harder Than Benchmarks: University students ",
+   "body": "Lemmy · technology · 점수 65",
+   "link": "https://news.northeastern.edu/2026/08/26/ai-drug-discovery-study/",
+   "source": "Lemmy · technology",
+   "id": "community:https://news.northeastern.edu/2026/08/26/ai-drug-discovery-study/:2026-08-28T11:49"
+  },
   {
    "ts": "2026-08-28T11:19:07+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18885",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18885:2026-08-27T20:19"
-  },
-  {
-   "ts": "2026-08-27T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-10036 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-10036 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SpeechBrain before 1.1.1 contains an arbitrary code execution vulnerability that allows a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10036",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10036:2026-08-27T20:19"
-  },
-  {
-   "ts": "2026-08-27T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-81094 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-81094 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The mcp-router CLI served its MCP aggregator on every interface and enforced authenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81094",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81094:2026-08-27T16:49"
-  },
-  {
-   "ts": "2026-08-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81093 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-81093 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The get-html-skeleton tool fetched a URL the caller supplied after checking only its synt",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81093",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81093:2026-08-27T16:49"
-  },
-  {
-   "ts": "2026-08-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81092 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-81092 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True mcp-go accepted requests on its HTTP transports without checking the Host header. Streama",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81092",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81092:2026-08-27T16:49"
-  },
-  {
-   "ts": "2026-08-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81091 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-81091 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The proxy middleware in mcp-use's inspector forwards requests to a destination the caller",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81091",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81091:2026-08-27T16:49"
-  },
-  {
-   "ts": "2026-08-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80212 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-80212 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An issue was discovered in the resolv gem before 0.7.2 for Ruby. Resolv::DNS::Resource.get_cl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80212",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80212:2026-08-27T16:49"
-  },
-  {
-   "ts": "2026-08-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80211 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-80211 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True FrontAccounting through 2.4.20 stores and verifies user passwords as unsalted MD5 digests",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80211",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80211:2026-08-27T16:49"
-  },
-  {
-   "ts": "2026-08-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80210 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-80210 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FrontAccounting through 2.4.20 generates a CSRF token in end_form() in includes/ui/ui_con",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80210",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80210:2026-08-27T16:49"
-  },
-  {
-   "ts": "2026-08-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80208 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-80208 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True APITable through 1.13.0-beta.1 annotates both getUserHistories and closePausedUserAccount",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80208",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80208:2026-08-27T16:49"
-  },
-  {
-   "ts": "2026-08-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79988 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-79988 📢 Source: Hackrate 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The Twig sandbox mechanism in Craft CMS is configured to allow dangerous functionality fro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79988",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79988:2026-08-27T16:49"
-  },
-  {
-   "ts": "2026-08-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78002 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-78002 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in rsyslog. An unauthenticated remote attacker can trigger a heap buffer ov",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78002",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78002:2026-08-27T16:49"
   }
  ]
 }
