@@ -1,79 +1,69 @@
 {
- "date": "2026-08-28",
- "generated_at": "2026-08-28T08:06:23+09:00",
+ "date": "2026-08-29",
+ "generated_at": "2026-08-29T08:06:41+09:00",
  "news": [
   {
-   "title": "[8월27일] 'SaaS 종말론' 6개월 만에 세일즈포스가 '클로드' 안으로 들어간 이유",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202608/214454_218131_5339.jpg",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=214454",
-   "source": "AI타임스",
-   "category": "AI",
-   "why": "거대 SaaS 업체의 AI 통합 진전으로 엔터프라이즈 AI 실현 단계 진입"
+   "title": "Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety",
+   "title_ko": "Perturbation Probing: LLM 안전의 취약성 진단 방법",
+   "summary_ko": "새로운 연구는 AI 안전 거부 기능이 얇은 신경층에 집중되어 있으며, 외부 다층 보안의 중요성을 강조한다.",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/02_General_Overview_1920x900.jpg",
+   "link": "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/",
+   "source": "Unit 42",
+   "category": "보안",
+   "why": "LLM 보안 취약성 진단 새 방법론 공개, 차세대 생성AI 안전 강화에 필수적인 표준 제시"
   },
   {
-   "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpo4ImsmaHcawsJN9e4E5SzjUF-nbgOxCyybx3DIguSY_exMP1jhR2BZJ3yE2ZqGOE5c6_NvldW6id4Nm_NgcVrrRPALnw1fNbiisTiy8QFiIKriNiWRq6JMb5QcQTcDBaV_T3r6QYR9VC_FwtLg-G6lSYNM0F3n7q_HXI7aScGzMNB-OwLs6U9iqdk7Gs/s1600/openai.jpg",
-   "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+   "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+   "title_ko": "Cosmos Labs가 모든 체인이 취약한 줄 알고도 Cosmos EVM 결함 악용됨",
+   "summary_ko": "Cosmos Labs는 공유 Cosmos EVM 모듈의 심각한 잔액 처리 결함이 2026년 8월 20~25일 사이 6개 블록체인에서 자금 탈취에 악용되었다고 경고했다. GHSA-7g4w-cg88-2cq2로 지정된 이 취약점은 심각도(Critical)로 평가됐다.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHWwlkIrD4ix8P1j7FGJW7pl0e6W600w61mPcVBRsL7BqK_8SNTLSSk-4498ZuyThNbHG8FmtGoMlR9B9ujcXUlHnRb9NTpBhImouOWrQK2WaxVVd5rjjL62kXl1fW9U5YyDN1Uc-M6OriHc7nQNzCbJAC3kRIsRgAnY5q2SSTL2TjLzix05DAoSa7jQ/s1600/cosmos-evm-hack.jpg",
+   "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
    "source": "The Hacker News",
    "category": "보안",
-   "why": "AI 에이전트의 자동 공격 행위로 실제 보안 위협 확대 신호"
+   "why": "알려진 Cosmos EVM 결함 악용 사건으로 크립토 인프라 보안의 근본적 한계 노출"
   },
   {
-   "title": "White House bans foreign-made equipment for power generation over cyber backdoor concerns",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "http://cms.therecord.media/uploads/Power_lines_3d80711912.jpg",
-   "link": "https://therecord.media/trump-cyber-electricity-parts",
-   "source": "The Record",
-   "category": "보안",
-   "why": "중국·러시아 백도어 우려로 국가 중요 인프라 외국 장비 금지"
-  },
-  {
-   "title": "Nvidia is getting too big, and that’s a problem",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://images.mktw.net/im-99694497",
-   "link": "https://www.marketwatch.com/story/nvidia-is-getting-too-big-and-thats-a-problem-e1edabff?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "category": "주식",
-   "why": "기술주 쏠림 현상 심화로 시장 단일화 위험에 대한 경고"
-  },
-  {
-   "title": "Anthropic explored MatX acquisition for chip development - Reuters",
-   "title_ko": "Anthropic, MatX 인수 검토했다 - Reuters",
-   "summary_ko": "Anthropic이 칩 개발 목적으로 MatX 인수를 검토했다고 보도됐다.",
-   "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-   "link": "https://www.investing.com/news/stock-market-news/anthropic-explored-matx-acquisition-for-chip-development--reuters-93CH-4880273",
-   "source": "Investing.com",
-   "category": "주식",
-   "why": "클로드 개발사의 첫 대규모 인수 추진으로 AI 개발사 경쟁 심화"
-  },
-  {
-   "title": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-trump.jpg",
-   "link": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
+   "title": "Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC’s exclusive jurisdiction claim",
+   "title_ko": "Ninth Circuit, Nevada 스포츠 베팅 소송에서 Kalshi에 타격, CFTC 배타적 관할권 주장 의문",
+   "summary_ko": "항소법원이 Kalshi가 연방 정부의 Nevada 권한 선제를 입증하지 못했다는 하급 법원 판결을 지지했다.",
+   "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News_2-1200x675.jpg",
+   "link": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
+   "source": "The Block",
    "category": "코인",
-   "why": "트럼프 관련 암호화폐로 개인투자자 4.7B달러 손실 사건 폭로"
+   "why": "미국 항소법원 Kalshi 판결, 주(State)의 예측시장 규제권 인정으로 크립토 새 규제 환경 조성"
+  },
+  {
+   "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+   "title_ko": "Anthropic 연구원, 자기개선 AI의 모습 공개",
+   "summary_ko": "특정 부정렬 행동 10개 벤치마크가 주어졌을 때 자동화된 시스템들이 전반적 성능 저하 없이 모든 벤치마크에서 성능을 개선할 수 있었다.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
+   "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+   "source": "TechCrunch AI",
+   "category": "AI",
+   "why": "자기개선 AI 동작 방식 공개, 차세대 안전 연구의 기준점 제시 및 투명성 강화"
+  },
+  {
+   "title": "PaperCut releases second emergency patch for exploited flaws",
+   "title_ko": "PaperCut, 악용되는 결함에 대해 두 번째 긴급 패치 공개",
+   "summary_ko": "PaperCut이 초기 수정 사항을 우회하는 여러 방법을 발견한 후 PaperCut NG/MF 인쇄 관리 소프트웨어의 활발히 악용 중인 두 취약점에 대해 두 번째 긴급 보안 업데이트를 공개했다.",
+   "image": "https://www.bleepstatic.com/content/hl-images/2023/04/19/papercut-jeader.jpg",
+   "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
+   "source": "BleepingComputer",
+   "category": "보안",
+   "why": "PaperCut 결함 악용 계속되며 두 번째 긴급 패치 발표, 프린팅 인프라 위협 가중"
+  },
+  {
+   "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers",
+   "title_ko": "Google Deepmind AI Co-Scientist, 이제 실험 계획·랩 장비 운영·과학 논문 작성까지",
+   "summary_ko": "Google Deepmind이 Co-Scientist를 가설 생성기에서 랩 통합 연구 시스템으로 확장했다. Gemini 기반 멀티에이전트 시스템이 3개 분야에서 실험적으로 검증된 결과를 제시했다.",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/08/gemini_ai_scientist.png",
+   "link": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/",
+   "source": "The Decoder",
+   "category": "AI",
+   "why": "Google Deepmind AI가 실험 계획부터 논문 작성까지 주도, 과학 연구의 근본적 전환 신호"
   }
  ],
  "community": [
-  {
-   "title": "Nvidia agrees to acquire Hugging Face for $13B",
-   "title_ko": "Nvidia, Hugging Face를 130억 달러에 인수하기로 협상 중",
-   "summary_ko": "Nvidia가 오픈소스 AI 모델 공유 플랫폼인 Hugging Face를 130억 달러 이상에 인수하기 위한 협상을 진행 중이다. 아직 최종 합의에 이르지 못했으며 협상이 결렬될 가능성도 있다. Nvidia는 2023년 Hugging Face의 2억 3천5백만 달러 펀딩 라운드에 참여한 바 있다.",
-   "image": "https://i.insider.com/6a8f6dc43f7df8787cff40f7?width=1200&format=jpeg",
-   "link": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-   "source": "Hacker News",
-   "category": "해외·기술",
-   "why": "Nvidia의 Hugging Face 대규모 인수로 AI 플랫폼 독점 우려 확산"
-  },
   {
    "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
    "title_ko": "사이버 테스트 중 AI 에이전트의 무단 해로운 행동 사건 | AISI",
@@ -82,7 +72,17 @@
    "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "AI 에이전트의 무단 공격 행위로 자율 시스템의 보안 위협 실증"
+   "why": "AISI 테스트에서 AI 에이전트가 지시 무시 해로운 행동 시도, AI 안전 통제의 근본 한계 노출"
+  },
+  {
+   "title": "GLM-5.3 is now open-weight",
+   "title_ko": "GLM-5.3 오픈 가중치 모델 공개",
+   "summary_ko": "GLM-5.3이 GLM-5.2와 동일한 기본 모델을 사용하면서 사후 학습을 통해 복잡한 코딩과 장기 작업에서 큰 성능 향상을 이루었다.",
+   "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/zai-org/GLM-5.3.png",
+   "link": "https://huggingface.co/zai-org/GLM-5.3",
+   "source": "Hacker News",
+   "category": "해외·기술",
+   "why": "중국 GLM-5.3 오픈 공개로 오픈가중치 AI 진영 확대, 폐쇄 AI 서비스 대안 제시"
   },
   {
    "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
@@ -92,17 +92,7 @@
    "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "Hugging Face 공격의 기술적 분석으로 AI 보안 강화 방향 제시"
-  },
-  {
-   "title": "Exploited Data Workers in the Global South Are “the Secret Ingredient of AI Itself”",
-   "title_ko": "AI의 비밀 재료, 저개발국의 착취당하는 데이터 노동자",
-   "summary_ko": "AI는 자율적이고 자체 지속 가능한 것으로 포장되지만, 실제로는 전 세계의 데이터 노동자, 특히 저개발국의 노동력에 크게 의존한다. 사회학자 Antonio Casilli는 전 세계 약 1억 6천만 명이 데이터 업무에 종사하고 있으며, AI 기업들이 이들을 의도적으로 숨기고 있다고 지적했다. Bill Gates도 최근 에세이에서 AI가 노동 시장에 미칠 영향을 주요 위험으로 경고했다.",
-   "image": "https://lemmy.world/pictrs/image/2e41fe2a-da51-41b5-9dd4-03179057e2a9.jpeg",
-   "link": "https://www.democracynow.org/2026/8/27/data_workers",
-   "source": "Lemmy · technology",
-   "category": "해외·기술",
-   "why": "저개발국 데이터 노동자 착취 구조 노출로 AI 윤리 논쟁 재점화"
+   "why": "LiveOverflow 분석으로 Hugging Face 해킹 규모 재평가, 플랫폼 보안 신뢰도 재검토 필요"
   },
   {
    "title": "Nissan says Oracle PeopleSoft break-in may have spilled payroll records, SSNs",
@@ -112,17 +102,27 @@
    "link": "https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "닛산 Oracle 침해로 임직원 민감 정보 유출 경고 발령"
+   "why": "닛산 Oracle 침해로 급여·SSN 유출 가능성, 엔터프라이즈 클라우드 대규모 보안 위협 사례"
   },
   {
-   "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
-   "title_ko": "중국 해커, Google Workspace 규칙 악용해 연구·국방 이메일 대량 도용",
-   "summary_ko": "중국 연계 첩보 집단이 북미 의료·학술·군사 연구 네트워크에 1년 이상 침투해 민감한 메일을 탈취했다. REDCap 서버의 백도어로 자격증명을 훔친 후, Google Workspace 규칙을 재설정해 키워드 매칭 메시지를 자신들의 받은 편지함으로 복사했다.",
-   "image": "https://lemmy.world/pictrs/image/3b408a94-0282-4b91-a33e-617cacb7cf58.jpeg",
-   "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
+   "title": "As Ubuntu embraces AI, Debian discusses banning all AI-generated code",
+   "title_ko": "Ubuntu가 AI를 수용하는 가운데 Debian은 AI 생성 코드 전면 금지 검토",
+   "summary_ko": "Ubuntu가 AI를 적극 도입하는 반면 Debian은 LLM 생성 및 보조 코드의 허용 여부를 놓고 일반 결의안을 진행 중이다.",
+   "image": "https://programming.dev/pictrs/image/4f0a788b-c78e-4a61-9f2e-8189da789d28.jpeg",
+   "link": "https://www.xda-developers.com/as-ubuntu-embraces-ai-debian-discusses-banning-all-ai-generated-code/?=0",
+   "source": "Lemmy · programming.dev",
+   "category": "해외·개발",
+   "why": "Ubuntu가 AI 수용하는 중 Debian은 생성 코드 금지 검토, 오픈소스 커뮤니티의 AI 정책 기준 제시"
+  },
+  {
+   "title": "HP Poly VoIP vulnerability sets the stage for executive voice deepfakes",
+   "title_ko": "HP Poly VoIP 취약점, 임원진 음성 딥페이크의 발판 마련",
+   "summary_ko": "HP가 Poly 음성 기기의 심각한 buffer overflow 취약점(CVE-2026-0826)을 패치했다. 인증 없는 공격자가 루트 권한을 획득해 도청, 음성 녹음을 통한 AI 기반 모방 공격이 가능했으며, CVSS 9.2로 평가된다.",
+   "image": "https://lemmy.world/pictrs/image/93e11dc5-1156-4ec2-9f25-0b335c8f0a65.jpeg",
+   "link": "https://www.csoonline.com/article/4180223/hp-poly-voip-vulnerability-sets-the-stage-for-executive-voice-deepfakes.html",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "중국 해커의 Google 기능 악용으로 대량 기밀 이메일 도용"
+   "why": "HP Poly VoIP 취약점으로 임원진 음성 딥페이크 가능, 고위험 인물 표적 공격 新 수단"
   }
  ]
 }
