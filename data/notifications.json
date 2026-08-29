@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-29T14:49:08+00:00",
+ "generated_at": "2026-08-29T15:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-29T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82481 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-82481 📢 Source: mitre 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The cohttp package before 6.3.0 for OCaml allows directory traversal. 📅 Published Date: 2026-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82481",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82481:2026-08-29T15:19"
+  },
   {
    "ts": "2026-08-29T14:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-17203",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17203:2026-08-28T22:19"
-  },
-  {
-   "ts": "2026-08-28T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16821 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-16821 📢 Source: ibm 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False IBM AIX 7.2, and 7.3 and IBM PowerVM VIOS 4.1 could allow a local attacker to gain elevated priv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16821",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16821:2026-08-28T22:19"
   }
  ]
 }
