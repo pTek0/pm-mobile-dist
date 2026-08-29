@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-29T02:19:07+00:00",
+ "generated_at": "2026-08-29T02:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-29T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-41012 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-41012 📢 Source: vmware 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Traffic interception vulnerability in BOSH Director vCenter CPI allows attackers positioned",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-41012",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-41012:2026-08-29T02:49"
+  },
   {
    "ts": "2026-08-29T00:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://feditown.com/pictrs/image/9bdc7414-8651-463c-bc44-75569ecff3fe.webp",
    "source": "Lemmy · programming.dev",
    "id": "community:https://feditown.com/pictrs/image/9bdc7414-8651-463c-bc44-75569ecff3fe.webp:2026-08-28T11:19"
-  },
-  {
-   "ts": "2026-08-28T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Flock CEO Garrett Langley targeted as address shared online",
-   "body": "Lemmy · technology · 점수 195",
-   "link": "https://www.newsweek.com/flock-ceo-garrett-langley-targeted-as-address-shared-online-12375766",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.newsweek.com/flock-ceo-garrett-langley-targeted-as-address-shared-online-12375766:2026-08-28T11:19"
   }
  ]
 }
