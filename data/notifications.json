@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-08-29T16:19:08+00:00",
+ "generated_at": "2026-08-29T16:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-29T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82475 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-82475 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True iFlytek astron-agent through 1.1.1 contains an authorization bypass vulnerability in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82475",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82475:2026-08-29T16:49"
+  },
+  {
+   "ts": "2026-08-29T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82474 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-82474 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Sudo through 1.9.17p2 fails to apply intercept policy checks to the execveat system call",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82474",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82474:2026-08-29T16:49"
+  },
+  {
+   "ts": "2026-08-29T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82473 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-82473 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True KubeEdge CloudCore through 1.23.1 accepts node task status reports on its HTTPS server wi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82473",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82473:2026-08-29T16:49"
+  },
+  {
+   "ts": "2026-08-29T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82472 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-82472 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Documenso before 2.13.0 accepts PDF file uploads on the /api/files/upload-pdf endpoint wi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82472",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82472:2026-08-29T16:49"
+  },
+  {
+   "ts": "2026-08-29T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82466 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-82466 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Rodauth before 2.46.0 contains an authentication bypass vulnerability in the webauthn",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82466",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82466:2026-08-29T16:49"
+  },
+  {
+   "ts": "2026-08-29T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82463 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-82463 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True pac4j-core before 6.5.6 contains an authentication bypass vulnerability in CheckProfileTy",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82463",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82463:2026-08-29T16:49"
+  },
+  {
+   "ts": "2026-08-29T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82461 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-82461 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True pac4j-oidc before 6.5.6 fails to verify access token signatures, issuers, audiences, or e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82461",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82461:2026-08-29T16:49"
+  },
+  {
+   "ts": "2026-08-29T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82460 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82460 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Cloud Commander before 19.20.2 contains a directory traversal vulnerability in REST f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82460",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82460:2026-08-29T16:49"
+  },
   {
    "ts": "2026-08-29T15:19:07+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-3627",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-3627:2026-08-28T22:19"
-  },
-  {
-   "ts": "2026-08-28T22:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-19295 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-19295 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.11.1 allows an authenticated attacker to execute arbitrary",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19295",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19295:2026-08-28T22:19"
-  },
-  {
-   "ts": "2026-08-28T22:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-19286 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-19286 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.11.1 could allow a remote attacker to execute arbitrary co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19286",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19286:2026-08-28T22:19"
-  },
-  {
-   "ts": "2026-08-28T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18904 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-18904 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.11.1 could allow a remote attacker to obtain sensitive informa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18904",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18904:2026-08-28T22:19"
-  },
-  {
-   "ts": "2026-08-28T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18899 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-18899 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.11.1 could allow a remote attacker to read arbitrary files due",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18899",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18899:2026-08-28T22:19"
-  },
-  {
-   "ts": "2026-08-28T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18891 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-18891 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.11.1 could allow a remote attacker to execute arbitrary flows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18891",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18891:2026-08-28T22:19"
-  },
-  {
-   "ts": "2026-08-28T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18729 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-18729 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.11.1 could allow a remote authenticated attacker to execute ar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18729",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18729:2026-08-28T22:19"
-  },
-  {
-   "ts": "2026-08-28T22:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-18527 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-18527 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM Administration Runtime Expert for i 1R1M0 IBM Application Runtime Expert (ARE) for i co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18527",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18527:2026-08-28T22:19"
-  },
-  {
-   "ts": "2026-08-28T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17203 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-17203 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Administration Runtime Expert for i 1R1M0 could allow a remote authenticated attacker to ob",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17203",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17203:2026-08-28T22:19"
   }
  ]
 }
