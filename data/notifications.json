@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-29T12:19:07+00:00",
+ "generated_at": "2026-08-29T12:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-29T12:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82448 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82448 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Shinobi before commit 5a76c74f contains a hardcoded connection key in the child node ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82448",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82448:2026-08-29T12:49"
+  },
+  {
+   "ts": "2026-08-29T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82447 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-82447 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Skyvern before 1.0.45 contains a sandbox escape vulnerability in TextPromptBlock that ren",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82447",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82447:2026-08-29T12:49"
+  },
   {
    "ts": "2026-08-29T12:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19412",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19412:2026-08-28T15:49"
-  },
-  {
-   "ts": "2026-08-28T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-13761 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-13761 📢 Source: Pega 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Pega Platform versions 7.1.0 through 25.1.2 are affected by an improper validation of inputs t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13761",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13761:2026-08-28T15:49"
-  },
-  {
-   "ts": "2026-08-28T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Push for import ban on 'pervert' smart glasses amid privacy ",
-   "body": "Lemmy · technology · 점수 58",
-   "link": "https://www.abc.net.au/news/2026-08-27/push-for-import-ban-on-smart-glasses-amid-privacy-concerns/107074628",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.abc.net.au/news/2026-08-27/push-for-import-ban-on-smart-glasses-amid-privacy-concerns/107074628:2026-08-28T12:19"
   }
  ]
 }
