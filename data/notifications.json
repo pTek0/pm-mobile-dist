@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-30T16:49:07+00:00",
+ "generated_at": "2026-08-30T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-30T17:19:06+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: osmo-backup",
+   "body": "**✅ 1단계(캠→PC) 가동·E2E 검증 통과 / 🟡 2단계(PC→NAS) 구현 완료·자격증명 대기 / 🟡 3단계(D: 정리) 의도적 off** — ★**리서치 가정 반증(실측)**: 08-07 리서치가 최대 리스",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: osmo-backup:2026-08-30T17:19"
+  },
   {
    "ts": "2026-08-30T15:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://12factor.net/",
    "source": "Hacker News",
    "id": "community:https://12factor.net/:2026-08-29T11:19"
-  },
-  {
-   "ts": "2026-08-29T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-41012 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-41012 📢 Source: vmware 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Traffic interception vulnerability in BOSH Director vCenter CPI allows attackers positioned",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-41012",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-41012:2026-08-29T02:49"
   }
  ]
 }
