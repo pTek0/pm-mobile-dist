@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-30T15:19:08+00:00",
+ "generated_at": "2026-08-30T15:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-30T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78699 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-78699 📢 Source: EEF 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False Unchecked Return Value vulnerability in ash-project ash_postgres allows a user who can drive a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78699",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78699:2026-08-30T15:49"
+  },
+  {
+   "ts": "2026-08-30T15:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pm-desktop",
+   "body": "**★ v0.14.1+31 유휴/최소화 CPU 성능 수정(2026-08-31, ptek-labs — 스테이징, 발행=총괄 PM)** — 최소화/백그라운드에서 단일 코어 ~50-100% 상시 소모 버그 수정: 근본 원",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pm-desktop:2026-08-30T15:49"
+  },
   {
    "ts": "2026-08-30T14:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-41012",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-41012:2026-08-29T02:49"
-  },
-  {
-   "ts": "2026-08-29T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] As Ubuntu embraces AI, Debian discusses banning all AI-gener",
-   "body": "Lemmy · programming.dev · 점수 94",
-   "link": "https://www.xda-developers.com/as-ubuntu-embraces-ai-debian-discusses-banning-all-ai-generated-code/?=0",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.xda-developers.com/as-ubuntu-embraces-ai-debian-discusses-banning-all-ai-generated-code/?=0:2026-08-29T00:19"
-  },
-  {
-   "ts": "2026-08-29T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Industry that built the problem offers to sell you the solut",
-   "body": "Lemmy · technology · 점수 79",
-   "link": "https://www.theregister.com/security/2026/08/28/industry-that-built-the-problem-offers-to-sell-you-the-solution/5293207",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theregister.com/security/2026/08/28/industry-that-built-the-problem-offers-to-sell-you-the-solution/5293207:2026-08-29T00:19"
   }
  ]
 }
