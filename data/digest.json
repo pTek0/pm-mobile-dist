@@ -1,69 +1,79 @@
 {
- "date": "2026-08-29",
- "generated_at": "2026-08-29T08:06:41+09:00",
+ "date": "2026-08-31",
+ "generated_at": "2026-08-31T08:06:00+09:00",
  "news": [
   {
-   "title": "Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety",
-   "title_ko": "Perturbation Probing: LLM 안전의 취약성 진단 방법",
-   "summary_ko": "새로운 연구는 AI 안전 거부 기능이 얇은 신경층에 집중되어 있으며, 외부 다층 보안의 중요성을 강조한다.",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/02_General_Overview_1920x900.jpg",
-   "link": "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/",
-   "source": "Unit 42",
+   "title": "유니트리 G1 휴머노이드 로봇서 원격 해킹 취약점…주변 로봇으로 공격 확산 가능",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.dailysecu.com/news/photo/202608/208268_209189_531.jpg",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=208268",
+   "source": "데일리시큐",
    "category": "보안",
-   "why": "LLM 보안 취약성 진단 새 방법론 공개, 차세대 생성AI 안전 강화에 필수적인 표준 제시"
+   "why": "휴머노이드 로봇 네트워크의 새로운 보안 위협으로 인공지능 시대 물리적 기기 해킹의 현실성을 보여줍니다."
   },
   {
-   "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-   "title_ko": "Cosmos Labs가 모든 체인이 취약한 줄 알고도 Cosmos EVM 결함 악용됨",
-   "summary_ko": "Cosmos Labs는 공유 Cosmos EVM 모듈의 심각한 잔액 처리 결함이 2026년 8월 20~25일 사이 6개 블록체인에서 자금 탈취에 악용되었다고 경고했다. GHSA-7g4w-cg88-2cq2로 지정된 이 취약점은 심각도(Critical)로 평가됐다.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHWwlkIrD4ix8P1j7FGJW7pl0e6W600w61mPcVBRsL7BqK_8SNTLSSk-4498ZuyThNbHG8FmtGoMlR9B9ujcXUlHnRb9NTpBhImouOWrQK2WaxVVd5rjjL62kXl1fW9U5YyDN1Uc-M6OriHc7nQNzCbJAC3kRIsRgAnY5q2SSTL2TjLzix05DAoSa7jQ/s1600/cosmos-evm-hack.jpg",
-   "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-   "source": "The Hacker News",
+   "title": "영국 3개 공항 운영사 MAG 사이버공격…고객 870만명 정보 노출",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.dailysecu.com/news/photo/202608/208266_209188_485.jpg",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=208266",
+   "source": "데일리시큐",
    "category": "보안",
-   "why": "알려진 Cosmos EVM 결함 악용 사건으로 크립토 인프라 보안의 근본적 한계 노출"
+   "why": "870만 고객 정보 노출 규모로 항공사 인프라 보안의 취약점과 대규모 개인정보 침해 현황을 드러냅니다."
   },
   {
-   "title": "Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC’s exclusive jurisdiction claim",
-   "title_ko": "Ninth Circuit, Nevada 스포츠 베팅 소송에서 Kalshi에 타격, CFTC 배타적 관할권 주장 의문",
-   "summary_ko": "항소법원이 Kalshi가 연방 정부의 Nevada 권한 선제를 입증하지 못했다는 하급 법원 판결을 지지했다.",
-   "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News_2-1200x675.jpg",
-   "link": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
+   "title": "\"AI가 AI 칩을 만든다\"...'핫칩스 2026'서 확인된 반도체 설계의 대변혁",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.aitimes.com/news/photo/202608/214627_218327_5558.jpeg",
+   "link": "https://www.aitimes.com/news/articleView.html?idxno=214627",
+   "source": "AI타임스",
+   "category": "AI",
+   "why": "AI가 반도체 칩 설계를 자동화하면서 기술 발전 속도의 가속화 단계가 도래했습니다."
+  },
+  {
+   "title": "웨이모, 테슬라 향해 직격탄… “2억마일 뛰어보니 카메라만으론 한계”",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.aitimes.com/news/photo/202608/214626_218326_2149.png",
+   "link": "https://www.aitimes.com/news/articleView.html?idxno=214626",
+   "source": "AI타임스",
+   "category": "AI",
+   "why": "2억 마일 실주행 데이터가 카메라만의 한계를 증명하며 자율주행 기술의 근본적 전환을 시사합니다."
+  },
+  {
+   "title": "고금리에 오히려 돈 번다…증권가 꼽은 '현금 부자' 기업들 [한경우의 케이스스터디]",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://img.hankyung.com/photo/202608/99.42142866.1.jpg",
+   "link": "https://www.hankyung.com/article/2026083018736",
+   "source": "한국경제 증권",
+   "category": "주식",
+   "why": "금리 인상 시대에 수익을 거두는 기업들의 특성 분석으로 역발상 투자 전략을 제시합니다."
+  },
+  {
+   "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
+   "title_ko": "Crypto.com 연계 Cronos 네트워크, 7,500만 달러 규모 Tectonic 익스플로잇 후 중단",
+   "summary_ko": "Crypto.com 거래소 연계 블록체인 Cronos가 대출 프로토콜 Tectonic의 익스플로잇으로 인해 네트워크를 중단했다. 공격자가 유동성이 낮은 TONIC 토큰의 가격을 조작한 후 부풀려진 담보로 차입하는 Mango Markets 스타일의 해킹이었다.",
+   "image": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-1200x675.jpg",
+   "link": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
    "source": "The Block",
    "category": "코인",
-   "why": "미국 항소법원 Kalshi 판결, 주(State)의 예측시장 규제권 인정으로 크립토 새 규제 환경 조성"
-  },
-  {
-   "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-   "title_ko": "Anthropic 연구원, 자기개선 AI의 모습 공개",
-   "summary_ko": "특정 부정렬 행동 10개 벤치마크가 주어졌을 때 자동화된 시스템들이 전반적 성능 저하 없이 모든 벤치마크에서 성능을 개선할 수 있었다.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
-   "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-   "source": "TechCrunch AI",
-   "category": "AI",
-   "why": "자기개선 AI 동작 방식 공개, 차세대 안전 연구의 기준점 제시 및 투명성 강화"
-  },
-  {
-   "title": "PaperCut releases second emergency patch for exploited flaws",
-   "title_ko": "PaperCut, 악용되는 결함에 대해 두 번째 긴급 패치 공개",
-   "summary_ko": "PaperCut이 초기 수정 사항을 우회하는 여러 방법을 발견한 후 PaperCut NG/MF 인쇄 관리 소프트웨어의 활발히 악용 중인 두 취약점에 대해 두 번째 긴급 보안 업데이트를 공개했다.",
-   "image": "https://www.bleepstatic.com/content/hl-images/2023/04/19/papercut-jeader.jpg",
-   "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-   "source": "BleepingComputer",
-   "category": "보안",
-   "why": "PaperCut 결함 악용 계속되며 두 번째 긴급 패치 발표, 프린팅 인프라 위협 가중"
-  },
-  {
-   "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers",
-   "title_ko": "Google Deepmind AI Co-Scientist, 이제 실험 계획·랩 장비 운영·과학 논문 작성까지",
-   "summary_ko": "Google Deepmind이 Co-Scientist를 가설 생성기에서 랩 통합 연구 시스템으로 확장했다. Gemini 기반 멀티에이전트 시스템이 3개 분야에서 실험적으로 검증된 결과를 제시했다.",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/08/gemini_ai_scientist.png",
-   "link": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/",
-   "source": "The Decoder",
-   "category": "AI",
-   "why": "Google Deepmind AI가 실험 계획부터 논문 작성까지 주도, 과학 연구의 근본적 전환 신호"
+   "why": "7,500만 달러 규모 디파이 익스플로잇으로 블록체인 자산 보안의 취약점과 시스템 중단 사태를 야기했습니다."
   }
  ],
  "community": [
+  {
+   "title": "Creepy Crawlies",
+   "title_ko": "AI 크롤러가 git.kernel.org 성능에 심각한 부담",
+   "summary_ko": "AI 학습용 데이터 수집 크롤러가 git.kernel.org에 지속적인 부하를 주고 있다. 현재 모든 정상 접근보다 커밋 렌더링에 더 많은 CPU 자원을 소비하고 있다.",
+   "image": "https://kaoti.ca/graphs/fig6-cpu-crawl-vs-clone.png",
+   "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+   "source": "Hacker News",
+   "category": "해외·기술",
+   "why": "오픈소스 커널 저장소의 성능 저하로 AI 학습 자료 수집의 부작용이 기술 커뮤니티에서 가시화되고 있습니다."
+  },
   {
    "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
    "title_ko": "사이버 테스트 중 AI 에이전트의 무단 해로운 행동 사건 | AISI",
@@ -72,17 +82,7 @@
    "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "AISI 테스트에서 AI 에이전트가 지시 무시 해로운 행동 시도, AI 안전 통제의 근본 한계 노출"
-  },
-  {
-   "title": "GLM-5.3 is now open-weight",
-   "title_ko": "GLM-5.3 오픈 가중치 모델 공개",
-   "summary_ko": "GLM-5.3이 GLM-5.2와 동일한 기본 모델을 사용하면서 사후 학습을 통해 복잡한 코딩과 장기 작업에서 큰 성능 향상을 이루었다.",
-   "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/zai-org/GLM-5.3.png",
-   "link": "https://huggingface.co/zai-org/GLM-5.3",
-   "source": "Hacker News",
-   "category": "해외·기술",
-   "why": "중국 GLM-5.3 오픈 공개로 오픈가중치 AI 진영 확대, 폐쇄 AI 서비스 대안 제시"
+   "why": "사이버 보안 테스트 중 AI 에이전트의 예측 불가 행동으로 AI 안전성 논쟁이 재점화되었습니다."
   },
   {
    "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
@@ -92,7 +92,7 @@
    "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "LiveOverflow 분석으로 Hugging Face 해킹 규모 재평가, 플랫폼 보안 신뢰도 재검토 필요"
+   "why": "AI 보안 전문가의 심층 분석으로 HuggingFace 침해 사건의 기술적 진실이 밝혀지고 있습니다."
   },
   {
    "title": "Nissan says Oracle PeopleSoft break-in may have spilled payroll records, SSNs",
@@ -102,27 +102,27 @@
    "link": "https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "닛산 Oracle 침해로 급여·SSN 유출 가능성, 엔터프라이즈 클라우드 대규모 보안 위협 사례"
+   "why": "급여와 주민번호 유출 가능성의 대규모 기업 침해로 기업 보안 태만의 현주소를 드러냈습니다."
   },
   {
-   "title": "As Ubuntu embraces AI, Debian discusses banning all AI-generated code",
-   "title_ko": "Ubuntu가 AI를 수용하는 가운데 Debian은 AI 생성 코드 전면 금지 검토",
-   "summary_ko": "Ubuntu가 AI를 적극 도입하는 반면 Debian은 LLM 생성 및 보조 코드의 허용 여부를 놓고 일반 결의안을 진행 중이다.",
-   "image": "https://programming.dev/pictrs/image/4f0a788b-c78e-4a61-9f2e-8189da789d28.jpeg",
-   "link": "https://www.xda-developers.com/as-ubuntu-embraces-ai-debian-discusses-banning-all-ai-generated-code/?=0",
-   "source": "Lemmy · programming.dev",
-   "category": "해외·개발",
-   "why": "Ubuntu가 AI 수용하는 중 Debian은 생성 코드 금지 검토, 오픈소스 커뮤니티의 AI 정책 기준 제시"
+   "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+   "title_ko": "EU, ProtectEU 전략으로 암호화 백도어 추진 재개",
+   "summary_ko": "EU 위원회가 발표한 새로운 내부 보안 전략 ProtectEU는 법 집행 역량 강화를 명목으로 종단간 암호화 약화를 추진하고 있다. 전략은 국가 위협, 테러, 사이버 범죄 등을 사유로 '적법한 접근'이라는 표현으로 대량 감시를 정당화하고 있다.",
+   "image": "https://media.reclaimthenet.org/2025/04/eu-encrpt-scaled.jpg",
+   "link": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+   "source": "Hacker News",
+   "category": "해외·기술",
+   "why": "유럽의 암호화 백도어 정책 재추진으로 국가 감시와 개인정보 보호 간 충돌이 심화되고 있습니다."
   },
   {
-   "title": "HP Poly VoIP vulnerability sets the stage for executive voice deepfakes",
-   "title_ko": "HP Poly VoIP 취약점, 임원진 음성 딥페이크의 발판 마련",
-   "summary_ko": "HP가 Poly 음성 기기의 심각한 buffer overflow 취약점(CVE-2026-0826)을 패치했다. 인증 없는 공격자가 루트 권한을 획득해 도청, 음성 녹음을 통한 AI 기반 모방 공격이 가능했으며, CVSS 9.2로 평가된다.",
-   "image": "https://lemmy.world/pictrs/image/93e11dc5-1156-4ec2-9f25-0b335c8f0a65.jpeg",
-   "link": "https://www.csoonline.com/article/4180223/hp-poly-voip-vulnerability-sets-the-stage-for-executive-voice-deepfakes.html",
+   "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+   "title_ko": "중국 해커, Google Workspace 규칙 악용해 연구·국방 이메일 대량 도용",
+   "summary_ko": "중국 연계 첩보 집단이 북미 의료·학술·군사 연구 네트워크에 1년 이상 침투해 민감한 메일을 탈취했다. REDCap 서버의 백도어로 자격증명을 훔친 후, Google Workspace 규칙을 재설정해 키워드 매칭 메시지를 자신들의 받은 편지함으로 복사했다.",
+   "image": "https://lemmy.world/pictrs/image/3b408a94-0282-4b91-a33e-617cacb7cf58.jpeg",
+   "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "HP Poly VoIP 취약점으로 임원진 음성 딥페이크 가능, 고위험 인물 표적 공격 新 수단"
+   "why": "중국 해커의 Gmail 규칙 악용으로 연구·국방 부문 이메일 탈취 기법의 고도화가 확인되었습니다."
   }
  ]
 }
