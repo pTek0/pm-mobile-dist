@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-30T12:19:10+00:00",
+ "generated_at": "2026-08-30T12:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-30T12:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82634 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-82634 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Frappe Framework development builds contain an authorization flaw in the render_jinja_tem",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82634",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82634:2026-08-30T12:49"
+  },
+  {
+   "ts": "2026-08-30T12:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82635 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-82635 📢 Source: JFROG 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Pake before 3.13.1 joins the JavaScript-supplied filename for the download_file Tauri command",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82635",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82635:2026-08-30T12:49"
+  },
   {
    "ts": "2026-08-29T16:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
    "source": "Hacker News",
    "id": "community:https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html:2026-08-28T23:19"
-  },
-  {
-   "ts": "2026-08-28T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Judge rules Trump administration’s blacklisting of Anthropic",
-   "body": "Hacker News · 점수 463",
-   "link": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-   "source": "Hacker News",
-   "id": "community:https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html:2026-08-28T23:19"
-  },
-  {
-   "ts": "2026-08-28T22:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-3627 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-3627 📢 Source: ibm 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True IBM Concert 1.0.0 through 2.3.1 is vulnerable to SQL injection. A remote attacker could send",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-3627",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-3627:2026-08-28T22:19"
   }
  ]
 }
