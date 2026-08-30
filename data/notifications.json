@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-30T13:19:08+00:00",
+ "generated_at": "2026-08-30T13:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-30T13:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82641 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-82641 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True keploy versions 3.1.0 through 3.6.25 bind the agent control-plane HTTP server to all inte",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82641",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82641:2026-08-30T13:49"
+  },
+  {
+   "ts": "2026-08-30T13:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82639 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-82639 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True NextChat versions from 2.15.8 through 2.16.1 contain an improper URL validation vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82639",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82639:2026-08-30T13:49"
+  },
+  {
+   "ts": "2026-08-30T13:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82638 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-82638 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True jina-ai reader disables its private-address guard outside Google Cloud deployments, allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82638",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82638:2026-08-30T13:49"
+  },
+  {
+   "ts": "2026-08-30T13:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82636 (CVSS 7.9)",
+   "body": "🚨 CVE-2026-82636 📢 Source: mitre 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: False Qubes OS before qubes-core-dom0-linux 4.3.22 allows OS command injection during a qvm-copy-t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82636",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82636:2026-08-30T13:49"
+  },
   {
    "ts": "2026-08-30T12:49:08+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://lite.cnn.com/2026/08/28/business/states-prediction-markets-gambling-federal-appeals-court",
    "source": "Lemmy · technology",
    "id": "community:https://lite.cnn.com/2026/08/28/business/states-prediction-markets-gambling-federal-appeals-court:2026-08-28T23:49"
-  },
-  {
-   "ts": "2026-08-28T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Get your Windows license refund",
-   "body": "Hacker News · 점수 633",
-   "link": "https://en.refund4freedom.org/",
-   "source": "Hacker News",
-   "id": "community:https://en.refund4freedom.org/:2026-08-28T23:19"
-  },
-  {
-   "ts": "2026-08-28T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GLM-5.3 is now open-weight",
-   "body": "Hacker News · 점수 533",
-   "link": "https://huggingface.co/zai-org/GLM-5.3",
-   "source": "Hacker News",
-   "id": "community:https://huggingface.co/zai-org/GLM-5.3:2026-08-28T23:19"
-  },
-  {
-   "ts": "2026-08-28T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Elon Musk’s xAI used child porn to train Grok models, lawsui",
-   "body": "Lemmy · technology · 점수 518",
-   "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/:2026-08-28T23:19"
-  },
-  {
-   "ts": "2026-08-28T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GUIs should be fully keyboard-driven",
-   "body": "Hacker News · 점수 493",
-   "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-   "source": "Hacker News",
-   "id": "community:https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html:2026-08-28T23:19"
   }
  ]
 }
