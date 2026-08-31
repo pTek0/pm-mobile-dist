@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-31T04:19:07+00:00",
+ "generated_at": "2026-08-31T04:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T04:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: sentinel",
+   "body": "**비특권 스캐폴딩 완료(2026-08-31, ptek-grid) — 54/54 테스트 통과** — 가드레일 엔진(T1/T2/T3 판정·deny-list·blast-radius)·방화벽 상태모델/롤백·해시체인 감사로",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: sentinel:2026-08-31T04:49"
+  },
   {
    "ts": "2026-08-31T04:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82638",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82638:2026-08-30T13:49"
-  },
-  {
-   "ts": "2026-08-30T13:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82636 (CVSS 7.9)",
-   "body": "🚨 CVE-2026-82636 📢 Source: mitre 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: False Qubes OS before qubes-core-dom0-linux 4.3.22 allows OS command injection during a qvm-copy-t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82636",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82636:2026-08-30T13:49"
   }
  ]
 }
