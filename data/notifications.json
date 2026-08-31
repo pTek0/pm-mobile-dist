@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-31T21:19:07+00:00",
+ "generated_at": "2026-08-31T21:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82882 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-82882 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Devtron through 2.2.0 fails to enforce authorization checks on the GET /orchestrator/api-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82882",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82882:2026-08-31T21:49"
+  },
   {
    "ts": "2026-08-31T21:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82722",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82722:2026-08-31T02:49"
-  },
-  {
-   "ts": "2026-08-31T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75757 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-75757 📢 Source: EEF 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Reliance on Cookies without Validation and Integrity Checking vulnerability in ash-project ash_",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75757",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75757:2026-08-31T02:49"
   }
  ]
 }
