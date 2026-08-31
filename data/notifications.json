@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-31T14:49:09+00:00",
+ "generated_at": "2026-08-31T15:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82970 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-82970 📢 Source: Patchstack 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Unrestricted Upload of File with Dangerous Type vulnerability in WP Legal Pages WP Co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82970",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82970:2026-08-31T15:19"
+  },
+  {
+   "ts": "2026-08-31T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-66047 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-66047 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True ProfilePress (wp-user-avatar) WordPress plugin before 4.17.2 contains an unauthentica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66047",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66047:2026-08-31T15:19"
+  },
   {
    "ts": "2026-08-31T14:49:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://john.fun/elevators",
    "source": "Lemmy · technology",
    "id": "community:https://john.fun/elevators:2026-08-31T00:19"
-  },
-  {
-   "ts": "2026-08-31T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Being kicked out of the tech industry",
-   "body": "Lobsters · 점수 154",
-   "link": "https://www.jacky.wtf/essays/2026/kicked-out/",
-   "source": "Lobsters",
-   "id": "community:https://www.jacky.wtf/essays/2026/kicked-out/:2026-08-31T00:19"
-  },
-  {
-   "ts": "2026-08-31T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GrapheneOS project: pixel 11 no longer supports hardware mem",
-   "body": "Lemmy · technology · 점수 132",
-   "link": "https://grapheneos.social/@GrapheneOS/117179231167297908",
-   "source": "Lemmy · technology",
-   "id": "community:https://grapheneos.social/@GrapheneOS/117179231167297908:2026-08-31T00:19"
   }
  ]
 }
