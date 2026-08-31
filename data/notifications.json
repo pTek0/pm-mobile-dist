@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-31T18:19:07+00:00",
+ "generated_at": "2026-08-31T18:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T18:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-83497 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-83497 📢 Source: AMZN 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Unrestricted deserialization of untrusted data in the cursor pagination component in the OpenS",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83497",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83497:2026-08-31T18:49"
+  },
+  {
+   "ts": "2026-08-31T18:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72001 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-72001 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Pangolin before 1.22.0 contains an authentication bypass vulnerability that allows unauth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72001",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72001:2026-08-31T18:49"
+  },
   {
    "ts": "2026-08-31T16:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://lemmy.world/pictrs/image/931a5a2e-0121-40c0-b1b8-5aad41f30cbb.png",
    "source": "Lemmy · programming.dev",
    "id": "community:https://lemmy.world/pictrs/image/931a5a2e-0121-40c0-b1b8-5aad41f30cbb.png:2026-08-31T01:19"
-  },
-  {
-   "ts": "2026-08-31T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Debian developer Antoine Le Gonidec resigns after option all",
-   "body": "Lemmy · programming.dev · 점수 115",
-   "link": "https://lists.debian.org/debian-devel/2026/08/msg00318.html",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lists.debian.org/debian-devel/2026/08/msg00318.html:2026-08-31T00:49"
-  },
-  {
-   "ts": "2026-08-31T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Werewolf transformed my old gadgets into USB-C powered ones",
-   "body": "Lemmy · technology · 점수 113",
-   "link": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on:2026-08-31T00:49"
   }
  ]
 }
