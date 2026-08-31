@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-31T10:49:07+00:00",
+ "generated_at": "2026-08-31T12:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12894 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-12894 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the Qute template engine, which is used by Quarkus to generate dynamic c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12894",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12894:2026-08-31T12:49"
+  },
+  {
+   "ts": "2026-08-31T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82880 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-82880 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True YaCy Search Server through 1.941 contains an XML external entity injection vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82880",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82880:2026-08-31T12:49"
+  },
+  {
+   "ts": "2026-08-31T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82877 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-82877 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ILIAS versions before 9.22, 10.0 through 10.9, and 11.0 through 11.2 contain an arbitrary",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82877",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82877:2026-08-31T12:49"
+  },
+  {
+   "ts": "2026-08-31T12:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82876 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-82876 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False Phison PS3111-S11 controller firmware verifies RSA signatures using a public modulus",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82876",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82876:2026-08-31T12:49"
+  },
   {
    "ts": "2026-08-31T10:19:06+00:00",
    "level": "important",
@@ -461,46 +501,6 @@
    "link": "https://lemmy.world/pictrs/image/1724f402-2247-415f-b4cc-b139995e4342.png",
    "source": "Lemmy · programming.dev",
    "id": "community:https://lemmy.world/pictrs/image/1724f402-2247-415f-b4cc-b139995e4342.png:2026-08-30T23:19"
-  },
-  {
-   "ts": "2026-08-30T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] reason enough to fail the interview",
-   "body": "Lemmy · programming.dev · 점수 388",
-   "link": "https://lemmy.world/pictrs/image/9e15759d-1bbe-456d-a77a-94c472067315.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/9e15759d-1bbe-456d-a77a-94c472067315.jpeg:2026-08-30T23:19"
-  },
-  {
-   "ts": "2026-08-30T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Hy4 preview",
-   "body": "Hacker News · 점수 379",
-   "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-   "source": "Hacker News",
-   "id": "community:https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/:2026-08-30T23:19"
-  },
-  {
-   "ts": "2026-08-30T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] European Commission Revives Push for Encryption Backdoors in",
-   "body": "Hacker News · 점수 317",
-   "link": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
-   "source": "Hacker News",
-   "id": "community:https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement:2026-08-30T23:19"
-  },
-  {
-   "ts": "2026-08-30T21:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: osmo-backup",
-   "body": "**✅ 1단계(캠→PC) 초회 백업 완료 / 🟡 2단계(PC→NAS) 구현 완료·자격증명 대기 / 🟡 3단계(D: 정리) 의도적 off** — ★**리서치 가정 반증(실측)**: 08-07 리서치가 최대 리스크로 본",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: osmo-backup:2026-08-30T21:49"
   }
  ]
 }
