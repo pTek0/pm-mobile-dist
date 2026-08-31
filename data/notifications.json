@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-31T02:49:07+00:00",
+ "generated_at": "2026-08-31T03:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82673 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-82673 📢 Source: EEF 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory (Path Traversal) vulnerability in a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82673",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82673:2026-08-31T03:19"
+  },
   {
    "ts": "2026-08-31T02:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82635",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82635:2026-08-30T12:49"
-  },
-  {
-   "ts": "2026-08-29T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82475 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-82475 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True iFlytek astron-agent through 1.1.1 contains an authorization bypass vulnerability in the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82475",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82475:2026-08-29T16:49"
   }
  ]
 }
