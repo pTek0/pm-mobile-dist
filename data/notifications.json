@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-31T22:49:07+00:00",
+ "generated_at": "2026-08-31T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] OpenShot 4.0 – Open-source video editor",
+   "body": "Hacker News · 점수 512",
+   "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+   "source": "Hacker News",
+   "id": "community:https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/:2026-08-31T23:19"
+  },
+  {
+   "ts": "2026-08-31T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Playa Phone",
+   "body": "Hacker News · 점수 446",
+   "link": "https://playaphone.com/",
+   "source": "Hacker News",
+   "id": "community:https://playaphone.com/:2026-08-31T23:19"
+  },
+  {
+   "ts": "2026-08-31T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Breaking Claude Code Opus 5 Auto Mode",
+   "body": "Hacker News · 점수 332",
+   "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+   "source": "Hacker News",
+   "id": "community:https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/:2026-08-31T23:19"
+  },
+  {
+   "ts": "2026-08-31T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I turned my security cameras into an automatic bird identifi",
+   "body": "Hacker News · 점수 314",
+   "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+   "source": "Hacker News",
+   "id": "community:https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/:2026-08-31T23:19"
+  },
+  {
+   "ts": "2026-08-31T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Apple caught off guard by AI demand for Mac Mini and Mac Stu",
+   "body": "Hacker News · 점수 251",
+   "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+   "source": "Hacker News",
+   "id": "community:https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/:2026-08-31T23:19"
+  },
   {
    "ts": "2026-08-31T21:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-58574",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58574:2026-08-31T06:49"
-  },
-  {
-   "ts": "2026-08-31T04:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: sentinel",
-   "body": "**비특권 스캐폴딩 완료(2026-08-31, ptek-grid) — 54/54 테스트 통과** — 가드레일 엔진(T1/T2/T3 판정·deny-list·blast-radius)·방화벽 상태모델/롤백·해시체인 감사로",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: sentinel:2026-08-31T04:49"
-  },
-  {
-   "ts": "2026-08-31T04:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "새 프로젝트: sentinel",
-   "body": "**P0 설계 완료·구현 미착수(2026-08-31, ptek-grid)** — Claude Agent SDK 상시 Windows 서비스, 권한분리(두뇌=비관리자↔명명파이프↔executor=관리자·가드레일 내장), ",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:새 프로젝트: sentinel:2026-08-31T04:19"
-  },
-  {
-   "ts": "2026-08-31T03:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82724 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-82724 📢 Source: EEF 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Incorrect Authorization vulnerability in ash-project ash_phoenix invokes the SubdomainHook auth",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82724",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82724:2026-08-31T03:49"
-  },
-  {
-   "ts": "2026-08-31T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82673 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-82673 📢 Source: EEF 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory (Path Traversal) vulnerability in a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82673",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82673:2026-08-31T03:19"
-  },
-  {
-   "ts": "2026-08-31T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82722 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-82722 📢 Source: EEF 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in ash-project ash_admin let",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82722",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82722:2026-08-31T02:49"
   }
  ]
 }
