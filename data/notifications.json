@@ -1,7 +1,147 @@
 {
- "generated_at": "2026-08-31T08:49:08+00:00",
+ "generated_at": "2026-08-31T09:19:14+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82864 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-82864 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True pdfme pdf-lib versions before 5.5.10 contain an unbounded buffer growth vulnerability in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82864",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82864:2026-08-31T09:19"
+  },
+  {
+   "ts": "2026-08-31T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82863 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-82863 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True @hulumi /baseline versions before 1.3.2 fail to fully detect CloudTrail selector tamperin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82863",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82863:2026-08-31T09:19"
+  },
+  {
+   "ts": "2026-08-31T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82862 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-82862 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Hulumi versions before v1.3.2 resolve the threat-model helper script from an unsafe root",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82862",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82862:2026-08-31T09:19"
+  },
+  {
+   "ts": "2026-08-31T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82861 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-82861 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True @hulumi /policies versions before 1.3.2 contain a parent spoof bypass vulnerability that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82861",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82861:2026-08-31T09:19"
+  },
+  {
+   "ts": "2026-08-31T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82860 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82860 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True @hulumi /policies versions before 1.3.2 fail to fully inspect inline and attached IAM",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82860",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82860:2026-08-31T09:19"
+  },
+  {
+   "ts": "2026-08-31T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82859 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82859 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True hulumi versions before v1.3.2 contain a deployment SCP template that allows tag-on-cr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82859",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82859:2026-08-31T09:19"
+  },
+  {
+   "ts": "2026-08-31T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82858 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82858 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True @hulumi /drift versions before 1.3.2 accept externally supplied execute plans without",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82858",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82858:2026-08-31T09:19"
+  },
+  {
+   "ts": "2026-08-31T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82857 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82857 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True hulumi versions before v1.3.2 contain a privilege escalation vulnerability in the wee",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82857",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82857:2026-08-31T09:19"
+  },
+  {
+   "ts": "2026-08-31T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82856 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82856 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True @hulumi /policies versions before 1.3.2 fail to properly validate set-qualified AWS I",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82856",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82856:2026-08-31T09:19"
+  },
+  {
+   "ts": "2026-08-31T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82855 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82855 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True @hulumi /policies versions before 1.3.2 contain an evidence validation bypass vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82855",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82855:2026-08-31T09:19"
+  },
+  {
+   "ts": "2026-08-31T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82854 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82854 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Nodemailer before 8.0.4 is vulnerable to SMTP command injection through the unsanitiz",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82854",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82854:2026-08-31T09:19"
+  },
+  {
+   "ts": "2026-08-31T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82662 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-82662 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Nodemailer before 8.0.8 disables TLS certificate verification in lib/fetch/index.js throu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82662",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82662:2026-08-31T09:19"
+  },
+  {
+   "ts": "2026-08-31T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82659 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-82659 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True nodemailer before 9.0.1 fails to apply disableFileAccess and disableUrlAccess flags to me",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82659",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82659:2026-08-31T09:19"
+  },
+  {
+   "ts": "2026-08-31T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81624 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-81624 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Undertow is a flexible performant web server used in JBoss EAP and WildFly. A flaw was found",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81624",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81624:2026-08-31T09:19"
+  },
   {
    "ts": "2026-08-31T08:49:06+00:00",
    "level": "important",
@@ -361,146 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-56718",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56718:2026-08-30T20:49"
-  },
-  {
-   "ts": "2026-08-30T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81636 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-81636 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in ash-project ash_graphql a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81636",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81636:2026-08-30T18:49"
-  },
-  {
-   "ts": "2026-08-30T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80223 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-80223 📢 Source: EEF 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Incorrect Authorization vulnerability in ash-project ash_graphql allows an authenticated subscr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80223",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80223:2026-08-30T18:49"
-  },
-  {
-   "ts": "2026-08-30T17:19:06+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: osmo-backup",
-   "body": "**✅ 1단계(캠→PC) 가동·E2E 검증 통과 / 🟡 2단계(PC→NAS) 구현 완료·자격증명 대기 / 🟡 3단계(D: 정리) 의도적 off** — ★**리서치 가정 반증(실측)**: 08-07 리서치가 최대 리스",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: osmo-backup:2026-08-30T17:19"
-  },
-  {
-   "ts": "2026-08-30T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78699 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-78699 📢 Source: EEF 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False Unchecked Return Value vulnerability in ash-project ash_postgres allows a user who can drive a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78699",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78699:2026-08-30T15:49"
-  },
-  {
-   "ts": "2026-08-30T15:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pm-desktop",
-   "body": "**★ v0.14.1+31 유휴/최소화 CPU 성능 수정(2026-08-31, ptek-labs — 스테이징, 발행=총괄 PM)** — 최소화/백그라운드에서 단일 코어 ~50-100% 상시 소모 버그 수정: 근본 원",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pm-desktop:2026-08-30T15:49"
-  },
-  {
-   "ts": "2026-08-30T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82657 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-82657 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Admidio before 5.0.12 fails to enforce login-only module restrictions in RSS feed endpoin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82657",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82657:2026-08-30T14:49"
-  },
-  {
-   "ts": "2026-08-30T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82655 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-82655 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Admidio before 5.0.12 contains a blind SQL injection vulnerability in the relation_type_l",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82655",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82655:2026-08-30T14:49"
-  },
-  {
-   "ts": "2026-08-30T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82654 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-82654 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before v3.8.1 fails to properly escape block name, alias, and memo fields in h",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82654",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82654:2026-08-30T14:49"
-  },
-  {
-   "ts": "2026-08-30T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82653 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-82653 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before v3.8.1 contains a stored cross-site scripting vulnerability in confirmD",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82653",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82653:2026-08-30T14:49"
-  },
-  {
-   "ts": "2026-08-30T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82649 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-82649 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False SiYuan Windows installer before version 3.8.1 (affected versions >= 2.0.14) contains an un",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82649",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82649:2026-08-30T14:49"
-  },
-  {
-   "ts": "2026-08-30T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82648 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-82648 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True WWBN AVideo contains a server-side request forgery filter bypass vulnerability in the isS",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82648",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82648:2026-08-30T14:49"
-  },
-  {
-   "ts": "2026-08-30T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82645 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-82645 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True AVideo (current commit e01e41ecc and earlier) exposes stream credentials through the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82645",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82645:2026-08-30T14:49"
-  },
-  {
-   "ts": "2026-08-30T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82644 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-82644 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True WWBN AVideo (current e01e41ecc and earlier) contains a brute-force rate limiting bypass i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82644",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82644:2026-08-30T14:49"
-  },
-  {
-   "ts": "2026-08-30T13:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82641 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-82641 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True keploy versions 3.1.0 through 3.6.25 bind the agent control-plane HTTP server to all inte",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82641",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82641:2026-08-30T13:49"
   }
  ]
 }
