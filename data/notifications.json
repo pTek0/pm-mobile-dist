@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-31T14:19:07+00:00",
+ "generated_at": "2026-08-31T14:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-59111 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-59111 📢 Source: ENISA 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command ('OS command injection'",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59111",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59111:2026-08-31T14:49"
+  },
+  {
+   "ts": "2026-08-31T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78422 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-78422 📢 Source: suse 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Subject::new_for_owner() in the zbus_polkit crate encodes the uid entry of a unix-process pol",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78422",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78422:2026-08-31T14:49"
+  },
   {
    "ts": "2026-08-31T14:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://grapheneos.social/@GrapheneOS/117179231167297908",
    "source": "Lemmy · technology",
    "id": "community:https://grapheneos.social/@GrapheneOS/117179231167297908:2026-08-31T00:19"
-  },
-  {
-   "ts": "2026-08-31T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] British Public Oppose Secret Surveillance Powers and Want St",
-   "body": "Lemmy · technology · 점수 116",
-   "link": "https://cdt.org/press/british-public-oppose-secret-surveillance-powers-and-want-strong-protections-for-encrypted-communications/",
-   "source": "Lemmy · technology",
-   "id": "community:https://cdt.org/press/british-public-oppose-secret-surveillance-powers-and-want-strong-protections-for-encrypted-communications/:2026-08-31T00:19"
-  },
-  {
-   "ts": "2026-08-30T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Hacking IKEA Furniture",
-   "body": "Hacker News · 점수 242",
-   "link": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-   "source": "Hacker News",
-   "id": "community:https://greenlightning.eu/diy/hacking-ikea-furniture/:2026-08-30T23:49"
   }
  ]
 }
