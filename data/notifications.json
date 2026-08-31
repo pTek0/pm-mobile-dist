@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-31T12:49:09+00:00",
+ "generated_at": "2026-08-31T13:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-5956 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-5956 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-5956",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-5956:2026-08-31T13:19"
+  },
   {
    "ts": "2026-08-31T12:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
    "source": "Hacker News",
    "id": "community:https://people.kernel.org/monsieuricon/creepy-crawlies:2026-08-30T23:19"
-  },
-  {
-   "ts": "2026-08-30T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Terminology",
-   "body": "Lemmy · programming.dev · 점수 490",
-   "link": "https://lemmy.world/pictrs/image/1724f402-2247-415f-b4cc-b139995e4342.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/1724f402-2247-415f-b4cc-b139995e4342.png:2026-08-30T23:19"
   }
  ]
 }
