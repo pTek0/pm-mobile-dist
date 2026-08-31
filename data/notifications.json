@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-31T19:19:07+00:00",
+ "generated_at": "2026-08-31T19:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13732 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-13732 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in GDB's STABS debug format parser. The read_member_functions() function i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13732",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13732:2026-08-31T19:49"
+  },
   {
    "ts": "2026-08-31T18:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://gram-editor.com/posts/release-3.3.0/",
    "source": "Lobsters",
    "id": "community:https://gram-editor.com/posts/release-3.3.0/:2026-08-31T01:19"
-  },
-  {
-   "ts": "2026-08-31T01:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I am developing a file system for my OS (D.eSystem 6.1.0.5)",
-   "body": "Lemmy · programming.dev · 점수 52",
-   "link": "https://lemmy.world/pictrs/image/931a5a2e-0121-40c0-b1b8-5aad41f30cbb.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/931a5a2e-0121-40c0-b1b8-5aad41f30cbb.png:2026-08-31T01:19"
   }
  ]
 }
