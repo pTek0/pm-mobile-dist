@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-08-31T00:49:07+00:00",
+ "generated_at": "2026-08-31T01:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81315 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-81315 📢 Source: EEF 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Origin Validation Error vulnerability in ash-project ash_ai allows a malicious web page to bypa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81315",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81315:2026-08-31T01:19"
+  },
+  {
+   "ts": "2026-08-31T01:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Gram Editor 3.3.0 Released",
+   "body": "Lobsters · 점수 57",
+   "link": "https://gram-editor.com/posts/release-3.3.0/",
+   "source": "Lobsters",
+   "id": "community:https://gram-editor.com/posts/release-3.3.0/:2026-08-31T01:19"
+  },
+  {
+   "ts": "2026-08-31T01:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I am developing a file system for my OS (D.eSystem 6.1.0.5)",
+   "body": "Lemmy · programming.dev · 점수 52",
+   "link": "https://lemmy.world/pictrs/image/931a5a2e-0121-40c0-b1b8-5aad41f30cbb.png",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.world/pictrs/image/931a5a2e-0121-40c0-b1b8-5aad41f30cbb.png:2026-08-31T01:19"
+  },
   {
    "ts": "2026-08-31T00:49:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82472",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82472:2026-08-29T16:49"
-  },
-  {
-   "ts": "2026-08-29T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82466 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-82466 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Rodauth before 2.46.0 contains an authentication bypass vulnerability in the webauthn",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82466",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82466:2026-08-29T16:49"
-  },
-  {
-   "ts": "2026-08-29T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82463 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-82463 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True pac4j-core before 6.5.6 contains an authentication bypass vulnerability in CheckProfileTy",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82463",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82463:2026-08-29T16:49"
-  },
-  {
-   "ts": "2026-08-29T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82461 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-82461 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True pac4j-oidc before 6.5.6 fails to verify access token signatures, issuers, audiences, or e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82461",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82461:2026-08-29T16:49"
   }
  ]
 }
