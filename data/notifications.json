@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-31T13:49:08+00:00",
+ "generated_at": "2026-08-31T14:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19702 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-19702 📢 Source: TR-CERT 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Improper neutralization of special elements used in an OS command ('OS command injection')",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19702",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19702:2026-08-31T14:19"
+  },
+  {
+   "ts": "2026-08-31T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78074 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-78074 📢 Source: Joomla 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - miniorgange.com - Unauthenticated arbitrary extension deinstallation via ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78074",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78074:2026-08-31T14:19"
+  },
+  {
+   "ts": "2026-08-31T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76763 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-76763 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in SmallRye GraphQL. The number scalar coercion for BigInteger does not pro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76763",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76763:2026-08-31T14:19"
+  },
+  {
+   "ts": "2026-08-31T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19616 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-19616 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in TBC Technology Inc. KitLogistic allows Accessing Fun",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19616",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19616:2026-08-31T14:19"
+  },
   {
    "ts": "2026-08-31T13:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
    "source": "Hacker News",
    "id": "community:https://greenlightning.eu/diy/hacking-ikea-furniture/:2026-08-30T23:49"
-  },
-  {
-   "ts": "2026-08-30T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Europe's summer drought is so extreme that desertification i",
-   "body": "Hacker News · 점수 223",
-   "link": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
-   "source": "Hacker News",
-   "id": "community:https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/:2026-08-30T23:49"
-  },
-  {
-   "ts": "2026-08-30T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Haiku R1/beta6 has been released",
-   "body": "Hacker News · 점수 220",
-   "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-   "source": "Hacker News",
-   "id": "community:https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6:2026-08-30T23:49"
-  },
-  {
-   "ts": "2026-08-30T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] METR and Redwood Offer Holy %^ Postmortem of the HuggingFace",
-   "body": "Hacker News · 점수 200",
-   "link": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-   "source": "Hacker News",
-   "id": "community:https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/:2026-08-30T23:49"
-  },
-  {
-   "ts": "2026-08-30T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Arbitrary code execution in QubesOS via copy-to-VM error rep",
-   "body": "Hacker News · 점수 192",
-   "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-   "source": "Hacker News",
-   "id": "community:https://www.qubes-os.org/news/2026/08/29/qsb-118/:2026-08-30T23:49"
   }
  ]
 }
