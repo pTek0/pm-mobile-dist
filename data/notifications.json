@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-31T02:19:07+00:00",
+ "generated_at": "2026-08-31T02:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82722 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-82722 📢 Source: EEF 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in ash-project ash_admin let",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82722",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82722:2026-08-31T02:49"
+  },
+  {
+   "ts": "2026-08-31T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75757 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-75757 📢 Source: EEF 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Reliance on Cookies without Validation and Integrity Checking vulnerability in ash-project ash_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75757",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75757:2026-08-31T02:49"
+  },
   {
    "ts": "2026-08-31T01:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82475",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82475:2026-08-29T16:49"
-  },
-  {
-   "ts": "2026-08-29T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82474 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-82474 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Sudo through 1.9.17p2 fails to apply intercept policy checks to the execveat system call",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82474",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82474:2026-08-29T16:49"
-  },
-  {
-   "ts": "2026-08-29T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82473 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-82473 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True KubeEdge CloudCore through 1.23.1 accepts node task status reports on its HTTPS server wi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82473",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82473:2026-08-29T16:49"
   }
  ]
 }
