@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-08-31T00:19:07+00:00",
+ "generated_at": "2026-08-31T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Debian developer Antoine Le Gonidec resigns after option all",
+   "body": "Lemmy · programming.dev · 점수 115",
+   "link": "https://lists.debian.org/debian-devel/2026/08/msg00318.html",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lists.debian.org/debian-devel/2026/08/msg00318.html:2026-08-31T00:49"
+  },
+  {
+   "ts": "2026-08-31T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Werewolf transformed my old gadgets into USB-C powered ones",
+   "body": "Lemmy · technology · 점수 113",
+   "link": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on:2026-08-31T00:49"
+  },
+  {
+   "ts": "2026-08-31T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] There's no such thing as Just a Tool",
+   "body": "Lobsters · 점수 94",
+   "link": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
+   "source": "Lobsters",
+   "id": "community:https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool:2026-08-31T00:49"
+  },
+  {
+   "ts": "2026-08-31T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] US judge ruled AI-generated child sexual abuse material is p",
+   "body": "Lemmy · technology · 점수 80",
+   "link": "https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/",
+   "source": "Lemmy · technology",
+   "id": "community:https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/:2026-08-31T00:49"
+  },
+  {
+   "ts": "2026-08-31T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Google Maps changes Lake Ontario to ‘Lake America’ for U.S. ",
+   "body": "Lemmy · technology · 점수 79",
+   "link": "https://www.ctvnews.ca/world/article/google-maps-changes-lake-ontario-to-lake-america-for-us-users/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.ctvnews.ca/world/article/google-maps-changes-lake-ontario-to-lake-america-for-us-users/:2026-08-31T00:49"
+  },
+  {
+   "ts": "2026-08-31T00:49:06+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: InsecureBankv2",
+   "body": "정적분석 보고서 완료 — **정체 지속(마지막 활동 07-20 → 2026-08-31 기준 42일 경과)**",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: InsecureBankv2:2026-08-31T00:49"
+  },
+  {
+   "ts": "2026-08-31T00:49:06+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pentest-toolkit",
+   "body": "쉐도우 모드(관찰만) — **정체 지속(마지막 세션 07-17 → 2026-08-31 기준 45일 경과, 지난 7일 커밋 0)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→⏸",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pentest-toolkit:2026-08-31T00:49"
+  },
   {
    "ts": "2026-08-31T00:19:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82461",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82461:2026-08-29T16:49"
-  },
-  {
-   "ts": "2026-08-29T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82460 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82460 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Cloud Commander before 19.20.2 contains a directory traversal vulnerability in REST f",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82460",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82460:2026-08-29T16:49"
-  },
-  {
-   "ts": "2026-08-29T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82481 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-82481 📢 Source: mitre 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The cohttp package before 6.3.0 for OCaml allows directory traversal. 📅 Published Date: 2026-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82481",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82481:2026-08-29T15:19"
-  },
-  {
-   "ts": "2026-08-29T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82457 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-82457 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False su-exec through 0.3 fails to validate numeric user and group identifiers parsed with str",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82457",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82457:2026-08-29T14:19"
-  },
-  {
-   "ts": "2026-08-29T14:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82456 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-82456 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True argocd-mcp 0.8.0 binds its HTTP transport to every network interface and accepts MCP s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82456",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82456:2026-08-29T14:19"
-  },
-  {
-   "ts": "2026-08-29T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82455 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-82455 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False RubyGems fails to re-validate path containment after filesystem symlink resolution durin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82455",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82455:2026-08-29T14:19"
-  },
-  {
-   "ts": "2026-08-29T14:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82454 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-82454 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The Omnivore API (packages/api) before the fix in commit abf53d6 contains an authenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82454",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82454:2026-08-29T14:19"
-  },
-  {
-   "ts": "2026-08-29T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82453 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-82453 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True rust-iot-platform through commit 5df942ab stores user passwords in cleartext without hash",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82453",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82453:2026-08-29T14:19"
   }
  ]
 }
