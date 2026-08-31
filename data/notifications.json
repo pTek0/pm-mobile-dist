@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-31T06:19:07+00:00",
+ "generated_at": "2026-08-31T06:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T06:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-58574 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-58574 📢 Source: dell 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Dell PowerStore contains a Missing Authentication for Critical Function vulnerability. An ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58574",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58574:2026-08-31T06:49"
+  },
   {
    "ts": "2026-08-31T04:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82639",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82639:2026-08-30T13:49"
-  },
-  {
-   "ts": "2026-08-30T13:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82638 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-82638 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True jina-ai reader disables its private-address guard outside Google Cloud deployments, allow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82638",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82638:2026-08-30T13:49"
   }
  ]
 }
