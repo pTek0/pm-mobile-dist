@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-31T15:19:09+00:00",
+ "generated_at": "2026-08-31T15:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-08-31T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77966 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-77966 📢 Source: icscert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The affected Ebyte product does not provide separation between limited and administrative m",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77966",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77966:2026-08-31T15:49"
+  },
+  {
+   "ts": "2026-08-31T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77975 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-77975 📢 Source: icscert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False The affected Ebyte product exports administrative credentials and other sensitive configur",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77975",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77975:2026-08-31T15:49"
+  },
+  {
+   "ts": "2026-08-31T15:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76133 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-76133 📢 Source: icscert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The affected Ebyte product uses a deprecated hashing algorithm in an authentication-rel",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76133",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76133:2026-08-31T15:49"
+  },
+  {
+   "ts": "2026-08-31T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75133 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-75133 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Keep Backup Daily plugin for WordPress before 2.1.4 contains a sensitive information expo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75133",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75133:2026-08-31T15:49"
+  },
+  {
+   "ts": "2026-08-31T15:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73819 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-73819 📢 Source: icscert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The affected Ebyte product's vendor configuration utility permits access to administrat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73819",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73819:2026-08-31T15:49"
+  },
+  {
+   "ts": "2026-08-31T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75132 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-75132 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True WAPT Server versions 2.6.1.17834 and earlier contains a SQL injection vulnerability in th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75132",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75132:2026-08-31T15:49"
+  },
   {
    "ts": "2026-08-31T15:19:07+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
    "source": "Lobsters",
    "id": "community:https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool:2026-08-31T00:49"
-  },
-  {
-   "ts": "2026-08-31T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] US judge ruled AI-generated child sexual abuse material is p",
-   "body": "Lemmy · technology · 점수 80",
-   "link": "https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/",
-   "source": "Lemmy · technology",
-   "id": "community:https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/:2026-08-31T00:49"
-  },
-  {
-   "ts": "2026-08-31T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Google Maps changes Lake Ontario to ‘Lake America’ for U.S. ",
-   "body": "Lemmy · technology · 점수 79",
-   "link": "https://www.ctvnews.ca/world/article/google-maps-changes-lake-ontario-to-lake-america-for-us-users/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.ctvnews.ca/world/article/google-maps-changes-lake-ontario-to-lake-america-for-us-users/:2026-08-31T00:49"
-  },
-  {
-   "ts": "2026-08-31T00:49:06+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: InsecureBankv2",
-   "body": "정적분석 보고서 완료 — **정체 지속(마지막 활동 07-20 → 2026-08-31 기준 42일 경과)**",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: InsecureBankv2:2026-08-31T00:49"
-  },
-  {
-   "ts": "2026-08-31T00:49:06+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pentest-toolkit",
-   "body": "쉐도우 모드(관찰만) — **정체 지속(마지막 세션 07-17 → 2026-08-31 기준 45일 경과, 지난 7일 커밋 0)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→⏸",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pentest-toolkit:2026-08-31T00:49"
-  },
-  {
-   "ts": "2026-08-31T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A Hegseth Employee Created a Database to Track Americans Bas",
-   "body": "Lemmy · technology · 점수 181",
-   "link": "https://www.rsn.org/001/a-hegseth-employee-created-a-database-to-track-americans-based-on-their-political-affiliation.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.rsn.org/001/a-hegseth-employee-created-a-database-to-track-americans-based-on-their-political-affiliation.html:2026-08-31T00:19"
-  },
-  {
-   "ts": "2026-08-31T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Elevators (john.fun)",
-   "body": "Lemmy · technology · 점수 179",
-   "link": "https://john.fun/elevators",
-   "source": "Lemmy · technology",
-   "id": "community:https://john.fun/elevators:2026-08-31T00:19"
   }
  ]
 }
