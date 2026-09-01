@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-01T00:19:08+00:00",
+ "generated_at": "2026-09-01T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-01T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I attended a conference recently and AI use by academics was",
+   "body": "Lobsters · 점수 58",
+   "link": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
+   "source": "Lobsters",
+   "id": "community:https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by:2026-09-01T00:49"
+  },
+  {
+   "ts": "2026-09-01T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Should smart glasses blur your face by default? Australia's ",
+   "body": "Lemmy · programming.dev · 점수 56",
+   "link": "https://www.sbs.com.au/news/article/should-smart-glasses-blur-your-face-by-default-australias-tech-watchdog-thinks-so/mstu307hd",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://www.sbs.com.au/news/article/should-smart-glasses-blur-your-face-by-default-australias-tech-watchdog-thinks-so/mstu307hd:2026-09-01T00:49"
+  },
+  {
+   "ts": "2026-09-01T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] July in Servo: more platforms, faster canvas, web fonts in S",
+   "body": "Lobsters · 점수 51",
+   "link": "https://servo.org/blog/2026/08/31/july-in-servo/",
+   "source": "Lobsters",
+   "id": "community:https://servo.org/blog/2026/08/31/july-in-servo/:2026-09-01T00:49"
+  },
+  {
+   "ts": "2026-09-01T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] VibeCoded AI-Slop License v1.0",
+   "body": "Lobsters · 점수 50",
+   "link": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
+   "source": "Lobsters",
+   "id": "community:https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6:2026-09-01T00:49"
+  },
   {
    "ts": "2026-09-01T00:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82863",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82863:2026-08-31T09:19"
-  },
-  {
-   "ts": "2026-08-31T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82862 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-82862 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Hulumi versions before v1.3.2 resolve the threat-model helper script from an unsafe root",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82862",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82862:2026-08-31T09:19"
-  },
-  {
-   "ts": "2026-08-31T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82861 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-82861 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True @hulumi /policies versions before 1.3.2 contain a parent spoof bypass vulnerability that ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82861",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82861:2026-08-31T09:19"
-  },
-  {
-   "ts": "2026-08-31T09:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82860 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82860 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True @hulumi /policies versions before 1.3.2 fail to fully inspect inline and attached IAM",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82860",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82860:2026-08-31T09:19"
-  },
-  {
-   "ts": "2026-08-31T09:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82859 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82859 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True hulumi versions before v1.3.2 contain a deployment SCP template that allows tag-on-cr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82859",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82859:2026-08-31T09:19"
   }
  ]
 }
