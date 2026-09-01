@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-01T09:49:07+00:00",
+ "generated_at": "2026-09-01T10:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-01T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25706 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-25706 📢 Source: suse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command in yast2-samba-client allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25706",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25706:2026-09-01T10:19"
+  },
+  {
+   "ts": "2026-09-01T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59681 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-59681 📢 Source: suse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A OS command injection vulnerability in yast2-auth-client allows an attacker who controls Acti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59681",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59681:2026-09-01T10:19"
+  },
   {
    "ts": "2026-09-01T09:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-5956",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-5956:2026-08-31T13:19"
-  },
-  {
-   "ts": "2026-08-31T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12894 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-12894 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the Qute template engine, which is used by Quarkus to generate dynamic c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12894",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12894:2026-08-31T12:49"
-  },
-  {
-   "ts": "2026-08-31T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82880 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-82880 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True YaCy Search Server through 1.941 contains an XML external entity injection vulnerability ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82880",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82880:2026-08-31T12:49"
   }
  ]
 }
