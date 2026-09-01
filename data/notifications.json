@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-01T12:49:08+00:00",
+ "generated_at": "2026-09-01T13:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-01T13:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84235 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-84235 📢 Source: Rockwell 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A denial-of-service security issue exists in the affected product. The security issue stem",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84235",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84235:2026-09-01T13:19"
+  },
+  {
+   "ts": "2026-09-01T13:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79683 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-79683 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains a Protection Mechanism Failure vulnerability. An authenticated user w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79683",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79683:2026-09-01T13:19"
+  },
+  {
+   "ts": "2026-09-01T13:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-84149 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-84149 📢 Source: CERT-In 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True This vulnerability exists in the ERP system due to exposure of repository information t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84149",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84149:2026-09-01T13:19"
+  },
+  {
+   "ts": "2026-09-01T13:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-58575 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-58575 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an Authentication Bypass by Spoofing vulnerability. An authenticated ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58575",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58575:2026-09-01T13:19"
+  },
+  {
+   "ts": "2026-09-01T13:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19472 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-19472 📢 Source: Rockwell 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A denial-of-service security issue exists within ArmorStart ® LT. The security issue stems",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19472",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19472:2026-09-01T13:19"
+  },
+  {
+   "ts": "2026-09-01T13:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18765 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-18765 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18765",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18765:2026-09-01T13:19"
+  },
   {
    "ts": "2026-09-01T11:49:07+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
    "source": "Hacker News",
    "id": "community:https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/:2026-08-31T23:19"
-  },
-  {
-   "ts": "2026-08-31T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Playa Phone",
-   "body": "Hacker News · 점수 446",
-   "link": "https://playaphone.com/",
-   "source": "Hacker News",
-   "id": "community:https://playaphone.com/:2026-08-31T23:19"
-  },
-  {
-   "ts": "2026-08-31T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Breaking Claude Code Opus 5 Auto Mode",
-   "body": "Hacker News · 점수 332",
-   "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-   "source": "Hacker News",
-   "id": "community:https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/:2026-08-31T23:19"
-  },
-  {
-   "ts": "2026-08-31T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I turned my security cameras into an automatic bird identifi",
-   "body": "Hacker News · 점수 314",
-   "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-   "source": "Hacker News",
-   "id": "community:https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/:2026-08-31T23:19"
-  },
-  {
-   "ts": "2026-08-31T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Apple caught off guard by AI demand for Mac Mini and Mac Stu",
-   "body": "Hacker News · 점수 251",
-   "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-   "source": "Hacker News",
-   "id": "community:https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/:2026-08-31T23:19"
-  },
-  {
-   "ts": "2026-08-31T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82882 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-82882 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Devtron through 2.2.0 fails to enforce authorization checks on the GET /orchestrator/api-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82882",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82882:2026-08-31T21:49"
-  },
-  {
-   "ts": "2026-08-31T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-83596 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-83596 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in WebKitGTK. Processing malicious web content can cause memory corruption ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83596",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83596:2026-08-31T21:19"
   }
  ]
 }
