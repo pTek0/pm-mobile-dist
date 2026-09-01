@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-01T06:49:07+00:00",
+ "generated_at": "2026-09-01T07:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-01T07:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78319 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-78319 📢 Source: CERTVDE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A service running on the affected products contains a potential Time-of-Check Time-of-U",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78319",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78319:2026-09-01T07:19"
+  },
   {
    "ts": "2026-09-01T02:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82877",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82877:2026-08-31T12:49"
-  },
-  {
-   "ts": "2026-08-31T12:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82876 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-82876 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False Phison PS3111-S11 controller firmware verifies RSA signatures using a public modulus",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82876",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82876:2026-08-31T12:49"
   }
  ]
 }
