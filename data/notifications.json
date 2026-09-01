@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-08-31T23:49:07+00:00",
+ "generated_at": "2026-09-01T00:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-01T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A walkable ASCII cyberpunk city in one HTML file [video]",
+   "body": "Hacker News · 점수 160",
+   "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+   "source": "Hacker News",
+   "id": "community:https://www.youtube.com/watch?v=3YtygAx_C6A:2026-09-01T00:19"
+  },
+  {
+   "ts": "2026-09-01T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Pentagon employee launches 'DSA Explorer' site to track left",
+   "body": "Lemmy · technology · 점수 109",
+   "link": "https://www.newsweek.com/pentagon-employee-launches-dsa-explorer-site-to-track-left-wing-groups-12381954",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.newsweek.com/pentagon-employee-launches-dsa-explorer-site-to-track-left-wing-groups-12381954:2026-09-01T00:19"
+  },
+  {
+   "ts": "2026-09-01T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Omarchy: Any User Process Can Escalate to Root",
+   "body": "Lobsters · 점수 108",
+   "link": "https://0xcc.io/posts/omarchy-root-creds/",
+   "source": "Lobsters",
+   "id": "community:https://0xcc.io/posts/omarchy-root-creds/:2026-09-01T00:19"
+  },
+  {
+   "ts": "2026-09-01T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Microsoft Outlook Down for Thousands of Users, Downdetector ",
+   "body": "Lemmy · technology · 점수 73",
+   "link": "https://gvwire.com/2026/08/31/microsoft-outlook-down-for-thousands-of-users-downdetector-reports/",
+   "source": "Lemmy · technology",
+   "id": "community:https://gvwire.com/2026/08/31/microsoft-outlook-down-for-thousands-of-users-downdetector-reports/:2026-09-01T00:19"
+  },
+  {
+   "ts": "2026-09-01T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] curl: a CVE dispute",
+   "body": "Lobsters · 점수 62",
+   "link": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+   "source": "Lobsters",
+   "id": "community:https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/:2026-09-01T00:19"
+  },
   {
    "ts": "2026-08-31T23:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82859",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82859:2026-08-31T09:19"
-  },
-  {
-   "ts": "2026-08-31T09:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82858 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82858 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True @hulumi /drift versions before 1.3.2 accept externally supplied execute plans without",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82858",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82858:2026-08-31T09:19"
-  },
-  {
-   "ts": "2026-08-31T09:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82857 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82857 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True hulumi versions before v1.3.2 contain a privilege escalation vulnerability in the wee",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82857",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82857:2026-08-31T09:19"
-  },
-  {
-   "ts": "2026-08-31T09:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82856 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82856 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True @hulumi /policies versions before 1.3.2 fail to properly validate set-qualified AWS I",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82856",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82856:2026-08-31T09:19"
-  },
-  {
-   "ts": "2026-08-31T09:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82855 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82855 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True @hulumi /policies versions before 1.3.2 contain an evidence validation bypass vulnera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82855",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82855:2026-08-31T09:19"
-  },
-  {
-   "ts": "2026-08-31T09:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82854 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82854 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Nodemailer before 8.0.4 is vulnerable to SMTP command injection through the unsanitiz",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82854",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82854:2026-08-31T09:19"
   }
  ]
 }
