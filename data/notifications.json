@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-01T10:49:08+00:00",
+ "generated_at": "2026-09-01T11:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-01T11:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-4813 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-4813 📢 Source: INCIBE 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in the Lutece Core XSL export management module up to version 7.1.7, whic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-4813",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4813:2026-09-01T11:19"
+  },
+  {
+   "ts": "2026-09-01T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84165 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-84165 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A vulnerability relating to incorrect access control in OpenNebula by OpenNebula Systems, af",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84165",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84165:2026-09-01T11:19"
+  },
+  {
+   "ts": "2026-09-01T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] PlayStation Wants To Prove In Court That You Don't Own Your ",
+   "body": "Lemmy · technology · 점수 498",
+   "link": "https://www.polygon.com/sony-digital-games-lawsuit-california/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.polygon.com/sony-digital-games-lawsuit-california/:2026-09-01T11:19"
+  },
+  {
+   "ts": "2026-09-01T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Terence Tao explains 6 essential mathematical concepts [vide",
+   "body": "Hacker News · 점수 441",
+   "link": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+   "source": "Hacker News",
+   "id": "community:https://www.youtube.com/watch?v=OOMx2BHHWtE:2026-09-01T11:19"
+  },
+  {
+   "ts": "2026-09-01T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Fastpotify",
+   "body": "Hacker News · 점수 430",
+   "link": "https://fastpotify.rocks/",
+   "source": "Hacker News",
+   "id": "community:https://fastpotify.rocks/:2026-09-01T11:19"
+  },
+  {
+   "ts": "2026-09-01T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] GPU World",
+   "body": "Hacker News · 점수 256",
+   "link": "https://www.gpuworld.org/",
+   "source": "Hacker News",
+   "id": "community:https://www.gpuworld.org/:2026-09-01T11:19"
+  },
+  {
+   "ts": "2026-09-01T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Evidence of Fraud in an Influential Study About Procrastinat",
+   "body": "Hacker News · 점수 251",
+   "link": "https://datacolada.org/138",
+   "source": "Hacker News",
+   "id": "community:https://datacolada.org/138:2026-09-01T11:19"
+  },
   {
    "ts": "2026-09-01T10:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-59111",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59111:2026-08-31T14:49"
-  },
-  {
-   "ts": "2026-08-31T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78422 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-78422 📢 Source: suse 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Subject::new_for_owner() in the zbus_polkit crate encodes the uid entry of a unix-process pol",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78422",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78422:2026-08-31T14:49"
-  },
-  {
-   "ts": "2026-08-31T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19702 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-19702 📢 Source: TR-CERT 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Improper neutralization of special elements used in an OS command ('OS command injection')",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19702",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19702:2026-08-31T14:19"
-  },
-  {
-   "ts": "2026-08-31T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78074 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-78074 📢 Source: Joomla 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - miniorgange.com - Unauthenticated arbitrary extension deinstallation via ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78074",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78074:2026-08-31T14:19"
-  },
-  {
-   "ts": "2026-08-31T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76763 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-76763 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in SmallRye GraphQL. The number scalar coercion for BigInteger does not pro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76763",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76763:2026-08-31T14:19"
-  },
-  {
-   "ts": "2026-08-31T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19616 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-19616 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in TBC Technology Inc. KitLogistic allows Accessing Fun",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19616",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19616:2026-08-31T14:19"
-  },
-  {
-   "ts": "2026-08-31T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82217 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-82217 📢 Source: eclipse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Eclipse Theia versions 1.73.0 up to but not including 1.75.0, the AI \"Agent Mode\" file-c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82217",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82217:2026-08-31T13:49"
-  },
-  {
-   "ts": "2026-08-31T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-5956 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-5956 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vulnera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-5956",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-5956:2026-08-31T13:19"
   }
  ]
 }
