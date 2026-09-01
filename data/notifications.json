@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-01T09:19:07+00:00",
+ "generated_at": "2026-09-01T09:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-01T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59680 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-59680 📢 Source: suse 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An OS command injection vulnerability was found in yast2-users. When displaying the \"Password ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59680",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59680:2026-09-01T09:49"
+  },
   {
    "ts": "2026-09-01T07:19:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82880",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82880:2026-08-31T12:49"
-  },
-  {
-   "ts": "2026-08-31T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82877 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-82877 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ILIAS versions before 9.22, 10.0 through 10.9, and 11.0 through 11.2 contain an arbitrary",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82877",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82877:2026-08-31T12:49"
   }
  ]
 }
