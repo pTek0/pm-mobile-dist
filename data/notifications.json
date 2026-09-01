@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-01T13:49:12+00:00",
+ "generated_at": "2026-09-01T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-01T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2024-14047 (CVSS 7.2)",
+   "body": "🚨 CVE-2024-14047 📢 Source: elastic 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False A local vulnerability in the Winlogbeat Windows installer caused runtime files to be place",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2024-14047",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-14047:2026-09-01T14:19"
+  },
+  {
+   "ts": "2026-09-01T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-58571 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-58571 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Dell PowerStore contains an OS Command Injection vulnerability. An authenticated user with li",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58571",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58571:2026-09-01T14:19"
+  },
+  {
+   "ts": "2026-09-01T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-9634 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-9634 📢 Source: Rockwell 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A security issue exists within the Redundancy Module Configuration Tool. The RMConfigTool.ex",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9634",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9634:2026-09-01T14:19"
+  },
+  {
+   "ts": "2026-09-01T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-9633 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-9633 📢 Source: Rockwell 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A security issue exists within the Redundancy Module Configuration Tool. The RM3ConfigTool.e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9633",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9633:2026-09-01T14:19"
+  },
   {
    "ts": "2026-09-01T13:49:08+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82730",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82730:2026-09-01T02:49"
-  },
-  {
-   "ts": "2026-09-01T02:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77856 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-77856 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in ash-project ash_typescrip",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77856",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77856:2026-09-01T02:49"
-  },
-  {
-   "ts": "2026-09-01T02:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74837 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-74837 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in ash-project ash_typescrip",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74837",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74837:2026-09-01T02:49"
-  },
-  {
-   "ts": "2026-09-01T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I attended a conference recently and AI use by academics was",
-   "body": "Lobsters · 점수 58",
-   "link": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
-   "source": "Lobsters",
-   "id": "community:https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by:2026-09-01T00:49"
-  },
-  {
-   "ts": "2026-09-01T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Should smart glasses blur your face by default? Australia's ",
-   "body": "Lemmy · programming.dev · 점수 56",
-   "link": "https://www.sbs.com.au/news/article/should-smart-glasses-blur-your-face-by-default-australias-tech-watchdog-thinks-so/mstu307hd",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.sbs.com.au/news/article/should-smart-glasses-blur-your-face-by-default-australias-tech-watchdog-thinks-so/mstu307hd:2026-09-01T00:49"
   }
  ]
 }
