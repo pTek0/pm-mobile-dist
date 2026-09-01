@@ -1,7 +1,157 @@
 {
- "generated_at": "2026-09-01T11:19:09+00:00",
+ "generated_at": "2026-09-01T11:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-84200 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-84200 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False Kyverno versions v1.9.0 through v1.12.7 contain a policy exception handling flaw. Wh",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84200",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84200:2026-09-01T11:49"
+  },
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84199 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-84199 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Kyverno before 1.16.2 contains a server-side request forgery (SSRF) vulnerability in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84199",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84199:2026-09-01T11:49"
+  },
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84196 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-84196 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Kyverno before 1.18.0 contains a server-side request forgery vulnerability in apiCall.ser",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84196",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84196:2026-09-01T11:49"
+  },
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84195 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-84195 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Kyverno before 1.16.4 automatically attaches the admission controller's ServiceAccount to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84195",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84195:2026-09-01T11:49"
+  },
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84192 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-84192 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True LibreNMS before 26.3.1 contains a stored cross-site scripting vulnerability in legacy PHP",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84192",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84192:2026-09-01T11:49"
+  },
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84190 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-84190 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True LibreNMS versions before 26.5.0 contain a remote code execution vulnerability in the Abou",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84190",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84190:2026-09-01T11:49"
+  },
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-84189 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-84189 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True LibreNMS through 26.4.0 renders JSON fields (name, ip, model, author, commit message)",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84189",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84189:2026-09-01T11:49"
+  },
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-83595 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-83595 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True AVideo contains a cross-site request forgery vulnerability in plugin/API/set.json.php tha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83595",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83595:2026-09-01T11:49"
+  },
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76111 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76111 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an Incorrect Authorization vulnerability. An authenticated attacker w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76111",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76111:2026-09-01T11:49"
+  },
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2023-54356 (CVSS 9.3)",
+   "body": "🚨 CVE-2023-54356 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Kyverno versions 1.9.4 and earlier support insecure 3DES cipher suites (TLS_ECDHE_RSA",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2023-54356",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54356:2026-09-01T11:49"
+  },
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I wrote a dice rolling script with 3d rendering, collisions ",
+   "body": "Lemmy · programming.dev · 점수 169",
+   "link": "https://files.catbox.moe/8rz9m7.mp4",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://files.catbox.moe/8rz9m7.mp4:2026-09-01T11:49"
+  },
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Linus Torvalds used AI to fix a Linux bug, and now LLM criti",
+   "body": "Lemmy · technology · 점수 94",
+   "link": "https://www.xda-developers.com/linus-used-ai-bug-llm-critics-face-choice/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.xda-developers.com/linus-used-ai-bug-llm-critics-face-choice/:2026-09-01T11:49"
+  },
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] It takes 5 cloud services to hear my doorbell · Bit Nebula",
+   "body": "Lemmy · technology · 점수 76",
+   "link": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
+   "source": "Lemmy · technology",
+   "id": "community:https://blog.vghaisas.com/rube-goldberg-doorbell/:2026-09-01T11:49"
+  },
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Micron Taiwan Strike Vote Possible in Sept. as ~80% Union Ba",
+   "body": "Lemmy · technology · 점수 61",
+   "link": "https://www.trendforce.com/news/2026/08/28/news-micron-taiwan-strike-vote-possible-in-sept-as-80-union-back-action-over-bonus-gap-with-samsung-sk-hynix/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.trendforce.com/news/2026/08/28/news-micron-taiwan-strike-vote-possible-in-sept-as-80-union-back-action-over-bonus-gap-with-samsung-sk-hynix/:2026-09-01T11:49"
+  },
+  {
+   "ts": "2026-09-01T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Adobe to offer free access to AI tools in Saudi Arabia in $4",
+   "body": "Lemmy · technology · 점수 53",
+   "link": "https://www.reuters.com/world/middle-east/adobe-offer-free-access-ai-tools-saudi-arabia-4-billion-deal-2026-08-31/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.reuters.com/world/middle-east/adobe-offer-free-access-ai-tools-saudi-arabia-4-billion-deal-2026-08-31/:2026-09-01T11:49"
+  },
   {
    "ts": "2026-09-01T11:19:07+00:00",
    "level": "important",
@@ -351,156 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-83596",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83596:2026-08-31T21:19"
-  },
-  {
-   "ts": "2026-08-31T20:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-81779 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-81779 📢 Source: Patchstack 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Improper Validation of Specified Quantity in Input vulnerability in Silk Themes Newsp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81779",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81779:2026-08-31T20:49"
-  },
-  {
-   "ts": "2026-08-31T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82346 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-82346 📢 Source: hp 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A potential security vulnerability has been identified in the HP ImageDiags for versions prior to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82346",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82346:2026-08-31T20:49"
-  },
-  {
-   "ts": "2026-08-31T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-13732 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-13732 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in GDB's STABS debug format parser. The read_member_functions() function i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13732",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13732:2026-08-31T19:49"
-  },
-  {
-   "ts": "2026-08-31T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-83497 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-83497 📢 Source: AMZN 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Unrestricted deserialization of untrusted data in the cursor pagination component in the OpenS",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83497",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83497:2026-08-31T18:49"
-  },
-  {
-   "ts": "2026-08-31T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72001 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-72001 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Pangolin before 1.22.0 contains an authentication bypass vulnerability that allows unauth",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72001",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72001:2026-08-31T18:49"
-  },
-  {
-   "ts": "2026-08-31T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17615 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-17615 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in RESTEasy's SourceProvider. This vulnerability allows an unauthenticated ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17615",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17615:2026-08-31T16:49"
-  },
-  {
-   "ts": "2026-08-31T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77966 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-77966 📢 Source: icscert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The affected Ebyte product does not provide separation between limited and administrative m",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77966",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77966:2026-08-31T15:49"
-  },
-  {
-   "ts": "2026-08-31T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77975 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-77975 📢 Source: icscert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False The affected Ebyte product exports administrative credentials and other sensitive configur",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77975",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77975:2026-08-31T15:49"
-  },
-  {
-   "ts": "2026-08-31T15:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76133 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-76133 📢 Source: icscert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The affected Ebyte product uses a deprecated hashing algorithm in an authentication-rel",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76133",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76133:2026-08-31T15:49"
-  },
-  {
-   "ts": "2026-08-31T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75133 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-75133 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Keep Backup Daily plugin for WordPress before 2.1.4 contains a sensitive information expo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75133",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75133:2026-08-31T15:49"
-  },
-  {
-   "ts": "2026-08-31T15:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73819 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-73819 📢 Source: icscert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The affected Ebyte product's vendor configuration utility permits access to administrat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73819",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73819:2026-08-31T15:49"
-  },
-  {
-   "ts": "2026-08-31T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75132 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-75132 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True WAPT Server versions 2.6.1.17834 and earlier contains a SQL injection vulnerability in th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75132",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75132:2026-08-31T15:49"
-  },
-  {
-   "ts": "2026-08-31T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82970 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-82970 📢 Source: Patchstack 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Unrestricted Upload of File with Dangerous Type vulnerability in WP Legal Pages WP Co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82970",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82970:2026-08-31T15:19"
-  },
-  {
-   "ts": "2026-08-31T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-66047 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-66047 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True ProfilePress (wp-user-avatar) WordPress plugin before 4.17.2 contains an unauthentica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66047",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66047:2026-08-31T15:19"
-  },
-  {
-   "ts": "2026-08-31T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-59111 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-59111 📢 Source: ENISA 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command ('OS command injection'",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59111",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59111:2026-08-31T14:49"
   }
  ]
 }
