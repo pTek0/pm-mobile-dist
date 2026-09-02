@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-09-02T16:19:08+00:00",
+ "generated_at": "2026-09-02T16:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-02T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78689 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-78689 📢 Source: f5sirt@f5.com 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Description NGINX JavaScript (njs) has a vulnerability in the XML module's namesp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78689",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78689:2026-09-02T16:49"
+  },
+  {
+   "ts": "2026-09-02T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78222 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-78222 📢 Source: f5sirt@f5.com 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A vulnerability exists in NGINX JavaScript where a malformed HTTP response received b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78222",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78222:2026-09-02T16:49"
+  },
+  {
+   "ts": "2026-09-02T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77180 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-77180 📢 Source: f5sirt@f5.com 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True When NGINX Ingress Controller is configured with Ingress annotations, an injection vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77180",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77180:2026-09-02T16:49"
+  },
+  {
+   "ts": "2026-09-02T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66842 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-66842 📢 Source: f5sirt@f5.com 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True BIG-IP has a vulnerability where an authenticated user of any role may be able to cre",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66842",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66842:2026-09-02T16:49"
+  },
+  {
+   "ts": "2026-09-02T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66362 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-66362 📢 Source: f5sirt@f5.com 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Description: When NGINX Plus is configured as the data plane for NGINX Gateway Fabric",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66362",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66362:2026-09-02T16:49"
+  },
+  {
+   "ts": "2026-09-02T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-53611 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-53611 📢 Source: security-advisories@github.com 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Looking Glass is a modern, stateless network-diagnostic platform",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53611",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53611:2026-09-02T16:49"
+  },
+  {
+   "ts": "2026-09-02T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18329 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-18329 📢 Source: f5sirt@f5.com 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Description NGINX JavaScript (njs) and QuickJS (qjs) engines have a vulnerability whe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18329",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18329:2026-09-02T16:49"
+  },
+  {
+   "ts": "2026-09-02T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14199 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-14199 📢 Source: security@grafana.com 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Only self-managed Grafana instances with Auth Proxy authentication and identit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14199",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14199:2026-09-02T16:49"
+  },
   {
    "ts": "2026-09-02T15:49:07+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-83595",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83595:2026-09-01T11:49"
-  },
-  {
-   "ts": "2026-09-01T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76111 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-76111 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an Incorrect Authorization vulnerability. An authenticated attacker w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76111",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76111:2026-09-01T11:49"
-  },
-  {
-   "ts": "2026-09-01T11:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2023-54356 (CVSS 9.3)",
-   "body": "🚨 CVE-2023-54356 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Kyverno versions 1.9.4 and earlier support insecure 3DES cipher suites (TLS_ECDHE_RSA",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2023-54356",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54356:2026-09-01T11:49"
-  },
-  {
-   "ts": "2026-09-01T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I wrote a dice rolling script with 3d rendering, collisions ",
-   "body": "Lemmy · programming.dev · 점수 169",
-   "link": "https://files.catbox.moe/8rz9m7.mp4",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://files.catbox.moe/8rz9m7.mp4:2026-09-01T11:49"
-  },
-  {
-   "ts": "2026-09-01T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Linus Torvalds used AI to fix a Linux bug, and now LLM criti",
-   "body": "Lemmy · technology · 점수 94",
-   "link": "https://www.xda-developers.com/linus-used-ai-bug-llm-critics-face-choice/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.xda-developers.com/linus-used-ai-bug-llm-critics-face-choice/:2026-09-01T11:49"
-  },
-  {
-   "ts": "2026-09-01T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] It takes 5 cloud services to hear my doorbell · Bit Nebula",
-   "body": "Lemmy · technology · 점수 76",
-   "link": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
-   "source": "Lemmy · technology",
-   "id": "community:https://blog.vghaisas.com/rube-goldberg-doorbell/:2026-09-01T11:49"
-  },
-  {
-   "ts": "2026-09-01T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Micron Taiwan Strike Vote Possible in Sept. as ~80% Union Ba",
-   "body": "Lemmy · technology · 점수 61",
-   "link": "https://www.trendforce.com/news/2026/08/28/news-micron-taiwan-strike-vote-possible-in-sept-as-80-union-back-action-over-bonus-gap-with-samsung-sk-hynix/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.trendforce.com/news/2026/08/28/news-micron-taiwan-strike-vote-possible-in-sept-as-80-union-back-action-over-bonus-gap-with-samsung-sk-hynix/:2026-09-01T11:49"
-  },
-  {
-   "ts": "2026-09-01T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Adobe to offer free access to AI tools in Saudi Arabia in $4",
-   "body": "Lemmy · technology · 점수 53",
-   "link": "https://www.reuters.com/world/middle-east/adobe-offer-free-access-ai-tools-saudi-arabia-4-billion-deal-2026-08-31/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.reuters.com/world/middle-east/adobe-offer-free-access-ai-tools-saudi-arabia-4-billion-deal-2026-08-31/:2026-09-01T11:49"
-  },
-  {
-   "ts": "2026-09-01T11:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-4813 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-4813 📢 Source: INCIBE 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in the Lutece Core XSL export management module up to version 7.1.7, whic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-4813",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4813:2026-09-01T11:19"
   }
  ]
 }
