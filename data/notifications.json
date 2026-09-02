@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-02T14:19:08+00:00",
+ "generated_at": "2026-09-02T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-02T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79990 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-79990 📢 Source: Hackrate 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Craft CMS GraphQL entry mutation resolvers (saveEntry, deleteEntry) read siteIddirectly fr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79990",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79990:2026-09-02T14:49"
+  },
+  {
+   "ts": "2026-09-02T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79989 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-79989 📢 Source: Hackrate 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The vulnerability allows any authenticated user to change their own password without provi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79989",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79989:2026-09-02T14:49"
+  },
   {
    "ts": "2026-09-01T14:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-59680",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59680:2026-09-01T09:49"
-  },
-  {
-   "ts": "2026-09-01T07:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-78319 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-78319 📢 Source: CERTVDE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A service running on the affected products contains a potential Time-of-Check Time-of-U",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78319",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78319:2026-09-01T07:19"
-  },
-  {
-   "ts": "2026-09-01T02:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82730 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-82730 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Incorrect Authorization vulnerability in ash-project ash_typescript allows an unauthorized RPC ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82730",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82730:2026-09-01T02:49"
   }
  ]
 }
