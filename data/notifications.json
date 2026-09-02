@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-02T20:19:08+00:00",
+ "generated_at": "2026-09-02T20:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-02T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84452 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-84452 📢 Source: security-advisories@github.com 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Windows ML CLI is a command line tool for building portable, perform",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84452",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84452:2026-09-02T20:49"
+  },
+  {
+   "ts": "2026-09-02T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84292 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-84292 📢 Source: ce714d77-add3-4f53-aff5-83d477b104bb 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True fast-uri serializes the port component of a URI without valida",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84292",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84292:2026-09-02T20:49"
+  },
+  {
+   "ts": "2026-09-02T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82524 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-82524 📢 Source: disclosure@vulncheck.com 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True UnoPim before 2.1.5 contains an authenticated file upload vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82524",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82524:2026-09-02T20:49"
+  },
+  {
+   "ts": "2026-09-02T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2023-20577 (CVSS 7.4)",
+   "body": "🚨 CVE-2023-20577 📢 Source: psirt@amd.com 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False A heap overflow in SMM module may allow an attacker with access to a second vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2023-20577",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-20577:2026-09-02T20:49"
+  },
+  {
+   "ts": "2026-09-02T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2023-20576 (CVSS 7.7)",
+   "body": "🚨 CVE-2023-20576 📢 Source: psirt@amd.com 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Insufficient Verification of Data Authenticity in AGESA ™ may allow an attacker to u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2023-20576",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-20576:2026-09-02T20:49"
+  },
   {
    "ts": "2026-09-02T19:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78604",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78604:2026-09-02T15:49"
-  },
-  {
-   "ts": "2026-09-02T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78590 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-78590 📢 Source: security@elastic.co 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78590",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78590:2026-09-02T15:49"
-  },
-  {
-   "ts": "2026-09-02T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79990 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-79990 📢 Source: Hackrate 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Craft CMS GraphQL entry mutation resolvers (saveEntry, deleteEntry) read siteIddirectly fr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79990",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79990:2026-09-02T14:49"
-  },
-  {
-   "ts": "2026-09-02T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79989 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-79989 📢 Source: Hackrate 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The vulnerability allows any authenticated user to change their own password without provi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79989",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79989:2026-09-02T14:49"
-  },
-  {
-   "ts": "2026-09-01T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2024-14047 (CVSS 7.2)",
-   "body": "🚨 CVE-2024-14047 📢 Source: elastic 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False A local vulnerability in the Winlogbeat Windows installer caused runtime files to be place",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2024-14047",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-14047:2026-09-01T14:19"
-  },
-  {
-   "ts": "2026-09-01T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-58571 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-58571 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Dell PowerStore contains an OS Command Injection vulnerability. An authenticated user with li",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58571",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58571:2026-09-01T14:19"
   }
  ]
 }
