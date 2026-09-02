@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-02T19:19:08+00:00",
+ "generated_at": "2026-09-02T19:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-02T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84841 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-84841 📢 Source: cna@vuldb.com 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A security flaw has been discovered in tsi-coop tsi-dpdp-cms up to 0.5.0. This vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84841",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84841:2026-09-02T19:49"
+  },
+  {
+   "ts": "2026-09-02T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84382 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-84382 📢 Source: security-advisories@github.com 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True HTTPX2 is a next generation HTTP client for Python. Prior to 2.12.0,",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84382",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84382:2026-09-02T19:49"
+  },
+  {
+   "ts": "2026-09-02T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84381 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-84381 📢 Source: security-advisories@github.com 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False HTTPX2 is a next generation HTTP client for Python. Prior to 2.10.0",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84381",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84381:2026-09-02T19:49"
+  },
+  {
+   "ts": "2026-09-02T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19117 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-19117 📢 Source: 1443cd92-d354-46d2-9290-d812316ca43a 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Under specific conditions, an attacker can register an att",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19117",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19117:2026-09-02T19:49"
+  },
   {
    "ts": "2026-09-02T18:49:08+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-58571",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58571:2026-09-01T14:19"
-  },
-  {
-   "ts": "2026-09-01T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-9634 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-9634 📢 Source: Rockwell 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A security issue exists within the Redundancy Module Configuration Tool. The RMConfigTool.ex",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9634",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9634:2026-09-01T14:19"
-  },
-  {
-   "ts": "2026-09-01T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-9633 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-9633 📢 Source: Rockwell 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A security issue exists within the Redundancy Module Configuration Tool. The RM3ConfigTool.e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9633",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9633:2026-09-01T14:19"
-  },
-  {
-   "ts": "2026-09-01T13:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-9625 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-9625 📢 Source: Rockwell 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A denial-of-service security issue exists within RSLinx ® Classic. A crafted CIP packet wit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9625",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9625:2026-09-01T13:49"
-  },
-  {
-   "ts": "2026-09-01T13:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-9624 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-9624 📢 Source: Rockwell 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A denial-of-service security issue exists within RSLinx ® Classic. A crafted CIP packet can",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9624",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9624:2026-09-01T13:49"
   }
  ]
 }
