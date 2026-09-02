@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-02T22:49:09+00:00",
+ "generated_at": "2026-09-02T23:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-02T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Gemini 3.8 Flash and 3.8 Flash Cyber",
+   "body": "Hacker News · 점수 756",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+   "source": "Hacker News",
+   "id": "community:https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/:2026-09-02T23:19"
+  },
+  {
+   "ts": "2026-09-02T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Normalized Fascism in Open Source: $12 Million Given to DHH",
+   "body": "Lobsters · 점수 360",
+   "link": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
+   "source": "Lobsters",
+   "id": "community:https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/:2026-09-02T23:19"
+  },
+  {
+   "ts": "2026-09-02T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Can I opt out of my input or output data being used for trai",
+   "body": "Hacker News · 점수 350",
+   "link": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+   "source": "Hacker News",
+   "id": "community:https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training:2026-09-02T23:19"
+  },
+  {
+   "ts": "2026-09-02T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Commodore 64 released September 1, 1982",
+   "body": "Hacker News · 점수 313",
+   "link": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+   "source": "Hacker News",
+   "id": "community:https://dfarq.homeip.net/commodore-64-released-september-1-1982/:2026-09-02T23:19"
+  },
+  {
+   "ts": "2026-09-02T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Muse Spark 1.3",
+   "body": "Hacker News · 점수 291",
+   "link": "https://developer.meta.com/ai/models/muse-spark/",
+   "source": "Hacker News",
+   "id": "community:https://developer.meta.com/ai/models/muse-spark/:2026-09-02T23:19"
+  },
   {
    "ts": "2026-09-02T21:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18058",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18058:2026-09-02T15:49"
-  },
-  {
-   "ts": "2026-09-02T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78408 (CVSS 7.9)",
-   "body": "🚨 CVE-2026-78408 📢 Source: None 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: False The nsenter --join-cgroup option opens the target cgroup.procs file as root and leaves that f",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78408",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78408:2026-09-02T15:49"
-  },
-  {
-   "ts": "2026-09-02T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78409 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-78409 📢 Source: None 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False The X-mount.subdir option uses a detached-tree fast path on Linux 6.15 and later and passes the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78409",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78409:2026-09-02T15:49"
-  },
-  {
-   "ts": "2026-09-02T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78410 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-78410 📢 Source: None 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in util-linux. Restricted bind mounts take the source path from fstab but do",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78410",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78410:2026-09-02T15:49"
-  },
-  {
-   "ts": "2026-09-02T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84837 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-84837 📢 Source: None 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in rpm. An attacker can exploit a command injection vulnerability by influen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84837",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84837:2026-09-02T15:49"
-  },
-  {
-   "ts": "2026-09-02T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84838 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-84838 📢 Source: None 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in rpmuncompress. This command injection vulnerability allows a local attack",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84838",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84838:2026-09-02T15:49"
   }
  ]
 }
