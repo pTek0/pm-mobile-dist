@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-09-02T15:19:08+00:00",
+ "generated_at": "2026-09-02T15:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18058 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-18058 📢 Source: None 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False The mobile Smart Connect dashboard UI was subject to manipulation by 3rd party apps. When pai",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18058",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18058:2026-09-02T15:49"
+  },
+  {
+   "ts": "2026-09-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78408 (CVSS 7.9)",
+   "body": "🚨 CVE-2026-78408 📢 Source: None 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: False The nsenter --join-cgroup option opens the target cgroup.procs file as root and leaves that f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78408",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78408:2026-09-02T15:49"
+  },
+  {
+   "ts": "2026-09-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78409 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-78409 📢 Source: None 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False The X-mount.subdir option uses a detached-tree fast path on Linux 6.15 and later and passes the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78409",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78409:2026-09-02T15:49"
+  },
+  {
+   "ts": "2026-09-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78410 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-78410 📢 Source: None 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in util-linux. Restricted bind mounts take the source path from fstab but do",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78410",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78410:2026-09-02T15:49"
+  },
+  {
+   "ts": "2026-09-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84837 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-84837 📢 Source: None 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in rpm. An attacker can exploit a command injection vulnerability by influen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84837",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84837:2026-09-02T15:49"
+  },
+  {
+   "ts": "2026-09-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84838 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-84838 📢 Source: None 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in rpmuncompress. This command injection vulnerability allows a local attack",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84838",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84838:2026-09-02T15:49"
+  },
+  {
+   "ts": "2026-09-02T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82955 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-82955 📢 Source: emo@eclipse.org 💣 CVSS Score: 9.0 (CRITICAL) 📡 Remotely Exploitable: True In the current development version of Eclipse aeriOS, which has not yet had an ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82955",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82955:2026-09-02T15:49"
+  },
+  {
+   "ts": "2026-09-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78604 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-78604 📢 Source: security@elastic.co 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Incorrect Permission Assignment for Critical Resource (CWE-732) in Elastic Age",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78604",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78604:2026-09-02T15:49"
+  },
+  {
+   "ts": "2026-09-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78590 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-78590 📢 Source: security@elastic.co 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78590",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78590:2026-09-02T15:49"
+  },
   {
    "ts": "2026-09-02T14:49:07+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-4813",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4813:2026-09-01T11:19"
-  },
-  {
-   "ts": "2026-09-01T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84165 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-84165 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A vulnerability relating to incorrect access control in OpenNebula by OpenNebula Systems, af",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84165",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84165:2026-09-01T11:19"
-  },
-  {
-   "ts": "2026-09-01T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] PlayStation Wants To Prove In Court That You Don't Own Your ",
-   "body": "Lemmy · technology · 점수 498",
-   "link": "https://www.polygon.com/sony-digital-games-lawsuit-california/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.polygon.com/sony-digital-games-lawsuit-california/:2026-09-01T11:19"
-  },
-  {
-   "ts": "2026-09-01T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Terence Tao explains 6 essential mathematical concepts [vide",
-   "body": "Hacker News · 점수 441",
-   "link": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-   "source": "Hacker News",
-   "id": "community:https://www.youtube.com/watch?v=OOMx2BHHWtE:2026-09-01T11:19"
-  },
-  {
-   "ts": "2026-09-01T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fastpotify",
-   "body": "Hacker News · 점수 430",
-   "link": "https://fastpotify.rocks/",
-   "source": "Hacker News",
-   "id": "community:https://fastpotify.rocks/:2026-09-01T11:19"
-  },
-  {
-   "ts": "2026-09-01T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GPU World",
-   "body": "Hacker News · 점수 256",
-   "link": "https://www.gpuworld.org/",
-   "source": "Hacker News",
-   "id": "community:https://www.gpuworld.org/:2026-09-01T11:19"
-  },
-  {
-   "ts": "2026-09-01T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Evidence of Fraud in an Influential Study About Procrastinat",
-   "body": "Hacker News · 점수 251",
-   "link": "https://datacolada.org/138",
-   "source": "Hacker News",
-   "id": "community:https://datacolada.org/138:2026-09-01T11:19"
-  },
-  {
-   "ts": "2026-09-01T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-25706 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-25706 📢 Source: suse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command in yast2-samba-client allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25706",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25706:2026-09-01T10:19"
-  },
-  {
-   "ts": "2026-09-01T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59681 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-59681 📢 Source: suse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A OS command injection vulnerability in yast2-auth-client allows an attacker who controls Acti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59681",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59681:2026-09-01T10:19"
-  },
-  {
-   "ts": "2026-09-01T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59680 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-59680 📢 Source: suse 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An OS command injection vulnerability was found in yast2-users. When displaying the \"Password ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59680",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59680:2026-09-01T09:49"
   }
  ]
 }
