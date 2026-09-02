@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-02T20:49:08+00:00",
+ "generated_at": "2026-09-02T21:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-02T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84394 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-84394 📢 Source: None 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True fast-uri accepts a host that contains an unbalanced or misplaced authority bracket without rep",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84394",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84394:2026-09-02T21:19"
+  },
+  {
+   "ts": "2026-09-02T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84851 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-84851 📢 Source: None 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An uncontrolled recursion issue exists in Amazon Ion-C versions before 1.1.6 that might allow ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84851",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84851:2026-09-02T21:19"
+  },
   {
    "ts": "2026-09-02T20:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84838",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84838:2026-09-02T15:49"
-  },
-  {
-   "ts": "2026-09-02T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82955 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-82955 📢 Source: emo@eclipse.org 💣 CVSS Score: 9.0 (CRITICAL) 📡 Remotely Exploitable: True In the current development version of Eclipse aeriOS, which has not yet had an ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82955",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82955:2026-09-02T15:49"
-  },
-  {
-   "ts": "2026-09-02T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78604 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-78604 📢 Source: security@elastic.co 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Incorrect Permission Assignment for Critical Resource (CWE-732) in Elastic Age",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78604",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78604:2026-09-02T15:49"
   }
  ]
 }
