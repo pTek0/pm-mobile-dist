@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-09-02T18:19:09+00:00",
+ "generated_at": "2026-09-02T18:49:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-02T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77125 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-77125 📢 Source: 103e4ec9-0a87-450b-af77-479448ddef11 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A vulnerability was identified in Sonatype Nexus Repository 3 ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77125",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77125:2026-09-02T18:49"
+  },
+  {
+   "ts": "2026-09-02T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77124 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-77124 📢 Source: 103e4ec9-0a87-450b-af77-479448ddef11 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In affected versions of Nexus Repository 3, the script executi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77124",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77124:2026-09-02T18:49"
+  },
+  {
+   "ts": "2026-09-02T18:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-66786 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-66786 📢 Source: secalert@redhat.com 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in submariner. In cert-auth mode, the connection configura",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66786",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66786:2026-09-02T18:49"
+  },
+  {
+   "ts": "2026-09-02T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-53706 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-53706 📢 Source: security-advisories@github.com 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True PREVAIL is a Polynomial-Runtime EBPF Verifier using an Abstract Inte",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53706",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53706:2026-09-02T18:49"
+  },
+  {
+   "ts": "2026-09-02T18:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-53671 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-53671 📢 Source: security-advisories@github.com 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True PREVAIL is a Polynomial-Runtime EBPF Verifier using an Abstract ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53671",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53671:2026-09-02T18:49"
+  },
+  {
+   "ts": "2026-09-02T18:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-53670 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-53670 📢 Source: security-advisories@github.com 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True PREVAIL is a Polynomial-Runtime EBPF Verifier using an Abstract ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53670",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53670:2026-09-02T18:49"
+  },
+  {
+   "ts": "2026-09-02T18:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-53649 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-53649 📢 Source: security-advisories@github.com 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Joro is a web exploitation framework. Prior to version 1.1.1, Jo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53649",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53649:2026-09-02T18:49"
+  },
+  {
+   "ts": "2026-09-02T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-49832 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-49832 📢 Source: security-advisories@github.com 💣 CVSS Score: 8.0 (HIGH) 📡 Remotely Exploitable: True DSpace open source software is a repository application which provid",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-49832",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-49832:2026-09-02T18:49"
+  },
   {
    "ts": "2026-09-02T17:49:07+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-9624",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9624:2026-09-01T13:49"
-  },
-  {
-   "ts": "2026-09-01T13:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-9622 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-9622 📢 Source: Rockwell 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A denial-of-service security issue exists within RSLinx ® Classic. A crafted CIP packet tar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9622",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9622:2026-09-01T13:49"
-  },
-  {
-   "ts": "2026-09-01T13:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79684 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-79684 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains a Protection Mechanism Failure vulnerability. An authenticated user w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79684",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79684:2026-09-01T13:49"
-  },
-  {
-   "ts": "2026-09-01T13:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-18210 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-18210 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18210",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18210:2026-09-01T13:49"
-  },
-  {
-   "ts": "2026-09-01T13:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-12768 (CVSS 8.6)",
-   "body": "🚨 CVE-2025-12768 📢 Source: Rockwell 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False A security issue exists within FactoryTalk ® Historian Machine Edition. An attacker with ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-12768",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-12768:2026-09-01T13:49"
-  },
-  {
-   "ts": "2026-09-01T13:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-9637 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-9637 📢 Source: Rockwell 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A denial-of-service security issue exists in the affected Logix platforms listed in the tab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9637",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9637:2026-09-01T13:49"
-  },
-  {
-   "ts": "2026-09-01T13:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-9621 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-9621 📢 Source: Rockwell 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True A denial-of-service security issue exists within RSLinx ® Classic. The security issue s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9621",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9621:2026-09-01T13:49"
-  },
-  {
-   "ts": "2026-09-01T13:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-13336 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-13336 📢 Source: schneider 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command I",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13336",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13336:2026-09-01T13:49"
-  },
-  {
-   "ts": "2026-09-01T13:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12663 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-12663 📢 Source: Rockwell 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A security issue exists within ControlFLASH ™ , where the installer grants write permission",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12663",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12663:2026-09-01T13:49"
   }
  ]
 }
