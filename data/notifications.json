@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-09-03T14:19:07+00:00",
+ "generated_at": "2026-09-03T14:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85221 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-85221 📢 Source: CIRCL 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: False MISP contains an improper TLS certificate validation vulnerability in CurlClient. The CurlCl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85221",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85221:2026-09-03T14:49"
+  },
+  {
+   "ts": "2026-09-03T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85216 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-85216 📢 Source: CIRCL 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True MISP contains an authentication bypass vulnerability in its LDAP and LinOTP authenticatio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85216",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85216:2026-09-03T14:49"
+  },
+  {
+   "ts": "2026-09-03T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85214 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-85214 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True vhr fails to validate user authorization in the PUT /hr/info endpoint, allowing authentic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85214",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85214:2026-09-03T14:49"
+  },
+  {
+   "ts": "2026-09-03T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85213 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-85213 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Kill Bill through 0.24.21 fails to enforce permission annotations on several AdminResourc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85213",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85213:2026-09-03T14:49"
+  },
+  {
+   "ts": "2026-09-03T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85212 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-85212 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True CRMEB contains an authentication bypass vulnerability in the verifyAuth() method of Syste",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85212",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85212:2026-09-03T14:49"
+  },
+  {
+   "ts": "2026-09-03T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85211 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-85211 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Label Studio fails to apply organization filters when resolving storage URIs for tasks an",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85211",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85211:2026-09-03T14:49"
+  },
+  {
+   "ts": "2026-09-03T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85199 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-85199 📢 Source: eclipse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Eclipse aeriOS Self-orchestrator versions prior to 1.2.1 contain a path traversal vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85199",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85199:2026-09-03T14:49"
+  },
+  {
+   "ts": "2026-09-03T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85183 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-85183 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Taipy configures its socket.io server with wildcard CORS origin and credential flag e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85183",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85183:2026-09-03T14:49"
+  },
+  {
+   "ts": "2026-09-03T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85182 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-85182 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True vhr through commit 03abbd3 fails to verify that the account ID in PUT /hr/pass requests b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85182",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85182:2026-09-03T14:49"
+  },
+  {
+   "ts": "2026-09-03T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85181 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-85181 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True CAT uses Java String.hashCode as the sole integrity check for session cookies without",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85181",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85181:2026-09-03T14:49"
+  },
+  {
+   "ts": "2026-09-03T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85180 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-85180 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Ollama fails to validate redirect destinations when pulling tensor-layer models, allowing",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85180",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85180:2026-09-03T14:49"
+  },
+  {
+   "ts": "2026-09-03T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85179 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-85179 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Label Studio through 1.23.0 fails to validate webhook URLs, allowing authenticated users ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85179",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85179:2026-09-03T14:49"
+  },
+  {
+   "ts": "2026-09-03T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85178 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-85178 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Helicone's VaultManager.getDecryptedProviderKeyById() function in the GET /v1/vault/key/{",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85178",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85178:2026-09-03T14:49"
+  },
   {
    "ts": "2026-09-03T13:49:06+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-80254",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80254:2026-09-03T09:19"
-  },
-  {
-   "ts": "2026-09-03T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80253 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-80253 📢 Source: jpcert 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False An improper physical access control issue exists in ShizenBox2 (dev-conf). If exploited, an a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80253",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80253:2026-09-03T09:19"
-  },
-  {
-   "ts": "2026-09-03T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84832 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-84832 📢 Source: NCSC.ch 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True SEPPmail Secure Email Gateway before 15.0.6 deserializes attacker-controlled data in a priv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84832",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84832:2026-09-03T09:19"
-  },
-  {
-   "ts": "2026-09-03T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84831 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-84831 📢 Source: NCSC.ch 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True SEPPmail Secure Email Gateway before 15.0.7 creates a fully privileged session before requi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84831",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84831:2026-09-03T09:19"
-  },
-  {
-   "ts": "2026-09-03T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84830 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-84830 📢 Source: NCSC.ch 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True SEPPmail Secure Email Gateway before 15.0.7 contains a command injection vulnerability that",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84830",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84830:2026-09-03T09:19"
-  },
-  {
-   "ts": "2026-09-03T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73600 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-73600 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell PowerProtect Data Manager, versions 20.2.0.0 and below, contain a stack buffer overflow ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73600",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73600:2026-09-03T08:49"
-  },
-  {
-   "ts": "2026-09-03T03:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2021-38489 (CVSS 8.2)",
-   "body": "🚨 CVE-2021-38489 📢 Source: None 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False HDD password plaintext is stored in a UEFI variable. 📅 Published Date: 2026-09-03 03:35:43.85",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2021-38489",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-38489:2026-09-03T03:49"
-  },
-  {
-   "ts": "2026-09-03T02:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85091 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-85091 📢 Source: None 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True zlib versions 1.3.1.2 through 1.3.2 contain a heap buffer overflow vulnerability in the gz_vac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85091",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85091:2026-09-03T02:49"
-  },
-  {
-   "ts": "2026-09-03T01:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A note on subscription prices from LWN",
-   "body": "Lobsters · 점수 53",
-   "link": "https://lwn.net/Articles/1090585/",
-   "source": "Lobsters",
-   "id": "community:https://lwn.net/Articles/1090585/:2026-09-03T01:19"
-  },
-  {
-   "ts": "2026-09-03T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] US government sides with OpenAI on issue of training LLMs on",
-   "body": "Lemmy · technology · 점수 152",
-   "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-   "source": "Lemmy · technology",
-   "id": "community:https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/:2026-09-03T00:49"
-  },
-  {
-   "ts": "2026-09-03T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] New compression technique",
-   "body": "Lemmy · programming.dev · 점수 139",
-   "link": "https://lemmy.today/pictrs/image/1e483293-030f-4ea8-ab2c-545d43fdd5b3.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.today/pictrs/image/1e483293-030f-4ea8-ab2c-545d43fdd5b3.png:2026-09-03T00:49"
-  },
-  {
-   "ts": "2026-09-03T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] We created a fake holiday home listing on 10 Downing Street,",
-   "body": "Lemmy · technology · 점수 102",
-   "link": "https://www.which.co.uk/news/article/how-we-listed-10-downing-street-as-a-holiday-home-on-booking.com-aTs2s9X7I9cm",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.which.co.uk/news/article/how-we-listed-10-downing-street-as-a-holiday-home-on-booking.com-aTs2s9X7I9cm:2026-09-03T00:49"
-  },
-  {
-   "ts": "2026-09-03T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Side of slop? Bizarre AI food images jump from online to IRL",
-   "body": "Lemmy · technology · 점수 85",
-   "link": "https://www.nbcnews.com/tech/tech-news/side-slop-bizarre-ai-food-images-jump-online-irl-menus-rcna594786",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.nbcnews.com/tech/tech-news/side-slop-bizarre-ai-food-images-jump-online-irl-menus-rcna594786:2026-09-03T00:49"
-  },
-  {
-   "ts": "2026-09-03T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] About half of Americans say they spend too much time on thei",
-   "body": "Lemmy · technology · 점수 73",
-   "link": "https://www.pewresearch.org/short-reads/2026/09/01/about-half-of-americans-say-they-spend-too-much-time-on-their-smartphone/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.pewresearch.org/short-reads/2026/09/01/about-half-of-americans-say-they-spend-too-much-time-on-their-smartphone/:2026-09-03T00:49"
   }
  ]
 }
