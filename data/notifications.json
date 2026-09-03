@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-09-03T15:19:07+00:00",
+ "generated_at": "2026-09-03T15:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85239 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-85239 📢 Source: CIRCL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A vulnerability in MISP's event template handling allowed an authenticated user with permissi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85239",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85239:2026-09-03T15:49"
+  },
+  {
+   "ts": "2026-09-03T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85238 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-85238 📢 Source: CIRCL 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True MISP contains a session fixation vulnerability in the CustomAuth authentication (a custom con",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85238",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85238:2026-09-03T15:49"
+  },
+  {
+   "ts": "2026-09-03T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85237 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-85237 📢 Source: CIRCL 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A vulnerability in MISP's email-based one-time password (OTP) authentication flow allowed an ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85237",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85237:2026-09-03T15:49"
+  },
+  {
+   "ts": "2026-09-03T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-83961 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-83961 📢 Source: adobe 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False ColdFusion is affected by an Improper Authentication vulnerability that could result in priv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83961",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83961:2026-09-03T15:49"
+  },
+  {
+   "ts": "2026-09-03T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85236 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-85236 📢 Source: CIRCL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A cross-site request forgery (CSRF) vulnerability existed in the cullEmptyEvents action of MI",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85236",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85236:2026-09-03T15:49"
+  },
+  {
+   "ts": "2026-09-03T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84964 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-84964 📢 Source: mongodb 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A double free in the OpenSSL-based TLS certificate revocation checking path of the MongoDB ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84964",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84964:2026-09-03T15:49"
+  },
+  {
+   "ts": "2026-09-03T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75035 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-75035 📢 Source: suse 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Rancher Manager. When a non-administrative caller supplied a label selecto",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75035",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75035:2026-09-03T15:49"
+  },
+  {
+   "ts": "2026-09-03T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75034 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-75034 📢 Source: suse 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Rancher Manager. The SAML assertion replay protection introduced by the fi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75034",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75034:2026-09-03T15:49"
+  },
+  {
+   "ts": "2026-09-03T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71963 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-71963 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Hermes Agent 0.18.2 through 0.21.0, fixed in commit f6234d0, contains a remote code execu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71963",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71963:2026-09-03T15:49"
+  },
   {
    "ts": "2026-09-03T15:19:06+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85124",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85124:2026-09-03T11:19"
-  },
-  {
-   "ts": "2026-09-03T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85150 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-85150 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A NULL pointer dereference flaw was found in GStreamer's RTSP support library. The vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85150",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85150:2026-09-03T11:19"
-  },
-  {
-   "ts": "2026-09-03T11:19:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fable 5.1 World Modeling",
-   "body": "Hacker News · 점수 264",
-   "link": "https://github.com/PhiloLabs/fable51-worlds",
-   "source": "Hacker News",
-   "id": "community:https://github.com/PhiloLabs/fable51-worlds:2026-09-03T11:19"
-  },
-  {
-   "ts": "2026-09-03T11:19:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Reverse Engineering Unknown File Formats with ImHex",
-   "body": "Hacker News · 점수 211",
-   "link": "https://werwolv.net/posts/file_format_reverse_engineering/",
-   "source": "Hacker News",
-   "id": "community:https://werwolv.net/posts/file_format_reverse_engineering/:2026-09-03T11:19"
-  },
-  {
-   "ts": "2026-09-03T11:19:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Any significant changes to Tildes are extremely unlikely - ~",
-   "body": "Lemmy · technology · 점수 90",
-   "link": "https://tildes.net/~tildes.official/1vjt/any_significant_changes_to_tildes_are_extremely_unlikely",
-   "source": "Lemmy · technology",
-   "id": "community:https://tildes.net/~tildes.official/1vjt/any_significant_changes_to_tildes_are_extremely_unlikely:2026-09-03T11:19"
-  },
-  {
-   "ts": "2026-09-03T11:19:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Sony Implements New Customer Harassment Policy Following Bac",
-   "body": "Lemmy · technology · 점수 83",
-   "link": "https://www.ign.com/articles/sony-rolls-out-new-customer-harassment-policy-after-physical-disc-controversy-sparks-backlash",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.ign.com/articles/sony-rolls-out-new-customer-harassment-policy-after-physical-disc-controversy-sparks-backlash:2026-09-03T11:19"
-  },
-  {
-   "ts": "2026-09-03T11:19:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I Don’t Have a Smartphone…",
-   "body": "Lobsters · 점수 75",
-   "link": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
-   "source": "Lobsters",
-   "id": "community:https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html:2026-09-03T11:19"
-  },
-  {
-   "ts": "2026-09-03T10:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76178 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-76178 📢 Source: INCIBE 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True A stored Cross-Site Scripting (XSS) vulnerability in the notification template functiona",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76178",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76178:2026-09-03T10:49"
-  },
-  {
-   "ts": "2026-09-03T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76177 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-76177 📢 Source: INCIBE 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Server-Side Request Forgery (SSRF) vulnerability in the /ocsreports/?function=tele_activate ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76177",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76177:2026-09-03T10:19"
-  },
-  {
-   "ts": "2026-09-03T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76176 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-76176 📢 Source: INCIBE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True SQL injection vulnerability in the endpoint /ocsreports/index.php?function=admin_double due ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76176",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76176:2026-09-03T10:19"
   }
  ]
 }
