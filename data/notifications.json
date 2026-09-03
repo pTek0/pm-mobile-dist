@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-03T02:19:08+00:00",
+ "generated_at": "2026-09-03T02:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T02:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85091 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-85091 📢 Source: None 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True zlib versions 1.3.1.2 through 1.3.2 contain a heap buffer overflow vulnerability in the gz_vac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85091",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85091:2026-09-03T02:49"
+  },
   {
    "ts": "2026-09-03T01:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-20277",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-20277:2026-09-02T17:19"
-  },
-  {
-   "ts": "2026-09-02T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-20278 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-20278 📢 Source: None 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco IOS",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-20278",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-20278:2026-09-02T17:19"
   }
  ]
 }
