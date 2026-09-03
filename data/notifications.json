@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-03T08:19:08+00:00",
+ "generated_at": "2026-09-03T08:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73600 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-73600 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell PowerProtect Data Manager, versions 20.2.0.0 and below, contain a stack buffer overflow ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73600",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73600:2026-09-03T08:49"
+  },
   {
    "ts": "2026-09-03T03:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-20275",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-20275:2026-09-02T17:19"
-  },
-  {
-   "ts": "2026-09-02T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-20276 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-20276 📢 Source: None 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco IOS",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-20276",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-20276:2026-09-02T17:19"
   }
  ]
 }
