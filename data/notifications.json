@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-03T20:19:07+00:00",
+ "generated_at": "2026-09-03T20:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-8862 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-8862 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Netezza Software 11.3.0.3 through Interim Fix 002 has credentials that are hardcoded in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8862",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8862:2026-09-03T20:49"
+  },
+  {
+   "ts": "2026-09-03T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82520 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-82520 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True parsedmarc before 11.0.1 decompresses gzip and ZIP attachments in a single unbounded read",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82520",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82520:2026-09-03T20:49"
+  },
   {
    "ts": "2026-09-03T19:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78069",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78069:2026-09-03T12:49"
-  },
-  {
-   "ts": "2026-09-03T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78065 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-78065 📢 Source: Joomla 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - j2commerce.com - Guest checkout address disclosure to any authenticated u",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78065",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78065:2026-09-03T12:49"
-  },
-  {
-   "ts": "2026-09-03T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78064 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-78064 📢 Source: Joomla 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - j2commerce.com - Anonymous cart-record tampering via inherited FOF `save`",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78064",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78064:2026-09-03T12:19"
   }
  ]
 }
