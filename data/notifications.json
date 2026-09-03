@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-03T11:49:09+00:00",
+ "generated_at": "2026-09-03T12:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78064 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-78064 📢 Source: Joomla 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - j2commerce.com - Anonymous cart-record tampering via inherited FOF `save`",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78064",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78064:2026-09-03T12:19"
+  },
+  {
+   "ts": "2026-09-03T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77999 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-77999 📢 Source: Joomla 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - j2commerce.com - Unauthenticated PayPal callback forgery leading to order",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77999",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77999:2026-09-03T12:19"
+  },
   {
    "ts": "2026-09-03T11:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
    "source": "Hacker News",
    "id": "community:https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle:2026-09-02T23:49"
-  },
-  {
-   "ts": "2026-09-02T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Paradox",
-   "body": "Lemmy · programming.dev · 점수 207",
-   "link": "https://quokk.au/static/media/posts/l6/BU/l6BUq8f0KnPwyXO.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://quokk.au/static/media/posts/l6/BU/l6BUq8f0KnPwyXO.png:2026-09-02T23:49"
-  },
-  {
-   "ts": "2026-09-02T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Exit the Cave",
-   "body": "Hacker News · 점수 195",
-   "link": "https://turtlespace.blog/p/exit-the-cave",
-   "source": "Hacker News",
-   "id": "community:https://turtlespace.blog/p/exit-the-cave:2026-09-02T23:49"
   }
  ]
 }
