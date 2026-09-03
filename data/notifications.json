@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-03T23:19:12+00:00",
+ "generated_at": "2026-09-03T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Ask HN: Why were OpenAI, Claude, and Grok simultaneously dow",
+   "body": "Hacker News · 점수 309",
+   "link": "https://news.ycombinator.com/item?id=49551096",
+   "source": "Hacker News",
+   "id": "community:https://news.ycombinator.com/item?id=49551096:2026-09-03T23:49"
+  },
+  {
+   "ts": "2026-09-03T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Google Antigravity TOS: 3rd party usage can get Google accou",
+   "body": "Hacker News · 점수 254",
+   "link": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+   "source": "Hacker News",
+   "id": "community:https://twitter.com/GergelyOrosz/status/2095453567955968398:2026-09-03T23:49"
+  },
+  {
+   "ts": "2026-09-03T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] K2 Horizon: A connected fleet of six open models",
+   "body": "Hacker News · 점수 232",
+   "link": "https://ifm.ai/blog/k2/",
+   "source": "Hacker News",
+   "id": "community:https://ifm.ai/blog/k2/:2026-09-03T23:49"
+  },
+  {
+   "ts": "2026-09-03T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] No AI until high school: NYC mayor Mamdani imposes 1 year ba",
+   "body": "Lemmy · technology · 점수 212",
+   "link": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat:2026-09-03T23:49"
+  },
+  {
+   "ts": "2026-09-03T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] VC isn't VC anymore",
+   "body": "Hacker News · 점수 196",
+   "link": "https://www.anildash.com/2026/09/02/cancer-capital/",
+   "source": "Hacker News",
+   "id": "community:https://www.anildash.com/2026/09/02/cancer-capital/:2026-09-03T23:49"
+  },
   {
    "ts": "2026-09-03T23:19:07+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75035",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75035:2026-09-03T15:49"
-  },
-  {
-   "ts": "2026-09-03T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75034 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-75034 📢 Source: suse 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Rancher Manager. The SAML assertion replay protection introduced by the fi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75034",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75034:2026-09-03T15:49"
-  },
-  {
-   "ts": "2026-09-03T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71963 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-71963 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Hermes Agent 0.18.2 through 0.21.0, fixed in commit f6234d0, contains a remote code execu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71963",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71963:2026-09-03T15:49"
-  },
-  {
-   "ts": "2026-09-03T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84971 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-84971 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper handling of an unexpected value size in the decryption path of a client-side encry",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84971",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84971:2026-09-03T15:19"
-  },
-  {
-   "ts": "2026-09-03T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75033 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-75033 📢 Source: suse 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Rancher Manager. Project Secrets were propagated into a namespace based on",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75033",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75033:2026-09-03T15:19"
-  },
-  {
-   "ts": "2026-09-03T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71404 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-71404 📢 Source: suse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Rancher Manager. The GlobalRole controller derived the target ClusterRole ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71404",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71404:2026-09-03T15:19"
   }
  ]
 }
