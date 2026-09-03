@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-03T21:49:08+00:00",
+ "generated_at": "2026-09-03T22:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-64200 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-64200 📢 Source: NI 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False There is an out-of-bounds read vulnerability in DASYLab due to improper validation of user-supp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64200",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64200:2026-09-03T22:19"
+  },
+  {
+   "ts": "2026-09-03T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-64199 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-64199 📢 Source: NI 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False There is an out-of-bounds read vulnerability in DASYLab due to improper validation of user-supp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64199",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64199:2026-09-03T22:19"
+  },
+  {
+   "ts": "2026-09-03T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-64198 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-64198 📢 Source: NI 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False There is an out-of-bounds read vulnerability in DASYLab due to improper validation of user-supp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64198",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64198:2026-09-03T22:19"
+  },
+  {
+   "ts": "2026-09-03T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-64197 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-64197 📢 Source: NI 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False There is an out-of-bounds write vulnerability in DASYLab due to improper validation of user-sup",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64197",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64197:2026-09-03T22:19"
+  },
+  {
+   "ts": "2026-09-03T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-64196 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-64196 📢 Source: NI 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False There is an out-of-bounds write vulnerability in DASYLab due to improper validation of user-sup",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64196",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64196:2026-09-03T22:19"
+  },
+  {
+   "ts": "2026-09-03T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-64195 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-64195 📢 Source: NI 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False There is an out-of-bounds write vulnerability in DASYLab due to lack of proper validation of us",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64195",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64195:2026-09-03T22:19"
+  },
   {
    "ts": "2026-09-03T20:49:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85178",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85178:2026-09-03T14:49"
-  },
-  {
-   "ts": "2026-09-03T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80515 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-80515 📢 Source: eclipse 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True In Eclipse Arrowhead versions from 5.0.0 to 5.2.1 the management-authorization gate that pr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80515",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80515:2026-09-03T13:49"
-  },
-  {
-   "ts": "2026-09-03T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-6071 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-6071 📢 Source: Rockwell 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A remote code execution security issue exists in the affected products when parsing DOE fil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6071",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6071:2026-09-03T13:49"
-  },
-  {
-   "ts": "2026-09-03T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-12737 (CVSS 8.4)",
-   "body": "🚨 CVE-2025-12737 📢 Source: WSO2 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False The administrative operations within the Carbon Console do not adequately validate specific u",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-12737",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-12737:2026-09-03T13:49"
-  },
-  {
-   "ts": "2026-09-03T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71221 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-71221 📢 Source: redhat 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A stack out-of-bounds write vulnerability was found in gfs2-utils. In savemeta, the height va",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71221",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71221:2026-09-03T12:49"
-  },
-  {
-   "ts": "2026-09-03T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71220 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-71220 📢 Source: redhat 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A stack out-of-bounds write vulnerability was found in gfs2-utils. In gfs2_edit, the di_heigh",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71220",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71220:2026-09-03T12:49"
-  },
-  {
-   "ts": "2026-09-03T12:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-78069 (CVSS 9.5)",
-   "body": "🚨 CVE-2026-78069 📢 Source: Joomla 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - j2commerce.com - Missing authorization on Apps controller delegation ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78069",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78069:2026-09-03T12:49"
   }
  ]
 }
