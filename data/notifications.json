@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-03T17:19:07+00:00",
+ "generated_at": "2026-09-03T17:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-83959 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-83959 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Substance3D - Sampler is affected by a Heap-based Buffer Overflow vulnerability that could r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83959",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83959:2026-09-03T17:49"
+  },
+  {
+   "ts": "2026-09-03T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85012 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-85012 📢 Source: AMZN 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command (CWE-78) in the blueprint re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85012",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85012:2026-09-03T17:49"
+  },
   {
    "ts": "2026-09-03T16:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85154",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85154:2026-09-03T11:49"
-  },
-  {
-   "ts": "2026-09-03T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Uber drivers launch European class action over ‘soulless’ an",
-   "body": "Lemmy · technology · 점수 60",
-   "link": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm:2026-09-03T11:49"
-  },
-  {
-   "ts": "2026-09-03T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76642 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-76642 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False util-linux versions through 2.41.5 and 2.42.2 fail to check mount helper exit status bef",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76642",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76642:2026-09-03T11:19"
   }
  ]
 }
