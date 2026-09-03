@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-09-03T10:49:09+00:00",
+ "generated_at": "2026-09-03T11:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76642 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-76642 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False util-linux versions through 2.41.5 and 2.42.2 fail to check mount helper exit status bef",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76642",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76642:2026-09-03T11:19"
+  },
+  {
+   "ts": "2026-09-03T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85124 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-85124 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /http-proxy versions before 11.6.2 do not validate proxied HTTP request paths for ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85124",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85124:2026-09-03T11:19"
+  },
+  {
+   "ts": "2026-09-03T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85150 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-85150 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A NULL pointer dereference flaw was found in GStreamer's RTSP support library. The vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85150",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85150:2026-09-03T11:19"
+  },
+  {
+   "ts": "2026-09-03T11:19:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Fable 5.1 World Modeling",
+   "body": "Hacker News · 점수 264",
+   "link": "https://github.com/PhiloLabs/fable51-worlds",
+   "source": "Hacker News",
+   "id": "community:https://github.com/PhiloLabs/fable51-worlds:2026-09-03T11:19"
+  },
+  {
+   "ts": "2026-09-03T11:19:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Reverse Engineering Unknown File Formats with ImHex",
+   "body": "Hacker News · 점수 211",
+   "link": "https://werwolv.net/posts/file_format_reverse_engineering/",
+   "source": "Hacker News",
+   "id": "community:https://werwolv.net/posts/file_format_reverse_engineering/:2026-09-03T11:19"
+  },
+  {
+   "ts": "2026-09-03T11:19:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Any significant changes to Tildes are extremely unlikely - ~",
+   "body": "Lemmy · technology · 점수 90",
+   "link": "https://tildes.net/~tildes.official/1vjt/any_significant_changes_to_tildes_are_extremely_unlikely",
+   "source": "Lemmy · technology",
+   "id": "community:https://tildes.net/~tildes.official/1vjt/any_significant_changes_to_tildes_are_extremely_unlikely:2026-09-03T11:19"
+  },
+  {
+   "ts": "2026-09-03T11:19:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Sony Implements New Customer Harassment Policy Following Bac",
+   "body": "Lemmy · technology · 점수 83",
+   "link": "https://www.ign.com/articles/sony-rolls-out-new-customer-harassment-policy-after-physical-disc-controversy-sparks-backlash",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.ign.com/articles/sony-rolls-out-new-customer-harassment-policy-after-physical-disc-controversy-sparks-backlash:2026-09-03T11:19"
+  },
+  {
+   "ts": "2026-09-03T11:19:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I Don’t Have a Smartphone…",
+   "body": "Lobsters · 점수 75",
+   "link": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+   "source": "Lobsters",
+   "id": "community:https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html:2026-09-03T11:19"
+  },
   {
    "ts": "2026-09-03T10:49:07+00:00",
    "level": "important",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84841",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84841:2026-09-02T19:49"
-  },
-  {
-   "ts": "2026-09-02T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84382 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-84382 📢 Source: security-advisories@github.com 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True HTTPX2 is a next generation HTTP client for Python. Prior to 2.12.0,",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84382",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84382:2026-09-02T19:49"
-  },
-  {
-   "ts": "2026-09-02T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84381 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-84381 📢 Source: security-advisories@github.com 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False HTTPX2 is a next generation HTTP client for Python. Prior to 2.10.0",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84381",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84381:2026-09-02T19:49"
-  },
-  {
-   "ts": "2026-09-02T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-19117 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-19117 📢 Source: 1443cd92-d354-46d2-9290-d812316ca43a 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Under specific conditions, an attacker can register an att",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19117",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19117:2026-09-02T19:49"
-  },
-  {
-   "ts": "2026-09-02T18:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77125 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-77125 📢 Source: 103e4ec9-0a87-450b-af77-479448ddef11 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A vulnerability was identified in Sonatype Nexus Repository 3 ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77125",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77125:2026-09-02T18:49"
-  },
-  {
-   "ts": "2026-09-02T18:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77124 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-77124 📢 Source: 103e4ec9-0a87-450b-af77-479448ddef11 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In affected versions of Nexus Repository 3, the script executi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77124",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77124:2026-09-02T18:49"
-  },
-  {
-   "ts": "2026-09-02T18:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-66786 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-66786 📢 Source: secalert@redhat.com 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in submariner. In cert-auth mode, the connection configura",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66786",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66786:2026-09-02T18:49"
-  },
-  {
-   "ts": "2026-09-02T18:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-53706 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-53706 📢 Source: security-advisories@github.com 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True PREVAIL is a Polynomial-Runtime EBPF Verifier using an Abstract Inte",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53706",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53706:2026-09-02T18:49"
-  },
-  {
-   "ts": "2026-09-02T18:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-53671 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-53671 📢 Source: security-advisories@github.com 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True PREVAIL is a Polynomial-Runtime EBPF Verifier using an Abstract ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53671",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53671:2026-09-02T18:49"
   }
  ]
 }
