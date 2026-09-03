@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-03T14:49:10+00:00",
+ "generated_at": "2026-09-03T15:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84971 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-84971 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper handling of an unexpected value size in the decryption path of a client-side encry",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84971",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84971:2026-09-03T15:19"
+  },
+  {
+   "ts": "2026-09-03T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75033 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-75033 📢 Source: suse 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Rancher Manager. Project Secrets were propagated into a namespace based on",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75033",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75033:2026-09-03T15:19"
+  },
+  {
+   "ts": "2026-09-03T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71404 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-71404 📢 Source: suse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Rancher Manager. The GlobalRole controller derived the target ClusterRole ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71404",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71404:2026-09-03T15:19"
+  },
   {
    "ts": "2026-09-03T14:49:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76176",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76176:2026-09-03T10:19"
-  },
-  {
-   "ts": "2026-09-03T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76175 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-76175 📢 Source: INCIBE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True SQL injection vulnerability in the del_check parameter of the /ocsreports/?function=save_que",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76175",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76175:2026-09-03T10:19"
-  },
-  {
-   "ts": "2026-09-03T09:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76174 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-76174 📢 Source: INCIBE 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Unrestricted file upload vulnerability in the CSV file upload functionality of the Ocsre",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76174",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76174:2026-09-03T09:49"
-  },
-  {
-   "ts": "2026-09-03T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80254 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-80254 📢 Source: jpcert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Authorization bypass through user-controlled key issue exists in ShizenBox2 (edge-app). If ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80254",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80254:2026-09-03T09:19"
   }
  ]
 }
