@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-03T10:19:08+00:00",
+ "generated_at": "2026-09-03T10:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T10:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76178 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-76178 📢 Source: INCIBE 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True A stored Cross-Site Scripting (XSS) vulnerability in the notification template functiona",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76178",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76178:2026-09-03T10:49"
+  },
   {
    "ts": "2026-09-03T10:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-53671",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53671:2026-09-02T18:49"
-  },
-  {
-   "ts": "2026-09-02T18:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-53670 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-53670 📢 Source: security-advisories@github.com 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True PREVAIL is a Polynomial-Runtime EBPF Verifier using an Abstract ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53670",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53670:2026-09-02T18:49"
   }
  ]
 }
