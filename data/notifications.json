@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-03T08:49:08+00:00",
+ "generated_at": "2026-09-03T09:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80254 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-80254 📢 Source: jpcert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Authorization bypass through user-controlled key issue exists in ShizenBox2 (edge-app). If ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80254",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80254:2026-09-03T09:19"
+  },
+  {
+   "ts": "2026-09-03T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80253 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-80253 📢 Source: jpcert 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False An improper physical access control issue exists in ShizenBox2 (dev-conf). If exploited, an a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80253",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80253:2026-09-03T09:19"
+  },
+  {
+   "ts": "2026-09-03T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84832 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-84832 📢 Source: NCSC.ch 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True SEPPmail Secure Email Gateway before 15.0.6 deserializes attacker-controlled data in a priv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84832",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84832:2026-09-03T09:19"
+  },
+  {
+   "ts": "2026-09-03T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84831 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-84831 📢 Source: NCSC.ch 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True SEPPmail Secure Email Gateway before 15.0.7 creates a fully privileged session before requi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84831",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84831:2026-09-03T09:19"
+  },
+  {
+   "ts": "2026-09-03T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84830 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-84830 📢 Source: NCSC.ch 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True SEPPmail Secure Email Gateway before 15.0.7 contains a command injection vulnerability that",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84830",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84830:2026-09-03T09:19"
+  },
   {
    "ts": "2026-09-03T08:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84810",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84810:2026-09-02T17:49"
-  },
-  {
-   "ts": "2026-09-02T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84809 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-84809 📢 Source: disclosure@vulncheck.com 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Tencent AI-Infra-Guard's skill-scan component excludes compiled Python byt",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84809",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84809:2026-09-02T17:49"
-  },
-  {
-   "ts": "2026-09-02T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-53635 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-53635 📢 Source: security-advisories@github.com 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Open edX Platform enables the authoring and delivery of online learn",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53635",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53635:2026-09-02T17:49"
-  },
-  {
-   "ts": "2026-09-02T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-20212 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-20212 📢 Source: None 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in the Silicon One integration for Cisco Nexus 9000 Series Switches could ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-20212",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-20212:2026-09-02T17:19"
-  },
-  {
-   "ts": "2026-09-02T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-20274 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-20274 📢 Source: None 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-20274",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-20274:2026-09-02T17:19"
-  },
-  {
-   "ts": "2026-09-02T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-20275 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-20275 📢 Source: None 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco IO",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-20275",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-20275:2026-09-02T17:19"
   }
  ]
 }
