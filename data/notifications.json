@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-03T16:19:07+00:00",
+ "generated_at": "2026-09-03T16:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84736 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-84736 📢 Source: eclipse 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True In the current development version of Eclipse aeriOS, for which no official release has yet",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84736",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84736:2026-09-03T16:49"
+  },
   {
    "ts": "2026-09-03T15:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76642",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76642:2026-09-03T11:19"
-  },
-  {
-   "ts": "2026-09-03T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85124 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-85124 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /http-proxy versions before 11.6.2 do not validate proxied HTTP request paths for ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85124",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85124:2026-09-03T11:19"
   }
  ]
 }
