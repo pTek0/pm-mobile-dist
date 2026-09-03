@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-03T03:19:08+00:00",
+ "generated_at": "2026-09-03T03:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-03T03:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2021-38489 (CVSS 8.2)",
+   "body": "🚨 CVE-2021-38489 📢 Source: None 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False HDD password plaintext is stored in a UEFI variable. 📅 Published Date: 2026-09-03 03:35:43.85",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2021-38489",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-38489:2026-09-03T03:49"
+  },
   {
    "ts": "2026-09-03T02:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-20276",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-20276:2026-09-02T17:19"
-  },
-  {
-   "ts": "2026-09-02T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-20277 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-20277 📢 Source: None 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco IOS",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-20277",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-20277:2026-09-02T17:19"
   }
  ]
 }
