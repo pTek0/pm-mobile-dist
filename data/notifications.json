@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-04T06:19:07+00:00",
+ "generated_at": "2026-09-04T06:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-04T06:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85094 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-85094 📢 Source: Canva 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The Canva Android App before 2.376.0 did not restrict the headers returned to an external ori",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85094",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85094:2026-09-04T06:49"
+  },
+  {
+   "ts": "2026-09-04T06:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85085 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-85085 📢 Source: Canva 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True The Canva Android App before 2.376.0 allowed an external origin to be loaded in a privile",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85085",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85085:2026-09-04T06:49"
+  },
   {
    "ts": "2026-09-04T04:49:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85395",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85395:2026-09-03T19:19"
-  },
-  {
-   "ts": "2026-09-03T19:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85394 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-85394 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True python-jose through 3.5.0 fails to properly validate asymmetric keys in HMAC initiali",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85394",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85394:2026-09-03T19:19"
-  },
-  {
-   "ts": "2026-09-03T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85393 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-85393 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True node-forge through 1.4.0 fails to validate element count in nested DigestAlgorithm sequen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85393",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85393:2026-09-03T19:19"
   }
  ]
 }
