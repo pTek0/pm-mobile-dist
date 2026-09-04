@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-04T02:19:07+00:00",
+ "generated_at": "2026-09-04T02:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-04T02:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85148 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-85148 📢 Source: twcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True SmartIT Desktop Manager developed by Lightstar has a Use of Hard-coded Credentials vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85148",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85148:2026-09-04T02:49"
+  },
+  {
+   "ts": "2026-09-04T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85147 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-85147 📢 Source: twcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SmartIT Desktop Manager developed by Lightstar has a Use of Hard-coded Credentials vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85147",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85147:2026-09-04T02:49"
+  },
+  {
+   "ts": "2026-09-04T02:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85146 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-85146 📢 Source: twcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True SmartIT Desktop Manager developed by Lightstar has a Use of Hard-coded Credentials vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85146",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85146:2026-09-04T02:49"
+  },
+  {
+   "ts": "2026-09-04T02:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75754 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-75754 📢 Source: ASUS 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Missing Authentication for Critical Function, Server-Side Request Forgery (SSRF), and Use o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75754",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75754:2026-09-04T02:49"
+  },
   {
    "ts": "2026-09-04T00:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78583",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78583:2026-09-03T18:49"
-  },
-  {
-   "ts": "2026-09-03T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85028 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-85028 📢 Source: AMZN 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Creation of a temporary file in a directory with insecure permissions in the FPGA management ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85028",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85028:2026-09-03T18:49"
-  },
-  {
-   "ts": "2026-09-03T18:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82526 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82526 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True R2R through 3.6.6 contains a stacked SQL injection vulnerability that allows unauthen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82526",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82526:2026-09-03T18:49"
-  },
-  {
-   "ts": "2026-09-03T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15431 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-15431 📢 Source: hp 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A potential security vulnerability has been identified in the HP Support Assistant for versions",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15431",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15431:2026-09-03T18:49"
-  },
-  {
-   "ts": "2026-09-03T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-83959 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-83959 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Substance3D - Sampler is affected by a Heap-based Buffer Overflow vulnerability that could r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83959",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83959:2026-09-03T17:49"
   }
  ]
 }
