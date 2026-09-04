@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-04T04:19:07+00:00",
+ "generated_at": "2026-09-04T04:49:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-04T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85509 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-85509 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True FreeIPMI before 1.6.19 has a stack-based buffer overflow in _read_fru_data in libfreeipmi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85509",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85509:2026-09-04T04:49"
+  },
+  {
+   "ts": "2026-09-04T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85508 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-85508 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ipmi-oem in FreeIPMI before 1.6.19 has a stack-based buffer overflow in _output_dell_syst",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85508",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85508:2026-09-04T04:49"
+  },
+  {
+   "ts": "2026-09-04T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85507 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-85507 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ipmi-oem in FreeIPMI before 1.6.19 has a stack-based buffer overflow in _output_dell_syst",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85507",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85507:2026-09-04T04:49"
+  },
+  {
+   "ts": "2026-09-04T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85506 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-85506 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ipmi-oem in FreeIPMI before 1.6.19 has a stack-based buffer overflow in _get_dell_system_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85506",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85506:2026-09-04T04:49"
+  },
+  {
+   "ts": "2026-09-04T04:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85505 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-85505 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True ipmi-oem in FreeIPMI before 1.6.19 has a stack-based buffer over-read in ipmi_oem_fujitsu_get",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85505",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85505:2026-09-04T04:49"
+  },
+  {
+   "ts": "2026-09-04T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85504 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-85504 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True FreeIPMI before 1.6.19 has a stack-based buffer overflow in _ipmi_sel_oem_fujitsu_get_sel",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85504",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85504:2026-09-04T04:49"
+  },
   {
    "ts": "2026-09-04T02:49:06+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85393",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85393:2026-09-03T19:19"
-  },
-  {
-   "ts": "2026-09-03T19:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85391 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-85391 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Peppermint through 0.5.5 contains a hardcoded JWT signing secret in docker-compose.ym",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85391",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85391:2026-09-03T19:19"
-  },
-  {
-   "ts": "2026-09-03T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85390 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-85390 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Checkmate through 3.11.0 omits the isAllowed role guard middleware on maintenance-window,",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85390",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85390:2026-09-03T19:19"
-  },
-  {
-   "ts": "2026-09-03T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85389 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-85389 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Worklenz before 3.0.0 fails to verify task ownership by organization when resolving task-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85389",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85389:2026-09-03T19:19"
-  },
-  {
-   "ts": "2026-09-03T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85388 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-85388 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Worklenz through 3.0.0 fails to properly validate the sort-field query parameter in pagin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85388",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85388:2026-09-03T19:19"
-  },
-  {
-   "ts": "2026-09-03T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82302 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-82302 📢 Source: elastic 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Incorrect Authorization (CWE-863) in Kibana can lead to unauthorized configuration modifica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82302",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82302:2026-09-03T18:49"
-  },
-  {
-   "ts": "2026-09-03T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78583 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-78583 📢 Source: elastic 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Incorrect Authorization (CWE-863) in Kibana can lead to privilege escalation via Input Data",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78583",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78583:2026-09-03T18:49"
   }
  ]
 }
