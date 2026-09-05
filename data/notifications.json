@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-09-04T07:19:12+00:00",
+ "generated_at": "2026-09-05T14:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-05T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86196 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-86196 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Grav API plugin versions before 1.0.20 build password reset links from the untrusted Host",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86196",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86196:2026-09-05T14:49"
+  },
+  {
+   "ts": "2026-09-05T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86195 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-86195 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True grav-plugin-api versions before 1.0.20 contain a privilege escalation vulnerability in th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86195",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86195:2026-09-05T14:49"
+  },
+  {
+   "ts": "2026-09-05T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86193 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-86193 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True grav-plugin-api before 1.0.20 fails to validate group-inherited super permissions in user",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86193",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86193:2026-09-05T14:49"
+  },
+  {
+   "ts": "2026-09-05T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86192 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-86192 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True SiYuan versions before v3.8.2 fail to properly filter private attribute-view cell values ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86192",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86192:2026-09-05T14:49"
+  },
+  {
+   "ts": "2026-09-05T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-86190 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-86190 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True WWBN AVideo contains a broken access control vulnerability in videoViewsInfo endpoint",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86190",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86190:2026-09-05T14:49"
+  },
+  {
+   "ts": "2026-09-05T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-86189 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-86189 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True WWBN AVideo contains a path traversal vulnerability in notify.ffmpeg.json.php that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86189",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86189:2026-09-05T14:49"
+  },
+  {
+   "ts": "2026-09-05T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86188 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-86188 📢 Source: VulnCheck 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True AVideo with YPTSocket plugin enabled contains a cross-site scripting vulnerability allowi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86188",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86188:2026-09-05T14:49"
+  },
+  {
+   "ts": "2026-09-05T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86187 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-86187 📢 Source: VulnCheck 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True WWBN AVideo generates passwords for external-login accounts using rand() instead of a cry",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86187",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86187:2026-09-05T14:49"
+  },
+  {
+   "ts": "2026-09-05T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86185 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-86185 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Bilibili Desktop through 1.18.0 disables TLS certificate verification process-wide and e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86185",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86185:2026-09-05T14:49"
+  },
+  {
+   "ts": "2026-09-05T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-86184 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-86184 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Lara Dashboard before 1.3.0 contains an authentication bypass vulnerability in the sc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86184",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86184:2026-09-05T14:49"
+  },
   {
    "ts": "2026-09-04T07:19:07+00:00",
    "level": "important",
@@ -401,106 +501,6 @@
    "link": "https://openai.com/index/gpt-6-astra/",
    "source": "Hacker News",
    "id": "community:https://openai.com/index/gpt-6-astra/:2026-09-03T23:19"
-  },
-  {
-   "ts": "2026-09-03T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Any Human Ever – One life, drawn at random from all who have",
-   "body": "Hacker News · 점수 415",
-   "link": "https://anyhumanever.com/",
-   "source": "Hacker News",
-   "id": "community:https://anyhumanever.com/:2026-09-03T23:19"
-  },
-  {
-   "ts": "2026-09-03T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-   "body": "Hacker News · 점수 386",
-   "link": "https://inference-docs.cerebras.ai/models/overview",
-   "source": "Hacker News",
-   "id": "community:https://inference-docs.cerebras.ai/models/overview:2026-09-03T23:19"
-  },
-  {
-   "ts": "2026-09-03T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Pre-Release of Polars 2.0",
-   "body": "Hacker News · 점수 373",
-   "link": "https://pola.rs/posts/announcing-polars-2/",
-   "source": "Hacker News",
-   "id": "community:https://pola.rs/posts/announcing-polars-2/:2026-09-03T23:19"
-  },
-  {
-   "ts": "2026-09-03T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-64200 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-64200 📢 Source: NI 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False There is an out-of-bounds read vulnerability in DASYLab due to improper validation of user-supp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64200",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64200:2026-09-03T22:19"
-  },
-  {
-   "ts": "2026-09-03T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-64199 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-64199 📢 Source: NI 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False There is an out-of-bounds read vulnerability in DASYLab due to improper validation of user-supp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64199",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64199:2026-09-03T22:19"
-  },
-  {
-   "ts": "2026-09-03T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-64198 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-64198 📢 Source: NI 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False There is an out-of-bounds read vulnerability in DASYLab due to improper validation of user-supp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64198",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64198:2026-09-03T22:19"
-  },
-  {
-   "ts": "2026-09-03T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-64197 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-64197 📢 Source: NI 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False There is an out-of-bounds write vulnerability in DASYLab due to improper validation of user-sup",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64197",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64197:2026-09-03T22:19"
-  },
-  {
-   "ts": "2026-09-03T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-64196 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-64196 📢 Source: NI 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False There is an out-of-bounds write vulnerability in DASYLab due to improper validation of user-sup",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64196",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64196:2026-09-03T22:19"
-  },
-  {
-   "ts": "2026-09-03T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-64195 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-64195 📢 Source: NI 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False There is an out-of-bounds write vulnerability in DASYLab due to lack of proper validation of us",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64195",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64195:2026-09-03T22:19"
-  },
-  {
-   "ts": "2026-09-03T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-8862 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-8862 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Netezza Software 11.3.0.3 through Interim Fix 002 has credentials that are hardcoded in the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8862",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8862:2026-09-03T20:49"
   }
  ]
 }
