@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-09-15T21:49:10+00:00",
+ "generated_at": "2026-09-15T22:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92248 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-92248 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the file-psd plugin in GIMP. When generating a thumbnail preview for a ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92248",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92248:2026-09-15T22:19"
+  },
+  {
+   "ts": "2026-09-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76869 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-76869 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Netcore NR255-V version 1.5.130703 contains a stack-based buffer overflow in reboot_timer",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76869",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76869:2026-09-15T22:19"
+  },
+  {
+   "ts": "2026-09-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76866 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-76866 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Netcore NR255-V firmware version 1.5.130703 builds root-run command lines from unquoted u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76866",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76866:2026-09-15T22:19"
+  },
+  {
+   "ts": "2026-09-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76862 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76862 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Netcore NR255-V version 1.5.130703 contains an os command argument injection vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76862",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76862:2026-09-15T22:19"
+  },
+  {
+   "ts": "2026-09-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76861 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76861 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Netcore NR255-V version 1.5.130703 contains a stack-based buffer overflow in ntools_tcpdu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76861",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76861:2026-09-15T22:19"
+  },
+  {
+   "ts": "2026-09-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76860 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76860 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Netcore NR255-V version 1.5.130703 contains a stack-based buffer overflow in wake_up_set.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76860",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76860:2026-09-15T22:19"
+  },
+  {
+   "ts": "2026-09-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76859 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-76859 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Netcore NR255-V version 1.5.130703 contains a sensitive information disclosure vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76859",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76859:2026-09-15T22:19"
+  },
+  {
+   "ts": "2026-09-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76857 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-76857 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Netcore NR255-V firmware version 1.5.130703 contains a sensitive information disclosure v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76857",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76857:2026-09-15T22:19"
+  },
+  {
+   "ts": "2026-09-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76856 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-76856 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Netcore NR255-V firmware version 1.5.130703 contains a cross-site request forgery vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76856",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76856:2026-09-15T22:19"
+  },
+  {
+   "ts": "2026-09-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76855 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-76855 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Netcore NR255-V version 1.5.130703 contains a sensitive information disclosure vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76855",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76855:2026-09-15T22:19"
+  },
+  {
+   "ts": "2026-09-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76854 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-76854 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Netcore NR255-V version 1.5.130703 contains a sensitive information disclosure vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76854",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76854:2026-09-15T22:19"
+  },
+  {
+   "ts": "2026-09-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76853 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-76853 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Netcore NR268 firmware version 1.7.121109 contains a security check bypass vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76853",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76853:2026-09-15T22:19"
+  },
+  {
+   "ts": "2026-09-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76852 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76852 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Netcore NR268 firmware version 1.7.121109 has an improper integrity verification flaw in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76852",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76852:2026-09-15T22:19"
+  },
   {
    "ts": "2026-09-15T21:49:07+00:00",
    "level": "important",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18115",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18115:2026-09-15T17:49"
-  },
-  {
-   "ts": "2026-09-15T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-13210 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-13210 📢 Source: GitLab 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 15.7 before 19.1.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13210",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13210:2026-09-15T17:49"
-  },
-  {
-   "ts": "2026-09-15T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81898 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-81898 📢 Source: ConcreteCMS 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Concrete CMS below version 9.5.3, the Address attribute's country-less text formatte",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81898",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81898:2026-09-15T17:49"
-  },
-  {
-   "ts": "2026-09-15T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18113 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-18113 📢 Source: ConcreteCMS 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Concrete CMS 9.0 to 9.5.2, the Top Navigation Bar block did not HTML-escape dropdown",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18113",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18113:2026-09-15T17:49"
-  },
-  {
-   "ts": "2026-09-15T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-11729 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-11729 📢 Source: ibm 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True IBM MQ 9.1.0.0 through 9.1.0.37 LTS, 9.2.0.0 through 9.2.0.43 LTS, 9.3.0.0 through 9.3.0.41 LTS",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-11729",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-11729:2026-09-15T17:49"
-  },
-  {
-   "ts": "2026-09-15T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81897 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-81897 📢 Source: ConcreteCMS 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In Concrete CMS below CMS 9.5.3, the save_control action in the Express entities forms ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81897",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81897:2026-09-15T17:19"
-  },
-  {
-   "ts": "2026-09-15T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81896 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-81896 📢 Source: ConcreteCMS 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Concrete CMS before 9.5.3 does not apply HTML entity encoding to user-defined Form bloc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81896",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81896:2026-09-15T17:19"
-  },
-  {
-   "ts": "2026-09-15T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2024-58385 (CVSS 9.8)",
-   "body": "🚨 CVE-2024-58385 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Yonyou U8 CRM contains an unauthenticated SQL injection vulnerability in the fillback",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58385",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58385:2026-09-15T17:19"
-  },
-  {
-   "ts": "2026-09-15T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2023-54398 (CVSS 9.8)",
-   "body": "🚨 CVE-2023-54398 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Yonyou U8 Cloud contains an unauthenticated Java deserialization vulnerability in the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2023-54398",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54398:2026-09-15T17:19"
-  },
-  {
-   "ts": "2026-09-15T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-89026 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-89026 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The Issabel Framework, the web framework supporting Issabel PBX software, before comm",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89026",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89026:2026-09-15T16:49"
-  },
-  {
-   "ts": "2026-09-15T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81895 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-81895 📢 Source: ConcreteCMS 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True In Concrete CMS before 9.5.3, the Document Library block stored the file-set identifier",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81895",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81895:2026-09-15T16:49"
-  },
-  {
-   "ts": "2026-09-15T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81894 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-81894 📢 Source: ConcreteCMS 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Concrete CMS 9.5.2 and below is vulnerable to stored DOM-based Cross-site Scripting (XS",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81894",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81894:2026-09-15T16:49"
-  },
-  {
-   "ts": "2026-09-15T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18111 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-18111 📢 Source: ConcreteCMS 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Concrete CMS 9 before 9.5.3 was vulnerable to stored cross-site scripting (XSS) in the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18111",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18111:2026-09-15T16:49"
-  },
-  {
-   "ts": "2026-09-15T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18110 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-18110 📢 Source: ConcreteCMS 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Concrete CMS 9 (9.0.0 through 9.5.2) does not perform an authorization check on the use",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18110",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18110:2026-09-15T16:49"
   }
  ]
 }
