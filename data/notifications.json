@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-05T14:49:11+00:00",
+ "generated_at": "2026-09-15T13:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-15T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77179 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-77179 📢 Source: Docker 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False On macOS, the virtio-fs host server used by Docker Sandboxes improperly follows symlink",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77179",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77179:2026-09-15T13:49"
+  },
+  {
+   "ts": "2026-09-15T13:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: finance",
+   "body": "**★ 2026-09-15 PW-08 호스트 이전 설계(PC→NAS, 설계만·실행 0)**: 예약 태스크 29개 실측 분류(순수 파이썬 21·CLI 의존 5·node 0·대시보드 1), 장부 쓰기 12개 묶음 단일 ",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: finance:2026-09-15T13:49"
+  },
+  {
+   "ts": "2026-09-15T13:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: 공용모듈 17종 modules/",
+   "body": "**★ 2026-09-07 fx-kit 0.2.0 — 거버넌스 L-016·L-017 실결함 2건 해소(ptek-labs)**: ⓐ**L-016 면세 문턱 통화 환산 누락** — 문턱은 USD 고정 상수($150/$2",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: 공용모듈 17종 modules/:2026-09-15T13:49"
+  },
+  {
+   "ts": "2026-09-15T13:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: riding-app",
+   "body": "**★ 2026-09-09 — v0.7.0 main 머지 + 코스추천 프로토타입(키 불필요 슬라이스, ptek-labs)**: v0.7.0 GPX 워크트리(4a4b3fa) **main 머지 완료**. 6번째 탭 \"코",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: riding-app:2026-09-15T13:49"
+  },
+  {
+   "ts": "2026-09-15T13:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: osmo-backup",
+   "body": "**▶ 2026-09-06 갱신** — ①**동반 파일(썸네일류) 정리 단계 신설·실가동**: 사용자 지시로 백업 검증 완료 후 `.LRF`(저해상도 프록시)·`.THM`(썸네일)·`.SCR`(스크린네일)을 카드에서",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: osmo-backup:2026-09-15T13:49"
+  },
+  {
+   "ts": "2026-09-15T13:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: InsecureBankv2",
+   "body": "정적분석 보고서 완료 — **정체 지속(마지막 활동 07-20 → 2026-09-14 기준 56일 경과)**",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: InsecureBankv2:2026-09-15T13:49"
+  },
+  {
+   "ts": "2026-09-15T13:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pentest-toolkit",
+   "body": "쉐도우 모드(관찰만) — **정체 지속(마지막 세션 07-17 → 2026-09-14 기준 59일 경과, 지난 7일 커밋 0)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→⏸",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pentest-toolkit:2026-09-15T13:49"
+  },
   {
    "ts": "2026-09-05T14:49:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-70352",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70352:2026-09-03T23:19"
-  },
-  {
-   "ts": "2026-09-03T23:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70178 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-70178 📢 Source: microsoft 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-03T22:59:11.775Z https://cvefeed.io/vuln/detail/CVE-2026-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70178",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70178:2026-09-03T23:19"
-  },
-  {
-   "ts": "2026-09-03T23:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-69857 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-69857 📢 Source: microsoft 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-03T22:59:16.698Z https://cvefeed.io/vuln/detail/CVE-2026-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69857",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69857:2026-09-03T23:19"
-  },
-  {
-   "ts": "2026-09-03T23:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65818 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-65818 📢 Source: microsoft 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-03T22:59:17.290Z https://cvefeed.io/vuln/detail/CVE-2026-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65818",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65818:2026-09-03T23:19"
-  },
-  {
-   "ts": "2026-09-03T23:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-62916 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-62916 📢 Source: microsoft 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-03T22:59:17.956Z https://cvefeed.io/vuln/detail/CVE-2",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62916",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62916:2026-09-03T23:19"
-  },
-  {
-   "ts": "2026-09-03T23:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-62906 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-62906 📢 Source: microsoft 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-03T22:59:10.137Z https://cvefeed.io/vuln/detail/CVE-2026-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62906",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62906:2026-09-03T23:19"
-  },
-  {
-   "ts": "2026-09-03T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] .name Termination",
-   "body": "Hacker News · 점수 1191",
-   "link": "https://neil.fraser.name/news/2026/09/03/",
-   "source": "Hacker News",
-   "id": "community:https://neil.fraser.name/news/2026/09/03/:2026-09-03T23:19"
-  },
-  {
-   "ts": "2026-09-03T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GPT-6 Astra",
-   "body": "Hacker News · 점수 1063",
-   "link": "https://openai.com/index/gpt-6-astra/",
-   "source": "Hacker News",
-   "id": "community:https://openai.com/index/gpt-6-astra/:2026-09-03T23:19"
   }
  ]
 }
