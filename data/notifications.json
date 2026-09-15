@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-15T20:19:08+00:00",
+ "generated_at": "2026-09-15T20:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-15T20:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-66887 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-66887 📢 Source: icscert 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False The affected products are missing authorization on state-changing CGIs and session che",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66887",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66887:2026-09-15T20:49"
+  },
+  {
+   "ts": "2026-09-15T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66372 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-66372 📢 Source: icscert 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: False The affected products use insufficiently random values, which allows web session tokens to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66372",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66372:2026-09-15T20:49"
+  },
+  {
+   "ts": "2026-09-15T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79994 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-79994 📢 Source: Docker 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False The guest-to-host Unix-domain socket relay in Docker Sandboxes validates that a socket path",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79994",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79994:2026-09-15T20:49"
+  },
+  {
+   "ts": "2026-09-15T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68950 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-68950 📢 Source: icscert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The affected products use hard-coded credentials, which could allow an attacker to run the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68950",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68950:2026-09-15T20:49"
+  },
+  {
+   "ts": "2026-09-15T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68070 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-68070 📢 Source: icscert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The affected products are missing authentication for a critical function, which could allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68070",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68070:2026-09-15T20:49"
+  },
   {
    "ts": "2026-09-15T19:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91935",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91935:2026-09-15T15:49"
-  },
-  {
-   "ts": "2026-09-15T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91934 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-91934 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Flowise versions before 3.1.4 fail to validate file paths in the SQL Database Chain node ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91934",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91934:2026-09-15T15:49"
-  },
-  {
-   "ts": "2026-09-15T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91933 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-91933 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Flowise before 3.1.4 fails to enforce workspace-level authorization checks in openai-real",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91933",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91933:2026-09-15T15:49"
-  },
-  {
-   "ts": "2026-09-15T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-91932 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-91932 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Flowise before 3.1.4 contains a validation bypass vulnerability in MCP server configura",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91932",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91932:2026-09-15T15:49"
-  },
-  {
-   "ts": "2026-09-15T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-63696 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-63696 📢 Source: dell 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Dell SmartFabric OS10 Software, versions prior to 10.6.1.3 , contains a Download of Code W",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63696",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63696:2026-09-15T15:19"
-  },
-  {
-   "ts": "2026-09-15T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-63695 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-63695 📢 Source: dell 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Dell SmartFabric OS10 Software, versions prior to 10.6.1.3 , contains a Session Fixation v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63695",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63695:2026-09-15T15:19"
   }
  ]
 }
