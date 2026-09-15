@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-15T17:49:08+00:00",
+ "generated_at": "2026-09-15T18:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-15T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85234 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-85234 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in tftp-hpa. When the `in.tftpd` remap engine processes an inverse remap ru",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85234",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85234:2026-09-15T18:19"
+  },
+  {
+   "ts": "2026-09-15T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81899 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-81899 📢 Source: ConcreteCMS 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Concrete CMS 9.0.0 to 9.5.2 stored group folder names without sanitization and printed ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81899",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81899:2026-09-15T18:19"
+  },
+  {
+   "ts": "2026-09-15T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-40058 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-40058 📢 Source: CrowdStrike 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False CrowdStrike released a security update to address a vulnerability in the Falcon sensor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40058",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40058:2026-09-15T18:19"
+  },
+  {
+   "ts": "2026-09-15T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81238 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-81238 📢 Source: dell 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Dell Wyse Management Suite, versions prior to 2605.0.3.683, contain a Missing Authentication f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81238",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81238:2026-09-15T18:19"
+  },
+  {
+   "ts": "2026-09-15T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81235 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-81235 📢 Source: dell 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True Dell Wyse Management Suite, versions prior to 2605.0.3.683, contain a Missing Cryptographic Step",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81235",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81235:2026-09-15T18:19"
+  },
+  {
+   "ts": "2026-09-15T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-11728 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-11728 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM MQ 9.1.0.0 through 9.1.0.37 LTS, 9.2.0.0 through 9.2.0.43 LTS, 9.3.0.0 through 9.3.0.41 LTS",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-11728",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-11728:2026-09-15T18:19"
+  },
   {
    "ts": "2026-09-15T17:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86193",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86193:2026-09-05T14:49"
-  },
-  {
-   "ts": "2026-09-05T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86192 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-86192 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True SiYuan versions before v3.8.2 fail to properly filter private attribute-view cell values ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86192",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86192:2026-09-05T14:49"
-  },
-  {
-   "ts": "2026-09-05T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-86190 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-86190 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True WWBN AVideo contains a broken access control vulnerability in videoViewsInfo endpoint",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86190",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86190:2026-09-05T14:49"
-  },
-  {
-   "ts": "2026-09-05T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-86189 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-86189 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True WWBN AVideo contains a path traversal vulnerability in notify.ffmpeg.json.php that al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86189",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86189:2026-09-05T14:49"
-  },
-  {
-   "ts": "2026-09-05T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86188 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-86188 📢 Source: VulnCheck 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True AVideo with YPTSocket plugin enabled contains a cross-site scripting vulnerability allowi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86188",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86188:2026-09-05T14:49"
-  },
-  {
-   "ts": "2026-09-05T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86187 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-86187 📢 Source: VulnCheck 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True WWBN AVideo generates passwords for external-login accounts using rand() instead of a cry",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86187",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86187:2026-09-05T14:49"
-  },
-  {
-   "ts": "2026-09-05T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86185 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-86185 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Bilibili Desktop through 1.18.0 disables TLS certificate verification process-wide and e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86185",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86185:2026-09-05T14:49"
   }
  ]
 }
