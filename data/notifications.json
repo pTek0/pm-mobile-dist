@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-15T21:19:08+00:00",
+ "generated_at": "2026-09-15T21:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-15T21:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-81855 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-81855 📢 Source: icscert 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A hardcoded cryptographic client authentication key vulnerability exists in the robot t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81855",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81855:2026-09-15T21:49"
+  },
+  {
+   "ts": "2026-09-15T21:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78225 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-78225 📢 Source: icscert 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True A hardcoded cryptographic server key vulnerability exists in the deployer-ng Update Con",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78225",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78225:2026-09-15T21:49"
+  },
+  {
+   "ts": "2026-09-15T21:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73437 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-73437 📢 Source: Arista 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with Dynamic Host Configuration Protocol (DHCP",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73437",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73437:2026-09-15T21:49"
+  },
+  {
+   "ts": "2026-09-15T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10144 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-10144 📢 Source: VulnCheck 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Rsbuild before 2.0.9 contains a command injection vulnerability that allows attackers to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10144",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10144:2026-09-15T21:49"
+  },
   {
    "ts": "2026-09-15T21:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18110",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18110:2026-09-15T16:49"
-  },
-  {
-   "ts": "2026-09-15T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-89022 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-89022 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True BookStack before 26.05.5 contains an authentication bypass vulnerability in its socia",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89022",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89022:2026-09-15T16:49"
-  },
-  {
-   "ts": "2026-09-15T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19780 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-19780 📢 Source: zdi 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Koha Eval Code Injection Remote Code Execution Vulnerability. This vulnerability allows remote",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19780",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19780:2026-09-15T16:49"
-  },
-  {
-   "ts": "2026-09-15T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-77972 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-77972 📢 Source: EEF 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Time-of-check Time-of-use (TOCTOU) Race Condition in Slab safeurl allows an attacker who cont",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77972",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77972:2026-09-15T15:49"
-  },
-  {
-   "ts": "2026-09-15T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-77866 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-77866 📢 Source: EEF 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Server-Side Request Forgery (SSRF) vulnerability in Slab safeurl allows an attacker who contr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77866",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77866:2026-09-15T15:49"
   }
  ]
 }
