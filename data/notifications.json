@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-09-15T23:19:07+00:00",
+ "generated_at": "2026-09-15T23:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-15T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73460 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-73460 📢 Source: Arista 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with IS-IS graceful restart enabled, an unauthentica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73460",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73460:2026-09-15T23:49"
+  },
+  {
+   "ts": "2026-09-15T23:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-15640 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-15640 📢 Source: Delinea 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True Under certain conditions a valid SAML IdP response may be used to impersonate another S",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15640",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15640:2026-09-15T23:49"
+  },
+  {
+   "ts": "2026-09-15T23:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-15639 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-15639 📢 Source: Delinea 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An attacker can craft a malicious link that, if used by a legitimate user, may cause th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15639",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15639:2026-09-15T23:49"
+  },
+  {
+   "ts": "2026-09-15T23:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-15638 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-15638 📢 Source: Delinea 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated user with access to Secret Server could leverage a padding oracle to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15638",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15638:2026-09-15T23:49"
+  },
+  {
+   "ts": "2026-09-15T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73459 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-73459 📢 Source: Arista 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with IS-IS configured, an unauthenticated attacker",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73459",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73459:2026-09-15T23:49"
+  },
+  {
+   "ts": "2026-09-15T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73446 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-73446 📢 Source: Arista 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with IS-IS configured on a broadcast interface, an",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73446",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73446:2026-09-15T23:49"
+  },
+  {
+   "ts": "2026-09-15T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Suspected sabotage causes major Netherlands rail disruption",
+   "body": "Hacker News · 점수 400",
+   "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+   "source": "Hacker News",
+   "id": "community:https://www.bbc.com/news/articles/c8ly49w9g1edo:2026-09-15T23:49"
+  },
+  {
+   "ts": "2026-09-15T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A single firm is behind OpenAI, Anthropic, and Meta hacking ",
+   "body": "Hacker News · 점수 390",
+   "link": "https://www.effort.news/irregular",
+   "source": "Hacker News",
+   "id": "community:https://www.effort.news/irregular:2026-09-15T23:49"
+  },
+  {
+   "ts": "2026-09-15T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Java 27",
+   "body": "Hacker News · 점수 308",
+   "link": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+   "source": "Hacker News",
+   "id": "community:https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/:2026-09-15T23:49"
+  },
+  {
+   "ts": "2026-09-15T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] An Update on Wayback Machine Access",
+   "body": "Hacker News · 점수 305",
+   "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+   "source": "Hacker News",
+   "id": "community:https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/:2026-09-15T23:49"
+  },
+  {
+   "ts": "2026-09-15T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Let's make quality the norm again",
+   "body": "Hacker News · 점수 271",
+   "link": "https://www.forbrukerradet.no/short-life/",
+   "source": "Hacker News",
+   "id": "community:https://www.forbrukerradet.no/short-life/:2026-09-15T23:49"
+  },
   {
    "ts": "2026-09-15T23:19:07+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76677",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76677:2026-09-15T19:49"
-  },
-  {
-   "ts": "2026-09-15T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76676 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-76676 📢 Source: hpe 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Buffer overflow vulnerabilities exist in the underlying operating system of EdgeConnect SD-WAN",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76676",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76676:2026-09-15T19:49"
-  },
-  {
-   "ts": "2026-09-15T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76675 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-76675 📢 Source: hpe 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A command injection vulnerability exists in the command line interface of EdgeConnect SD-WA",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76675",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76675:2026-09-15T19:49"
-  },
-  {
-   "ts": "2026-09-15T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76674 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-76674 📢 Source: hpe 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Buffer overflow vulnerabilities exist in the underlying operating system of HPE Networking ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76674",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76674:2026-09-15T19:49"
-  },
-  {
-   "ts": "2026-09-15T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76673 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-76673 📢 Source: hpe 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Vulnerabilities have been identified in the API of EdgeConnect SD-WAN Orchestrator that cou",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76673",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76673:2026-09-15T19:49"
-  },
-  {
-   "ts": "2026-09-15T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76672 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-76672 📢 Source: hpe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability exists in the SD-WAN Orchestrator that may lead to the exposure of sensitiv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76672",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76672:2026-09-15T19:49"
-  },
-  {
-   "ts": "2026-09-15T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76670 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-76670 📢 Source: hpe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Privilege escalation vulnerabilities exist in the API of HPE Networking EdgeConnect SD-WAN ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76670",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76670:2026-09-15T19:49"
-  },
-  {
-   "ts": "2026-09-15T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76669 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-76669 📢 Source: hpe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Privilege escalation vulnerabilities exist in the API of HPE Networking EdgeConnect SD-WAN ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76669",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76669:2026-09-15T19:49"
-  },
-  {
-   "ts": "2026-09-15T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73458 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-73458 📢 Source: Arista 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True On affected platforms running Arista EOS with authenticated Bidirectional Forwarding Det",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73458",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73458:2026-09-15T19:49"
-  },
-  {
-   "ts": "2026-09-15T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85234 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-85234 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in tftp-hpa. When the `in.tftpd` remap engine processes an inverse remap ru",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85234",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85234:2026-09-15T18:19"
-  },
-  {
-   "ts": "2026-09-15T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81899 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-81899 📢 Source: ConcreteCMS 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Concrete CMS 9.0.0 to 9.5.2 stored group folder names without sanitization and printed ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81899",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81899:2026-09-15T18:19"
-  },
-  {
-   "ts": "2026-09-15T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-40058 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-40058 📢 Source: CrowdStrike 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False CrowdStrike released a security update to address a vulnerability in the Falcon sensor",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40058",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40058:2026-09-15T18:19"
   }
  ]
 }
