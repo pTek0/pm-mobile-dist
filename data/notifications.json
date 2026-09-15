@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-15T22:19:07+00:00",
+ "generated_at": "2026-09-15T22:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-15T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-69486 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-69486 📢 Source: microsoft 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-15T22:39:14.875Z https://cvefeed.io/vuln/detail/CVE-2026-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69486",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69486:2026-09-15T22:49"
+  },
   {
    "ts": "2026-09-15T22:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81236",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81236:2026-09-15T17:49"
-  },
-  {
-   "ts": "2026-09-15T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18115 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-18115 📢 Source: ConcreteCMS 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Concrete CMS 9.2.0 to 9.5.2 did not enforce per-field edit_user_properties permissions ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18115",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18115:2026-09-15T17:49"
   }
  ]
 }
