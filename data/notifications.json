@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-15T16:19:09+00:00",
+ "generated_at": "2026-09-15T16:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-15T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-89026 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-89026 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The Issabel Framework, the web framework supporting Issabel PBX software, before comm",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89026",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89026:2026-09-15T16:49"
+  },
+  {
+   "ts": "2026-09-15T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81895 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-81895 📢 Source: ConcreteCMS 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True In Concrete CMS before 9.5.3, the Document Library block stored the file-set identifier",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81895",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81895:2026-09-15T16:49"
+  },
+  {
+   "ts": "2026-09-15T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81894 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-81894 📢 Source: ConcreteCMS 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Concrete CMS 9.5.2 and below is vulnerable to stored DOM-based Cross-site Scripting (XS",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81894",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81894:2026-09-15T16:49"
+  },
+  {
+   "ts": "2026-09-15T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18111 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-18111 📢 Source: ConcreteCMS 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Concrete CMS 9 before 9.5.3 was vulnerable to stored cross-site scripting (XSS) in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18111",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18111:2026-09-15T16:49"
+  },
+  {
+   "ts": "2026-09-15T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18110 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-18110 📢 Source: ConcreteCMS 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Concrete CMS 9 (9.0.0 through 9.5.2) does not perform an authorization check on the use",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18110",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18110:2026-09-15T16:49"
+  },
+  {
+   "ts": "2026-09-15T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-89022 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-89022 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True BookStack before 26.05.5 contains an authentication bypass vulnerability in its socia",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89022",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89022:2026-09-15T16:49"
+  },
+  {
+   "ts": "2026-09-15T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19780 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-19780 📢 Source: zdi 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Koha Eval Code Injection Remote Code Execution Vulnerability. This vulnerability allows remote",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19780",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19780:2026-09-15T16:49"
+  },
   {
    "ts": "2026-09-15T15:49:07+00:00",
    "level": "important",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85505",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85505:2026-09-04T04:49"
-  },
-  {
-   "ts": "2026-09-04T04:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85504 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-85504 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True FreeIPMI before 1.6.19 has a stack-based buffer overflow in _ipmi_sel_oem_fujitsu_get_sel",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85504",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85504:2026-09-04T04:49"
-  },
-  {
-   "ts": "2026-09-04T02:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85148 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-85148 📢 Source: twcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True SmartIT Desktop Manager developed by Lightstar has a Use of Hard-coded Credentials vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85148",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85148:2026-09-04T02:49"
-  },
-  {
-   "ts": "2026-09-04T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85147 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-85147 📢 Source: twcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SmartIT Desktop Manager developed by Lightstar has a Use of Hard-coded Credentials vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85147",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85147:2026-09-04T02:49"
-  },
-  {
-   "ts": "2026-09-04T02:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85146 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-85146 📢 Source: twcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True SmartIT Desktop Manager developed by Lightstar has a Use of Hard-coded Credentials vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85146",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85146:2026-09-04T02:49"
-  },
-  {
-   "ts": "2026-09-04T02:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75754 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-75754 📢 Source: ASUS 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Missing Authentication for Critical Function, Server-Side Request Forgery (SSRF), and Use o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75754",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75754:2026-09-04T02:49"
-  },
-  {
-   "ts": "2026-09-04T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Child sexual abuse survivor alleges Elon Musk’s AI chatbot u",
-   "body": "Lemmy · technology · 점수 77",
-   "link": "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit:2026-09-04T00:49"
-  },
-  {
-   "ts": "2026-09-04T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] CERN transitioning industrial computers to Debian after bein",
-   "body": "Lobsters · 점수 61",
-   "link": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
-   "source": "Lobsters",
-   "id": "community:https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL:2026-09-04T00:49"
   }
  ]
 }
