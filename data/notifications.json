@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-15T16:49:10+00:00",
+ "generated_at": "2026-09-15T17:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-15T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81897 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-81897 📢 Source: ConcreteCMS 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In Concrete CMS below CMS 9.5.3, the save_control action in the Express entities forms ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81897",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81897:2026-09-15T17:19"
+  },
+  {
+   "ts": "2026-09-15T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81896 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-81896 📢 Source: ConcreteCMS 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Concrete CMS before 9.5.3 does not apply HTML entity encoding to user-defined Form bloc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81896",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81896:2026-09-15T17:19"
+  },
+  {
+   "ts": "2026-09-15T17:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2024-58385 (CVSS 9.8)",
+   "body": "🚨 CVE-2024-58385 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Yonyou U8 CRM contains an unauthenticated SQL injection vulnerability in the fillback",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58385",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58385:2026-09-15T17:19"
+  },
+  {
+   "ts": "2026-09-15T17:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2023-54398 (CVSS 9.8)",
+   "body": "🚨 CVE-2023-54398 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Yonyou U8 Cloud contains an unauthenticated Java deserialization vulnerability in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2023-54398",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54398:2026-09-15T17:19"
+  },
   {
    "ts": "2026-09-15T16:49:07+00:00",
    "level": "important",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85509",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85509:2026-09-04T04:49"
-  },
-  {
-   "ts": "2026-09-04T04:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85508 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-85508 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ipmi-oem in FreeIPMI before 1.6.19 has a stack-based buffer overflow in _output_dell_syst",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85508",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85508:2026-09-04T04:49"
-  },
-  {
-   "ts": "2026-09-04T04:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85507 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-85507 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ipmi-oem in FreeIPMI before 1.6.19 has a stack-based buffer overflow in _output_dell_syst",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85507",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85507:2026-09-04T04:49"
-  },
-  {
-   "ts": "2026-09-04T04:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85506 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-85506 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ipmi-oem in FreeIPMI before 1.6.19 has a stack-based buffer overflow in _get_dell_system_",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85506",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85506:2026-09-04T04:49"
-  },
-  {
-   "ts": "2026-09-04T04:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85505 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-85505 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True ipmi-oem in FreeIPMI before 1.6.19 has a stack-based buffer over-read in ipmi_oem_fujitsu_get",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85505",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85505:2026-09-04T04:49"
   }
  ]
 }
