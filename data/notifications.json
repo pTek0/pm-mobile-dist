@@ -1,7 +1,157 @@
 {
- "generated_at": "2026-09-15T19:19:08+00:00",
+ "generated_at": "2026-09-15T19:49:15+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76683 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-76683 📢 Source: hpe 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Buffer overflow vulnerabilities exist in the API endpoint of HPE Networking EdgeConnect SD-WAN ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76683",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76683:2026-09-15T19:49"
+  },
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76682 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-76682 📢 Source: hpe 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A vulnerability in the network security monitoring component of intrusion detection systems cou",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76682",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76682:2026-09-15T19:49"
+  },
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76681 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-76681 📢 Source: hpe 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True A vulnerability in the API of EdgeConnect SD-WAN Orchestrator could allow an authenticated remo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76681",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76681:2026-09-15T19:49"
+  },
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76680 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-76680 📢 Source: hpe 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Vulnerabilities in the API of EdgeConnect SD-WAN Orchestrator could allow a remote attacker aut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76680",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76680:2026-09-15T19:49"
+  },
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76679 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-76679 📢 Source: hpe 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Vulnerabilities in HPE Networking EdgeConnect SD-WAN Gateways could allow an unauthenticated ad",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76679",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76679:2026-09-15T19:49"
+  },
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76678 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76678 📢 Source: hpe 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A vulnerability in the API endpoint of HPE Networking EdgeConnect SD-WAN Gateways could allow a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76678",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76678:2026-09-15T19:49"
+  },
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76677 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76677 📢 Source: hpe 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A privilege escalation vulnerability exists in the API of EdgeConnect SD-WAN Gateways. Successf",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76677",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76677:2026-09-15T19:49"
+  },
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76676 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76676 📢 Source: hpe 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Buffer overflow vulnerabilities exist in the underlying operating system of EdgeConnect SD-WAN",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76676",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76676:2026-09-15T19:49"
+  },
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76675 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-76675 📢 Source: hpe 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A command injection vulnerability exists in the command line interface of EdgeConnect SD-WA",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76675",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76675:2026-09-15T19:49"
+  },
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76674 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-76674 📢 Source: hpe 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Buffer overflow vulnerabilities exist in the underlying operating system of HPE Networking ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76674",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76674:2026-09-15T19:49"
+  },
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76673 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-76673 📢 Source: hpe 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Vulnerabilities have been identified in the API of EdgeConnect SD-WAN Orchestrator that cou",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76673",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76673:2026-09-15T19:49"
+  },
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76672 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-76672 📢 Source: hpe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability exists in the SD-WAN Orchestrator that may lead to the exposure of sensitiv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76672",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76672:2026-09-15T19:49"
+  },
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76670 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-76670 📢 Source: hpe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Privilege escalation vulnerabilities exist in the API of HPE Networking EdgeConnect SD-WAN ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76670",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76670:2026-09-15T19:49"
+  },
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76669 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-76669 📢 Source: hpe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Privilege escalation vulnerabilities exist in the API of HPE Networking EdgeConnect SD-WAN ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76669",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76669:2026-09-15T19:49"
+  },
+  {
+   "ts": "2026-09-15T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73458 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-73458 📢 Source: Arista 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True On affected platforms running Arista EOS with authenticated Bidirectional Forwarding Det",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73458",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73458:2026-09-15T19:49"
+  },
   {
    "ts": "2026-09-15T18:19:07+00:00",
    "level": "general",
@@ -351,156 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-63695",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63695:2026-09-15T15:19"
-  },
-  {
-   "ts": "2026-09-15T15:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: finance",
-   "body": "**★ 2026-09-15 NAS 이전 코드 이식(PW-11 선행, 브랜치 `claude/nas-port-paths-2026-09-15`, master 미병합, 882→893 pass)**: `core/paths.p",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: finance:2026-09-15T15:19"
-  },
-  {
-   "ts": "2026-09-15T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-39919 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-39919 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Ghostscript before 10.08.0 contains a heap-based buffer overflow vulnerability in the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-39919",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-39919:2026-09-15T14:49"
-  },
-  {
-   "ts": "2026-09-15T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-89025 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-89025 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Hirschmann HiOS Switch Platform devices contain a denial-of-service vulnerability in the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89025",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89025:2026-09-15T14:49"
-  },
-  {
-   "ts": "2026-09-15T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16141 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-16141 📢 Source: runZero 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True OpenBMC's IPMI implementation, phosphor-net-ipmid, contains a logic flaw in which an unauth",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16141",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16141:2026-09-15T14:19"
-  },
-  {
-   "ts": "2026-09-15T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16140 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-16140 📢 Source: runZero 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenBMC's IPMI implementation, phosphor-net-ipmid, is vulnerable to a logic flaw where the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16140",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16140:2026-09-15T14:19"
-  },
-  {
-   "ts": "2026-09-15T13:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-77179 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-77179 📢 Source: Docker 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False On macOS, the virtio-fs host server used by Docker Sandboxes improperly follows symlink",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77179",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77179:2026-09-15T13:49"
-  },
-  {
-   "ts": "2026-09-15T13:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: finance",
-   "body": "**★ 2026-09-15 PW-08 호스트 이전 설계(PC→NAS, 설계만·실행 0)**: 예약 태스크 29개 실측 분류(순수 파이썬 21·CLI 의존 5·node 0·대시보드 1), 장부 쓰기 12개 묶음 단일 ",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: finance:2026-09-15T13:49"
-  },
-  {
-   "ts": "2026-09-15T13:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: 공용모듈 17종 modules/",
-   "body": "**★ 2026-09-07 fx-kit 0.2.0 — 거버넌스 L-016·L-017 실결함 2건 해소(ptek-labs)**: ⓐ**L-016 면세 문턱 통화 환산 누락** — 문턱은 USD 고정 상수($150/$2",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: 공용모듈 17종 modules/:2026-09-15T13:49"
-  },
-  {
-   "ts": "2026-09-15T13:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: riding-app",
-   "body": "**★ 2026-09-09 — v0.7.0 main 머지 + 코스추천 프로토타입(키 불필요 슬라이스, ptek-labs)**: v0.7.0 GPX 워크트리(4a4b3fa) **main 머지 완료**. 6번째 탭 \"코",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: riding-app:2026-09-15T13:49"
-  },
-  {
-   "ts": "2026-09-15T13:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: osmo-backup",
-   "body": "**▶ 2026-09-06 갱신** — ①**동반 파일(썸네일류) 정리 단계 신설·실가동**: 사용자 지시로 백업 검증 완료 후 `.LRF`(저해상도 프록시)·`.THM`(썸네일)·`.SCR`(스크린네일)을 카드에서",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: osmo-backup:2026-09-15T13:49"
-  },
-  {
-   "ts": "2026-09-15T13:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: InsecureBankv2",
-   "body": "정적분석 보고서 완료 — **정체 지속(마지막 활동 07-20 → 2026-09-14 기준 56일 경과)**",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: InsecureBankv2:2026-09-15T13:49"
-  },
-  {
-   "ts": "2026-09-15T13:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pentest-toolkit",
-   "body": "쉐도우 모드(관찰만) — **정체 지속(마지막 세션 07-17 → 2026-09-14 기준 59일 경과, 지난 7일 커밋 0)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→⏸",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pentest-toolkit:2026-09-15T13:49"
-  },
-  {
-   "ts": "2026-09-05T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86196 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-86196 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Grav API plugin versions before 1.0.20 build password reset links from the untrusted Host",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86196",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86196:2026-09-05T14:49"
-  },
-  {
-   "ts": "2026-09-05T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86195 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-86195 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True grav-plugin-api versions before 1.0.20 contain a privilege escalation vulnerability in th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86195",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86195:2026-09-05T14:49"
-  },
-  {
-   "ts": "2026-09-05T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86193 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-86193 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True grav-plugin-api before 1.0.20 fails to validate group-inherited super permissions in user",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86193",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86193:2026-09-05T14:49"
   }
  ]
 }
