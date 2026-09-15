@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-15T13:49:09+00:00",
+ "generated_at": "2026-09-15T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-15T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16141 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-16141 📢 Source: runZero 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True OpenBMC's IPMI implementation, phosphor-net-ipmid, contains a logic flaw in which an unauth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16141",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16141:2026-09-15T14:19"
+  },
+  {
+   "ts": "2026-09-15T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16140 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-16140 📢 Source: runZero 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenBMC's IPMI implementation, phosphor-net-ipmid, is vulnerable to a logic flaw where the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16140",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16140:2026-09-15T14:19"
+  },
   {
    "ts": "2026-09-15T13:49:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-83711",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83711:2026-09-03T23:19"
-  },
-  {
-   "ts": "2026-09-03T23:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-80098 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-80098 📢 Source: microsoft 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-03T22:59:13.804Z https://cvefeed.io/vuln/detail/CVE-2",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80098",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80098:2026-09-03T23:19"
-  },
-  {
-   "ts": "2026-09-03T23:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-70352 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-70352 📢 Source: microsoft 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-03T22:59:12.503Z https://cvefeed.io/vuln/detail/CVE-20",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70352",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70352:2026-09-03T23:19"
   }
  ]
 }
