@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-15T20:49:09+00:00",
+ "generated_at": "2026-09-15T21:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-15T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92000 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-92000 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True adm-zip versions 0.5.14 through 0.6.0 fail to apply zlib decompression output limits when",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92000",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92000:2026-09-15T21:19"
+  },
+  {
+   "ts": "2026-09-15T21:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-91939 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-91939 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Cotonti 1.0.0 Comments plugin passes the ci GET parameter to unserialize() without al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91939",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91939:2026-09-15T21:19"
+  },
+  {
+   "ts": "2026-09-15T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19655 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-19655 📢 Source: Arista 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with Dynamic Host Configuration Protocol (DHCP) re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19655",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19655:2026-09-15T21:19"
+  },
   {
    "ts": "2026-09-15T20:49:07+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77866",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77866:2026-09-15T15:49"
-  },
-  {
-   "ts": "2026-09-15T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87792 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-87792 📢 Source: ENISA 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The \"Design Scuole Italia\" WordPress theme is affected by multiple Authorization Bypass vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87792",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87792:2026-09-15T15:49"
-  },
-  {
-   "ts": "2026-09-15T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19407 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-19407 📢 Source: GoogleCloud 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Bucket Squatting in Google Cloud Gemini Enterprise Agent Platform SDK for Python versio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19407",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19407:2026-09-15T15:49"
-  },
-  {
-   "ts": "2026-09-15T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91935 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-91935 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Flowise before 3.1.4 fails to validate baseURL parameters in chat-model nodes, allowing a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91935",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91935:2026-09-15T15:49"
   }
  ]
 }
