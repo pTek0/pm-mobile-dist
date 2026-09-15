@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-15T14:19:08+00:00",
+ "generated_at": "2026-09-15T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-15T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-39919 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-39919 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Ghostscript before 10.08.0 contains a heap-based buffer overflow vulnerability in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-39919",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-39919:2026-09-15T14:49"
+  },
+  {
+   "ts": "2026-09-15T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-89025 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-89025 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Hirschmann HiOS Switch Platform devices contain a denial-of-service vulnerability in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89025",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89025:2026-09-15T14:49"
+  },
   {
    "ts": "2026-09-15T14:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
    "source": "Lemmy · technology",
    "id": "community:https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat:2026-09-03T23:49"
-  },
-  {
-   "ts": "2026-09-03T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] VC isn't VC anymore",
-   "body": "Hacker News · 점수 196",
-   "link": "https://www.anildash.com/2026/09/02/cancer-capital/",
-   "source": "Hacker News",
-   "id": "community:https://www.anildash.com/2026/09/02/cancer-capital/:2026-09-03T23:49"
-  },
-  {
-   "ts": "2026-09-03T23:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-83711 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-83711 📢 Source: microsoft 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-03T22:59:15.478Z https://cvefeed.io/vuln/detail/CVE-20",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83711",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83711:2026-09-03T23:19"
   }
  ]
 }
