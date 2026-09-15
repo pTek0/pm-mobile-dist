@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-09-15T15:19:09+00:00",
+ "generated_at": "2026-09-15T15:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-15T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77972 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-77972 📢 Source: EEF 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Time-of-check Time-of-use (TOCTOU) Race Condition in Slab safeurl allows an attacker who cont",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77972",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77972:2026-09-15T15:49"
+  },
+  {
+   "ts": "2026-09-15T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77866 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-77866 📢 Source: EEF 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Server-Side Request Forgery (SSRF) vulnerability in Slab safeurl allows an attacker who contr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77866",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77866:2026-09-15T15:49"
+  },
+  {
+   "ts": "2026-09-15T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87792 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-87792 📢 Source: ENISA 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The \"Design Scuole Italia\" WordPress theme is affected by multiple Authorization Bypass vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87792",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87792:2026-09-15T15:49"
+  },
+  {
+   "ts": "2026-09-15T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19407 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-19407 📢 Source: GoogleCloud 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Bucket Squatting in Google Cloud Gemini Enterprise Agent Platform SDK for Python versio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19407",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19407:2026-09-15T15:49"
+  },
+  {
+   "ts": "2026-09-15T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91935 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-91935 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Flowise before 3.1.4 fails to validate baseURL parameters in chat-model nodes, allowing a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91935",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91935:2026-09-15T15:49"
+  },
+  {
+   "ts": "2026-09-15T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91934 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-91934 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Flowise versions before 3.1.4 fail to validate file paths in the SQL Database Chain node ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91934",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91934:2026-09-15T15:49"
+  },
+  {
+   "ts": "2026-09-15T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91933 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-91933 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Flowise before 3.1.4 fails to enforce workspace-level authorization checks in openai-real",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91933",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91933:2026-09-15T15:49"
+  },
+  {
+   "ts": "2026-09-15T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-91932 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-91932 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Flowise before 3.1.4 contains a validation bypass vulnerability in MCP server configura",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91932",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91932:2026-09-15T15:49"
+  },
   {
    "ts": "2026-09-15T15:19:07+00:00",
    "level": "important",
@@ -421,86 +501,6 @@
    "link": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
    "source": "Lobsters",
    "id": "community:https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL:2026-09-04T00:49"
-  },
-  {
-   "ts": "2026-09-04T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Audacity 4.0.0 Released",
-   "body": "Lobsters · 점수 52",
-   "link": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-   "source": "Lobsters",
-   "id": "community:https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0:2026-09-04T00:49"
-  },
-  {
-   "ts": "2026-09-04T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Study: Police Reports Miss 96% of Active Phone Use Before Cr",
-   "body": "Lemmy · technology · 점수 51",
-   "link": "https://fuelarc.com/tech/study-police-reports-miss-96-of-active-phone-use-before-crashes/",
-   "source": "Lemmy · technology",
-   "id": "community:https://fuelarc.com/tech/study-police-reports-miss-96-of-active-phone-use-before-crashes/:2026-09-04T00:49"
-  },
-  {
-   "ts": "2026-09-04T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Audacity 4.0 is finally out!",
-   "body": "Lemmy · technology · 점수 148",
-   "link": "https://www.audacityteam.org/audacity-4/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.audacityteam.org/audacity-4/:2026-09-04T00:19"
-  },
-  {
-   "ts": "2026-09-04T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] And thats why we call it Baud Rate",
-   "body": "Lemmy · programming.dev · 점수 105",
-   "link": "https://lemmy.world/pictrs/image/43799b4f-46d9-4de0-8cbd-0cfdf62dfc55.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/43799b4f-46d9-4de0-8cbd-0cfdf62dfc55.png:2026-09-04T00:19"
-  },
-  {
-   "ts": "2026-09-04T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Taxpayers Must Not Be on the Hook for Bailing Out the \"AI\" I",
-   "body": "Lemmy · technology · 점수 95",
-   "link": "https://truthout.org/articles/taxpayers-must-not-be-on-the-hook-for-bailing-out-the-ai-industry/",
-   "source": "Lemmy · technology",
-   "id": "community:https://truthout.org/articles/taxpayers-must-not-be-on-the-hook-for-bailing-out-the-ai-industry/:2026-09-04T00:19"
-  },
-  {
-   "ts": "2026-09-04T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Cops Are Asking Axon to Make Their Cameras Look Different Fr",
-   "body": "Lemmy · programming.dev · 점수 85",
-   "link": "https://www.404media.co/cops-are-asking-axon-to-make-their-cameras-look-different-from-flock-so-people-dont-destroy-them/",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.404media.co/cops-are-asking-axon-to-make-their-cameras-look-different-from-flock-so-people-dont-destroy-them/:2026-09-04T00:19"
-  },
-  {
-   "ts": "2026-09-04T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] US automakers urge Congress to quickly pass law banning Chin",
-   "body": "Lemmy · technology · 점수 79",
-   "link": "https://www.reuters.com/world/automakers-urge-congress-quickly-pass-law-banning-chinese-cars-2026-09-03/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.reuters.com/world/automakers-urge-congress-quickly-pass-law-banning-chinese-cars-2026-09-03/:2026-09-04T00:19"
-  },
-  {
-   "ts": "2026-09-03T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ask HN: Why were OpenAI, Claude, and Grok simultaneously dow",
-   "body": "Hacker News · 점수 309",
-   "link": "https://news.ycombinator.com/item?id=49551096",
-   "source": "Hacker News",
-   "id": "community:https://news.ycombinator.com/item?id=49551096:2026-09-03T23:49"
   }
  ]
 }
