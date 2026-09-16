@@ -1,7 +1,157 @@
 {
- "generated_at": "2026-09-16T11:19:07+00:00",
+ "generated_at": "2026-09-16T11:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92465 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-92465 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92465",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92465:2026-09-16T11:49"
+  },
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-58147 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-58147 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False WNC T-Mobile 5G Box IDU router contains an OS command injection vulnerability in the p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58147",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58147:2026-09-16T11:49"
+  },
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-58146 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-58146 📢 Source: CERT-PL 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False WNC T-Mobile 5G Box IDU router is vulnerable to OS command injection vulnerability. Th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58146",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58146:2026-09-16T11:49"
+  },
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-40857 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-40857 📢 Source: CERT-PL 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False WNC T-Mobile 5G Box IDU router contains a cross-site request forgery (CSRF) vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40857",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40857:2026-09-16T11:49"
+  },
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-40856 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-40856 📢 Source: CERT-PL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False WNC T-Mobile 5G Box IDU router is vulnerable to improper access control. The vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40856",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40856:2026-09-16T11:49"
+  },
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-40855 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-40855 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False WNC T-Mobile 5G Box IDU router is vulnerable to a command injection. The vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40855",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40855:2026-09-16T11:49"
+  },
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-40854 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-40854 📢 Source: CERT-PL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False WNC T-Mobile 5G Box IDU router contains an authentication bypass vulnerability in the port",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40854",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40854:2026-09-16T11:49"
+  },
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92463 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92463 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True yshop-crm through 2.1.3 contains an authorization failure in the GET /admin-api/system/us",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92463",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92463:2026-09-16T11:49"
+  },
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92462 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92462 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True yshop-crm through 2.1.3 fails to enforce authorization checks on the CrmFlowController de",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92462",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92462:2026-09-16T11:49"
+  },
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92460 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92460 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True yshop-crm through 2.1.3 fails to enforce authorization on the GET /admin-api/crm/operatel",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92460",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92460:2026-09-16T11:49"
+  },
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92459 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92459 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True yshop-crm through 2.1.3 contains a missing authorization vulnerability in the CrmCluesCon",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92459",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92459:2026-09-16T11:49"
+  },
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92457 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92457 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True yshop-crm through 2.1.3 contains a missing authorization vulnerability in the CrmInvoiceC",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92457",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92457:2026-09-16T11:49"
+  },
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92456 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92456 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True yshop-crm through 2.1.3 fails to enforce authorization on the saveRedisSet and getRedisSe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92456",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92456:2026-09-16T11:49"
+  },
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] GEFS on OpenBSD: A very early preview",
+   "body": "Lobsters · 점수 73",
+   "link": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+   "source": "Lobsters",
+   "id": "community:https://marc.info/?l=openbsd-tech&m=178948744271633&w=2:2026-09-16T11:49"
+  },
+  {
+   "ts": "2026-09-16T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Coreutils - rejected feature requests",
+   "body": "Lobsters · 점수 61",
+   "link": "https://www.gnu.org/software/coreutils/rejected_requests.html",
+   "source": "Lobsters",
+   "id": "community:https://www.gnu.org/software/coreutils/rejected_requests.html:2026-09-16T11:49"
+  },
   {
    "ts": "2026-09-16T11:19:06+00:00",
    "level": "general",
@@ -351,156 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-27551",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-27551:2026-09-16T08:19"
-  },
-  {
-   "ts": "2026-09-16T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-27550 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-27550 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A low-privileged remote attacker can exploit a command injection vulnerability in the Field",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-27550",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-27550:2026-09-16T08:19"
-  },
-  {
-   "ts": "2026-09-16T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-27549 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-27549 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A low-privileged remote attacker can exploit a command injection vulnerability in the /inde",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-27549",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-27549:2026-09-16T08:19"
-  },
-  {
-   "ts": "2026-09-16T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-27548 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-27548 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A low-privileged remote attacker can exploit a command injection vulnerability in the /inde",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-27548",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-27548:2026-09-16T08:19"
-  },
-  {
-   "ts": "2026-09-16T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-27547 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-27547 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A low-privileged remote attacker can exploit a command injection vulnerability in the /inde",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-27547",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-27547:2026-09-16T08:19"
-  },
-  {
-   "ts": "2026-09-16T08:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-27546 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-27546 📢 Source: CERTVDE 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated remote attacker can exploit an authentication bypass in the _account",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-27546",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-27546:2026-09-16T08:19"
-  },
-  {
-   "ts": "2026-09-16T07:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92355 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-92355 📢 Source: Octopus 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, a user with permission to modify non built-in exter",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92355",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92355:2026-09-16T07:49"
-  },
-  {
-   "ts": "2026-09-16T07:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88263 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-88263 📢 Source: jpcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False XikeStor Layer3 switches miss authentication for downloading configuration data. Unauthenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88263",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88263:2026-09-16T07:49"
-  },
-  {
-   "ts": "2026-09-16T07:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84408 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-84408 📢 Source: jpcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False QND contains an improper access control vulnerability in a named pipe, which may allow a lo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84408",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84408:2026-09-16T07:49"
-  },
-  {
-   "ts": "2026-09-16T07:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19248 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-19248 📢 Source: Qt 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True QDomDocument XML parsing is vulnerable to a remotely-triggerable denial-of-service crash when pr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19248",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19248:2026-09-16T07:19"
-  },
-  {
-   "ts": "2026-09-16T06:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79708 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-79708 📢 Source: GitLab 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab EE affecting all versions from 19.0 before 19.1.8, ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79708",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79708:2026-09-16T06:49"
-  },
-  {
-   "ts": "2026-09-16T06:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78252 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-78252 📢 Source: GitLab 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 15.3 before 19.1.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78252",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78252:2026-09-16T06:49"
-  },
-  {
-   "ts": "2026-09-16T06:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73447 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-73447 📢 Source: Arista 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True A privileged attacker can exploit certain operation to execute arbitrary commands with r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73447",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73447:2026-09-16T06:49"
-  },
-  {
-   "ts": "2026-09-16T06:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-1168 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-1168 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.4.6 before 19.1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-1168",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-1168:2026-09-16T06:49"
-  },
-  {
-   "ts": "2026-09-16T06:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-14871 (CVSS 7.5)",
-   "body": "🚨 CVE-2025-14871 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.4.6 before 19.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-14871",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-14871:2026-09-16T06:49"
-  },
-  {
-   "ts": "2026-09-16T03:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86109 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-86109 📢 Source: Arista 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The VeloCloud Edge software update workflow may accept update bundles without properly valid",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86109",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86109:2026-09-16T03:19"
   }
  ]
 }
