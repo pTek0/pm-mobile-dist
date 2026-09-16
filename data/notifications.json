@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-16T02:49:09+00:00",
+ "generated_at": "2026-09-16T03:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T03:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86109 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-86109 📢 Source: Arista 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The VeloCloud Edge software update workflow may accept update bundles without properly valid",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86109",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86109:2026-09-16T03:19"
+  },
+  {
+   "ts": "2026-09-16T03:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86108 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-86108 📢 Source: Arista 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True Insufficient validation of inputs supplied through affected VeloCloud Edge management and conf",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86108",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86108:2026-09-16T03:19"
+  },
+  {
+   "ts": "2026-09-16T03:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73450 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-73450 📢 Source: Arista 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with MLAG Dual Primary Detection configured, an unau",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73450",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73450:2026-09-16T03:19"
+  },
   {
    "ts": "2026-09-16T02:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78225",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78225:2026-09-15T21:49"
-  },
-  {
-   "ts": "2026-09-15T21:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73437 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-73437 📢 Source: Arista 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with Dynamic Host Configuration Protocol (DHCP",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73437",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73437:2026-09-15T21:49"
-  },
-  {
-   "ts": "2026-09-15T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-10144 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-10144 📢 Source: VulnCheck 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Rsbuild before 2.0.9 contains a command injection vulnerability that allows attackers to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10144",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10144:2026-09-15T21:49"
-  },
-  {
-   "ts": "2026-09-15T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92000 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-92000 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True adm-zip versions 0.5.14 through 0.6.0 fail to apply zlib decompression output limits when",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92000",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92000:2026-09-15T21:19"
   }
  ]
 }
