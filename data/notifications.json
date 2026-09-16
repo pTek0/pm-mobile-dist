@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-16T13:19:08+00:00",
+ "generated_at": "2026-09-16T13:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92469 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-92469 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True zlt2000 microservices-platform through 6.0.0 contains an authorization bypass vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92469",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92469:2026-09-16T13:49"
+  },
+  {
+   "ts": "2026-09-16T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92468 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92468 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True zlt2000 microservices-platform through 6.0.0 contains an authorization bypass vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92468",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92468:2026-09-16T13:49"
+  },
+  {
+   "ts": "2026-09-16T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92467 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-92467 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True zlt2000 microservices-platform through 6.0.0 contains an unverified password change vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92467",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92467:2026-09-16T13:49"
+  },
+  {
+   "ts": "2026-09-16T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92466 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-92466 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True zlt2000 microservices-platform through 6.0.0 contains a missing authorization vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92466",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92466:2026-09-16T13:49"
+  },
+  {
+   "ts": "2026-09-16T13:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-91843 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-91843 📢 Source: checkpoint 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A stack overflow during the unauthenticated login process may allow an attacker to r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91843",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91843:2026-09-16T13:49"
+  },
+  {
+   "ts": "2026-09-16T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-89028 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-89028 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True MikroTik RouterOS before 7.24 contains a heap memory corruption vulnerability in the user",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89028",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89028:2026-09-16T13:49"
+  },
+  {
+   "ts": "2026-09-16T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73177 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-73177 📢 Source: Nozomi 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Nozomi Networks Labs identified a CWE-345: Insufficient Verification of Data Authenticity vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73177",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73177:2026-09-16T13:49"
+  },
   {
    "ts": "2026-09-16T13:19:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73435",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73435:2026-09-16T09:49"
-  },
-  {
-   "ts": "2026-09-16T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82717 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-82717 📢 Source: NLnet Labs 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False In NLnet Labs Unbound up to and including 1.26.0, a vulnerability was found in that can",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82717",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82717:2026-09-16T08:49"
-  },
-  {
-   "ts": "2026-09-16T08:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-81642 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-81642 📢 Source: NLnet Labs 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False In NLnet Labs Unbound up to and including 1.26.0, a vulnerability was found in the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81642",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81642:2026-09-16T08:49"
-  },
-  {
-   "ts": "2026-09-16T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81634 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-81634 📢 Source: NLnet Labs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False In NLnet Labs Unbound up to and including 1.26.0, a 255 length query name with a large ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81634",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81634:2026-09-16T08:49"
-  },
-  {
-   "ts": "2026-09-16T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73464 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-73464 📢 Source: Arista 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True On affected platforms running Arista EOS with gRPC Network Management Interface (gNMI) enabl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73464",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73464:2026-09-16T08:49"
-  },
-  {
-   "ts": "2026-09-16T08:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73461 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-73461 📢 Source: Arista 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True On affected EOS platforms with AAA-based gRPC authorization enabled for OpenConfig, gRPC",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73461",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73461:2026-09-16T08:49"
-  },
-  {
-   "ts": "2026-09-16T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73454 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-73454 📢 Source: Arista 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True On affected platforms running Arista EOS with gRPC Network Security Interface (gNSI) Credent",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73454",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73454:2026-09-16T08:49"
-  },
-  {
-   "ts": "2026-09-16T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73439 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-73439 📢 Source: Arista 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True On affected platforms running Arista EOS, if OpenConfig is configured and running a gNMI ser",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73439",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73439:2026-09-16T08:49"
   }
  ]
 }
