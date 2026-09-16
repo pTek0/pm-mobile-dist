@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-16T01:49:08+00:00",
+ "generated_at": "2026-09-16T02:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92299 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-92299 📢 Source: VulnCheck 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True @jitsi /electron-sdk before 10.0.5 exposes getDesktopSources() via contextBridge without ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92299",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92299:2026-09-16T02:19"
+  },
   {
    "ts": "2026-09-16T01:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92000",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92000:2026-09-15T21:19"
-  },
-  {
-   "ts": "2026-09-15T21:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-91939 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-91939 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Cotonti 1.0.0 Comments plugin passes the ci GET parameter to unserialize() without al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91939",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91939:2026-09-15T21:19"
   }
  ]
 }
