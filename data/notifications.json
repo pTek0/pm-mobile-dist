@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-16T14:19:07+00:00",
+ "generated_at": "2026-09-16T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92616 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-92616 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True FileRise before version 3.28.0 contains a privilege escalation vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92616",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92616:2026-09-16T14:49"
+  },
+  {
+   "ts": "2026-09-16T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92570 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92570 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True reNgine through 2.2.0 contains an authorization bypass vulnerability in the GetFileConten",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92570",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92570:2026-09-16T14:49"
+  },
+  {
+   "ts": "2026-09-16T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92567 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92567 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True TDuck survey form through version 5.0 contains an authorization bypass vulnerability in t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92567",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92567:2026-09-16T14:49"
+  },
+  {
+   "ts": "2026-09-16T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92566 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-92566 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True DataGear through 6.0.0 contains a server-side request forgery vulnerability in the /dataS",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92566",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92566:2026-09-16T14:49"
+  },
+  {
+   "ts": "2026-09-16T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92395 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-92395 📢 Source: openjs 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False @fastify /proxy-addr is a Fastify plugin that determines a request's client address beh",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92395",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92395:2026-09-16T14:49"
+  },
   {
    "ts": "2026-09-16T13:49:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73468",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73468:2026-09-16T10:19"
-  },
-  {
-   "ts": "2026-09-16T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73455 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-73455 📢 Source: Arista 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with Open Shortest Path First version 3 (OSPFv3) c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73455",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73455:2026-09-16T10:19"
-  },
-  {
-   "ts": "2026-09-16T10:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73453 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-73453 📢 Source: Arista 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False An unauthenticated P4Runtime (Programming Protocol-Independent Packet Processors Runtime",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73453",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73453:2026-09-16T10:19"
-  },
-  {
-   "ts": "2026-09-16T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85628 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-85628 📢 Source: FERMAX 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Transmission of the home Wi-Fi credentials without encryption during the pairing process betw",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85628",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85628:2026-09-16T10:19"
-  },
-  {
-   "ts": "2026-09-16T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73438 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-73438 📢 Source: Arista 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with Open Shortest Path First version 3 (OSPFv3) con",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73438",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73438:2026-09-16T10:19"
-  },
-  {
-   "ts": "2026-09-16T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73435 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-73435 📢 Source: Arista 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with Open Shortest Path First version 2 (OSPFv2) c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73435",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73435:2026-09-16T09:49"
   }
  ]
 }
