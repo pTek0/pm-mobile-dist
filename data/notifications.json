@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-09-16T17:19:07+00:00",
+ "generated_at": "2026-09-16T17:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47094 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-47094 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SIMAC MyPHR 1.1 contains an insecure direct object reference (IDOR) vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47094",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47094:2026-09-16T17:49"
+  },
+  {
+   "ts": "2026-09-16T17:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92720 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-92720 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Kubero through 3.1.1 fails to apply authentication guards to the notifications API en",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92720",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92720:2026-09-16T17:49"
+  },
+  {
+   "ts": "2026-09-16T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92719 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-92719 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Quickwit through 0.9.0 fails to validate the host and scheme of the queue_url parameter i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92719",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92719:2026-09-16T17:49"
+  },
+  {
+   "ts": "2026-09-16T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92718 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-92718 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Nuclei versions before 3.11.1 cache template signature verification based only on file m",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92718",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92718:2026-09-16T17:49"
+  },
+  {
+   "ts": "2026-09-16T17:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92717 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-92717 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Covenant through 0.6 registers the CovenantHub SignalR hub without an Authorize attri",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92717",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92717:2026-09-16T17:49"
+  },
+  {
+   "ts": "2026-09-16T17:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92716 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-92716 📢 Source: VulnCheck 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Shuffle through 2.2.1 contains a cross-tenant privilege escalation vulnerability in t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92716",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92716:2026-09-16T17:49"
+  },
+  {
+   "ts": "2026-09-16T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92605 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92605 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True IRIS through 2.4.29 fails to properly validate case authorization in comment listing endp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92605",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92605:2026-09-16T17:49"
+  },
+  {
+   "ts": "2026-09-16T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92604 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-92604 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Scirius through 3.8.0 contains an arbitrary file write vulnerability in the PCAP filestor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92604",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92604:2026-09-16T17:49"
+  },
   {
    "ts": "2026-09-16T17:19:06+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73163",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73163:2026-09-16T12:49"
-  },
-  {
-   "ts": "2026-09-16T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19535 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-19535 📢 Source: Nozomi 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Nozomi Networks Labs identified a CWE-352: Cross-Site Request Forgery (CSRF) vulnerability i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19535",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19535:2026-09-16T12:49"
-  },
-  {
-   "ts": "2026-09-16T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88817 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-88817 📢 Source: airbus 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An authenticated, non-guest user of Curiosity Workspace could enroll themselves as an admini",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88817",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88817:2026-09-16T12:49"
-  },
-  {
-   "ts": "2026-09-16T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92465 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-92465 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92465",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92465:2026-09-16T11:49"
-  },
-  {
-   "ts": "2026-09-16T11:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-58147 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-58147 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False WNC T-Mobile 5G Box IDU router contains an OS command injection vulnerability in the p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58147",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58147:2026-09-16T11:49"
-  },
-  {
-   "ts": "2026-09-16T11:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-58146 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-58146 📢 Source: CERT-PL 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False WNC T-Mobile 5G Box IDU router is vulnerable to OS command injection vulnerability. Th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58146",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58146:2026-09-16T11:49"
-  },
-  {
-   "ts": "2026-09-16T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-40857 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-40857 📢 Source: CERT-PL 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False WNC T-Mobile 5G Box IDU router contains a cross-site request forgery (CSRF) vulnerability ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40857",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40857:2026-09-16T11:49"
-  },
-  {
-   "ts": "2026-09-16T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-40856 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-40856 📢 Source: CERT-PL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False WNC T-Mobile 5G Box IDU router is vulnerable to improper access control. The vulnerability",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40856",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40856:2026-09-16T11:49"
-  },
-  {
-   "ts": "2026-09-16T11:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-40855 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-40855 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False WNC T-Mobile 5G Box IDU router is vulnerable to a command injection. The vulnerability",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40855",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40855:2026-09-16T11:49"
   }
  ]
 }
