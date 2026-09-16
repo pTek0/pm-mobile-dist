@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-16T08:19:09+00:00",
+ "generated_at": "2026-09-16T08:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T08:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82717 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-82717 📢 Source: NLnet Labs 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False In NLnet Labs Unbound up to and including 1.26.0, a vulnerability was found in that can",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82717",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82717:2026-09-16T08:49"
+  },
+  {
+   "ts": "2026-09-16T08:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-81642 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-81642 📢 Source: NLnet Labs 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False In NLnet Labs Unbound up to and including 1.26.0, a vulnerability was found in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81642",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81642:2026-09-16T08:49"
+  },
+  {
+   "ts": "2026-09-16T08:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81634 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-81634 📢 Source: NLnet Labs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False In NLnet Labs Unbound up to and including 1.26.0, a 255 length query name with a large ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81634",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81634:2026-09-16T08:49"
+  },
+  {
+   "ts": "2026-09-16T08:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73464 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-73464 📢 Source: Arista 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True On affected platforms running Arista EOS with gRPC Network Management Interface (gNMI) enabl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73464",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73464:2026-09-16T08:49"
+  },
+  {
+   "ts": "2026-09-16T08:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73461 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-73461 📢 Source: Arista 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True On affected EOS platforms with AAA-based gRPC authorization enabled for OpenConfig, gRPC",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73461",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73461:2026-09-16T08:49"
+  },
+  {
+   "ts": "2026-09-16T08:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73454 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-73454 📢 Source: Arista 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True On affected platforms running Arista EOS with gRPC Network Security Interface (gNSI) Credent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73454",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73454:2026-09-16T08:49"
+  },
+  {
+   "ts": "2026-09-16T08:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73439 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-73439 📢 Source: Arista 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True On affected platforms running Arista EOS, if OpenConfig is configured and running a gNMI ser",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73439",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73439:2026-09-16T08:49"
+  },
   {
    "ts": "2026-09-16T08:19:06+00:00",
    "level": "important",
@@ -431,76 +501,6 @@
    "link": "https://www.heise.de/en/news/GDPR-trap-Smart-Glasses-Why-Ray-Ban-Meta-wearers-can-be-held-liable-11451626.html",
    "source": "Lemmy · technology",
    "id": "community:https://www.heise.de/en/news/GDPR-trap-Smart-Glasses-Why-Ray-Ban-Meta-wearers-can-be-held-liable-11451626.html:2026-09-16T00:19"
-  },
-  {
-   "ts": "2026-09-16T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Trump Claims the Only \"AI Guardrail\" Needed Is Himself",
-   "body": "Lemmy · technology · 점수 105",
-   "link": "https://truthout.org/articles/trump-claims-the-only-ai-guardrail-needed-is-himself/",
-   "source": "Lemmy · technology",
-   "id": "community:https://truthout.org/articles/trump-claims-the-only-ai-guardrail-needed-is-himself/:2026-09-16T00:19"
-  },
-  {
-   "ts": "2026-09-16T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] C shark shark",
-   "body": "Lemmy · programming.dev · 점수 104",
-   "link": "https://lemmy.zip/pictrs/image/6c302421-43f7-4edf-af96-9cece6d32b27.avif",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.zip/pictrs/image/6c302421-43f7-4edf-af96-9cece6d32b27.avif:2026-09-16T00:19"
-  },
-  {
-   "ts": "2026-09-15T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73460 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-73460 📢 Source: Arista 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with IS-IS graceful restart enabled, an unauthentica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73460",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73460:2026-09-15T23:49"
-  },
-  {
-   "ts": "2026-09-15T23:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-15640 (CVSS 9.5)",
-   "body": "🚨 CVE-2026-15640 📢 Source: Delinea 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True Under certain conditions a valid SAML IdP response may be used to impersonate another S",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15640",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15640:2026-09-15T23:49"
-  },
-  {
-   "ts": "2026-09-15T23:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-15639 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-15639 📢 Source: Delinea 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An attacker can craft a malicious link that, if used by a legitimate user, may cause th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15639",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15639:2026-09-15T23:49"
-  },
-  {
-   "ts": "2026-09-15T23:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-15638 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-15638 📢 Source: Delinea 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated user with access to Secret Server could leverage a padding oracle to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15638",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15638:2026-09-15T23:49"
-  },
-  {
-   "ts": "2026-09-15T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73459 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-73459 📢 Source: Arista 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with IS-IS configured, an unauthenticated attacker",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73459",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73459:2026-09-15T23:49"
   }
  ]
 }
