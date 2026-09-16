@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-16T21:19:07+00:00",
+ "generated_at": "2026-09-16T21:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-89034 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-89034 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False TCH QRing smart ring model R20_B006 running firmware RT09R20_1.00.00_250318 contains an ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89034",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89034:2026-09-16T21:49"
+  },
+  {
+   "ts": "2026-09-16T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85469 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-85469 📢 Source: redhat 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in quay-builder-qemu. A remote attacker could exploit this by compromising th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85469",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85469:2026-09-16T21:49"
+  },
   {
    "ts": "2026-09-16T20:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92570",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92570:2026-09-16T14:49"
-  },
-  {
-   "ts": "2026-09-16T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92567 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-92567 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True TDuck survey form through version 5.0 contains an authorization bypass vulnerability in t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92567",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92567:2026-09-16T14:49"
-  },
-  {
-   "ts": "2026-09-16T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92566 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-92566 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True DataGear through 6.0.0 contains a server-side request forgery vulnerability in the /dataS",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92566",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92566:2026-09-16T14:49"
   }
  ]
 }
