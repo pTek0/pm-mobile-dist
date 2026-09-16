@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-16T15:49:08+00:00",
+ "generated_at": "2026-09-16T16:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17526 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-17526 📢 Source: redhat 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Keycloak is an open-source identity and access management solution. A vulnerability was disc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17526",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17526:2026-09-16T16:19"
+  },
   {
    "ts": "2026-09-16T15:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
    "source": "Lobsters",
    "id": "community:https://marc.info/?l=openbsd-tech&m=178948744271633&w=2:2026-09-16T11:49"
-  },
-  {
-   "ts": "2026-09-16T11:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Coreutils - rejected feature requests",
-   "body": "Lobsters · 점수 61",
-   "link": "https://www.gnu.org/software/coreutils/rejected_requests.html",
-   "source": "Lobsters",
-   "id": "community:https://www.gnu.org/software/coreutils/rejected_requests.html:2026-09-16T11:49"
   }
  ]
 }
