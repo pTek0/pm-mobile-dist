@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-16T00:19:07+00:00",
+ "generated_at": "2026-09-16T00:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T00:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Windows 95 was not as user friendly as I remember it",
+   "body": "Lemmy · programming.dev · 점수 99",
+   "link": "https://lemmy.world/pictrs/image/d048bafb-2997-4ba5-be15-d75c5fdf021a.jpeg",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.world/pictrs/image/d048bafb-2997-4ba5-be15-d75c5fdf021a.jpeg:2026-09-16T00:49"
+  },
+  {
+   "ts": "2026-09-16T00:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] TIL that the Massachusetts Institute of Technology (MIT) jus",
+   "body": "Lemmy · technology · 점수 98",
+   "link": "https://t.co/WSEpEyNUSL",
+   "source": "Lemmy · technology",
+   "id": "community:https://t.co/WSEpEyNUSL:2026-09-16T00:49"
+  },
+  {
+   "ts": "2026-09-16T00:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] What blog posts influenced your thinking the most?",
+   "body": "Lobsters · 점수 94",
+   "link": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+   "source": "Lobsters",
+   "id": "community:https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking:2026-09-16T00:49"
+  },
+  {
+   "ts": "2026-09-16T00:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI bots “Timmy,” “Ren,” and “Jackie” are flooding social med",
+   "body": "Lemmy · technology · 점수 72",
+   "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/:2026-09-16T00:49"
+  },
+  {
+   "ts": "2026-09-16T00:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] \"Do You Still Read the Code?\"",
+   "body": "Lobsters · 점수 69",
+   "link": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+   "source": "Lobsters",
+   "id": "community:https://zanlib.dev/blog/do-you-still-read-the-code/:2026-09-16T00:49"
+  },
+  {
+   "ts": "2026-09-16T00:49:08+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: finance",
+   "body": "**★★ 2026-09-16 PW-11 cutover 완료 — 페이퍼 자동매매 실행 호스트 PC→NAS(192.168.0.200, finance 계정)**: PC finance 예약 태스크 24개 Disabled(보",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: finance:2026-09-16T00:49"
+  },
   {
    "ts": "2026-09-16T00:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66887",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66887:2026-09-15T20:49"
-  },
-  {
-   "ts": "2026-09-15T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66372 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-66372 📢 Source: icscert 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: False The affected products use insufficiently random values, which allows web session tokens to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66372",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66372:2026-09-15T20:49"
-  },
-  {
-   "ts": "2026-09-15T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79994 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-79994 📢 Source: Docker 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False The guest-to-host Unix-domain socket relay in Docker Sandboxes validates that a socket path",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79994",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79994:2026-09-15T20:49"
-  },
-  {
-   "ts": "2026-09-15T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-68950 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-68950 📢 Source: icscert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The affected products use hard-coded credentials, which could allow an attacker to run the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68950",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68950:2026-09-15T20:49"
-  },
-  {
-   "ts": "2026-09-15T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-68070 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-68070 📢 Source: icscert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The affected products are missing authentication for a critical function, which could allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68070",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68070:2026-09-15T20:49"
-  },
-  {
-   "ts": "2026-09-15T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76683 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-76683 📢 Source: hpe 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Buffer overflow vulnerabilities exist in the API endpoint of HPE Networking EdgeConnect SD-WAN ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76683",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76683:2026-09-15T19:49"
-  },
-  {
-   "ts": "2026-09-15T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76682 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-76682 📢 Source: hpe 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A vulnerability in the network security monitoring component of intrusion detection systems cou",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76682",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76682:2026-09-15T19:49"
   }
  ]
 }
