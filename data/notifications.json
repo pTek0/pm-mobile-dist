@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-16T10:49:07+00:00",
+ "generated_at": "2026-09-16T11:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86107 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-86107 📢 Source: Arista 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False The VeloCloud Edge and Gateway exhibit an out-of-bounds write vulnerability when processing",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86107",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86107:2026-09-16T11:19"
+  },
+  {
+   "ts": "2026-09-16T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "body": "Hacker News · 점수 426",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+   "source": "Hacker News",
+   "id": "community:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/:2026-09-16T11:19"
+  },
+  {
+   "ts": "2026-09-16T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+   "body": "Hacker News · 점수 337",
+   "link": "https://codyho.dev/blog/gpu-driver/",
+   "source": "Hacker News",
+   "id": "community:https://codyho.dev/blog/gpu-driver/:2026-09-16T11:19"
+  },
+  {
+   "ts": "2026-09-16T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Show HN: Capsule – Single-file web apps that save their data",
+   "body": "Hacker News · 점수 333",
+   "link": "https://withcapsule.app/",
+   "source": "Hacker News",
+   "id": "community:https://withcapsule.app/:2026-09-16T11:19"
+  },
+  {
+   "ts": "2026-09-16T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] We got admin access to Baseten's production GitHub",
+   "body": "Hacker News · 점수 285",
+   "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+   "source": "Hacker News",
+   "id": "community:https://www.strix.ai/blog/baseten-harbor-github-pat-takeover:2026-09-16T11:19"
+  },
+  {
+   "ts": "2026-09-16T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Apple Reference Image: A New Approach for Verified Photograp",
+   "body": "Hacker News · 점수 275",
+   "link": "https://security.apple.com/blog/apple-reference-image/",
+   "source": "Hacker News",
+   "id": "community:https://security.apple.com/blog/apple-reference-image/:2026-09-16T11:19"
+  },
   {
    "ts": "2026-09-16T10:19:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86109",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86109:2026-09-16T03:19"
-  },
-  {
-   "ts": "2026-09-16T03:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86108 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-86108 📢 Source: Arista 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True Insufficient validation of inputs supplied through affected VeloCloud Edge management and conf",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86108",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86108:2026-09-16T03:19"
-  },
-  {
-   "ts": "2026-09-16T03:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73450 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-73450 📢 Source: Arista 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with MLAG Dual Primary Detection configured, an unau",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73450",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73450:2026-09-16T03:19"
-  },
-  {
-   "ts": "2026-09-16T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92299 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-92299 📢 Source: VulnCheck 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True @jitsi /electron-sdk before 10.0.5 exposes getDesktopSources() via contextBridge without ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92299",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92299:2026-09-16T02:19"
-  },
-  {
-   "ts": "2026-09-16T01:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] US data centers could consume more natural gas than Germany ",
-   "body": "Lemmy · technology · 점수 65",
-   "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-   "source": "Lemmy · technology",
-   "id": "community:https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/:2026-09-16T01:19"
-  },
-  {
-   "ts": "2026-09-16T01:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] US military confirms it has deployed weapons in space",
-   "body": "Lemmy · technology · 점수 57",
-   "link": "https://www.airandspaceforces.com/meink-space-force-on-orbit-space-control-weapons/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.airandspaceforces.com/meink-space-force-on-orbit-space-control-weapons/:2026-09-16T01:19"
-  },
-  {
-   "ts": "2026-09-16T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Windows 95 was not as user friendly as I remember it",
-   "body": "Lemmy · programming.dev · 점수 99",
-   "link": "https://lemmy.world/pictrs/image/d048bafb-2997-4ba5-be15-d75c5fdf021a.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/d048bafb-2997-4ba5-be15-d75c5fdf021a.jpeg:2026-09-16T00:49"
   }
  ]
 }
