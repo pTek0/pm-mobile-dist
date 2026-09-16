@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-16T15:19:07+00:00",
+ "generated_at": "2026-09-16T15:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92626 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-92626 📢 Source: tenable 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Control iD iDSecure versions prior to 4.8.3.0 are affected by an unauthenticated Denial of ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92626",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92626:2026-09-16T15:49"
+  },
+  {
+   "ts": "2026-09-16T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92625 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-92625 📢 Source: tenable 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Control iD iDSecure versions prior to 4.8.3.0 are affected by an unauthenticated Denial of ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92625",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92625:2026-09-16T15:49"
+  },
+  {
+   "ts": "2026-09-16T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-70416 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-70416 📢 Source: dell 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Dell ObjectScale, versions prior to 4.4.0.0 , contains a Deserialization of Untrusted Data ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70416",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70416:2026-09-16T15:49"
+  },
+  {
+   "ts": "2026-09-16T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-43936 (CVSS 8.1)",
+   "body": "🚨 CVE-2025-43936 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell ObjectScale, versions prior to ObjectScale 4.4.0.0 , contains an Improper Authentication ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-43936",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-43936:2026-09-16T15:49"
+  },
   {
    "ts": "2026-09-16T15:19:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://www.gnu.org/software/coreutils/rejected_requests.html",
    "source": "Lobsters",
    "id": "community:https://www.gnu.org/software/coreutils/rejected_requests.html:2026-09-16T11:49"
-  },
-  {
-   "ts": "2026-09-16T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86107 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-86107 📢 Source: Arista 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False The VeloCloud Edge and Gateway exhibit an out-of-bounds write vulnerability when processing",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86107",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86107:2026-09-16T11:19"
-  },
-  {
-   "ts": "2026-09-16T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Gemini 3.8 Live and 3.8 Live Extended Thinking",
-   "body": "Hacker News · 점수 426",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-   "source": "Hacker News",
-   "id": "community:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/:2026-09-16T11:19"
-  },
-  {
-   "ts": "2026-09-16T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-   "body": "Hacker News · 점수 337",
-   "link": "https://codyho.dev/blog/gpu-driver/",
-   "source": "Hacker News",
-   "id": "community:https://codyho.dev/blog/gpu-driver/:2026-09-16T11:19"
-  },
-  {
-   "ts": "2026-09-16T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: Capsule – Single-file web apps that save their data",
-   "body": "Hacker News · 점수 333",
-   "link": "https://withcapsule.app/",
-   "source": "Hacker News",
-   "id": "community:https://withcapsule.app/:2026-09-16T11:19"
   }
  ]
 }
