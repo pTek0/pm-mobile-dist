@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-16T18:19:07+00:00",
+ "generated_at": "2026-09-16T18:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T18:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92729 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-92729 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SigNoz versions 0.88.0 through 0.141.0 fail to apply authorization wrappers to trace-funn",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92729",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92729:2026-09-16T18:49"
+  },
   {
    "ts": "2026-09-16T17:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73164",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73164:2026-09-16T12:49"
-  },
-  {
-   "ts": "2026-09-16T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73163 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-73163 📢 Source: Nozomi 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Nozomi Networks Labs identified a CWE-78: Improper Neutralization of Special Elements used i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73163",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73163:2026-09-16T12:49"
   }
  ]
 }
