@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-09-16T20:19:08+00:00",
+ "generated_at": "2026-09-16T20:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92765 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92765 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ArcherySec through 2.0.6 fails to validate organization ownership in the WebScanVulnList ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92765",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92765:2026-09-16T20:49"
+  },
+  {
+   "ts": "2026-09-16T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92763 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-92763 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Rundeck through 6.2.1 fails to properly authorize the importConfig and importNodesSources",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92763",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92763:2026-09-16T20:49"
+  },
+  {
+   "ts": "2026-09-16T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92762 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-92762 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Pelican Panel versions before 1.0.0-beta35 enforce startup write permissions only through",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92762",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92762:2026-09-16T20:49"
+  },
+  {
+   "ts": "2026-09-16T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92761 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-92761 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True WebVirtCloud fails to properly validate permission flags in UserInstance grants, allowing",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92761",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92761:2026-09-16T20:49"
+  },
+  {
+   "ts": "2026-09-16T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92760 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92760 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Shlink through 5.1.6 fails to enforce API key role restrictions when issuing Mercure subs",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92760",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92760:2026-09-16T20:49"
+  },
+  {
+   "ts": "2026-09-16T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92759 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92759 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True SecObserve versions before 1.59.1 contain an information disclosure vulnerability in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92759",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92759:2026-09-16T20:49"
+  },
+  {
+   "ts": "2026-09-16T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92753 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92753 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True PatrowlManager through 1.8.4 contains an authorization bypass vulnerability in the events",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92753",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92753:2026-09-16T20:49"
+  },
+  {
+   "ts": "2026-09-16T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92752 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-92752 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True metasfresh DocumentAttachmentsRestController and CommentsRestController endpoints check o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92752",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92752:2026-09-16T20:49"
+  },
+  {
+   "ts": "2026-09-16T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92751 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-92751 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True CMAK through 3.0.0.6 fails to install a cross-site request forgery filter, allowing attac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92751",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92751:2026-09-16T20:49"
+  },
+  {
+   "ts": "2026-09-16T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92750 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92750 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Harness through 3.3.0 omits access control validation in the infrastructure provider read",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92750",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92750:2026-09-16T20:49"
+  },
+  {
+   "ts": "2026-09-16T20:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92749 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-92749 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True SafeLine through 9.4.1 derives the management console session-signing secret from a t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92749",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92749:2026-09-16T20:49"
+  },
+  {
+   "ts": "2026-09-16T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92748 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-92748 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True BC Security Empire before 6.7.1 fails to validate the multipart filename parameter in upl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92748",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92748:2026-09-16T20:49"
+  },
   {
    "ts": "2026-09-16T20:19:06+00:00",
    "level": "important",
@@ -381,126 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92566",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92566:2026-09-16T14:49"
-  },
-  {
-   "ts": "2026-09-16T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92395 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-92395 📢 Source: openjs 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False @fastify /proxy-addr is a Fastify plugin that determines a request's client address beh",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92395",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92395:2026-09-16T14:49"
-  },
-  {
-   "ts": "2026-09-16T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92469 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-92469 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True zlt2000 microservices-platform through 6.0.0 contains an authorization bypass vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92469",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92469:2026-09-16T13:49"
-  },
-  {
-   "ts": "2026-09-16T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92468 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-92468 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True zlt2000 microservices-platform through 6.0.0 contains an authorization bypass vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92468",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92468:2026-09-16T13:49"
-  },
-  {
-   "ts": "2026-09-16T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92467 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-92467 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True zlt2000 microservices-platform through 6.0.0 contains an unverified password change vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92467",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92467:2026-09-16T13:49"
-  },
-  {
-   "ts": "2026-09-16T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92466 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-92466 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True zlt2000 microservices-platform through 6.0.0 contains a missing authorization vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92466",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92466:2026-09-16T13:49"
-  },
-  {
-   "ts": "2026-09-16T13:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-91843 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-91843 📢 Source: checkpoint 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A stack overflow during the unauthenticated login process may allow an attacker to r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91843",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91843:2026-09-16T13:49"
-  },
-  {
-   "ts": "2026-09-16T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-89028 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-89028 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True MikroTik RouterOS before 7.24 contains a heap memory corruption vulnerability in the user",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89028",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89028:2026-09-16T13:49"
-  },
-  {
-   "ts": "2026-09-16T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73177 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-73177 📢 Source: Nozomi 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Nozomi Networks Labs identified a CWE-345: Insufficient Verification of Data Authenticity vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73177",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73177:2026-09-16T13:49"
-  },
-  {
-   "ts": "2026-09-16T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73176 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-73176 📢 Source: Nozomi 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Nozomi Networks Labs identified a CWE-78: Improper Neutralization of Special Elements used i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73176",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73176:2026-09-16T13:19"
-  },
-  {
-   "ts": "2026-09-16T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73175 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-73175 📢 Source: Nozomi 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Nozomi Networks Labs identified a CWE-400: Uncontrolled Resource Consumption vulnerability ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73175",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73175:2026-09-16T13:19"
-  },
-  {
-   "ts": "2026-09-16T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73174 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-73174 📢 Source: Nozomi 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Nozomi Networks Labs identified a CWE-319: Cleartext Transmission of Sensitive Information ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73174",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73174:2026-09-16T13:19"
-  },
-  {
-   "ts": "2026-09-16T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73173 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-73173 📢 Source: Nozomi 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Nozomi Networks Labs identified a CWE-306: Missing Authentication for Critical Function vuln",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73173",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73173:2026-09-16T13:19"
   }
  ]
 }
