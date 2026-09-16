@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-16T14:49:08+00:00",
+ "generated_at": "2026-09-16T15:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84860 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-84860 📢 Source: tenable 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ScadaLTS 2.8.1-release-candidate build 0 is affected by an Authorization Bypass Spring Secu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84860",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84860:2026-09-16T15:19"
+  },
+  {
+   "ts": "2026-09-16T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84858 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-84858 📢 Source: tenable 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ScadaLTS 2.8.1-release-candidate build 0 is affected by an Authenticated Remote Code Execut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84858",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84858:2026-09-16T15:19"
+  },
+  {
+   "ts": "2026-09-16T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79651 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-79651 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the theme localization endpoints of the keycloak-services component, whi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79651",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79651:2026-09-16T15:19"
+  },
+  {
+   "ts": "2026-09-16T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74909 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-74909 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Keycloak provides a policy enforcer to protect applications by matching incoming web request",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74909",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74909:2026-09-16T15:19"
+  },
+  {
+   "ts": "2026-09-16T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18212 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-18212 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the SAML Redirect Binding implementation of Keycloak, an open-source ide",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18212",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18212:2026-09-16T15:19"
+  },
   {
    "ts": "2026-09-16T14:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://withcapsule.app/",
    "source": "Hacker News",
    "id": "community:https://withcapsule.app/:2026-09-16T11:19"
-  },
-  {
-   "ts": "2026-09-16T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] We got admin access to Baseten's production GitHub",
-   "body": "Hacker News · 점수 285",
-   "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-   "source": "Hacker News",
-   "id": "community:https://www.strix.ai/blog/baseten-harbor-github-pat-takeover:2026-09-16T11:19"
-  },
-  {
-   "ts": "2026-09-16T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Apple Reference Image: A New Approach for Verified Photograp",
-   "body": "Hacker News · 점수 275",
-   "link": "https://security.apple.com/blog/apple-reference-image/",
-   "source": "Hacker News",
-   "id": "community:https://security.apple.com/blog/apple-reference-image/:2026-09-16T11:19"
-  },
-  {
-   "ts": "2026-09-16T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86474 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-86474 📢 Source: FERMAX 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False The lack of TLS certificate validation when downloading firmware updates in VEO and VEO-XS ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86474",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86474:2026-09-16T10:19"
-  },
-  {
-   "ts": "2026-09-16T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14917 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-14917 📢 Source: Kong 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A SAML authentication bypass vulnerability affects the Kong SAML plugin when the validate_asse",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14917",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14917:2026-09-16T10:19"
-  },
-  {
-   "ts": "2026-09-16T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73468 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-73468 📢 Source: Arista 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A specially crafted packet can cause the premature expiry of multicast forwarding state on ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73468",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73468:2026-09-16T10:19"
   }
  ]
 }
