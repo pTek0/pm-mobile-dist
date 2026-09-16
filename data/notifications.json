@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-16T06:19:07+00:00",
+ "generated_at": "2026-09-16T06:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79708 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-79708 📢 Source: GitLab 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab EE affecting all versions from 19.0 before 19.1.8, ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79708",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79708:2026-09-16T06:49"
+  },
+  {
+   "ts": "2026-09-16T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78252 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-78252 📢 Source: GitLab 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 15.3 before 19.1.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78252",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78252:2026-09-16T06:49"
+  },
+  {
+   "ts": "2026-09-16T06:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73447 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-73447 📢 Source: Arista 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True A privileged attacker can exploit certain operation to execute arbitrary commands with r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73447",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73447:2026-09-16T06:49"
+  },
+  {
+   "ts": "2026-09-16T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-1168 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-1168 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.4.6 before 19.1",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-1168",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-1168:2026-09-16T06:49"
+  },
+  {
+   "ts": "2026-09-16T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-14871 (CVSS 7.5)",
+   "body": "🚨 CVE-2025-14871 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.4.6 before 19.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-14871",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-14871:2026-09-16T06:49"
+  },
   {
    "ts": "2026-09-16T03:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76855",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76855:2026-09-15T22:19"
-  },
-  {
-   "ts": "2026-09-15T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76854 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-76854 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Netcore NR255-V version 1.5.130703 contains a sensitive information disclosure vulnerabil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76854",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76854:2026-09-15T22:19"
-  },
-  {
-   "ts": "2026-09-15T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76853 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-76853 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Netcore NR268 firmware version 1.7.121109 contains a security check bypass vulnerability ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76853",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76853:2026-09-15T22:19"
-  },
-  {
-   "ts": "2026-09-15T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76852 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-76852 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Netcore NR268 firmware version 1.7.121109 has an improper integrity verification flaw in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76852",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76852:2026-09-15T22:19"
-  },
-  {
-   "ts": "2026-09-15T21:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-81855 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-81855 📢 Source: icscert 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A hardcoded cryptographic client authentication key vulnerability exists in the robot t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81855",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81855:2026-09-15T21:49"
-  },
-  {
-   "ts": "2026-09-15T21:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-78225 (CVSS 9.5)",
-   "body": "🚨 CVE-2026-78225 📢 Source: icscert 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True A hardcoded cryptographic server key vulnerability exists in the deployer-ng Update Con",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78225",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78225:2026-09-15T21:49"
   }
  ]
 }
