@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-16T09:49:07+00:00",
+ "generated_at": "2026-09-16T10:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86474 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-86474 📢 Source: FERMAX 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False The lack of TLS certificate validation when downloading firmware updates in VEO and VEO-XS ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86474",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86474:2026-09-16T10:19"
+  },
+  {
+   "ts": "2026-09-16T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14917 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-14917 📢 Source: Kong 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A SAML authentication bypass vulnerability affects the Kong SAML plugin when the validate_asse",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14917",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14917:2026-09-16T10:19"
+  },
+  {
+   "ts": "2026-09-16T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73468 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-73468 📢 Source: Arista 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A specially crafted packet can cause the premature expiry of multicast forwarding state on ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73468",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73468:2026-09-16T10:19"
+  },
+  {
+   "ts": "2026-09-16T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73455 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-73455 📢 Source: Arista 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with Open Shortest Path First version 3 (OSPFv3) c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73455",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73455:2026-09-16T10:19"
+  },
+  {
+   "ts": "2026-09-16T10:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73453 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-73453 📢 Source: Arista 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False An unauthenticated P4Runtime (Programming Protocol-Independent Packet Processors Runtime",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73453",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73453:2026-09-16T10:19"
+  },
+  {
+   "ts": "2026-09-16T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85628 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-85628 📢 Source: FERMAX 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Transmission of the home Wi-Fi credentials without encryption during the pairing process betw",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85628",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85628:2026-09-16T10:19"
+  },
+  {
+   "ts": "2026-09-16T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73438 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-73438 📢 Source: Arista 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with Open Shortest Path First version 3 (OSPFv3) con",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73438",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73438:2026-09-16T10:19"
+  },
   {
    "ts": "2026-09-16T09:49:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://lemmy.world/pictrs/image/d048bafb-2997-4ba5-be15-d75c5fdf021a.jpeg",
    "source": "Lemmy · programming.dev",
    "id": "community:https://lemmy.world/pictrs/image/d048bafb-2997-4ba5-be15-d75c5fdf021a.jpeg:2026-09-16T00:49"
-  },
-  {
-   "ts": "2026-09-16T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] TIL that the Massachusetts Institute of Technology (MIT) jus",
-   "body": "Lemmy · technology · 점수 98",
-   "link": "https://t.co/WSEpEyNUSL",
-   "source": "Lemmy · technology",
-   "id": "community:https://t.co/WSEpEyNUSL:2026-09-16T00:49"
-  },
-  {
-   "ts": "2026-09-16T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] What blog posts influenced your thinking the most?",
-   "body": "Lobsters · 점수 94",
-   "link": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
-   "source": "Lobsters",
-   "id": "community:https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking:2026-09-16T00:49"
-  },
-  {
-   "ts": "2026-09-16T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI bots “Timmy,” “Ren,” and “Jackie” are flooding social med",
-   "body": "Lemmy · technology · 점수 72",
-   "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/:2026-09-16T00:49"
-  },
-  {
-   "ts": "2026-09-16T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] \"Do You Still Read the Code?\"",
-   "body": "Lobsters · 점수 69",
-   "link": "https://zanlib.dev/blog/do-you-still-read-the-code/",
-   "source": "Lobsters",
-   "id": "community:https://zanlib.dev/blog/do-you-still-read-the-code/:2026-09-16T00:49"
-  },
-  {
-   "ts": "2026-09-16T00:49:08+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: finance",
-   "body": "**★★ 2026-09-16 PW-11 cutover 완료 — 페이퍼 자동매매 실행 호스트 PC→NAS(192.168.0.200, finance 계정)**: PC finance 예약 태스크 24개 Disabled(보",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: finance:2026-09-16T00:49"
-  },
-  {
-   "ts": "2026-09-16T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] US coal ‘biggest contributor by far’ to rise in global emiss",
-   "body": "Lemmy · technology · 점수 213",
-   "link": "https://www.thechemicalengineer.com/news/us-coal-biggest-contributor-by-far-to-rise-in-global-emissions/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.thechemicalengineer.com/news/us-coal-biggest-contributor-by-far-to-rise-in-global-emissions/:2026-09-16T00:19"
-  },
-  {
-   "ts": "2026-09-16T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The contagion of fear",
-   "body": "Lobsters · 점수 168",
-   "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-   "source": "Lobsters",
-   "id": "community:https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/:2026-09-16T00:19"
   }
  ]
 }
