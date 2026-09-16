@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-16T16:19:07+00:00",
+ "generated_at": "2026-09-16T16:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85386 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-85386 📢 Source: ConcreteCMS 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Concrete CMS before 9.5.4 did not sanitize XML and XSLT documents uploaded through a pu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85386",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85386:2026-09-16T16:49"
+  },
+  {
+   "ts": "2026-09-16T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85385 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-85385 📢 Source: ConcreteCMS 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Concrete CMS below 9.5.4 did not validate the user timezone value (uTimezone) on write ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85385",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85385:2026-09-16T16:49"
+  },
+  {
+   "ts": "2026-09-16T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86359 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-86359 📢 Source: dell 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Dell Repository Manager, versions prior to 3.5.2, contains an Incorrect Default Permissions vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86359",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86359:2026-09-16T16:49"
+  },
+  {
+   "ts": "2026-09-16T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92603 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92603 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ContiNew Admin through 4.1.0 contains an authorization bypass vulnerability in the person",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92603",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92603:2026-09-16T16:49"
+  },
+  {
+   "ts": "2026-09-16T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92602 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92602 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True TDuck survey form through version 5.3 fails to validate webhook URLs or verify form owner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92602",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92602:2026-09-16T16:49"
+  },
+  {
+   "ts": "2026-09-16T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92601 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92601 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Guns through 8.3.5 contains an improper access control vulnerability in SysNoticeControll",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92601",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92601:2026-09-16T16:49"
+  },
+  {
+   "ts": "2026-09-16T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92600 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-92600 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Guns through 8.3.5 contains an information disclosure vulnerability in SysUserController ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92600",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92600:2026-09-16T16:49"
+  },
   {
    "ts": "2026-09-16T16:19:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-40854",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40854:2026-09-16T11:49"
-  },
-  {
-   "ts": "2026-09-16T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92463 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-92463 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True yshop-crm through 2.1.3 contains an authorization failure in the GET /admin-api/system/us",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92463",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92463:2026-09-16T11:49"
-  },
-  {
-   "ts": "2026-09-16T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92462 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-92462 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True yshop-crm through 2.1.3 fails to enforce authorization checks on the CrmFlowController de",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92462",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92462:2026-09-16T11:49"
-  },
-  {
-   "ts": "2026-09-16T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92460 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-92460 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True yshop-crm through 2.1.3 fails to enforce authorization on the GET /admin-api/crm/operatel",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92460",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92460:2026-09-16T11:49"
-  },
-  {
-   "ts": "2026-09-16T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92459 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-92459 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True yshop-crm through 2.1.3 contains a missing authorization vulnerability in the CrmCluesCon",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92459",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92459:2026-09-16T11:49"
-  },
-  {
-   "ts": "2026-09-16T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92457 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-92457 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True yshop-crm through 2.1.3 contains a missing authorization vulnerability in the CrmInvoiceC",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92457",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92457:2026-09-16T11:49"
-  },
-  {
-   "ts": "2026-09-16T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92456 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-92456 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True yshop-crm through 2.1.3 fails to enforce authorization on the saveRedisSet and getRedisSe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92456",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92456:2026-09-16T11:49"
-  },
-  {
-   "ts": "2026-09-16T11:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GEFS on OpenBSD: A very early preview",
-   "body": "Lobsters · 점수 73",
-   "link": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-   "source": "Lobsters",
-   "id": "community:https://marc.info/?l=openbsd-tech&m=178948744271633&w=2:2026-09-16T11:49"
   }
  ]
 }
