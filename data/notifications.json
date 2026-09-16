@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-16T19:49:07+00:00",
+ "generated_at": "2026-09-16T20:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T20:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92808 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-92808 📢 Source: Altium 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True A server-side request forgery (SSRF) vulnerability exists in the UnifiedLogin service of ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92808",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92808:2026-09-16T20:19"
+  },
   {
    "ts": "2026-09-16T19:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73173",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73173:2026-09-16T13:19"
-  },
-  {
-   "ts": "2026-09-16T13:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73172 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-73172 📢 Source: Nozomi 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Nozomi Networks Labs identified a CWE-78: Improper Neutralization of Special Elements us",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73172",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73172:2026-09-16T13:19"
   }
  ]
 }
