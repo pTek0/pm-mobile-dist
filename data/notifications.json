@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-16T12:19:07+00:00",
+ "generated_at": "2026-09-16T12:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73164 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-73164 📢 Source: Nozomi 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Nozomi Networks Labs identified a CWE-78: Improper Neutralization of Special Elements used i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73164",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73164:2026-09-16T12:49"
+  },
+  {
+   "ts": "2026-09-16T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73163 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-73163 📢 Source: Nozomi 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Nozomi Networks Labs identified a CWE-78: Improper Neutralization of Special Elements used i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73163",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73163:2026-09-16T12:49"
+  },
+  {
+   "ts": "2026-09-16T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19535 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-19535 📢 Source: Nozomi 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Nozomi Networks Labs identified a CWE-352: Cross-Site Request Forgery (CSRF) vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19535",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19535:2026-09-16T12:49"
+  },
+  {
+   "ts": "2026-09-16T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88817 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-88817 📢 Source: airbus 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An authenticated, non-guest user of Curiosity Workspace could enroll themselves as an admini",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88817",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88817:2026-09-16T12:49"
+  },
   {
    "ts": "2026-09-16T11:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-27556",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-27556:2026-09-16T08:19"
-  },
-  {
-   "ts": "2026-09-16T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-27555 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-27555 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A low-privileged remote attacker can exploit a local file inclusion vulnerability in the /i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-27555",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-27555:2026-09-16T08:19"
-  },
-  {
-   "ts": "2026-09-16T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-27554 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-27554 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A low-privileged remote attacker can exploit a command injection vulnerability in the /inde",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-27554",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-27554:2026-09-16T08:19"
-  },
-  {
-   "ts": "2026-09-16T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-27552 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-27552 📢 Source: CERTVDE 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A low-privileged remote attacker can exploit improper authorization in the /index.php/attac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-27552",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-27552:2026-09-16T08:19"
-  },
-  {
-   "ts": "2026-09-16T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-27551 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-27551 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A low-privileged remote attacker can exploit a command injection vulnerability in the /inde",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-27551",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-27551:2026-09-16T08:19"
   }
  ]
 }
