@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-16T19:19:08+00:00",
+ "generated_at": "2026-09-16T19:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-16T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87976 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-87976 📢 Source: apache 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Apache NiFi Registry 0.4.0 through 2.11.0 are subject to path manipulation when storing exte",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87976",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87976:2026-09-16T19:49"
+  },
   {
    "ts": "2026-09-16T19:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73172",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73172:2026-09-16T13:19"
-  },
-  {
-   "ts": "2026-09-16T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73171 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-73171 📢 Source: Nozomi 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Nozomi Networks Labs identified a CWE-73: External Control of File Name or Path vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73171",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73171:2026-09-16T13:19"
   }
  ]
 }
