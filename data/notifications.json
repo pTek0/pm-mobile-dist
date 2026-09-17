@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-17T15:51:22+00:00",
+ "generated_at": "2026-09-17T16:19:23+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T16:19:23+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-89036 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-89036 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Appwrite before 2.0.0 contains an argument injection vulnerability that allows authentica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89036",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89036:2026-09-17T16:19"
+  },
   {
    "ts": "2026-09-17T15:51:19+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://gegell.github.io/posts/factorio-rng/",
    "source": "Hacker News",
    "id": "community:https://gegell.github.io/posts/factorio-rng/:2026-09-17T12:19"
-  },
-  {
-   "ts": "2026-09-17T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The engineering behind the US Strategic Petroleum Reserve",
-   "body": "Hacker News · 점수 211",
-   "link": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-   "source": "Hacker News",
-   "id": "community:https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve:2026-09-17T12:19"
   }
  ]
 }
