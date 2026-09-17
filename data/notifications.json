@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-17T07:49:21+00:00",
+ "generated_at": "2026-09-17T08:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T08:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-50605 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-50605 📢 Source: Acer 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False A vulnerability has been identified in the Acer Agent Service component included with NitroSe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-50605",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-50605:2026-09-17T08:19"
+  },
   {
    "ts": "2026-09-17T07:49:20+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92753",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92753:2026-09-16T20:49"
-  },
-  {
-   "ts": "2026-09-16T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92752 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-92752 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True metasfresh DocumentAttachmentsRestController and CommentsRestController endpoints check o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92752",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92752:2026-09-16T20:49"
   }
  ]
 }
