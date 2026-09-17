@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-09-17T11:49:08+00:00",
+ "generated_at": "2026-09-17T12:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T12:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-90823 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-90823 📢 Source: Securifera 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True FatPipe MPVPN, WARP, and IPVPN appliances running the end-of-life firmware version 1",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90823",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90823:2026-09-17T12:19"
+  },
+  {
+   "ts": "2026-09-17T12:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-90822 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-90822 📢 Source: Securifera 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True FatPipe MPVPN, WARP, and IPVPN appliances running the end-of-life firmware version 1",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90822",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90822:2026-09-17T12:19"
+  },
+  {
+   "ts": "2026-09-17T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81480 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-81480 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Server Administrator, versions prior to 11.1.0.3 , contains a Stack-based Buff",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81480",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81480:2026-09-17T12:19"
+  },
+  {
+   "ts": "2026-09-17T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Backups Aren't Simple",
+   "body": "Hacker News · 점수 248",
+   "link": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+   "source": "Hacker News",
+   "id": "community:https://filipovski.net/2026/09/16/backups-arent-simple.html:2026-09-17T12:19"
+  },
+  {
+   "ts": "2026-09-17T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Reversing Factorio's RNG",
+   "body": "Hacker News · 점수 212",
+   "link": "https://gegell.github.io/posts/factorio-rng/",
+   "source": "Hacker News",
+   "id": "community:https://gegell.github.io/posts/factorio-rng/:2026-09-17T12:19"
+  },
+  {
+   "ts": "2026-09-17T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The engineering behind the US Strategic Petroleum Reserve",
+   "body": "Hacker News · 점수 211",
+   "link": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+   "source": "Hacker News",
+   "id": "community:https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve:2026-09-17T12:19"
+  },
+  {
+   "ts": "2026-09-17T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Enjoy owning your devices while you still can.",
+   "body": "Lemmy · technology · 점수 166",
+   "link": "https://uk.pcmag.com/security/167356/your-computer-might-demand-your-age-soon-no-matter-where-you-live",
+   "source": "Lemmy · technology",
+   "id": "community:https://uk.pcmag.com/security/167356/your-computer-might-demand-your-age-soon-no-matter-where-you-live:2026-09-17T12:19"
+  },
+  {
+   "ts": "2026-09-17T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The end of verygoodsoftwarenotvirus.ru",
+   "body": "Lobsters · 점수 66",
+   "link": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
+   "source": "Lobsters",
+   "id": "community:https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/:2026-09-17T12:19"
+  },
   {
    "ts": "2026-09-17T11:49:06+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81546",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81546:2026-09-17T02:19"
-  },
-  {
-   "ts": "2026-09-17T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Vectorized and performance-portable Quicksort (2022)",
-   "body": "Hacker News · 점수 160",
-   "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
-   "source": "Hacker News",
-   "id": "community:https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html:2026-09-17T00:19"
-  },
-  {
-   "ts": "2026-09-17T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AWS says it can't restore some data from mideast facilities ",
-   "body": "Hacker News · 점수 140",
-   "link": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-   "source": "Hacker News",
-   "id": "community:https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d:2026-09-17T00:19"
-  },
-  {
-   "ts": "2026-09-17T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A/I Shuts Down",
-   "body": "Lobsters · 점수 132",
-   "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-   "source": "Lobsters",
-   "id": "community:https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/:2026-09-17T00:19"
-  },
-  {
-   "ts": "2026-09-17T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Destroying Humanity Is Against the Law. Don’t wait for a mas",
-   "body": "Lemmy · technology · 점수 118",
-   "link": "https://www.theatlantic.com/ideas/2026/09/ai-risk-criminal-law/688615/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theatlantic.com/ideas/2026/09/ai-risk-criminal-law/688615/:2026-09-17T00:19"
-  },
-  {
-   "ts": "2026-09-17T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Some things Veloren does differently",
-   "body": "Lobsters · 점수 62",
-   "link": "https://blog.jsbarretto.com/post/veloren",
-   "source": "Lobsters",
-   "id": "community:https://blog.jsbarretto.com/post/veloren:2026-09-17T00:19"
-  },
-  {
-   "ts": "2026-09-16T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Why Personal Websites Are Coming Back",
-   "body": "Lemmy · technology · 점수 284",
-   "link": "https://deadparrotbbs.com/why-personal-websites-are-coming-back/",
-   "source": "Lemmy · technology",
-   "id": "community:https://deadparrotbbs.com/why-personal-websites-are-coming-back/:2026-09-16T23:49"
-  },
-  {
-   "ts": "2026-09-16T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tell the speakers that you liked their talks",
-   "body": "Hacker News · 점수 261",
-   "link": "https://ohhelloana.blog/tell-the-speakers/",
-   "source": "Hacker News",
-   "id": "community:https://ohhelloana.blog/tell-the-speakers/:2026-09-16T23:49"
-  },
-  {
-   "ts": "2026-09-16T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Datacenter rush will create ‘tsunami’ of discarded electroni",
-   "body": "Lemmy · technology · 점수 207",
-   "link": "https://www.theguardian.com/world/2026/sep/16/datacenters-pollution-electronics",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/world/2026/sep/16/datacenters-pollution-electronics:2026-09-16T23:49"
   }
  ]
 }
