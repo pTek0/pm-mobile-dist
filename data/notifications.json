@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-17T16:19:23+00:00",
+ "generated_at": "2026-09-17T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93292 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-93292 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True SigNoz versions from 0.88.0 before 0.142.1 contain a SQL injection vulnerability in trace",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93292",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93292:2026-09-17T16:49"
+  },
+  {
+   "ts": "2026-09-17T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-28326 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-28326 📢 Source: SolarWinds 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False SolarWinds Access Rights Manager was reported to be affected by an unauthenticated remo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-28326",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-28326:2026-09-17T16:49"
+  },
   {
    "ts": "2026-09-17T16:19:23+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81480",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81480:2026-09-17T12:19"
-  },
-  {
-   "ts": "2026-09-17T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Backups Aren't Simple",
-   "body": "Hacker News · 점수 248",
-   "link": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-   "source": "Hacker News",
-   "id": "community:https://filipovski.net/2026/09/16/backups-arent-simple.html:2026-09-17T12:19"
-  },
-  {
-   "ts": "2026-09-17T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Reversing Factorio's RNG",
-   "body": "Hacker News · 점수 212",
-   "link": "https://gegell.github.io/posts/factorio-rng/",
-   "source": "Hacker News",
-   "id": "community:https://gegell.github.io/posts/factorio-rng/:2026-09-17T12:19"
   }
  ]
 }
