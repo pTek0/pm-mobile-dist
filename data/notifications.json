@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-17T21:19:07+00:00",
+ "generated_at": "2026-09-17T21:49:51+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T21:49:51+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93426 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-93426 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True SigNoz versions 0.87.0 before 0.142.0 fail to escape user-supplied telemetry field-key na",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93426",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93426:2026-09-17T21:49"
+  },
   {
    "ts": "2026-09-17T20:49:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92918",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92918:2026-09-17T12:49"
-  },
-  {
-   "ts": "2026-09-17T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81481 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-81481 📢 Source: dell 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Server Administrator, versions prior to 11.1.0.3 , contains an Improper Limita",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81481",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81481:2026-09-17T12:49"
   }
  ]
 }
