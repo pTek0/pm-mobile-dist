@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-17T21:49:51+00:00",
+ "generated_at": "2026-09-17T22:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T22:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86688 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-86688 📢 Source: EEF 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Session Fixation vulnerability in team-alembic ash_authentication allows an attacker who can pl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86688",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86688:2026-09-17T22:19"
+  },
   {
    "ts": "2026-09-17T21:49:51+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92919",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92919:2026-09-17T12:49"
-  },
-  {
-   "ts": "2026-09-17T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92918 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-92918 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True admin3 through 3.0.0 persists user session tokens in the audit log event body when publis",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92918",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92918:2026-09-17T12:49"
   }
  ]
 }
