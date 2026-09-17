@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-17T07:19:10+00:00",
+ "generated_at": "2026-09-17T07:49:21+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T07:49:20+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86320 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-86320 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in flatpak-builder where Git hooks are not disabled when applying patch so",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86320",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86320:2026-09-17T07:49"
+  },
   {
    "ts": "2026-09-17T04:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92752",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92752:2026-09-16T20:49"
-  },
-  {
-   "ts": "2026-09-16T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92751 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-92751 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True CMAK through 3.0.0.6 fails to install a cross-site request forgery filter, allowing attac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92751",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92751:2026-09-16T20:49"
   }
  ]
 }
