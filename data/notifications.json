@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-09-17T14:19:20+00:00",
+ "generated_at": "2026-09-17T14:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81446 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-81446 📢 Source: dell 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Server Administrator, versions prior to 11.1.0.3 , contains a Server-Side Requ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81446",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81446:2026-09-17T14:49"
+  },
+  {
+   "ts": "2026-09-17T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80356 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-80356 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell OpenManage Server Administrator, versions prior to 11.1.0.3 , contains an Exposure of Se",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80356",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80356:2026-09-17T14:49"
+  },
+  {
+   "ts": "2026-09-17T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92987 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-92987 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True roxmltree through 0.21.1 performs quadratic-time attribute and namespace validation durin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92987",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92987:2026-09-17T14:49"
+  },
+  {
+   "ts": "2026-09-17T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92986 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-92986 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SiYuan before 3.8.4 renders document titles as HTML in the backlink dock tree without esc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92986",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92986:2026-09-17T14:49"
+  },
+  {
+   "ts": "2026-09-17T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92985 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-92985 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SiYuan versions before 3.8.4 fail to escape bookmark labels imported from notebook files ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92985",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92985:2026-09-17T14:49"
+  },
+  {
+   "ts": "2026-09-17T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92984 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-92984 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True HUBzero CMS through 2.2.32 accepts session identifiers from query strings and request var",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92984",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92984:2026-09-17T14:49"
+  },
+  {
+   "ts": "2026-09-17T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92983 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-92983 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True InternLM LMDeploy through 0.17.0 in DistServe prefill/decode disaggregation mode fails to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92983",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92983:2026-09-17T14:49"
+  },
+  {
+   "ts": "2026-09-17T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-88952 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-88952 📢 Source: EEF 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Improper Authentication vulnerability in team-alembic AshAuthentication allows an attacker ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88952",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88952:2026-09-17T14:49"
+  },
+  {
+   "ts": "2026-09-17T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81445 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-81445 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Server Administrator, versions prior to 11.1.0.3 , contains an Improper Privil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81445",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81445:2026-09-17T14:49"
+  },
   {
    "ts": "2026-09-17T14:19:07+00:00",
    "level": "important",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92913",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92913:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92912 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-92912 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True AVideo through c3edcc274c389816d434acadac07ee78eaf330c1 uses cryptographically weak uniqi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92912",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92912:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81478 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-81478 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Server Administrator, versions prior to 11.1.0.3 , contains a Use of Hard-code",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81478",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81478:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81477 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-81477 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Server Administrator, versions prior to 11.1.0.3 , contains a Heap-based Buffe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81477",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81477:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81476 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-81476 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Server Administrator, versions prior to 11.1.0.3 , contains an Improper Neutra",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81476",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81476:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81475 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-81475 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Server Administrator, versions prior to 11.1.0.3 , contains a Missing Authenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81475",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81475:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia announces native GPU programming in Rust",
-   "body": "Hacker News · 점수 710",
-   "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-   "source": "Hacker News",
-   "id": "community:https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I love fun quizzes like this. Let’s all share!",
-   "body": "Lemmy · programming.dev · 점수 362",
-   "link": "https://lemmy.world/pictrs/image/ddc9e43c-296d-4b98-9fe4-a3beaf9ea3cd.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/ddc9e43c-296d-4b98-9fe4-a3beaf9ea3cd.png:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Performance Improvements in .NET 11",
-   "body": "Hacker News · 점수 295",
-   "link": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-   "source": "Hacker News",
-   "id": "community:https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Devastated father says his 9-year-old son spent $118,000 on ",
-   "body": "Lemmy · technology · 점수 291",
-   "link": "https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion:2026-09-17T11:49"
   }
  ]
 }
