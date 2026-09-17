@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-17T01:49:07+00:00",
+ "generated_at": "2026-09-17T02:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92838 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-92838 📢 Source: GV 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A DLL hijacking vulnerability exists in the GeoVision GV-Remote E-Map desktop application. The ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92838",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92838:2026-09-17T02:19"
+  },
+  {
+   "ts": "2026-09-17T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81546 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-81546 📢 Source: Canva 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False The Affinity by Canva application before 3.3.0 (September 2026 release) did not perform adeq",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81546",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81546:2026-09-17T02:19"
+  },
   {
    "ts": "2026-09-17T00:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92719",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92719:2026-09-16T17:49"
-  },
-  {
-   "ts": "2026-09-16T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92718 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-92718 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Nuclei versions before 3.11.1 cache template signature verification based only on file m",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92718",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92718:2026-09-16T17:49"
-  },
-  {
-   "ts": "2026-09-16T17:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92717 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-92717 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Covenant through 0.6 registers the CovenantHub SignalR hub without an Authorize attri",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92717",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92717:2026-09-16T17:49"
   }
  ]
 }
