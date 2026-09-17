@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-17T14:49:09+00:00",
+ "generated_at": "2026-09-17T15:19:29+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T15:19:29+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87742 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-87742 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in quarkus-websockets-next. This vulnerability allows a remote attacker to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87742",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87742:2026-09-17T15:19"
+  },
+  {
+   "ts": "2026-09-17T15:19:29+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-26950 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-26950 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell SmartFabric Manager, versions prior to 2.2.1, contains an Insufficient Verification of Da",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-26950",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-26950:2026-09-17T15:19"
+  },
   {
    "ts": "2026-09-17T14:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92915",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92915:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92914 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-92914 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True AVideo LoginControl contains an authentication bypass vulnerability in the PGP second fac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92914",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92914:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92913 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-92913 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 uses a cryptographical",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92913",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92913:2026-09-17T11:49"
   }
  ]
 }
