@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-17T18:49:08+00:00",
+ "generated_at": "2026-09-17T19:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-90997 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-90997 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Keycloak. When deployed in stateless mode with MySQL or MariaDB, a misma",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90997",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90997:2026-09-17T19:19"
+  },
+  {
+   "ts": "2026-09-17T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19477 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-19477 📢 Source: NI 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False There is stack-based buffer overflow vulnerability recently discovered in MCC Universal Library",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19477",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19477:2026-09-17T19:19"
+  },
   {
    "ts": "2026-09-17T16:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-90823",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90823:2026-09-17T12:19"
-  },
-  {
-   "ts": "2026-09-17T12:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-90822 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-90822 📢 Source: Securifera 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True FatPipe MPVPN, WARP, and IPVPN appliances running the end-of-life firmware version 1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90822",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90822:2026-09-17T12:19"
-  },
-  {
-   "ts": "2026-09-17T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81480 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-81480 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Server Administrator, versions prior to 11.1.0.3 , contains a Stack-based Buff",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81480",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81480:2026-09-17T12:19"
   }
  ]
 }
