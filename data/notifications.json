@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-09-17T13:19:12+00:00",
+ "generated_at": "2026-09-17T13:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-89418 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-89418 📢 Source: Google 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True google-protobuf contains an unbounded recursion when parsing unknown protobuf group fields. ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89418",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89418:2026-09-17T13:49"
+  },
+  {
+   "ts": "2026-09-17T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14850 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-14850 📢 Source: INCIBE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The password reset funcionality is vulnerable to unauthorized account modification due to im",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14850",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14850:2026-09-17T13:49"
+  },
+  {
+   "ts": "2026-09-17T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85500 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-85500 📢 Source: EEF 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Authentication Bypass by Primary Weakness vulnerability in team-alembic AshAuthentication a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85500",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85500:2026-09-17T13:49"
+  },
+  {
+   "ts": "2026-09-17T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82761 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-82761 📢 Source: EEF 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Time-of-check Time-of-use (TOCTOU) Race Condition vulnerability in team-alembic AshAuthenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82761",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82761:2026-09-17T13:49"
+  },
+  {
+   "ts": "2026-09-17T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82760 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-82760 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Inefficient Algorithmic Complexity vulnerability in team-alembic AshAuthentication allows an un",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82760",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82760:2026-09-17T13:49"
+  },
+  {
+   "ts": "2026-09-17T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82685 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-82685 📢 Source: EEF 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key vulnerability in team-alembic AshAuthenticatio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82685",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82685:2026-09-17T13:49"
+  },
+  {
+   "ts": "2026-09-17T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81632 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-81632 📢 Source: EEF 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False Use of HTTP Request With Sensitive Query String vulnerability in team-alembic AshAuthenticatio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81632",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81632:2026-09-17T13:49"
+  },
+  {
+   "ts": "2026-09-17T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80218 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-80218 📢 Source: EEF 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Authentication vulnerability in team-alembic AshAuthentication allows an attacker hold",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80218",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80218:2026-09-17T13:49"
+  },
   {
    "ts": "2026-09-17T12:49:07+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-25284",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25284:2026-09-17T04:49"
-  },
-  {
-   "ts": "2026-09-17T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-25283 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-25283 📢 Source: qualcomm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when copying unverified data from an external source exceeds the alloca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25283",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25283:2026-09-17T04:49"
-  },
-  {
-   "ts": "2026-09-17T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-25282 (CVSS 7.9)",
-   "body": "🚨 CVE-2026-25282 📢 Source: qualcomm 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: False Transient DOS when processing unverified data from a neighboring system causes out of bou",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25282",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25282:2026-09-17T04:49"
-  },
-  {
-   "ts": "2026-09-17T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-25281 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-25281 📢 Source: qualcomm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Transient DOS when processing large or numerous request buffers without sufficient memory",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25281",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25281:2026-09-17T04:49"
-  },
-  {
-   "ts": "2026-09-17T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-25280 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-25280 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory corruption when processing escape handling flow with insufficient user buffer size",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25280",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25280:2026-09-17T04:49"
-  },
-  {
-   "ts": "2026-09-17T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-25278 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-25278 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when processing I2C transfer requests due to a race condition between m",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25278",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25278:2026-09-17T04:49"
-  },
-  {
-   "ts": "2026-09-17T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-25275 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-25275 📢 Source: qualcomm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Transient DOS when processing authentication frames with invalid FILS information element ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25275",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25275:2026-09-17T04:49"
-  },
-  {
-   "ts": "2026-09-17T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-24081 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-24081 📢 Source: qualcomm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Transient DOS when processing a channel map with insufficient used channels and adaptive ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24081",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24081:2026-09-17T04:49"
-  },
-  {
-   "ts": "2026-09-17T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-24075 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-24075 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when multiple threads issue concurrent IOCTL requests to the device con",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24075",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24075:2026-09-17T04:49"
   }
  ]
 }
