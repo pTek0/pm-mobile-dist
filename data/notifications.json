@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-17T15:19:29+00:00",
+ "generated_at": "2026-09-17T15:51:22+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T15:51:19+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-86863 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-86863 📢 Source: PostgreSQL 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True pgAdmin 4's Webserver authentication source is intended to accept an identity assert",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86863",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86863:2026-09-17T15:51"
+  },
+  {
+   "ts": "2026-09-17T15:51:19+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86862 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-86862 📢 Source: PostgreSQL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False pgAdmin 4's Restore and Maintenance tools passed the client-supplied 'database' field d",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86862",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86862:2026-09-17T15:51"
+  },
+  {
+   "ts": "2026-09-17T15:51:19+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-56795 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-56795 📢 Source: dell 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Dell Server Update Utility, versions prior to 26.07.01, contains an Uncontrolled Search Path ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56795",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56795:2026-09-17T15:51"
+  },
+  {
+   "ts": "2026-09-17T15:51:19+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93015 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-93015 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False BlueKitchen BTstack through 1.8.2 fails to validate the peer-reported endpoint count again",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93015",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93015:2026-09-17T15:51"
+  },
+  {
+   "ts": "2026-09-17T15:51:19+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93014 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-93014 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True RosarioSIS versions before 12.9 fail to validate the filename request parameter in Users ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93014",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93014:2026-09-17T15:51"
+  },
+  {
+   "ts": "2026-09-17T15:51:19+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76834 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-76834 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True b2evolution CMS versions 6.7.8 through 7.2.5 contain an incomplete fix for CVE-2016-8",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76834",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76834:2026-09-17T15:51"
+  },
   {
    "ts": "2026-09-17T15:19:29+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
    "source": "Hacker News",
    "id": "community:https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve:2026-09-17T12:19"
-  },
-  {
-   "ts": "2026-09-17T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Enjoy owning your devices while you still can.",
-   "body": "Lemmy · technology · 점수 166",
-   "link": "https://uk.pcmag.com/security/167356/your-computer-might-demand-your-age-soon-no-matter-where-you-live",
-   "source": "Lemmy · technology",
-   "id": "community:https://uk.pcmag.com/security/167356/your-computer-might-demand-your-age-soon-no-matter-where-you-live:2026-09-17T12:19"
-  },
-  {
-   "ts": "2026-09-17T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The end of verygoodsoftwarenotvirus.ru",
-   "body": "Lobsters · 점수 66",
-   "link": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
-   "source": "Lobsters",
-   "id": "community:https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/:2026-09-17T12:19"
-  },
-  {
-   "ts": "2026-09-17T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81440 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-81440 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Server Administrator, versions prior to 11.1.0.3 , contains a Use of Hard-code",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81440",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81440:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92917 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-92917 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Grav is a flat-file CMS. In versions 2.0.0-rc.1 through 2.0.21, the Twig content sandbox ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92917",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92917:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92916 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-92916 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Grav is a flat-file CMS. In Grav 1.7.0 through 1.7.53.2 and 2.0.0 through 2.0.21, when th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92916",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92916:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92915 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-92915 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True WWBN AVideo through commit e01e41ecc (no patched version available) contains a broken acc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92915",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92915:2026-09-17T11:49"
   }
  ]
 }
