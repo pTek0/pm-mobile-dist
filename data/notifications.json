@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-16T23:49:07+00:00",
+ "generated_at": "2026-09-17T00:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Vectorized and performance-portable Quicksort (2022)",
+   "body": "Hacker News · 점수 160",
+   "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+   "source": "Hacker News",
+   "id": "community:https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html:2026-09-17T00:19"
+  },
+  {
+   "ts": "2026-09-17T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AWS says it can't restore some data from mideast facilities ",
+   "body": "Hacker News · 점수 140",
+   "link": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+   "source": "Hacker News",
+   "id": "community:https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d:2026-09-17T00:19"
+  },
+  {
+   "ts": "2026-09-17T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A/I Shuts Down",
+   "body": "Lobsters · 점수 132",
+   "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+   "source": "Lobsters",
+   "id": "community:https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/:2026-09-17T00:19"
+  },
+  {
+   "ts": "2026-09-17T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Destroying Humanity Is Against the Law. Don’t wait for a mas",
+   "body": "Lemmy · technology · 점수 118",
+   "link": "https://www.theatlantic.com/ideas/2026/09/ai-risk-criminal-law/688615/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theatlantic.com/ideas/2026/09/ai-risk-criminal-law/688615/:2026-09-17T00:19"
+  },
+  {
+   "ts": "2026-09-17T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Some things Veloren does differently",
+   "body": "Lobsters · 점수 62",
+   "link": "https://blog.jsbarretto.com/post/veloren",
+   "source": "Lobsters",
+   "id": "community:https://blog.jsbarretto.com/post/veloren:2026-09-17T00:19"
+  },
   {
    "ts": "2026-09-16T23:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92717",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92717:2026-09-16T17:49"
-  },
-  {
-   "ts": "2026-09-16T17:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92716 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-92716 📢 Source: VulnCheck 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Shuffle through 2.2.1 contains a cross-tenant privilege escalation vulnerability in t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92716",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92716:2026-09-16T17:49"
-  },
-  {
-   "ts": "2026-09-16T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92605 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-92605 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True IRIS through 2.4.29 fails to properly validate case authorization in comment listing endp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92605",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92605:2026-09-16T17:49"
-  },
-  {
-   "ts": "2026-09-16T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92604 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-92604 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Scirius through 3.8.0 contains an arbitrary file write vulnerability in the PCAP filestor",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92604",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92604:2026-09-16T17:49"
-  },
-  {
-   "ts": "2026-09-16T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-42784 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-42784 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in sequoia-openpgp. The library incorrectly infers key flags for older cert",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-42784",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-42784:2026-09-16T17:19"
-  },
-  {
-   "ts": "2026-09-16T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85386 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-85386 📢 Source: ConcreteCMS 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Concrete CMS before 9.5.4 did not sanitize XML and XSLT documents uploaded through a pu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85386",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85386:2026-09-16T16:49"
   }
  ]
 }
