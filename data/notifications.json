@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-17T22:19:08+00:00",
+ "generated_at": "2026-09-17T22:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93436 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93436 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True vLLM through 0.29.0 fails to properly clean up decode-side metadata for rejected inferenc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93436",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93436:2026-09-17T22:49"
+  },
+  {
+   "ts": "2026-09-17T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93435 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93435 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True redis-parser through 3.0.0 contains a denial of service vulnerability in the RESP protoco",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93435",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93435:2026-09-17T22:49"
+  },
   {
    "ts": "2026-09-17T22:19:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81632",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81632:2026-09-17T13:49"
-  },
-  {
-   "ts": "2026-09-17T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80218 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-80218 📢 Source: EEF 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Authentication vulnerability in team-alembic AshAuthentication allows an attacker hold",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80218",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80218:2026-09-17T13:49"
-  },
-  {
-   "ts": "2026-09-17T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92919 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-92919 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True admin3 through 3.0.0 fails to sanitize client-supplied filenames in the upload handler, a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92919",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92919:2026-09-17T12:49"
   }
  ]
 }
