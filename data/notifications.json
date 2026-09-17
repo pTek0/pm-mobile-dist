@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-17T09:19:07+00:00",
+ "generated_at": "2026-09-17T09:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78425 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-78425 📢 Source: suse 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Authorised users of outside applications behind the same corporate identity provider (IdP), fo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78425",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78425:2026-09-17T09:49"
+  },
+  {
+   "ts": "2026-09-17T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78428 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-78428 📢 Source: suse 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True For users authenticated through SAML or OpenID Connect (OIDC), this vulnerability can result in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78428",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78428:2026-09-17T09:49"
+  },
   {
    "ts": "2026-09-17T08:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92763",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92763:2026-09-16T20:49"
-  },
-  {
-   "ts": "2026-09-16T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92762 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-92762 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Pelican Panel versions before 1.0.0-beta35 enforce startup write permissions only through",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92762",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92762:2026-09-16T20:49"
-  },
-  {
-   "ts": "2026-09-16T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92761 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-92761 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True WebVirtCloud fails to properly validate permission flags in UserInstance grants, allowing",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92761",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92761:2026-09-16T20:49"
   }
  ]
 }
