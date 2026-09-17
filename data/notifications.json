@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-09-17T23:24:18+00:00",
+ "generated_at": "2026-09-17T23:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T23:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93453 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93453 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SOGo before 5.12.11 constructs password-reset links using the client-supplied Origin head",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93453",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93453:2026-09-17T23:49"
+  },
+  {
+   "ts": "2026-09-17T23:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93452 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93452 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True snappy-java through 1.1.10.8 contains a buffer overflow vulnerability in Snappy.compress(",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93452",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93452:2026-09-17T23:49"
+  },
+  {
+   "ts": "2026-09-17T23:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93450 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93450 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True go-openapi/swag jsonutils before 0.27.1 contains a stack overflow vulnerability in ordere",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93450",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93450:2026-09-17T23:49"
+  },
+  {
+   "ts": "2026-09-17T23:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85887 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-85887 📢 Source: microsoft 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-17T23:04:48.423Z https://cvefeed.io/vuln/detail/CVE-2026-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85887",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85887:2026-09-17T23:49"
+  },
+  {
+   "ts": "2026-09-17T23:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85878 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-85878 📢 Source: microsoft 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-17T23:04:46.779Z https://cvefeed.io/vuln/detail/CVE-2",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85878",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85878:2026-09-17T23:49"
+  },
+  {
+   "ts": "2026-09-17T23:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-83946 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-83946 📢 Source: microsoft 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-17T23:04:47.883Z https://cvefeed.io/vuln/detail/CVE-2026-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83946",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83946:2026-09-17T23:49"
+  },
+  {
+   "ts": "2026-09-17T23:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-69843 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-69843 📢 Source: microsoft 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-17T23:04:47.355Z https://cvefeed.io/vuln/detail/CVE-20",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69843",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69843:2026-09-17T23:49"
+  },
+  {
+   "ts": "2026-09-17T23:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-62874 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-62874 📢 Source: microsoft 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-17T23:04:46.281Z https://cvefeed.io/vuln/detail/CVE-20",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62874",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62874:2026-09-17T23:49"
+  },
   {
    "ts": "2026-09-17T23:24:09+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81445",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81445:2026-09-17T14:49"
-  },
-  {
-   "ts": "2026-09-17T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92956 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-92956 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True vm2 versions 3.10.1 through 3.11.6 contain a sandbox escape reachable from a default `",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92956",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92956:2026-09-17T14:19"
-  },
-  {
-   "ts": "2026-09-17T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92955 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-92955 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True vm2 before 3.11.8 contains a sandbox escape vulnerability in NodeVM that allows attack",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92955",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92955:2026-09-17T14:19"
-  },
-  {
-   "ts": "2026-09-17T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92953 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-92953 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True vm2 versions from 3.11.0 before 3.11.8 fail to protect host TypedArray and ArrayBuffer",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92953",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92953:2026-09-17T14:19"
-  },
-  {
-   "ts": "2026-09-17T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92952 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-92952 📢 Source: VulnCheck 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True vm2 versions 3.11.4 through 3.11.6 incompletely filter Node.js registered internal symbol",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92952",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92952:2026-09-17T14:19"
-  },
-  {
-   "ts": "2026-09-17T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92951 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-92951 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True vm2 before 3.11.7 contains an incorrect authorization vulnerability in the external p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92951",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92951:2026-09-17T14:19"
-  },
-  {
-   "ts": "2026-09-17T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92950 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-92950 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False vm2 before 3.11.7 contains a sandbox escape vulnerability in the CLI tool that allow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92950",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92950:2026-09-17T14:19"
-  },
-  {
-   "ts": "2026-09-17T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92947 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-92947 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True vm2 before 3.11.7 exposes Node's shared Buffer pool to sandboxed code, allowing disclo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92947",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92947:2026-09-17T14:19"
-  },
-  {
-   "ts": "2026-09-17T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92946 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-92946 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True vm2 before 3.11.7 contains a remote code execution vulnerability when require.external",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92946",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92946:2026-09-17T14:19"
   }
  ]
 }
