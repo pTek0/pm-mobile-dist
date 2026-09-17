@@ -1,7 +1,147 @@
 {
- "generated_at": "2026-09-17T13:49:09+00:00",
+ "generated_at": "2026-09-17T14:19:20+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92956 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-92956 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True vm2 versions 3.10.1 through 3.11.6 contain a sandbox escape reachable from a default `",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92956",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92956:2026-09-17T14:19"
+  },
+  {
+   "ts": "2026-09-17T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92955 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-92955 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True vm2 before 3.11.8 contains a sandbox escape vulnerability in NodeVM that allows attack",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92955",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92955:2026-09-17T14:19"
+  },
+  {
+   "ts": "2026-09-17T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92953 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-92953 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True vm2 versions from 3.11.0 before 3.11.8 fail to protect host TypedArray and ArrayBuffer",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92953",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92953:2026-09-17T14:19"
+  },
+  {
+   "ts": "2026-09-17T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92952 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-92952 📢 Source: VulnCheck 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True vm2 versions 3.11.4 through 3.11.6 incompletely filter Node.js registered internal symbol",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92952",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92952:2026-09-17T14:19"
+  },
+  {
+   "ts": "2026-09-17T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92951 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-92951 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True vm2 before 3.11.7 contains an incorrect authorization vulnerability in the external p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92951",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92951:2026-09-17T14:19"
+  },
+  {
+   "ts": "2026-09-17T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92950 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-92950 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False vm2 before 3.11.7 contains a sandbox escape vulnerability in the CLI tool that allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92950",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92950:2026-09-17T14:19"
+  },
+  {
+   "ts": "2026-09-17T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92947 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-92947 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True vm2 before 3.11.7 exposes Node's shared Buffer pool to sandboxed code, allowing disclo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92947",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92947:2026-09-17T14:19"
+  },
+  {
+   "ts": "2026-09-17T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92946 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-92946 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True vm2 before 3.11.7 contains a remote code execution vulnerability when require.external",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92946",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92946:2026-09-17T14:19"
+  },
+  {
+   "ts": "2026-09-17T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92944 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-92944 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True vm2 versions 3.10.2 through 3.11.6 contain a sandbox escape vulnerability on Node.js ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92944",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92944:2026-09-17T14:19"
+  },
+  {
+   "ts": "2026-09-17T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92941 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-92941 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True vm2 versions from 3.11.3 before 3.11.7 expose the host tls module to NodeVM sandbox co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92941",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92941:2026-09-17T14:19"
+  },
+  {
+   "ts": "2026-09-17T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92940 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-92940 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True vm2 versions 3.11.3 through 3.11.6 expose the host process's real https.globalAgent to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92940",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92940:2026-09-17T14:19"
+  },
+  {
+   "ts": "2026-09-17T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92939 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-92939 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True vm2 3.11.3 through 3.11.6 exposes the host Node.js crypto module to a NodeVM sandbox ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92939",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92939:2026-09-17T14:19"
+  },
+  {
+   "ts": "2026-09-17T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92938 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-92938 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True vm2 versions 3.11.3 through 3.11.6 expose Node.js's host node:sqlite module to code r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92938",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92938:2026-09-17T14:19"
+  },
+  {
+   "ts": "2026-09-17T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92937 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-92937 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True vm2 3.11.6 is vulnerable to a sandbox escape leading to remote code execution in the h",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92937",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92937:2026-09-17T14:19"
+  },
   {
    "ts": "2026-09-17T13:49:07+00:00",
    "level": "general",
@@ -361,146 +501,6 @@
    "link": "https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion",
    "source": "Lemmy · technology",
    "id": "community:https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Garbage Trucks Now Have AI Cameras To Score Your House and C",
-   "body": "Lemmy · technology · 점수 288",
-   "link": "https://www.thedrive.com/news/garbage-trucks-now-have-ai-cameras-to-score-your-house-and-clock-code-violations",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.thedrive.com/news/garbage-trucks-now-have-ai-cameras-to-score-your-house-and-clock-code-violations:2026-09-17T11:49"
-  },
-  {
-   "ts": "2026-09-17T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92903 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-92903 📢 Source: SNOWFLAKE 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Improper input validation in Snowflake CLI versions prior to 3.27.0 allowed unsanitized ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92903",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92903:2026-09-17T11:19"
-  },
-  {
-   "ts": "2026-09-17T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81474 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-81474 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell OpenManage Server Administrator, versions prior to 11.1.0.3 , contains a Heap-based Buff",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81474",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81474:2026-09-17T11:19"
-  },
-  {
-   "ts": "2026-09-17T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66269 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-66269 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Server Administrator, versions prior to 11.1.0.3 , contains a Use of Externall",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66269",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66269:2026-09-17T10:49"
-  },
-  {
-   "ts": "2026-09-17T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78425 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-78425 📢 Source: suse 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Authorised users of outside applications behind the same corporate identity provider (IdP), fo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78425",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78425:2026-09-17T09:49"
-  },
-  {
-   "ts": "2026-09-17T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78428 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-78428 📢 Source: suse 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True For users authenticated through SAML or OpenID Connect (OIDC), this vulnerability can result in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78428",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78428:2026-09-17T09:49"
-  },
-  {
-   "ts": "2026-09-17T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-50610 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-50610 📢 Source: Acer 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False A vulnerability has been identified in the Acer System Monitoring component included with Nit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-50610",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-50610:2026-09-17T08:49"
-  },
-  {
-   "ts": "2026-09-17T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-50609 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-50609 📢 Source: Acer 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False A vulnerability has been identified in the Acer System Monitoring component included with Nit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-50609",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-50609:2026-09-17T08:49"
-  },
-  {
-   "ts": "2026-09-17T08:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-15688 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-15688 📢 Source: Mitsubishi 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: False Incorrect Implementation of Authentication Algorithm Vulnerability in Mitsubishi El",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15688",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15688:2026-09-17T08:49"
-  },
-  {
-   "ts": "2026-09-17T08:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-50605 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-50605 📢 Source: Acer 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False A vulnerability has been identified in the Acer Agent Service component included with NitroSe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-50605",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-50605:2026-09-17T08:19"
-  },
-  {
-   "ts": "2026-09-17T07:49:20+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86320 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-86320 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in flatpak-builder where Git hooks are not disabled when applying patch so",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86320",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86320:2026-09-17T07:49"
-  },
-  {
-   "ts": "2026-09-17T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-25294 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-25294 📢 Source: qualcomm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Transient DOS while parsing frame during channel usage. 📅 Published Date: 2026-09-17T04:1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25294",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25294:2026-09-17T04:49"
-  },
-  {
-   "ts": "2026-09-17T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-25290 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-25290 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when validating large data buffers from external sources using addition",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25290",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25290:2026-09-17T04:49"
-  },
-  {
-   "ts": "2026-09-17T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-25284 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-25284 📢 Source: qualcomm 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Information Disclosure when a pointer is reused after being deallocated. 📅 Published Date",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25284",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25284:2026-09-17T04:49"
   }
  ]
 }
