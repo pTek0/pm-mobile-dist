@@ -1,7 +1,147 @@
 {
- "generated_at": "2026-09-17T04:19:07+00:00",
+ "generated_at": "2026-09-17T04:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25294 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-25294 📢 Source: qualcomm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Transient DOS while parsing frame during channel usage. 📅 Published Date: 2026-09-17T04:1",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25294",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25294:2026-09-17T04:49"
+  },
+  {
+   "ts": "2026-09-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25290 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-25290 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when validating large data buffers from external sources using addition",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25290",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25290:2026-09-17T04:49"
+  },
+  {
+   "ts": "2026-09-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25284 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-25284 📢 Source: qualcomm 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Information Disclosure when a pointer is reused after being deallocated. 📅 Published Date",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25284",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25284:2026-09-17T04:49"
+  },
+  {
+   "ts": "2026-09-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25283 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-25283 📢 Source: qualcomm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when copying unverified data from an external source exceeds the alloca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25283",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25283:2026-09-17T04:49"
+  },
+  {
+   "ts": "2026-09-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25282 (CVSS 7.9)",
+   "body": "🚨 CVE-2026-25282 📢 Source: qualcomm 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: False Transient DOS when processing unverified data from a neighboring system causes out of bou",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25282",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25282:2026-09-17T04:49"
+  },
+  {
+   "ts": "2026-09-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25281 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-25281 📢 Source: qualcomm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Transient DOS when processing large or numerous request buffers without sufficient memory",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25281",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25281:2026-09-17T04:49"
+  },
+  {
+   "ts": "2026-09-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25280 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-25280 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory corruption when processing escape handling flow with insufficient user buffer size",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25280",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25280:2026-09-17T04:49"
+  },
+  {
+   "ts": "2026-09-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25278 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-25278 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when processing I2C transfer requests due to a race condition between m",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25278",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25278:2026-09-17T04:49"
+  },
+  {
+   "ts": "2026-09-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25275 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-25275 📢 Source: qualcomm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Transient DOS when processing authentication frames with invalid FILS information element ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25275",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25275:2026-09-17T04:49"
+  },
+  {
+   "ts": "2026-09-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-24081 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-24081 📢 Source: qualcomm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Transient DOS when processing a channel map with insufficient used channels and adaptive ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24081",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24081:2026-09-17T04:49"
+  },
+  {
+   "ts": "2026-09-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-24075 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-24075 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when multiple threads issue concurrent IOCTL requests to the device con",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24075",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24075:2026-09-17T04:49"
+  },
+  {
+   "ts": "2026-09-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-24074 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-24074 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when processing data with large offset and length values exceeds buffer",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24074",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24074:2026-09-17T04:49"
+  },
+  {
+   "ts": "2026-09-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-24073 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-24073 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory corruption when processing decode statistics due to insufficient validation of off",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24073",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24073:2026-09-17T04:49"
+  },
+  {
+   "ts": "2026-09-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-59607 (CVSS 7.8)",
+   "body": "🚨 CVE-2025-59607 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when copying large input data exceeds normal allocation limits. 📅 Publi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-59607",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-59607:2026-09-17T04:49"
+  },
   {
    "ts": "2026-09-17T02:19:06+00:00",
    "level": "general",
@@ -361,146 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92751",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92751:2026-09-16T20:49"
-  },
-  {
-   "ts": "2026-09-16T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92750 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-92750 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Harness through 3.3.0 omits access control validation in the infrastructure provider read",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92750",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92750:2026-09-16T20:49"
-  },
-  {
-   "ts": "2026-09-16T20:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92749 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-92749 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True SafeLine through 9.4.1 derives the management console session-signing secret from a t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92749",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92749:2026-09-16T20:49"
-  },
-  {
-   "ts": "2026-09-16T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92748 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-92748 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True BC Security Empire before 6.7.1 fails to validate the multipart filename parameter in upl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92748",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92748:2026-09-16T20:49"
-  },
-  {
-   "ts": "2026-09-16T20:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92808 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-92808 📢 Source: Altium 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True A server-side request forgery (SSRF) vulnerability exists in the UnifiedLogin service of ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92808",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92808:2026-09-16T20:19"
-  },
-  {
-   "ts": "2026-09-16T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87976 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-87976 📢 Source: apache 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Apache NiFi Registry 0.4.0 through 2.11.0 are subject to path manipulation when storing exte",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87976",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87976:2026-09-16T19:49"
-  },
-  {
-   "ts": "2026-09-16T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73462 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-73462 📢 Source: Arista 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False On affected platforms running Arista EOS with IGMP (Internet Group Management Protocol) sno",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73462",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73462:2026-09-16T19:19"
-  },
-  {
-   "ts": "2026-09-16T19:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73456 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-73456 📢 Source: Arista 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Under certain circumstances on affected platforms running Arista EOS with gRPC Network Pa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73456",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73456:2026-09-16T19:19"
-  },
-  {
-   "ts": "2026-09-16T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91102 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-91102 📢 Source: hp 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91102",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91102:2026-09-16T19:19"
-  },
-  {
-   "ts": "2026-09-16T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91098 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-91098 📢 Source: hp 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91098",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91098:2026-09-16T19:19"
-  },
-  {
-   "ts": "2026-09-16T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91097 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-91097 📢 Source: hp 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The fi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91097",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91097:2026-09-16T19:19"
-  },
-  {
-   "ts": "2026-09-16T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92729 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-92729 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SigNoz versions 0.88.0 through 0.141.0 fail to apply authorization wrappers to trace-funn",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92729",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92729:2026-09-16T18:49"
-  },
-  {
-   "ts": "2026-09-16T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-47094 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-47094 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SIMAC MyPHR 1.1 contains an insecure direct object reference (IDOR) vulnerability that al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47094",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47094:2026-09-16T17:49"
-  },
-  {
-   "ts": "2026-09-16T17:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92720 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-92720 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Kubero through 3.1.1 fails to apply authentication guards to the notifications API en",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92720",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92720:2026-09-16T17:49"
-  },
-  {
-   "ts": "2026-09-16T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92719 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-92719 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Quickwit through 0.9.0 fails to validate the host and scheme of the queue_url parameter i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92719",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92719:2026-09-16T17:49"
   }
  ]
 }
