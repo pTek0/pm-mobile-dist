@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-18T05:19:08+00:00",
+ "generated_at": "2026-09-18T05:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T05:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18912 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-18912 📢 Source: Zohocorp 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True ManageEngine DataSecurity Plus versions before 6310 are vulnerable to an authenticated SQL",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18912",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18912:2026-09-18T05:49"
+  },
+  {
+   "ts": "2026-09-18T05:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18911 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-18911 📢 Source: Zohocorp 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True ManageEngine DataSecurity Plus versions before 6310 are vulnerable to an agent authenticat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18911",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18911:2026-09-18T05:49"
+  },
   {
    "ts": "2026-09-18T02:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93337",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93337:2026-09-17T19:49"
-  },
-  {
-   "ts": "2026-09-17T19:49:26+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92943 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-92943 📢 Source: AMZN 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Improper validation of certificate with host mismatch in the MQTT client TLS connection la",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92943",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92943:2026-09-17T19:49"
-  },
-  {
-   "ts": "2026-09-17T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-90997 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-90997 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Keycloak. When deployed in stateless mode with MySQL or MariaDB, a misma",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90997",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90997:2026-09-17T19:19"
   }
  ]
 }
