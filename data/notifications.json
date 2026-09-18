@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-18T21:49:07+00:00",
+ "generated_at": "2026-09-18T22:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T22:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75885 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-75885 📢 Source: redhat 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in the OpenShift console. Unauthenticated access to the `/api/devfile/`",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75885",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75885:2026-09-18T22:19"
+  },
   {
    "ts": "2026-09-18T21:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-10853",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10853:2026-09-18T16:19"
-  },
-  {
-   "ts": "2026-09-18T15:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2025-15399 (CVSS 10.0)",
-   "body": "🚨 CVE-2025-15399 📢 Source: ibm 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True IBM Common Licensing Agent 9.0, Agent 9.0.0.1 , Agent 9.0.0.2 , ART 9.0, ART 9.0.0.1 , and A",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-15399",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-15399:2026-09-18T15:49"
   }
  ]
 }
