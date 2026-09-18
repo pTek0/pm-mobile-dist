@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-18T12:49:08+00:00",
+ "generated_at": "2026-09-18T13:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93491 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-93491 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Netty's HttpServerCodec. A remote, unauthenticated attacker can exploit ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93491",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93491:2026-09-18T13:19"
+  },
   {
    "ts": "2026-09-18T12:19:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
    "source": "Hacker News",
    "id": "community:https://global.fujitsu/en-global/pr/news/2026/09/14-02:2026-09-18T00:19"
-  },
-  {
-   "ts": "2026-09-18T00:19:57+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Hister: A private search engine for the pages you visit and ",
-   "body": "Hacker News · 점수 387",
-   "link": "https://github.com/asciimoo/hister",
-   "source": "Hacker News",
-   "id": "community:https://github.com/asciimoo/hister:2026-09-18T00:19"
   }
  ]
 }
