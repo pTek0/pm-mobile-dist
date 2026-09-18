@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-09-18T13:19:08+00:00",
+ "generated_at": "2026-09-18T13:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93604 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-93604 📢 Source: VulnCheck 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True vm2 through 3.12.0 exposes Node.js's crypto.setFips() function to untrusted guest code wh",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93604",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93604:2026-09-18T13:49"
+  },
+  {
+   "ts": "2026-09-18T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-93603 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-93603 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True vm2 through 3.12.0 (fixed in 3.12.1) does not correctly handle a nullish `this` receiv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93603",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93603:2026-09-18T13:49"
+  },
+  {
+   "ts": "2026-09-18T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93599 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93599 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True rustls-webpki through 0.103.12 (and 0.104.0-alpha releases before 0.104.0-alpha.7) contai",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93599",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93599:2026-09-18T13:49"
+  },
+  {
+   "ts": "2026-09-18T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93598 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-93598 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ArcadeDB (Maven artifact com.arcadedb:arcadedb-engine) through 26.8.1 contains an incompl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93598",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93598:2026-09-18T13:49"
+  },
+  {
+   "ts": "2026-09-18T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93597 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-93597 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True ArcadeDB versions before 26.9.1 fail to validate IPv6 transition addresses in the SSRF gu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93597",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93597:2026-09-18T13:49"
+  },
+  {
+   "ts": "2026-09-18T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93595 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-93595 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ArcadeDB before 26.9.1 contains an access control bypass vulnerability in the query_datab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93595",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93595:2026-09-18T13:49"
+  },
+  {
+   "ts": "2026-09-18T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93594 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-93594 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True ArcadeDB (Maven artifact com.arcadedb:arcadedb-engine) through 26.8.1 enforces its per-ty",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93594",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93594:2026-09-18T13:49"
+  },
+  {
+   "ts": "2026-09-18T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93593 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-93593 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True ArcadeDB before 26.9.1 fails to enforce security-group types ACL entries for TimeSeries t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93593",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93593:2026-09-18T13:49"
+  },
+  {
+   "ts": "2026-09-18T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93592 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93592 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True vLLM versions before 0.28.0 fail to validate the lower bound of token IDs in the /v1/embe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93592",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93592:2026-09-18T13:49"
+  },
+  {
+   "ts": "2026-09-18T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93591 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-93591 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True SiYuan versions before 3.8.3 contain an SQL injection vulnerability in the graph.go query",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93591",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93591:2026-09-18T13:49"
+  },
   {
    "ts": "2026-09-18T13:19:07+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
    "source": "Hacker News",
    "id": "community:https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities:2026-09-18T01:19"
-  },
-  {
-   "ts": "2026-09-18T01:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Signal Enables Phone Number-less Registration in Beta",
-   "body": "Lemmy · technology · 점수 101",
-   "link": "https://www.privacyguides.org/news/2026/09/16/signal-enables-phone-number-less-registration-in-beta/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.privacyguides.org/news/2026/09/16/signal-enables-phone-number-less-registration-in-beta/:2026-09-18T01:19"
-  },
-  {
-   "ts": "2026-09-18T01:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AWS says it can’t restore service to Bahrain, UAE facilities",
-   "body": "Lemmy · technology · 점수 70",
-   "link": "https://www.cnbc.com/2026/09/15/aws-cant-restore-service-to-bahrain-uae-6-months-after-iran-strikes.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.cnbc.com/2026/09/15/aws-cant-restore-service-to-bahrain-uae-6-months-after-iran-strikes.html:2026-09-18T01:19"
-  },
-  {
-   "ts": "2026-09-18T01:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] FCC ISM Rules May Shatter Lora Mesh Communities",
-   "body": "Lemmy · technology · 점수 70",
-   "link": "https://hackaday.com/2026/09/17/fcc-ism-rules-may-shatter-lora-mesh-communities/",
-   "source": "Lemmy · technology",
-   "id": "community:https://hackaday.com/2026/09/17/fcc-ism-rules-may-shatter-lora-mesh-communities/:2026-09-18T01:19"
-  },
-  {
-   "ts": "2026-09-18T01:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I expected better from Google",
-   "body": "Lobsters · 점수 62",
-   "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
-   "source": "Lobsters",
-   "id": "community:https://www.minitap.ai/blog/i-expected-better-from-google:2026-09-18T01:19"
-  },
-  {
-   "ts": "2026-09-18T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Grandmother jailed for six months after facial recognition m",
-   "body": "Lemmy · technology · 점수 221",
-   "link": "https://www.techspot.com/news/113883-grandmother-jailed-after-facial-recognition-mistake-launches-10.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.techspot.com/news/113883-grandmother-jailed-after-facial-recognition-mistake-launches-10.html:2026-09-18T00:49"
-  },
-  {
-   "ts": "2026-09-18T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Astra for Law",
-   "body": "Hacker News · 점수 196",
-   "link": "https://openai.com/index/astra-for-law/",
-   "source": "Hacker News",
-   "id": "community:https://openai.com/index/astra-for-law/:2026-09-18T00:49"
-  },
-  {
-   "ts": "2026-09-18T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Bend – A language that blocks AI mistakes via proof, on CPU ",
-   "body": "Hacker News · 점수 185",
-   "link": "https://bend-lang.com/",
-   "source": "Hacker News",
-   "id": "community:https://bend-lang.com/:2026-09-18T00:49"
-  },
-  {
-   "ts": "2026-09-18T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Why I didn’t sign the Fields medallists’ letter",
-   "body": "Hacker News · 점수 184",
-   "link": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-   "source": "Hacker News",
-   "id": "community:https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/:2026-09-18T00:49"
-  },
-  {
-   "ts": "2026-09-18T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] We Regret to Inform You Chipotle Is Now Working With Palanti",
-   "body": "Lemmy · technology · 점수 175",
-   "link": "https://newrepublic.com/post/215501/chipotle-palantir",
-   "source": "Lemmy · technology",
-   "id": "community:https://newrepublic.com/post/215501/chipotle-palantir:2026-09-18T00:49"
-  },
-  {
-   "ts": "2026-09-18T00:19:57+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fujitsu launches made-in-Japan next-generation CPU FUJITSU-M",
-   "body": "Hacker News · 점수 473",
-   "link": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-   "source": "Hacker News",
-   "id": "community:https://global.fujitsu/en-global/pr/news/2026/09/14-02:2026-09-18T00:19"
   }
  ]
 }
