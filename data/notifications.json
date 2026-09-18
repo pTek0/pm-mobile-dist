@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-18T08:19:10+00:00",
+ "generated_at": "2026-09-18T08:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-40539 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-40539 📢 Source: synology 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An improper certificate validation vulnerability in Email API in Synology DiskStation Man",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40539",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40539:2026-09-18T08:49"
+  },
+  {
+   "ts": "2026-09-18T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-40530 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-40530 📢 Source: synology 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True An improper neutralization of CRLF sequences ('CRLF injection') vulnerability in User API in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40530",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40530:2026-09-18T08:49"
+  },
+  {
+   "ts": "2026-09-18T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-13684 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-13684 📢 Source: synology 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An improper encoding or escaping of output vulnerability in SCGI in Synology DiskStati",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13684",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13684:2026-09-18T08:49"
+  },
+  {
+   "ts": "2026-09-18T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13673 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-13673 📢 Source: synology 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An incorrect permission assignment for critical resource vulnerability in LDAP API in Syno",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13673",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13673:2026-09-18T08:49"
+  },
+  {
+   "ts": "2026-09-18T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-13639 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-13639 📢 Source: synology 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An insufficient entropy vulnerability in login logic in Synology DiskStation Manager (",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13639",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13639:2026-09-18T08:49"
+  },
   {
    "ts": "2026-09-18T08:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77903",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77903:2026-09-17T23:24"
-  },
-  {
-   "ts": "2026-09-17T23:24:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-70200 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-70200 📢 Source: microsoft 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-17T22:55:58.067Z https://cvefeed.io/vuln/detail/CVE-20",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70200",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70200:2026-09-17T23:24"
-  },
-  {
-   "ts": "2026-09-17T23:24:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-70009 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-70009 📢 Source: microsoft 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-17T22:55:53.056Z https://cvefeed.io/vuln/detail/CVE-2",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70009",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70009:2026-09-17T23:24"
-  },
-  {
-   "ts": "2026-09-17T23:24:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-69865 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-69865 📢 Source: microsoft 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-17T22:55:53.514Z https://cvefeed.io/vuln/detail/CVE-20",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69865",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69865:2026-09-17T23:24"
-  },
-  {
-   "ts": "2026-09-17T23:24:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-69399 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-69399 📢 Source: microsoft 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-17T22:55:54.666Z https://cvefeed.io/vuln/detail/CVE-20",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69399",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69399:2026-09-17T23:24"
-  },
-  {
-   "ts": "2026-09-17T23:24:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-68791 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-68791 📢 Source: microsoft 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-17T22:55:55.200Z https://cvefeed.io/vuln/detail/CVE-2026-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68791",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68791:2026-09-17T23:24"
   }
  ]
 }
