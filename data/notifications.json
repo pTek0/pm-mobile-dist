@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-18T07:49:08+00:00",
+ "generated_at": "2026-09-18T08:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-67103 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-67103 📢 Source: HCL 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True HCL BigFix Service Management is affected by Cross-Site Scripting (XSS) vulnerability, which co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67103",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67103:2026-09-18T08:19"
+  },
+  {
+   "ts": "2026-09-18T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-67102 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-67102 📢 Source: HCL 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True HCL BigFix Service Management is affected by a high-severity Broken Access Control vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67102",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67102:2026-09-18T08:19"
+  },
+  {
+   "ts": "2026-09-18T08:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-67100 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-67100 📢 Source: HCL 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True HCL BigFix Service Management is affected by SQL Injection flaw and a Cross-Tenant Data Exp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67100",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67100:2026-09-18T08:19"
+  },
+  {
+   "ts": "2026-09-18T08:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-67101 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-67101 📢 Source: HCL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True HCL BigFix Service Management is affected by a Server-Side Request Forgery (SSRF) vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67101",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67101:2026-09-18T08:19"
+  },
+  {
+   "ts": "2026-09-18T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12384 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-12384 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Authorization bypass through User-Controlled key vulnerability in TECHIN2B TECHIN2B Applica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12384",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12384:2026-09-18T08:19"
+  },
   {
    "ts": "2026-09-18T07:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-68791",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68791:2026-09-17T23:24"
-  },
-  {
-   "ts": "2026-09-17T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93436 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93436 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True vLLM through 0.29.0 fails to properly clean up decode-side metadata for rejected inferenc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93436",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93436:2026-09-17T22:49"
-  },
-  {
-   "ts": "2026-09-17T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93435 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93435 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True redis-parser through 3.0.0 contains a denial of service vulnerability in the RESP protoco",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93435",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93435:2026-09-17T22:49"
-  },
-  {
-   "ts": "2026-09-17T22:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86688 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-86688 📢 Source: EEF 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Session Fixation vulnerability in team-alembic ash_authentication allows an attacker who can pl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86688",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86688:2026-09-17T22:19"
-  },
-  {
-   "ts": "2026-09-17T21:49:51+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93426 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-93426 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True SigNoz versions 0.87.0 before 0.142.0 fail to escape user-supplied telemetry field-key na",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93426",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93426:2026-09-17T21:49"
-  },
-  {
-   "ts": "2026-09-17T20:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-93393 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-93393 📢 Source: mongodb 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True A heap-based buffer overflow exists in the TLS transport layer of the MongoDB C Driver ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93393",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93393:2026-09-17T20:49"
   }
  ]
 }
