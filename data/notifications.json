@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-18T01:19:08+00:00",
+ "generated_at": "2026-09-18T01:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93456 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-93456 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True django-page-cms through 2.0.13 exempts five admin mutation views from CSRF protection in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93456",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93456:2026-09-18T01:49"
+  },
+  {
+   "ts": "2026-09-18T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93455 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-93455 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True django-page-cms through 2.0.13 fails to properly validate page permissions in admin helpe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93455",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93455:2026-09-18T01:49"
+  },
+  {
+   "ts": "2026-09-18T01:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I Don't Like LLMs",
+   "body": "Lobsters · 점수 50",
+   "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+   "source": "Lobsters",
+   "id": "community:https://martinfowler.com/articles/2026-dont-like-llms.html:2026-09-18T01:49"
+  },
   {
    "ts": "2026-09-18T01:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93292",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93292:2026-09-17T16:49"
-  },
-  {
-   "ts": "2026-09-17T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-28326 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-28326 📢 Source: SolarWinds 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False SolarWinds Access Rights Manager was reported to be affected by an unauthenticated remo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-28326",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-28326:2026-09-17T16:49"
-  },
-  {
-   "ts": "2026-09-17T16:19:23+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-89036 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-89036 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Appwrite before 2.0.0 contains an argument injection vulnerability that allows authentica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89036",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89036:2026-09-17T16:19"
-  },
-  {
-   "ts": "2026-09-17T15:51:19+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-86863 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-86863 📢 Source: PostgreSQL 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True pgAdmin 4's Webserver authentication source is intended to accept an identity assert",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86863",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86863:2026-09-17T15:51"
   }
  ]
 }
