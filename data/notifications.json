@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-18T20:49:07+00:00",
+ "generated_at": "2026-09-18T21:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T21:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88097 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-88097 📢 Source: microsoft 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-18T20:47:05.350Z https://cvefeed.io/vuln/detail/CVE-2026-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88097",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88097:2026-09-18T21:19"
+  },
   {
    "ts": "2026-09-18T20:19:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2025-15399",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-15399:2026-09-18T15:49"
-  },
-  {
-   "ts": "2026-09-18T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-14754 (CVSS 8.8)",
-   "body": "🚨 CVE-2025-14754 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Cloud Pak for Data 5.1.2 could allow an authenticated user to execute arbitrary commands wi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-14754",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-14754:2026-09-18T15:49"
   }
  ]
 }
