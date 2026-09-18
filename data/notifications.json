@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-09-18T14:19:08+00:00",
+ "generated_at": "2026-09-18T14:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93652 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-93652 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Integer overflow in µD3TN v0.15.0 TCPCLv3 handshake causes heap overflow, allowing remote at",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93652",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93652:2026-09-18T14:49"
+  },
+  {
+   "ts": "2026-09-18T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93576 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-93576 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Netty netty-codec-smtp — SMTP command-name field is not CRLF-validated (incomplete fix of CV",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93576",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93576:2026-09-18T14:49"
+  },
+  {
+   "ts": "2026-09-18T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93568 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-93568 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True HTTP/2 and HTTP/3 Extended CONNECT requests are downgraded as regular CONNECT requests 📅 Pub",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93568",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93568:2026-09-18T14:49"
+  },
+  {
+   "ts": "2026-09-18T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93660 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-93660 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True SQLBot through 1.10.1 fails to verify dashboard ownership in update_resource and update_c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93660",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93660:2026-09-18T14:49"
+  },
+  {
+   "ts": "2026-09-18T14:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-93659 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-93659 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Concrete CMS Community Store before 2.7.8 renders customer-supplied order fields with",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93659",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93659:2026-09-18T14:49"
+  },
+  {
+   "ts": "2026-09-18T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93658 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-93658 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False uutils coreutils versions before 0.10.0 apply setuid or setgid mode to install destinati",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93658",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93658:2026-09-18T14:49"
+  },
+  {
+   "ts": "2026-09-18T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93657 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93657 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True hickory-resolver versions before 0.26.2 fail to propagate bogus DNSSEC proof states throu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93657",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93657:2026-09-18T14:49"
+  },
+  {
+   "ts": "2026-09-18T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93569 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-93569 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True HTTP/1 absolute-form Host mismatch is translated to HTTP/2 :authority, overriding the reques",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93569",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93569:2026-09-18T14:49"
+  },
+  {
+   "ts": "2026-09-18T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93567 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-93567 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True HTTP/1 authority-form CONNECT is translated to malformed HTTP/2 CONNECT with Host-controlled",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93567",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93567:2026-09-18T14:49"
+  },
+  {
+   "ts": "2026-09-18T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77929 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-77929 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ClipBucket v5 before 5.5.3-#182 contains a file upload vulnerability that allows authenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77929",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77929:2026-09-18T14:49"
+  },
   {
    "ts": "2026-09-18T14:19:07+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-67101",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67101:2026-09-18T08:19"
-  },
-  {
-   "ts": "2026-09-18T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12384 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-12384 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Authorization bypass through User-Controlled key vulnerability in TECHIN2B TECHIN2B Applica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12384",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12384:2026-09-18T08:19"
-  },
-  {
-   "ts": "2026-09-18T07:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-89059 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-89059 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in RESTEasy's IIOImageProvider, which decodes attacker-supplied image reque",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89059",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89059:2026-09-18T07:49"
-  },
-  {
-   "ts": "2026-09-18T05:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18912 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-18912 📢 Source: Zohocorp 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True ManageEngine DataSecurity Plus versions before 6310 are vulnerable to an authenticated SQL",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18912",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18912:2026-09-18T05:49"
-  },
-  {
-   "ts": "2026-09-18T05:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18911 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-18911 📢 Source: Zohocorp 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True ManageEngine DataSecurity Plus versions before 6310 are vulnerable to an agent authenticat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18911",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18911:2026-09-18T05:49"
-  },
-  {
-   "ts": "2026-09-18T02:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93468 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93468 📢 Source: twcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The OAKlouds developed by HGiga has an Arbitrary File Read vulnerability. Unauthenticated re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93468",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93468:2026-09-18T02:49"
-  },
-  {
-   "ts": "2026-09-18T02:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-93467 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-93467 📢 Source: twcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The OAKlouds developed by HGiga has a Insecure Deserialization vulnerability. Unauthenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93467",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93467:2026-09-18T02:49"
-  },
-  {
-   "ts": "2026-09-18T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93456 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-93456 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True django-page-cms through 2.0.13 exempts five admin mutation views from CSRF protection in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93456",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93456:2026-09-18T01:49"
-  },
-  {
-   "ts": "2026-09-18T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93455 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-93455 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True django-page-cms through 2.0.13 fails to properly validate page permissions in admin helpe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93455",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93455:2026-09-18T01:49"
-  },
-  {
-   "ts": "2026-09-18T01:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I Don't Like LLMs",
-   "body": "Lobsters · 점수 50",
-   "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-   "source": "Lobsters",
-   "id": "community:https://martinfowler.com/articles/2026-dont-like-llms.html:2026-09-18T01:49"
-  },
-  {
-   "ts": "2026-09-18T01:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79954 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-79954 📢 Source: Fluid Attacks 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True NASA CryptoLib 1.5.0 contains an authentication downgrade vulnerability in the Teleco",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79954",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79954:2026-09-18T01:19"
   }
  ]
 }
