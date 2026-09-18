@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-18T23:19:07+00:00",
+ "generated_at": "2026-09-18T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T23:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93923 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-93923 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SiYuan through 3.8.4 fails to escape heading style attributes when rendering outline and ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93923",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93923:2026-09-18T23:49"
+  },
+  {
+   "ts": "2026-09-18T23:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93922 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-93922 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SiYuan through 3.8.4 renders notebook names as raw HTML in the Daily Note picker dialog w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93922",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93922:2026-09-18T23:49"
+  },
+  {
+   "ts": "2026-09-18T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Claude Code now reads AGENTS.md if there is no Claude.md",
+   "body": "Hacker News · 점수 286",
+   "link": "https://code.claude.com/docs/en/changelog",
+   "source": "Hacker News",
+   "id": "community:https://code.claude.com/docs/en/changelog:2026-09-18T23:49"
+  },
+  {
+   "ts": "2026-09-18T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Inside ZCode: Silently uploading your Git history to the clo",
+   "body": "Hacker News · 점수 237",
+   "link": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+   "source": "Hacker News",
+   "id": "community:https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/:2026-09-18T23:49"
+  },
+  {
+   "ts": "2026-09-18T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Korea raises data breach fines to 10% of revenue",
+   "body": "Hacker News · 점수 220",
+   "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+   "source": "Hacker News",
+   "id": "community:https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899:2026-09-18T23:49"
+  },
+  {
+   "ts": "2026-09-18T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I vibed a proof of Conway's conjecture",
+   "body": "Hacker News · 점수 197",
+   "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+   "source": "Hacker News",
+   "id": "community:https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/:2026-09-18T23:49"
+  },
+  {
+   "ts": "2026-09-18T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Border agents can search cellphones without a warrant or rea",
+   "body": "Hacker News · 점수 169",
+   "link": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+   "source": "Hacker News",
+   "id": "community:https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/:2026-09-18T23:49"
+  },
   {
    "ts": "2026-09-18T23:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93762",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93762:2026-09-18T17:49"
-  },
-  {
-   "ts": "2026-09-18T17:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-93765 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-93765 📢 Source: mongodb 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Mongoid contains an unsafe reflection weakness in the document persistence layer of its",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93765",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93765:2026-09-18T17:19"
-  },
-  {
-   "ts": "2026-09-18T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93758 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-93758 📢 Source: mongodb 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An insecure direct object reference in the nested attributes handling of the Mongoid object",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93758",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93758:2026-09-18T17:19"
-  },
-  {
-   "ts": "2026-09-18T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91149 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-91149 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Cockpit. An unauthenticated remote attacker can exploit this vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91149",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91149:2026-09-18T16:49"
-  },
-  {
-   "ts": "2026-09-18T16:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85497 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-85497 📢 Source: icscert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True CareCam CM2507 IP cameras store the device's root-account password using a fixed legacy",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85497",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85497:2026-09-18T16:49"
-  },
-  {
-   "ts": "2026-09-18T16:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-81321 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-81321 📢 Source: icscert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True CM2507 IP cameras store configured wireless network credentials in cleartext within the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81321",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81321:2026-09-18T16:49"
-  },
-  {
-   "ts": "2026-09-18T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84398 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-84398 📢 Source: icscert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True CM2507 IP cameras accept an empty password for a privileged account exposed through its ONV",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84398",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84398:2026-09-18T16:19"
-  },
-  {
-   "ts": "2026-09-18T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81305 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-81305 📢 Source: icscert 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False CM2507 IP cameras automatically execute a predetermined script from removable media without ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81305",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81305:2026-09-18T16:19"
   }
  ]
 }
