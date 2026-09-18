@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-18T15:49:09+00:00",
+ "generated_at": "2026-09-18T16:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84398 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-84398 📢 Source: icscert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True CM2507 IP cameras accept an empty password for a privileged account exposed through its ONV",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84398",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84398:2026-09-18T16:19"
+  },
+  {
+   "ts": "2026-09-18T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81305 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-81305 📢 Source: icscert 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False CM2507 IP cameras automatically execute a predetermined script from removable media without ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81305",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81305:2026-09-18T16:19"
+  },
+  {
+   "ts": "2026-09-18T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-11381 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-11381 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM MQ could allow an authenticated attacker to cause a denial of service or potentially execut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-11381",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-11381:2026-09-18T16:19"
+  },
+  {
+   "ts": "2026-09-18T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-11378 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-11378 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM MQ could allow an authenticated attacker to cause a denial of service or potentially execut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-11378",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-11378:2026-09-18T16:19"
+  },
+  {
+   "ts": "2026-09-18T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-11375 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-11375 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM MQ could allow an authenticated attacker to cause a denial of service or potentially execut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-11375",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-11375:2026-09-18T16:19"
+  },
+  {
+   "ts": "2026-09-18T16:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-10858 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-10858 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM MQ for HPE NonStop 8.1.0 through 8.1.0.40 could allow an authenticated attacker to caus",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10858",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10858:2026-09-18T16:19"
+  },
+  {
+   "ts": "2026-09-18T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10853 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-10853 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM MQ could allow an authenticated attacker with cluster access to cause a denial of service o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10853",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10853:2026-09-18T16:19"
+  },
   {
    "ts": "2026-09-18T15:49:06+00:00",
    "level": "important",
@@ -431,76 +501,6 @@
    "link": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
    "source": "Lemmy · technology",
    "id": "community:https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/:2026-09-18T11:19"
-  },
-  {
-   "ts": "2026-09-18T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Wax motor",
-   "body": "Hacker News · 점수 419",
-   "link": "https://en.wikipedia.org/wiki/Wax_motor",
-   "source": "Hacker News",
-   "id": "community:https://en.wikipedia.org/wiki/Wax_motor:2026-09-18T11:19"
-  },
-  {
-   "ts": "2026-09-18T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A heap overflow and SSO misconfiguration to compromise OpenA",
-   "body": "Hacker News · 점수 364",
-   "link": "https://www.hacktron.ai/blog/hacking-openai",
-   "source": "Hacker News",
-   "id": "community:https://www.hacktron.ai/blog/hacking-openai:2026-09-18T11:19"
-  },
-  {
-   "ts": "2026-09-18T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] People Are Pissed Off and Ready to Own Their Shit",
-   "body": "Lemmy · technology · 점수 232",
-   "link": "https://www.wired.com/story/people-are-pissed-off-and-ready-to-own-their-shit/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.wired.com/story/people-are-pissed-off-and-ready-to-own-their-shit/:2026-09-18T11:19"
-  },
-  {
-   "ts": "2026-09-18T09:49:16+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87743 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-87743 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Quarkus HTTP security. An unauthenticated attacker can exploit a discrep",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87743",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87743:2026-09-18T09:49"
-  },
-  {
-   "ts": "2026-09-18T09:49:16+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15579 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-15579 📢 Source: Moxa 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An out-of-bounds write vulnerability exists in some of the Ethernet switches because of improp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15579",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15579:2026-09-18T09:49"
-  },
-  {
-   "ts": "2026-09-18T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-40539 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-40539 📢 Source: synology 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An improper certificate validation vulnerability in Email API in Synology DiskStation Man",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40539",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40539:2026-09-18T08:49"
-  },
-  {
-   "ts": "2026-09-18T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-40530 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-40530 📢 Source: synology 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True An improper neutralization of CRLF sequences ('CRLF injection') vulnerability in User API in",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40530",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40530:2026-09-18T08:49"
   }
  ]
 }
