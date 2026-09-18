@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-18T16:19:08+00:00",
+ "generated_at": "2026-09-18T16:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91149 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-91149 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Cockpit. An unauthenticated remote attacker can exploit this vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91149",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91149:2026-09-18T16:49"
+  },
+  {
+   "ts": "2026-09-18T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85497 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-85497 📢 Source: icscert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True CareCam CM2507 IP cameras store the device's root-account password using a fixed legacy",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85497",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85497:2026-09-18T16:49"
+  },
+  {
+   "ts": "2026-09-18T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-81321 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-81321 📢 Source: icscert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True CM2507 IP cameras store configured wireless network credentials in cleartext within the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81321",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81321:2026-09-18T16:49"
+  },
   {
    "ts": "2026-09-18T16:19:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://futurism.com/future-society/cult-anthropic-insiders-worshipping-claude-god",
    "source": "Lemmy · technology",
    "id": "community:https://futurism.com/future-society/cult-anthropic-insiders-worshipping-claude-god:2026-09-18T11:49"
-  },
-  {
-   "ts": "2026-09-18T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Open Source Printer coming before 2027",
-   "body": "Lemmy · programming.dev · 점수 87",
-   "link": "https://www.opentools.studio/fr?=0",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.opentools.studio/fr?=0:2026-09-18T11:49"
-  },
-  {
-   "ts": "2026-09-18T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Foot",
-   "body": "Hacker News · 점수 460",
-   "link": "https://prismml.com/news/bonsai-2-27b",
-   "source": "Hacker News",
-   "id": "community:https://prismml.com/news/bonsai-2-27b:2026-09-18T11:19"
-  },
-  {
-   "ts": "2026-09-18T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] ‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying",
-   "body": "Lemmy · technology · 점수 433",
-   "link": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/:2026-09-18T11:19"
   }
  ]
 }
