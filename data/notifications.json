@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-18T02:19:07+00:00",
+ "generated_at": "2026-09-18T02:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T02:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93468 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93468 📢 Source: twcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The OAKlouds developed by HGiga has an Arbitrary File Read vulnerability. Unauthenticated re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93468",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93468:2026-09-18T02:49"
+  },
+  {
+   "ts": "2026-09-18T02:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-93467 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-93467 📢 Source: twcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The OAKlouds developed by HGiga has a Insecure Deserialization vulnerability. Unauthenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93467",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93467:2026-09-18T02:49"
+  },
   {
    "ts": "2026-09-18T01:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-90997",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90997:2026-09-17T19:19"
-  },
-  {
-   "ts": "2026-09-17T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19477 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-19477 📢 Source: NI 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False There is stack-based buffer overflow vulnerability recently discovered in MCC Universal Library",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19477",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19477:2026-09-17T19:19"
-  },
-  {
-   "ts": "2026-09-17T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93292 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-93292 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True SigNoz versions from 0.88.0 before 0.142.1 contain a SQL injection vulnerability in trace",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93292",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93292:2026-09-17T16:49"
   }
  ]
 }
