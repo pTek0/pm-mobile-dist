@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-18T15:19:08+00:00",
+ "generated_at": "2026-09-18T15:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T15:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-15399 (CVSS 10.0)",
+   "body": "🚨 CVE-2025-15399 📢 Source: ibm 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True IBM Common Licensing Agent 9.0, Agent 9.0.0.1 , Agent 9.0.0.2 , ART 9.0, ART 9.0.0.1 , and A",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-15399",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-15399:2026-09-18T15:49"
+  },
+  {
+   "ts": "2026-09-18T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-14754 (CVSS 8.8)",
+   "body": "🚨 CVE-2025-14754 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Cloud Pak for Data 5.1.2 could allow an authenticated user to execute arbitrary commands wi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-14754",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-14754:2026-09-18T15:49"
+  },
+  {
+   "ts": "2026-09-18T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-14753 (CVSS 7.5)",
+   "body": "🚨 CVE-2025-14753 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Cloud Pak for Data 5.1.2 could allow a remote attacker to traverse directories on the syste",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-14753",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-14753:2026-09-18T15:49"
+  },
+  {
+   "ts": "2026-09-18T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93690 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93690 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True uri-js through 4.4.1 contains a denial of service vulnerability in the removeDotSegments ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93690",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93690:2026-09-18T15:49"
+  },
+  {
+   "ts": "2026-09-18T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93688 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93688 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SGLang through 0.5.19 in prefill/decode disaggregation mode with Mooncake KV transfer bac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93688",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93688:2026-09-18T15:49"
+  },
+  {
+   "ts": "2026-09-18T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93687 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93687 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True braces through 3.0.3 contains a stack overflow vulnerability in the recursive AST walkers",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93687",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93687:2026-09-18T15:49"
+  },
+  {
+   "ts": "2026-09-18T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81945 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-81945 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True PLANET IGS-5225-8P2T4S industrial managed switch V1 and V2 firmware versions bfore 1.2412",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81945",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81945:2026-09-18T15:49"
+  },
   {
    "ts": "2026-09-18T14:49:08+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-40530",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40530:2026-09-18T08:49"
-  },
-  {
-   "ts": "2026-09-18T08:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-13684 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-13684 📢 Source: synology 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An improper encoding or escaping of output vulnerability in SCGI in Synology DiskStati",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13684",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13684:2026-09-18T08:49"
-  },
-  {
-   "ts": "2026-09-18T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-13673 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-13673 📢 Source: synology 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An incorrect permission assignment for critical resource vulnerability in LDAP API in Syno",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13673",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13673:2026-09-18T08:49"
-  },
-  {
-   "ts": "2026-09-18T08:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-13639 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-13639 📢 Source: synology 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An insufficient entropy vulnerability in login logic in Synology DiskStation Manager (",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13639",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13639:2026-09-18T08:49"
-  },
-  {
-   "ts": "2026-09-18T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-67103 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-67103 📢 Source: HCL 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True HCL BigFix Service Management is affected by Cross-Site Scripting (XSS) vulnerability, which co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67103",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67103:2026-09-18T08:19"
-  },
-  {
-   "ts": "2026-09-18T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-67102 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-67102 📢 Source: HCL 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True HCL BigFix Service Management is affected by a high-severity Broken Access Control vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67102",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67102:2026-09-18T08:19"
-  },
-  {
-   "ts": "2026-09-18T08:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-67100 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-67100 📢 Source: HCL 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True HCL BigFix Service Management is affected by SQL Injection flaw and a Cross-Tenant Data Exp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67100",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67100:2026-09-18T08:19"
-  },
-  {
-   "ts": "2026-09-18T08:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-67101 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-67101 📢 Source: HCL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True HCL BigFix Service Management is affected by a Server-Side Request Forgery (SSRF) vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67101",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67101:2026-09-18T08:19"
   }
  ]
 }
