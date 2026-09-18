@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-18T16:49:09+00:00",
+ "generated_at": "2026-09-18T17:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T17:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-93765 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-93765 📢 Source: mongodb 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Mongoid contains an unsafe reflection weakness in the document persistence layer of its",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93765",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93765:2026-09-18T17:19"
+  },
+  {
+   "ts": "2026-09-18T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93758 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-93758 📢 Source: mongodb 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An insecure direct object reference in the nested attributes handling of the Mongoid object",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93758",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93758:2026-09-18T17:19"
+  },
   {
    "ts": "2026-09-18T16:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
    "source": "Hacker News",
    "id": "community:https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/:2026-09-18T11:49"
-  },
-  {
-   "ts": "2026-09-18T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Everybody's Lost Their Minds",
-   "body": "Lobsters · 점수 152",
-   "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-   "source": "Lobsters",
-   "id": "community:https://www.netmeister.org/blog/everybodys-lost-their-minds.html:2026-09-18T11:49"
-  },
-  {
-   "ts": "2026-09-18T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Cult of Anthropic Insiders Rumored to Be Worshipping Claude ",
-   "body": "Lemmy · technology · 점수 112",
-   "link": "https://futurism.com/future-society/cult-anthropic-insiders-worshipping-claude-god",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/future-society/cult-anthropic-insiders-worshipping-claude-god:2026-09-18T11:49"
   }
  ]
 }
