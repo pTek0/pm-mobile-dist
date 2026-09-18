@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-18T19:49:12+00:00",
+ "generated_at": "2026-09-18T20:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-84078 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-84078 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is vulnerable to a missing authentication vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84078",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84078:2026-09-18T20:19"
+  },
+  {
+   "ts": "2026-09-18T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84077 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-84077 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 could allow a remote attacker to bypass security restrictions",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84077",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84077:2026-09-18T20:19"
+  },
+  {
+   "ts": "2026-09-18T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84076 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-84076 📢 Source: ibm 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 could allow a remote authenticated attacker to bypass securit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84076",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84076:2026-09-18T20:19"
+  },
+  {
+   "ts": "2026-09-18T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-84075 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-84075 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 could allow a remote attacker to bypass security restrict",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84075",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84075:2026-09-18T20:19"
+  },
+  {
+   "ts": "2026-09-18T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84074 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-84074 📢 Source: ibm 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 could allow a remote authenticated attacker to execute arbitr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84074",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84074:2026-09-18T20:19"
+  },
+  {
+   "ts": "2026-09-18T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-84073 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-84073 📢 Source: ibm 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 could allow a remote authenticated attacker to execute ar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84073",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84073:2026-09-18T20:19"
+  },
   {
    "ts": "2026-09-18T19:49:06+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2025-14754",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-14754:2026-09-18T15:49"
-  },
-  {
-   "ts": "2026-09-18T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-14753 (CVSS 7.5)",
-   "body": "🚨 CVE-2025-14753 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Cloud Pak for Data 5.1.2 could allow a remote attacker to traverse directories on the syste",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-14753",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-14753:2026-09-18T15:49"
-  },
-  {
-   "ts": "2026-09-18T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93690 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93690 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True uri-js through 4.4.1 contains a denial of service vulnerability in the removeDotSegments ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93690",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93690:2026-09-18T15:49"
-  },
-  {
-   "ts": "2026-09-18T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93688 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93688 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SGLang through 0.5.19 in prefill/decode disaggregation mode with Mooncake KV transfer bac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93688",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93688:2026-09-18T15:49"
-  },
-  {
-   "ts": "2026-09-18T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93687 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93687 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True braces through 3.0.3 contains a stack overflow vulnerability in the recursive AST walkers",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93687",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93687:2026-09-18T15:49"
-  },
-  {
-   "ts": "2026-09-18T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81945 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-81945 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True PLANET IGS-5225-8P2T4S industrial managed switch V1 and V2 firmware versions bfore 1.2412",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81945",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81945:2026-09-18T15:49"
-  },
-  {
-   "ts": "2026-09-18T14:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93652 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-93652 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Integer overflow in µD3TN v0.15.0 TCPCLv3 handshake causes heap overflow, allowing remote at",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93652",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93652:2026-09-18T14:49"
   }
  ]
 }
