@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-18T18:49:07+00:00",
+ "generated_at": "2026-09-18T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93854 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-93854 📢 Source: mitre 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In OpenStack Blazar before 17.0.1, the V2 lease API does not enforce object-level authorizati",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93854",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93854:2026-09-18T19:19"
+  },
+  {
+   "ts": "2026-09-18T19:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2023-54399 (CVSS 9.8)",
+   "body": "🚨 CVE-2023-54399 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Hongjing e-HR before 8.2 contains a SQL injection vulnerability in the /servlet/codes",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2023-54399",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54399:2026-09-18T19:19"
+  },
+  {
+   "ts": "2026-09-18T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2021-48008 (CVSS 8.7)",
+   "body": "🚨 CVE-2021-48008 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Chanjet CRM contains an unauthenticated SQL injection vulnerability that allows remote at",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2021-48008",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-48008:2026-09-18T19:19"
+  },
+  {
+   "ts": "2026-09-18T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2019-25776 (CVSS 8.7)",
+   "body": "🚨 CVE-2019-25776 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Weaver E-cology contains an unauthenticated SQL injection vulnerability that allows remot",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2019-25776",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2019-25776:2026-09-18T19:19"
+  },
+  {
+   "ts": "2026-09-18T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93852 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-93852 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In OpenStack Blazar before 17.0.1, the V2 lease listing operation (GET /v2/leases) returns le",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93852",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93852:2026-09-18T19:19"
+  },
   {
    "ts": "2026-09-18T18:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93595",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93595:2026-09-18T13:49"
-  },
-  {
-   "ts": "2026-09-18T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93594 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-93594 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True ArcadeDB (Maven artifact com.arcadedb:arcadedb-engine) through 26.8.1 enforces its per-ty",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93594",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93594:2026-09-18T13:49"
-  },
-  {
-   "ts": "2026-09-18T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93593 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-93593 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True ArcadeDB before 26.9.1 fails to enforce security-group types ACL entries for TimeSeries t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93593",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93593:2026-09-18T13:49"
-  },
-  {
-   "ts": "2026-09-18T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93592 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93592 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True vLLM versions before 0.28.0 fail to validate the lower bound of token IDs in the /v1/embe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93592",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93592:2026-09-18T13:49"
-  },
-  {
-   "ts": "2026-09-18T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93591 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-93591 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True SiYuan versions before 3.8.3 contain an SQL injection vulnerability in the graph.go query",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93591",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93591:2026-09-18T13:49"
-  },
-  {
-   "ts": "2026-09-18T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93491 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-93491 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Netty's HttpServerCodec. A remote, unauthenticated attacker can exploit ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93491",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93491:2026-09-18T13:19"
   }
  ]
 }
