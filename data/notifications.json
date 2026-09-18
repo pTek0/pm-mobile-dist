@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-18T07:19:08+00:00",
+ "generated_at": "2026-09-18T07:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-18T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-89059 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-89059 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in RESTEasy's IIOImageProvider, which decodes attacker-supplied image reque",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89059",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89059:2026-09-18T07:49"
+  },
   {
    "ts": "2026-09-18T05:49:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93393",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93393:2026-09-17T20:49"
-  },
-  {
-   "ts": "2026-09-17T19:49:26+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93337 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-93337 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False NetworkManager-l2tp contains an improper input validation vulnerability that allows loca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93337",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93337:2026-09-17T19:49"
   }
  ]
 }
