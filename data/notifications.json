@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-19T10:49:08+00:00",
+ "generated_at": "2026-09-19T11:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-19T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Saving another 100TB of RAM",
+   "body": "Hacker News · 점수 367",
+   "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+   "source": "Hacker News",
+   "id": "community:https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/:2026-09-19T11:19"
+  },
+  {
+   "ts": "2026-09-19T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The first new cat species discovered in 100 years",
+   "body": "Hacker News · 점수 279",
+   "link": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+   "source": "Hacker News",
+   "id": "community:https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years:2026-09-19T11:19"
+  },
+  {
+   "ts": "2026-09-19T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Human brain is two separate organs, Stanford Medicine-led re",
+   "body": "Hacker News · 점수 253",
+   "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+   "source": "Hacker News",
+   "id": "community:https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html:2026-09-19T11:19"
+  },
+  {
+   "ts": "2026-09-19T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI hallucination of Chinese nuclear components almost led to",
+   "body": "Lemmy · technology · 점수 208",
+   "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/:2026-09-19T11:19"
+  },
+  {
+   "ts": "2026-09-19T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] San Francisco Onion Futures Company",
+   "body": "Hacker News · 점수 199",
+   "link": "https://onionfutures.com/",
+   "source": "Hacker News",
+   "id": "community:https://onionfutures.com/:2026-09-19T11:19"
+  },
   {
    "ts": "2026-09-19T00:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93852",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93852:2026-09-18T19:19"
-  },
-  {
-   "ts": "2026-09-18T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93753 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93753 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True deepmerge through 4.3.1 contains a prototype poisoning vulnerability in the mergeObject()",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93753",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93753:2026-09-18T18:19"
-  },
-  {
-   "ts": "2026-09-18T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93752 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93752 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True CSSOM through 0.5.0 contains a denial of service vulnerability in CSSStyleDeclaration.set",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93752",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93752:2026-09-18T18:19"
-  },
-  {
-   "ts": "2026-09-18T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93750 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-93750 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True http-cache-semantics through 4.2.0 contains a cache validation vulnerability in the _vary",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93750",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93750:2026-09-18T18:19"
-  },
-  {
-   "ts": "2026-09-18T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93749 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93749 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True source-map-js through 1.2.1 fails to validate the per-section offset line value in indexe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93749",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93749:2026-09-18T18:19"
-  },
-  {
-   "ts": "2026-09-18T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93748 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93748 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True http-cache-semantics through 4.2.0 fails to properly validate security-zeroed cache entri",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93748",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93748:2026-09-18T18:19"
   }
  ]
 }
