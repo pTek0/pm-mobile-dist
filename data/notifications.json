@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-19T16:49:07+00:00",
+ "generated_at": "2026-09-20T14:49:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-20T14:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-90817 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-90817 📢 Source: Securifera 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated Remote Code Execution vulnerability was found in the survey passt",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90817",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90817:2026-09-20T14:49"
+  },
+  {
+   "ts": "2026-09-20T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94113 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-94113 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Frappe ERPNext versions before 15.121.0 and 16.x before 16.34.0 contain an information di",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94113",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94113:2026-09-20T14:49"
+  },
+  {
+   "ts": "2026-09-20T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94112 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-94112 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True mayswind ezBookkeeping before 2.0.0 fails to invalidate TOTP passcodes after use, allowin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94112",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94112:2026-09-20T14:49"
+  },
+  {
+   "ts": "2026-09-20T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94109 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-94109 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True openEQUELLA versions before 2026.1.0 contain a remote code execution vulnerability in Fre",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94109",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94109:2026-09-20T14:49"
+  },
+  {
+   "ts": "2026-09-20T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94108 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-94108 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True getID3 through 1.9.26 contains an XML external entity injection vulnerability in the XML2",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94108",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94108:2026-09-20T14:49"
+  },
+  {
+   "ts": "2026-09-20T14:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-94107 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-94107 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True NivoCart through 2.4.0 contains a predictable password reset token vulnerability in t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94107",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94107:2026-09-20T14:49"
+  },
+  {
+   "ts": "2026-09-20T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94106 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-94106 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True getID3 before 1.9.26 contains an OS command injection vulnerability in shell-out handlers",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94106",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94106:2026-09-20T14:49"
+  },
   {
    "ts": "2026-09-19T12:19:06+00:00",
    "level": "important",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81937",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81937:2026-09-18T19:49"
-  },
-  {
-   "ts": "2026-09-18T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81933 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-81933 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is vulnerable to a SQL injection vulnerability in the Analyti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81933",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81933:2026-09-18T19:49"
-  },
-  {
-   "ts": "2026-09-18T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81669 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-81669 📢 Source: ibm 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is vulnerable to a command injection vulnerability in the cre",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81669",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81669:2026-09-18T19:49"
-  },
-  {
-   "ts": "2026-09-18T19:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-81657 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-81657 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 could allow a remote unauthenticated attacker to execute ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81657",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81657:2026-09-18T19:49"
-  },
-  {
-   "ts": "2026-09-18T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81656 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-81656 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is vulnerable to a SQL injection vulnerability in the New Que",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81656",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81656:2026-09-18T19:49"
-  },
-  {
-   "ts": "2026-09-18T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81626 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-81626 📢 Source: ibm 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is vulnerable to a SQL injection vulnerability in the Load Ba",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81626",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81626:2026-09-18T19:49"
-  },
-  {
-   "ts": "2026-09-18T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-11727 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-11727 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM MQ for HPE NonStop 8.1.0 through 8.1.0.40 IBM MQ C client could allow a remote attacker to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-11727",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-11727:2026-09-18T19:49"
-  },
-  {
-   "ts": "2026-09-18T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93854 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-93854 📢 Source: mitre 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In OpenStack Blazar before 17.0.1, the V2 lease API does not enforce object-level authorizati",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93854",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93854:2026-09-18T19:19"
   }
  ]
 }
