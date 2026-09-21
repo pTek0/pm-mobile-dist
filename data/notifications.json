@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-21T14:19:08+00:00",
+ "generated_at": "2026-09-21T14:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-21T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94184 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-94184 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A stack-based buffer overflow flaw was found in fetchmail when built with NTLM support. A ma",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94184",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94184:2026-09-21T14:49"
+  },
+  {
+   "ts": "2026-09-21T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80110 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-80110 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A flaw was found in pki-core. The v2 REST ACL filter selects a tie-breaking permission for c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80110",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80110:2026-09-21T14:49"
+  },
+  {
+   "ts": "2026-09-21T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75939 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-75939 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in openshift/oc-mirror. The tool incorrectly verifies PGP (Pretty Good Priv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75939",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75939:2026-09-21T14:49"
+  },
   {
    "ts": "2026-09-21T14:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
    "source": "Hacker News",
    "id": "community:https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/:2026-09-20T23:19"
-  },
-  {
-   "ts": "2026-09-20T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Qwen Image 2.1",
-   "body": "Hacker News · 점수 435",
-   "link": "https://qwen.ai/blog?id=qwen-image-2.1",
-   "source": "Hacker News",
-   "id": "community:https://qwen.ai/blog?id=qwen-image-2.1:2026-09-20T23:19"
-  },
-  {
-   "ts": "2026-09-20T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Thanks FedEx, This is Why we Keep Getting Phished",
-   "body": "Lemmy · technology · 점수 392",
-   "link": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/:2026-09-20T23:19"
-  },
-  {
-   "ts": "2026-09-20T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Pirate Face Rescues LLM Models from Deletion",
-   "body": "Hacker News · 점수 390",
-   "link": "https://pirateface.co/",
-   "source": "Hacker News",
-   "id": "community:https://pirateface.co/:2026-09-20T23:19"
   }
  ]
 }
