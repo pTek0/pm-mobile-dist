@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-21T21:49:09+00:00",
+ "generated_at": "2026-09-21T22:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-21T22:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94627 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-94627 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True vLLM Mooncake connector through 0.29.0 fails to properly manage GPU KV cache block owners",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94627",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94627:2026-09-21T22:19"
+  },
+  {
+   "ts": "2026-09-21T22:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94626 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-94626 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True vLLM through 0.29.0 fails to validate the tp_size parameter in kv_transfer_params on Open",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94626",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94626:2026-09-21T22:19"
+  },
+  {
+   "ts": "2026-09-21T22:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94624 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-94624 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True vLLM through 0.29.0 contains a denial of service vulnerability in P2P KV offloading when ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94624",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94624:2026-09-21T22:19"
+  },
+  {
+   "ts": "2026-09-21T22:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94623 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-94623 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True vLLM through 0.29.0 contains a denial of service vulnerability in the NIXL connector's pr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94623",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94623:2026-09-21T22:19"
+  },
+  {
+   "ts": "2026-09-21T22:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94622 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-94622 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True vLLM versions through 0.29.0 contain a denial of service vulnerability in the NIXL connec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94622",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94622:2026-09-21T22:19"
+  },
+  {
+   "ts": "2026-09-21T22:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94540 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-94540 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False DesktopSMS 1.11.0 by MrPear contains an unauthorized access vulnerability that allows lo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94540",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94540:2026-09-21T22:19"
+  },
   {
    "ts": "2026-09-21T21:49:08+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://lemmy.world/post/56841319",
    "source": "Lemmy · programming.dev",
    "id": "community:https://lemmy.world/post/56841319:2026-09-21T00:49"
-  },
-  {
-   "ts": "2026-09-21T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Australia, the Land of Bluey, Tim-Tams, and Kylie Minogue: N",
-   "body": "Lemmy · technology · 점수 66",
-   "link": "https://futurism.com/future-society/australia-smart-glasses-ban",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/future-society/australia-smart-glasses-ban:2026-09-21T00:49"
-  },
-  {
-   "ts": "2026-09-21T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GrapheneOS Isn't Happy With Google Over Pixel's Widening Hea",
-   "body": "Lemmy · programming.dev · 점수 58",
-   "link": "https://itsfoss.com/news/grapheneos-android-17-qpr1-fiasco/?=0",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://itsfoss.com/news/grapheneos-android-17-qpr1-fiasco/?=0:2026-09-21T00:49"
-  },
-  {
-   "ts": "2026-09-21T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Thoughts on the Future of Web Browsers",
-   "body": "Lobsters · 점수 55",
-   "link": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
-   "source": "Lobsters",
-   "id": "community:https://sarahjamielewis.com/log/2026/future-of-web-browsers.html:2026-09-21T00:49"
-  },
-  {
-   "ts": "2026-09-21T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] DraftKings Allegedly Used AI to Target Bonus Bets at Custome",
-   "body": "Lemmy · technology · 점수 179",
-   "link": "https://www.gadgetreview.com/draftkings-used-ai-to-target-bonus-bets-at-customers-expected-to-lose-the-most",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.gadgetreview.com/draftkings-used-ai-to-target-bonus-bets-at-customers-expected-to-lose-the-most:2026-09-21T00:19"
-  },
-  {
-   "ts": "2026-09-21T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Sherline Tools Is Going Out of Business",
-   "body": "Hacker News · 점수 161",
-   "link": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-   "source": "Hacker News",
-   "id": "community:https://toolguyd.com/sherline-tools-shutting-down-usa-production/:2026-09-21T00:19"
-  },
-  {
-   "ts": "2026-09-21T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Singapore’s National Library Board offers micropayments to b",
-   "body": "Hacker News · 점수 160",
-   "link": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-   "source": "Hacker News",
-   "id": "community:https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books:2026-09-21T00:19"
   }
  ]
 }
