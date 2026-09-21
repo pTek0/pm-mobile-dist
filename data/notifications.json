@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-21T12:19:08+00:00",
+ "generated_at": "2026-09-21T12:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-21T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84285 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-84285 📢 Source: 3DS 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An OS Command Injection vulnerability affecting Tuleap Enterprise Edition from 17.3 through 17.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84285",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84285:2026-09-21T12:49"
+  },
   {
    "ts": "2026-09-21T12:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94112",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94112:2026-09-20T14:49"
-  },
-  {
-   "ts": "2026-09-20T14:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94109 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-94109 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True openEQUELLA versions before 2026.1.0 contain a remote code execution vulnerability in Fre",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94109",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94109:2026-09-20T14:49"
   }
  ]
 }
