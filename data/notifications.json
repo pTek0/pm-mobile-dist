@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-21T13:19:08+00:00",
+ "generated_at": "2026-09-21T13:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-21T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88806 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-88806 📢 Source: suse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A malicious X server could exploit a buffer overflow in libX11 before 1.8.14 during handling o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88806",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88806:2026-09-21T13:49"
+  },
   {
    "ts": "2026-09-21T12:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94113",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94113:2026-09-20T14:49"
-  },
-  {
-   "ts": "2026-09-20T14:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94112 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-94112 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True mayswind ezBookkeeping before 2.0.0 fails to invalidate TOTP passcodes after use, allowin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94112",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94112:2026-09-20T14:49"
   }
  ]
 }
