@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-21T08:49:08+00:00",
+ "generated_at": "2026-09-21T09:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-21T09:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-12999 (CVSS 9.1)",
+   "body": "🚨 CVE-2025-12999 📢 Source: eclipse 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True UrlUtil.getBaseUrl builds the absolute URLs in a response — download links, icons, asse",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-12999",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-12999:2026-09-21T09:19"
+  },
   {
    "ts": "2026-09-21T08:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
    "source": "Hacker News",
    "id": "community:https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/:2026-09-18T23:49"
-  },
-  {
-   "ts": "2026-09-18T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Korea raises data breach fines to 10% of revenue",
-   "body": "Hacker News · 점수 220",
-   "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-   "source": "Hacker News",
-   "id": "community:https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899:2026-09-18T23:49"
   }
  ]
 }
