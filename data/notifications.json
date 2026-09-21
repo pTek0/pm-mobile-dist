@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-21T08:19:07+00:00",
+ "generated_at": "2026-09-21T08:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-21T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15801 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-15801 📢 Source: redhat 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True A vulnerability was found in CRI-O related to the container checkpoint and restore feature. Wh",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15801",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15801:2026-09-21T08:49"
+  },
   {
    "ts": "2026-09-21T08:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
    "source": "Hacker News",
    "id": "community:https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899:2026-09-18T23:49"
-  },
-  {
-   "ts": "2026-09-18T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I vibed a proof of Conway's conjecture",
-   "body": "Hacker News · 점수 197",
-   "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-   "source": "Hacker News",
-   "id": "community:https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/:2026-09-18T23:49"
   }
  ]
 }
