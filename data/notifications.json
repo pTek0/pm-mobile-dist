@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-21T20:19:07+00:00",
+ "generated_at": "2026-09-21T20:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-21T20:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-94572 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-94572 📢 Source: mitre 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True In OpenStack Octavia before 18.0.1, the Amphora provider driver did not validate the list",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94572",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94572:2026-09-21T20:49"
+  },
+  {
+   "ts": "2026-09-21T20:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-94571 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-94571 📢 Source: mitre 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True In OpenStack Octavia before 18.0.1, the Amphora provider driver did not reject control ch",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94571",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94571:2026-09-21T20:49"
+  },
   {
    "ts": "2026-09-21T19:49:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
    "source": "Hacker News",
    "id": "community:https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0:2026-09-21T00:19"
-  },
-  {
-   "ts": "2026-09-21T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI Is an Elite Crime Spree",
-   "body": "Lobsters · 점수 89",
-   "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-   "source": "Lobsters",
-   "id": "community:https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree:2026-09-21T00:19"
-  },
-  {
-   "ts": "2026-09-20T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Putin casts online vote using unlicensed Windows on an Ameri",
-   "body": "Lemmy · technology · 점수 380",
-   "link": "https://www.tomshardware.com/software/windows/putin-casts-online-vote-using-unlicensed-windows-on-an-american-dell-pc-activate-windows-watermark-visible-in-official-kremlin-clip-uses-foreign-dell-pc-despite-russian-tech-mandate",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/software/windows/putin-casts-online-vote-using-unlicensed-windows-on-an-american-dell-pc-activate-windows-watermark-visible-in-official-kremlin-clip-uses-foreign-dell-pc-despite-russian-tech-mandate:2026-09-20T23:49"
   }
  ]
 }
