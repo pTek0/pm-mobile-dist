@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-21T09:49:08+00:00",
+ "generated_at": "2026-09-21T10:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-21T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92574 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-92574 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A vulnerability in CRI-O checkpoint restore allows a user who can create a pod from a malici",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92574",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92574:2026-09-21T10:19"
+  },
   {
    "ts": "2026-09-21T09:19:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://code.claude.com/docs/en/changelog",
    "source": "Hacker News",
    "id": "community:https://code.claude.com/docs/en/changelog:2026-09-18T23:49"
-  },
-  {
-   "ts": "2026-09-18T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Inside ZCode: Silently uploading your Git history to the clo",
-   "body": "Hacker News · 점수 237",
-   "link": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-   "source": "Hacker News",
-   "id": "community:https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/:2026-09-18T23:49"
   }
  ]
 }
