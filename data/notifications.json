@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-22T11:49:07+00:00",
+ "generated_at": "2026-09-22T12:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T12:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74849 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-74849 📢 Source: Zohocorp 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Zohocorp ManageEngine ADSelfService Plus versions before build 7001 are vulnerable to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74849",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74849:2026-09-22T12:19"
+  },
+  {
+   "ts": "2026-09-22T12:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Divide by depth for instant 3D",
+   "body": "Lemmy · programming.dev · 점수 89",
+   "link": "https://gabrieloc.com/2026/09/15/perspective.html",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://gabrieloc.com/2026/09/15/perspective.html:2026-09-22T12:19"
+  },
+  {
+   "ts": "2026-09-22T12:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A Highly Trafficked Space News Site Invented a Fake NASA Eng",
+   "body": "Lemmy · technology · 점수 62",
+   "link": "https://futurism.com/space/high-traffic-space-news-site-fake-nasa-engineer-slop",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/space/high-traffic-space-news-site-fake-nasa-engineer-slop:2026-09-22T12:19"
+  },
   {
    "ts": "2026-09-22T11:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-49811",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-49811:2026-09-21T19:49"
-  },
-  {
-   "ts": "2026-09-21T19:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81469 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-81469 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Inventory Collector Client, versions prior to 15.0.0, contain an Unquoted Search Path or",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81469",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81469:2026-09-21T19:49"
-  },
-  {
-   "ts": "2026-09-21T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-49810 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-49810 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Command Powershell Provider (DCPP), versions prior to 2.10.2 contain an Insertion of Sen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-49810",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-49810:2026-09-21T18:49"
-  },
-  {
-   "ts": "2026-09-21T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94488 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-94488 📢 Source: mitre 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False Telegram Desktop before 6.9.4 allows XSS in the HTML exporter. (The first fixed stable versi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94488",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94488:2026-09-21T17:49"
   }
  ]
 }
