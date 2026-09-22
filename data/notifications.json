@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-22T18:49:07+00:00",
+ "generated_at": "2026-09-22T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84395 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-84395 📢 Source: adobe 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Premiere Pro [NEEDS REVIEW: environment mismatch — product 'Premiere Pro' is only known to a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84395",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84395:2026-09-22T19:19"
+  },
+  {
+   "ts": "2026-09-22T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75658 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-75658 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Bridge is affected by an out-of-bounds write vulnerability that could result in arbitrary co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75658",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75658:2026-09-22T19:19"
+  },
+  {
+   "ts": "2026-09-22T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75655 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-75655 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Bridge is affected by an Uncontrolled Recursion vulnerability that could result in arbitrary",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75655",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75655:2026-09-22T19:19"
+  },
+  {
+   "ts": "2026-09-22T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75649 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-75649 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Bridge is affected by a Heap-based Buffer Overflow vulnerability that could result in arbitr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75649",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75649:2026-09-22T19:19"
+  },
+  {
+   "ts": "2026-09-22T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-34689 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-34689 📢 Source: adobe 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Adobe Connect is affected by an Improper Limitation of a Pathname to a Restricted Directory (",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-34689",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34689:2026-09-22T19:19"
+  },
+  {
+   "ts": "2026-09-22T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95862 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-95862 📢 Source: Ubiquiti 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A malicious actor with access to the network could exploit an Out-of-bounds Write vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95862",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95862:2026-09-22T19:19"
+  },
+  {
+   "ts": "2026-09-22T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95861 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-95861 📢 Source: Ubiquiti 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A malicious actor with access to the network could exploit an Uncontrolled Recursion vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95861",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95861:2026-09-22T19:19"
+  },
   {
    "ts": "2026-09-22T18:49:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-65128",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65128:2026-09-22T14:49"
-  },
-  {
-   "ts": "2026-09-22T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65121 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-65121 📢 Source: nvidia 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False NVIDIA Infrastructure Controller for Linux contains a vulnerability where an attacker could",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65121",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65121:2026-09-22T14:49"
-  },
-  {
-   "ts": "2026-09-22T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65118 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-65118 📢 Source: nvidia 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False NVIDIA Infrastructure Controller for Linux contains a vulnerability where an attacker could",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65118",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65118:2026-09-22T14:49"
-  },
-  {
-   "ts": "2026-09-22T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65114 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-65114 📢 Source: nvidia 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False NVIDIA Infrastructure Controller for Linux contains a vulnerability where an attacker could",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65114",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65114:2026-09-22T14:49"
-  },
-  {
-   "ts": "2026-09-22T14:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-65113 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-65113 📢 Source: nvidia 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True NVIDIA Infrastructure Controller for Linux contains a vulnerability where an attacker co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65113",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65113:2026-09-22T14:49"
-  },
-  {
-   "ts": "2026-09-22T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93343 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-93343 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True MarketKing plugin for WordPress before 2.1.72 contains a missing authorization vulnerabil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93343",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93343:2026-09-22T14:19"
-  },
-  {
-   "ts": "2026-09-22T14:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-12718 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-12718 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12718",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12718:2026-09-22T14:19"
-  },
-  {
-   "ts": "2026-09-22T14:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-95675 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-95675 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True D-Link DAP-1360 firmware version 6.14 and earlier contains an unauthenticated remote ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95675",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95675:2026-09-22T14:19"
   }
  ]
 }
