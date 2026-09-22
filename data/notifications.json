@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-22T08:19:07+00:00",
+ "generated_at": "2026-09-22T08:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95511 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-95511 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False A privilege escalation vulnerability was found in CUPS when used with the cups-filters seri",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95511",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95511:2026-09-22T08:49"
+  },
+  {
+   "ts": "2026-09-22T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95508 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-95508 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A heap-based buffer overflow was found in the DHCPv6 and TFTP response builders of libslirp.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95508",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95508:2026-09-22T08:49"
+  },
+  {
+   "ts": "2026-09-22T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93928 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-93928 📢 Source: Patchstack 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Authentication Bypass Using an Alternate Path or Channel vulnerability in Magepeople inc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93928",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93928:2026-09-22T08:49"
+  },
   {
    "ts": "2026-09-22T07:49:06+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://gizmodo.com/polymarket-bug-reportedly-let-identity-thieves-into-existing-accounts-2000814520",
    "source": "Lemmy · technology",
    "id": "community:https://gizmodo.com/polymarket-bug-reportedly-let-identity-thieves-into-existing-accounts-2000814520:2026-09-21T11:49"
-  },
-  {
-   "ts": "2026-09-21T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A Pensacola Fishing Charter Hauled a Large Military Drone Ou",
-   "body": "Lemmy · technology · 점수 58",
-   "link": "https://www.gadgetreview.com/a-pensacola-fishing-charter-hauled-a-large-military-drone-out-of-the-gulf",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.gadgetreview.com/a-pensacola-fishing-charter-hauled-a-large-military-drone-out-of-the-gulf:2026-09-21T11:49"
-  },
-  {
-   "ts": "2026-09-21T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AX – Google’s Open Agentic Orchestrator",
-   "body": "Hacker News · 점수 514",
-   "link": "https://agentexecutor.io",
-   "source": "Hacker News",
-   "id": "community:https://agentexecutor.io:2026-09-21T11:19"
-  },
-  {
-   "ts": "2026-09-21T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Spain orders blocks on Archive.today and its mirrors",
-   "body": "Hacker News · 점수 441",
-   "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-   "source": "Hacker News",
-   "id": "community:https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors:2026-09-21T11:19"
   }
  ]
 }
