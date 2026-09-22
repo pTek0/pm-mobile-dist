@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-22T12:49:07+00:00",
+ "generated_at": "2026-09-22T13:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T13:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-93616 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-93616 📢 Source: checkpoint 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A directory traversal and file upload vulnerability allows an unauthenticated attack",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93616",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93616:2026-09-22T13:19"
+  },
+  {
+   "ts": "2026-09-22T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95619 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-95619 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in libstdc++. An integer overflow can occur when processing large inputs to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95619",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95619:2026-09-22T13:19"
+  },
   {
    "ts": "2026-09-22T12:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93340",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93340:2026-09-21T21:49"
-  },
-  {
-   "ts": "2026-09-21T20:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-94572 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-94572 📢 Source: mitre 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True In OpenStack Octavia before 18.0.1, the Amphora provider driver did not validate the list",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94572",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94572:2026-09-21T20:49"
-  },
-  {
-   "ts": "2026-09-21T20:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-94571 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-94571 📢 Source: mitre 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True In OpenStack Octavia before 18.0.1, the Amphora provider driver did not reject control ch",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94571",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94571:2026-09-21T20:49"
   }
  ]
 }
