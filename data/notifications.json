@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-09-22T14:19:09+00:00",
+ "generated_at": "2026-09-22T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65179 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-65179 📢 Source: nvidia 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True NVIDIA NeMo contains a vulnerability in the TabularTokenizer class where it deserializes an ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65179",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65179:2026-09-22T14:49"
+  },
+  {
+   "ts": "2026-09-22T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65178 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-65178 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA NeMo contains a vulnerability in its dataset-loading workflow where a maliciously cr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65178",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65178:2026-09-22T14:49"
+  },
+  {
+   "ts": "2026-09-22T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65130 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-65130 📢 Source: nvidia 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True NVIDIA Infrastructure Controller for Linux contains a vulnerability where an attacker could ca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65130",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65130:2026-09-22T14:49"
+  },
+  {
+   "ts": "2026-09-22T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65128 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-65128 📢 Source: nvidia 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True NVIDIA Infrastructure Controller for Linux contains a vulnerability where an attacker could ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65128",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65128:2026-09-22T14:49"
+  },
+  {
+   "ts": "2026-09-22T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65121 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-65121 📢 Source: nvidia 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False NVIDIA Infrastructure Controller for Linux contains a vulnerability where an attacker could",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65121",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65121:2026-09-22T14:49"
+  },
+  {
+   "ts": "2026-09-22T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65118 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-65118 📢 Source: nvidia 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False NVIDIA Infrastructure Controller for Linux contains a vulnerability where an attacker could",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65118",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65118:2026-09-22T14:49"
+  },
+  {
+   "ts": "2026-09-22T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65114 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-65114 📢 Source: nvidia 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False NVIDIA Infrastructure Controller for Linux contains a vulnerability where an attacker could",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65114",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65114:2026-09-22T14:49"
+  },
+  {
+   "ts": "2026-09-22T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-65113 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-65113 📢 Source: nvidia 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True NVIDIA Infrastructure Controller for Linux contains a vulnerability where an attacker co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65113",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65113:2026-09-22T14:49"
+  },
   {
    "ts": "2026-09-22T14:19:06+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://alicegg.tech/2026/09/21/attention",
    "source": "Hacker News",
    "id": "community:https://alicegg.tech/2026/09/21/attention:2026-09-21T23:19"
-  },
-  {
-   "ts": "2026-09-21T23:19:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Grok 4.7",
-   "body": "Hacker News · 점수 451",
-   "link": "https://x.ai/news/grok-4-7",
-   "source": "Hacker News",
-   "id": "community:https://x.ai/news/grok-4-7:2026-09-21T23:19"
-  },
-  {
-   "ts": "2026-09-21T23:19:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Kev: Tiny Jev-like family of decision models built on top of",
-   "body": "Hacker News · 점수 384",
-   "link": "https://github.com/jaredpalmer/kev/tree/main",
-   "source": "Hacker News",
-   "id": "community:https://github.com/jaredpalmer/kev/tree/main:2026-09-21T23:19"
-  },
-  {
-   "ts": "2026-09-21T23:19:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Xiaomi MiMo v2.6",
-   "body": "Hacker News · 점수 357",
-   "link": "https://mimo.xiaomi.com/mimo-v2-6",
-   "source": "Hacker News",
-   "id": "community:https://mimo.xiaomi.com/mimo-v2-6:2026-09-21T23:19"
-  },
-  {
-   "ts": "2026-09-21T23:19:09+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fable 5 – Median thinking declined in August",
-   "body": "Hacker News · 점수 322",
-   "link": "https://twitter.com/Lon/status/2101793422487204027",
-   "source": "Hacker News",
-   "id": "community:https://twitter.com/Lon/status/2101793422487204027:2026-09-21T23:19"
-  },
-  {
-   "ts": "2026-09-21T22:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94627 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-94627 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True vLLM Mooncake connector through 0.29.0 fails to properly manage GPU KV cache block owners",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94627",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94627:2026-09-21T22:19"
-  },
-  {
-   "ts": "2026-09-21T22:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94626 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-94626 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True vLLM through 0.29.0 fails to validate the tp_size parameter in kv_transfer_params on Open",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94626",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94626:2026-09-21T22:19"
-  },
-  {
-   "ts": "2026-09-21T22:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94624 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-94624 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True vLLM through 0.29.0 contains a denial of service vulnerability in P2P KV offloading when ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94624",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94624:2026-09-21T22:19"
-  },
-  {
-   "ts": "2026-09-21T22:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94623 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-94623 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True vLLM through 0.29.0 contains a denial of service vulnerability in the NIXL connector's pr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94623",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94623:2026-09-21T22:19"
   }
  ]
 }
