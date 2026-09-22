@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-22T22:19:08+00:00",
+ "generated_at": "2026-09-22T22:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T22:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18176 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-18176 📢 Source: ibm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18176",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18176:2026-09-22T22:49"
+  },
+  {
+   "ts": "2026-09-22T22:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18172 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-18172 📢 Source: ibm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18172",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18172:2026-09-22T22:49"
+  },
+  {
+   "ts": "2026-09-22T22:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18169 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-18169 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote authentic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18169",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18169:2026-09-22T22:49"
+  },
+  {
+   "ts": "2026-09-22T22:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18163 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-18163 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18163",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18163:2026-09-22T22:49"
+  },
+  {
+   "ts": "2026-09-22T22:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18162 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-18162 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18162",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18162:2026-09-22T22:49"
+  },
   {
    "ts": "2026-09-22T22:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75655",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75655:2026-09-22T19:19"
-  },
-  {
-   "ts": "2026-09-22T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75649 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-75649 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Bridge is affected by a Heap-based Buffer Overflow vulnerability that could result in arbitr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75649",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75649:2026-09-22T19:19"
-  },
-  {
-   "ts": "2026-09-22T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-34689 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-34689 📢 Source: adobe 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Adobe Connect is affected by an Improper Limitation of a Pathname to a Restricted Directory (",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-34689",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34689:2026-09-22T19:19"
-  },
-  {
-   "ts": "2026-09-22T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95862 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-95862 📢 Source: Ubiquiti 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A malicious actor with access to the network could exploit an Out-of-bounds Write vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95862",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95862:2026-09-22T19:19"
-  },
-  {
-   "ts": "2026-09-22T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95861 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-95861 📢 Source: Ubiquiti 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A malicious actor with access to the network could exploit an Uncontrolled Recursion vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95861",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95861:2026-09-22T19:19"
-  },
-  {
-   "ts": "2026-09-22T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77558 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-77558 📢 Source: Ubiquiti 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A malicious actor with access to the network could exploit an Out-of-bounds Read vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77558",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77558:2026-09-22T18:49"
   }
  ]
 }
