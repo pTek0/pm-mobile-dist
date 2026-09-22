@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-22T18:19:11+00:00",
+ "generated_at": "2026-09-22T18:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T18:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77558 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-77558 📢 Source: Ubiquiti 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A malicious actor with access to the network could exploit an Out-of-bounds Read vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77558",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77558:2026-09-22T18:49"
+  },
+  {
+   "ts": "2026-09-22T18:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77556 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-77556 📢 Source: Ubiquiti 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A malicious actor with access to the network could exploit an Out-of-bounds Read vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77556",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77556:2026-09-22T18:49"
+  },
+  {
+   "ts": "2026-09-22T18:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77555 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-77555 📢 Source: Ubiquiti 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A malicious actor with access to the network could exploit an Out-of-bounds Write vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77555",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77555:2026-09-22T18:49"
+  },
+  {
+   "ts": "2026-09-22T18:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77544 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-77544 📢 Source: Ubiquiti 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A malicious actor with access to the network could exploit an Out-of-bounds Write vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77544",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77544:2026-09-22T18:49"
+  },
   {
    "ts": "2026-09-22T18:19:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-95675",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95675:2026-09-22T14:19"
-  },
-  {
-   "ts": "2026-09-22T13:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-93616 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-93616 📢 Source: checkpoint 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A directory traversal and file upload vulnerability allows an unauthenticated attack",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93616",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93616:2026-09-22T13:19"
-  },
-  {
-   "ts": "2026-09-22T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95619 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-95619 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in libstdc++. An integer overflow can occur when processing large inputs to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95619",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95619:2026-09-22T13:19"
-  },
-  {
-   "ts": "2026-09-22T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75791 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-75791 📢 Source: Zohocorp 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine ADSelfService Plus versions before build 7001 are vulnerable to an a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75791",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75791:2026-09-22T12:49"
-  },
-  {
-   "ts": "2026-09-22T12:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74849 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-74849 📢 Source: Zohocorp 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Zohocorp ManageEngine ADSelfService Plus versions before build 7001 are vulnerable to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74849",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74849:2026-09-22T12:19"
   }
  ]
 }
