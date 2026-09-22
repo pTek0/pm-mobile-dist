@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-22T09:19:09+00:00",
+ "generated_at": "2026-09-22T09:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-90882 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-90882 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The open-vsx.org deployment returned Access-Control-Allow-Origin reflecting the requesting ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90882",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90882:2026-09-22T09:49"
+  },
+  {
+   "ts": "2026-09-22T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94117 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-94117 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94117",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94117:2026-09-22T09:49"
+  },
   {
    "ts": "2026-09-22T09:19:06+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-65651",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65651:2026-09-21T11:49"
-  },
-  {
-   "ts": "2026-09-21T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16651 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-16651 📢 Source: Temporal 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True temporalio/sqlparser can panic when Parse, ParseStrictDDL, or ParseNext processes a MySQL ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16651",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16651:2026-09-21T11:49"
-  },
-  {
-   "ts": "2026-09-21T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16652 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-16652 📢 Source: Temporal 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Temporal Server did not bound the work performed while searching for a Schedule's next act",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16652",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16652:2026-09-21T11:49"
   }
  ]
 }
