@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-22T16:49:08+00:00",
+ "generated_at": "2026-09-22T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13087 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-13087 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A heap out-of-bounds write vulnerability was found in the Linux kernel's RPC-over-RDMA serve",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13087",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13087:2026-09-22T17:19"
+  },
   {
    "ts": "2026-09-22T16:49:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-65634",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65634:2026-09-22T09:19"
-  },
-  {
-   "ts": "2026-09-22T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95511 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-95511 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False A privilege escalation vulnerability was found in CUPS when used with the cups-filters seri",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95511",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95511:2026-09-22T08:49"
   }
  ]
 }
