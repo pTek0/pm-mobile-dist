@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-22T07:19:08+00:00",
+ "generated_at": "2026-09-22T07:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T07:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-93952 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-93952 📢 Source: Arista 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False VeloCloud Orchestrator (VCO) on-prem has a security issue where this issue may allow a r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93952",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93952:2026-09-22T07:49"
+  },
   {
    "ts": "2026-09-22T00:19:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
    "source": "Hacker News",
    "id": "community:https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors:2026-09-21T11:19"
-  },
-  {
-   "ts": "2026-09-21T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I am often wrong",
-   "body": "Hacker News · 점수 244",
-   "link": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-   "source": "Hacker News",
-   "id": "community:https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html:2026-09-21T11:19"
   }
  ]
 }
