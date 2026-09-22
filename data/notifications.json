@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-22T09:49:07+00:00",
+ "generated_at": "2026-09-22T10:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25265 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-25265 📢 Source: qualcomm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Privilege escalation due to weak configuration while temporary file handling. 📅 Published",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25265",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25265:2026-09-22T10:19"
+  },
+  {
+   "ts": "2026-09-22T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25264 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-25264 📢 Source: qualcomm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Privilege escalation due to weak configuration during package extraction process. 📅 Publi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25264",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25264:2026-09-22T10:19"
+  },
+  {
+   "ts": "2026-09-22T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25255 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-25255 📢 Source: qualcomm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Exposed dangerous function lead to privilege escalation via gRPC server. 📅 Published Date",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25255",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25255:2026-09-22T10:19"
+  },
+  {
+   "ts": "2026-09-22T10:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-25254 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-25254 📢 Source: qualcomm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper authorization leads to Remote Code Execution via SocketIO interface. 📅 Publis",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25254",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25254:2026-09-22T10:19"
+  },
   {
    "ts": "2026-09-22T09:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-87858",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87858:2026-09-21T11:49"
-  },
-  {
-   "ts": "2026-09-21T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65654 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-65654 📢 Source: Temporal 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True github.com/temporalio/ringpop-go enforces configured LabelOptions limits when an applicati",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65654",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65654:2026-09-21T11:49"
-  },
-  {
-   "ts": "2026-09-21T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65653 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-65653 📢 Source: Temporal 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True github.com/temporalio/tchannel-go did not reject TChannel call fragments containing checks",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65653",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65653:2026-09-21T11:49"
-  },
-  {
-   "ts": "2026-09-21T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65652 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-65652 📢 Source: Temporal 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True github.com/temporalio/tchannel-go did not validate the one-byte checksum-type field in inb",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65652",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65652:2026-09-21T11:49"
-  },
-  {
-   "ts": "2026-09-21T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65651 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-65651 📢 Source: Temporal 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True temporalio/sqlparser accepts SQL containing deeply nested unary expressions and can return",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65651",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65651:2026-09-21T11:49"
   }
  ]
 }
