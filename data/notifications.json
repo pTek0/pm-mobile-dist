@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-22T17:49:24+00:00",
+ "generated_at": "2026-09-22T18:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T18:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-43643 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-43643 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Softaculous Virtualizor before 3.2.9 (Patch 9) and 3.0.0 contains an authorization bypass",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43643",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43643:2026-09-22T18:19"
+  },
+  {
+   "ts": "2026-09-22T18:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-43642 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-43642 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Softaculous Virtualizor before 3.2.9 (Patch 9) and 3.0.0 contains a PHP object inject",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43642",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43642:2026-09-22T18:19"
+  },
+  {
+   "ts": "2026-09-22T18:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-43641 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-43641 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Softaculous Virtualizor before 3.2.9 (Patch 9) and 3.0.0 contains an OS command injec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43641",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43641:2026-09-22T18:19"
+  },
+  {
+   "ts": "2026-09-22T18:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-8849 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-8849 📢 Source: RTI 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Use After Free vulnerability in RTI Connext Professional (Security Plugins) allows File Manipula",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8849",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8849:2026-09-22T18:19"
+  },
+  {
+   "ts": "2026-09-22T18:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-7866 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-7866 📢 Source: RTI 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Stack-based Buffer Overflow vulnerability in RTI Connext Professional (Core Libraries) allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7866",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7866:2026-09-22T18:19"
+  },
+  {
+   "ts": "2026-09-22T18:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18462 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-18462 📢 Source: RTI 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Integer Overflow or Wraparound, Improper Access Control vulnerability in RTI Connext Professio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18462",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18462:2026-09-22T18:19"
+  },
+  {
+   "ts": "2026-09-22T18:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18461 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-18461 📢 Source: RTI 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Use of Externally-Controlled Format String vulnerability in RTI Connext Professional (Core ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18461",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18461:2026-09-22T18:19"
+  },
   {
    "ts": "2026-09-22T17:49:07+00:00",
    "level": "important",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74849",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74849:2026-09-22T12:19"
-  },
-  {
-   "ts": "2026-09-22T12:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Divide by depth for instant 3D",
-   "body": "Lemmy · programming.dev · 점수 89",
-   "link": "https://gabrieloc.com/2026/09/15/perspective.html",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://gabrieloc.com/2026/09/15/perspective.html:2026-09-22T12:19"
-  },
-  {
-   "ts": "2026-09-22T12:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A Highly Trafficked Space News Site Invented a Fake NASA Eng",
-   "body": "Lemmy · technology · 점수 62",
-   "link": "https://futurism.com/space/high-traffic-space-news-site-fake-nasa-engineer-slop",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/space/high-traffic-space-news-site-fake-nasa-engineer-slop:2026-09-22T12:19"
-  },
-  {
-   "ts": "2026-09-22T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-89420 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-89420 📢 Source: EEF 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Validation of Specified Quantity in Input in ZenHive mpp allows a client holding an op",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89420",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89420:2026-09-22T11:49"
-  },
-  {
-   "ts": "2026-09-22T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87119 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-87119 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Authentication Bypass by Capture-replay in ZenHive mpp allows an attacker holding a captured su",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87119",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87119:2026-09-22T11:49"
-  },
-  {
-   "ts": "2026-09-22T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] No Warrant Needed: Border Agents in NY, CT, and VT Can Now S",
-   "body": "Lemmy · technology · 점수 269",
-   "link": "https://www.gadgetreview.com/no-warrant-needed-border-agents-in-ny-ct-and-vt-can-now-search-your-phone",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.gadgetreview.com/no-warrant-needed-border-agents-in-ny-ct-and-vt-can-now-search-your-phone:2026-09-22T11:49"
-  },
-  {
-   "ts": "2026-09-22T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Meta Now Banning Ads That Promote Feminism: \"We have given s",
-   "body": "Lemmy · technology · 점수 252",
-   "link": "https://futurism.com/artificial-intelligence/meta-banning-ads-virginia-woolf-facebook-instagram-feminism",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/meta-banning-ads-virginia-woolf-facebook-instagram-feminism:2026-09-22T11:49"
-  },
-  {
-   "ts": "2026-09-22T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI coding has made CI a bottleneck, so we reworked ours to k",
-   "body": "Hacker News · 점수 248",
-   "link": "https://linear.app/now/ci-bottleneck-reworked",
-   "source": "Hacker News",
-   "id": "community:https://linear.app/now/ci-bottleneck-reworked:2026-09-22T11:49"
   }
  ]
 }
