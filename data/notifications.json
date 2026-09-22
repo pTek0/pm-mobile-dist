@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-22T08:49:07+00:00",
+ "generated_at": "2026-09-22T09:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-93556 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-93556 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The ‘/password/guardarClau/recover’ endpoint accepts the ‘usuariId’ parameter, which spe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93556",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93556:2026-09-22T09:19"
+  },
+  {
+   "ts": "2026-09-22T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-89422 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-89422 📢 Source: EEF 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Key Exchange without Entity Authentication vulnerability in Erlang/OTP ssl allows a peer th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89422",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89422:2026-09-22T09:19"
+  },
+  {
+   "ts": "2026-09-22T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68956 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-68956 📢 Source: EEF 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in Erlang/OTP ssh allows an ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68956",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68956:2026-09-22T09:19"
+  },
+  {
+   "ts": "2026-09-22T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65634 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-65634 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Inefficient algorithmic complexity in the Erlang/OTP asn1 OBJECT IDENTIFIER decoder allows a re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65634",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65634:2026-09-22T09:19"
+  },
   {
    "ts": "2026-09-22T08:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16652",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16652:2026-09-21T11:49"
-  },
-  {
-   "ts": "2026-09-21T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] FAA tees up $875M AI tool to help manage air traffic congest",
-   "body": "Lemmy · technology · 점수 118",
-   "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/:2026-09-21T11:49"
-  },
-  {
-   "ts": "2026-09-21T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Beyond jj: config & tools ecosystem",
-   "body": "Lobsters · 점수 75",
-   "link": "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/",
-   "source": "Lobsters",
-   "id": "community:https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/:2026-09-21T11:49"
-  },
-  {
-   "ts": "2026-09-21T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] can somebody confirm this pls?",
-   "body": "Lemmy · programming.dev · 점수 63",
-   "link": "https://feddit.org/pictrs/image/c4d47c67-6bd2-420e-9c39-60fdf69f8548.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://feddit.org/pictrs/image/c4d47c67-6bd2-420e-9c39-60fdf69f8548.png:2026-09-21T11:49"
-  },
-  {
-   "ts": "2026-09-21T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Polymarket Bug Reportedly Let Identity Thieves Into Existing",
-   "body": "Lemmy · technology · 점수 61",
-   "link": "https://gizmodo.com/polymarket-bug-reportedly-let-identity-thieves-into-existing-accounts-2000814520",
-   "source": "Lemmy · technology",
-   "id": "community:https://gizmodo.com/polymarket-bug-reportedly-let-identity-thieves-into-existing-accounts-2000814520:2026-09-21T11:49"
   }
  ]
 }
