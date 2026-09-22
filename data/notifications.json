@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-22T12:19:08+00:00",
+ "generated_at": "2026-09-22T12:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75791 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-75791 📢 Source: Zohocorp 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine ADSelfService Plus versions before build 7001 are vulnerable to an a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75791",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75791:2026-09-22T12:49"
+  },
   {
    "ts": "2026-09-22T12:19:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94571",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94571:2026-09-21T20:49"
-  },
-  {
-   "ts": "2026-09-21T19:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-49811 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-49811 📢 Source: dell 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Dell Command | Monitor (DCM), versions prior to 10.13.2, contain an Incorrect Permission Assi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-49811",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-49811:2026-09-21T19:49"
   }
  ]
 }
