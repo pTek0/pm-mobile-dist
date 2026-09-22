@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-22T13:49:07+00:00",
+ "generated_at": "2026-09-22T14:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93343 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-93343 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True MarketKing plugin for WordPress before 2.1.72 contains a missing authorization vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93343",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93343:2026-09-22T14:19"
+  },
+  {
+   "ts": "2026-09-22T14:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-12718 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-12718 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12718",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12718:2026-09-22T14:19"
+  },
+  {
+   "ts": "2026-09-22T14:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-95675 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-95675 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True D-Link DAP-1360 firmware version 6.14 and earlier contains an unauthenticated remote ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95675",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95675:2026-09-22T14:19"
+  },
   {
    "ts": "2026-09-22T13:19:06+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94623",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94623:2026-09-21T22:19"
-  },
-  {
-   "ts": "2026-09-21T22:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94622 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-94622 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True vLLM versions through 0.29.0 contain a denial of service vulnerability in the NIXL connec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94622",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94622:2026-09-21T22:19"
-  },
-  {
-   "ts": "2026-09-21T22:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94540 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-94540 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False DesktopSMS 1.11.0 by MrPear contains an unauthorized access vulnerability that allows lo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94540",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94540:2026-09-21T22:19"
-  },
-  {
-   "ts": "2026-09-21T21:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93340 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-93340 📢 Source: VulnCheck 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Gladys Assistant before 5.1.0 contains a password reset link poisoning vulnerability that",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93340",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93340:2026-09-21T21:49"
   }
  ]
 }
