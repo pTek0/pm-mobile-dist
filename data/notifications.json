@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-22T20:19:08+00:00",
+ "generated_at": "2026-09-22T20:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-22T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96269 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-96269 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False GNU Emacs 28.1 through 31.1 allows arbitrary code execution upon opening a file, because an ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96269",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96269:2026-09-22T20:49"
+  },
+  {
+   "ts": "2026-09-22T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-67615 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-67615 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True openEQUELLA before 2026.1.0 contains an authenticated remote code execution vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67615",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67615:2026-09-22T20:49"
+  },
+  {
+   "ts": "2026-09-22T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95815 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-95815 📢 Source: VulnCheck 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False OpenClaw iOS before 2026.8.11 logs complete agent deep-link URLs including persistent be",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95815",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95815:2026-09-22T20:49"
+  },
+  {
+   "ts": "2026-09-22T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95814 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-95814 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Vaultwarden through 1.37.3 omits organization membership status validation from three cip",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95814",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95814:2026-09-22T20:49"
+  },
+  {
+   "ts": "2026-09-22T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91018 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-91018 📢 Source: icscert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False lwIP (Lightweight IP) has a double free vulnerability, which could crash the system, cause",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91018",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91018:2026-09-22T20:49"
+  },
+  {
+   "ts": "2026-09-22T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94450 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-94450 📢 Source: AMZN 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Improper validation of the Destination Connection ID length in s2n-quic 1.88.0 and earlier may",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94450",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94450:2026-09-22T20:49"
+  },
   {
    "ts": "2026-09-22T20:19:06+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75699",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75699:2026-09-22T17:49"
-  },
-  {
-   "ts": "2026-09-22T17:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73369 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-73369 📢 Source: adobe 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Adobe Campaign Classic (ACC) is affected by an Improper Control of Generation of Code ('Co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73369",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73369:2026-09-22T17:49"
-  },
-  {
-   "ts": "2026-09-22T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-13087 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-13087 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A heap out-of-bounds write vulnerability was found in the Linux kernel's RPC-over-RDMA serve",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13087",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13087:2026-09-22T17:19"
-  },
-  {
-   "ts": "2026-09-22T16:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-94456 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-94456 📢 Source: postiz 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False Postiz generates security-sensitive credentials using `Math.random()` instead of a cryp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94456",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94456:2026-09-22T16:49"
-  },
-  {
-   "ts": "2026-09-22T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94455 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-94455 📢 Source: postiz 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An HTTP endpoint intended for provisioning enterprise and reseller organisations is reachab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94455",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94455:2026-09-22T16:49"
-  },
-  {
-   "ts": "2026-09-22T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86805 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-86805 📢 Source: glibc 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A time-of-check to time-of-use (TOCTOU) race condition in the dynamic loader ( ld.so ) of the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86805",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86805:2026-09-22T16:19"
-  },
-  {
-   "ts": "2026-09-22T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94640 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-94640 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in rpcbind. This vulnerability allows a remote, unauthenticated attacker to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94640",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94640:2026-09-22T15:49"
   }
  ]
 }
