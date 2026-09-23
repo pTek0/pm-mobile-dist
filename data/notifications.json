@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-23T18:19:07+00:00",
+ "generated_at": "2026-09-23T18:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76648 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-76648 📢 Source: redhat 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True CopyAPIView (awx/awx/api/ generics.py:873 ) sets permission_classes = (IsAuthenticated,), so",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76648",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76648:2026-09-23T18:49"
+  },
+  {
+   "ts": "2026-09-23T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96541 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-96541 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A denial-of-service flaw was found in gnome-remote-desktop. An unauthenticated remote attack",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96541",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96541:2026-09-23T18:49"
+  },
+  {
+   "ts": "2026-09-23T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92730 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-92730 📢 Source: Fluid Attacks 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True LimeSurvey Community Edition 7.0.14 contains a reflected cross-site scripting vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92730",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92730:2026-09-23T18:49"
+  },
   {
    "ts": "2026-09-23T17:49:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14913",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14913:2026-09-23T11:49"
-  },
-  {
-   "ts": "2026-09-23T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12370 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-12370 📢 Source: Zohocorp 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine OpManager, NetFlow Analyzer, and Network Configuration Manager versi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12370",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12370:2026-09-23T11:49"
-  },
-  {
-   "ts": "2026-09-23T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Laid-Off Developers Create AI Model to Replace CEOs and Othe",
-   "body": "Lemmy · technology · 점수 87",
-   "link": "https://www.pcmag.com/news/laid-off-developers-create-ai-model-to-replace-ceos-and-other-executives",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.pcmag.com/news/laid-off-developers-create-ai-model-to-replace-ceos-and-other-executives:2026-09-23T11:49"
-  },
-  {
-   "ts": "2026-09-23T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] It's Donald Trump Versus MAGA on Data Centers | The presiden",
-   "body": "Lemmy · technology · 점수 86",
-   "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.wired.com/story/donald-trump-versus-maga-on-data-centers:2026-09-23T11:49"
   }
  ]
 }
