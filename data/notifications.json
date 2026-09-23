@@ -1,7 +1,177 @@
 {
- "generated_at": "2026-09-23T07:49:07+00:00",
+ "generated_at": "2026-09-23T08:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91806 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91806 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A use-after-free vulnerability exists in Foxit PDF Editor/Reader’s handling of PDF form fiel",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91806",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91806:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91805 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91805 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A use-after-free vulnerability exists in Foxit PDF Editor/Reader’s PDF page-tree handling. A",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91805",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91805:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91804 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91804 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A heap-based out-of-bounds write vulnerability exists in Foxit PDF Editor/Reader’s rendering",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91804",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91804:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91803 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-91803 📢 Source: Foxit 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A local privilege escalation vulnerability exists in the updater of Foxit PDF Editor/Reader ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91803",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91803:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91802 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91802 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A heap-based out-of-bounds write vulnerability exists in Foxit PDF Editor/Reader’s WebP imag",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91802",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91802:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91801 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91801 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A path traversal vulnerability exists in Foxit PDF Editor/Reader's handling of embedded PDF ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91801",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91801:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91800 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-91800 📢 Source: Foxit 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A local privilege escalation vulnerability exists in the installer of Foxit PDF Editor for m",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91800",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91800:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91799 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91799 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A use-after-free vulnerability exists in Foxit PDF Editor/Reader’s handling of JavaScript ar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91799",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91799:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91798 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-91798 📢 Source: Foxit 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A local privilege escalation vulnerability exists in the update daemon of Foxit PDF Editor/R",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91798",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91798:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91797 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91797 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Foxit PDF Editor/Reader failed to validate the directory traversal path in the attachment fi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91797",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91797:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91795 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91795 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Foxit PDF Editor/Reader's FileOpen plugin did not adequately validate certain encryption met",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91795",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91795:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91794 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91794 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False An out-of-bounds write vulnerability exists in the PDF rendering process of Foxit PDF Editor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91794",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91794:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91793 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91793 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False When opening a specially crafted PDF, Foxit PDF Editor/Reader executes scripts that modify a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91793",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91793:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91792 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91792 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False When processing a specially crafted PDF, Foxit PDF Editor/Reader may perform reentrant zoom ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91792",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91792:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91791 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91791 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False When processing a specially crafted PDF file, Foxit PDF Editor/Reader may encounter a reentr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91791",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91791:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91790 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91790 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False When rendering the page image, Foxit PDF Editor/Reader fails to perform validation on image ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91790",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91790:2026-09-23T08:19"
+  },
+  {
+   "ts": "2026-09-23T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91789 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91789 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Foxit PDF Editor/Reader’s U3D/GIF texture decoding path contained insufficient validation of",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91789",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91789:2026-09-23T08:19"
+  },
   {
    "ts": "2026-09-23T05:49:06+00:00",
    "level": "general",
@@ -331,176 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18137",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18137:2026-09-22T22:19"
-  },
-  {
-   "ts": "2026-09-22T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18134 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-18134 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18134",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18134:2026-09-22T22:19"
-  },
-  {
-   "ts": "2026-09-22T22:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-19202 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-19202 📢 Source: Google 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A caching flaw in the toolbox-core package of the mcp-toolbox-sdk-python SDK causes the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19202",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19202:2026-09-22T22:19"
-  },
-  {
-   "ts": "2026-09-22T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18131 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-18131 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18131",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18131:2026-09-22T22:19"
-  },
-  {
-   "ts": "2026-09-22T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18123 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-18123 📢 Source: ibm 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18123",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18123:2026-09-22T22:19"
-  },
-  {
-   "ts": "2026-09-22T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18095 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-18095 📢 Source: ibm 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote authenticated",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18095",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18095:2026-09-22T22:19"
-  },
-  {
-   "ts": "2026-09-22T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18074 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-18074 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18074",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18074:2026-09-22T22:19"
-  },
-  {
-   "ts": "2026-09-22T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18066 (CVSS 7.9)",
-   "body": "🚨 CVE-2026-18066 📢 Source: ibm 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a local attacker to o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18066",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18066:2026-09-22T22:19"
-  },
-  {
-   "ts": "2026-09-22T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17647 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-17647 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a local attacker to e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17647",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17647:2026-09-22T22:19"
-  },
-  {
-   "ts": "2026-09-22T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17646 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-17646 📢 Source: ibm 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote authenticated",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17646",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17646:2026-09-22T22:19"
-  },
-  {
-   "ts": "2026-09-22T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17644 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-17644 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a local attacker to g",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17644",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17644:2026-09-22T21:49"
-  },
-  {
-   "ts": "2026-09-22T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17643 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-17643 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a local attacker to o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17643",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17643:2026-09-22T21:49"
-  },
-  {
-   "ts": "2026-09-22T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17637 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-17637 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow an adjacent-network a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17637",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17637:2026-09-22T21:49"
-  },
-  {
-   "ts": "2026-09-22T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17636 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-17636 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote authenticated",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17636",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17636:2026-09-22T21:49"
-  },
-  {
-   "ts": "2026-09-22T21:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-17635 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-17635 📢 Source: ibm 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17635",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17635:2026-09-22T21:49"
-  },
-  {
-   "ts": "2026-09-22T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17618 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-17618 📢 Source: ibm 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote unauthenticat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17618",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17618:2026-09-22T21:49"
-  },
-  {
-   "ts": "2026-09-22T21:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-17472 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-17472 📢 Source: ibm 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True IBM Concert 1.0.0 through 3.0.0 could allow a remote authenticated attacker to access or mo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17472",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17472:2026-09-22T21:49"
-  },
-  {
-   "ts": "2026-09-22T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-17102 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-17102 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to exec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17102",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17102:2026-09-22T21:49"
   }
  ]
 }
