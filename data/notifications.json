@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-23T15:19:08+00:00",
+ "generated_at": "2026-09-23T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96673 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-96673 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Photoview through 2.4.0 contains an SQL injection vulnerability in the album download rou",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96673",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96673:2026-09-23T15:49"
+  },
   {
    "ts": "2026-09-23T15:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91805",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91805:2026-09-23T08:19"
-  },
-  {
-   "ts": "2026-09-23T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91804 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-91804 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A heap-based out-of-bounds write vulnerability exists in Foxit PDF Editor/Reader’s rendering",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91804",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91804:2026-09-23T08:19"
   }
  ]
 }
