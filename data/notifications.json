@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-23T22:49:07+00:00",
+ "generated_at": "2026-09-23T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Jev in 25 Lines of Python",
+   "body": "Hacker News · 점수 605",
+   "link": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+   "source": "Hacker News",
+   "id": "community:https://www.nobodywho.ai/posts/jev-in-25-lines/:2026-09-23T23:19"
+  },
+  {
+   "ts": "2026-09-23T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Italian parliament votes for return to nuclear energy",
+   "body": "Hacker News · 점수 469",
+   "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+   "source": "Hacker News",
+   "id": "community:https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567:2026-09-23T23:19"
+  },
+  {
+   "ts": "2026-09-23T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Claude Code reads AGENTS.md only when telemetry is on [fixed",
+   "body": "Hacker News · 점수 434",
+   "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+   "source": "Hacker News",
+   "id": "community:https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/:2026-09-23T23:19"
+  },
+  {
+   "ts": "2026-09-23T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Claude discovers a novel enzyme system with CRISPR-like repe",
+   "body": "Hacker News · 점수 388",
+   "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+   "source": "Hacker News",
+   "id": "community:https://www.anthropic.com/news/claude-discovers-novel-enzyme-system:2026-09-23T23:19"
+  },
+  {
+   "ts": "2026-09-23T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Fixing the Portobello Police Station Clock",
+   "body": "Hacker News · 점수 354",
+   "link": "https://pointinthecloud.com/2026-04-11-211700.html",
+   "source": "Hacker News",
+   "id": "community:https://pointinthecloud.com/2026-04-11-211700.html:2026-09-23T23:19"
+  },
   {
    "ts": "2026-09-23T22:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-96758",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96758:2026-09-23T16:49"
-  },
-  {
-   "ts": "2026-09-23T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-96757 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-96757 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True orval before 8.29.0 fails to escape OpenAPI media-type keys when emitting them into s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96757",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96757:2026-09-23T16:49"
-  },
-  {
-   "ts": "2026-09-23T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-96756 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-96756 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True orval versions before 8.30.0 contain a code injection vulnerability in the @orval /co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96756",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96756:2026-09-23T16:49"
-  },
-  {
-   "ts": "2026-09-23T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-96755 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-96755 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True orval versions 8.14.0 through 8.28.1 contain a code injection vulnerability in the @o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96755",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96755:2026-09-23T16:49"
-  },
-  {
-   "ts": "2026-09-23T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-96754 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-96754 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True orval versions before 8.29.0 contain a code injection vulnerability in the @orval /ho",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96754",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96754:2026-09-23T16:49"
-  },
-  {
-   "ts": "2026-09-23T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93349 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-93349 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Frictionless through 5.20.0rc1 contains an OS command injection vulnerability in the expl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93349",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93349:2026-09-23T16:49"
   }
  ]
 }
