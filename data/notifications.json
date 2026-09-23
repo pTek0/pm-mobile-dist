@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-23T16:49:13+00:00",
+ "generated_at": "2026-09-23T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96808 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-96808 📢 Source: mitre 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False In Flatpak before 1.18.1, the revokefs writer, used by the flatpak-system-helper to receive ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96808",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96808:2026-09-23T17:19"
+  },
+  {
+   "ts": "2026-09-23T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88832 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-88832 📢 Source: redhat 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False BusyBox romfs volume ID parsing uses unbounded strlen on attacker-controlled metadata, caus",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88832",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88832:2026-09-23T17:19"
+  },
+  {
+   "ts": "2026-09-23T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88830 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-88830 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A unit confusion in BusyBox TLS Montgomery reduction buffer allocation causes a pre-authenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88830",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88830:2026-09-23T17:19"
+  },
   {
    "ts": "2026-09-23T16:49:07+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://www.ladbible.com/technology/ai-agent-email-ai-ethics-professor-requesting-paid-work-985151-20260914",
    "source": "Lemmy · technology",
    "id": "community:https://www.ladbible.com/technology/ai-agent-email-ai-ethics-professor-requesting-paid-work-985151-20260914:2026-09-23T11:49"
-  },
-  {
-   "ts": "2026-09-23T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fearless SIMD v1.0 is here",
-   "body": "Lobsters · 점수 59",
-   "link": "https://linebender.org/blog/fearless-simd-1-0/",
-   "source": "Lobsters",
-   "id": "community:https://linebender.org/blog/fearless-simd-1-0/:2026-09-23T11:49"
-  },
-  {
-   "ts": "2026-09-23T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Arguing about arguments",
-   "body": "Lobsters · 점수 54",
-   "link": "https://steveklabnik.com/writing/arguing-about-arguments/",
-   "source": "Lobsters",
-   "id": "community:https://steveklabnik.com/writing/arguing-about-arguments/:2026-09-23T11:49"
-  },
-  {
-   "ts": "2026-09-23T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft killed FoxPro in 2007. Anyway, here's FoxPro reviv",
-   "body": "Hacker News · 점수 333",
-   "link": "https://foxscript.org/",
-   "source": "Hacker News",
-   "id": "community:https://foxscript.org/:2026-09-23T11:19"
   }
  ]
 }
