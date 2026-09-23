@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-23T02:19:07+00:00",
+ "generated_at": "2026-09-23T02:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91777 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-91777 📢 Source: HeroDevs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Forward-reference completion for @JsonIdentityInfo object IDs in FasterXML jackson-databin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91777",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91777:2026-09-23T02:49"
+  },
+  {
+   "ts": "2026-09-23T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91776 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-91776 📢 Source: HeroDevs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True TypeDeserializerBase._findDeserializer() in FasterXML jackson-databind caches the resolved",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91776",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91776:2026-09-23T02:49"
+  },
+  {
+   "ts": "2026-09-23T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-89425 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-89425 📢 Source: HeroDevs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True UTF8DataInputJsonParser._reportInvalidToken() in FasterXML jackson-core builds the offendi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89425",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89425:2026-09-23T02:49"
+  },
   {
    "ts": "2026-09-23T01:19:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16672",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16672:2026-09-22T21:49"
-  },
-  {
-   "ts": "2026-09-22T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16469 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-16469 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 px-runtime could allow a remote authenticated attac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16469",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16469:2026-09-22T21:49"
-  },
-  {
-   "ts": "2026-09-22T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16468 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-16468 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to exec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16468",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16468:2026-09-22T21:49"
-  },
-  {
-   "ts": "2026-09-22T21:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-16346 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-16346 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16346",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16346:2026-09-22T21:49"
   }
  ]
 }
