@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-23T09:49:07+00:00",
+ "generated_at": "2026-09-23T10:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96454 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-96454 📢 Source: JFROG 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Pake turns a website into a desktop application built on Tauri. Every application it generate",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96454",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96454:2026-09-23T10:19"
+  },
+  {
+   "ts": "2026-09-23T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95627 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-95627 📢 Source: JFROG 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True When a Tauri application uses the dialog plugin's file or folder picker, an attacker with Jav",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95627",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95627:2026-09-23T10:19"
+  },
   {
    "ts": "2026-09-23T09:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18172",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18172:2026-09-22T22:49"
-  },
-  {
-   "ts": "2026-09-22T22:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-18169 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-18169 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote authentic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18169",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18169:2026-09-22T22:49"
-  },
-  {
-   "ts": "2026-09-22T22:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-18163 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-18163 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18163",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18163:2026-09-22T22:49"
   }
  ]
 }
