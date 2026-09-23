@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-09-23T19:19:10+00:00",
+ "generated_at": "2026-09-23T19:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96889 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-96889 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in librsvg. When processing an SVG document containing nested XML inclusio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96889",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96889:2026-09-23T19:49"
+  },
+  {
+   "ts": "2026-09-23T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85475 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-85475 📢 Source: redhat 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the Ansible Automation Platform automation controller. The external logg",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85475",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85475:2026-09-23T19:49"
+  },
+  {
+   "ts": "2026-09-23T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-84719 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-84719 📢 Source: redhat 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in the Ansible Automation Platform automation-controller. When a Workfl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84719",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84719:2026-09-23T19:49"
+  },
+  {
+   "ts": "2026-09-23T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84714 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-84714 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the automation-controller input-validation guard sanitize_jinja(). The f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84714",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84714:2026-09-23T19:49"
+  },
+  {
+   "ts": "2026-09-23T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84706 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-84706 📢 Source: redhat 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Ansible Automation Platform's automation-controller. The custom Credenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84706",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84706:2026-09-23T19:49"
+  },
+  {
+   "ts": "2026-09-23T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75884 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-75884 📢 Source: redhat 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in AWX. The container group pod_spec_override field uses an incomplete ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75884",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75884:2026-09-23T19:49"
+  },
+  {
+   "ts": "2026-09-23T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96826 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-96826 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96826",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96826:2026-09-23T19:49"
+  },
+  {
+   "ts": "2026-09-23T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94183 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-94183 📢 Source: BCNY 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Arc Search for Android before version 1.12.10 does not display a fullscreen notification when ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94183",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94183:2026-09-23T19:49"
+  },
   {
    "ts": "2026-09-23T19:19:07+00:00",
    "level": "important",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86678",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86678:2026-09-23T13:49"
-  },
-  {
-   "ts": "2026-09-23T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86677 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-86677 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine Applications Manager versions 182000 and below allowed a low-privile",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86677",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86677:2026-09-23T13:49"
-  },
-  {
-   "ts": "2026-09-23T13:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-96560 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-96560 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True LightLLM through 1.2.0 contains a remote code execution vulnerability in the KV-trans",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96560",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96560:2026-09-23T13:49"
-  },
-  {
-   "ts": "2026-09-23T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96512 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-96512 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in sudo. When sudoers rules use NOTBEFORE or NOTAFTER time-based access re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96512",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96512:2026-09-23T13:49"
-  },
-  {
-   "ts": "2026-09-23T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86683 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-86683 📢 Source: Zohocorp 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine Applications Manager versions 182000 and below allowed a low-privile",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86683",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86683:2026-09-23T13:49"
-  },
-  {
-   "ts": "2026-09-23T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86679 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-86679 📢 Source: Zohocorp 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine Applications Manager versions 182000 and below were vulnerable to a ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86679",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86679:2026-09-23T13:49"
-  },
-  {
-   "ts": "2026-09-23T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12974 (CVSS 7.9)",
-   "body": "🚨 CVE-2026-12974 📢 Source: forcepoint 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: True A Security Policy Bypass vulnerability exists in Forcepoint Security Engine (NGFW). This",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12974",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12974:2026-09-23T13:49"
-  },
-  {
-   "ts": "2026-09-23T13:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-86708 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-86708 📢 Source: Zohocorp 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True ZohoCorp ManageEngine Applications Manager versions 182200 and below were vulnerable to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86708",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86708:2026-09-23T13:49"
-  },
-  {
-   "ts": "2026-09-23T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86681 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-86681 📢 Source: Zohocorp 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine Applications Manager versions 182200 and below were vulnerable to a ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86681",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86681:2026-09-23T13:49"
   }
  ]
 }
