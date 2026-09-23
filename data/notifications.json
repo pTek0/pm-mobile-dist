@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-23T14:49:07+00:00",
+ "generated_at": "2026-09-23T15:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96275 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-96275 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A malicious or compromised Flatpak repository can write attacker-controlled content to arbit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96275",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96275:2026-09-23T15:19"
+  },
+  {
+   "ts": "2026-09-23T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96600 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-96600 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Isotope eCommerce through 2.9.10 contains a blind SQL injection vulnerability in backend ca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96600",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96600:2026-09-23T15:19"
+  },
+  {
+   "ts": "2026-09-23T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96599 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-96599 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Isotope eCommerce through 2.9.10 derives order identifiers from uniqid() instead of a cry",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96599",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96599:2026-09-23T15:19"
+  },
+  {
+   "ts": "2026-09-23T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73591 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-73591 📢 Source: dell 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains an In",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73591",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73591:2026-09-23T15:19"
+  },
   {
    "ts": "2026-09-23T14:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91804",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91804:2026-09-23T08:19"
-  },
-  {
-   "ts": "2026-09-23T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91803 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-91803 📢 Source: Foxit 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A local privilege escalation vulnerability exists in the updater of Foxit PDF Editor/Reader ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91803",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91803:2026-09-23T08:19"
-  },
-  {
-   "ts": "2026-09-23T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91802 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-91802 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A heap-based out-of-bounds write vulnerability exists in Foxit PDF Editor/Reader’s WebP imag",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91802",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91802:2026-09-23T08:19"
-  },
-  {
-   "ts": "2026-09-23T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91801 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-91801 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A path traversal vulnerability exists in Foxit PDF Editor/Reader's handling of embedded PDF ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91801",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91801:2026-09-23T08:19"
-  },
-  {
-   "ts": "2026-09-23T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91800 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-91800 📢 Source: Foxit 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A local privilege escalation vulnerability exists in the installer of Foxit PDF Editor for m",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91800",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91800:2026-09-23T08:19"
   }
  ]
 }
