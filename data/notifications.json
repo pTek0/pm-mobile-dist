@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-23T17:19:07+00:00",
+ "generated_at": "2026-09-23T17:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91775 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-91775 📢 Source: Fluid Attacks 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True LimeSurvey fails to safely encode attacker-controlled content from a crafted .lss sur",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91775",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91775:2026-09-23T17:49"
+  },
   {
    "ts": "2026-09-23T17:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers",
    "source": "Lemmy · technology",
    "id": "community:https://www.wired.com/story/donald-trump-versus-maga-on-data-centers:2026-09-23T11:49"
-  },
-  {
-   "ts": "2026-09-23T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI ethics professor receives ‘dystopian’ email from 12-day-o",
-   "body": "Lemmy · technology · 점수 76",
-   "link": "https://www.ladbible.com/technology/ai-agent-email-ai-ethics-professor-requesting-paid-work-985151-20260914",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.ladbible.com/technology/ai-agent-email-ai-ethics-professor-requesting-paid-work-985151-20260914:2026-09-23T11:49"
   }
  ]
 }
