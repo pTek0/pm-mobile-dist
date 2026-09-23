@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-09-23T20:49:07+00:00",
+ "generated_at": "2026-09-23T21:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80425 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-80425 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to exec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80425",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80425:2026-09-23T21:19"
+  },
+  {
+   "ts": "2026-09-23T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80412 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-80412 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to exec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80412",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80412:2026-09-23T21:19"
+  },
+  {
+   "ts": "2026-09-23T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80379 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-80379 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to exec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80379",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80379:2026-09-23T21:19"
+  },
+  {
+   "ts": "2026-09-23T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-6935 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-6935 📢 Source: ibm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False IBM Concert 1.0.0 through 3.0.0 invokes operating system commands without fully qualifying exec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6935",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6935:2026-09-23T21:19"
+  },
+  {
+   "ts": "2026-09-23T21:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-6928 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-6928 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Concert 1.0.0 through 3.0.0 references or accesses memory after it has been freed. This ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6928",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6928:2026-09-23T21:19"
+  },
+  {
+   "ts": "2026-09-23T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-6794 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-6794 📢 Source: ibm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False IBM Concert 1.0.0 through 3.0.0 has a double free vulnerability that exists due to incorrect me",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6794",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6794:2026-09-23T21:19"
+  },
+  {
+   "ts": "2026-09-23T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75886 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-75886 📢 Source: redhat 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A flaw was found in openshift/console. An unauthenticated remote attacker can exploit a misc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75886",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75886:2026-09-23T21:19"
+  },
+  {
+   "ts": "2026-09-23T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82369 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-82369 📢 Source: brocade 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Insufficient input sanitization of shell metacharacters in the Brocade SANnav CLI scriptin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82369",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82369:2026-09-23T21:19"
+  },
+  {
+   "ts": "2026-09-23T21:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-6730 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-6730 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Concert 1.0.0 through 3.0.0 is vulnerable to a buffer overflow, caused by improper bound",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6730",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6730:2026-09-23T21:19"
+  },
+  {
+   "ts": "2026-09-23T21:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-6721 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-6721 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Concert 1.0.0 through 3.0.0 allows an unauthenticated remote attacker can supply special",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6721",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6721:2026-09-23T21:19"
+  },
   {
    "ts": "2026-09-23T19:49:07+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18184",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18184:2026-09-23T16:19"
-  },
-  {
-   "ts": "2026-09-23T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18181 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-18181 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18181",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18181:2026-09-23T16:19"
-  },
-  {
-   "ts": "2026-09-23T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96673 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-96673 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Photoview through 2.4.0 contains an SQL injection vulnerability in the album download rou",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96673",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96673:2026-09-23T15:49"
-  },
-  {
-   "ts": "2026-09-23T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96275 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-96275 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A malicious or compromised Flatpak repository can write attacker-controlled content to arbit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96275",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96275:2026-09-23T15:19"
-  },
-  {
-   "ts": "2026-09-23T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96600 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-96600 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Isotope eCommerce through 2.9.10 contains a blind SQL injection vulnerability in backend ca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96600",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96600:2026-09-23T15:19"
-  },
-  {
-   "ts": "2026-09-23T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96599 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-96599 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Isotope eCommerce through 2.9.10 derives order identifiers from uniqid() instead of a cry",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96599",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96599:2026-09-23T15:19"
-  },
-  {
-   "ts": "2026-09-23T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73591 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-73591 📢 Source: dell 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains an In",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73591",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73591:2026-09-23T15:19"
-  },
-  {
-   "ts": "2026-09-23T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73588 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-73588 📢 Source: dell 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains a Mis",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73588",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73588:2026-09-23T14:49"
-  },
-  {
-   "ts": "2026-09-23T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96609 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-96609 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Robur Albatross 1.0.0 through 2.x before 2.7.2 does not limit use of the ring buffer, leading",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96609",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96609:2026-09-23T14:49"
-  },
-  {
-   "ts": "2026-09-23T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18177 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-18177 📢 Source: ibm 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18177",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18177:2026-09-23T14:19"
-  },
-  {
-   "ts": "2026-09-23T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86678 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-86678 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine Applications Manager versions 182000 and below allowed a low-privile",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86678",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86678:2026-09-23T13:49"
   }
  ]
 }
