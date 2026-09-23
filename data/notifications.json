@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-09-23T15:49:07+00:00",
+ "generated_at": "2026-09-23T16:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93769 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-93769 📢 Source: Fluid Attacks 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True HumHub 1.18.5 is affected by a stored cross-site scripting (XSS) vulnerability that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93769",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93769:2026-09-23T16:19"
+  },
+  {
+   "ts": "2026-09-23T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19179 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-19179 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to m",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19179",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19179:2026-09-23T16:19"
+  },
+  {
+   "ts": "2026-09-23T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18875 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-18875 📢 Source: ibm 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift is vulnerable to RAG poisoning via",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18875",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18875:2026-09-23T16:19"
+  },
+  {
+   "ts": "2026-09-23T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18872 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-18872 📢 Source: ibm 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift is vulnerable to stored cross",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18872",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18872:2026-09-23T16:19"
+  },
+  {
+   "ts": "2026-09-23T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18490 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-18490 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift is vulnerable to unauthenticated ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18490",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18490:2026-09-23T16:19"
+  },
+  {
+   "ts": "2026-09-23T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18185 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-18185 📢 Source: ibm 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18185",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18185:2026-09-23T16:19"
+  },
+  {
+   "ts": "2026-09-23T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18184 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-18184 📢 Source: ibm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18184",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18184:2026-09-23T16:19"
+  },
+  {
+   "ts": "2026-09-23T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18181 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-18181 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18181",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18181:2026-09-23T16:19"
+  },
   {
    "ts": "2026-09-23T15:49:06+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-96442",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96442:2026-09-23T10:49"
-  },
-  {
-   "ts": "2026-09-23T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96454 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-96454 📢 Source: JFROG 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Pake turns a website into a desktop application built on Tauri. Every application it generate",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96454",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96454:2026-09-23T10:19"
-  },
-  {
-   "ts": "2026-09-23T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95627 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-95627 📢 Source: JFROG 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True When a Tauri application uses the dialog plugin's file or folder picker, an attacker with Jav",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95627",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95627:2026-09-23T10:19"
-  },
-  {
-   "ts": "2026-09-23T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95626 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-95626 📢 Source: JFROG 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Tauri's Content Security Policy hardening, which injects a random nonce to restrict script ex",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95626",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95626:2026-09-23T09:49"
-  },
-  {
-   "ts": "2026-09-23T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-42801 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-42801 📢 Source: ASR 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True NULL pointer dereference vulnerability in ASR Crane，Falcon on Linux (as_rrc module) allows Poin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-42801",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-42801:2026-09-23T09:19"
-  },
-  {
-   "ts": "2026-09-23T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-31377 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-31377 📢 Source: apache 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An Improper Authentication vulnerability in the Apache Doris Frontend (FE) meta service allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-31377",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-31377:2026-09-23T09:19"
-  },
-  {
-   "ts": "2026-09-23T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15027 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-15027 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True CGServiSign developed by Changing has a OS Command Injection vulnerability. Unauthenticated ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15027",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15027:2026-09-23T08:49"
-  },
-  {
-   "ts": "2026-09-23T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91806 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-91806 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A use-after-free vulnerability exists in Foxit PDF Editor/Reader’s handling of PDF form fiel",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91806",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91806:2026-09-23T08:19"
-  },
-  {
-   "ts": "2026-09-23T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91805 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-91805 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A use-after-free vulnerability exists in Foxit PDF Editor/Reader’s PDF page-tree handling. A",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91805",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91805:2026-09-23T08:19"
   }
  ]
 }
