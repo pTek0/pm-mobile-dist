@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-23T08:19:07+00:00",
+ "generated_at": "2026-09-23T08:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T08:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15027 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-15027 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True CGServiSign developed by Changing has a OS Command Injection vulnerability. Unauthenticated ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15027",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15027:2026-09-23T08:49"
+  },
   {
    "ts": "2026-09-23T08:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18152",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18152:2026-09-22T22:19"
-  },
-  {
-   "ts": "2026-09-22T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18137 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-18137 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18137",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18137:2026-09-22T22:19"
   }
  ]
 }
