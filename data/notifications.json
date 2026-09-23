@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-09-23T18:49:07+00:00",
+ "generated_at": "2026-09-23T19:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-96770 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-96770 📢 Source: Temporal 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True All published s2s-proxy versions through 0.2.2 are affected. In versions 0.1.16 throug",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96770",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96770:2026-09-23T19:19"
+  },
+  {
+   "ts": "2026-09-23T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-90905 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-90905 📢 Source: Joomla 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - joomshaper.com - Missing CSRF and Access Control on Site Configuration Up",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90905",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90905:2026-09-23T19:19"
+  },
+  {
+   "ts": "2026-09-23T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-90904 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-90904 📢 Source: Joomla 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - joomshaper.com - Broken Access Control (ACL Bypass) in ApiController Reco",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90904",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90904:2026-09-23T19:19"
+  },
+  {
+   "ts": "2026-09-23T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-90903 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-90903 📢 Source: Joomla 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - joomshaper.com - Missing CSRF Token Verification across Administrator AJA",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90903",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90903:2026-09-23T19:19"
+  },
+  {
+   "ts": "2026-09-23T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-90902 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-90902 📢 Source: Joomla 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - joomshaper.com - Authenticated, Privileged SQL Injection in Coupon Bulk U",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90902",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90902:2026-09-23T19:19"
+  },
+  {
+   "ts": "2026-09-23T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-90901 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-90901 📢 Source: Joomla 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - joomshaper.com - Authenticated, Privileged SQL Injection in Media Image D",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90901",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90901:2026-09-23T19:19"
+  },
+  {
+   "ts": "2026-09-23T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-90899 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-90899 📢 Source: Joomla 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - joomshaper.com - Unauthenticated PII Exposure via IDOR in Guest Checkout ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90899",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90899:2026-09-23T19:19"
+  },
+  {
+   "ts": "2026-09-23T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84499 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-84499 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Red Hat Ansible Automation Platform's automation- controller. Survey que",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84499",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84499:2026-09-23T19:19"
+  },
+  {
+   "ts": "2026-09-23T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84486 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-84486 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Red Hat Ansible Automation Platform's automation- controller. Four debug",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84486",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84486:2026-09-23T19:19"
+  },
+  {
+   "ts": "2026-09-23T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-84474 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-84474 📢 Source: redhat 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in Red Hat Ansible Automation Platform's automation- controller. The pr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84474",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84474:2026-09-23T19:19"
+  },
+  {
+   "ts": "2026-09-23T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82368 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-82368 📢 Source: brocade 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Insecure access controls on internal service ports in Brocade SANnav versions before 3.0.1a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82368",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82368:2026-09-23T19:19"
+  },
   {
    "ts": "2026-09-23T18:49:07+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86681",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86681:2026-09-23T13:49"
-  },
-  {
-   "ts": "2026-09-23T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76979 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-76979 📢 Source: Zohocorp 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine OpManager and Firewall Analyzer versions 12.8.709 and below were vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76979",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76979:2026-09-23T12:49"
-  },
-  {
-   "ts": "2026-09-23T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76978 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-76978 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine OpManager and Firewall Analyzer versions 12.8.709 and below were vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76978",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76978:2026-09-23T12:49"
-  },
-  {
-   "ts": "2026-09-23T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75825 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-75825 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine OpManager versions 12.8.710 and below with the Application Manager P",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75825",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75825:2026-09-23T12:49"
-  },
-  {
-   "ts": "2026-09-23T12:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-19599 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-19599 📢 Source: Zohocorp 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True ZohoCorp ManageEngine OpManager MSP versions 12.8.709 and below were vulnerable to a R",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19599",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19599:2026-09-23T12:49"
-  },
-  {
-   "ts": "2026-09-23T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76980 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-76980 📢 Source: Zohocorp 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False ZohoCorp ManageEngine OpManager and Firewall Analyzer versions 12.8.709 and below were vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76980",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76980:2026-09-23T12:49"
-  },
-  {
-   "ts": "2026-09-23T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84787 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-84787 📢 Source: Zohocorp 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine OpManager and Firewall Analyzer versions 12.8.710 and below were vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84787",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84787:2026-09-23T12:19"
-  },
-  {
-   "ts": "2026-09-23T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84789 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-84789 📢 Source: Zohocorp 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine OpManager and Firewall Analyzer versions 12.8.710 and below were vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84789",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84789:2026-09-23T12:19"
-  },
-  {
-   "ts": "2026-09-23T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84791 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-84791 📢 Source: Zohocorp 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine OpManager and Firewall Analyzer versions 12.8.710 and below were vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84791",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84791:2026-09-23T12:19"
-  },
-  {
-   "ts": "2026-09-23T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] No Sloptober",
-   "body": "Lobsters · 점수 50",
-   "link": "https://no-sloptober.com/",
-   "source": "Lobsters",
-   "id": "community:https://no-sloptober.com/:2026-09-23T12:19"
-  },
-  {
-   "ts": "2026-09-23T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15358 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-15358 📢 Source: Zohocorp 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine OpManager and Network Configuration Manager versions before 12.8.671",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15358",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15358:2026-09-23T11:49"
-  },
-  {
-   "ts": "2026-09-23T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14913 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-14913 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine OpManager and Firewall Analyzer versions 12.8.669 and below were vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14913",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14913:2026-09-23T11:49"
   }
  ]
 }
