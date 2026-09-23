@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-23T13:49:09+00:00",
+ "generated_at": "2026-09-23T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18177 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-18177 📢 Source: ibm 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18177",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18177:2026-09-23T14:19"
+  },
   {
    "ts": "2026-09-23T13:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91798",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91798:2026-09-23T08:19"
-  },
-  {
-   "ts": "2026-09-23T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91797 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-91797 📢 Source: Foxit 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Foxit PDF Editor/Reader failed to validate the directory traversal path in the attachment fi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91797",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91797:2026-09-23T08:19"
   }
  ]
 }
