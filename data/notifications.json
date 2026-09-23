@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-23T22:19:08+00:00",
+ "generated_at": "2026-09-23T22:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70125 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-70125 📢 Source: microsoft 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-23T22:40:40.537Z https://cvefeed.io/vuln/detail/CVE-2026-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70125",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70125:2026-09-23T22:49"
+  },
   {
    "ts": "2026-09-23T21:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93349",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93349:2026-09-23T16:49"
-  },
-  {
-   "ts": "2026-09-23T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93769 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-93769 📢 Source: Fluid Attacks 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True HumHub 1.18.5 is affected by a stored cross-site scripting (XSS) vulnerability that a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93769",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93769:2026-09-23T16:19"
   }
  ]
 }
