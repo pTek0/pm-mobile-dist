@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-23T10:19:07+00:00",
+ "generated_at": "2026-09-23T10:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-23T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-5695 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-5695 📢 Source: INCIBE 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Arbitrary file upload vulnerability due to a lack of proper validation in upload forms. This ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-5695",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-5695:2026-09-23T10:49"
+  },
+  {
+   "ts": "2026-09-23T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96455 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-96455 📢 Source: JFROG 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The Reachy Mini daemon exposes an HTTP API for managing the robot. Its app installation endp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96455",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96455:2026-09-23T10:49"
+  },
+  {
+   "ts": "2026-09-23T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96442 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-96442 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A code execution flaw was found in Emacs, affecting versions prior to 31.2. The Flymake mod",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96442",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96442:2026-09-23T10:49"
+  },
   {
    "ts": "2026-09-23T10:19:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
    "source": "Hacker News",
    "id": "community:https://www.cryptocellar.org/bgac/the-mvueh-break.html:2026-09-22T23:19"
-  },
-  {
-   "ts": "2026-09-22T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Pentagon says overreliance on AI contributed to missile stri",
-   "body": "Hacker News · 점수 310",
-   "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-   "source": "Hacker News",
-   "id": "community:https://www.bloomberg.com/graphics/2026-iran-school-attack/:2026-09-22T23:19"
-  },
-  {
-   "ts": "2026-09-22T22:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18176 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-18176 📢 Source: ibm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18176",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18176:2026-09-22T22:49"
-  },
-  {
-   "ts": "2026-09-22T22:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18172 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-18172 📢 Source: ibm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18172",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18172:2026-09-22T22:49"
   }
  ]
 }
