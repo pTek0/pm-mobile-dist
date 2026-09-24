@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-24T05:19:08+00:00",
+ "generated_at": "2026-09-24T05:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14780 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-14780 📢 Source: PaperCut 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A vulnerability exists in the PaperCut NG/MF platform's device-scripting functionality due",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14780",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14780:2026-09-24T05:49"
+  },
   {
    "ts": "2026-09-24T03:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84706",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84706:2026-09-23T19:49"
-  },
-  {
-   "ts": "2026-09-23T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75884 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-75884 📢 Source: redhat 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in AWX. The container group pod_spec_override field uses an incomplete ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75884",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75884:2026-09-23T19:49"
   }
  ]
 }
