@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-24T06:49:07+00:00",
+ "generated_at": "2026-09-24T07:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82077 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-82077 📢 Source: PaperCut 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True An improper limitation of a pathname to a restricted directory (path traversal) vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82077",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82077:2026-09-24T07:19"
+  },
   {
    "ts": "2026-09-24T05:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84714",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84714:2026-09-23T19:49"
-  },
-  {
-   "ts": "2026-09-23T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84706 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-84706 📢 Source: redhat 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Ansible Automation Platform's automation-controller. The custom Credenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84706",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84706:2026-09-23T19:49"
   }
  ]
 }
