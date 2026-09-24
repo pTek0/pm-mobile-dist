@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-24T21:49:07+00:00",
+ "generated_at": "2026-09-24T22:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87722 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-87722 📢 Source: Google 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Uncontrolled Resource Consumption (CWE-400 / CWE-1333) in regex search query predicates (suc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87722",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87722:2026-09-24T22:19"
+  },
+  {
+   "ts": "2026-09-24T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87721 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-87721 📢 Source: Google 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Uncontrolled Resource Consumption (CWE-400 / CWE-407) in the ANTLR 3 search query parser (Qu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87721",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87721:2026-09-24T22:19"
+  },
+  {
+   "ts": "2026-09-24T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87720 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-87720 📢 Source: Google 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Incorrect Authorization (CWE-863) in project name normalization (ProjectUtil.stripGitSuffix)",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87720",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87720:2026-09-24T22:19"
+  },
   {
    "ts": "2026-09-24T20:49:06+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-88907",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88907:2026-09-24T13:19"
-  },
-  {
-   "ts": "2026-09-24T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-19072 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-19072 📢 Source: rapid7 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Velociraptor stores the compiled VQL in the hunt object internally to avoid having to re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19072",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19072:2026-09-24T13:19"
-  },
-  {
-   "ts": "2026-09-24T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96515 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-96515 📢 Source: CERT-In 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False This vulnerability exists in the Netlink ICT HG323RW router due to insufficient authorizat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96515",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96515:2026-09-24T12:49"
-  },
-  {
-   "ts": "2026-09-24T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-7169 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-7169 📢 Source: INCIBE 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False a vulnerability involving an unchecked search path element in Evope Collector, versions prio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7169",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7169:2026-09-24T11:49"
   }
  ]
 }
