@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-24T01:49:07+00:00",
+ "generated_at": "2026-09-24T02:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97056 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-97056 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True SigNoz versions from v0.98.0 up to (but not including) v0.143.0, when configured to use t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97056",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97056:2026-09-24T02:19"
+  },
+  {
+   "ts": "2026-09-24T02:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-97055 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-97055 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True SigNoz from v0.8.0 before v0.143.0 defaults the JWT tokenizer signing secret (tokeniz",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97055",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97055:2026-09-24T02:19"
+  },
   {
    "ts": "2026-09-24T00:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94183",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94183:2026-09-23T19:49"
-  },
-  {
-   "ts": "2026-09-23T19:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-96770 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-96770 📢 Source: Temporal 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True All published s2s-proxy versions through 0.2.2 are affected. In versions 0.1.16 throug",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96770",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96770:2026-09-23T19:19"
-  },
-  {
-   "ts": "2026-09-23T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-90905 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-90905 📢 Source: Joomla 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - joomshaper.com - Missing CSRF and Access Control on Site Configuration Up",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90905",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90905:2026-09-23T19:19"
   }
  ]
 }
