@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-24T18:19:08+00:00",
+ "generated_at": "2026-09-24T18:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86857 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-86857 📢 Source: SN 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True ServiceNow has remediated an authorization bypass security issue that was identified in the Serv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86857",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86857:2026-09-24T18:49"
+  },
+  {
+   "ts": "2026-09-24T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13248 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-13248 📢 Source: Honeywell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An Authenticated Remote Code Execution via Arbitrary File Write in the Intermec Fingerpri",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13248",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13248:2026-09-24T18:49"
+  },
+  {
+   "ts": "2026-09-24T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96749 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-96749 📢 Source: mongodb 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False An integer overflow in the BSON document encoding component of the MongoDB Python Driver's",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96749",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96749:2026-09-24T18:49"
+  },
+  {
+   "ts": "2026-09-24T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96748 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-96748 📢 Source: mongodb 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True PyMongo's connection string parsing decodes percent-encoded characters in the host portion ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96748",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96748:2026-09-24T18:49"
+  },
+  {
+   "ts": "2026-09-24T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82371 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-82371 📢 Source: brocade 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Plaintext exposure of sensitive authentication data in Brocade SANnav discovery service lo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82371",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82371:2026-09-24T18:49"
+  },
   {
    "ts": "2026-09-24T17:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://www.nytimes.com/2026/09/21/opinion/bernie-sanders-case-ai-policy.html",
    "source": "Lemmy · technology",
    "id": "community:https://www.nytimes.com/2026/09/21/opinion/bernie-sanders-case-ai-policy.html:2026-09-24T00:49"
-  },
-  {
-   "ts": "2026-09-24T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] French prosecutors probe secret filming of women with smart ",
-   "body": "Lemmy · technology · 점수 55",
-   "link": "https://www.rfi.fr/en/international-news/20260923-french-prosecutors-probe-secret-filming-of-women-with-smart-glasses",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.rfi.fr/en/international-news/20260923-french-prosecutors-probe-secret-filming-of-women-with-smart-glasses:2026-09-24T00:49"
-  },
-  {
-   "ts": "2026-09-24T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Gemini 3.8 text-to-speech",
-   "body": "Hacker News · 점수 224",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-   "source": "Hacker News",
-   "id": "community:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/:2026-09-24T00:19"
-  },
-  {
-   "ts": "2026-09-24T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tokens too cheap to meter",
-   "body": "Hacker News · 점수 212",
-   "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
-   "source": "Hacker News",
-   "id": "community:https://jyn.dev/tokens-too-cheap-to-meter/:2026-09-24T00:19"
-  },
-  {
-   "ts": "2026-09-24T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Stripe's Knowledge AI Platform",
-   "body": "Hacker News · 점수 166",
-   "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-   "source": "Hacker News",
-   "id": "community:https://stripe.dev/blog/meet-stripes-knowledge-ai-platform:2026-09-24T00:19"
-  },
-  {
-   "ts": "2026-09-24T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Z80 REPL (2018)",
-   "body": "Hacker News · 점수 137",
-   "link": "https://abagames.github.io/z80-repl/index.html",
-   "source": "Hacker News",
-   "id": "community:https://abagames.github.io/z80-repl/index.html:2026-09-24T00:19"
   }
  ]
 }
