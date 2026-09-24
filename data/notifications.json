@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-24T12:49:08+00:00",
+ "generated_at": "2026-09-24T13:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88907 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-88907 📢 Source: TR-CERT 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Incorrect Authorization vulnerability in TÜBİTAK ULAKBİM UlakPDF allows Authentication Bypa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88907",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88907:2026-09-24T13:19"
+  },
+  {
+   "ts": "2026-09-24T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19072 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-19072 📢 Source: rapid7 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Velociraptor stores the compiled VQL in the hunt object internally to avoid having to re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19072",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19072:2026-09-24T13:19"
+  },
   {
    "ts": "2026-09-24T12:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-70125",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70125:2026-09-23T22:49"
-  },
-  {
-   "ts": "2026-09-23T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81537 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-81537 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to exec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81537",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81537:2026-09-23T21:49"
-  },
-  {
-   "ts": "2026-09-23T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81536 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-81536 📢 Source: ibm 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obta",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81536",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81536:2026-09-23T21:49"
   }
  ]
 }
