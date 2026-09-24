@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-24T12:19:08+00:00",
+ "generated_at": "2026-09-24T12:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96515 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-96515 📢 Source: CERT-In 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False This vulnerability exists in the Netlink ICT HG323RW router due to insufficient authorizat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96515",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96515:2026-09-24T12:49"
+  },
   {
    "ts": "2026-09-24T11:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81536",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81536:2026-09-23T21:49"
-  },
-  {
-   "ts": "2026-09-23T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81208 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-81208 📢 Source: ibm 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow an authenticated user to access sensiti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81208",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81208:2026-09-23T21:49"
   }
  ]
 }
