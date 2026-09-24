@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-24T13:49:11+00:00",
+ "generated_at": "2026-09-24T14:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97059 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-97059 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True DCMTK through 3.7.0 contains a heap over-read vulnerability in ConcatenationLoader that c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97059",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97059:2026-09-24T14:19"
+  },
+  {
+   "ts": "2026-09-24T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97057 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-97057 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True redis-parser through 3.0.0 fails to validate the multi-bulk length value in RESP protocol",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97057",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97057:2026-09-24T14:19"
+  },
   {
    "ts": "2026-09-24T13:49:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://futurism.com/artificial-intelligence/protestors-smash-ai-lab-vandalism-burn-data-centers",
    "source": "Lemmy · technology",
    "id": "community:https://futurism.com/artificial-intelligence/protestors-smash-ai-lab-vandalism-burn-data-centers:2026-09-23T23:49"
-  },
-  {
-   "ts": "2026-09-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Engineer says Claude Code has made his job \"soul-sucking\" as",
-   "body": "Lemmy · technology · 점수 225",
-   "link": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html:2026-09-23T23:49"
-  },
-  {
-   "ts": "2026-09-23T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Jev in 25 Lines of Python",
-   "body": "Hacker News · 점수 605",
-   "link": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-   "source": "Hacker News",
-   "id": "community:https://www.nobodywho.ai/posts/jev-in-25-lines/:2026-09-23T23:19"
   }
  ]
 }
