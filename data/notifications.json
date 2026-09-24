@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-24T08:49:08+00:00",
+ "generated_at": "2026-09-24T09:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T09:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78312 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-78312 📢 Source: Deltaww 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Path Traversal in DIAEnergie. This issue affects DIAEnergie: before 1.11.00.022. 📅 Publ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78312",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78312:2026-09-24T09:19"
+  },
+  {
+   "ts": "2026-09-24T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78311 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-78311 📢 Source: Deltaww 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SQL Injection vulnerability in DIAEnergie. This issue affects DIAEnergie: before 1.11.00.02",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78311",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78311:2026-09-24T09:19"
+  },
   {
    "ts": "2026-09-24T08:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-6730",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6730:2026-09-23T21:19"
-  },
-  {
-   "ts": "2026-09-23T21:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-6721 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-6721 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Concert 1.0.0 through 3.0.0 allows an unauthenticated remote attacker can supply special",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6721",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6721:2026-09-23T21:19"
-  },
-  {
-   "ts": "2026-09-23T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96889 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-96889 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in librsvg. When processing an SVG document containing nested XML inclusio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96889",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96889:2026-09-23T19:49"
   }
  ]
 }
