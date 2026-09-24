@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-24T11:19:09+00:00",
+ "generated_at": "2026-09-24T11:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-7169 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-7169 📢 Source: INCIBE 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False a vulnerability involving an unchecked search path element in Evope Collector, versions prio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7169",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7169:2026-09-24T11:49"
+  },
+  {
+   "ts": "2026-09-24T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] ah, so that's why touch typing is important",
+   "body": "Lemmy · programming.dev · 점수 233",
+   "link": "https://sh.itjust.works/pictrs/image/1430c855-e049-4a37-b291-6838f0b79951.jpeg",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://sh.itjust.works/pictrs/image/1430c855-e049-4a37-b291-6838f0b79951.jpeg:2026-09-24T11:49"
+  },
+  {
+   "ts": "2026-09-24T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] ArXiv receives multiyear commitments to support it as an ind",
+   "body": "Hacker News · 점수 193",
+   "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+   "source": "Hacker News",
+   "id": "community:https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/:2026-09-24T11:49"
+  },
+  {
+   "ts": "2026-09-24T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Making Tailscale Faster",
+   "body": "Hacker News · 점수 171",
+   "link": "https://tailscale.com/blog/making-tailscale-faster",
+   "source": "Hacker News",
+   "id": "community:https://tailscale.com/blog/making-tailscale-faster:2026-09-24T11:49"
+  },
+  {
+   "ts": "2026-09-24T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Godot can do really amazing things!",
+   "body": "Lemmy · programming.dev · 점수 136",
+   "link": "https://discuss.tchncs.de/pictrs/image/81d5ab1d-3c30-43e3-95ca-299aea976c7e.mp4",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://discuss.tchncs.de/pictrs/image/81d5ab1d-3c30-43e3-95ca-299aea976c7e.mp4:2026-09-24T11:49"
+  },
+  {
+   "ts": "2026-09-24T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] OpenAI agent hacks Australia's Medicare in world's first kno",
+   "body": "Lemmy · technology · 점수 99",
+   "link": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.bbc.com/news/live/cvgl73pxgndwt:2026-09-24T11:49"
+  },
   {
    "ts": "2026-09-24T11:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81208",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81208:2026-09-23T21:49"
-  },
-  {
-   "ts": "2026-09-23T21:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-93352 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-93352 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Laravel-Mediable 7.0.0 before 7.0.2 contains an incomplete patch for CVE-2026-49972 i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93352",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93352:2026-09-23T21:49"
-  },
-  {
-   "ts": "2026-09-23T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80423 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-80423 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obta",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80423",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80423:2026-09-23T21:49"
-  },
-  {
-   "ts": "2026-09-23T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75887 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-75887 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the OpenShift console. An unauthenticated attacker can exploit a path tr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75887",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75887:2026-09-23T21:49"
-  },
-  {
-   "ts": "2026-09-23T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80425 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-80425 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to exec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80425",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80425:2026-09-23T21:19"
-  },
-  {
-   "ts": "2026-09-23T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80412 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-80412 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to exec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80412",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80412:2026-09-23T21:19"
-  },
-  {
-   "ts": "2026-09-23T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80379 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-80379 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to exec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80379",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80379:2026-09-23T21:19"
   }
  ]
 }
