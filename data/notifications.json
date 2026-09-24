@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-24T03:19:07+00:00",
+ "generated_at": "2026-09-24T03:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T03:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97152 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-97152 📢 Source: mitre 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Nanomsg versions 0.5-beta through 1.x before 1.2.3 has a remotely exploitable buffer overflow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97152",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97152:2026-09-24T03:49"
+  },
+  {
+   "ts": "2026-09-24T03:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97151 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-97151 📢 Source: mitre 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True mammoth (aka mammoth.js) before 1.12.2 is vulnerable to prototype pollution when reading the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97151",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97151:2026-09-24T03:49"
+  },
   {
    "ts": "2026-09-24T02:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75884",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75884:2026-09-23T19:49"
-  },
-  {
-   "ts": "2026-09-23T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96826 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-96826 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96826",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96826:2026-09-23T19:49"
-  },
-  {
-   "ts": "2026-09-23T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94183 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-94183 📢 Source: BCNY 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Arc Search for Android before version 1.12.10 does not display a fullscreen notification when ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94183",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94183:2026-09-23T19:49"
   }
  ]
 }
