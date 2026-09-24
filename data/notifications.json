@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-24T22:49:07+00:00",
+ "generated_at": "2026-09-24T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] F-Droid 2.0",
+   "body": "Hacker News · 점수 825",
+   "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+   "source": "Hacker News",
+   "id": "community:https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html:2026-09-24T23:19"
+  },
+  {
+   "ts": "2026-09-24T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Show HN: Make cursed fonts like Times New Bastard",
+   "body": "Hacker News · 점수 378",
+   "link": "https://bastardica.mitpit.com",
+   "source": "Hacker News",
+   "id": "community:https://bastardica.mitpit.com:2026-09-24T23:19"
+  },
+  {
+   "ts": "2026-09-24T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Two-tier encryption in the UK",
+   "body": "Hacker News · 점수 355",
+   "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+   "source": "Hacker News",
+   "id": "community:https://macanorak.com/two-tier-encryption-in-the-uk/:2026-09-24T23:19"
+  },
+  {
+   "ts": "2026-09-24T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Stem cells reverse stroke damage and restore movement in mic",
+   "body": "Lemmy · technology · 점수 239",
+   "link": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.sciencedaily.com/releases/2026/09/260921081116.htm:2026-09-24T23:19"
+  },
+  {
+   "ts": "2026-09-24T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Early rogue AI agent activity and attempts to hack found on ",
+   "body": "Hacker News · 점수 232",
+   "link": "https://transluce.org/agent-activity",
+   "source": "Hacker News",
+   "id": "community:https://transluce.org/agent-activity:2026-09-24T23:19"
+  },
   {
    "ts": "2026-09-24T22:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-97360",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97360:2026-09-24T13:49"
-  },
-  {
-   "ts": "2026-09-24T13:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-97359 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-97359 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True HFS2 version 2.4.0 and earlier contains a template injection vulnerability in the mult",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97359",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97359:2026-09-24T13:49"
-  },
-  {
-   "ts": "2026-09-24T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95521 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-95521 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A command injection flaw was found in rpm. Installing or rebuilding a source RPM whose sour",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95521",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95521:2026-09-24T13:49"
-  },
-  {
-   "ts": "2026-09-24T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95519 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-95519 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in rpm. An attacker can supply a crafted manifest file that, when processe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95519",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95519:2026-09-24T13:49"
-  },
-  {
-   "ts": "2026-09-24T13:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-91187 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-91187 📢 Source: EEF 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Verification of Cryptographic Signature vulnerability in dashbit nimble_zta allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91187",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91187:2026-09-24T13:49"
-  },
-  {
-   "ts": "2026-09-24T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88907 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-88907 📢 Source: TR-CERT 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Incorrect Authorization vulnerability in TÜBİTAK ULAKBİM UlakPDF allows Authentication Bypa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88907",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88907:2026-09-24T13:19"
   }
  ]
 }
