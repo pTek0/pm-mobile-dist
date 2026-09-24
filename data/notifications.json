@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-24T14:49:08+00:00",
+ "generated_at": "2026-09-24T15:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-81549 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-81549 📢 Source: ibm 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81549",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81549:2026-09-24T15:19"
+  },
+  {
+   "ts": "2026-09-24T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81548 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-81548 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to exec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81548",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81548:2026-09-24T15:19"
+  },
+  {
+   "ts": "2026-09-24T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81547 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-81547 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to exec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81547",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81547:2026-09-24T15:19"
+  },
+  {
+   "ts": "2026-09-24T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81545 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-81545 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to exec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81545",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81545:2026-09-24T15:19"
+  },
+  {
+   "ts": "2026-09-24T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81539 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-81539 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to exec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81539",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81539:2026-09-24T15:19"
+  },
+  {
+   "ts": "2026-09-24T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77874 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-77874 📢 Source: ibm 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True IBM Enterprise Build of Quarkus 3.27.1 through 3.27.5.SP1, and 3.33.1 through 3.33.3.SP1 is vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77874",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77874:2026-09-24T15:19"
+  },
+  {
+   "ts": "2026-09-24T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12559 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-12559 📢 Source: OpenText 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True A Stored Cross-Site Scripting (XSS) vulnerability has been identified in OpenText Vendor I",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12559",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12559:2026-09-24T15:19"
+  },
   {
    "ts": "2026-09-24T14:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82370",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82370:2026-09-23T23:49"
-  },
-  {
-   "ts": "2026-09-23T23:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-93577 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-93577 📢 Source: GitLab 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93577",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93577:2026-09-23T23:49"
-  },
-  {
-   "ts": "2026-09-23T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92470 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-92470 📢 Source: GitLab 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab EE affecting all versions from 18.7 before 19.2.7, ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92470",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92470:2026-09-23T23:49"
-  },
-  {
-   "ts": "2026-09-23T23:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-89078 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-89078 📢 Source: GitLab 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89078",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89078:2026-09-23T23:49"
-  },
-  {
-   "ts": "2026-09-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Owners mourn spoiled food after firmware update bricks Samsu",
-   "body": "Lemmy · technology · 점수 340",
-   "link": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/:2026-09-23T23:49"
-  },
-  {
-   "ts": "2026-09-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I don't want the details",
-   "body": "Hacker News · 점수 326",
-   "link": "https://michaelheap.com/i-dont-want-the-details/",
-   "source": "Hacker News",
-   "id": "community:https://michaelheap.com/i-dont-want-the-details/:2026-09-23T23:49"
-  },
-  {
-   "ts": "2026-09-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft Patents Technique for Inserting Ads Into Videogame",
-   "body": "Lemmy · technology · 점수 295",
-   "link": "https://futurism.com/future-society/microsoft-patents-software-ad-credit-video-games",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/future-society/microsoft-patents-software-ad-credit-video-games:2026-09-23T23:49"
-  },
-  {
-   "ts": "2026-09-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Protestors Ransack AI Lab, Leave Graffiti Calling on Masses ",
-   "body": "Lemmy · technology · 점수 235",
-   "link": "https://futurism.com/artificial-intelligence/protestors-smash-ai-lab-vandalism-burn-data-centers",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/protestors-smash-ai-lab-vandalism-burn-data-centers:2026-09-23T23:49"
   }
  ]
 }
