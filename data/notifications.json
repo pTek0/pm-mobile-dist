@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-09-24T18:49:07+00:00",
+ "generated_at": "2026-09-24T19:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-89325 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-89325 📢 Source: rapid7 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False An uncontrolled search path element in InsightVM assessment content in Rapid7 Insight Agent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89325",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89325:2026-09-24T19:19"
+  },
+  {
+   "ts": "2026-09-24T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-86860 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-86860 📢 Source: SN 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True ServiceNow has remediated a missing authorization vulnerability that was identified in the S",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86860",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86860:2026-09-24T19:19"
+  },
+  {
+   "ts": "2026-09-24T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86859 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-86859 📢 Source: SN 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True ServiceNow has remediated an authorization bypass security issue that was identified in the Serv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86859",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86859:2026-09-24T19:19"
+  },
+  {
+   "ts": "2026-09-24T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81473 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-81473 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False Dell Rugged Control Center (RCC), versions prior to 5.2.206, contain an Improper Authorizatio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81473",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81473:2026-09-24T19:19"
+  },
+  {
+   "ts": "2026-09-24T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86858 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-86858 📢 Source: SN 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True ServiceNow has remediated an improper access control security issue that was identified in the S",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86858",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86858:2026-09-24T19:19"
+  },
+  {
+   "ts": "2026-09-24T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82157 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-82157 📢 Source: dell 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False Dell ThinOS 10, versions prior to SecurityAddon_2605.10.2766_T10, contains an Improper Certif",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82157",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82157:2026-09-24T19:19"
+  },
+  {
+   "ts": "2026-09-24T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81455 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-81455 📢 Source: dell 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Dell ThinOS 10, versions prior to SecurityAddon_2605.10.2766_T10, contain a Missing Authentica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81455",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81455:2026-09-24T19:19"
+  },
+  {
+   "ts": "2026-09-24T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-13016 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-13016 📢 Source: SN 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True ServiceNow has remediated a SQL injection vulnerability that was identified in the ServiceNo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13016",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13016:2026-09-24T19:19"
+  },
   {
    "ts": "2026-09-24T18:49:07+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82077",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82077:2026-09-24T07:19"
-  },
-  {
-   "ts": "2026-09-24T05:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14780 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-14780 📢 Source: PaperCut 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A vulnerability exists in the PaperCut NG/MF platform's device-scripting functionality due",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14780",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14780:2026-09-24T05:49"
-  },
-  {
-   "ts": "2026-09-24T03:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97152 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-97152 📢 Source: mitre 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Nanomsg versions 0.5-beta through 1.x before 1.2.3 has a remotely exploitable buffer overflow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97152",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97152:2026-09-24T03:49"
-  },
-  {
-   "ts": "2026-09-24T03:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97151 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-97151 📢 Source: mitre 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True mammoth (aka mammoth.js) before 1.12.2 is vulnerable to prototype pollution when reading the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97151",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97151:2026-09-24T03:49"
-  },
-  {
-   "ts": "2026-09-24T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97056 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-97056 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True SigNoz versions from v0.98.0 up to (but not including) v0.143.0, when configured to use t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97056",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97056:2026-09-24T02:19"
-  },
-  {
-   "ts": "2026-09-24T02:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-97055 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-97055 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True SigNoz from v0.8.0 before v0.143.0 defaults the JWT tokenizer signing secret (tokeniz",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97055",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97055:2026-09-24T02:19"
-  },
-  {
-   "ts": "2026-09-24T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A community turned to a grift",
-   "body": "Lemmy · programming.dev · 점수 66",
-   "link": "https://lemmy.world/pictrs/image/377e41b6-23e7-4659-8213-b7bd4bc9291f.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/377e41b6-23e7-4659-8213-b7bd4bc9291f.png:2026-09-24T00:49"
-  },
-  {
-   "ts": "2026-09-24T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] KDE for People",
-   "body": "Lobsters · 점수 59",
-   "link": "https://kdeforpeople.com",
-   "source": "Lobsters",
-   "id": "community:https://kdeforpeople.com:2026-09-24T00:49"
-  },
-  {
-   "ts": "2026-09-24T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Bernie Sanders: Ban Superintelligence",
-   "body": "Lemmy · technology · 점수 55",
-   "link": "https://www.nytimes.com/2026/09/21/opinion/bernie-sanders-case-ai-policy.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.nytimes.com/2026/09/21/opinion/bernie-sanders-case-ai-policy.html:2026-09-24T00:49"
   }
  ]
 }
