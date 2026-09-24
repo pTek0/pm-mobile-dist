@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-24T13:19:09+00:00",
+ "generated_at": "2026-09-24T13:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-97360 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-97360 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True HFS2 version 2.4.0 and earlier contains an unauthenticated arbitrary file access vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97360",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97360:2026-09-24T13:49"
+  },
+  {
+   "ts": "2026-09-24T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-97359 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-97359 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True HFS2 version 2.4.0 and earlier contains a template injection vulnerability in the mult",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97359",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97359:2026-09-24T13:49"
+  },
+  {
+   "ts": "2026-09-24T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95521 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-95521 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A command injection flaw was found in rpm. Installing or rebuilding a source RPM whose sour",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95521",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95521:2026-09-24T13:49"
+  },
+  {
+   "ts": "2026-09-24T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95519 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-95519 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in rpm. An attacker can supply a crafted manifest file that, when processe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95519",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95519:2026-09-24T13:49"
+  },
+  {
+   "ts": "2026-09-24T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-91187 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-91187 📢 Source: EEF 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Verification of Cryptographic Signature vulnerability in dashbit nimble_zta allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91187",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91187:2026-09-24T13:49"
+  },
   {
    "ts": "2026-09-24T13:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
    "source": "Hacker News",
    "id": "community:https://www.nobodywho.ai/posts/jev-in-25-lines/:2026-09-23T23:19"
-  },
-  {
-   "ts": "2026-09-23T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Italian parliament votes for return to nuclear energy",
-   "body": "Hacker News · 점수 469",
-   "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-   "source": "Hacker News",
-   "id": "community:https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567:2026-09-23T23:19"
-  },
-  {
-   "ts": "2026-09-23T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Claude Code reads AGENTS.md only when telemetry is on [fixed",
-   "body": "Hacker News · 점수 434",
-   "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-   "source": "Hacker News",
-   "id": "community:https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/:2026-09-23T23:19"
-  },
-  {
-   "ts": "2026-09-23T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Claude discovers a novel enzyme system with CRISPR-like repe",
-   "body": "Hacker News · 점수 388",
-   "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-   "source": "Hacker News",
-   "id": "community:https://www.anthropic.com/news/claude-discovers-novel-enzyme-system:2026-09-23T23:19"
-  },
-  {
-   "ts": "2026-09-23T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fixing the Portobello Police Station Clock",
-   "body": "Hacker News · 점수 354",
-   "link": "https://pointinthecloud.com/2026-04-11-211700.html",
-   "source": "Hacker News",
-   "id": "community:https://pointinthecloud.com/2026-04-11-211700.html:2026-09-23T23:19"
-  },
-  {
-   "ts": "2026-09-23T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70125 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-70125 📢 Source: microsoft 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-23T22:40:40.537Z https://cvefeed.io/vuln/detail/CVE-2026-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70125",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70125:2026-09-23T22:49"
   }
  ]
 }
