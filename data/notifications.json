@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-24T08:19:08+00:00",
+ "generated_at": "2026-09-24T08:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-24T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97185 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-97185 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in GIMP. When processing a specially crafted GIMPressionist preset file, t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97185",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97185:2026-09-24T08:49"
+  },
+  {
+   "ts": "2026-09-24T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78309 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-78309 📢 Source: Deltaww 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SQL Injection vulnerability in DIAEnergie. This issue affects DIAEnergie: before 1.11.00.02",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78309",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78309:2026-09-24T08:49"
+  },
+  {
+   "ts": "2026-09-24T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78308 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-78308 📢 Source: Deltaww 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper Authentication vulnerability in DIAEnergie allows Authentication Bypass. This ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78308",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78308:2026-09-24T08:49"
+  },
   {
    "ts": "2026-09-24T07:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-96889",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96889:2026-09-23T19:49"
-  },
-  {
-   "ts": "2026-09-23T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85475 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-85475 📢 Source: redhat 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the Ansible Automation Platform automation controller. The external logg",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85475",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85475:2026-09-23T19:49"
-  },
-  {
-   "ts": "2026-09-23T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-84719 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-84719 📢 Source: redhat 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in the Ansible Automation Platform automation-controller. When a Workfl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84719",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84719:2026-09-23T19:49"
-  },
-  {
-   "ts": "2026-09-23T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84714 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-84714 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the automation-controller input-validation guard sanitize_jinja(). The f",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84714",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84714:2026-09-23T19:49"
   }
  ]
 }
