@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-25T09:49:07+00:00",
+ "generated_at": "2026-09-25T10:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97898 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-97898 📢 Source: CIRCL 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Insecure Direct Object Reference / missing object-level authorization in the Akia keyless ent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97898",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97898:2026-09-25T10:19"
+  },
   {
    "ts": "2026-09-25T06:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86859",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86859:2026-09-24T19:19"
-  },
-  {
-   "ts": "2026-09-24T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81473 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-81473 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False Dell Rugged Control Center (RCC), versions prior to 5.2.206, contain an Improper Authorizatio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81473",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81473:2026-09-24T19:19"
   }
  ]
 }
