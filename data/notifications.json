@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-25T13:19:08+00:00",
+ "generated_at": "2026-09-25T13:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T13:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93834 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-93834 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A use-after-free vulnerability was found in QEMU's 9pfs subsystem. A race condition between",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93834",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93834:2026-09-25T13:49"
+  },
+  {
+   "ts": "2026-09-25T13:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100172 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-100172 📢 Source: CIRCL 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True The AIL Framework (ail-project/ail-framework) contains a stored cross-site scripting (XSS) v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100172",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100172:2026-09-25T13:49"
+  },
   {
    "ts": "2026-09-25T13:19:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85496",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85496:2026-09-24T20:19"
-  },
-  {
-   "ts": "2026-09-24T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82566 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-82566 📢 Source: icscert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The Botslab G980H dash camera firmware contains a session management vulnerability in whic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82566",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82566:2026-09-24T19:49"
-  },
-  {
-   "ts": "2026-09-24T19:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-93291 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-93291 📢 Source: icscert 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Omni C20 lacks proper certificate validation which could allow an attacker to perform a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93291",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93291:2026-09-24T19:49"
   }
  ]
 }
