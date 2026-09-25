@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-25T20:19:07+00:00",
+ "generated_at": "2026-09-25T20:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91765 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-91765 📢 Source: php 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True cleanup_xml_node() in the SOAP XML parser recurses once per XML nesting level with no depth lim",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91765",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91765:2026-09-25T20:49"
+  },
+  {
+   "ts": "2026-09-25T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100391 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-100391 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True MediaFlow Proxy through 2.4.9 contains a server-side request forgery vulnerability in th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100391",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100391:2026-09-25T20:49"
+  },
+  {
+   "ts": "2026-09-25T20:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-100390 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-100390 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Zoraxy versions 3.2.3 through 3.3.4 fail to properly parse IPv6 addresses in the Rem",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100390",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100390:2026-09-25T20:49"
+  },
+  {
+   "ts": "2026-09-25T20:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-100389 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-100389 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True GestSup versions before 3.2.61 contain a remote code execution vulnerability in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100389",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100389:2026-09-25T20:49"
+  },
+  {
+   "ts": "2026-09-25T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100387 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-100387 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True pgPointcloud through 1.2.5 contains a heap out-of-bounds read vulnerability in dimension",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100387",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100387:2026-09-25T20:49"
+  },
   {
    "ts": "2026-09-25T19:49:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://github.com/devdotfast/whiteboard",
    "source": "Hacker News",
    "id": "community:https://github.com/devdotfast/whiteboard:2026-09-25T00:19"
-  },
-  {
-   "ts": "2026-09-25T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Toyota is taking the Corolla electric",
-   "body": "Hacker News · 점수 151",
-   "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-   "source": "Hacker News",
-   "id": "community:https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/:2026-09-25T00:19"
-  },
-  {
-   "ts": "2026-09-25T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] F-Droid gets its biggest update in a decade with new UI and ",
-   "body": "Lemmy · technology · 점수 104",
-   "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/:2026-09-25T00:19"
-  },
-  {
-   "ts": "2026-09-25T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Battle of Hospital A.I. vs. Insurer A.I. Is Pushing US Medic",
-   "body": "Lemmy · technology · 점수 92",
-   "link": "https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html?unlocked_article_code=1.DlE.dfdZ.yril8P0cUwZb",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html?unlocked_article_code=1.DlE.dfdZ.yril8P0cUwZb:2026-09-25T00:19"
-  },
-  {
-   "ts": "2026-09-25T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI agents steal 600,000 credit cards records: Operator is ru",
-   "body": "Lemmy · technology · 점수 90",
-   "link": "https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company",
-   "source": "Lemmy · technology",
-   "id": "community:https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company:2026-09-25T00:19"
-  },
-  {
-   "ts": "2026-09-24T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Sony patent could let players tap a credit card on their Pla",
-   "body": "Lemmy · technology · 점수 208",
-   "link": "https://www.dexerto.com/gaming/sony-patent-could-let-players-tap-a-credit-card-on-their-controller-to-buy-games-3411921/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.dexerto.com/gaming/sony-patent-could-let-players-tap-a-credit-card-on-their-controller-to-buy-games-3411921/:2026-09-24T23:49"
   }
  ]
 }
