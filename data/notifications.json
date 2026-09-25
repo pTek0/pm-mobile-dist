@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-25T03:49:07+00:00",
+ "generated_at": "2026-09-25T04:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T04:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97735 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-97735 📢 Source: mitre 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True ITFlow before 26.08 allows SVG attachments in the ticket email parser (cron/ticket_email_parser",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97735",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97735:2026-09-25T04:19"
+  },
   {
    "ts": "2026-09-25T03:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81455",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81455:2026-09-24T19:19"
-  },
-  {
-   "ts": "2026-09-24T19:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-13016 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-13016 📢 Source: SN 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True ServiceNow has remediated a SQL injection vulnerability that was identified in the ServiceNo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13016",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13016:2026-09-24T19:19"
   }
  ]
 }
