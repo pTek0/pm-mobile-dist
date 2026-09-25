@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-25T14:49:07+00:00",
+ "generated_at": "2026-09-25T15:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96812 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-96812 📢 Source: Google 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Improper Exposure of Resource to Wrong Sphere in the host file helper (gofer) in Google gVi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96812",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96812:2026-09-25T15:19"
+  },
   {
    "ts": "2026-09-25T14:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-87722",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87722:2026-09-24T22:19"
-  },
-  {
-   "ts": "2026-09-24T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87721 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-87721 📢 Source: Google 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Uncontrolled Resource Consumption (CWE-400 / CWE-407) in the ANTLR 3 search query parser (Qu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87721",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87721:2026-09-24T22:19"
   }
  ]
 }
