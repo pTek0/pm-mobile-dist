@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-25T16:19:07+00:00",
+ "generated_at": "2026-09-25T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T16:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91837 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91837 📢 Source: fedora 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in NetworkManager-iodine, the iodine VPN plugin for NetworkManager. A loca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91837",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91837:2026-09-25T16:49"
+  },
   {
    "ts": "2026-09-25T15:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://transluce.org/agent-activity",
    "source": "Hacker News",
    "id": "community:https://transluce.org/agent-activity:2026-09-24T23:19"
-  },
-  {
-   "ts": "2026-09-24T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87722 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-87722 📢 Source: Google 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Uncontrolled Resource Consumption (CWE-400 / CWE-1333) in regex search query predicates (suc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87722",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87722:2026-09-24T22:19"
   }
  ]
 }
