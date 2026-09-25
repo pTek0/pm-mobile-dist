@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-25T02:49:07+00:00",
+ "generated_at": "2026-09-25T03:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97731 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-97731 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True MinIO through 7aac2a2 does not verify that every x-amz-* header present on a request also app",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97731",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97731:2026-09-25T03:19"
+  },
+  {
+   "ts": "2026-09-25T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97730 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-97730 📢 Source: mitre 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True In Netgate pfSense Plus before 26.07 and pfSense CE before 2.9.0, a Local File Inclusion (LFI",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97730",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97730:2026-09-25T03:19"
+  },
   {
    "ts": "2026-09-25T00:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-13016",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13016:2026-09-24T19:19"
-  },
-  {
-   "ts": "2026-09-24T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86857 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-86857 📢 Source: SN 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True ServiceNow has remediated an authorization bypass security issue that was identified in the Serv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86857",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86857:2026-09-24T18:49"
-  },
-  {
-   "ts": "2026-09-24T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-13248 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-13248 📢 Source: Honeywell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An Authenticated Remote Code Execution via Arbitrary File Write in the Intermec Fingerpri",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13248",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13248:2026-09-24T18:49"
   }
  ]
 }
