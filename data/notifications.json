@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-25T19:19:07+00:00",
+ "generated_at": "2026-09-25T19:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100372 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-100372 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True ClipBucket v5 before 5.5.3-#197 contains a path traversal vulnerability in the admin tem",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100372",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100372:2026-09-25T19:49"
+  },
+  {
+   "ts": "2026-09-25T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100310 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-100310 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False GNU libextractor before 1.16 loads plugins from an untrusted search path specified by t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100310",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100310:2026-09-25T19:49"
+  },
+  {
+   "ts": "2026-09-25T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100208 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-100208 📢 Source: microsoft 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-25T19:39:27.315Z https://cvefeed.io/vuln/detail/CVE-2026",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100208",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100208:2026-09-25T19:49"
+  },
   {
    "ts": "2026-09-25T18:49:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://www.dexerto.com/gaming/sony-patent-could-let-players-tap-a-credit-card-on-their-controller-to-buy-games-3411921/",
    "source": "Lemmy · technology",
    "id": "community:https://www.dexerto.com/gaming/sony-patent-could-let-players-tap-a-credit-card-on-their-controller-to-buy-games-3411921/:2026-09-24T23:49"
-  },
-  {
-   "ts": "2026-09-24T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nokia Design Archive (2025)",
-   "body": "Hacker News · 점수 203",
-   "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
-   "source": "Hacker News",
-   "id": "community:https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c:2026-09-24T23:49"
-  },
-  {
-   "ts": "2026-09-24T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Rails World 2026 Opening Keynote [video]",
-   "body": "Hacker News · 점수 190",
-   "link": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-   "source": "Hacker News",
-   "id": "community:https://www.youtube.com/watch?v=vDjW_dRyKXY:2026-09-24T23:49"
-  },
-  {
-   "ts": "2026-09-24T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Why is the liver so weirdly regenerative?",
-   "body": "Hacker News · 점수 182",
-   "link": "https://dynomight.substack.com/p/liver",
-   "source": "Hacker News",
-   "id": "community:https://dynomight.substack.com/p/liver:2026-09-24T23:49"
   }
  ]
 }
