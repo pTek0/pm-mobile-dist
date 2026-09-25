@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-25T14:19:11+00:00",
+ "generated_at": "2026-09-25T14:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93306 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-93306 📢 Source: ibm 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False IBM Server Firmware FW1120.00 through FW1120.01, FW1110.00 through FW1110.31, FW1060.00 throug",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93306",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93306:2026-09-25T14:49"
+  },
+  {
+   "ts": "2026-09-25T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84882 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-84882 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is vulnerable to path traversal in the Universal Connector Or",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84882",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84882:2026-09-25T14:49"
+  },
+  {
+   "ts": "2026-09-25T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84862 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-84862 📢 Source: ibm 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is vulnerable to insecure deserialization in the Quartz JDBC ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84862",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84862:2026-09-25T14:49"
+  },
   {
    "ts": "2026-09-25T14:19:07+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-87721",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87721:2026-09-24T22:19"
-  },
-  {
-   "ts": "2026-09-24T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87720 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-87720 📢 Source: Google 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Incorrect Authorization (CWE-863) in project name normalization (ProjectUtil.stripGitSuffix)",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87720",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87720:2026-09-24T22:19"
-  },
-  {
-   "ts": "2026-09-24T20:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-95699 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-95699 📢 Source: icscert 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Prior to 9/18/2026, the iSteamX mobile application's AWS policy could grant authenticat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95699",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95699:2026-09-24T20:49"
-  },
-  {
-   "ts": "2026-09-24T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82585 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-82585 📢 Source: icscert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False The Botslab G980H dash camera firmware transmits sensitive information over unencrypted HT",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82585",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82585:2026-09-24T20:49"
   }
  ]
 }
