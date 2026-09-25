@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-25T00:19:07+00:00",
+ "generated_at": "2026-09-25T00:49:06+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] You’ll do anything for your baby. The algorithm knows how to",
+   "body": "Lemmy · technology · 점수 68",
+   "link": "https://19thnews.org/2026/09/motherhood-baby-items-internet-algorithms/",
+   "source": "Lemmy · technology",
+   "id": "community:https://19thnews.org/2026/09/motherhood-baby-items-internet-algorithms/:2026-09-25T00:49"
+  },
+  {
+   "ts": "2026-09-25T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The Story of Mel",
+   "body": "Lobsters · 점수 63",
+   "link": "https://users.cs.utah.edu/~elb/folklore/mel.html",
+   "source": "Lobsters",
+   "id": "community:https://users.cs.utah.edu/~elb/folklore/mel.html:2026-09-25T00:49"
+  },
+  {
+   "ts": "2026-09-25T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Breaking Up with Google Play: Why Conversations Is Now Free",
+   "body": "Lobsters · 점수 62",
+   "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+   "source": "Lobsters",
+   "id": "community:https://gultsch.de/posts/breaking-up-with-google-play/:2026-09-25T00:49"
+  },
+  {
+   "ts": "2026-09-25T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] It Turns Out That Meta's Muse AI Has an Amazingly Dirty Secr",
+   "body": "Lemmy · technology · 점수 56",
+   "link": "https://futurism.com/artificial-intelligence/meta-muse-ai-dirty-secret",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/artificial-intelligence/meta-muse-ai-dirty-secret:2026-09-25T00:49"
+  },
   {
    "ts": "2026-09-25T00:19:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-13248",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13248:2026-09-24T18:49"
-  },
-  {
-   "ts": "2026-09-24T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96749 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-96749 📢 Source: mongodb 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False An integer overflow in the BSON document encoding component of the MongoDB Python Driver's",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96749",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96749:2026-09-24T18:49"
-  },
-  {
-   "ts": "2026-09-24T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96748 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-96748 📢 Source: mongodb 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True PyMongo's connection string parsing decodes percent-encoded characters in the host portion ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96748",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96748:2026-09-24T18:49"
-  },
-  {
-   "ts": "2026-09-24T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82371 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-82371 📢 Source: brocade 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Plaintext exposure of sensitive authentication data in Brocade SANnav discovery service lo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82371",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82371:2026-09-24T18:49"
-  },
-  {
-   "ts": "2026-09-24T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95985 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-95985 📢 Source: AMZN 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The file write tool in Amazon Kiro IDE versions before 1.0.242 might allow remote unauthentica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95985",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95985:2026-09-24T17:49"
   }
  ]
 }
