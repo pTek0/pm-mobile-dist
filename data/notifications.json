@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-25T21:49:08+00:00",
+ "generated_at": "2026-09-25T22:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100501 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-100501 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Flame through 2.4.0 contains an improper restriction of excessive authentication attempt",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100501",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100501:2026-09-25T22:19"
+  },
+  {
+   "ts": "2026-09-25T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100419 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-100419 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False gitoxide gix-fs before 0.23.0 contains a path validation bypass vulnerability in the wo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100419",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100419:2026-09-25T22:19"
+  },
   {
    "ts": "2026-09-25T21:49:06+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://users.cs.utah.edu/~elb/folklore/mel.html",
    "source": "Lobsters",
    "id": "community:https://users.cs.utah.edu/~elb/folklore/mel.html:2026-09-25T00:49"
-  },
-  {
-   "ts": "2026-09-25T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Breaking Up with Google Play: Why Conversations Is Now Free",
-   "body": "Lobsters · 점수 62",
-   "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
-   "source": "Lobsters",
-   "id": "community:https://gultsch.de/posts/breaking-up-with-google-play/:2026-09-25T00:49"
-  },
-  {
-   "ts": "2026-09-25T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] It Turns Out That Meta's Muse AI Has an Amazingly Dirty Secr",
-   "body": "Lemmy · technology · 점수 56",
-   "link": "https://futurism.com/artificial-intelligence/meta-muse-ai-dirty-secret",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/meta-muse-ai-dirty-secret:2026-09-25T00:49"
   }
  ]
 }
