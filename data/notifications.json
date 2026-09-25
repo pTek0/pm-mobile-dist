@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-25T18:19:07+00:00",
+ "generated_at": "2026-09-25T18:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T18:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97060 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-97060 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True X-SpringBoot through 6.0 lacks object-level authorization in user management endpoints, a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97060",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97060:2026-09-25T18:49"
+  },
   {
    "ts": "2026-09-25T18:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://dynomight.substack.com/p/liver",
    "source": "Hacker News",
    "id": "community:https://dynomight.substack.com/p/liver:2026-09-24T23:49"
-  },
-  {
-   "ts": "2026-09-24T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] My weird new hobby: Wandering around Tokyo on Google Maps",
-   "body": "Hacker News · 점수 170",
-   "link": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-   "source": "Hacker News",
-   "id": "community:https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/:2026-09-24T23:49"
   }
  ]
 }
