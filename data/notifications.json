@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-25T04:49:07+00:00",
+ "generated_at": "2026-09-25T05:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T05:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97818 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-97818 📢 Source: mitre 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True phpIPAM through 1.8.3 has incorrect authorization for id==\"admins\" and id==\"all\" in api/contr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97818",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97818:2026-09-25T05:19"
+  },
   {
    "ts": "2026-09-25T04:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86858",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86858:2026-09-24T19:19"
-  },
-  {
-   "ts": "2026-09-24T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82157 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-82157 📢 Source: dell 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False Dell ThinOS 10, versions prior to SecurityAddon_2605.10.2766_T10, contains an Improper Certif",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82157",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82157:2026-09-24T19:19"
   }
  ]
 }
