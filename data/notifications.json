@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-09-25T13:49:08+00:00",
+ "generated_at": "2026-09-25T14:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-93647 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-93647 📢 Source: rapid7 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated calendar sender can place active markup in a COUNTER message's RFC Fr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93647",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93647:2026-09-25T14:19"
+  },
+  {
+   "ts": "2026-09-25T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-93643 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-93643 📢 Source: rapid7 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True When OnlyOffice/Document Editing is available, an unauthenticated remote attacker with a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93643",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93643:2026-09-25T14:19"
+  },
+  {
+   "ts": "2026-09-25T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-93642 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-93642 📢 Source: rapid7 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated sender can forge a share notification that triggers stored XSS when a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93642",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93642:2026-09-25T14:19"
+  },
+  {
+   "ts": "2026-09-25T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85029 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-85029 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 could allow a remote attacker to obtain sensitive information",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85029",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85029:2026-09-25T14:19"
+  },
+  {
+   "ts": "2026-09-25T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84893 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-84893 📢 Source: ibm 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is vulnerable to SQL injection in the PESI service. An authen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84893",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84893:2026-09-25T14:19"
+  },
+  {
+   "ts": "2026-09-25T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84884 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-84884 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 stores internal REST service-account passwords in a reversibl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84884",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84884:2026-09-25T14:19"
+  },
+  {
+   "ts": "2026-09-25T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-93641 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-93641 📢 Source: rapid7 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated sender can forge a share notification that triggers stored XSS when a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93641",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93641:2026-09-25T14:19"
+  },
+  {
+   "ts": "2026-09-25T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85542 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-85542 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is affected by a command injection vulnerability in the GIM b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85542",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85542:2026-09-25T14:19"
+  },
   {
    "ts": "2026-09-25T13:49:08+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82585",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82585:2026-09-24T20:49"
-  },
-  {
-   "ts": "2026-09-24T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79959 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-79959 📢 Source: icscert 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False The Botslab G980H dash camera firmware contains a hard-coded root account password that cann",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79959",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79959:2026-09-24T20:49"
-  },
-  {
-   "ts": "2026-09-24T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82708 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-82708 📢 Source: icscert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False The Botslab G980H dash camera firmware contains a path traversal vulnerability in its HTTP",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82708",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82708:2026-09-24T20:49"
-  },
-  {
-   "ts": "2026-09-24T20:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-81630 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-81630 📢 Source: icscert 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True The Botslab G980H dash camera firmware does not adequately verify the authenticity of f",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81630",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81630:2026-09-24T20:49"
-  },
-  {
-   "ts": "2026-09-24T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14443 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-14443 📢 Source: brocade 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Incomplete log sanitization during bulk IPsec policy collection in Brocade SANnav versions",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14443",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14443:2026-09-24T20:49"
-  },
-  {
-   "ts": "2026-09-24T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93354 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-93354 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Taskview Community before 1.56.0 contains a missing authentication vulnerability that all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93354",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93354:2026-09-24T20:19"
-  },
-  {
-   "ts": "2026-09-24T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88956 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-88956 📢 Source: icscert 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False The Botslab G980H dash camera firmware contains an authentication vulnerability in the root ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88956",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88956:2026-09-24T20:19"
-  },
-  {
-   "ts": "2026-09-24T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77967 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-77967 📢 Source: icscert 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False The Botslab G980H dash camera firmware accepts a reusable authentication value without ade",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77967",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77967:2026-09-24T20:19"
-  },
-  {
-   "ts": "2026-09-24T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85496 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-85496 📢 Source: icscert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The Botslab G980H dash camera firmware generates session identifiers using a small sequent",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85496",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85496:2026-09-24T20:19"
   }
  ]
 }
