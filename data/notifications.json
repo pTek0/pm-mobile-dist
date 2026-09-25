@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-25T04:19:07+00:00",
+ "generated_at": "2026-09-25T04:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-25T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97737 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-97737 📢 Source: mitre 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True In Wakapi before 2.17.6, the user caching service allows a lookup to be resolved in an uninte",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97737",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97737:2026-09-25T04:49"
+  },
   {
    "ts": "2026-09-25T04:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82157",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82157:2026-09-24T19:19"
-  },
-  {
-   "ts": "2026-09-24T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81455 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-81455 📢 Source: dell 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Dell ThinOS 10, versions prior to SecurityAddon_2605.10.2766_T10, contain a Missing Authentica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81455",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81455:2026-09-24T19:19"
   }
  ]
 }
