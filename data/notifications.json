@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-26T11:19:08+00:00",
+ "generated_at": "2026-09-26T11:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-26T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Show HN: Jev Plays Pokémon Red",
+   "body": "Hacker News · 점수 207",
+   "link": "https://jev-pokemon.vercel.app/",
+   "source": "Hacker News",
+   "id": "community:https://jev-pokemon.vercel.app/:2026-09-26T11:49"
+  },
+  {
+   "ts": "2026-09-26T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Excel now supports multiple values in a single cell",
+   "body": "Hacker News · 점수 193",
+   "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+   "source": "Hacker News",
+   "id": "community:https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395:2026-09-26T11:49"
+  },
+  {
+   "ts": "2026-09-26T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] One Piece of Flock Camera Data Put This Innocent Woman in Ja",
+   "body": "Hacker News · 점수 181",
+   "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+   "source": "Hacker News",
+   "id": "community:https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide:2026-09-26T11:49"
+  },
+  {
+   "ts": "2026-09-26T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A German ISP tampered with their DNS - specifically to sabot",
+   "body": "Lemmy · technology · 점수 140",
+   "link": "https://lina.sh/blog/telefonica-sabotages-me",
+   "source": "Lemmy · technology",
+   "id": "community:https://lina.sh/blog/telefonica-sabotages-me:2026-09-26T11:49"
+  },
+  {
+   "ts": "2026-09-26T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Americans’ views of data centers have turned more negative",
+   "body": "Lemmy · technology · 점수 108",
+   "link": "https://www.pewresearch.org/short-reads/2026/09/22/americans-views-of-data-centers-have-turned-more-negative/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.pewresearch.org/short-reads/2026/09/22/americans-views-of-data-centers-have-turned-more-negative/:2026-09-26T11:49"
+  },
   {
    "ts": "2026-09-26T11:19:08+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100372",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100372:2026-09-25T19:49"
-  },
-  {
-   "ts": "2026-09-25T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100310 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-100310 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False GNU libextractor before 1.16 loads plugins from an untrusted search path specified by t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100310",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100310:2026-09-25T19:49"
-  },
-  {
-   "ts": "2026-09-25T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100208 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-100208 📢 Source: microsoft 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-09-25T19:39:27.315Z https://cvefeed.io/vuln/detail/CVE-2026",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100208",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100208:2026-09-25T19:49"
-  },
-  {
-   "ts": "2026-09-25T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97060 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-97060 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True X-SpringBoot through 6.0 lacks object-level authorization in user management endpoints, a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97060",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97060:2026-09-25T18:49"
-  },
-  {
-   "ts": "2026-09-25T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91841 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-91841 📢 Source: fedora 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in NetworkManager-vpnc, a VPN plugin for NetworkManager. A local unprivile",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91841",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91841:2026-09-25T18:19"
-  },
-  {
-   "ts": "2026-09-25T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91840 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-91840 📢 Source: fedora 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in NetworkManager-vpnc. This vulnerability allows a local unprivileged use",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91840",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91840:2026-09-25T18:19"
   }
  ]
 }
