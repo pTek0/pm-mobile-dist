@@ -1,7 +1,157 @@
 {
- "generated_at": "2026-09-26T13:19:08+00:00",
+ "generated_at": "2026-09-26T13:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100619 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-100619 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Capgo ( capgo.app ) blocks direct user inserts into the public.manifest table with a RES",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100619",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100619:2026-09-26T13:49"
+  },
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100618 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-100618 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Capgo ( capgo.app ) is affected by an authorization flaw in the app icon update path. Th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100618",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100618:2026-09-26T13:49"
+  },
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100617 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-100617 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cap-go capgo.app fails to validate that principals in channel_permission_overrides belon",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100617",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100617:2026-09-26T13:49"
+  },
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100616 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-100616 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True capgo.app is an over-the-air update platform for Capacitor apps. In all versions prior to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100616",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100616:2026-09-26T13:49"
+  },
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100615 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-100615 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cap-go capgo.app before 12.267.1 fails to validate target API key privilege during rotat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100615",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100615:2026-09-26T13:49"
+  },
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100614 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-100614 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Capgo before 12.244.1 contains a cross-tenant integrity vulnerability in the metadata-cl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100614",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100614:2026-09-26T13:49"
+  },
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100612 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-100612 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Capgo ( capgo.app ) through version 12.261.0 contains an incomplete access-control fix f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100612",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100612:2026-09-26T13:49"
+  },
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100611 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-100611 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Capgo ( capgo.app backend, versions ≤ 12.261.0) improperly restricts which roles the api",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100611",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100611:2026-09-26T13:49"
+  },
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100609 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-100609 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Flowise (npm packages `flowise` and `flowise-components`) through 3.1.4 looks up credent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100609",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100609:2026-09-26T13:49"
+  },
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100608 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-100608 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Flowise through 3.1.4 does not enforce authorization on the BullMQ admin dashboard. When",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100608",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100608:2026-09-26T13:49"
+  },
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-100607 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-100607 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Flowise through 3.1.4 resolves SSO and local-password users solely by email without ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100607",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100607:2026-09-26T13:49"
+  },
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-100606 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-100606 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Flowise through 3.1.4 (Enterprise/platform mode with SSO enabled) contains an authen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100606",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100606:2026-09-26T13:49"
+  },
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100605 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-100605 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Flowise through 3.1.4 contains missing route-level RBAC checks on chat message endpoints",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100605",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100605:2026-09-26T13:49"
+  },
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100603 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-100603 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True ClawHub (openclaw/clawhub) application/backend contains a flaw in the skill report moder",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100603",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100603:2026-09-26T13:49"
+  },
+  {
+   "ts": "2026-09-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100602 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-100602 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ClawHub (openclaw/clawhub application/backend) contains a missing authorization check in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100602",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100602:2026-09-26T13:49"
+  },
   {
    "ts": "2026-09-26T12:19:08+00:00",
    "level": "general",
@@ -351,156 +501,6 @@
    "link": "https://www.inkandswitch.com/",
    "source": "Hacker News",
    "id": "community:https://www.inkandswitch.com/:2026-09-25T23:49"
-  },
-  {
-   "ts": "2026-09-25T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Meta suffers another legal loss after jury finds Facebook li",
-   "body": "Lemmy · technology · 점수 216",
-   "link": "https://www.the-independent.com/news/world/americas/meta-facebook-privacy-protections-b3056636.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.the-independent.com/news/world/americas/meta-facebook-privacy-protections-b3056636.html:2026-09-25T23:49"
-  },
-  {
-   "ts": "2026-09-25T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Platform-independent SIMD in Go",
-   "body": "Hacker News · 점수 340",
-   "link": "https://go.dev/blog/simd-experiment",
-   "source": "Hacker News",
-   "id": "community:https://go.dev/blog/simd-experiment:2026-09-25T23:19"
-  },
-  {
-   "ts": "2026-09-25T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] U.S. appeals court upholds designation of Anthropic as suppl",
-   "body": "Hacker News · 점수 339",
-   "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-   "source": "Hacker News",
-   "id": "community:https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html:2026-09-25T23:19"
-  },
-  {
-   "ts": "2026-09-25T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Factorio that you can touch",
-   "body": "Hacker News · 점수 294",
-   "link": "https://factorio.com/blog/post/fff-447",
-   "source": "Hacker News",
-   "id": "community:https://factorio.com/blog/post/fff-447:2026-09-25T23:19"
-  },
-  {
-   "ts": "2026-09-25T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Git-bug: Distributed, offline-first bug tracker embedded in ",
-   "body": "Hacker News · 점수 285",
-   "link": "https://github.com/git-bug/git-bug",
-   "source": "Hacker News",
-   "id": "community:https://github.com/git-bug/git-bug:2026-09-25T23:19"
-  },
-  {
-   "ts": "2026-09-25T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] New Jersey fines data center $1.1M after drone pics expose 6",
-   "body": "Lemmy · technology · 점수 283",
-   "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/:2026-09-25T23:19"
-  },
-  {
-   "ts": "2026-09-25T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100501 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-100501 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Flame through 2.4.0 contains an improper restriction of excessive authentication attempt",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100501",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100501:2026-09-25T22:19"
-  },
-  {
-   "ts": "2026-09-25T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100419 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-100419 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False gitoxide gix-fs before 0.23.0 contains a path validation bypass vulnerability in the wo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100419",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100419:2026-09-25T22:19"
-  },
-  {
-   "ts": "2026-09-25T21:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-100382 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-100382 📢 Source: wikimedia-foundation 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an OS Command ('OS Com",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100382",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100382:2026-09-25T21:49"
-  },
-  {
-   "ts": "2026-09-25T21:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-10758 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-10758 📢 Source: Esri 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Esri LERC is an open-source image or raster format which supports rapid encoding and decoding ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10758",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10758:2026-09-25T21:19"
-  },
-  {
-   "ts": "2026-09-25T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91765 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-91765 📢 Source: php 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True cleanup_xml_node() in the SOAP XML parser recurses once per XML nesting level with no depth lim",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91765",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91765:2026-09-25T20:49"
-  },
-  {
-   "ts": "2026-09-25T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100391 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-100391 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True MediaFlow Proxy through 2.4.9 contains a server-side request forgery vulnerability in th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100391",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100391:2026-09-25T20:49"
-  },
-  {
-   "ts": "2026-09-25T20:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-100390 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-100390 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Zoraxy versions 3.2.3 through 3.3.4 fail to properly parse IPv6 addresses in the Rem",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100390",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100390:2026-09-25T20:49"
-  },
-  {
-   "ts": "2026-09-25T20:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-100389 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-100389 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True GestSup versions before 3.2.61 contain a remote code execution vulnerability in the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100389",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100389:2026-09-25T20:49"
-  },
-  {
-   "ts": "2026-09-25T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100387 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-100387 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True pgPointcloud through 1.2.5 contains a heap out-of-bounds read vulnerability in dimension",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100387",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100387:2026-09-25T20:49"
   }
  ]
 }
