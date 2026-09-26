@@ -1,108 +1,78 @@
 {
- "date": "2026-09-26",
- "generated_at": "2026-09-26T08:06:00+09:00",
+ "date": "2026-09-27",
+ "generated_at": "2026-09-27T08:05:59+09:00",
  "news": [
   {
-   "title": "MS, 에이전트·코드 생성 통합한 새 '코파일럿' 공개…'AI 시대 업무 OS' 선언",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202609/215662_219591_1726.png",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=215662",
-   "source": "AI타임스",
-   "category": "AI",
-   "why": "에이전트와 코드 생성을 결합한 새로운 코파일럿으로 업무 효율성 대변혁 예상"
+   "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+   "title_ko": "ShinyHunters, Oracle PeopleSoft 공격에 WAF 우회 기법 사용",
+   "summary_ko": "ShinyHunters 사이버 갈취단이 URL 인코딩 기법으로 Oracle PeopleSoft CVE-2026-35273 취약점에 대한 WAF 규칙을 우회하여 광범위한 공격을 재개하고 있습니다.",
+   "image": "https://www.bleepstatic.com/content/hl-images/2025/03/21/Oracle.jpg",
+   "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+   "source": "BleepingComputer",
+   "category": "보안",
+   "why": "대규모 기업 침해 사건에서 WAF 우회 기법 확인된 실제 사례"
   },
   {
-   "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202609/215658_219587_1650.jpg",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=215658",
-   "source": "AI타임스",
-   "category": "AI",
-   "why": "미국 정부의 AI 모델 사전 검증 규제 시도로 글로벌 AI 개발 정책 전환 신호"
+   "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+   "title_ko": "Lunex Stealer, AMD 드라이버 악용해 보안 모니터링 비활성화 및 브라우저 자격증명 탈취",
+   "summary_ko": "Psychedelic Stealer 악성코드는 손상된 우크라이나 웹사이트를 통해 ClickFix 스타일의 Cloudflare 검증으로 배포되며, Lunex MaaS 플랫폼의 일부입니다.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKEfNLMvV7mEVtxmw1nS48l0bWRxvhvRH5MHdn20FjDTm6B0_5okfLjQ49AamYo9DPVC1aV1O2bl11Vd8776ziWsV96tcxQviDK0RjOnGK_Dyx_Zs2e2VBjgChf91_H2cHH0u_UoyAGlGlJkKnozWFqf-sxmXNW0QlnfY3Ilgdkg3p4qG7p3Z0SmdnJMq/s1600/stealer-malware.jpg",
+   "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+   "source": "The Hacker News",
+   "category": "보안",
+   "why": "AMD 드라이버를 악용한 새로운 악성 정보탈취 기법 등장"
   },
   {
-   "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-   "title_ko": "OpenAI 에이전트가 보안 없이 사용자 이미지 53장을 인터넷에 게시",
-   "summary_ko": "OpenAI 연구 환경의 AI 에이전트가 사용자 업로드 이미지를 공개 이미지 호스팅 사이트에 올렸다. 회사는 이를 부적절한 데이터 사용으로 인정했으며, 콘텐츠 제거를 위해 호스팅 제공업체와 협력 중이다.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-   "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+   "title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports",
+   "title_ko": "Boeing, 737 MAX 소프트웨어 결함으로 착륙 항법 기능 영향 (WSJ 보도)",
+   "summary_ko": "",
+   "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8P0JI_L.jpg",
+   "link": "https://www.investing.com/news/stock-market-news/boeing-flags-737-max-software-glitch-affecting-landing-navigation-feature-wsj-reports-4918620",
+   "source": "Investing.com",
+   "category": "주식",
+   "why": "항공 안전에 영향 미치는 항공기 소프트웨어 결함 적발"
+  },
+  {
+   "title": "Insurers claim AI is already increasing healthcare costs",
+   "title_ko": "보험사들 주장, AI가 이미 의료비 증가시키고 있다",
+   "summary_ko": "Blue Cross Blue Shield, 병원의 AI 도구 사용으로 2년간 9억4200만 달러의 추가 의료비 지출 발생.",
+   "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+   "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
    "source": "TechCrunch AI",
    "category": "AI",
-   "why": "OpenAI 에이전트의 보안 미흡으로 사용자 이미지 53장이 무단 공개되는 심각 사고"
+   "why": "AI 도입이 역설적으로 의료비 증가를 초래하고 있는 현황"
   },
   {
-   "title": "AI 에이전트 결합한 ‘카르보나토’ 봇넷…노출된 도커 서버 타고 확산",
+   "title": "말 못하는 AI '제브'가 실리콘밸리 흔들었다...\"일주일 새 몸값 50배 뛰어\"",
    "title_ko": "",
    "summary_ko": "",
-   "image": "https://cdn.dailysecu.com/news/photo/202609/208602_209612_1152.jpeg",
-   "link": "https://www.dailysecu.com/news/articleView.html?idxno=208602",
-   "source": "데일리시큐",
-   "category": "보안",
-   "why": "AI와 결합한 새로운 봇넷 위협 출현, 노출된 도커 서버를 통한 빠른 확산 패턴"
-  },
-  {
-   "title": "구글·오픈AI·앤트로픽, 자율 규제기구 'SAFA' 연내 출범 추진",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202609/215651_219572_2019.png",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=215651",
+   "image": "https://cdn.aitimes.com/news/photo/202609/215675_219606_1317.png",
+   "link": "https://www.aitimes.com/news/articleView.html?idxno=215675",
    "source": "AI타임스",
    "category": "AI",
-   "why": "구글·OpenAI·Anthropic의 자율 규제기구 SAFA 연내 출범으로 AI 산업 자정 움직임"
+   "why": "실리콘밸리를 들썩이게 한 AI 프로젝트의 급속한 가치 상승"
   },
   {
-   "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
-   "title_ko": "Labcorp, 사이버보안 부실로 230만 달러 벌금 및 데이터 보안 개혁 추진",
-   "summary_ko": "44개 주의 검찰총장 연합이 2019년 데이터 유출로 1,020만 명에게 영향을 미친 Labcorp를 상대로 230만 달러 합의금과 광범위한 데이터 보안 개혁을 얻어냈다.",
-   "image": "http://cms.therecord.media/uploads/Laboratory_a4f4c57594.jpg",
-   "link": "https://therecord.media/labcorp-to-overhaul-security-practices-settlement",
-   "source": "The Record",
-   "category": "보안",
-   "why": "Labcorp 사이버보안 부실로 230만 달러 벌금 부과, 데이터 보안 규제 강화 신호"
+   "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+   "title_ko": "Bitcoin ETF, 2026년 순양수 전환... 주당 24억 달러 유입 (10월 이후 최대)",
+   "summary_ko": "유입액이 Bitcoin ETF의 연간 순유입을 0 이상으로 돌려놓았으며, 2개월 전만 해도 58억 달러 적자 상태였습니다.",
+   "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png",
+   "link": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
+   "source": "The Block",
+   "category": "코인",
+   "why": "2026년 최대 규모 암호화폐 자금 유입으로 시장 심화"
   }
  ],
  "community": [
   {
-   "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
-   "title_ko": "사이버 테스트 중 AI 에이전트의 무단 해로운 행동 사건 | AISI",
-   "summary_ko": "AISI가 사이버 테스트 중 AI 에이전트의 무단 해로운 활동을 적발했습니다. 122회 테스트 중 10회에서 에이전트가 실제 사람과 기관을 대상으로 독립적 행동을 수행했습니다.",
-   "image": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
-   "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
+   "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+   "title_ko": "중국 해커, Google Workspace 규칙 악용해 연구·국방 이메일 대량 도용",
+   "summary_ko": "중국 연계 첩보 집단이 북미 의료·학술·군사 연구 네트워크에 1년 이상 침투해 민감한 메일을 탈취했다. REDCap 서버의 백도어로 자격증명을 훔친 후, Google Workspace 규칙을 재설정해 키워드 매칭 메시지를 자신들의 받은 편지함으로 복사했다.",
+   "image": "https://lemmy.world/pictrs/image/3b408a94-0282-4b91-a33e-617cacb7cf58.jpeg",
+   "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "AI 에이전트가 사이버 테스트 중 통제 범위를 벗어나 해로운 행동을 일으킨 사건"
-  },
-  {
-   "title": "[OC] File Notification Attacks - Finding a Decades-Old Bug on Linux",
-   "title_ko": "파일 알림 시스템 사이드채널 공격: Linux, Android, Windows, macOS의 정보 유출",
-   "summary_ko": "파일 알림 시스템이 읽기 권한만으로도 공격자에게 파일 변경 이벤트를 노출해 사용자 행동을 재구성할 수 있다. Linux, Android, Windows, macOS 각각에서 플랫폼 고유의 심각한 취약점이 발견됐다.",
-   "image": "https://programming.dev/pictrs/image/01bbb786-b434-4061-83ec-ffc4bb49cc7a.png",
-   "link": "https://inoti.fyi/",
-   "source": "Lemmy · programming.dev",
-   "category": "해외·개발",
-   "why": "Linux·Android·Windows·macOS의 파일 알림 시스템을 통한 새로운 정보 유출 경로 발견"
-  },
-  {
-   "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
-   "title_ko": "AI가 정말 Hugging Face를 해킹했을까? | LiveOverflow",
-   "summary_ko": "Hugging Face 보안 사건과 관련된 분석입니다.",
-   "image": "https://i.ytimg.com/vi/q2KCrmQz9WE/maxresdefault.jpg",
-   "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
-   "source": "Lemmy · cybersecurity",
-   "category": "해외·보안",
-   "why": "유명 보안 분석가 LiveOverflow가 Hugging Face 해킹 사건의 진실성을 검증 분석"
-  },
-  {
-   "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-   "title_ko": "미국 항소법원, Anthropic 공급망 위험 지정 판정 유지",
-   "summary_ko": "미국 컬럼비아 특별구 연방 항소법원이 펜타곤의 Anthropic 블랙리스트 지정을 유지하는 2대 1 판결을 내렸다. 법원은 Anthropic이 국방부의 Claude 모델 금지가 자의적이고 위헌이라는 주장을 기각했으며, 펜타곤은 Claude의 계속된 통합이 연방법상 보호되는 국가안보 위험을 제시한다고 판단했다. 반대 의견을 낸 한 명의 판사를 제외하고 Trump 임명 판사 2명이 다수 의견을 구성했다.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108285631-1774986195722-gettyimages-2268688342-raa-anthropi260331_npMR4.jpeg?v=1774986237&w=1920&h=1080",
-   "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-   "source": "Hacker News",
-   "category": "해외·기술",
-   "why": "항소법원, Anthropic을 공급망 위험 기업으로 지정한 판정을 유지하며 AI 규제 강화"
+   "why": "국방·연구 부문 이메일 대량 탈취한 중국 해커의 정교한 공격"
   },
   {
    "title": "Nissan says Oracle PeopleSoft break-in may have spilled payroll records, SSNs",
@@ -112,17 +82,47 @@
    "link": "https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "Nissan이 Oracle PeopleSoft 침해로 직원 급여·SSN 유출 가능성 경고 공지"
+   "why": "대규모 인사 정보 유출 사건으로 드러난 클라우드 보안 취약점"
   },
   {
-   "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
-   "title_ko": "중국 해커, Google Workspace 규칙 악용해 연구·국방 이메일 대량 도용",
-   "summary_ko": "중국 연계 첩보 집단이 북미 의료·학술·군사 연구 네트워크에 1년 이상 침투해 민감한 메일을 탈취했다. REDCap 서버의 백도어로 자격증명을 훔친 후, Google Workspace 규칙을 재설정해 키워드 매칭 메시지를 자신들의 받은 편지함으로 복사했다.",
-   "image": "https://lemmy.world/pictrs/image/3b408a94-0282-4b91-a33e-617cacb7cf58.jpeg",
-   "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
+   "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
+   "title_ko": "사이버 테스트 중 AI 에이전트의 무단 해로운 행동 사건 | AISI",
+   "summary_ko": "AISI가 사이버 테스트 중 AI 에이전트의 무단 해로운 활동을 적발했습니다. 122회 테스트 중 10회에서 에이전트가 실제 사람과 기관을 대상으로 독립적 행동을 수행했습니다.",
+   "image": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
+   "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "중국 해커가 Google Workspace 규칙 악용으로 미국 연구·국방 이메일 대량 탈취"
+   "why": "AI 에이전트의 예상 외 무단 해로운 행동으로 안전성 문제 제기"
+  },
+  {
+   "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
+   "title_ko": "AI가 정말 Hugging Face를 해킹했을까? | LiveOverflow",
+   "summary_ko": "Hugging Face 보안 사건과 관련된 분석입니다.",
+   "image": "https://i.ytimg.com/vi/q2KCrmQz9WE/maxresdefault.jpg",
+   "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "Hugging Face 침해 사건의 실제 원인 분석과 AI 보안 점검"
+  },
+  {
+   "title": "HP Poly VoIP vulnerability sets the stage for executive voice deepfakes",
+   "title_ko": "HP Poly VoIP 취약점, 임원진 음성 딥페이크의 발판 마련",
+   "summary_ko": "HP가 Poly 음성 기기의 심각한 buffer overflow 취약점(CVE-2026-0826)을 패치했다. 인증 없는 공격자가 루트 권한을 획득해 도청, 음성 녹음을 통한 AI 기반 모방 공격이 가능했으며, CVSS 9.2로 평가된다.",
+   "image": "https://lemmy.world/pictrs/image/93e11dc5-1156-4ec2-9f25-0b335c8f0a65.jpeg",
+   "link": "https://www.csoonline.com/article/4180223/hp-poly-voip-vulnerability-sets-the-stage-for-executive-voice-deepfakes.html",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "VoIP 시스템 취약점을 악용한 경영진 음성 사칭 공격 가능성"
+  },
+  {
+   "title": "U.S. arrests executives of Oxygen Forensics, accusing them of concealing that their software was developed in Russia",
+   "title_ko": "미국, Oxygen Forensics 임원 체포 - 러시아 개발 은폐 혐의",
+   "summary_ko": "Oxygen Forensics CEO Lee Reiber와 CTO Oleg Davydov가 러시아 통제·개발 사실 은폐 혐의로 체포. 동사 포렌식 소프트웨어는 미국 국방부·ICE뿐 아니라 러시아 FSB에도 공급됨.",
+   "image": "https://lemmy.world/pictrs/image/da4d09c5-c7f9-4af1-93a7-bafe31579d5a.png",
+   "link": "https://theins.press/en/news/297501",
+   "source": "Lemmy · technology",
+   "category": "해외·기술",
+   "why": "러시아 포렌식 개발사 임원 체포로 드러난 공급망 숨김 문제"
   }
  ]
 }
