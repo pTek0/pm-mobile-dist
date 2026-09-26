@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-26T00:49:08+00:00",
+ "generated_at": "2026-09-26T01:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-26T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100520 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-100520 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Laranode versions before 1.2.1 contain a path traversal vulnerability in the POST /filem",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100520",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100520:2026-09-26T01:19"
+  },
+  {
+   "ts": "2026-09-26T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100504 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-100504 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Ghidra versions through 12.1.4 contain a stack-based out-of-bounds write vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100504",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100504:2026-09-26T01:19"
+  },
   {
    "ts": "2026-09-26T00:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84884",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84884:2026-09-25T14:19"
-  },
-  {
-   "ts": "2026-09-25T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-93641 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-93641 📢 Source: rapid7 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated sender can forge a share notification that triggers stored XSS when a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93641",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93641:2026-09-25T14:19"
-  },
-  {
-   "ts": "2026-09-25T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85542 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-85542 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is affected by a command injection vulnerability in the GIM b",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85542",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85542:2026-09-25T14:19"
   }
  ]
 }
