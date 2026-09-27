@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-27T20:49:07+00:00",
+ "generated_at": "2026-09-27T21:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-27T21:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101090 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-101090 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Nezha 2.2.3 contains a Host header injection regression in the OAuth2 redirect endpo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101090",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101090:2026-09-27T21:19"
+  },
+  {
+   "ts": "2026-09-27T21:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101086 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101086 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Nezha Dashboard versions before 2.3.5 fail to restrict service monitor task types to sup",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101086",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101086:2026-09-27T21:19"
+  },
+  {
+   "ts": "2026-09-27T21:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101085 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101085 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Nezha before 2.3.8 fails to validate alert rule type and duration bounds, allowing authe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101085",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101085:2026-09-27T21:19"
+  },
+  {
+   "ts": "2026-09-27T21:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101084 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-101084 📢 Source: VulnCheck 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True obot versions before v0.21.1 fail to enforce Access Control Rules on the /mcp-connec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101084",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101084:2026-09-27T21:19"
+  },
+  {
+   "ts": "2026-09-27T21:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101065 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-101065 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Obot is an open-source AI agent/MCP platform. In all versions up to and including co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101065",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101065:2026-09-27T21:19"
+  },
+  {
+   "ts": "2026-09-27T21:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101064 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-101064 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Obot before v0.23.0 contains a server-side request forgery vulnerability in remote MCP s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101064",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101064:2026-09-27T21:19"
+  },
   {
    "ts": "2026-09-27T17:49:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100833",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100833:2026-09-27T02:19"
-  },
-  {
-   "ts": "2026-09-27T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100725 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-100725 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True http4k (Maven artifact org.http4k:http4k-core) before 6.48.0.0 , 5.42.0.0 , and 4.51.0.0",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100725",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100725:2026-09-27T02:19"
-  },
-  {
-   "ts": "2026-09-27T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100723 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-100723 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True vm2 before 3.12.2 does not apply its Buffer backing-store ownership invariant (byteOffse",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100723",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100723:2026-09-27T02:19"
-  },
-  {
-   "ts": "2026-09-27T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100722 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-100722 📢 Source: VulnCheck 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True vm2 before 3.12.2 does not apply host-side Promise rejection handling in the sandbox-to-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100722",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100722:2026-09-27T02:19"
-  },
-  {
-   "ts": "2026-09-27T02:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-100721 (CVSS 9.5)",
-   "body": "🚨 CVE-2026-100721 📢 Source: VulnCheck 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True vm2 before 3.12.2 contains an authorization bypass in the NodeVM external-module res",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100721",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100721:2026-09-27T02:19"
-  },
-  {
-   "ts": "2026-09-27T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-71426 (CVSS 7.1)",
-   "body": "🚨 CVE-2025-71426 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Contrast is a confidential-computing runtime for Kubernetes. In versions before 1.4.1, a ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71426",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71426:2026-09-27T02:19"
-  },
-  {
-   "ts": "2026-09-27T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-71425 (CVSS 8.5)",
-   "body": "🚨 CVE-2025-71425 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Contrast (Edgeless Systems) before 1.8.1 logs the workload secret to stderr, and thus to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71425",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71425:2026-09-27T02:19"
   }
  ]
 }
