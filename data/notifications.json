@@ -1,7 +1,157 @@
 {
- "generated_at": "2026-09-27T01:49:08+00:00",
+ "generated_at": "2026-09-27T02:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100842 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-100842 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False MONAI through 1.6.0 contains an eval injection vulnerability in _get_fake_spatial_shape",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100842",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100842:2026-09-27T02:19"
+  },
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100841 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-100841 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False In MONAI 1.6.0, PersistentDataset (monai/data/ dataset.py ) explicitly rejects the comb",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100841",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100841:2026-09-27T02:19"
+  },
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100840 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-100840 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False MONAI through 1.6.0 contains a remote code execution vulnerability in the bundle config",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100840",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100840:2026-09-27T02:19"
+  },
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100839 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-100839 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Contrast is a confidential-computing runtime for Kubernetes. In versions before 1.18.0,",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100839",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100839:2026-09-27T02:19"
+  },
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100838 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-100838 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Contrast is a confidential-computing runtime for Kubernetes. In versions before 1.19.1,",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100838",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100838:2026-09-27T02:19"
+  },
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-100835 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-100835 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Contrast before 1.16.0 is susceptible to remote attestation relay attacks. Contrast ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100835",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100835:2026-09-27T02:19"
+  },
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100834 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-100834 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True http4k's Digest authentication module (org.http4k:http4k-security-digest) before version",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100834",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100834:2026-09-27T02:19"
+  },
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100833 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-100833 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Contrast (edgelesssys/contrast) versions 1.14.0 before 1.23.1 generate runtime policies ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100833",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100833:2026-09-27T02:19"
+  },
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100725 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-100725 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True http4k (Maven artifact org.http4k:http4k-core) before 6.48.0.0 , 5.42.0.0 , and 4.51.0.0",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100725",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100725:2026-09-27T02:19"
+  },
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100723 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-100723 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True vm2 before 3.12.2 does not apply its Buffer backing-store ownership invariant (byteOffse",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100723",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100723:2026-09-27T02:19"
+  },
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100722 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-100722 📢 Source: VulnCheck 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True vm2 before 3.12.2 does not apply host-side Promise rejection handling in the sandbox-to-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100722",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100722:2026-09-27T02:19"
+  },
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-100721 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-100721 📢 Source: VulnCheck 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True vm2 before 3.12.2 contains an authorization bypass in the NodeVM external-module res",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100721",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100721:2026-09-27T02:19"
+  },
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-71426 (CVSS 7.1)",
+   "body": "🚨 CVE-2025-71426 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Contrast is a confidential-computing runtime for Kubernetes. In versions before 1.4.1, a ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71426",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71426:2026-09-27T02:19"
+  },
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-71425 (CVSS 8.5)",
+   "body": "🚨 CVE-2025-71425 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Contrast (Edgeless Systems) before 1.8.1 logs the workload secret to stderr, and thus to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71425",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71425:2026-09-27T02:19"
+  },
+  {
+   "ts": "2026-09-27T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-71423 (CVSS 8.5)",
+   "body": "🚨 CVE-2025-71423 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Edgelesssys Contrast is a confidential-computing runtime for Kubernetes. In versions 1.9",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71423",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71423:2026-09-27T02:19"
+  },
   {
    "ts": "2026-09-27T00:19:07+00:00",
    "level": "general",
@@ -351,156 +501,6 @@
    "link": "https://tech.yahoo.com/ai/articles/even-americans-ai-every-day-164958256.html",
    "source": "Lemmy · technology",
    "id": "community:https://tech.yahoo.com/ai/articles/even-americans-ai-every-day-164958256.html:2026-09-26T12:19"
-  },
-  {
-   "ts": "2026-09-26T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: Jev Plays Pokémon Red",
-   "body": "Hacker News · 점수 207",
-   "link": "https://jev-pokemon.vercel.app/",
-   "source": "Hacker News",
-   "id": "community:https://jev-pokemon.vercel.app/:2026-09-26T11:49"
-  },
-  {
-   "ts": "2026-09-26T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Excel now supports multiple values in a single cell",
-   "body": "Hacker News · 점수 193",
-   "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-   "source": "Hacker News",
-   "id": "community:https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395:2026-09-26T11:49"
-  },
-  {
-   "ts": "2026-09-26T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] One Piece of Flock Camera Data Put This Innocent Woman in Ja",
-   "body": "Hacker News · 점수 181",
-   "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-   "source": "Hacker News",
-   "id": "community:https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide:2026-09-26T11:49"
-  },
-  {
-   "ts": "2026-09-26T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A German ISP tampered with their DNS - specifically to sabot",
-   "body": "Lemmy · technology · 점수 140",
-   "link": "https://lina.sh/blog/telefonica-sabotages-me",
-   "source": "Lemmy · technology",
-   "id": "community:https://lina.sh/blog/telefonica-sabotages-me:2026-09-26T11:49"
-  },
-  {
-   "ts": "2026-09-26T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Americans’ views of data centers have turned more negative",
-   "body": "Lemmy · technology · 점수 108",
-   "link": "https://www.pewresearch.org/short-reads/2026/09/22/americans-views-of-data-centers-have-turned-more-negative/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.pewresearch.org/short-reads/2026/09/22/americans-views-of-data-centers-have-turned-more-negative/:2026-09-26T11:49"
-  },
-  {
-   "ts": "2026-09-26T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Revealing the details of how OpenAI agents hacked Hugging Fa",
-   "body": "Hacker News · 점수 500",
-   "link": "https://swarmtraces.org/",
-   "source": "Hacker News",
-   "id": "community:https://swarmtraces.org/:2026-09-26T11:19"
-  },
-  {
-   "ts": "2026-09-26T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Plan mode is dead",
-   "body": "Hacker News · 점수 344",
-   "link": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-   "source": "Hacker News",
-   "id": "community:https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html:2026-09-26T11:19"
-  },
-  {
-   "ts": "2026-09-26T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Jury finds Facebook liable for deceiving users in Cambridge ",
-   "body": "Hacker News · 점수 240",
-   "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-   "source": "Hacker News",
-   "id": "community:https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/:2026-09-26T11:19"
-  },
-  {
-   "ts": "2026-09-26T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] What even is an OS now?",
-   "body": "Hacker News · 점수 207",
-   "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-   "source": "Hacker News",
-   "id": "community:https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/:2026-09-26T11:19"
-  },
-  {
-   "ts": "2026-09-26T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Gravity seems holographic. What does that mean for reality?",
-   "body": "Hacker News · 점수 207",
-   "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-   "source": "Hacker News",
-   "id": "community:https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/:2026-09-26T11:19"
-  },
-  {
-   "ts": "2026-09-26T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100544 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-100544 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True openclaw's @openclaw /voice-call package before 2026.8.1 launches the configured agent f",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100544",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100544:2026-09-26T02:49"
-  },
-  {
-   "ts": "2026-09-26T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100543 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-100543 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True OpenClaw (npm package openclaw) before 2026.8.1 could include deterministic hashes compu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100543",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100543:2026-09-26T02:49"
-  },
-  {
-   "ts": "2026-09-26T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100540 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-100540 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True OpenClaw Feishu before 2026.8.1 fails to validate whether a configured default account i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100540",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100540:2026-09-26T02:49"
-  },
-  {
-   "ts": "2026-09-26T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100538 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-100538 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenClaw (npm package 'openclaw') before 2026.8.1 does not apply the originating sender'",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100538",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100538:2026-09-26T02:49"
-  },
-  {
-   "ts": "2026-09-26T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100536 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-100536 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenClaw versions before 2026.8.1 fail to validate all source fields in structured messa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100536",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100536:2026-09-26T02:49"
   }
  ]
 }
