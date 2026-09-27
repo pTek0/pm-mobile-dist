@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-27T22:49:07+00:00",
+ "generated_at": "2026-09-27T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-27T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] When did Google get so weird?",
+   "body": "Hacker News · 점수 467",
+   "link": "https://sancho.bearblog.dev/google-weird/",
+   "source": "Hacker News",
+   "id": "community:https://sancho.bearblog.dev/google-weird/:2026-09-27T23:19"
+  },
+  {
+   "ts": "2026-09-27T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Flip Fluid on Flip Dots",
+   "body": "Hacker News · 점수 348",
+   "link": "https://mitxela.com/projects/flipflip",
+   "source": "Hacker News",
+   "id": "community:https://mitxela.com/projects/flipflip:2026-09-27T23:19"
+  },
+  {
+   "ts": "2026-09-27T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Ember-1",
+   "body": "Hacker News · 점수 280",
+   "link": "https://fireworks.ai/blog/ember-1",
+   "source": "Hacker News",
+   "id": "community:https://fireworks.ai/blog/ember-1:2026-09-27T23:19"
+  },
+  {
+   "ts": "2026-09-27T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Stop bringing your phone in the shower: How steam can ruin '",
+   "body": "Lemmy · technology · 점수 229",
+   "link": "https://www.engadget.com/2266522/why-steam-ruins-phone-more-than-water/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.engadget.com/2266522/why-steam-ruins-phone-more-than-water/:2026-09-27T23:19"
+  },
+  {
+   "ts": "2026-09-27T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The Normalization of Inexplicable Failures",
+   "body": "Hacker News · 점수 228",
+   "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+   "source": "Hacker News",
+   "id": "community:https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html:2026-09-27T23:19"
+  },
   {
    "ts": "2026-09-27T21:19:06+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100840",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100840:2026-09-27T02:19"
-  },
-  {
-   "ts": "2026-09-27T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100839 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-100839 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Contrast is a confidential-computing runtime for Kubernetes. In versions before 1.18.0,",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100839",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100839:2026-09-27T02:19"
-  },
-  {
-   "ts": "2026-09-27T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100838 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-100838 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Contrast is a confidential-computing runtime for Kubernetes. In versions before 1.19.1,",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100838",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100838:2026-09-27T02:19"
-  },
-  {
-   "ts": "2026-09-27T02:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-100835 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-100835 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Contrast before 1.16.0 is susceptible to remote attestation relay attacks. Contrast ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100835",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100835:2026-09-27T02:19"
-  },
-  {
-   "ts": "2026-09-27T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100834 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-100834 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True http4k's Digest authentication module (org.http4k:http4k-security-digest) before version",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100834",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100834:2026-09-27T02:19"
-  },
-  {
-   "ts": "2026-09-27T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100833 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-100833 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Contrast (edgelesssys/contrast) versions 1.14.0 before 1.23.1 generate runtime policies ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100833",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100833:2026-09-27T02:19"
   }
  ]
 }
