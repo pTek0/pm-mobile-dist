@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-27T13:19:08+00:00",
+ "generated_at": "2026-09-27T13:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-27T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101032 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-101032 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False navi through 2.24.0 fails to properly escape cheatsheet variable values when substituti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101032",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101032:2026-09-27T13:49"
+  },
   {
    "ts": "2026-09-27T13:19:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://floci.io",
    "source": "Hacker News",
    "id": "community:https://floci.io:2026-09-26T23:19"
-  },
-  {
-   "ts": "2026-09-26T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72668 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-72668 📢 Source: elastic 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Unintended Proxy or Intermediary ('Confused Deputy') (CWE-441) in Kibana Agent Builder can ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72668",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72668:2026-09-26T21:19"
   }
  ]
 }
