@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-09-27T16:19:07+00:00",
+ "generated_at": "2026-09-27T16:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-27T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88778 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-88778 📢 Source: NetScaler 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Predictable exact value from previous values vulnerability in Citrix NetScaler ADC and Ci",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88778",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88778:2026-09-27T16:49"
+  },
+  {
+   "ts": "2026-09-27T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88777 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-88777 📢 Source: NetScaler 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Memory overflow vulnerability vulnerability in Citrix NetScaler ADC and Citrix NetScaler ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88777",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88777:2026-09-27T16:49"
+  },
+  {
+   "ts": "2026-09-27T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88776 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-88776 📢 Source: NetScaler 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Memory overflow vulnerability vulnerability in Citrix NetScaler ADC and Citrix NetScaler ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88776",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88776:2026-09-27T16:49"
+  },
+  {
+   "ts": "2026-09-27T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101050 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-101050 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Heym before 0.0.53 fails to verify the X-Telegram-Bot-Api-Secret-Token header on Telegra",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101050",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101050:2026-09-27T16:49"
+  },
+  {
+   "ts": "2026-09-27T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101049 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-101049 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Heym before 0.0.53 fails to verify Slack request signatures when trigger nodes lack cred",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101049",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101049:2026-09-27T16:49"
+  },
+  {
+   "ts": "2026-09-27T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88775 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-88775 📢 Source: NetScaler 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This issue affects AD",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88775",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88775:2026-09-27T16:49"
+  },
+  {
+   "ts": "2026-09-27T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88774 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-88774 📢 Source: NetScaler 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This issue affects ADC:",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88774",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88774:2026-09-27T16:49"
+  },
+  {
+   "ts": "2026-09-27T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-88773 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-88773 📢 Source: NetScaler 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Inconsistent interpretation of HTTP requests ('HTTP Request/Response smuggling') vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88773",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88773:2026-09-27T16:49"
+  },
+  {
+   "ts": "2026-09-27T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-88772 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-88772 📢 Source: NetScaler 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This issue affect",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88772",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88772:2026-09-27T16:49"
+  },
+  {
+   "ts": "2026-09-27T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-88771 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-88771 📢 Source: NetScaler 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True Improper input validation vulnerability in Citrix NetScaler ADC and Citrix NetScaler ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88771",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88771:2026-09-27T16:49"
+  },
   {
    "ts": "2026-09-27T13:49:07+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
    "source": "Lobsters",
    "id": "community:https://herecomesthemoon.net/2026/09/commodified-intelligence/:2026-09-27T00:19"
-  },
-  {
-   "ts": "2026-09-26T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] 16GB iPod Nano 3G Upgrade",
-   "body": "Hacker News · 점수 139",
-   "link": "https://tuckerosman.com/projects/16gb-ipod-nano",
-   "source": "Hacker News",
-   "id": "community:https://tuckerosman.com/projects/16gb-ipod-nano:2026-09-26T23:49"
-  },
-  {
-   "ts": "2026-09-26T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Modern Object Pascal Introduction for Programmers",
-   "body": "Hacker News · 점수 134",
-   "link": "https://castle-engine.io/modern_pascal",
-   "source": "Hacker News",
-   "id": "community:https://castle-engine.io/modern_pascal:2026-09-26T23:49"
-  },
-  {
-   "ts": "2026-09-26T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] FBI Agents fearful and angry after 'dangerous' data breach",
-   "body": "Lemmy · technology · 점수 129",
-   "link": "http://www.bbc.com/news/articles/cm4gjjlgzdjgo",
-   "source": "Lemmy · technology",
-   "id": "community:http://www.bbc.com/news/articles/cm4gjjlgzdjgo:2026-09-26T23:49"
-  },
-  {
-   "ts": "2026-09-26T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How to keep enjoying programming in a world of LLMs",
-   "body": "Hacker News · 점수 126",
-   "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-   "source": "Hacker News",
-   "id": "community:https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705:2026-09-26T23:49"
-  },
-  {
-   "ts": "2026-09-26T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI exec: We may have pulled off “the largest theft of labor ",
-   "body": "Lemmy · technology · 점수 110",
-   "link": "https://www.motherjones.com/politics/2026/09/openai-chatgpt-microsoft-copyright-legal-case-documents-revelations/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.motherjones.com/politics/2026/09/openai-chatgpt-microsoft-copyright-legal-case-documents-revelations/:2026-09-26T23:49"
-  },
-  {
-   "ts": "2026-09-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] We're gonna need a lot more mathematicians",
-   "body": "Hacker News · 점수 354",
-   "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-   "source": "Hacker News",
-   "id": "community:https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/:2026-09-26T23:19"
-  },
-  {
-   "ts": "2026-09-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fifteen years later, the Apple Cards origin story",
-   "body": "Hacker News · 점수 324",
-   "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-   "source": "Hacker News",
-   "id": "community:https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story:2026-09-26T23:19"
-  },
-  {
-   "ts": "2026-09-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] PipePipe: NewPipe hard fork implementing SponsorBlock",
-   "body": "Hacker News · 점수 283",
-   "link": "https://github.com/InfinityLoop1308/PipePipe",
-   "source": "Hacker News",
-   "id": "community:https://github.com/InfinityLoop1308/PipePipe:2026-09-26T23:19"
-  },
-  {
-   "ts": "2026-09-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Plunging test scores are a slow-moving catastrophe",
-   "body": "Hacker News · 점수 159",
-   "link": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
-   "source": "Hacker News",
-   "id": "community:https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe:2026-09-26T23:19"
-  },
-  {
-   "ts": "2026-09-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Floci: Locally emulating any cloud service",
-   "body": "Hacker News · 점수 157",
-   "link": "https://floci.io",
-   "source": "Hacker News",
-   "id": "community:https://floci.io:2026-09-26T23:19"
   }
  ]
 }
