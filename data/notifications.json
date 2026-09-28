@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-28T15:49:07+00:00",
+ "generated_at": "2026-09-28T16:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T16:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-88804 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-88804 📢 Source: suse 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated update of public UI settings could be used by remote attackers to execu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88804",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88804:2026-09-28T16:19"
+  },
+  {
+   "ts": "2026-09-28T16:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88805 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-88805 📢 Source: suse 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Incorrect credential cleaning on logout could be used by remote attackers to keep access crede",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88805",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88805:2026-09-28T16:19"
+  },
+  {
+   "ts": "2026-09-28T16:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88808 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-88808 📢 Source: suse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A vulnerability has been identified within Rancher Manager where the Fleet agent wrote resourc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88808",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88808:2026-09-28T16:19"
+  },
+  {
+   "ts": "2026-09-28T16:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-12342 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-12342 📢 Source: SailPoint 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False This vulnerability impacts all versions of IdentityIQ and allows an unauthenticated ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12342",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12342:2026-09-28T16:19"
+  },
   {
    "ts": "2026-09-28T15:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82378",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82378:2026-09-28T08:19"
-  },
-  {
-   "ts": "2026-09-28T08:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82377 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-82377 📢 Source: apache 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Missing Authorization in Apache Roller 6.1.5 allows an authenticated user to read, modif",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82377",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82377:2026-09-28T08:19"
-  },
-  {
-   "ts": "2026-09-28T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82376 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-82376 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Improper Restriction of XML External Entity Reference in Apache Roller 6.1.5 allows a user w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82376",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82376:2026-09-28T08:19"
-  },
-  {
-   "ts": "2026-09-28T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82348 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-82348 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key in Apache Roller 6.1.5 allows an authentica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82348",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82348:2026-09-28T08:19"
-  },
-  {
-   "ts": "2026-09-28T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100751 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-100751 📢 Source: Joomla 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - regularlabs.com - Privileged stored XSS via data-rlta-url attributes in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100751",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100751:2026-09-28T07:19"
   }
  ]
 }
