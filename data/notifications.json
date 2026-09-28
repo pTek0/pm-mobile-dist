@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-28T13:49:12+00:00",
+ "generated_at": "2026-09-28T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-90924 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-90924 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Use of default credentials vulnerability in Innotim Software, Telecommunications and Co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90924",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90924:2026-09-28T14:19"
+  },
+  {
+   "ts": "2026-09-28T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-90926 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-90926 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper Control of Generation of Code ('Code Injection') vulnerability in Innotim Software",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90926",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90926:2026-09-28T14:19"
+  },
+  {
+   "ts": "2026-09-28T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-90925 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-90925 📢 Source: TR-CERT 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90925",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90925:2026-09-28T14:19"
+  },
   {
    "ts": "2026-09-28T13:49:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://www.motherjones.com/politics/2026/09/palantirs-co-founder-thinks-we-should-be-less-judgmental-about-that-deadly-iran-school-strike/",
    "source": "Lemmy · programming.dev",
    "id": "community:https://www.motherjones.com/politics/2026/09/palantirs-co-founder-thinks-we-should-be-less-judgmental-about-that-deadly-iran-school-strike/:2026-09-28T00:49"
-  },
-  {
-   "ts": "2026-09-28T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Flock CEO says drones are its fastest-growing business as it",
-   "body": "Lemmy · programming.dev · 점수 65",
-   "link": "https://www.businessinsider.com/flock-ceo-drones-fastest-growing-business-2026-8",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.businessinsider.com/flock-ceo-drones-fastest-growing-business-2026-8:2026-09-28T00:49"
-  },
-  {
-   "ts": "2026-09-28T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: ship-pentest",
-   "body": "**★ 2026-09-18~28 활동 재개(이번 주 허브 유일 실측 활동)** — ①**랜섬웨어 점검 랩**: IT 엔드포인트 read-only 백신 특성화(Hyper-V baseline-clean 스냅샷 사이클, ",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: ship-pentest:2026-09-28T00:49"
-  },
-  {
-   "ts": "2026-09-28T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: InsecureBankv2",
-   "body": "정적분석 보고서 완료 — **정체 지속(마지막 활동 07-20 → 2026-09-28 기준 70일 경과)**",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: InsecureBankv2:2026-09-28T00:49"
   }
  ]
 }
