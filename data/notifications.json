@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-28T10:19:08+00:00",
+ "generated_at": "2026-09-28T10:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T10:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19759 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-19759 📢 Source: GoogleCloud 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True An Incorrect Authorization vulnerability in the task configuration in Google Cloud ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19759",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19759:2026-09-28T10:49"
+  },
   {
    "ts": "2026-09-28T09:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101045",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101045:2026-09-27T17:49"
-  },
-  {
-   "ts": "2026-09-27T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101043 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-101043 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True pnpm versions 11.0.0 before 11.11.0 and 10.7.0 before 10.34.5 expand ${VAR} environment-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101043",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101043:2026-09-27T17:49"
   }
  ]
 }
