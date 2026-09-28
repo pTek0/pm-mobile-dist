@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-28T12:19:07+00:00",
+ "generated_at": "2026-09-28T12:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86330 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-86330 📢 Source: redhat 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True An OS command injection flaw was found in the set_hostname_internal function of NooBaa's clu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86330",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86330:2026-09-28T12:49"
+  },
+  {
+   "ts": "2026-09-28T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82928 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-82928 📢 Source: CERT-PL 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False mH-DEVELOPER smart home module contains a hardcoded SSH public key in /root/.ssh/authorize",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82928",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82928:2026-09-28T12:49"
+  },
   {
    "ts": "2026-09-28T12:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
    "source": "Hacker News",
    "id": "community:https://asawicki.info/articles/writing_efficient_cpp_code.php:2026-09-27T23:49"
-  },
-  {
-   "ts": "2026-09-27T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Replacing the old battery on rechargeable bike lights",
-   "body": "Hacker News · 점수 125",
-   "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-   "source": "Hacker News",
-   "id": "community:https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/:2026-09-27T23:49"
-  },
-  {
-   "ts": "2026-09-27T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] When did Google get so weird?",
-   "body": "Hacker News · 점수 467",
-   "link": "https://sancho.bearblog.dev/google-weird/",
-   "source": "Hacker News",
-   "id": "community:https://sancho.bearblog.dev/google-weird/:2026-09-27T23:19"
   }
  ]
 }
