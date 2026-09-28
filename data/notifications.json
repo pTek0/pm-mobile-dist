@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-28T23:19:07+00:00",
+ "generated_at": "2026-09-28T23:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102365 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-102365 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True mall4j through 4.0 fails to enforce authorization checks on GET endpoints in UserAddrCon",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102365",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102365:2026-09-28T23:49"
+  },
+  {
+   "ts": "2026-09-28T23:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-102361 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-102361 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True mall4j through 4.0 contains a missing authentication vulnerability in the PUT /user/",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102361",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102361:2026-09-28T23:49"
+  },
+  {
+   "ts": "2026-09-28T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Discord’s Second Attempt To Roll Out Age Verification Is Goi",
+   "body": "Lemmy · technology · 점수 227",
+   "link": "https://kotaku.com/discords-second-attempt-to-roll-out-age-verification-is-going-badly-2000737908",
+   "source": "Lemmy · technology",
+   "id": "community:https://kotaku.com/discords-second-attempt-to-roll-out-age-verification-is-going-badly-2000737908:2026-09-28T23:49"
+  },
+  {
+   "ts": "2026-09-28T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Apple's A20 Pro shatters Geekbench 7 single-core record — 2n",
+   "body": "Lemmy · technology · 점수 190",
+   "link": "https://www.tomshardware.com/pc-components/cpus/apples-a20-pro-shatters-geekbench-7-single-core-record-2nm-chip-beats-desktop-intel-core-i9-and-amd-ryzen-9-by-up-to-32-percent",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.tomshardware.com/pc-components/cpus/apples-a20-pro-shatters-geekbench-7-single-core-record-2nm-chip-beats-desktop-intel-core-i9-and-amd-ryzen-9-by-up-to-32-percent:2026-09-28T23:49"
+  },
+  {
+   "ts": "2026-09-28T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Expressions",
+   "body": "Lemmy · programming.dev · 점수 168",
+   "link": "https://lemmy.world/pictrs/image/83e3192c-0e45-4aa8-a2e4-633e13bad606.png",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.world/pictrs/image/83e3192c-0e45-4aa8-a2e4-633e13bad606.png:2026-09-28T23:49"
+  },
+  {
+   "ts": "2026-09-28T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] It's Time to Investigate the AI Labs",
+   "body": "Hacker News · 점수 157",
+   "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+   "source": "Hacker News",
+   "id": "community:https://calnewport.com/its-time-to-investigate-the-ai-labs/:2026-09-28T23:49"
+  },
+  {
+   "ts": "2026-09-28T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Jeff – Jev-compatible 0.8B decision models, trained at home,",
+   "body": "Hacker News · 점수 138",
+   "link": "https://github.com/firelex/jeff",
+   "source": "Hacker News",
+   "id": "community:https://github.com/firelex/jeff:2026-09-28T23:49"
+  },
   {
    "ts": "2026-09-28T23:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82928",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82928:2026-09-28T12:49"
-  },
-  {
-   "ts": "2026-09-28T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12264 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-12264 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine DDI Central versions before 6201 are vulnerable to Arbitrary file wr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12264",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12264:2026-09-28T12:19"
-  },
-  {
-   "ts": "2026-09-28T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78424 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-78424 📢 Source: suse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper parameter handling in NeuVector allows any authenticated user who holds the namespace",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78424",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78424:2026-09-28T12:19"
-  },
-  {
-   "ts": "2026-09-28T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91043 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-91043 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in elixir-mint mint allows a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91043",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91043:2026-09-28T11:49"
-  },
-  {
-   "ts": "2026-09-28T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Users find a default, mandatory Windows feature freezes your",
-   "body": "Lemmy · technology · 점수 52",
-   "link": "https://www.neowin.net/news/users-find-a-default-mandatory-windows-feature-freezes-your-pc-when-you-use-internet/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.neowin.net/news/users-find-a-default-mandatory-windows-feature-freezes-your-pc-when-you-use-internet/:2026-09-28T11:49"
-  },
-  {
-   "ts": "2026-09-28T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81375 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-81375 📢 Source: GoogleCloud 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True A Confused Deputy vulnerability in the EmailTask component in Google Cloud Application ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81375",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81375:2026-09-28T11:19"
-  },
-  {
-   "ts": "2026-09-28T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12267 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-12267 📢 Source: Zohocorp 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True ManageEngine DDI Central versions below 6201 are vulnerable to Command injection in Window",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12267",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12267:2026-09-28T11:19"
-  },
-  {
-   "ts": "2026-09-28T11:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-81867 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-81867 📢 Source: GoogleCloud 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True A Deserialization of Untrusted Data vulnerability in the JavaScript Task in Google ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81867",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81867:2026-09-28T11:19"
   }
  ]
 }
