@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-28T22:19:07+00:00",
+ "generated_at": "2026-09-28T22:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102335 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-102335 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Nginx Proxy Manager through 2.16.0 fails to restrict the advanced_config field to admini",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102335",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102335:2026-09-28T22:49"
+  },
+  {
+   "ts": "2026-09-28T22:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-102334 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-102334 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Nginx Proxy Manager through 2.16.0 lacks rate-limiting on authentication endpoints, ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102334",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102334:2026-09-28T22:49"
+  },
   {
    "ts": "2026-09-28T22:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
    "source": "Hacker News",
    "id": "community:https://shnatsel.github.io/state-of-simd-rust-2026/:2026-09-28T11:19"
-  },
-  {
-   "ts": "2026-09-28T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] New Mexico jury finds Facebook liable for over 43 million vi",
-   "body": "Lemmy · technology · 점수 101",
-   "link": "https://fortune.com/2026/09/26/facebook-liable-violations-new-mexico-consumer-protection-lawand-meta-200-billion-penalties/",
-   "source": "Lemmy · technology",
-   "id": "community:https://fortune.com/2026/09/26/facebook-liable-violations-new-mexico-consumer-protection-lawand-meta-200-billion-penalties/:2026-09-28T11:19"
-  },
-  {
-   "ts": "2026-09-28T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] postmarketOS rebrands as Nura",
-   "body": "Lobsters · 점수 64",
-   "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
-   "source": "Lobsters",
-   "id": "community:https://nura.eco/blog/2026/09/27/nura-rename/:2026-09-28T11:19"
   }
  ]
 }
