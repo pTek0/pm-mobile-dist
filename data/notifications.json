@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-28T19:49:07+00:00",
+ "generated_at": "2026-09-28T20:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102004 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-102004 📢 Source: WindRiver 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Wind River VxWorks 7 prior to 26.09, specific system call arguments can result in memor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102004",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102004:2026-09-28T20:19"
+  },
   {
    "ts": "2026-09-28T19:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82383",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82383:2026-09-28T08:19"
-  },
-  {
-   "ts": "2026-09-28T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82380 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-82380 📢 Source: apache 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) in Apache Roller 6.1.5 allows a remote attacker to cause a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82380",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82380:2026-09-28T08:19"
   }
  ]
 }
