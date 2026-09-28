@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-28T13:19:07+00:00",
+ "generated_at": "2026-09-28T13:49:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97335 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-97335 📢 Source: canonical 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Incorrect authorization in the custom storage volume creation endpoint in Canonical LXD v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97335",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97335:2026-09-28T13:49"
+  },
+  {
+   "ts": "2026-09-28T13:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-87799 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-87799 📢 Source: canonical 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Improper link resolution in the migration receive path in Canonical LXD versions 4.0 ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87799",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87799:2026-09-28T13:49"
+  },
+  {
+   "ts": "2026-09-28T13:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85526 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-85526 📢 Source: canonical 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Path traversal in the Btrfs storage driver (unpackVolume) in Canonical LXD on Linux a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85526",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85526:2026-09-28T13:49"
+  },
+  {
+   "ts": "2026-09-28T13:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85185 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-85185 📢 Source: canonical 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Path traversal in the btrfs storage driver in Canonical LXD versions 4.0.2 and later ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85185",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85185:2026-09-28T13:49"
+  },
+  {
+   "ts": "2026-09-28T13:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73642 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-73642 📢 Source: CERT-PL 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Dayforce Payroll is vulnerable to Path Traversal in file download functionality. An una",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73642",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73642:2026-09-28T13:49"
+  },
+  {
+   "ts": "2026-09-28T13:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73640 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-73640 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Dayforce Payroll is vulnerable to Time Based-Blind SQL Injection in password recovery f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73640",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73640:2026-09-28T13:49"
+  },
+  {
+   "ts": "2026-09-28T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15952 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-15952 📢 Source: ABB 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Incorrect Permission Assignment for Critical Resource vulnerability in ABB Protection and cont",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15952",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15952:2026-09-28T13:49"
+  },
   {
    "ts": "2026-09-28T13:19:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: InsecureBankv2:2026-09-28T00:49"
-  },
-  {
-   "ts": "2026-09-28T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pentest-toolkit",
-   "body": "쉐도우 모드(관찰만) — **정체 지속(마지막 세션 07-17 → 2026-09-28 기준 73일 경과, 지난 7일 커밋 0)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→⏸",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pentest-toolkit:2026-09-28T00:49"
-  },
-  {
-   "ts": "2026-09-28T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: Lofi Cities – Pixel-art city nights with browser-ge",
-   "body": "Hacker News · 점수 117",
-   "link": "https://loficities.com/",
-   "source": "Hacker News",
-   "id": "community:https://loficities.com/:2026-09-28T00:19"
-  },
-  {
-   "ts": "2026-09-28T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Lord Have Mercy as Researchers Create Walking Disembodied Ha",
-   "body": "Lemmy · technology · 점수 110",
-   "link": "https://futurism.com/robots-and-machines/disembodied-walking-robot-hand-addams-family",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/robots-and-machines/disembodied-walking-robot-hand-addams-family:2026-09-28T00:19"
-  },
-  {
-   "ts": "2026-09-28T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Why is Hacker News like that?",
-   "body": "Lemmy · technology · 점수 108",
-   "link": "https://drewdevault.com/blog/Why-is-HN-like-that/",
-   "source": "Lemmy · technology",
-   "id": "community:https://drewdevault.com/blog/Why-is-HN-like-that/:2026-09-28T00:19"
-  },
-  {
-   "ts": "2026-09-28T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] “They had no concept of a duty of care to their users.”",
-   "body": "Lobsters · 점수 104",
-   "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-   "source": "Lobsters",
-   "id": "community:https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/:2026-09-28T00:19"
-  },
-  {
-   "ts": "2026-09-28T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] [Podcast] Kids turned the comment section of an NPR podcast ",
-   "body": "Lemmy · technology · 점수 98",
-   "link": "https://www.thisamericanlife.org/897/transcript",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.thisamericanlife.org/897/transcript:2026-09-28T00:19"
-  },
-  {
-   "ts": "2026-09-27T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] FTC chair suggests AI developers should be liable for conduc",
-   "body": "Lemmy · programming.dev · 점수 203",
-   "link": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/:2026-09-27T23:49"
   }
  ]
 }
