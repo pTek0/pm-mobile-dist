@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-28T11:49:07+00:00",
+ "generated_at": "2026-09-28T12:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12264 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-12264 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine DDI Central versions before 6201 are vulnerable to Arbitrary file wr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12264",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12264:2026-09-28T12:19"
+  },
+  {
+   "ts": "2026-09-28T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78424 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-78424 📢 Source: suse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper parameter handling in NeuVector allows any authenticated user who holds the namespace",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78424",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78424:2026-09-28T12:19"
+  },
   {
    "ts": "2026-09-28T11:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://sancho.bearblog.dev/google-weird/",
    "source": "Hacker News",
    "id": "community:https://sancho.bearblog.dev/google-weird/:2026-09-27T23:19"
-  },
-  {
-   "ts": "2026-09-27T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Flip Fluid on Flip Dots",
-   "body": "Hacker News · 점수 348",
-   "link": "https://mitxela.com/projects/flipflip",
-   "source": "Hacker News",
-   "id": "community:https://mitxela.com/projects/flipflip:2026-09-27T23:19"
-  },
-  {
-   "ts": "2026-09-27T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ember-1",
-   "body": "Hacker News · 점수 280",
-   "link": "https://fireworks.ai/blog/ember-1",
-   "source": "Hacker News",
-   "id": "community:https://fireworks.ai/blog/ember-1:2026-09-27T23:19"
   }
  ]
 }
