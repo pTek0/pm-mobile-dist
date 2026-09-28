@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-28T19:19:07+00:00",
+ "generated_at": "2026-09-28T19:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93355 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-93355 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True LiteLLM contains a weak authentication vulnerability that allows an attacker holding a va",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93355",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93355:2026-09-28T19:49"
+  },
   {
    "ts": "2026-09-28T19:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82380",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82380:2026-09-28T08:19"
-  },
-  {
-   "ts": "2026-09-28T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82379 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-82379 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Authentication Bypass by Capture-replay in Apache Roller 6.1.5 allows an attacker who captur",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82379",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82379:2026-09-28T08:19"
   }
  ]
 }
