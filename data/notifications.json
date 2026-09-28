@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-28T12:49:08+00:00",
+ "generated_at": "2026-09-28T13:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-52748 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-52748 📢 Source: CERT-PL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False The Kaon AR2140X router contains a vulnerability where the backup functionality is accessi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-52748",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-52748:2026-09-28T13:19"
+  },
+  {
+   "ts": "2026-09-28T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82323 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-82323 📢 Source: TR-CERT 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Authorization bypass through User-Controlled key vulnerability in Enocta Educational Techno",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82323",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82323:2026-09-28T13:19"
+  },
+  {
+   "ts": "2026-09-28T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12265 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-12265 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine DDI Central versions before 6201 are vulnerable to Insufficient acce",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12265",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12265:2026-09-28T13:19"
+  },
   {
    "ts": "2026-09-28T12:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
    "source": "Lemmy · programming.dev",
    "id": "community:https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/:2026-09-27T23:49"
-  },
-  {
-   "ts": "2026-09-27T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] In an $80 motel room, a discovery to shed light on the origi",
-   "body": "Hacker News · 점수 185",
-   "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-   "source": "Hacker News",
-   "id": "community:https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html:2026-09-27T23:49"
-  },
-  {
-   "ts": "2026-09-27T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] what do you need such a wide screen for?",
-   "body": "Lemmy · programming.dev · 점수 177",
-   "link": "https://feddit.org/pictrs/image/658f979c-1d7a-47ff-a618-a750b4ef250e.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://feddit.org/pictrs/image/658f979c-1d7a-47ff-a618-a750b4ef250e.png:2026-09-27T23:49"
-  },
-  {
-   "ts": "2026-09-27T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Writing Efficient C++ Code (2013)",
-   "body": "Hacker News · 점수 125",
-   "link": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-   "source": "Hacker News",
-   "id": "community:https://asawicki.info/articles/writing_efficient_cpp_code.php:2026-09-27T23:49"
   }
  ]
 }
