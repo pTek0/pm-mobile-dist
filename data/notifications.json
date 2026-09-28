@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-28T15:19:07+00:00",
+ "generated_at": "2026-09-28T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93348 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-93348 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Unsloth Zoo versions 2025.9.9 before 2026.8.14, as implemented in Unsloth 2025.9.9 throug",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93348",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93348:2026-09-28T15:49"
+  },
   {
    "ts": "2026-09-28T15:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100751",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100751:2026-09-28T07:19"
-  },
-  {
-   "ts": "2026-09-28T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100750 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-100750 📢 Source: Joomla 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - regularlabs.com - LFI / SSRF in Modules Anywhere 1.5.0 - 9.0.5 for Jooml",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100750",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100750:2026-09-28T07:19"
   }
  ]
 }
