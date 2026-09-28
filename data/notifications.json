@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-28T08:19:10+00:00",
+ "generated_at": "2026-09-28T08:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95104 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-95104 📢 Source: jpcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Stack-based buffer overflow vulnerability exists in BUFFALO Wi-Fi products. A non-authentic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95104",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95104:2026-09-28T08:49"
+  },
+  {
+   "ts": "2026-09-28T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86530 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-86530 📢 Source: jpcert 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False BUFFALO Wi-Fi products handle some web form input improperly to assemble command line strin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86530",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86530:2026-09-28T08:49"
+  },
+  {
+   "ts": "2026-09-28T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85134 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-85134 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Unrestricted upload of file with dangerous type vulnerability in Bimser Solution Software T",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85134",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85134:2026-09-28T08:49"
+  },
   {
    "ts": "2026-09-28T08:19:06+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-88778",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88778:2026-09-27T16:49"
-  },
-  {
-   "ts": "2026-09-27T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88777 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-88777 📢 Source: NetScaler 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Memory overflow vulnerability vulnerability in Citrix NetScaler ADC and Citrix NetScaler ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88777",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88777:2026-09-27T16:49"
-  },
-  {
-   "ts": "2026-09-27T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88776 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-88776 📢 Source: NetScaler 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Memory overflow vulnerability vulnerability in Citrix NetScaler ADC and Citrix NetScaler ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88776",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88776:2026-09-27T16:49"
-  },
-  {
-   "ts": "2026-09-27T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101050 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-101050 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Heym before 0.0.53 fails to verify the X-Telegram-Bot-Api-Secret-Token header on Telegra",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101050",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101050:2026-09-27T16:49"
   }
  ]
 }
