@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-28T14:19:08+00:00",
+ "generated_at": "2026-09-28T14:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-4556 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-4556 📢 Source: Pentraze 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Exam4 is affected by a local privilege escalation vulnerability in the com.extegrity.LogTo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-4556",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4556:2026-09-28T14:49"
+  },
+  {
+   "ts": "2026-09-28T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93538 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-93538 📢 Source: suse 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A cross-tenant authorization issue was discovered in SUSE Rancher Fleet. During agent-initiate",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93538",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93538:2026-09-28T14:49"
+  },
+  {
+   "ts": "2026-09-28T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80357 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-80357 📢 Source: dell 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Dell Boot Optimized Server Storage (BOSS), versions prior to 2.2.13.2038, contains an On-Chip D",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80357",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80357:2026-09-28T14:49"
+  },
   {
    "ts": "2026-09-28T14:19:07+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: finance:2026-09-28T06:19"
-  },
-  {
-   "ts": "2026-09-28T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Talk of AI in KDE sets the community ablaze",
-   "body": "Lemmy · programming.dev · 점수 73",
-   "link": "https://www.theregister.com/software/2026/09/24/talk-of-ai-in-kde-sets-the-community-ablaze/5298854?=0",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.theregister.com/software/2026/09/24/talk-of-ai-in-kde-sets-the-community-ablaze/5298854?=0:2026-09-28T00:49"
-  },
-  {
-   "ts": "2026-09-28T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] One month without AI",
-   "body": "Lobsters · 점수 70",
-   "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-   "source": "Lobsters",
-   "id": "community:https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html:2026-09-28T00:49"
-  },
-  {
-   "ts": "2026-09-28T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Palantir’s co-founder thinks we should be less judgmental ab",
-   "body": "Lemmy · programming.dev · 점수 66",
-   "link": "https://www.motherjones.com/politics/2026/09/palantirs-co-founder-thinks-we-should-be-less-judgmental-about-that-deadly-iran-school-strike/",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.motherjones.com/politics/2026/09/palantirs-co-founder-thinks-we-should-be-less-judgmental-about-that-deadly-iran-school-strike/:2026-09-28T00:49"
   }
  ]
 }
