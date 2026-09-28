@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-28T20:19:07+00:00",
+ "generated_at": "2026-09-28T20:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18414 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-18414 📢 Source: zephyr 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The ADC API requires each driver to reject a sampling sequence whose destination buffer is ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18414",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18414:2026-09-28T20:49"
+  },
+  {
+   "ts": "2026-09-28T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18413 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-18413 📢 Source: zephyr 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The ADC API requires each driver to reject a sampling sequence whose destination buffer is ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18413",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18413:2026-09-28T20:49"
+  },
+  {
+   "ts": "2026-09-28T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16513 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-16513 📢 Source: zephyr 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The userspace verifier z_vrfy_rtio_sqe_copy_in_get_handles() in subsys/rtio/rtio_syscalls.c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16513",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16513:2026-09-28T20:49"
+  },
   {
    "ts": "2026-09-28T20:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86530",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86530:2026-09-28T08:49"
-  },
-  {
-   "ts": "2026-09-28T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85134 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-85134 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Unrestricted upload of file with dangerous type vulnerability in Bimser Solution Software T",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85134",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85134:2026-09-28T08:49"
-  },
-  {
-   "ts": "2026-09-28T08:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82384 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82384 📢 Source: apache 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data in Apache Roller 6.1.5 allows an unauthenticated remot",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82384",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82384:2026-09-28T08:19"
-  },
-  {
-   "ts": "2026-09-28T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82383 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-82383 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Missing Authentication for Critical Function in Apache Roller 6.1.5 allows an unauthenticate",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82383",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82383:2026-09-28T08:19"
   }
  ]
 }
