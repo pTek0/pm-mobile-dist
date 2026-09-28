@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-28T08:49:08+00:00",
+ "generated_at": "2026-09-28T09:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94286 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-94286 📢 Source: suse 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True An out-of-bounds read in libXtst's RECORD reply parser in libXtst before 1.2.6 could be used b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94286",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94286:2026-09-28T09:19"
+  },
   {
    "ts": "2026-09-28T08:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101043",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101043:2026-09-27T17:49"
-  },
-  {
-   "ts": "2026-09-27T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88778 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-88778 📢 Source: NetScaler 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Predictable exact value from previous values vulnerability in Citrix NetScaler ADC and Ci",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88778",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88778:2026-09-27T16:49"
   }
  ]
 }
