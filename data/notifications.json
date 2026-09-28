@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-28T18:49:07+00:00",
+ "generated_at": "2026-09-28T19:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97023 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-97023 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A path traversal vulnerability in Flatpak's handling of the export/bin directory during app ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97023",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97023:2026-09-28T19:19"
+  },
+  {
+   "ts": "2026-09-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102010 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-102010 📢 Source: redhat 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in GCC. When an application calls the erase_if function on a binary heap pri",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102010",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102010:2026-09-28T19:19"
+  },
   {
    "ts": "2026-09-28T17:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82379",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82379:2026-09-28T08:19"
-  },
-  {
-   "ts": "2026-09-28T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82375 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-82375 📢 Source: apache 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Server-Side Request Forgery (SSRF) in Apache Roller 6.1.5 allows an authenticated user with ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82375",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82375:2026-09-28T08:19"
-  },
-  {
-   "ts": "2026-09-28T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82386 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-82386 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Improper Restriction of XML External Entity Reference in Apache Roller 6.1.5 allows a weblog",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82386",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82386:2026-09-28T08:19"
   }
  ]
 }
