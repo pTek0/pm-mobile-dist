@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-09-28T07:49:07+00:00",
+ "generated_at": "2026-09-28T08:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T08:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82384 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82384 📢 Source: apache 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data in Apache Roller 6.1.5 allows an unauthenticated remot",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82384",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82384:2026-09-28T08:19"
+  },
+  {
+   "ts": "2026-09-28T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82383 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-82383 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Missing Authentication for Critical Function in Apache Roller 6.1.5 allows an unauthenticate",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82383",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82383:2026-09-28T08:19"
+  },
+  {
+   "ts": "2026-09-28T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82380 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-82380 📢 Source: apache 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) in Apache Roller 6.1.5 allows a remote attacker to cause a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82380",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82380:2026-09-28T08:19"
+  },
+  {
+   "ts": "2026-09-28T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82379 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-82379 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Authentication Bypass by Capture-replay in Apache Roller 6.1.5 allows an attacker who captur",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82379",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82379:2026-09-28T08:19"
+  },
+  {
+   "ts": "2026-09-28T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82375 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-82375 📢 Source: apache 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Server-Side Request Forgery (SSRF) in Apache Roller 6.1.5 allows an authenticated user with ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82375",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82375:2026-09-28T08:19"
+  },
+  {
+   "ts": "2026-09-28T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82386 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-82386 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Improper Restriction of XML External Entity Reference in Apache Roller 6.1.5 allows a weblog",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82386",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82386:2026-09-28T08:19"
+  },
+  {
+   "ts": "2026-09-28T08:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82378 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-82378 📢 Source: apache 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Authorization in the OAuth 1.0a authorization endpoint of Apache Roller 6.1.5 al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82378",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82378:2026-09-28T08:19"
+  },
+  {
+   "ts": "2026-09-28T08:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82377 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-82377 📢 Source: apache 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Missing Authorization in Apache Roller 6.1.5 allows an authenticated user to read, modif",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82377",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82377:2026-09-28T08:19"
+  },
+  {
+   "ts": "2026-09-28T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82376 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-82376 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Improper Restriction of XML External Entity Reference in Apache Roller 6.1.5 allows a user w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82376",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82376:2026-09-28T08:19"
+  },
+  {
+   "ts": "2026-09-28T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82348 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-82348 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key in Apache Roller 6.1.5 allows an authentica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82348",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82348:2026-09-28T08:19"
+  },
   {
    "ts": "2026-09-28T07:19:07+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101050",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101050:2026-09-27T16:49"
-  },
-  {
-   "ts": "2026-09-27T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101049 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-101049 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Heym before 0.0.53 fails to verify Slack request signatures when trigger nodes lack cred",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101049",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101049:2026-09-27T16:49"
-  },
-  {
-   "ts": "2026-09-27T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88775 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-88775 📢 Source: NetScaler 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This issue affects AD",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88775",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88775:2026-09-27T16:49"
-  },
-  {
-   "ts": "2026-09-27T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88774 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-88774 📢 Source: NetScaler 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This issue affects ADC:",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88774",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88774:2026-09-27T16:49"
-  },
-  {
-   "ts": "2026-09-27T16:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-88773 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-88773 📢 Source: NetScaler 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Inconsistent interpretation of HTTP requests ('HTTP Request/Response smuggling') vuln",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88773",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88773:2026-09-27T16:49"
-  },
-  {
-   "ts": "2026-09-27T16:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-88772 (CVSS 9.5)",
-   "body": "🚨 CVE-2026-88772 📢 Source: NetScaler 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This issue affect",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88772",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88772:2026-09-27T16:49"
-  },
-  {
-   "ts": "2026-09-27T16:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-88771 (CVSS 9.5)",
-   "body": "🚨 CVE-2026-88771 📢 Source: NetScaler 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True Improper input validation vulnerability in Citrix NetScaler ADC and Citrix NetScaler ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88771",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88771:2026-09-27T16:49"
-  },
-  {
-   "ts": "2026-09-27T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101032 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-101032 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False navi through 2.24.0 fails to properly escape cheatsheet variable values when substituti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101032",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101032:2026-09-27T13:49"
-  },
-  {
-   "ts": "2026-09-27T13:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100872 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-100872 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Sylius versions before 2.1.16 and 2.2.9 fail to validate payment amounts during cart rec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100872",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100872:2026-09-27T13:19"
-  },
-  {
-   "ts": "2026-09-27T13:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100871 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-100871 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Sylius versions before 1.12.25, 1.13.17, 1.14.20, 2.1.16, and 2.2.9 fail to include fire",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100871",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100871:2026-09-27T13:19"
-  },
-  {
-   "ts": "2026-09-27T13:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100870 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-100870 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Sylius versions before 1.12.25, 1.13.17, 1.14.20, 2.1.16, and 2.2.9 build administrator ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100870",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100870:2026-09-27T13:19"
   }
  ]
 }
