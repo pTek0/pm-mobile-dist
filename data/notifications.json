@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-28T06:49:07+00:00",
+ "generated_at": "2026-09-28T07:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-28T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100751 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-100751 📢 Source: Joomla 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - regularlabs.com - Privileged stored XSS via data-rlta-url attributes in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100751",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100751:2026-09-28T07:19"
+  },
+  {
+   "ts": "2026-09-28T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100750 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-100750 📢 Source: Joomla 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - regularlabs.com - LFI / SSRF in Modules Anywhere 1.5.0 - 9.0.5 for Jooml",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100750",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100750:2026-09-28T07:19"
+  },
   {
    "ts": "2026-09-28T06:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100870",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100870:2026-09-27T13:19"
-  },
-  {
-   "ts": "2026-09-27T13:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100869 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-100869 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Sylius versions before 2.1.16 and 2.2.9 fail to restrict payment request actions in the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100869",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100869:2026-09-27T13:19"
-  },
-  {
-   "ts": "2026-09-27T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] This was not the flex that DHH thought it was",
-   "body": "Lemmy · programming.dev · 점수 136",
-   "link": "https://programming.dev/pictrs/image/d2ff6b66-5008-4502-b257-e2d540a69bb3.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://programming.dev/pictrs/image/d2ff6b66-5008-4502-b257-e2d540a69bb3.png:2026-09-27T12:19"
   }
  ]
 }
