@@ -1,7 +1,147 @@
 {
- "generated_at": "2026-09-29T17:19:07+00:00",
+ "generated_at": "2026-09-29T17:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102762 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-102762 📢 Source: eclipse 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True The NetX Duo MQTT client leaks the packet carrying a malformed PUBLISH message. Each malfo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102762",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102762:2026-09-29T17:49"
+  },
+  {
+   "ts": "2026-09-29T17:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-102761 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-102761 📢 Source: eclipse 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True NetX Duo's WebSocket client resets the unmasking cursor to the first `NX_PACKET` each ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102761",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102761:2026-09-29T17:49"
+  },
+  {
+   "ts": "2026-09-29T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102760 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-102760 📢 Source: eclipse 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True When NetX Secure is built with `NX_SECURE_KEY_CLEAR`, every TLS record sent on an active s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102760",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102760:2026-09-29T17:49"
+  },
+  {
+   "ts": "2026-09-29T17:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-102710 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-102710 📢 Source: eclipse 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False Attacker model / Preconditions: a loaded `TXM_MODULE_USER_MODE | TXM_MODULE_MEMORY_PR",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102710",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102710:2026-09-29T17:49"
+  },
+  {
+   "ts": "2026-09-29T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102709 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-102709 📢 Source: eclipse 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Improper validation of non-secure (NS) pointers in multiple TrustZone-M non-secure callab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102709",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102709:2026-09-29T17:49"
+  },
+  {
+   "ts": "2026-09-29T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102811 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-102811 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Marmite through 0.4.2 contains missing authentication in the development server endpoint",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102811",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102811:2026-09-29T17:49"
+  },
+  {
+   "ts": "2026-09-29T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102810 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-102810 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Marmite through 0.4.2 contains a path traversal vulnerability in the development server ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102810",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102810:2026-09-29T17:49"
+  },
+  {
+   "ts": "2026-09-29T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102809 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-102809 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False PX4 Autopilot through 1.17.0 contains an uncontrolled stack allocation vulnerability in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102809",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102809:2026-09-29T17:49"
+  },
+  {
+   "ts": "2026-09-29T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102808 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-102808 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False PX4 Autopilot through 1.17.0 contains a NULL pointer dereference vulnerability in the s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102808",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102808:2026-09-29T17:49"
+  },
+  {
+   "ts": "2026-09-29T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102757 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-102757 📢 Source: eclipse 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An unprivileged, memory-protected ThreadX module can have the kernel read and write memor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102757",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102757:2026-09-29T17:49"
+  },
+  {
+   "ts": "2026-09-29T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102560 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-102560 📢 Source: redhat 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A flaw was found in libsoup. When the permessage-deflate WebSocket extension compresses a v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102560",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102560:2026-09-29T17:49"
+  },
+  {
+   "ts": "2026-09-29T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102559 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-102559 📢 Source: redhat 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A flaw was found in libsoup. When constructing a masked WebSocket client frame for a very l",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102559",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102559:2026-09-29T17:49"
+  },
+  {
+   "ts": "2026-09-29T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102558 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-102558 📢 Source: redhat 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A flaw was found in libsoup. When max-incoming-payload-size is unlimited (0), SoupWebsocket",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102558",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102558:2026-09-29T17:49"
+  },
+  {
+   "ts": "2026-09-29T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102555 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-102555 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A flaw was found in libsoup. The soup_uri_decode_data_uri() function incorrectly treated ba",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102555",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102555:2026-09-29T17:49"
+  },
   {
    "ts": "2026-09-29T17:19:07+00:00",
    "level": "general",
@@ -361,146 +501,6 @@
    "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
    "source": "Lobsters",
    "id": "community:https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker:2026-09-29T11:49"
-  },
-  {
-   "ts": "2026-09-29T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Human Contractors Are Seeing All Your Horny — and Creepy — A",
-   "body": "Lemmy · technology · 점수 74",
-   "link": "https://futurism.com/artificial-intelligence/human-contractors-seeing-creepy-prompts",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/human-contractors-seeing-creepy-prompts:2026-09-29T11:49"
-  },
-  {
-   "ts": "2026-09-29T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] What Would A Serious AI Product Look Like?",
-   "body": "Lobsters · 점수 72",
-   "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-   "source": "Lobsters",
-   "id": "community:https://blog.glyph.im/2026/09/serious-ai-product.html:2026-09-29T11:49"
-  },
-  {
-   "ts": "2026-09-29T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] FBI reportedly declares 'cyber security incident' after hack",
-   "body": "Lemmy · technology · 점수 70",
-   "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
-   "source": "Lemmy · technology",
-   "id": "community:https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/:2026-09-29T11:49"
-  },
-  {
-   "ts": "2026-09-29T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] German Court Reportedly Finds Micron Infringed Two YMTC NAND",
-   "body": "Lemmy · technology · 점수 67",
-   "link": "https://www.trendforce.com/news/2026/09/23/news-german-court-reportedly-finds-micron-infringed-two-ymtc-nand-patents-grants-injunctions/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.trendforce.com/news/2026/09/23/news-german-court-reportedly-finds-micron-infringed-two-ymtc-nand-patents-grants-injunctions/:2026-09-29T11:49"
-  },
-  {
-   "ts": "2026-09-29T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95509 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-95509 📢 Source: Qt 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Strings optimized for Latin-1 displaying Latin-1 characters cause incorrect String.arg() formatt",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95509",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95509:2026-09-29T11:19"
-  },
-  {
-   "ts": "2026-09-29T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Updated Google Maps shows destruction of the city of Rafah",
-   "body": "Hacker News · 점수 585",
-   "link": "https://twitter.com/AliAbunimah/status/2103890594137309425",
-   "source": "Hacker News",
-   "id": "community:https://twitter.com/AliAbunimah/status/2103890594137309425:2026-09-29T11:19"
-  },
-  {
-   "ts": "2026-09-29T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Internet Marked Flock Safety CEO’s Home As A Public Toil",
-   "body": "Lemmy · technology · 점수 536",
-   "link": "https://www.gadgetreview.com/the-internet-marked-flock-safety-ceos-home-as-a-public-toilet-online",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.gadgetreview.com/the-internet-marked-flock-safety-ceos-home-as-a-public-toilet-online:2026-09-29T11:19"
-  },
-  {
-   "ts": "2026-09-29T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "body": "Hacker News · 점수 248",
-   "link": "https://stateofutopia.com/experiments/microllmlab/",
-   "source": "Hacker News",
-   "id": "community:https://stateofutopia.com/experiments/microllmlab/:2026-09-29T11:19"
-  },
-  {
-   "ts": "2026-09-29T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] California farmers are struggling to sell grapes as demand f",
-   "body": "Hacker News · 점수 232",
-   "link": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-   "source": "Hacker News",
-   "id": "community:https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops:2026-09-29T11:19"
-  },
-  {
-   "ts": "2026-09-29T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Esos Rings CEO Michelle Bisnoff Convicted of Nearly $2 Milli",
-   "body": "Lemmy · technology · 점수 120",
-   "link": "https://keyt.com/news/crime/2026/09/25/esos-rings-ceo-michelle-bisnoff-convicted-of-nearly-2-million-ponzi-scheme/",
-   "source": "Lemmy · technology",
-   "id": "community:https://keyt.com/news/crime/2026/09/25/esos-rings-ceo-michelle-bisnoff-convicted-of-nearly-2-million-ponzi-scheme/:2026-09-29T11:19"
-  },
-  {
-   "ts": "2026-09-29T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76719 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-76719 📢 Source: hpe 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A security vulnerability in HPE OneView may be exploited remotely to perform session hijacking,",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76719",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76719:2026-09-29T10:19"
-  },
-  {
-   "ts": "2026-09-29T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19547 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-19547 📢 Source: CERT-PL 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Ghostscript for Windows is vulnerable to local privilege escalation through PostScript resou",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19547",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19547:2026-09-29T10:19"
-  },
-  {
-   "ts": "2026-09-29T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-15390 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-15390 📢 Source: CERT-PL 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: False Das U-Boot with CONFIG_IP_DEFRAG=y parameter fails to clear IP reassembly state after de",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15390",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15390:2026-09-29T10:19"
-  },
-  {
-   "ts": "2026-09-29T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76718 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-76718 📢 Source: hpe 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A potential security vulnerability in HPE OneView can be exploited to allow remote session hija",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76718",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76718:2026-09-29T10:19"
   }
  ]
 }
