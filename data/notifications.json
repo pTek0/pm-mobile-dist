@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-29T19:49:12+00:00",
+ "generated_at": "2026-09-29T20:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-53988 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-53988 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Dockhand before 1.0.40 contains an authentication bypass vulnerability in its git webh",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53988",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53988:2026-09-29T20:19"
+  },
+  {
+   "ts": "2026-09-29T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102878 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-102878 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True mcp-chrome-bridge through 1.0.31 contains an origin validation error in the native-serve",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102878",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102878:2026-09-29T20:19"
+  },
+  {
+   "ts": "2026-09-29T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102876 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-102876 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True SurrealDB before 3.3.0 contains an authorization bypass in HTTP session construction whe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102876",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102876:2026-09-29T20:19"
+  },
+  {
+   "ts": "2026-09-29T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102875 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-102875 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False VLC media player before 3.0.24 contains a path traversal vulnerability in the skins2 Th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102875",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102875:2026-09-29T20:19"
+  },
   {
    "ts": "2026-09-29T19:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92370",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92370:2026-09-29T16:19"
-  },
-  {
-   "ts": "2026-09-29T16:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92369 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-92369 📢 Source: TV 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False TeamViewer Full Client and Host prior to version 15.82 on Windows contain a TOCTOU race conditi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92369",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92369:2026-09-29T16:19"
-  },
-  {
-   "ts": "2026-09-29T16:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92368 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-92368 📢 Source: TV 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False TeamViewer Full Client and Host for Linux and macOS prior version 15.82 contain a heap-based bu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92368",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92368:2026-09-29T16:19"
-  },
-  {
-   "ts": "2026-09-29T16:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19743 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-19743 📢 Source: TV 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Improper path validation in the local IPC service of TeamViewer Full Client and Host on Windows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19743",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19743:2026-09-29T16:19"
-  },
-  {
-   "ts": "2026-09-29T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2015-20122 (CVSS 8.7)",
-   "body": "🚨 CVE-2015-20122 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Seeyon A6 collaborative office automation platform contains an unauthenticated SQL inject",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2015-20122",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2015-20122:2026-09-29T15:19"
   }
  ]
 }
