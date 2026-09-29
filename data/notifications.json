@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-29T20:49:07+00:00",
+ "generated_at": "2026-09-29T21:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93853 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-93853 📢 Source: EDB 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False Unverified ownership in Barman snapshot backup deletion allows a principal who can write the b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93853",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93853:2026-09-29T21:19"
+  },
+  {
+   "ts": "2026-09-29T21:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-96587 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-96587 📢 Source: icscert 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True The Viidure Android application embeds permanent, plaintext cloud storage credentials wi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96587",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96587:2026-09-29T21:19"
+  },
+  {
+   "ts": "2026-09-29T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94204 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-94204 📢 Source: icscert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The central cloud storage backend for the entire dashcam platform is misconfigured with pub",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94204",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94204:2026-09-29T21:19"
+  },
   {
    "ts": "2026-09-29T20:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102557",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102557:2026-09-29T16:49"
-  },
-  {
-   "ts": "2026-09-29T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102556 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-102556 📢 Source: redhat 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A flaw was found in libsoup. When handling an incoming WebSocket Pong frame, SoupWebsocketC",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102556",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102556:2026-09-29T16:49"
-  },
-  {
-   "ts": "2026-09-29T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2022-51019 (CVSS 8.8)",
-   "body": "🚨 CVE-2022-51019 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Akaunting before 2.1.31 contains an OS command injection vulnerability in the module inst",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2022-51019",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51019:2026-09-29T16:49"
-  },
-  {
-   "ts": "2026-09-29T16:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92371 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-92371 📢 Source: TV 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False TeamViewer Full Client and Host for Linux prior version 15.82 contains an improper path validatio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92371",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92371:2026-09-29T16:19"
   }
  ]
 }
