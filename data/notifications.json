@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-29T03:49:07+00:00",
+ "generated_at": "2026-09-29T04:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T04:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-102422 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-102422 📢 Source: harborist 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True shell-quote's `quote()` function emits a `{ comment }` token as `#` followed by its ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102422",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102422:2026-09-29T04:19"
+  },
   {
    "ts": "2026-09-29T03:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-90925",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90925:2026-09-28T14:19"
-  },
-  {
-   "ts": "2026-09-28T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97335 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-97335 📢 Source: canonical 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Incorrect authorization in the custom storage volume creation endpoint in Canonical LXD v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97335",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97335:2026-09-28T13:49"
   }
  ]
 }
