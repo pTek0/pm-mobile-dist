@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-29T08:19:08+00:00",
+ "generated_at": "2026-09-29T08:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-96431 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-96431 📢 Source: ZUSO ART 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Unrestricted Upload of File with Dangerous Type in the /WebAgenda/download/uploadFile.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96431",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96431:2026-09-29T08:49"
+  },
+  {
+   "ts": "2026-09-29T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96430 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-96430 📢 Source: ZUSO ART 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Exposed Dangerous Method or Function in the /WebAgenda/ SQLWin.do API endpoint of Flowring",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96430",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96430:2026-09-29T08:49"
+  },
+  {
+   "ts": "2026-09-29T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-96429 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-96429 📢 Source: ZUSO ART 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True SQL Injection in the /WebAgenda/ SMBAjaxConfigProcess.do API endpoint of Flowring Agen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96429",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96429:2026-09-29T08:49"
+  },
+  {
+   "ts": "2026-09-29T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-96428 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-96428 📢 Source: ZUSO ART 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True SQL Injection in the /WebAgenda/ SMBAjaxAutoComplete.do API endpoint of Flowring Agent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96428",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96428:2026-09-29T08:49"
+  },
   {
    "ts": "2026-09-29T08:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93348",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93348:2026-09-28T15:49"
-  },
-  {
-   "ts": "2026-09-28T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96538 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-96538 📢 Source: EDB 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False WarehousePG (WHPG) 7.x before 7.6.0-WHPG is affected by a missing authorization vulnerability ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96538",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96538:2026-09-28T15:19"
-  },
-  {
-   "ts": "2026-09-28T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-4556 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-4556 📢 Source: Pentraze 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Exam4 is affected by a local privilege escalation vulnerability in the com.extegrity.LogTo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-4556",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4556:2026-09-28T14:49"
-  },
-  {
-   "ts": "2026-09-28T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93538 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-93538 📢 Source: suse 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A cross-tenant authorization issue was discovered in SUSE Rancher Fleet. During agent-initiate",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93538",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93538:2026-09-28T14:49"
-  },
-  {
-   "ts": "2026-09-28T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80357 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-80357 📢 Source: dell 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Dell Boot Optimized Server Storage (BOSS), versions prior to 2.2.13.2038, contains an On-Chip D",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80357",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80357:2026-09-28T14:49"
   }
  ]
 }
