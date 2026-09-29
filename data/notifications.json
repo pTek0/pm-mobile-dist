@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-29T14:19:07+00:00",
+ "generated_at": "2026-09-29T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-22094 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-22094 📢 Source: DIVD 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The firmware for the EVbee DC-80 has a weak hardcoded root password, which allows attacker",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22094",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22094:2026-09-29T14:49"
+  },
+  {
+   "ts": "2026-09-29T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102570 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-102570 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True ClipBucket v5 through 5.5.3-#197 contains a time-based blind SQL injection vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102570",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102570:2026-09-29T14:49"
+  },
+  {
+   "ts": "2026-09-29T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102569 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-102569 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True ClipBucket v5 through 5.5.3-#197 contains a time-based blind SQL injection vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102569",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102569:2026-09-29T14:49"
+  },
+  {
+   "ts": "2026-09-29T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102566 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-102566 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False CTranslate2 before 4.8.1 contains a heap-based buffer overflow in the binary model load",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102566",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102566:2026-09-29T14:49"
+  },
+  {
+   "ts": "2026-09-29T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65102 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-65102 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA DeepStream contains a vulnerability where an attacker could cause an integer overflo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65102",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65102:2026-09-29T14:49"
+  },
   {
    "ts": "2026-09-29T14:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://www.tugraz.at/en/news/article/file-notification-windows-linux-android-macos-attacks",
    "source": "Lemmy · technology",
    "id": "community:https://www.tugraz.at/en/news/article/file-notification-windows-linux-android-macos-attacks:2026-09-29T00:49"
-  },
-  {
-   "ts": "2026-09-29T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] World Labs Is Joining AMD",
-   "body": "Hacker News · 점수 130",
-   "link": "https://www.worldlabs.ai/blog/amd-announcement",
-   "source": "Hacker News",
-   "id": "community:https://www.worldlabs.ai/blog/amd-announcement:2026-09-29T00:19"
-  },
-  {
-   "ts": "2026-09-29T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI chatbots give us a narrow slice of knowledge: Researchers",
-   "body": "Lemmy · technology · 점수 99",
-   "link": "https://news.ku.dk/all_news/2026/09/ai-chatbots-give-us-a-narrow-slice-of-knowledge-researchers-warn-of-knowledge-collapse/",
-   "source": "Lemmy · technology",
-   "id": "community:https://news.ku.dk/all_news/2026/09/ai-chatbots-give-us-a-narrow-slice-of-knowledge-researchers-warn-of-knowledge-collapse/:2026-09-29T00:19"
-  },
-  {
-   "ts": "2026-09-29T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Yes, no AI is now a feature",
-   "body": "Lobsters · 점수 98",
-   "link": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
-   "source": "Lobsters",
-   "id": "community:https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/:2026-09-29T00:19"
-  },
-  {
-   "ts": "2026-09-29T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] What makes Lisp difficult to read?",
-   "body": "Lobsters · 점수 60",
-   "link": "https://paultm.nl/paren-thesis",
-   "source": "Lobsters",
-   "id": "community:https://paultm.nl/paren-thesis:2026-09-29T00:19"
-  },
-  {
-   "ts": "2026-09-29T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GPT-6 Astra performs unsanctioned supply-chain attacks in si",
-   "body": "Lemmy · technology · 점수 55",
-   "link": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations:2026-09-29T00:19"
   }
  ]
 }
