@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-09-29T19:19:08+00:00",
+ "generated_at": "2026-09-29T19:49:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76728 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-76728 📢 Source: hpe 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A vulnerability in the API endpoint of HPE Networking Instant ON APs could allow an authenticat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76728",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76728:2026-09-29T19:49"
+  },
+  {
+   "ts": "2026-09-29T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76727 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-76727 📢 Source: hpe 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Command injection vulnerabilities exist in the affected interface of HPE Networking Instant ON ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76727",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76727:2026-09-29T19:49"
+  },
+  {
+   "ts": "2026-09-29T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76726 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-76726 📢 Source: hpe 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True An authentication bypass vulnerability in the API endpoint of HPE Networking Instant ON could a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76726",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76726:2026-09-29T19:49"
+  },
+  {
+   "ts": "2026-09-29T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76725 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-76725 📢 Source: hpe 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False A vulnerability has been identified in a management protocol of HPE Networking Instant ON ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76725",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76725:2026-09-29T19:49"
+  },
+  {
+   "ts": "2026-09-29T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76724 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-76724 📢 Source: hpe 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False A command injection vulnerability exists in CLI of the affected HPE Networking Instant ON ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76724",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76724:2026-09-29T19:49"
+  },
+  {
+   "ts": "2026-09-29T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76723 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-76723 📢 Source: hpe 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False Buffer overflow vulnerabilities exist in the affected interface of HPE Networking Instant ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76723",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76723:2026-09-29T19:49"
+  },
+  {
+   "ts": "2026-09-29T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76722 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-76722 📢 Source: hpe 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Uncontrolled Format string vulnerabilities exist in the affected interface of HPE Networkin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76722",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76722:2026-09-29T19:49"
+  },
+  {
+   "ts": "2026-09-29T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76721 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-76721 📢 Source: hpe 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Buffer overflow vulnerability exists in the affected interface of HPE Networking Instant ON",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76721",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76721:2026-09-29T19:49"
+  },
   {
    "ts": "2026-09-29T18:19:08+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2015-20122",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2015-20122:2026-09-29T15:19"
-  },
-  {
-   "ts": "2026-09-29T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-22094 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-22094 📢 Source: DIVD 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The firmware for the EVbee DC-80 has a weak hardcoded root password, which allows attacker",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22094",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22094:2026-09-29T14:49"
-  },
-  {
-   "ts": "2026-09-29T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102570 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-102570 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True ClipBucket v5 through 5.5.3-#197 contains a time-based blind SQL injection vulnerability i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102570",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102570:2026-09-29T14:49"
-  },
-  {
-   "ts": "2026-09-29T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102569 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-102569 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True ClipBucket v5 through 5.5.3-#197 contains a time-based blind SQL injection vulnerability i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102569",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102569:2026-09-29T14:49"
-  },
-  {
-   "ts": "2026-09-29T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102566 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-102566 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False CTranslate2 before 4.8.1 contains a heap-based buffer overflow in the binary model load",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102566",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102566:2026-09-29T14:49"
-  },
-  {
-   "ts": "2026-09-29T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65102 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-65102 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA DeepStream contains a vulnerability where an attacker could cause an integer overflo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65102",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65102:2026-09-29T14:49"
-  },
-  {
-   "ts": "2026-09-29T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86450 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-86450 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Insertion of sensitive information into sent data vulnerability in Parla Auto Automotive Tr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86450",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86450:2026-09-29T14:19"
-  },
-  {
-   "ts": "2026-09-29T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-4034 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-4034 📢 Source: tibco 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Injection Vulnerability in Tibco Administrator version 5.13.0 & prior allows an authenticated ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-4034",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4034:2026-09-29T13:49"
-  },
-  {
-   "ts": "2026-09-29T12:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82973 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-82973 📢 Source: GitLab 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of CRLF sequences in IMAP command construction in psyb0t/docker-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82973",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82973:2026-09-29T12:49"
   }
  ]
 }
