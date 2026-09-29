@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-29T14:49:08+00:00",
+ "generated_at": "2026-09-29T15:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2015-20122 (CVSS 8.7)",
+   "body": "🚨 CVE-2015-20122 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Seeyon A6 collaborative office automation platform contains an unauthenticated SQL inject",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2015-20122",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2015-20122:2026-09-29T15:19"
+  },
   {
    "ts": "2026-09-29T14:49:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://dbushell.com/2026/09/28/leaving-them-behind/",
    "source": "Lobsters",
    "id": "community:https://dbushell.com/2026/09/28/leaving-them-behind/:2026-09-29T00:49"
-  },
-  {
-   "ts": "2026-09-29T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] File-Notification Systems on Windows, Linux, Android and mac",
-   "body": "Lemmy · technology · 점수 51",
-   "link": "https://www.tugraz.at/en/news/article/file-notification-windows-linux-android-macos-attacks",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tugraz.at/en/news/article/file-notification-windows-linux-android-macos-attacks:2026-09-29T00:49"
   }
  ]
 }
