@@ -1,7 +1,157 @@
 {
- "generated_at": "2026-09-29T21:19:09+00:00",
+ "generated_at": "2026-09-29T21:49:15+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72507 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-72507 📢 Source: icscert 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True The \"reportType\" parameter in the product summary report feature within the balancing rep",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72507",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72507:2026-09-29T21:49"
+  },
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71302 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-71302 📢 Source: icscert 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The application accepts user-supplied session identifiers and does not regenerate the sessi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71302",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71302:2026-09-29T21:49"
+  },
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-68954 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-68954 📢 Source: icscert 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True The \"pattern\" parameter used in search function in the home page of the TMS application i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68954",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68954:2026-09-29T21:49"
+  },
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-68068 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-68068 📢 Source: icscert 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True The \"screenID\" parameter in the electronic transaction queue viewer feature within the ma",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68068",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68068:2026-09-29T21:49"
+  },
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74225 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-74225 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False U-Boot before 2026.10-rc5 contains out-of-bounds memory access in dhcp6_parse_options() ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74225",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74225:2026-09-29T21:49"
+  },
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74222 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-74222 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True U-Boot before 2026.10-rc5 contains a use-after-free vulnerability in the httpc_recv_cb() ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74222",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74222:2026-09-29T21:49"
+  },
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74221 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-74221 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True U-Boot before 2026.10-rc5 contains a buffer overflow in nfs_readlink_reply() function in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74221",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74221:2026-09-29T21:49"
+  },
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74220 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-74220 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True U-Boot before 2026.10-rc5 contains a buffer overflow in nfs_read_reply() function in net/",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74220",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74220:2026-09-29T21:49"
+  },
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-72510 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-72510 📢 Source: icscert 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True The \"supplier_no\" parameter used in the business allocation search feature is vulnerable ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72510",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72510:2026-09-29T21:49"
+  },
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71971 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-71971 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True U-Boot before 2026.10-rc3 with CONFIG_IP_DEFRAG enabled contains an out-of-bounds write v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71971",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71971:2026-09-29T21:49"
+  },
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-71379 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-71379 📢 Source: icscert 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True The file export endpoint allows any unauthenticated attacker to export arbitrary databas",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71379",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71379:2026-09-29T21:49"
+  },
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-70356 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-70356 📢 Source: icscert 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True The TMS file upload endpoint fails to enforce server-side file type restrictions, allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70356",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70356:2026-09-29T21:49"
+  },
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-63713 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-63713 📢 Source: icscert 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True The \"search\" parameter in the view audit logs feature within the utilities section is sus",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63713",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63713:2026-09-29T21:49"
+  },
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91191 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-91191 📢 Source: icscert 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True The device's update mechanism includes conditions that allow unauthorized software packages",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91191",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91191:2026-09-29T21:49"
+  },
+  {
+   "ts": "2026-09-29T21:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84409 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-84409 📢 Source: icscert 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True The device's update mechanism retrieves metadata for software updates over an unencrypted H",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84409",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84409:2026-09-29T21:49"
+  },
   {
    "ts": "2026-09-29T21:19:07+00:00",
    "level": "general",
@@ -351,156 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102757",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102757:2026-09-29T17:49"
-  },
-  {
-   "ts": "2026-09-29T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102560 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-102560 📢 Source: redhat 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A flaw was found in libsoup. When the permessage-deflate WebSocket extension compresses a v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102560",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102560:2026-09-29T17:49"
-  },
-  {
-   "ts": "2026-09-29T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102559 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-102559 📢 Source: redhat 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A flaw was found in libsoup. When constructing a masked WebSocket client frame for a very l",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102559",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102559:2026-09-29T17:49"
-  },
-  {
-   "ts": "2026-09-29T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102558 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-102558 📢 Source: redhat 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A flaw was found in libsoup. When max-incoming-payload-size is unlimited (0), SoupWebsocket",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102558",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102558:2026-09-29T17:49"
-  },
-  {
-   "ts": "2026-09-29T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102555 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-102555 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A flaw was found in libsoup. The soup_uri_decode_data_uri() function incorrectly treated ba",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102555",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102555:2026-09-29T17:49"
-  },
-  {
-   "ts": "2026-09-29T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92231 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-92231 📢 Source: Joomla 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Joomla! Core - [20260915] - Core - XSS filter bypass in InputFilter via HTML5 entity decode ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92231",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92231:2026-09-29T17:19"
-  },
-  {
-   "ts": "2026-09-29T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92226 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-92226 📢 Source: Joomla 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Joomla! Core - [20260913] - Core - Improper ACL checks for varous webservice edit tasks in Joo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92226",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92226:2026-09-29T17:19"
-  },
-  {
-   "ts": "2026-09-29T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-90915 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-90915 📢 Source: Joomla 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Joomla! Core - [20260905] - Core - Arbitrary directory deletion via cache purge action in Joom",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90915",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90915:2026-09-29T17:19"
-  },
-  {
-   "ts": "2026-09-29T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102697 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-102697 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Ollama versions 0.14.0 before 0.31.2 contain an incorrect authorization vulnerability i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102697",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102697:2026-09-29T17:19"
-  },
-  {
-   "ts": "2026-09-29T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92232 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-92232 📢 Source: Joomla 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Joomla! Core - [20260916] - Core - XSS filter bypass in InputFilter via whitespace character",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92232",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92232:2026-09-29T16:49"
-  },
-  {
-   "ts": "2026-09-29T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92227 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-92227 📢 Source: Joomla 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Joomla! Core - [20260914] - Core - MFA Authentication Bypass through rememberme cookies in J",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92227",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92227:2026-09-29T16:49"
-  },
-  {
-   "ts": "2026-09-29T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92222 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-92222 📢 Source: Joomla 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True Joomla! Core - [20260909] - Core - SSRF vectors in various core extensions in Joomla 4.0.0-5",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92222",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92222:2026-09-29T16:49"
-  },
-  {
-   "ts": "2026-09-29T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-90913 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-90913 📢 Source: Joomla 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Joomla! Core - [20260903] - Core - Improper ACL checks for access level webservice endpoints i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90913",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90913:2026-09-29T16:49"
-  },
-  {
-   "ts": "2026-09-29T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102634 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-102634 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SGLang through 0.5.20 in prefill/decode disaggregation mode fails to validate duplicate ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102634",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102634:2026-09-29T16:49"
-  },
-  {
-   "ts": "2026-09-29T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102633 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-102633 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True libexpat versions 2.7.2 through 2.8.5 contain an integer overflow vulnerability in expat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102633",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102633:2026-09-29T16:49"
-  },
-  {
-   "ts": "2026-09-29T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102557 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-102557 📢 Source: redhat 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A flaw was found in libsoup. When reassembling fragmented WebSocket messages into a GByteAr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102557",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102557:2026-09-29T16:49"
   }
  ]
 }
