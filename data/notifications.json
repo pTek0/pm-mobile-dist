@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-09-29T17:49:10+00:00",
+ "generated_at": "2026-09-29T18:19:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84422 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-84422 📢 Source: ibm 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is vulnerable to command injection in the CLI certificate SMI",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84422",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84422:2026-09-29T18:19"
+  },
+  {
+   "ts": "2026-09-29T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84421 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-84421 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to exec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84421",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84421:2026-09-29T18:19"
+  },
+  {
+   "ts": "2026-09-29T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84414 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-84414 📢 Source: ibm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False IBM i 7.6, 7.5, 7.4, and 7.3 could allow a local authenticated attacker to change the ownershi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84414",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84414:2026-09-29T18:19"
+  },
+  {
+   "ts": "2026-09-29T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102730 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-102730 📢 Source: eclipse 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Mounting an attacker-controlled NAND flash image (`lx_nand_flash_open()`) triggers an unb",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102730",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102730:2026-09-29T18:19"
+  },
+  {
+   "ts": "2026-09-29T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102639 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-102639 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True MobilityDB version 1.3.0 and earlier contains an out-of-bounds read vulnerability in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102639",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102639:2026-09-29T18:19"
+  },
+  {
+   "ts": "2026-09-29T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84842 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-84842 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is vulnerable to path traversal and arbitrary file deletion i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84842",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84842:2026-09-29T18:19"
+  },
+  {
+   "ts": "2026-09-29T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84440 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-84440 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is vulnerable to command injection in the SNMP alert notifica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84440",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84440:2026-09-29T18:19"
+  },
+  {
+   "ts": "2026-09-29T18:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-84436 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-84436 📢 Source: ibm 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 is vulnerable to command injection in the certificate exp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84436",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84436:2026-09-29T18:19"
+  },
+  {
+   "ts": "2026-09-29T18:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102718 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-102718 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True hey, `_nx_snmp_utility_object_id_get` in the NetX Duo SNMP addon does not validate the cla",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102718",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102718:2026-09-29T18:19"
+  },
   {
    "ts": "2026-09-29T17:49:07+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82973",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82973:2026-09-29T12:49"
-  },
-  {
-   "ts": "2026-09-29T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-7193 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-7193 📢 Source: INCIBE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A vulnerability relating to the use of predefined credentials in the Dbit T-CPE301K 4G WiFi m",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7193",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7193:2026-09-29T12:49"
-  },
-  {
-   "ts": "2026-09-29T12:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-7192 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-7192 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A stack-based buffer overflow vulnerability in the Dbit T-CPE301K 4G WiFi minirouter allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7192",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7192:2026-09-29T12:49"
-  },
-  {
-   "ts": "2026-09-29T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73598 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-73598 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains an I",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73598",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73598:2026-09-29T12:49"
-  },
-  {
-   "ts": "2026-09-29T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102437 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-102437 📢 Source: GitLab 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False OS Command Injection in internal/gitcmd (git diff filter.clean/smudge invocation) in eseng",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102437",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102437:2026-09-29T12:49"
-  },
-  {
-   "ts": "2026-09-29T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87748 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-87748 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Interprobe Information Technologies Inc. Qorela DC a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87748",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87748:2026-09-29T12:19"
-  },
-  {
-   "ts": "2026-09-29T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Hijacking the PS5's RTMP Stream",
-   "body": "Lobsters · 점수 52",
-   "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-   "source": "Lobsters",
-   "id": "community:https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/:2026-09-29T12:19"
-  },
-  {
-   "ts": "2026-09-29T11:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85520 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-85520 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Google Merchant Center Feed (gmfeed) module for PrestaShop is vulnerable to unauthentic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85520",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85520:2026-09-29T11:49"
-  },
-  {
-   "ts": "2026-09-29T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95520 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-95520 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A heap-based buffer overflow flaw was found in rpm. Parsing a symlink entry in an untrusted",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95520",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95520:2026-09-29T11:49"
-  },
-  {
-   "ts": "2026-09-29T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Bill Gates tries to install Movie Maker",
-   "body": "Lobsters · 점수 95",
-   "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-   "source": "Lobsters",
-   "id": "community:https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker:2026-09-29T11:49"
   }
  ]
 }
