@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-28T23:49:08+00:00",
+ "generated_at": "2026-09-29T00:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] World Labs Is Joining AMD",
+   "body": "Hacker News · 점수 130",
+   "link": "https://www.worldlabs.ai/blog/amd-announcement",
+   "source": "Hacker News",
+   "id": "community:https://www.worldlabs.ai/blog/amd-announcement:2026-09-29T00:19"
+  },
+  {
+   "ts": "2026-09-29T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI chatbots give us a narrow slice of knowledge: Researchers",
+   "body": "Lemmy · technology · 점수 99",
+   "link": "https://news.ku.dk/all_news/2026/09/ai-chatbots-give-us-a-narrow-slice-of-knowledge-researchers-warn-of-knowledge-collapse/",
+   "source": "Lemmy · technology",
+   "id": "community:https://news.ku.dk/all_news/2026/09/ai-chatbots-give-us-a-narrow-slice-of-knowledge-researchers-warn-of-knowledge-collapse/:2026-09-29T00:19"
+  },
+  {
+   "ts": "2026-09-29T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Yes, no AI is now a feature",
+   "body": "Lobsters · 점수 98",
+   "link": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
+   "source": "Lobsters",
+   "id": "community:https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/:2026-09-29T00:19"
+  },
+  {
+   "ts": "2026-09-29T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] What makes Lisp difficult to read?",
+   "body": "Lobsters · 점수 60",
+   "link": "https://paultm.nl/paren-thesis",
+   "source": "Lobsters",
+   "id": "community:https://paultm.nl/paren-thesis:2026-09-29T00:19"
+  },
+  {
+   "ts": "2026-09-29T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] GPT-6 Astra performs unsanctioned supply-chain attacks in si",
+   "body": "Lemmy · technology · 점수 55",
+   "link": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations:2026-09-29T00:19"
+  },
   {
    "ts": "2026-09-28T23:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15952",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15952:2026-09-28T13:49"
-  },
-  {
-   "ts": "2026-09-28T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-52748 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-52748 📢 Source: CERT-PL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False The Kaon AR2140X router contains a vulnerability where the backup functionality is accessi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-52748",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-52748:2026-09-28T13:19"
-  },
-  {
-   "ts": "2026-09-28T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82323 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-82323 📢 Source: TR-CERT 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Authorization bypass through User-Controlled key vulnerability in Enocta Educational Techno",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82323",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82323:2026-09-28T13:19"
-  },
-  {
-   "ts": "2026-09-28T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12265 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-12265 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine DDI Central versions before 6201 are vulnerable to Insufficient acce",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12265",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12265:2026-09-28T13:19"
-  },
-  {
-   "ts": "2026-09-28T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86330 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-86330 📢 Source: redhat 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True An OS command injection flaw was found in the set_hostname_internal function of NooBaa's clu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86330",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86330:2026-09-28T12:49"
-  },
-  {
-   "ts": "2026-09-28T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82928 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-82928 📢 Source: CERT-PL 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False mH-DEVELOPER smart home module contains a hardcoded SSH public key in /root/.ssh/authorize",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82928",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82928:2026-09-28T12:49"
   }
  ]
 }
