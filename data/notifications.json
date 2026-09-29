@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-29T02:19:07+00:00",
+ "generated_at": "2026-09-29T02:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T02:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97685 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-97685 📢 Source: Fluid Attacks 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True An authenticated LimeSurvey Community Edition 7.3.0 user allowed to create surveys ca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97685",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97685:2026-09-29T02:49"
+  },
   {
    "ts": "2026-09-29T02:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-87799",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87799:2026-09-28T13:49"
-  },
-  {
-   "ts": "2026-09-28T13:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85526 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-85526 📢 Source: canonical 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Path traversal in the Btrfs storage driver (unpackVolume) in Canonical LXD on Linux a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85526",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85526:2026-09-28T13:49"
   }
  ]
 }
