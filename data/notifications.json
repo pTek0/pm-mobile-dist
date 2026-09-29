@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-29T00:49:07+00:00",
+ "generated_at": "2026-09-29T01:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T01:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102373 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-102373 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True GestSup versions before 3.2.62 fail to validate ticket ownership when loading comments v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102373",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102373:2026-09-29T01:19"
+  },
   {
    "ts": "2026-09-29T00:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85185",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85185:2026-09-28T13:49"
-  },
-  {
-   "ts": "2026-09-28T13:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73642 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-73642 📢 Source: CERT-PL 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Dayforce Payroll is vulnerable to Path Traversal in file download functionality. An una",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73642",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73642:2026-09-28T13:49"
   }
  ]
 }
