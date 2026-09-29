@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-29T01:49:07+00:00",
+ "generated_at": "2026-09-29T02:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101878 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-101878 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Bitwarden Server 2025.6.0 before 2026.5.0 declares the @ExternalId parameter of the User",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101878",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101878:2026-09-29T02:19"
+  },
   {
    "ts": "2026-09-29T01:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85526",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85526:2026-09-28T13:49"
-  },
-  {
-   "ts": "2026-09-28T13:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85185 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-85185 📢 Source: canonical 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Path traversal in the btrfs storage driver in Canonical LXD versions 4.0.2 and later ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85185",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85185:2026-09-28T13:49"
   }
  ]
 }
