@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-29T07:49:09+00:00",
+ "generated_at": "2026-09-29T08:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101169 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-101169 📢 Source: Octopus 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, an authenticated user with permissions to edit an ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101169",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101169:2026-09-29T08:19"
+  },
   {
    "ts": "2026-09-29T07:49:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-80357",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80357:2026-09-28T14:49"
-  },
-  {
-   "ts": "2026-09-28T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-90924 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-90924 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Use of default credentials vulnerability in Innotim Software, Telecommunications and Co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90924",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90924:2026-09-28T14:19"
   }
  ]
 }
