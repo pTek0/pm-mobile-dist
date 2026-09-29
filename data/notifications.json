@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-29T07:19:07+00:00",
+ "generated_at": "2026-09-29T07:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-29T07:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-84154 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-84154 📢 Source: 3DS 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A Code Injection vulnerability affecting GEOVIA Geospatial Data Manager from Release 3DEXPE",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84154",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84154:2026-09-29T07:49"
+  },
   {
    "ts": "2026-09-29T06:49:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-90924",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90924:2026-09-28T14:19"
-  },
-  {
-   "ts": "2026-09-28T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-90926 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-90926 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper Control of Generation of Code ('Code Injection') vulnerability in Innotim Software",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90926",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90926:2026-09-28T14:19"
   }
  ]
 }
