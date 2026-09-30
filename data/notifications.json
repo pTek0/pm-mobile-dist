@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-09-30T19:19:07+00:00",
+ "generated_at": "2026-09-30T19:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T19:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-103547 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-103547 📢 Source: mitre 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True In ldapd in OpenBSD 7.8 before errata 057 and 7.9 before errata 021, delegated BSD authe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103547",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103547:2026-09-30T19:49"
+  },
+  {
+   "ts": "2026-09-30T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101885 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-101885 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False ZeroClaw versions before 0.8.5 built with plugins-wasm feature contain a path traversal",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101885",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101885:2026-09-30T19:49"
+  },
+  {
+   "ts": "2026-09-30T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101884 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-101884 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True OpenClaw Windows Node before 2026.7.1 contains an incomplete environment-variable saniti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101884",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101884:2026-09-30T19:49"
+  },
+  {
+   "ts": "2026-09-30T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101882 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-101882 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenClaw Windows Node before 2026.7.1 contains an incomplete validation vulnerability in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101882",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101882:2026-09-30T19:49"
+  },
+  {
+   "ts": "2026-09-30T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101881 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101881 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenClaw Windows Node before 2026.7.1 contains an allocation of resources without limits",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101881",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101881:2026-09-30T19:49"
+  },
+  {
+   "ts": "2026-09-30T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101880 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-101880 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenClaw Windows Node before 2026.7.1 contains an incorrect authorization vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101880",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101880:2026-09-30T19:49"
+  },
+  {
+   "ts": "2026-09-30T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101879 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101879 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenClaw Windows Node before 2026.7.1-3 contains a missing authorization vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101879",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101879:2026-09-30T19:49"
+  },
   {
    "ts": "2026-09-30T17:49:06+00:00",
    "level": "important",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101295",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101295:2026-09-30T14:49"
-  },
-  {
-   "ts": "2026-09-30T14:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-93903 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-93903 📢 Source: mitre 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True LiteSpeed Web Server (LSWS) before 6.3.7 build 1 mishandles internal redirect URL validat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93903",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93903:2026-09-30T14:19"
-  },
-  {
-   "ts": "2026-09-30T13:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82307 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82307 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82307",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82307:2026-09-30T13:49"
-  },
-  {
-   "ts": "2026-09-30T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97253 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-97253 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97253",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97253:2026-09-30T13:19"
-  },
-  {
-   "ts": "2026-09-30T12:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74865 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-74865 📢 Source: CERT-PL 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True sogo_yhn configures SOGo with a parameter \"SOGoTrustProxyAuthentication=YES\". This caus",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74865",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74865:2026-09-30T12:49"
-  },
-  {
-   "ts": "2026-09-30T12:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-74864 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-74864 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True sogo_yhn configures SOGo with a parameter that forces the request with HTTP header \"x-w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74864",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74864:2026-09-30T12:49"
-  },
-  {
-   "ts": "2026-09-30T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103321 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-103321 📢 Source: CIRCL 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True MISP contains a stored cross-site script (XSS) vulnerability in the event graph preview feat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103321",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103321:2026-09-30T12:49"
-  },
-  {
-   "ts": "2026-09-30T12:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: finance",
-   "body": "**★ 2026-09-30(밤) 감시견 사각 폐쇄(ptek-capital)**: 피벗 4트랙(tsmom 07:40·trend/pump×2 09:15, NAS crontab 실측)에 healthcheck 검사가 **0",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: finance:2026-09-30T12:49"
   }
  ]
 }
