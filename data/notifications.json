@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-30T09:19:09+00:00",
+ "generated_at": "2026-09-30T09:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T09:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-94052 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-94052 📢 Source: apache 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A missing check in LdapPasswordAuthenticator in component sshd-ldap in Apache MINA SSHD ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94052",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94052:2026-09-30T09:49"
+  },
+  {
+   "ts": "2026-09-30T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79625 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-79625 📢 Source: CERTVDE 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Affected products do not properly synchronize access to their monitoring functionality. Whe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79625",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79625:2026-09-30T09:49"
+  },
   {
    "ts": "2026-09-30T09:19:06+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103041",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103041:2026-09-29T23:19"
-  },
-  {
-   "ts": "2026-09-29T23:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103040 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-103040 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True LightLLM through 1.2.0 contains a remote code execution vulnerability in the router ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103040",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103040:2026-09-29T23:19"
-  },
-  {
-   "ts": "2026-09-29T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GPT 6.1 Sol: Near-Astra intelligence for a fifth of the pric",
-   "body": "Hacker News · 점수 716",
-   "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
-   "source": "Hacker News",
-   "id": "community:https://openai.com/index/introducing-gpt-6-1-sol/:2026-09-29T23:19"
   }
  ]
 }
