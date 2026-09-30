@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-30T04:19:07+00:00",
+ "generated_at": "2026-09-30T04:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103111 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-103111 📢 Source: mitre 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True PCRE2 before 10.49, when there is an attacker-controlled regular expression and certain JIT ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103111",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103111:2026-09-30T04:49"
+  },
   {
    "ts": "2026-09-30T03:49:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-63713",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63713:2026-09-29T21:49"
-  },
-  {
-   "ts": "2026-09-29T21:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91191 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-91191 📢 Source: icscert 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True The device's update mechanism includes conditions that allow unauthorized software packages",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91191",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91191:2026-09-29T21:49"
   }
  ]
 }
