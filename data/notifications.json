@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-30T02:49:07+00:00",
+ "generated_at": "2026-09-30T03:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103109 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-103109 📢 Source: mitre 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Pexip Infinity before 38.2, plus 39.0, 39.1 and 40.0, is affected by improper input validati",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103109",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103109:2026-09-30T03:19"
+  },
+  {
+   "ts": "2026-09-30T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103108 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-103108 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Pexip Infinity before 38.2, plus 39.0, 39.1, and 40.0, is affected by improper input validat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103108",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103108:2026-09-30T03:19"
+  },
+  {
+   "ts": "2026-09-30T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103106 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-103106 📢 Source: mitre 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Pexip Infinity before 38.2, plus 39.0, 39.1, and 40.0, is affected by improper input valida",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103106",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103106:2026-09-30T03:19"
+  },
+  {
+   "ts": "2026-09-30T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103105 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-103105 📢 Source: mitre 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Pexip Infinity before 38.2, plus 39.0, 39.1 and 40.0, is affected by improper access contro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103105",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103105:2026-09-30T03:19"
+  },
   {
    "ts": "2026-09-30T02:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84409",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84409:2026-09-29T21:49"
-  },
-  {
-   "ts": "2026-09-29T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93853 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-93853 📢 Source: EDB 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False Unverified ownership in Barman snapshot backup deletion allows a principal who can write the b",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93853",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93853:2026-09-29T21:19"
-  },
-  {
-   "ts": "2026-09-29T21:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-96587 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-96587 📢 Source: icscert 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True The Viidure Android application embeds permanent, plaintext cloud storage credentials wi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96587",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96587:2026-09-29T21:19"
-  },
-  {
-   "ts": "2026-09-29T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94204 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-94204 📢 Source: icscert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The central cloud storage backend for the entire dashcam platform is misconfigured with pub",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94204",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94204:2026-09-29T21:19"
-  },
-  {
-   "ts": "2026-09-29T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102253 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-102253 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True iperf3 versions prior to 3.22 contains a denial of service vulnerability that allows una",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102253",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102253:2026-09-29T20:49"
   }
  ]
 }
