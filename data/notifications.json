@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-30T13:19:07+00:00",
+ "generated_at": "2026-09-30T13:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T13:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82307 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82307 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82307",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82307:2026-09-30T13:49"
+  },
   {
    "ts": "2026-09-30T13:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103106",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103106:2026-09-30T03:19"
-  },
-  {
-   "ts": "2026-09-30T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103105 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-103105 📢 Source: mitre 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Pexip Infinity before 38.2, plus 39.0, 39.1 and 40.0, is affected by improper access contro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103105",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103105:2026-09-30T03:19"
   }
  ]
 }
