@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-30T12:19:07+00:00",
+ "generated_at": "2026-09-30T12:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T12:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74865 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-74865 📢 Source: CERT-PL 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True sogo_yhn configures SOGo with a parameter \"SOGoTrustProxyAuthentication=YES\". This caus",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74865",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74865:2026-09-30T12:49"
+  },
+  {
+   "ts": "2026-09-30T12:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74864 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-74864 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True sogo_yhn configures SOGo with a parameter that forces the request with HTTP header \"x-w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74864",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74864:2026-09-30T12:49"
+  },
+  {
+   "ts": "2026-09-30T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103321 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-103321 📢 Source: CIRCL 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True MISP contains a stored cross-site script (XSS) vulnerability in the event graph preview feat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103321",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103321:2026-09-30T12:49"
+  },
+  {
+   "ts": "2026-09-30T12:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: finance",
+   "body": "**★ 2026-09-30(밤) 감시견 사각 폐쇄(ptek-capital)**: 피벗 4트랙(tsmom 07:40·trend/pump×2 09:15, NAS crontab 실측)에 healthcheck 검사가 **0",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: finance:2026-09-30T12:49"
+  },
   {
    "ts": "2026-09-30T12:19:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103104",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103104:2026-09-30T02:49"
-  },
-  {
-   "ts": "2026-09-30T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103102 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-103102 📢 Source: mitre 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Pexip Infinity before 41.0 is affected by improper input validation in the signaling impleme",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103102",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103102:2026-09-30T02:49"
-  },
-  {
-   "ts": "2026-09-30T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103101 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-103101 📢 Source: mitre 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Pexip Infinity 30.0 through 40.x before 41.0 is affected by improper input validation in the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103101",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103101:2026-09-30T02:49"
-  },
-  {
-   "ts": "2026-09-30T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103100 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-103100 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Pexip Infinity before 40.1 is affected by improper input validation in the signaling impleme",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103100",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103100:2026-09-30T02:49"
-  },
-  {
-   "ts": "2026-09-30T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103099 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-103099 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Pexip Infinity before 41.1 is affected by improper input validation in the media implementat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103099",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103099:2026-09-30T02:49"
   }
  ]
 }
