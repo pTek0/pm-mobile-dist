@@ -1,7 +1,177 @@
 {
- "generated_at": "2026-09-30T15:49:08+00:00",
+ "generated_at": "2026-09-30T16:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103442 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-103442 📢 Source: wikimedia-foundation 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True External control of system or configuration setting vulnerability in The Wiki",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103442",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103442:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103441 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-103441 📢 Source: wikimedia-foundation 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Deserialization of untrusted data vulnerability in The Wikimedia Foundation M",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103441",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103441:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47496 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-47496 📢 Source: nvidia 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False NVIDIA GPU Display Driver for Linux contains a vulnerability in the Virtual GPU Manager (vG",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47496",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47496:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47495 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-47495 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA vGPU Virtual GPU Manager for Windows and Linux contains a vulnerability in the kerne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47495",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47495:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47493 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-47493 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA vGPU software for Windows and Linux contains a vulnerability in the GPU kernel drive",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47493",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47493:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-103470 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-103470 📢 Source: mitre 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True In Internet2 Grouper before 7.5.1 (in some configurations), a user who is allowed to cre",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103470",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103470:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47512 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-47512 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA GPU Display Driver for Windows and Linux contains a vulnerability in the kernel mode",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47512",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47512:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47511 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-47511 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA GPU Display Driver for Windows and Linux contains a vulnerability in the kernel mode",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47511",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47511:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47510 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-47510 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA GPU Display Driver for Windows and Linux contains a vulnerability in the kernel mode",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47510",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47510:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47508 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-47508 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA GPU Display Driver for Windows and Linux contains a vulnerability in the kernel mode",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47508",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47508:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47507 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-47507 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA GPU Display Driver for Windows and Linux contains a vulnerability in the kernel mode",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47507",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47507:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47505 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-47505 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer whe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47505",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47505:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47504 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-47504 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA Linux GPU Display Driver contains a vulnerability in the NGX updater where an outdat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47504",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47504:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47502 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-47502 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA vGPU Virtual GPU Manager for Windows and Linux contains a vulnerability in the kerne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47502",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47502:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47501 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-47501 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer where",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47501",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47501:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47500 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-47500 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA GPU Display Driver for Windows and Linux contains a vulnerability in the kernel mode",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47500",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47500:2026-09-30T16:19"
+  },
+  {
+   "ts": "2026-09-30T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47494 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-47494 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA GPU Display Driver for Linux contains a vulnerability where a user might be able to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47494",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47494:2026-09-30T16:19"
+  },
   {
    "ts": "2026-09-30T15:49:06+00:00",
    "level": "general",
@@ -331,176 +501,6 @@
    "link": "https://github.com/ninjahawk/livenerf",
    "source": "Hacker News",
    "id": "community:https://github.com/ninjahawk/livenerf:2026-09-30T11:19"
-  },
-  {
-   "ts": "2026-09-30T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] McDonald's is reportedly using AI to \"dynamically\" price its",
-   "body": "Lemmy · technology · 점수 306",
-   "link": "https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers/:2026-09-30T11:19"
-  },
-  {
-   "ts": "2026-09-30T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ask HN: What are you reading?",
-   "body": "Hacker News · 점수 293",
-   "link": "https://news.ycombinator.com/item?id=49893157",
-   "source": "Hacker News",
-   "id": "community:https://news.ycombinator.com/item?id=49893157:2026-09-30T11:19"
-  },
-  {
-   "ts": "2026-09-30T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A Staff Engineer's Guide to Inventing Work",
-   "body": "Hacker News · 점수 276",
-   "link": "https://sujithjay.com/inventing-work",
-   "source": "Hacker News",
-   "id": "community:https://sujithjay.com/inventing-work:2026-09-30T11:19"
-  },
-  {
-   "ts": "2026-09-30T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] September 2026: The world today, as seen by one Polish guy",
-   "body": "Hacker News · 점수 269",
-   "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-   "source": "Hacker News",
-   "id": "community:https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/:2026-09-30T11:19"
-  },
-  {
-   "ts": "2026-09-30T10:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-94053 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-94053 📢 Source: apache 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Authentication bypass via LDAP injection in component sshd-ldap in Apache MINA SSHD vers",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94053",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94053:2026-09-30T10:19"
-  },
-  {
-   "ts": "2026-09-30T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94002 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-94002 📢 Source: apache 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Possible memory exhaustion in SFTP clients (DefaultSftpClient) in component sshd-sftp in Apa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94002",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94002:2026-09-30T10:19"
-  },
-  {
-   "ts": "2026-09-30T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93994 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-93994 📢 Source: apache 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Apache MINA SSHD is a Java library for client-side and server-side SSH. SSH servers can be c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93994",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93994:2026-09-30T10:19"
-  },
-  {
-   "ts": "2026-09-30T10:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-77185 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-77185 📢 Source: apache 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Authentication bypass in sshd-core in Apache MINA SSHD versions 2.0.0 to 2.19.0 and 3.0.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77185",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77185:2026-09-30T10:19"
-  },
-  {
-   "ts": "2026-09-30T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-10764 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-10764 📢 Source: IQSIGHT 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Information disclosure in BVMS 4.5 up to 12.3 including allows man-in-the-middle attackers ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10764",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10764:2026-09-30T10:19"
-  },
-  {
-   "ts": "2026-09-30T09:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-94052 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-94052 📢 Source: apache 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A missing check in LdapPasswordAuthenticator in component sshd-ldap in Apache MINA SSHD ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94052",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94052:2026-09-30T09:49"
-  },
-  {
-   "ts": "2026-09-30T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79625 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-79625 📢 Source: CERTVDE 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Affected products do not properly synchronize access to their monitoring functionality. Whe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79625",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79625:2026-09-30T09:49"
-  },
-  {
-   "ts": "2026-09-30T09:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-102458 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-102458 📢 Source: twcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True EasyFlow .NET developed by Digiwin has a Missing Authentication vulnerability. Unauthen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102458",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102458:2026-09-30T09:19"
-  },
-  {
-   "ts": "2026-09-30T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102457 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-102457 📢 Source: twcert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True EasyFlow .NET developed by Digiwin has an Arbitrary File Read vulnerability. Authenticated ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102457",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102457:2026-09-30T09:19"
-  },
-  {
-   "ts": "2026-09-30T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102456 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-102456 📢 Source: twcert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True EasyFlow .NET developed by Digiwin has an SQL Injection vulnerability. Authenticated remote",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102456",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102456:2026-09-30T09:19"
-  },
-  {
-   "ts": "2026-09-30T09:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-102455 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-102455 📢 Source: twcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True EasyFlow .NET developed by Digiwin has a Insecure Deserialization vulnerability. Unauth",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102455",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102455:2026-09-30T09:19"
-  },
-  {
-   "ts": "2026-09-30T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102511 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-102511 📢 Source: apache 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Improper Verification of Source of a Communication Channel in the ADS discovery of the Go ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102511",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102511:2026-09-30T08:49"
-  },
-  {
-   "ts": "2026-09-30T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102510 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-102510 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Integer Overflow, Improper Validation of Array Index, Uncontrolled Recursion and Memory All",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102510",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102510:2026-09-30T08:49"
   }
  ]
 }
