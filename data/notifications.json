@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-30T12:49:10+00:00",
+ "generated_at": "2026-09-30T13:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97253 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-97253 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97253",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97253:2026-09-30T13:19"
+  },
   {
    "ts": "2026-09-30T12:49:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103105",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103105:2026-09-30T03:19"
-  },
-  {
-   "ts": "2026-09-30T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103104 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-103104 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Pexip Infinity before 38.2, plus 39.0, 39.1 and 40.0, is affected by improper input validati",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103104",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103104:2026-09-30T02:49"
   }
  ]
 }
