@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-30T01:19:07+00:00",
+ "generated_at": "2026-09-30T01:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103088 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-103088 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Handlebars.java before 4.5.5 allows directory traversal. In handlebars-springmvc 4.5.3 and 4",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103088",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103088:2026-09-30T01:49"
+  },
+  {
+   "ts": "2026-09-30T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103087 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-103087 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Uncontrolled recursion in the Gosub browser engine (gosub-engine) through 0.1.0 and main bef",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103087",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103087:2026-09-30T01:49"
+  },
   {
    "ts": "2026-09-30T00:49:06+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76728",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76728:2026-09-29T19:49"
-  },
-  {
-   "ts": "2026-09-29T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76727 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-76727 📢 Source: hpe 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Command injection vulnerabilities exist in the affected interface of HPE Networking Instant ON ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76727",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76727:2026-09-29T19:49"
-  },
-  {
-   "ts": "2026-09-29T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76726 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-76726 📢 Source: hpe 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True An authentication bypass vulnerability in the API endpoint of HPE Networking Instant ON could a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76726",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76726:2026-09-29T19:49"
   }
  ]
 }
