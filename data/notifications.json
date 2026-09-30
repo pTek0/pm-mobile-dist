@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-30T09:49:08+00:00",
+ "generated_at": "2026-09-30T10:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T10:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-94053 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-94053 📢 Source: apache 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Authentication bypass via LDAP injection in component sshd-ldap in Apache MINA SSHD vers",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94053",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94053:2026-09-30T10:19"
+  },
+  {
+   "ts": "2026-09-30T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94002 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-94002 📢 Source: apache 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Possible memory exhaustion in SFTP clients (DefaultSftpClient) in component sshd-sftp in Apa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94002",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94002:2026-09-30T10:19"
+  },
+  {
+   "ts": "2026-09-30T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93994 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-93994 📢 Source: apache 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Apache MINA SSHD is a Java library for client-side and server-side SSH. SSH servers can be c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93994",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93994:2026-09-30T10:19"
+  },
+  {
+   "ts": "2026-09-30T10:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77185 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-77185 📢 Source: apache 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Authentication bypass in sshd-core in Apache MINA SSHD versions 2.0.0 to 2.19.0 and 3.0.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77185",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77185:2026-09-30T10:19"
+  },
+  {
+   "ts": "2026-09-30T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10764 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-10764 📢 Source: IQSIGHT 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Information disclosure in BVMS 4.5 up to 12.3 including allows man-in-the-middle attackers ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10764",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10764:2026-09-30T10:19"
+  },
   {
    "ts": "2026-09-30T09:49:06+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://www.consumerreports.org/electronics/personal-information/your-car-is-sharing-data-with-big-tech-companies-study-finds-a4474820962/",
    "source": "Lemmy · technology",
    "id": "community:https://www.consumerreports.org/electronics/personal-information/your-car-is-sharing-data-with-big-tech-companies-study-finds-a4474820962/:2026-09-29T23:49"
-  },
-  {
-   "ts": "2026-09-29T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] America.gov",
-   "body": "Hacker News · 점수 226",
-   "link": "https://america.gov/",
-   "source": "Hacker News",
-   "id": "community:https://america.gov/:2026-09-29T23:49"
-  },
-  {
-   "ts": "2026-09-29T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tcl/Tk 9.1",
-   "body": "Hacker News · 점수 225",
-   "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-   "source": "Hacker News",
-   "id": "community:https://www.tcl-lang.org/software/tcltk/9.1.html:2026-09-29T23:49"
-  },
-  {
-   "ts": "2026-09-29T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103043 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-103043 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True anchorme through 3.0.8 contains a regular expression denial of service vulnerability in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103043",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103043:2026-09-29T23:19"
-  },
-  {
-   "ts": "2026-09-29T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103042 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-103042 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True LightLLM through 1.2.0 contains a memory exhaustion vulnerability in the NCCL control ch",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103042",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103042:2026-09-29T23:19"
-  },
-  {
-   "ts": "2026-09-29T23:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103041 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-103041 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True LightLLM through 1.2.0 multimodal deployments expose an unauthenticated RPyC cache s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103041",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103041:2026-09-29T23:19"
   }
  ]
 }
