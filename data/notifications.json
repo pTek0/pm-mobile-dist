@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-30T16:19:08+00:00",
+ "generated_at": "2026-09-30T16:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75969 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-75969 📢 Source: hsi 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Missing authentication for critical function vulnerability for all PTZOptics cameras and th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75969",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75969:2026-09-30T16:49"
+  },
+  {
+   "ts": "2026-09-30T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19553 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-19553 📢 Source: PSF 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True ssl.SSLContext.wrap_bio() didn't require the server_hostname argument to not be None if ssl.SSL",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19553",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19553:2026-09-30T16:49"
+  },
+  {
+   "ts": "2026-09-30T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19445 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-19445 📢 Source: PSF 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True A remote, unauthenticated TLS client can make a server crash or call through a freed pointe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19445",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19445:2026-09-30T16:49"
+  },
+  {
+   "ts": "2026-09-30T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-102490 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-102490 📢 Source: DIVD 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True All versions of Zammad including the latest alpha enable the local zammad user to escalat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102490",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102490:2026-09-30T16:49"
+  },
+  {
+   "ts": "2026-09-30T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-102489 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-102489 📢 Source: DIVD 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Zammad versions 6.3.0 to 6.5.4 are vulnerable a session hijack vulnerability that leads t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102489",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102489:2026-09-30T16:49"
+  },
   {
    "ts": "2026-09-30T16:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/",
    "source": "Lemmy · technology",
    "id": "community:https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/:2026-09-30T11:49"
-  },
-  {
-   "ts": "2026-09-30T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI needs $6tn in annual revenue to justify data centre boom,",
-   "body": "Lemmy · technology · 점수 106",
-   "link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/:2026-09-30T11:49"
-  },
-  {
-   "ts": "2026-09-30T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Trump and major AI executives sign \"morally binding\" volunta",
-   "body": "Lemmy · technology · 점수 80",
-   "link": "https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/:2026-09-30T11:49"
-  },
-  {
-   "ts": "2026-09-30T11:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: finance",
-   "body": "**★ 2026-09-30 G1 게이트 판정 FAIL + G2 안전장치 잔여 2건 완료(ptek-capital)**: 피벗 4트랙 G1(~3주 실행·국면 확인, 창 08-27→09-17) **FAIL — (a) 실행",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: finance:2026-09-30T11:49"
-  },
-  {
-   "ts": "2026-09-30T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76992 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-76992 📢 Source: CERTVDE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The CODESYS Gateway Client allocates memory based on a size field in a gateway response wit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76992",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76992:2026-09-30T11:19"
-  },
-  {
-   "ts": "2026-09-30T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Livenerf: Has Opus 5.5 been nerfed yet?",
-   "body": "Hacker News · 점수 653",
-   "link": "https://github.com/ninjahawk/livenerf",
-   "source": "Hacker News",
-   "id": "community:https://github.com/ninjahawk/livenerf:2026-09-30T11:19"
   }
  ]
 }
