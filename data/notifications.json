@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-30T14:19:08+00:00",
+ "generated_at": "2026-09-30T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47097 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-47097 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True AJA HELO Plus firmware before 2.1.7 contains an information disclosure vulnerability that",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47097",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47097:2026-09-30T14:49"
+  },
+  {
+   "ts": "2026-09-30T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-62097 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-62097 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62097",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62097:2026-09-30T14:49"
+  },
+  {
+   "ts": "2026-09-30T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18783 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-18783 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Missing authentication for critical function vulnerability in Trex Digital Smart Manufactu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18783",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18783:2026-09-30T14:49"
+  },
+  {
+   "ts": "2026-09-30T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18782 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-18782 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18782",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18782:2026-09-30T14:49"
+  },
+  {
+   "ts": "2026-09-30T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101295 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-101295 📢 Source: redhat 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Path traversal / arbitrary file write in oc-mirror's operator catalog image extraction. Wh",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101295",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101295:2026-09-30T14:49"
+  },
   {
    "ts": "2026-09-30T14:19:06+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-97196",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97196:2026-09-30T07:19"
-  },
-  {
-   "ts": "2026-09-30T07:19:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: finance",
-   "body": "**★ 2026-09-30 총괄 회수 2건 — 배당 원천징수 '결함' 판정 + 주간 리포트 자가검증**: 6주 이월 `test_longterm_dividend` 실패의 근인 = **테스트 픽스처 시한폭탄**(배당락 ",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: finance:2026-09-30T07:19"
-  },
-  {
-   "ts": "2026-09-30T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103111 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-103111 📢 Source: mitre 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True PCRE2 before 10.49, when there is an attacker-controlled regular expression and certain JIT ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103111",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103111:2026-09-30T04:49"
-  },
-  {
-   "ts": "2026-09-30T03:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103110 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-103110 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Pexip Infinity before 38.2, plus 39.0, 39.1 and 40.0, is affected by improper input vali",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103110",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103110:2026-09-30T03:49"
-  },
-  {
-   "ts": "2026-09-30T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103109 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-103109 📢 Source: mitre 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Pexip Infinity before 38.2, plus 39.0, 39.1 and 40.0, is affected by improper input validati",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103109",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103109:2026-09-30T03:19"
-  },
-  {
-   "ts": "2026-09-30T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103108 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-103108 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Pexip Infinity before 38.2, plus 39.0, 39.1, and 40.0, is affected by improper input validat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103108",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103108:2026-09-30T03:19"
   }
  ]
 }
