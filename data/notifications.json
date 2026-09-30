@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-30T20:19:07+00:00",
+ "generated_at": "2026-09-30T20:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2023-54403 (CVSS 8.7)",
+   "body": "🚨 CVE-2023-54403 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Yonyou U8 CRM before V16.5 and V18 contains an arbitrary file read vulnerability in /ajax",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2023-54403",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54403:2026-09-30T20:49"
+  },
   {
    "ts": "2026-09-30T19:49:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18782",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18782:2026-09-30T14:49"
-  },
-  {
-   "ts": "2026-09-30T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101295 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-101295 📢 Source: redhat 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Path traversal / arbitrary file write in oc-mirror's operator catalog image extraction. Wh",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101295",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101295:2026-09-30T14:49"
   }
  ]
 }
