@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-09-30T02:19:07+00:00",
+ "generated_at": "2026-09-30T02:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103104 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-103104 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Pexip Infinity before 38.2, plus 39.0, 39.1 and 40.0, is affected by improper input validati",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103104",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103104:2026-09-30T02:49"
+  },
+  {
+   "ts": "2026-09-30T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103102 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-103102 📢 Source: mitre 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Pexip Infinity before 41.0 is affected by improper input validation in the signaling impleme",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103102",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103102:2026-09-30T02:49"
+  },
+  {
+   "ts": "2026-09-30T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103101 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-103101 📢 Source: mitre 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Pexip Infinity 30.0 through 40.x before 41.0 is affected by improper input validation in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103101",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103101:2026-09-30T02:49"
+  },
+  {
+   "ts": "2026-09-30T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103100 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-103100 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Pexip Infinity before 40.1 is affected by improper input validation in the signaling impleme",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103100",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103100:2026-09-30T02:49"
+  },
+  {
+   "ts": "2026-09-30T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103099 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-103099 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Pexip Infinity before 41.1 is affected by improper input validation in the media implementat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103099",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103099:2026-09-30T02:49"
+  },
   {
    "ts": "2026-09-30T01:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102253",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102253:2026-09-29T20:49"
-  },
-  {
-   "ts": "2026-09-29T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-53988 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-53988 📢 Source: VulnCheck 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Dockhand before 1.0.40 contains an authentication bypass vulnerability in its git webh",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53988",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53988:2026-09-29T20:19"
-  },
-  {
-   "ts": "2026-09-29T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102878 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-102878 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True mcp-chrome-bridge through 1.0.31 contains an origin validation error in the native-serve",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102878",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102878:2026-09-29T20:19"
-  },
-  {
-   "ts": "2026-09-29T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102876 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-102876 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True SurrealDB before 3.3.0 contains an authorization bypass in HTTP session construction whe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102876",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102876:2026-09-29T20:19"
-  },
-  {
-   "ts": "2026-09-29T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102875 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-102875 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False VLC media player before 3.0.24 contains a path traversal vulnerability in the skins2 Th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102875",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102875:2026-09-29T20:19"
-  },
-  {
-   "ts": "2026-09-29T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76728 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-76728 📢 Source: hpe 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A vulnerability in the API endpoint of HPE Networking Instant ON APs could allow an authenticat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76728",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76728:2026-09-29T19:49"
   }
  ]
 }
