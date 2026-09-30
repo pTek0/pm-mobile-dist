@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-09-30T11:49:07+00:00",
+ "generated_at": "2026-09-30T12:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-62146 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-62146 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A trust-boundary flaw in CRI-O's sandbox state persistence allows attacker-influenced pod m",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62146",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62146:2026-09-30T12:19"
+  },
+  {
+   "ts": "2026-09-30T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103242 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-103242 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A heap-based buffer overflow flaw was found in rpm. RPMTAG_FILESIGNATURES in a crafted, un",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103242",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103242:2026-09-30T12:19"
+  },
+  {
+   "ts": "2026-09-30T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10739 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-10739 📢 Source: Cato 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Cato Networks SDP Client for Windows before 6.12.6 allows a local user to delete arbitrary fi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10739",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10739:2026-09-30T12:19"
+  },
   {
    "ts": "2026-09-30T11:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103099",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103099:2026-09-30T02:49"
-  },
-  {
-   "ts": "2026-09-30T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103088 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-103088 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Handlebars.java before 4.5.5 allows directory traversal. In handlebars-springmvc 4.5.3 and 4",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103088",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103088:2026-09-30T01:49"
-  },
-  {
-   "ts": "2026-09-30T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103087 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-103087 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Uncontrolled recursion in the Gosub browser engine (gosub-engine) through 0.1.0 and main bef",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103087",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103087:2026-09-30T01:49"
-  },
-  {
-   "ts": "2026-09-30T00:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103056 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-103056 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True AiSOC versions 7.2.0 before 12.0.0 contain a command injection vulnerability in the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103056",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103056:2026-09-30T00:49"
   }
  ]
 }
