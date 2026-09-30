@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-30T15:19:09+00:00",
+ "generated_at": "2026-09-30T15:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103432 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-103432 📢 Source: mitre 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True apcupsd through 3.14.14 has an sscanf stack-based buffer overflow in getupsvar() in src/cgi/",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103432",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103432:2026-09-30T15:49"
+  },
+  {
+   "ts": "2026-09-30T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100268 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-100268 📢 Source: JetBrains 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In JetBrains YouTrack before 2026.2.19197 project administrators could read comments fro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100268",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100268:2026-09-30T15:49"
+  },
+  {
+   "ts": "2026-09-30T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100266 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-100266 📢 Source: JetBrains 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In JetBrains Hub before 2026.2.52366 missing authorisation allowed authenticated users t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100266",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100266:2026-09-30T15:49"
+  },
+  {
+   "ts": "2026-09-30T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100262 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-100262 📢 Source: JetBrains 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True In JetBrains YouTrack before 2026.2.18991 missing authorisation allowed users with read-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100262",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100262:2026-09-30T15:49"
+  },
+  {
+   "ts": "2026-09-30T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100256 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-100256 📢 Source: JetBrains 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In JetBrains IntelliJ IDEA before 2026.2.3 rCE via Structural Search script constraints",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100256",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100256:2026-09-30T15:49"
+  },
+  {
+   "ts": "2026-09-30T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100255 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-100255 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 administrator account takeover ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100255",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100255:2026-09-30T15:49"
+  },
   {
    "ts": "2026-09-30T15:19:07+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102510",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102510:2026-09-30T08:49"
-  },
-  {
-   "ts": "2026-09-30T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102509 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-102509 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory Allocation with Excessive Size Value, Allocation of Resources Without Limits, and Un",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102509",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102509:2026-09-30T08:49"
-  },
-  {
-   "ts": "2026-09-30T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102454 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-102454 📢 Source: twcert 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True EasyFlow .NET developed by Digiwin has an Arbitrary File Upload vulnerability. Privileged r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102454",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102454:2026-09-30T08:49"
-  },
-  {
-   "ts": "2026-09-30T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92873 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-92873 📢 Source: jpcert 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Pgpool-II contains an incorrect implementation of an authentication algorithm, which may al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92873",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92873:2026-09-30T08:19"
-  },
-  {
-   "ts": "2026-09-30T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92871 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-92871 📢 Source: jpcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False A NULL pointer dereference vulnerability exists in Pgpool-II, which may allow an unauthenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92871",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92871:2026-09-30T08:19"
-  },
-  {
-   "ts": "2026-09-30T08:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-102508 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-102508 📢 Source: apache 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Improper Verification of Cryptographic Signature and Improper Certificate Validation in",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102508",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102508:2026-09-30T08:19"
-  },
-  {
-   "ts": "2026-09-30T07:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97150 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-97150 📢 Source: jpcert 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False When converting baserCMS4-style addons to baserCMS5-style ones, BcAddonMigrator includes \"c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97150",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97150:2026-09-30T07:49"
   }
  ]
 }
