@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-09-30T08:49:07+00:00",
+ "generated_at": "2026-09-30T09:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-102458 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-102458 📢 Source: twcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True EasyFlow .NET developed by Digiwin has a Missing Authentication vulnerability. Unauthen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102458",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102458:2026-09-30T09:19"
+  },
+  {
+   "ts": "2026-09-30T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102457 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-102457 📢 Source: twcert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True EasyFlow .NET developed by Digiwin has an Arbitrary File Read vulnerability. Authenticated ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102457",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102457:2026-09-30T09:19"
+  },
+  {
+   "ts": "2026-09-30T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102456 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-102456 📢 Source: twcert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True EasyFlow .NET developed by Digiwin has an SQL Injection vulnerability. Authenticated remote",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102456",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102456:2026-09-30T09:19"
+  },
+  {
+   "ts": "2026-09-30T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-102455 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-102455 📢 Source: twcert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True EasyFlow .NET developed by Digiwin has a Insecure Deserialization vulnerability. Unauth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102455",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102455:2026-09-30T09:19"
+  },
   {
    "ts": "2026-09-30T08:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "id": "community:https://openai.com/index/introducing-gpt-6-1-sol/:2026-09-29T23:19"
-  },
-  {
-   "ts": "2026-09-29T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Everybody’s home. No one’s coming over",
-   "body": "Hacker News · 점수 697",
-   "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-   "source": "Hacker News",
-   "id": "community:https://www.derekthompson.org/p/the-death-of-the-american-host:2026-09-29T23:19"
-  },
-  {
-   "ts": "2026-09-29T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Dots: Always-on agents",
-   "body": "Hacker News · 점수 425",
-   "link": "https://openai.com/index/introducing-dots/",
-   "source": "Hacker News",
-   "id": "community:https://openai.com/index/introducing-dots/:2026-09-29T23:19"
-  },
-  {
-   "ts": "2026-09-29T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] US sanctions force The Netherlands off Microsoft and toward ",
-   "body": "Lemmy · technology · 점수 414",
-   "link": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027:2026-09-29T23:19"
-  },
-  {
-   "ts": "2026-09-29T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How Delhi cut electricity loss from 50 to 5 percent",
-   "body": "Hacker News · 점수 405",
-   "link": "https://spectrum.ieee.org/delhi-electricity-loss",
-   "source": "Hacker News",
-   "id": "community:https://spectrum.ieee.org/delhi-electricity-loss:2026-09-29T23:19"
   }
  ]
 }
