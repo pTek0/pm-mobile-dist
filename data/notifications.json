@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-30T13:49:08+00:00",
+ "generated_at": "2026-09-30T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T14:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-93903 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-93903 📢 Source: mitre 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True LiteSpeed Web Server (LSWS) before 6.3.7 build 1 mishandles internal redirect URL validat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93903",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93903:2026-09-30T14:19"
+  },
   {
    "ts": "2026-09-30T13:49:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103108",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103108:2026-09-30T03:19"
-  },
-  {
-   "ts": "2026-09-30T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103106 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-103106 📢 Source: mitre 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Pexip Infinity before 38.2, plus 39.0, 39.1, and 40.0, is affected by improper input valida",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103106",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103106:2026-09-30T03:19"
   }
  ]
 }
