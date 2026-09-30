@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-30T22:49:08+00:00",
+ "generated_at": "2026-09-30T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103591 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-103591 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True DeepWiki-Open through commit d92819a contains an unauthenticated arbitrary file read vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103591",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103591:2026-09-30T23:19"
+  },
+  {
+   "ts": "2026-09-30T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Gemini 4 Argon",
+   "body": "Hacker News · 점수 757",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+   "source": "Hacker News",
+   "id": "community:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/:2026-09-30T23:19"
+  },
+  {
+   "ts": "2026-09-30T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] You said no MCP",
+   "body": "Hacker News · 점수 579",
+   "link": "https://earendil.com/posts/you-said-no-mcp/",
+   "source": "Hacker News",
+   "id": "community:https://earendil.com/posts/you-said-no-mcp/:2026-09-30T23:19"
+  },
+  {
+   "ts": "2026-09-30T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] OpenAI hit with landmark lawsuit following Hugging Face hack",
+   "body": "Lemmy · technology · 점수 234",
+   "link": "https://www.axios.com/2026/09/29/openai-sued-hugging-face-breach",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.axios.com/2026/09/29/openai-sued-hugging-face-breach:2026-09-30T23:19"
+  },
+  {
+   "ts": "2026-09-30T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I could've accessed 17T Microsoft records",
+   "body": "Hacker News · 점수 232",
+   "link": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+   "source": "Hacker News",
+   "id": "community:https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records:2026-09-30T23:19"
+  },
+  {
+   "ts": "2026-09-30T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A brief history of the Bloomberg terminal",
+   "body": "Hacker News · 점수 199",
+   "link": "https://spectrum.ieee.org/bloomberg-terminal",
+   "source": "Hacker News",
+   "id": "community:https://spectrum.ieee.org/bloomberg-terminal:2026-09-30T23:19"
+  },
   {
    "ts": "2026-09-30T21:49:06+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100255",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100255:2026-09-30T15:49"
-  },
-  {
-   "ts": "2026-09-30T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76570 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-76570 📢 Source: Joomla 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - joomcode.com - Unauthenticated SQL injection in read and write queries",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76570",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76570:2026-09-30T15:19"
-  },
-  {
-   "ts": "2026-09-30T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103398 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-103398 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True OpenSave through 2.4.0 fails to properly validate save paths supplied by paired peers in",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103398",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103398:2026-09-30T15:19"
-  },
-  {
-   "ts": "2026-09-30T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103395 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-103395 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True LightLLM through 1.2.0 visual_only deployments expose an unauthenticated RPyC servic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103395",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103395:2026-09-30T15:19"
-  },
-  {
-   "ts": "2026-09-30T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103270 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-103270 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True LightLLM through 1.2.0 mounts reinforcement learning control routes on the public HTTP A",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103270",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103270:2026-09-30T15:19"
-  },
-  {
-   "ts": "2026-09-30T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-47097 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-47097 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True AJA HELO Plus firmware before 2.1.7 contains an information disclosure vulnerability that",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47097",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47097:2026-09-30T14:49"
-  },
-  {
-   "ts": "2026-09-30T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-62097 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-62097 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62097",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62097:2026-09-30T14:49"
   }
  ]
 }
