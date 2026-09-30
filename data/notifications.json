@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-30T06:49:07+00:00",
+ "generated_at": "2026-09-30T07:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T07:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-97196 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-97196 📢 Source: Patchstack 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Improper Validation of Unsafe Equivalence in Input vulnerability in Liquid Web / Ste",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97196",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97196:2026-09-30T07:19"
+  },
+  {
+   "ts": "2026-09-30T07:19:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: finance",
+   "body": "**★ 2026-09-30 총괄 회수 2건 — 배당 원천징수 '결함' 판정 + 주간 리포트 자가검증**: 6주 이월 `test_longterm_dividend` 실패의 근인 = **테스트 픽스처 시한폭탄**(배당락 ",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: finance:2026-09-30T07:19"
+  },
   {
    "ts": "2026-09-30T04:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71379",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71379:2026-09-29T21:49"
-  },
-  {
-   "ts": "2026-09-29T21:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-70356 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-70356 📢 Source: icscert 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True The TMS file upload endpoint fails to enforce server-side file type restrictions, allow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70356",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70356:2026-09-29T21:49"
-  },
-  {
-   "ts": "2026-09-29T21:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-63713 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-63713 📢 Source: icscert 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True The \"search\" parameter in the view audit logs feature within the utilities section is sus",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63713",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63713:2026-09-29T21:49"
   }
  ]
 }
