@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-09-30T21:19:10+00:00",
+ "generated_at": "2026-09-30T21:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-09-30T21:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101283 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-101283 📢 Source: Anthropic 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True iperf3 3.20–3.21 (esnet/iperf) has a pre-auth heap buffer overflow in decrypt_rsa_me",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101283",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101283:2026-09-30T21:49"
+  },
   {
    "ts": "2026-09-30T21:19:08+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-62097",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62097:2026-09-30T14:49"
-  },
-  {
-   "ts": "2026-09-30T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18783 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-18783 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Missing authentication for critical function vulnerability in Trex Digital Smart Manufactu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18783",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18783:2026-09-30T14:49"
   }
  ]
 }
