@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-01T19:19:08+00:00",
+ "generated_at": "2026-10-01T19:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-104286 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-104286 📢 Source: fortinet 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An improper limitation of a pathname to a restricted directory ('path traversal') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104286",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104286:2026-10-01T19:49"
+  },
   {
    "ts": "2026-10-01T19:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103253",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103253:2026-10-01T11:19"
-  },
-  {
-   "ts": "2026-10-01T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103252 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-103252 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True n8n versions before 1.123.80, from 2.0.0 before 2.39.6, and from 2.40.0 before 2.40.1 co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103252",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103252:2026-10-01T11:19"
   }
  ]
 }
