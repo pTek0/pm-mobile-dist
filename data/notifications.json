@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-01T01:49:07+00:00",
+ "generated_at": "2026-10-01T02:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93495 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-93495 📢 Source: ASUS 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Improper initialization in an ASUS certain motherboard allows an physically proximate user to r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93495",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93495:2026-10-01T02:19"
+  },
+  {
+   "ts": "2026-10-01T02:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-14157 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-14157 📢 Source: ASUS 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Use of an Externally Controlled Format String in the ASUS Router modules allow a remote au",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14157",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14157:2026-10-01T02:19"
+  },
+  {
+   "ts": "2026-10-01T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13313 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-13313 📢 Source: ASUS 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True An Active Debug Code vulnerability in certain ASUS router models allows a remote authenticated",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13313",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13313:2026-10-01T02:19"
+  },
   {
    "ts": "2026-10-01T00:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-47510",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47510:2026-09-30T16:19"
-  },
-  {
-   "ts": "2026-09-30T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-47508 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-47508 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA GPU Display Driver for Windows and Linux contains a vulnerability in the kernel mode",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47508",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47508:2026-09-30T16:19"
-  },
-  {
-   "ts": "2026-09-30T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-47507 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-47507 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA GPU Display Driver for Windows and Linux contains a vulnerability in the kernel mode",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47507",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47507:2026-09-30T16:19"
-  },
-  {
-   "ts": "2026-09-30T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-47505 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-47505 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer whe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47505",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47505:2026-09-30T16:19"
   }
  ]
 }
