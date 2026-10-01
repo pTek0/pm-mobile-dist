@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-01T21:19:08+00:00",
+ "generated_at": "2026-10-01T21:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86344 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-86344 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in 389-ds-base. An unauthenticated remote attacker can send a complete LDAP",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86344",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86344:2026-10-01T21:49"
+  },
+  {
+   "ts": "2026-10-01T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-64893 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-64893 📢 Source: jci 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True - Cleartext Transmission of Sensitive Information vulnerability in Johnson Controls EasyIO NEO ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64893",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64893:2026-10-01T21:49"
+  },
+  {
+   "ts": "2026-10-01T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-34494 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-34494 📢 Source: jci 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True - On-Chip Debug Interface vulnerability in Johnson Controls Neo Series MVP2 allows Collect Data",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-34494",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34494:2026-10-01T21:49"
+  },
+  {
+   "ts": "2026-10-01T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104356 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-104356 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True PictShare before version 3.7.1 contains a weak randomness vulnerability where the getRan",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104356",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104356:2026-10-01T21:49"
+  },
   {
    "ts": "2026-10-01T21:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103067",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103067:2026-10-01T12:49"
-  },
-  {
-   "ts": "2026-10-01T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94250 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-94250 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling vulnerability in batch-requests plugin ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94250",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94250:2026-10-01T11:49"
-  },
-  {
-   "ts": "2026-10-01T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Electronic shelf labels likely to cost jobs and drive up gro",
-   "body": "Lemmy · technology · 점수 131",
-   "link": "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery:2026-10-01T11:49"
-  },
-  {
-   "ts": "2026-10-01T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Asus won’t say how it escaped the US router ban / Asus is no",
-   "body": "Lemmy · technology · 점수 125",
-   "link": "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing:2026-10-01T11:49"
-  },
-  {
-   "ts": "2026-10-01T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Here’s the Email You Get When an OpenAI Model Hacks Your Org",
-   "body": "Lemmy · technology · 점수 113",
-   "link": "https://futurism.com/artificial-intelligence/email-openai-model-hacks-your-organization",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/email-openai-model-hacks-your-organization:2026-10-01T11:49"
   }
  ]
 }
