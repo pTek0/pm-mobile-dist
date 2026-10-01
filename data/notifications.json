@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-01T15:49:08+00:00",
+ "generated_at": "2026-10-01T16:19:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T16:19:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101322 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-101322 📢 Source: eclipse 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True In Eclipse BaSyx AAS Web UI versions v2-241220 through releases before v2-260924, the shar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101322",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101322:2026-10-01T16:19"
+  },
   {
    "ts": "2026-10-01T15:49:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2025-41753",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-41753:2026-10-01T06:49"
-  },
-  {
-   "ts": "2026-10-01T06:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80276 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-80276 📢 Source: NCSC-FI 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Comelit Multi-User Gateway for VIP System (model 1456B) firmware versions 2.9.1 and 2.10.0 ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80276",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80276:2026-10-01T06:19"
   }
  ]
 }
