@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-01T14:49:08+00:00",
+ "generated_at": "2026-10-01T15:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-79898 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-79898 📢 Source: Fortra 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Fortra BoKS Manager contains a command injection vulnerability in crlserver. An authenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79898",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79898:2026-10-01T15:19"
+  },
+  {
+   "ts": "2026-10-01T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-67105 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-67105 📢 Source: HCL 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True HCL BigFix Service Management is affected by an Insecure Communication vulnerability, which cou",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67105",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67105:2026-10-01T15:19"
+  },
+  {
+   "ts": "2026-10-01T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-56589 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-56589 📢 Source: HCL 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True HCL BigFix Service Management is affected by a Stored Cross-Site Scripting (XSS) vulnerability,",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56589",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56589:2026-10-01T15:19"
+  },
+  {
+   "ts": "2026-10-01T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79899 (CVSS 7.9)",
+   "body": "🚨 CVE-2026-79899 📢 Source: Fortra 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: False Fortra BoKS Manager contains an insecure temporary file vulnerability in bccgethostcert. Th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79899",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79899:2026-10-01T15:19"
+  },
   {
    "ts": "2026-10-01T14:19:07+00:00",
    "level": "important",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82829",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82829:2026-10-01T05:19"
-  },
-  {
-   "ts": "2026-10-01T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82828 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-82828 📢 Source: Hitachi 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Hitachi Coding Software Suite contains an Incorrect Authorization vulnerability that allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82828",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82828:2026-10-01T05:19"
-  },
-  {
-   "ts": "2026-10-01T05:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82827 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82827 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Hitachi Coding Software Suite contains a vulnerability related to Use of Hard-coded Cry",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82827",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82827:2026-10-01T05:19"
-  },
-  {
-   "ts": "2026-10-01T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82826 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-82826 📢 Source: Hitachi 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Hitachi Coding Software Suite contains a vulnerability related to the Cleartext Transmissio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82826",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82826:2026-10-01T05:19"
-  },
-  {
-   "ts": "2026-10-01T05:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82825 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82825 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Hitachi Coding Software Suite contains a vulnerability related to Missing Authenticatio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82825",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82825:2026-10-01T05:19"
   }
  ]
 }
