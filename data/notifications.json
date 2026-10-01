@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-10-01T23:19:08+00:00",
+ "generated_at": "2026-10-01T23:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T23:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-86345 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-86345 📢 Source: redhat 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in 389-ds-base. The server does not discard plaintext bytes already buffe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86345",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86345:2026-10-01T23:49"
+  },
+  {
+   "ts": "2026-10-01T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103766 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-103766 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True ClipBucket v5 through 5.5.3-#197 contains an sql injection vulnerability that allows aut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103766",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103766:2026-10-01T23:49"
+  },
+  {
+   "ts": "2026-10-01T23:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-103765 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-103765 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Mooncake through 0.3.13.post1 contains a missing authentication vulnerability in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103765",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103765:2026-10-01T23:49"
+  },
+  {
+   "ts": "2026-10-01T23:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-103764 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-103764 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Mooncake transfer engine before 0.3.13 contains an untrusted pointer dereference in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103764",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103764:2026-10-01T23:49"
+  },
+  {
+   "ts": "2026-10-01T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Cloudflare K2: serverless event streams",
+   "body": "Hacker News · 점수 175",
+   "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+   "source": "Hacker News",
+   "id": "community:https://blog.cloudflare.com/cloudflare-k2-streams/:2026-10-01T23:49"
+  },
+  {
+   "ts": "2026-10-01T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] GPT-Synopsys: Frontier Intelligence to Revolutionize Chip De",
+   "body": "Hacker News · 점수 159",
+   "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+   "source": "Hacker News",
+   "id": "community:https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design:2026-10-01T23:49"
+  },
+  {
+   "ts": "2026-10-01T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Pi Durable",
+   "body": "Hacker News · 점수 155",
+   "link": "https://earendil.com/posts/pi-durable/",
+   "source": "Hacker News",
+   "id": "community:https://earendil.com/posts/pi-durable/:2026-10-01T23:49"
+  },
+  {
+   "ts": "2026-10-01T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Someone ‘Torturing’ LLMs in a Robot Prison Has Triggered the",
+   "body": "Lemmy · technology · 점수 153",
+   "link": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/:2026-10-01T23:49"
+  },
+  {
+   "ts": "2026-10-01T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Various Projects Find Hidden SDR Capabilities in ESP32 Micro",
+   "body": "Hacker News · 점수 143",
+   "link": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+   "source": "Hacker News",
+   "id": "community:https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/:2026-10-01T23:49"
+  },
   {
    "ts": "2026-10-01T23:19:07+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-12540",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12540:2026-10-01T16:49"
-  },
-  {
-   "ts": "2026-10-01T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12423 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-12423 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Foreman. The Red Hat Satellite /unattended/provision API endpoint is vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12423",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12423:2026-10-01T16:49"
-  },
-  {
-   "ts": "2026-10-01T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12405 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-12405 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in rubygem-foreman_remote_execution. A command injection vulnerability exis",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12405",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12405:2026-10-01T16:49"
-  },
-  {
-   "ts": "2026-10-01T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101889 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-101889 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True The Prime Mover plugin for WordPress before 2.2.1 contains a path traversal vulnerability ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101889",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101889:2026-10-01T16:49"
-  },
-  {
-   "ts": "2026-10-01T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101888 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-101888 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True The Prime Mover plugin for WordPress before 2.2.1 contains a Zip Slip path traversal vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101888",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101888:2026-10-01T16:49"
-  },
-  {
-   "ts": "2026-10-01T16:19:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101322 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-101322 📢 Source: eclipse 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True In Eclipse BaSyx AAS Web UI versions v2-241220 through releases before v2-260924, the shar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101322",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101322:2026-10-01T16:19"
-  },
-  {
-   "ts": "2026-10-01T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-12627 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-12627 📢 Source: Fortra 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Fortra's Core Privileged Access Manager (BoKS) contains a stack-based buffer overflow vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12627",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12627:2026-10-01T15:49"
-  },
-  {
-   "ts": "2026-10-01T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79896 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-79896 📢 Source: Fortra 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Fortra BoKS Manager contains an out-of-bounds read vulnerability in the custom TLS ClientHel",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79896",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79896:2026-10-01T15:49"
-  },
-  {
-   "ts": "2026-10-01T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-79898 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-79898 📢 Source: Fortra 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Fortra BoKS Manager contains a command injection vulnerability in crlserver. An authenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79898",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79898:2026-10-01T15:19"
-  },
-  {
-   "ts": "2026-10-01T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-67105 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-67105 📢 Source: HCL 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True HCL BigFix Service Management is affected by an Insecure Communication vulnerability, which cou",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67105",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67105:2026-10-01T15:19"
   }
  ]
 }
