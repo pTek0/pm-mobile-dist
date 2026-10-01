@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-10-01T16:19:13+00:00",
+ "generated_at": "2026-10-01T16:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14316 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-14316 📢 Source: Fortra 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True The revoked-key error path builds a human-readable failure reason using sprintf() into a hea",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14316",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14316:2026-10-01T16:49"
+  },
+  {
+   "ts": "2026-10-01T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12544 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-12544 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False A flaw was found in Foreman. The foreman-rake initialization logic in /usr/share/foreman/co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12544",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12544:2026-10-01T16:49"
+  },
+  {
+   "ts": "2026-10-01T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12541 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-12541 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False A flaw was found in Foreman. OS command injection vulnerabilities exist in the foreman-rake",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12541",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12541:2026-10-01T16:49"
+  },
+  {
+   "ts": "2026-10-01T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12540 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-12540 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False A flaw was found in Foreman. A command injection vulnerability exists in the foreman-rake e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12540",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12540:2026-10-01T16:49"
+  },
+  {
+   "ts": "2026-10-01T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12423 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-12423 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Foreman. The Red Hat Satellite /unattended/provision API endpoint is vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12423",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12423:2026-10-01T16:49"
+  },
+  {
+   "ts": "2026-10-01T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12405 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-12405 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in rubygem-foreman_remote_execution. A command injection vulnerability exis",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12405",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12405:2026-10-01T16:49"
+  },
+  {
+   "ts": "2026-10-01T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101889 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-101889 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True The Prime Mover plugin for WordPress before 2.2.1 contains a path traversal vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101889",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101889:2026-10-01T16:49"
+  },
+  {
+   "ts": "2026-10-01T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101888 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-101888 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True The Prime Mover plugin for WordPress before 2.2.1 contains a Zip Slip path traversal vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101888",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101888:2026-10-01T16:49"
+  },
   {
    "ts": "2026-10-01T16:19:11+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-64949",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64949:2026-10-01T09:49"
-  },
-  {
-   "ts": "2026-10-01T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-64948 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-64948 📢 Source: PandoraFMS 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Missing authorization in module data retrieval allows unauthorized cross-group access to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64948",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64948:2026-10-01T09:49"
-  },
-  {
-   "ts": "2026-10-01T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-64947 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-64947 📢 Source: PandoraFMS 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A chained CSRF bypass and unrestricted file upload vulnerability in the Plugin File Mana",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64947",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64947:2026-10-01T09:49"
-  },
-  {
-   "ts": "2026-10-01T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-64946 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-64946 📢 Source: PandoraFMS 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A chained CSRF and unrestricted SVG file upload vulnerability in the File Manager module",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64946",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64946:2026-10-01T09:49"
-  },
-  {
-   "ts": "2026-10-01T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96577 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-96577 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A flaw was found in oc-mirror. During mirroring operations, the embedded local cache regist",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96577",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96577:2026-10-01T09:49"
-  },
-  {
-   "ts": "2026-10-01T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103493 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-103493 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains YouTrack before 2026.2.19422 stored XSS via Mermaid and LaTeX content was p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103493",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103493:2026-10-01T09:49"
-  },
-  {
-   "ts": "2026-10-01T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103490 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-103490 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains YouTrack before 2026.2.19422 privilege escalation was possible via user gro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103490",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103490:2026-10-01T09:49"
-  },
-  {
-   "ts": "2026-10-01T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103431 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-103431 📢 Source: fedora 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True colmux in collectl before 4.3.20.2 does not sanitize ANSI/VT100 terminal escape sequences i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103431",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103431:2026-10-01T09:19"
-  },
-  {
-   "ts": "2026-10-01T06:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2025-41753 (CVSS 9.8)",
-   "body": "🚨 CVE-2025-41753 📢 Source: CERTVDE 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The object name of a dynamically created BACnet File Object is interpreted as a file pa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-41753",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-41753:2026-10-01T06:49"
   }
  ]
 }
