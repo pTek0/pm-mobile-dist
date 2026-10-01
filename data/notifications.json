@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-10-01T22:49:08+00:00",
+ "generated_at": "2026-10-01T23:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T23:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103761 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-103761 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Mooncake transfer engine through 0.3.13.post1 contains a memory exhaustion vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103761",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103761:2026-10-01T23:19"
+  },
+  {
+   "ts": "2026-10-01T23:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103760 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-103760 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Mooncake transfer engine through 0.3.13.post1 contains a denial of service vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103760",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103760:2026-10-01T23:19"
+  },
+  {
+   "ts": "2026-10-01T23:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-71427 (CVSS 7.6)",
+   "body": "🚨 CVE-2025-71427 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Office-PowerPoint-MCP-Server through 2.0.7 contains a path traversal vulnerability that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71427",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71427:2026-10-01T23:19"
+  },
+  {
+   "ts": "2026-10-01T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Pi 1.0",
+   "body": "Hacker News · 점수 539",
+   "link": "https://earendil.com/posts/pi-1-0/",
+   "source": "Hacker News",
+   "id": "community:https://earendil.com/posts/pi-1-0/:2026-10-01T23:19"
+  },
+  {
+   "ts": "2026-10-01T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] StreetComplete on iOS is now in public beta",
+   "body": "Hacker News · 점수 494",
+   "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+   "source": "Hacker News",
+   "id": "community:https://github.com/streetcomplete/StreetComplete/issues/5421:2026-10-01T23:19"
+  },
+  {
+   "ts": "2026-10-01T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Clef: Open-source decision models, and new RL fine-tuning pl",
+   "body": "Hacker News · 점수 372",
+   "link": "https://blog.cloudflare.com/clef-decision-models/",
+   "source": "Hacker News",
+   "id": "community:https://blog.cloudflare.com/clef-decision-models/:2026-10-01T23:19"
+  },
+  {
+   "ts": "2026-10-01T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Google breaks promise to provide 10 years of updates to Chro",
+   "body": "Lemmy · technology · 점수 257",
+   "link": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/:2026-10-01T23:19"
+  },
+  {
+   "ts": "2026-10-01T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] RIP, vector database",
+   "body": "Hacker News · 점수 254",
+   "link": "https://turbopuffer.com/blog/rip-vector-database",
+   "source": "Hacker News",
+   "id": "community:https://turbopuffer.com/blog/rip-vector-database:2026-10-01T23:19"
+  },
   {
    "ts": "2026-10-01T22:19:07+00:00",
    "level": "important",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-67105",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67105:2026-10-01T15:19"
-  },
-  {
-   "ts": "2026-10-01T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-56589 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-56589 📢 Source: HCL 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True HCL BigFix Service Management is affected by a Stored Cross-Site Scripting (XSS) vulnerability,",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56589",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56589:2026-10-01T15:19"
-  },
-  {
-   "ts": "2026-10-01T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79899 (CVSS 7.9)",
-   "body": "🚨 CVE-2026-79899 📢 Source: Fortra 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: False Fortra BoKS Manager contains an insecure temporary file vulnerability in bccgethostcert. Th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79899",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79899:2026-10-01T15:19"
-  },
-  {
-   "ts": "2026-10-01T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-79901 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-79901 📢 Source: Fortra 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True In deployments using BoKS keytab management, affected versions of boks_keytabmd generate",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79901",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79901:2026-10-01T14:19"
-  },
-  {
-   "ts": "2026-10-01T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66246 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-66246 📢 Source: HCL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True iControl is affected by a Broken Access Control vulnerability, which could allow an attacker to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66246",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66246:2026-10-01T13:49"
-  },
-  {
-   "ts": "2026-10-01T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-62060 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-62060 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62060",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62060:2026-10-01T13:19"
-  },
-  {
-   "ts": "2026-10-01T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-62059 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-62059 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62059",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62059:2026-10-01T13:19"
-  },
-  {
-   "ts": "2026-10-01T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103338 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-103338 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103338",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103338:2026-10-01T13:19"
-  },
-  {
-   "ts": "2026-10-01T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102379 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-102379 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102379",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102379:2026-10-01T13:19"
   }
  ]
 }
