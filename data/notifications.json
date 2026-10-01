@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-01T08:49:07+00:00",
+ "generated_at": "2026-10-01T09:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103431 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-103431 📢 Source: fedora 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True colmux in collectl before 4.3.20.2 does not sanitize ANSI/VT100 terminal escape sequences i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103431",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103431:2026-10-01T09:19"
+  },
   {
    "ts": "2026-10-01T06:49:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103471",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103471:2026-09-30T17:49"
-  },
-  {
-   "ts": "2026-09-30T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103446 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-103446 📢 Source: wikimedia-foundation 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Authorization bypass through User-Controlled key vulnerability in The Wikimed",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103446",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103446:2026-09-30T17:49"
   }
  ]
 }
