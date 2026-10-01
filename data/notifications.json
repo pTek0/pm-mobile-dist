@@ -1,7 +1,197 @@
 {
- "generated_at": "2026-10-01T10:49:07+00:00",
+ "generated_at": "2026-10-01T11:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103262 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-103262 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Tornado versions before 6.5.9 contain an unbounded memory accumulation vulnerability in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103262",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103262:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103259 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-103259 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True n8n versions before 2.39.6 and 2.40.0 before 2.40.1 contain a session token leakage vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103259",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103259:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103257 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-103257 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True n8n versions before 1.123.80, from 2.0.0 before 2.39.6, and from 2.40.0 before 2.40.1 co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103257",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103257:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103256 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-103256 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n versions before 2.39.6 and 2.40.0 before 2.40.1 contain a credentials leak vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103256",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103256:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-103255 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-103255 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True n8n versions before 1.123.80, from 2.0.0 before 2.39.6, and from 2.40.0 before 2.40.1 ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103255",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103255:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103254 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-103254 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True n8n versions before 1.123.80, from 2.0.0 before 2.39.6, and from 2.40.0 before 2.40.1 cont",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103254",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103254:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103253 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-103253 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True n8n versions before 1.123.80, from 2.0.0 before 2.39.6, and from 2.40.0 before 2.40.1 co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103253",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103253:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103252 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-103252 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True n8n versions before 1.123.80, from 2.0.0 before 2.39.6, and from 2.40.0 before 2.40.1 co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103252",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103252:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103251 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-103251 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False n8n versions before 1.123.80, from 2.0.0 before 2.39.6, and from 2.40.0 before 2.40.1 c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103251",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103251:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103250 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-103250 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True n8n versions before 1.123.80, from 2.0.0 before 2.39.6, and from 2.40.0 before 2.40.1 co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103250",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103250:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103249 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-103249 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True n8n versions before 1.123.80, from 2.0.0 before 2.39.6, and from 2.40.0 before 2.40.1 co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103249",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103249:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-103248 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-103248 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True n8n versions before 1.123.80, from 2.0.0 before 2.39.6, and from 2.40.0 before 2.40.1 ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103248",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103248:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103247 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-103247 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True n8n versions before 1.123.80 contain a credential tampering vulnerability where duplicat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103247",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103247:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103246 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-103246 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True n8n versions before 2.39.6 and 2.40.0 before 2.40.1 fail to validate credential ownershi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103246",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103246:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Reddit is killing RSS feeds and ending public API access bec",
+   "body": "Lemmy · technology · 점수 422",
+   "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+   "source": "Lemmy · technology",
+   "id": "community:https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Why the Bronze Age Collapsed",
+   "body": "Hacker News · 점수 253",
+   "link": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+   "source": "Hacker News",
+   "id": "community:https://www.worksinprogress.news/p/why-really-caused-the-bronze-age:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+   "body": "Hacker News · 점수 225",
+   "link": "https://www.thespacereview.com/article/4951/1",
+   "source": "Hacker News",
+   "id": "community:https://www.thespacereview.com/article/4951/1:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] LinkedIn Larpmaxxing",
+   "body": "Hacker News · 점수 207",
+   "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+   "source": "Hacker News",
+   "id": "community:https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/:2026-10-01T11:19"
+  },
+  {
+   "ts": "2026-10-01T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Surprisingly complex waves reveal the brain's inner workings",
+   "body": "Hacker News · 점수 191",
+   "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+   "source": "Hacker News",
+   "id": "community:https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/:2026-10-01T11:19"
+  },
   {
    "ts": "2026-10-01T09:49:06+00:00",
    "level": "general",
@@ -311,196 +501,6 @@
    "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
    "source": "Lobsters",
    "id": "community:https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html:2026-10-01T00:19"
-  },
-  {
-   "ts": "2026-10-01T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Disney Hit By Layoffs, A Couple Hundred Workers Cut",
-   "body": "Lemmy · technology · 점수 58",
-   "link": "https://deadline.com/2026/09/disney-layoffs-josh-damaro-1237114027/",
-   "source": "Lemmy · technology",
-   "id": "community:https://deadline.com/2026/09/disney-layoffs-josh-damaro-1237114027/:2026-10-01T00:19"
-  },
-  {
-   "ts": "2026-10-01T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Pining for Arc Downcasting in Rust",
-   "body": "Lobsters · 점수 57",
-   "link": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
-   "source": "Lobsters",
-   "id": "community:https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/:2026-10-01T00:19"
-  },
-  {
-   "ts": "2026-09-30T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The last time my family was replaced by technology",
-   "body": "Hacker News · 점수 156",
-   "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
-   "source": "Hacker News",
-   "id": "community:https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/:2026-09-30T23:49"
-  },
-  {
-   "ts": "2026-09-30T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Reddit imposes new restrictions on Old Reddit  - Engadget",
-   "body": "Lemmy · technology · 점수 139",
-   "link": "https://www.engadget.com/2273661/reddit-imposes-new-restrictions-on-old-reddit/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.engadget.com/2273661/reddit-imposes-new-restrictions-on-old-reddit/:2026-09-30T23:49"
-  },
-  {
-   "ts": "2026-09-30T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] SDF vs. MSDF vs. Slug: GPU Text Rendering",
-   "body": "Hacker News · 점수 120",
-   "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-   "source": "Hacker News",
-   "id": "community:https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/:2026-09-30T23:49"
-  },
-  {
-   "ts": "2026-09-30T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Launch HN: Magnitude (YC S25) – Self-optimizing inference en",
-   "body": "Hacker News · 점수 111",
-   "link": "https://github.com/magnitudedev/magnitude",
-   "source": "Hacker News",
-   "id": "community:https://github.com/magnitudedev/magnitude:2026-09-30T23:49"
-  },
-  {
-   "ts": "2026-09-30T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] EDG C++ front-end goes public",
-   "body": "Hacker News · 점수 109",
-   "link": "https://edgcpp.org/#transition",
-   "source": "Hacker News",
-   "id": "community:https://edgcpp.org/#transition:2026-09-30T23:49"
-  },
-  {
-   "ts": "2026-09-30T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103591 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-103591 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True DeepWiki-Open through commit d92819a contains an unauthenticated arbitrary file read vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103591",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103591:2026-09-30T23:19"
-  },
-  {
-   "ts": "2026-09-30T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Gemini 4 Argon",
-   "body": "Hacker News · 점수 757",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-   "source": "Hacker News",
-   "id": "community:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/:2026-09-30T23:19"
-  },
-  {
-   "ts": "2026-09-30T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] You said no MCP",
-   "body": "Hacker News · 점수 579",
-   "link": "https://earendil.com/posts/you-said-no-mcp/",
-   "source": "Hacker News",
-   "id": "community:https://earendil.com/posts/you-said-no-mcp/:2026-09-30T23:19"
-  },
-  {
-   "ts": "2026-09-30T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] OpenAI hit with landmark lawsuit following Hugging Face hack",
-   "body": "Lemmy · technology · 점수 234",
-   "link": "https://www.axios.com/2026/09/29/openai-sued-hugging-face-breach",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.axios.com/2026/09/29/openai-sued-hugging-face-breach:2026-09-30T23:19"
-  },
-  {
-   "ts": "2026-09-30T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I could've accessed 17T Microsoft records",
-   "body": "Hacker News · 점수 232",
-   "link": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
-   "source": "Hacker News",
-   "id": "community:https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records:2026-09-30T23:19"
-  },
-  {
-   "ts": "2026-09-30T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A brief history of the Bloomberg terminal",
-   "body": "Hacker News · 점수 199",
-   "link": "https://spectrum.ieee.org/bloomberg-terminal",
-   "source": "Hacker News",
-   "id": "community:https://spectrum.ieee.org/bloomberg-terminal:2026-09-30T23:19"
-  },
-  {
-   "ts": "2026-09-30T21:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-101283 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-101283 📢 Source: Anthropic 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True iperf3 3.20–3.21 (esnet/iperf) has a pre-auth heap buffer overflow in decrypt_rsa_me",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101283",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101283:2026-09-30T21:49"
-  },
-  {
-   "ts": "2026-09-30T21:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-101276 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-101276 📢 Source: Anthropic 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True iperf3 3.21 (esnet/iperf) contains a remote, unauthenticated heap use-after-free: th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101276",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101276:2026-09-30T21:19"
-  },
-  {
-   "ts": "2026-09-30T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2023-54403 (CVSS 8.7)",
-   "body": "🚨 CVE-2023-54403 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Yonyou U8 CRM before V16.5 and V18 contains an arbitrary file read vulnerability in /ajax",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2023-54403",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54403:2026-09-30T20:49"
-  },
-  {
-   "ts": "2026-09-30T19:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103547 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-103547 📢 Source: mitre 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True In ldapd in OpenBSD 7.8 before errata 057 and 7.9 before errata 021, delegated BSD authe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103547",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103547:2026-09-30T19:49"
-  },
-  {
-   "ts": "2026-09-30T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101885 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-101885 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False ZeroClaw versions before 0.8.5 built with plugins-wasm feature contain a path traversal",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101885",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101885:2026-09-30T19:49"
-  },
-  {
-   "ts": "2026-09-30T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101884 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-101884 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True OpenClaw Windows Node before 2026.7.1 contains an incomplete environment-variable saniti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101884",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101884:2026-09-30T19:49"
   }
  ]
 }
