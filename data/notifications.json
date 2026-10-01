@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-01T12:49:07+00:00",
+ "generated_at": "2026-10-01T13:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-62060 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-62060 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62060",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62060:2026-10-01T13:19"
+  },
+  {
+   "ts": "2026-10-01T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-62059 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-62059 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62059",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62059:2026-10-01T13:19"
+  },
+  {
+   "ts": "2026-10-01T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103338 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-103338 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103338",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103338:2026-10-01T13:19"
+  },
+  {
+   "ts": "2026-10-01T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102379 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-102379 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102379",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102379:2026-10-01T13:19"
+  },
   {
    "ts": "2026-10-01T12:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76146",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76146:2026-10-01T05:19"
-  },
-  {
-   "ts": "2026-10-01T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76145 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-76145 📢 Source: krcert 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An improper privilege management vulnerability in Genian SSL PNS allows an attacker to escal",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76145",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76145:2026-10-01T05:19"
-  },
-  {
-   "ts": "2026-10-01T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76143 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-76143 📢 Source: krcert 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True A missing authorization vulnerability in Genian SSL PNS allows an attacker to bypass multi-f",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76143",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76143:2026-10-01T05:19"
-  },
-  {
-   "ts": "2026-10-01T05:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76142 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-76142 📢 Source: krcert 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Insufficient authentication and access control on the internal-only IPC SOAP endpoint of",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76142",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76142:2026-10-01T05:19"
-  },
-  {
-   "ts": "2026-10-01T04:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78210 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-78210 📢 Source: Octopus 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, users with certain scoped permission sets could exe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78210",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78210:2026-10-01T04:49"
   }
  ]
 }
