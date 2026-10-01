@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-01T06:19:08+00:00",
+ "generated_at": "2026-10-01T06:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T06:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-41753 (CVSS 9.8)",
+   "body": "🚨 CVE-2025-41753 📢 Source: CERTVDE 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The object name of a dynamically created BACnet File Object is interpreted as a file pa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-41753",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-41753:2026-10-01T06:49"
+  },
   {
    "ts": "2026-10-01T06:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103446",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103446:2026-09-30T17:49"
-  },
-  {
-   "ts": "2026-09-30T16:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75969 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-75969 📢 Source: hsi 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Missing authentication for critical function vulnerability for all PTZOptics cameras and th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75969",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75969:2026-09-30T16:49"
   }
  ]
 }
