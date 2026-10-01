@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-01T21:49:08+00:00",
+ "generated_at": "2026-10-01T22:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18397 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-18397 📢 Source: THA-PSIRT 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True This vulnerability enables unauthenticated remote code execution (RCE) on a victim's ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18397",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18397:2026-10-01T22:19"
+  },
   {
    "ts": "2026-10-01T21:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102379",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102379:2026-10-01T13:19"
-  },
-  {
-   "ts": "2026-10-01T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103067 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-103067 📢 Source: Patchstack 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Memberful Memberful - Membership Plugi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103067",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103067:2026-10-01T12:49"
   }
  ]
 }
