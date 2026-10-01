@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-10-01T09:19:08+00:00",
+ "generated_at": "2026-10-01T09:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75786 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-75786 📢 Source: PandoraFMS 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Unsanitized concatenation of the module parameter in the Grafana datasource endpoint all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75786",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75786:2026-10-01T09:49"
+  },
+  {
+   "ts": "2026-10-01T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-64950 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-64950 📢 Source: PandoraFMS 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Missing input validation and output encoding on the directory name parameter in File Man",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64950",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64950:2026-10-01T09:49"
+  },
+  {
+   "ts": "2026-10-01T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-64949 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-64949 📢 Source: PandoraFMS 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Incomplete extension blacklist in the File Manager module allows authenticated upload an",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64949",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64949:2026-10-01T09:49"
+  },
+  {
+   "ts": "2026-10-01T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-64948 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-64948 📢 Source: PandoraFMS 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Missing authorization in module data retrieval allows unauthorized cross-group access to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64948",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64948:2026-10-01T09:49"
+  },
+  {
+   "ts": "2026-10-01T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-64947 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-64947 📢 Source: PandoraFMS 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A chained CSRF bypass and unrestricted file upload vulnerability in the Plugin File Mana",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64947",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64947:2026-10-01T09:49"
+  },
+  {
+   "ts": "2026-10-01T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-64946 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-64946 📢 Source: PandoraFMS 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A chained CSRF and unrestricted SVG file upload vulnerability in the File Manager module",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64946",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64946:2026-10-01T09:49"
+  },
+  {
+   "ts": "2026-10-01T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96577 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-96577 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A flaw was found in oc-mirror. During mirroring operations, the embedded local cache regist",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96577",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96577:2026-10-01T09:49"
+  },
+  {
+   "ts": "2026-10-01T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103493 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-103493 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains YouTrack before 2026.2.19422 stored XSS via Mermaid and LaTeX content was p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103493",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103493:2026-10-01T09:49"
+  },
+  {
+   "ts": "2026-10-01T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103490 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-103490 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains YouTrack before 2026.2.19422 privilege escalation was possible via user gro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103490",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103490:2026-10-01T09:49"
+  },
   {
    "ts": "2026-10-01T09:19:07+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101884",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101884:2026-09-30T19:49"
-  },
-  {
-   "ts": "2026-09-30T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101882 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-101882 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenClaw Windows Node before 2026.7.1 contains an incomplete validation vulnerability in",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101882",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101882:2026-09-30T19:49"
-  },
-  {
-   "ts": "2026-09-30T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101881 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-101881 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenClaw Windows Node before 2026.7.1 contains an allocation of resources without limits",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101881",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101881:2026-09-30T19:49"
-  },
-  {
-   "ts": "2026-09-30T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101880 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-101880 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenClaw Windows Node before 2026.7.1 contains an incorrect authorization vulnerability ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101880",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101880:2026-09-30T19:49"
-  },
-  {
-   "ts": "2026-09-30T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101879 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-101879 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenClaw Windows Node before 2026.7.1-3 contains a missing authorization vulnerability i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101879",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101879:2026-09-30T19:49"
-  },
-  {
-   "ts": "2026-09-30T17:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103475 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-103475 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True yii2-starter-kit through 4.2.0 exposes the Yii debug and Gii modules to all IP addre",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103475",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103475:2026-09-30T17:49"
-  },
-  {
-   "ts": "2026-09-30T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103474 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-103474 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True yii2-starter-kit through 4.2.0 fails to validate file types in the backend storage uploa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103474",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103474:2026-09-30T17:49"
-  },
-  {
-   "ts": "2026-09-30T17:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103473 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-103473 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Deno versions 2.7.0 through 2.9.7 on Windows contain a command injection vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103473",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103473:2026-09-30T17:49"
-  },
-  {
-   "ts": "2026-09-30T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103472 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-103472 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True restbed through 5.0.0 accepts WebSocket frames with declared payload lengths up to 2^63 ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103472",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103472:2026-09-30T17:49"
-  },
-  {
-   "ts": "2026-09-30T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103471 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-103471 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True restbed through 5.0.0 buffers HTTP request headers without enforcing a maximum size limi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103471",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103471:2026-09-30T17:49"
   }
  ]
 }
