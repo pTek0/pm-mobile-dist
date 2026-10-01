@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-01T13:49:07+00:00",
+ "generated_at": "2026-10-01T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-79901 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-79901 📢 Source: Fortra 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True In deployments using BoKS keytab management, affected versions of boks_keytabmd generate",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79901",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79901:2026-10-01T14:19"
+  },
   {
    "ts": "2026-10-01T13:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82825",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82825:2026-10-01T05:19"
-  },
-  {
-   "ts": "2026-10-01T05:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82824 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82824 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Hitachi Coding Software Suite contains a vulnerability related to Path Traversal vulner",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82824",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82824:2026-10-01T05:19"
   }
  ]
 }
