@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-10-01T17:19:07+00:00",
+ "generated_at": "2026-10-01T17:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-9032 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-9032 📢 Source: TPLink 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Tapo C120 v1 and C200 v5 contain a NULL pointer dereference in the HTTPS onboarding connect ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9032",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9032:2026-10-01T17:49"
+  },
+  {
+   "ts": "2026-10-01T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97662 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-97662 📢 Source: AMZN 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False An argument injection issue in the diff scan operation in AWS security-agent-mcp-server befor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97662",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97662:2026-10-01T17:49"
+  },
+  {
+   "ts": "2026-10-01T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78578 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-78578 📢 Source: TPLink 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Tapo C120 v1 and C200 v5 do not enforce authentication for do method HTTPS onboarding conne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78578",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78578:2026-10-01T17:49"
+  },
+  {
+   "ts": "2026-10-01T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68496 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-68496 📢 Source: HeroDevs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The Smile parser in FasterXML jackson-dataformats-binary never invokes StreamReadConstrain",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68496",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68496:2026-10-01T17:49"
+  },
+  {
+   "ts": "2026-10-01T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68495 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-68495 📢 Source: HeroDevs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The CBOR parser in FasterXML jackson-dataformats-binary never invokes StreamReadConstraint",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68495",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68495:2026-10-01T17:49"
+  },
+  {
+   "ts": "2026-10-01T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104018 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-104018 📢 Source: WindRiver 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An improper privilege management vulnerability (CWE-269) exists in the command shell of ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104018",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104018:2026-10-01T17:49"
+  },
+  {
+   "ts": "2026-10-01T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102369 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-102369 📢 Source: TPLink 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Tapo C120 v1 and C200 V5 do not adequately protect login challenge data or sanitize attack",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102369",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102369:2026-10-01T17:49"
+  },
+  {
+   "ts": "2026-10-01T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102294 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-102294 📢 Source: TPLink 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False TP-Link TL-WR841N contains an authenticated OS command injection vulnerability in the IPv6",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102294",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102294:2026-10-01T17:49"
+  },
+  {
+   "ts": "2026-10-01T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2023-54404 (CVSS 8.2)",
+   "body": "🚨 CVE-2023-54404 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Zod schema-validation library through 4.6.5 contains an uncontrolled resource consumption",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2023-54404",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54404:2026-10-01T17:49"
+  },
   {
    "ts": "2026-10-01T16:49:07+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103247",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103247:2026-10-01T11:19"
-  },
-  {
-   "ts": "2026-10-01T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103246 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-103246 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True n8n versions before 2.39.6 and 2.40.0 before 2.40.1 fail to validate credential ownershi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103246",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103246:2026-10-01T11:19"
-  },
-  {
-   "ts": "2026-10-01T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Reddit is killing RSS feeds and ending public API access bec",
-   "body": "Lemmy · technology · 점수 422",
-   "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-   "source": "Lemmy · technology",
-   "id": "community:https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/:2026-10-01T11:19"
-  },
-  {
-   "ts": "2026-10-01T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Why the Bronze Age Collapsed",
-   "body": "Hacker News · 점수 253",
-   "link": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
-   "source": "Hacker News",
-   "id": "community:https://www.worksinprogress.news/p/why-really-caused-the-bronze-age:2026-10-01T11:19"
-  },
-  {
-   "ts": "2026-10-01T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-   "body": "Hacker News · 점수 225",
-   "link": "https://www.thespacereview.com/article/4951/1",
-   "source": "Hacker News",
-   "id": "community:https://www.thespacereview.com/article/4951/1:2026-10-01T11:19"
-  },
-  {
-   "ts": "2026-10-01T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] LinkedIn Larpmaxxing",
-   "body": "Hacker News · 점수 207",
-   "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
-   "source": "Hacker News",
-   "id": "community:https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/:2026-10-01T11:19"
-  },
-  {
-   "ts": "2026-10-01T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Surprisingly complex waves reveal the brain's inner workings",
-   "body": "Hacker News · 점수 191",
-   "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-   "source": "Hacker News",
-   "id": "community:https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/:2026-10-01T11:19"
-  },
-  {
-   "ts": "2026-10-01T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75786 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-75786 📢 Source: PandoraFMS 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Unsanitized concatenation of the module parameter in the Grafana datasource endpoint all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75786",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75786:2026-10-01T09:49"
-  },
-  {
-   "ts": "2026-10-01T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-64950 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-64950 📢 Source: PandoraFMS 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Missing input validation and output encoding on the directory name parameter in File Man",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64950",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64950:2026-10-01T09:49"
-  },
-  {
-   "ts": "2026-10-01T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-64949 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-64949 📢 Source: PandoraFMS 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Incomplete extension blacklist in the File Manager module allows authenticated upload an",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64949",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64949:2026-10-01T09:49"
   }
  ]
 }
