@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-01T20:49:10+00:00",
+ "generated_at": "2026-10-01T21:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71451 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-71451 📢 Source: jci 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False - OS Command Injection vulnerability in Johnson Controls EasyIO FS32 allows - Command Injectio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71451",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71451:2026-10-01T21:19"
+  },
+  {
+   "ts": "2026-10-01T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104020 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-104020 📢 Source: AMZN 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Uncontrolled recursion in the Ion reader in Amazon Ion Python before 0.15.0 might allow a rem",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104020",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104020:2026-10-01T21:19"
+  },
   {
    "ts": "2026-10-01T20:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://futurism.com/artificial-intelligence/email-openai-model-hacks-your-organization",
    "source": "Lemmy · technology",
    "id": "community:https://futurism.com/artificial-intelligence/email-openai-model-hacks-your-organization:2026-10-01T11:49"
-  },
-  {
-   "ts": "2026-10-01T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] You may notice this the next time you're at a McDonald's dri",
-   "body": "Lemmy · technology · 점수 55",
-   "link": "https://www.usatoday.com/story/money/food/2026/09/29/mcdonalds-drive-thru-screens-ads/92007161007/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.usatoday.com/story/money/food/2026/09/29/mcdonalds-drive-thru-screens-ads/92007161007/:2026-10-01T11:49"
-  },
-  {
-   "ts": "2026-10-01T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Cuckoo's Egg",
-   "body": "Lobsters · 점수 55",
-   "link": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)",
-   "source": "Lobsters",
-   "id": "community:https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book):2026-10-01T11:49"
   }
  ]
 }
