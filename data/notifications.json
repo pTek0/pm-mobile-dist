@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-01T19:49:08+00:00",
+ "generated_at": "2026-10-01T20:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-01T20:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-14984 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-14984 📢 Source: Mandiant 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False Cleartext transmission in the primary control endpoints of Teledyne FLIR Aware2 versi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14984",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14984:2026-10-01T20:19"
+  },
+  {
+   "ts": "2026-10-01T20:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14983 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-14983 📢 Source: Mandiant 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Missing authentication in the web interface in Teledyne FLIR Aware2 versions through 6.9.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14983",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14983:2026-10-01T20:19"
+  },
+  {
+   "ts": "2026-10-01T20:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103484 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-103484 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False IVFFlat index build in pgvector before 0.8.7 allows a database user to write data out-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103484",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103484:2026-10-01T20:19"
+  },
   {
    "ts": "2026-10-01T19:49:07+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103256",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103256:2026-10-01T11:19"
-  },
-  {
-   "ts": "2026-10-01T11:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103255 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-103255 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True n8n versions before 1.123.80, from 2.0.0 before 2.39.6, and from 2.40.0 before 2.40.1 ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103255",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103255:2026-10-01T11:19"
-  },
-  {
-   "ts": "2026-10-01T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103254 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-103254 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True n8n versions before 1.123.80, from 2.0.0 before 2.39.6, and from 2.40.0 before 2.40.1 cont",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103254",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103254:2026-10-01T11:19"
-  },
-  {
-   "ts": "2026-10-01T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103253 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-103253 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True n8n versions before 1.123.80, from 2.0.0 before 2.39.6, and from 2.40.0 before 2.40.1 co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103253",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103253:2026-10-01T11:19"
   }
  ]
 }
