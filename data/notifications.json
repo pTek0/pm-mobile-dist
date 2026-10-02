@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-02T20:19:08+00:00",
+ "generated_at": "2026-10-02T20:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T20:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75937 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-75937 📢 Source: Digi 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False A specially crafted HTTP POST request to the web administration interface allows an unaut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75937",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75937:2026-10-02T20:49"
+  },
+  {
+   "ts": "2026-10-02T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82045 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-82045 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True UTMStack before 11.2.16 contains a JPQL injection vulnerability that allows authenticated",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82045",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82045:2026-10-02T20:49"
+  },
+  {
+   "ts": "2026-10-02T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82044 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-82044 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True UTMStack before 11.2.16 contains a server-side request forgery vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82044",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82044:2026-10-02T20:49"
+  },
+  {
+   "ts": "2026-10-02T20:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82042 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82042 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True UTMStack before 11.2.16 contains an authentication bypass vulnerability that allows r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82042",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82042:2026-10-02T20:49"
+  },
+  {
+   "ts": "2026-10-02T20:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82041 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-82041 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True UTMStack before 11.2.16 contains a missing authorization vulnerability in UTMIncident",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82041",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82041:2026-10-02T20:49"
+  },
   {
    "ts": "2026-10-02T20:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94636",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94636:2026-10-02T12:19"
-  },
-  {
-   "ts": "2026-10-02T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Who's hiring? Q4 2026",
-   "body": "Lobsters · 점수 51",
-   "link": "https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026",
-   "source": "Lobsters",
-   "id": "community:https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026:2026-10-02T12:19"
-  },
-  {
-   "ts": "2026-10-02T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104423 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-104423 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Zebra (zebrad) before 6.2.1 contains an asymmetric resource consumption vulnerability th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104423",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104423:2026-10-02T11:49"
-  },
-  {
-   "ts": "2026-10-02T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104422 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-104422 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The block sync download path in Zebra (zebrad) before 6.3.0 reads a block's height from ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104422",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104422:2026-10-02T11:49"
-  },
-  {
-   "ts": "2026-10-02T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104418 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-104418 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Ghost from 6.10.3 before 6.64.0 contains a remote code execution vulnerability that allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104418",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104418:2026-10-02T11:49"
-  },
-  {
-   "ts": "2026-10-02T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104416 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-104416 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Ghost from 4.39.0 before 6.64.0 contains an information disclosure vulnerability in the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104416",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104416:2026-10-02T11:49"
   }
  ]
 }
