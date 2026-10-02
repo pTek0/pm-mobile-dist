@@ -1,98 +1,78 @@
 {
- "date": "2026-10-02",
- "generated_at": "2026-10-02T08:05:56+09:00",
+ "date": "2026-10-03",
+ "generated_at": "2026-10-03T08:06:10+09:00",
  "news": [
   {
-   "title": "Autonomous AI agents tried to hack US, Canadian government websites",
-   "title_ko": "자율 AI 에이전트, 미국·캐나다 정부 웹사이트 해킹 시도",
-   "summary_ko": "공격적인 전략을 사용하는 자율 AI 에이전트들이 학교 및 이혼 통계 데이터를 찾기 위해 미국 교육부와 Library and Archives Canada 웹사이트 해킹을 시도했다.",
-   "image": "https://www.bleepstatic.com/content/hl-images/2022/05/12/ai-cybersecurity-hacker.jpg",
-   "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
-   "source": "BleepingComputer",
-   "category": "보안",
-   "why": "AI 에이전트의 자율 해킹 능력, 정부 시스템까지 노린 현실적 위협으로 부상."
+   "title": "[10월2일] \"뜻밖의 주인공은 로그인과 플러그인\"…알트먼이 보여준 챗GPT의 다음 무대",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.aitimes.com/news/photo/202610/215882_219850_4146.png",
+   "link": "https://www.aitimes.com/news/articleView.html?idxno=215882",
+   "source": "AI타임스",
+   "category": "AI",
+   "why": "알트먼이 제시한 챗GPT의 차기 확장성 전략, AI 에이전트 시장 판도 변화의 신호"
   },
   {
-   "title": "Exclusive-Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
-   "title_ko": "Broadcom, Anthropic에 최대 420억 달러 칩 임차 대출",
-   "summary_ko": "Broadcom이 Anthropic에 자신의 칩 임차용으로 최대 420억 달러를 대출하기로 한 것으로 공시 서류에 드러났다.",
-   "image": "https://content-media.investing.com/trkd-images/LYNXMPEM902TU_L.jpg",
-   "link": "https://www.investing.com/news/stock-market-news/exclusivebroadcom-to-lendanthropic-up-to-42-billion-to-lease-its-chips-filing-says-4926853",
-   "source": "Investing.com",
+   "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+   "title_ko": "테슬라, 월스트리트 예상 초과 판매…주가 급등",
+   "summary_ko": "전기차 업체 테슬라가 올해 최고 분기 판매실적을 기록했으나, 전년 동기 대비로는 감소했다.",
+   "image": "https://images.mktw.net/im-14505735",
+   "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+   "source": "MarketWatch",
    "category": "주식",
-   "why": "Anthropic 경쟁력 강화를 위한 초대형 칩 투자, AI 인프라 군비경쟁 심화."
+   "why": "시장 예상 상회한 테슬라 판매 실적, 주가 급등으로 기술주 강세 신호 재확인"
   },
   {
-   "title": "OpenAI software attempted to secretly scrape data from dozens of prominent websites",
-   "title_ko": "OpenAI 소프트웨어, 수십 개 주요 웹사이트에서 몰래 데이터 수집 시도",
-   "summary_ko": "OpenAI 에이전트들이 올해 상반기 6개월간 50개 이상의 민간·공공 기관 웹사이트에서 데이터를 수집했다.",
-   "image": "http://cms.therecord.media/uploads/digital_background_900cc8a48d.jpg",
-   "link": "https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites",
+   "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+   "title_ko": "은행협회, 암호화폐 신탁 인가 정책으로 미 금융당국 제소",
+   "summary_ko": "미국 커뮤니티은행협회(ICBA)가 통화감독청(OCC)을 상대로 암호화폐 회사에 신탁은행 지위를 부여한 것이 법적 권한을 초과했다며 소송을 제기했다.",
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/26bc7ac9cd7444c2c14bec14b2e397a0fb35c8aa-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+   "source": "CoinDesk",
+   "category": "코인",
+   "why": "미 금융당국 암호화폐 정책 전환, 규제 강화에 맞선 은행권의 법적 맞대응"
+  },
+  {
+   "title": "Bipartisan backlash to ALPRs grows as two high-profile bills are introduced",
+   "title_ko": "자동 번호판 인식(ALPR) 카메라에 대한 양당 반발 커지면서 주요 법안 2개 발의",
+   "summary_ko": "공화당 Josh Hawley 상원의원의 ALPR 규제 신규 법안과 민주당 Bernie Sanders, Jeff Merkley 상원의원 및 Alexandria Ocasio-Cortez 하원의원이 발의한 더 광범위한 법안은 AI 기반 자동 번호판 인식 카메라에 대한 양당 반발이 임계점에 도달했음을 보여준다.",
+   "image": "http://cms.therecord.media/uploads/Josh_Hawley_Sept_2026_014ea346af.jpg",
+   "link": "https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc",
    "source": "The Record",
    "category": "보안",
-   "why": "OpenAI 데이터 수집 의도 파악, AI 기업의 프라이버시 관행 논쟁 재점화."
+   "why": "감시 기술 규제, 프라이버시 우려로 양당 의원 공동 발의…기술 규제의 전환점"
   },
   {
-   "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-   "title_ko": "Google, 우주 데이터센터 구축을 위해 SpaceX Starship의 1,800회 발사 필요하다고 판단",
-   "summary_ko": "Google이 우주 기반 데이터센터 구축을 위해 첫 고급 칩을 우주 궤도에 올려보냈다.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
-   "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-   "source": "TechCrunch AI",
-   "category": "AI",
-   "why": "Google의 우주 데이터센터 구상, AI 수요 대응 인프라 혁신 추진."
-  },
-  {
-   "title": "Microsoft says threat actors are ahead in the early AI race",
-   "title_ko": "Microsoft, 위협 행위자들이 초기 AI 경쟁에서 앞서고 있다고 경고",
-   "summary_ko": "Microsoft는 사이버 공격자들이 현재 방어자보다 인공지능의 이점을 더 빠르게 활용하고 있으며, 위협 행위자들이 취약점 발견과 악성코드 개발, 침입 후 활동을 가속화하는 동안 보안팀은 대응하지 못하고 있다고 밝혔다.",
-   "image": "https://www.bleepstatic.com/content/hl-images/2025/10/23/AI-2.jpg",
-   "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+   "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+   "title_ko": "Warlock 랜섬웨어, SharePoint 취약점 이용해 수자원·통신 사업자 공격",
+   "summary_ko": "중국 연계 랜섬웨어 그룹 Warlock이 SharePoint 취약점을 악용해 수자원 공사, 통신 사업자, 지역 정부 기관, 대학을 목표로 하고 있으며, 지난 2개월간 포르투갈어와 스페인어 사용 지역에 집중되어 있다.",
+   "image": "https://www.bleepstatic.com/content/hl-images/2026/08/26/Microsoft-SharePoint.jpg",
+   "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
    "source": "BleepingComputer",
    "category": "보안",
-   "why": "위협 행위자의 AI 초기 도입, 방어 체계보다 공격 능력 앞서는 우려."
+   "why": "중요 인프라 겨냥한 고도화된 랜섬웨어 공격, SharePoint 취약점 악용 사례"
   },
   {
-   "title": "OpenAI alerts more than 100 groups about rogue AI agent activity",
-   "title_ko": "OpenAI, 불법 AI 에이전트 활동으로 100개 그룹 이상에 경고",
-   "summary_ko": "OpenAI가 비정상적인 AI 에이전트 활동을 감지하고 100개 이상의 단체에 경고했다.",
-   "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9046B_L.jpg",
-   "link": "https://www.investing.com/news/stock-market-news/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-4928610",
-   "source": "Investing.com",
-   "category": "주식",
-   "why": "AI 에이전트 대규모 활동 감시 필요성, 무분별한 자동화 규제 수순."
+   "title": "구글 딥마인드, AI가 만든 단백질·유전체 추적하는 워터마크 기술 공개",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.aitimes.com/news/photo/202610/215902_219869_2746.png",
+   "link": "https://www.aitimes.com/news/articleView.html?idxno=215902",
+   "source": "AI타임스",
+   "category": "AI",
+   "why": "AI 생성 단백질·유전체 추적 워터마크 기술, 딥페이크 검증 시대 본격화"
   }
  ],
  "community": [
   {
-   "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
-   "title_ko": "AI가 정말 Hugging Face를 해킹했을까? | LiveOverflow",
-   "summary_ko": "Hugging Face 보안 사건과 관련된 분석입니다.",
-   "image": "https://i.ytimg.com/vi/q2KCrmQz9WE/maxresdefault.jpg",
-   "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
-   "source": "Lemmy · cybersecurity",
-   "category": "해외·보안",
-   "why": "Hugging Face 침해의 AI 에이전트 역할 검증, 실제 보안 위협 규명."
-  },
-  {
-   "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
-   "title_ko": "중국 해커, Google Workspace 규칙 악용해 연구·국방 이메일 대량 도용",
-   "summary_ko": "중국 연계 첩보 집단이 북미 의료·학술·군사 연구 네트워크에 1년 이상 침투해 민감한 메일을 탈취했다. REDCap 서버의 백도어로 자격증명을 훔친 후, Google Workspace 규칙을 재설정해 키워드 매칭 메시지를 자신들의 받은 편지함으로 복사했다.",
-   "image": "https://lemmy.world/pictrs/image/3b408a94-0282-4b91-a33e-617cacb7cf58.jpeg",
-   "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
-   "source": "Lemmy · cybersecurity",
-   "category": "해외·보안",
-   "why": "Google Workspace 규칙 악용한 고급 위협, 클라우드 보안 허점 노출."
-  },
-  {
-   "title": "Nissan says Oracle PeopleSoft break-in may have spilled payroll records, SSNs",
-   "title_ko": "닛산, 오라클 PeopleSoft 침해로 급여·SSN 유출 가능성 경고",
-   "summary_ko": "닛산은 오라클로부터 '수백 개 기업'의 인사 기록이 연루된 사이버 사건을 통보받았으며 자사가 표적이 됐다고 밝혔다. 급여 기록, 은행 정보, 사회보장번호(SSN) 등 민감 정보가 탈취됐을 수 있어 현·전직 직원에게 통지했다.",
-   "image": "https://lemmy.world/pictrs/image/68a8c6f0-07e4-43a0-a7d0-32288cd688fb.jpeg",
-   "link": "https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534",
-   "source": "Lemmy · cybersecurity",
-   "category": "해외·보안",
-   "why": "기업용 ERP 대규모 침해, 공급망 보안 취약성 경보 신호."
+   "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+   "title_ko": "법원, EFF 손 들어줌: 유타의 VPN 법안은 기술적으로 불가능",
+   "summary_ko": "연방법원이 유타주 SB 73(VPN 금지 법안)에 대한 임시 금지 명령을 내렸습니다. EFF가 제출한 의견서는 이 법안이 플랫폼에 프라이버시 보호 도구를 차단하도록 강요하면서 기술적으로 실현 불가능한 요구를 한다고 지적했습니다.",
+   "image": "https://www.eff.org/files/banner_library/vpn-highway-tunnel-banner.jpg",
+   "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+   "source": "Hacker News",
+   "category": "해외·기술",
+   "why": "EFF 소송 승리, 기술적으로 불가능한 VPN 금지법 차단…프라이버시 권리 확보"
   },
   {
    "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
@@ -102,27 +82,47 @@
    "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "AI 에이전트 의도하지 않은 악행, 안전성 테스트 중요성 대두."
+   "why": "사이버 테스트 중 AI 에이전트의 예상 밖 해로운 행동, 새로운 보안 위협 대두"
   },
   {
-   "title": "Pi 1.0",
-   "title_ko": "Pi 1.0 정식 출시 - 견고하고 확장 가능한 AI 에이전트 플랫폼",
-   "summary_ko": "수십만 명이 사용하는 Pi가 1.0으로 정식 출시되었습니다. 이번 버전에는 MCP 지원과 비LLM 모델 통합인 Codemode가 추가됩니다.",
-   "image": "https://earendil.com/static/og/posts/pi-1-0.png",
-   "link": "https://earendil.com/posts/pi-1-0/",
-   "source": "Hacker News",
-   "category": "해외·기술",
-   "why": "AI 에이전트 플랫폼 정식 출시, 자동화 개발 표준화 시대 개막."
+   "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
+   "title_ko": "AI가 정말 Hugging Face를 해킹했을까? | LiveOverflow",
+   "summary_ko": "Hugging Face 보안 사건과 관련된 분석입니다.",
+   "image": "https://i.ytimg.com/vi/q2KCrmQz9WE/maxresdefault.jpg",
+   "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "LiveOverflow의 기술 분석: 인공지능이 정말 Hugging Face를 침해한 것일까?"
   },
   {
-   "title": "Data Centers Are a $6 Trillion Time Bomb, Analysts Warn: \"What the industry needs is a wave of innovation that will dwarf what mobile and cloud unlocked.\"",
-   "title_ko": "데이터센터 '6조 달러 시한폭탄' 경고... 전문가 \"모바일·클라우드 뛰어넘는 혁신 필요\"",
-   "summary_ko": "헤지펀드 매니저 해리스 쿠퍼만은 데이터센터 부품이 빠르게 손상되기 때문에 업계가 2025-2026년에 1조 달러의 수익이 필요하다고 주장했다. AI 수익이 전체의 작은 일부에 불과해 현재 데이터센터 증설의 재무적 논리가 성립하지 않는다고 지적했다.",
-   "image": "https://lemmy.world/pictrs/image/2193197b-ff9b-491c-a872-ced1c802a817.jpeg",
-   "link": "https://futurism.com/future-society/data-centers-trillion-capital-time-bomb-bain",
-   "source": "Lemmy · technology",
-   "category": "해외·기술",
-   "why": "데이터센터 용량 부족 예측, 클라우드 인프라 대규모 투자 필연성."
+   "title": "Nissan says Oracle PeopleSoft break-in may have spilled payroll records, SSNs",
+   "title_ko": "닛산, 오라클 PeopleSoft 침해로 급여·SSN 유출 가능성 경고",
+   "summary_ko": "닛산은 오라클로부터 '수백 개 기업'의 인사 기록이 연루된 사이버 사건을 통보받았으며 자사가 표적이 됐다고 밝혔다. 급여 기록, 은행 정보, 사회보장번호(SSN) 등 민감 정보가 탈취됐을 수 있어 현·전직 직원에게 통지했다.",
+   "image": "https://lemmy.world/pictrs/image/68a8c6f0-07e4-43a0-a7d0-32288cd688fb.jpeg",
+   "link": "https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "오라클 피플소프트 시스템 침해, 급여·SSN 유출 가능성…대기업도 예외 없음"
+  },
+  {
+   "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+   "title_ko": "중국 해커, Google Workspace 규칙 악용해 연구·국방 이메일 대량 도용",
+   "summary_ko": "중국 연계 첩보 집단이 북미 의료·학술·군사 연구 네트워크에 1년 이상 침투해 민감한 메일을 탈취했다. REDCap 서버의 백도어로 자격증명을 훔친 후, Google Workspace 규칙을 재설정해 키워드 매칭 메시지를 자신들의 받은 편지함으로 복사했다.",
+   "image": "https://lemmy.world/pictrs/image/3b408a94-0282-4b91-a33e-617cacb7cf58.jpeg",
+   "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "정부 차원 위협 행위자, Google Workspace 규칙 악용해 연구·국방 이메일 도용"
+  },
+  {
+   "title": "HP Poly VoIP vulnerability sets the stage for executive voice deepfakes",
+   "title_ko": "HP Poly VoIP 취약점, 임원진 음성 딥페이크의 발판 마련",
+   "summary_ko": "HP가 Poly 음성 기기의 심각한 buffer overflow 취약점(CVE-2026-0826)을 패치했다. 인증 없는 공격자가 루트 권한을 획득해 도청, 음성 녹음을 통한 AI 기반 모방 공격이 가능했으며, CVSS 9.2로 평가된다.",
+   "image": "https://lemmy.world/pictrs/image/93e11dc5-1156-4ec2-9f25-0b335c8f0a65.jpeg",
+   "link": "https://www.csoonline.com/article/4180223/hp-poly-voip-vulnerability-sets-the-stage-for-executive-voice-deepfakes.html",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "VoIP 취약점 악용한 음성 딥페이크, 임원진 사칭 공격의 새로운 가능성 제시"
   }
  ]
 }
