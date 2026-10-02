@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-02T00:49:08+00:00",
+ "generated_at": "2026-10-02T01:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T01:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103098 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-103098 📢 Source: GV 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Transmission of a sensitive key in the URL over an unencrypted HTTP connection. The request is ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103098",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103098:2026-10-02T01:19"
+  },
+  {
+   "ts": "2026-10-02T01:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103097 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-103097 📢 Source: GV 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An API key is hardcoded and retrievable from the application package. Since Android application",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103097",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103097:2026-10-02T01:19"
+  },
+  {
+   "ts": "2026-10-02T01:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103096 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-103096 📢 Source: GV 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True API key is hardcoded and retrievable from the application package. Since Android applications c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103096",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103096:2026-10-02T01:19"
+  },
   {
    "ts": "2026-10-02T00:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78578",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78578:2026-10-01T17:49"
-  },
-  {
-   "ts": "2026-10-01T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-68496 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-68496 📢 Source: HeroDevs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The Smile parser in FasterXML jackson-dataformats-binary never invokes StreamReadConstrain",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68496",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68496:2026-10-01T17:49"
-  },
-  {
-   "ts": "2026-10-01T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-68495 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-68495 📢 Source: HeroDevs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The CBOR parser in FasterXML jackson-dataformats-binary never invokes StreamReadConstraint",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68495",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68495:2026-10-01T17:49"
-  },
-  {
-   "ts": "2026-10-01T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104018 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-104018 📢 Source: WindRiver 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An improper privilege management vulnerability (CWE-269) exists in the command shell of ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104018",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104018:2026-10-01T17:49"
   }
  ]
 }
