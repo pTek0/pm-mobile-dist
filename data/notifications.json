@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-02T21:49:08+00:00",
+ "generated_at": "2026-10-02T22:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94593 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-94593 📢 Source: icscert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Armatura One's backup and restore routine records the full database connection command, in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94593",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94593:2026-10-02T22:19"
+  },
+  {
+   "ts": "2026-10-02T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94592 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-94592 📢 Source: icscert 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Armatura One's database initialization routine assigns a fixed, vendor-defined password to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94592",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94592:2026-10-02T22:19"
+  },
+  {
+   "ts": "2026-10-02T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94591 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-94591 📢 Source: icscert 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Armatura One stores database and message-broker credentials in an install configuration fi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94591",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94591:2026-10-02T22:19"
+  },
   {
    "ts": "2026-10-02T21:49:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94654",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94654:2026-10-02T12:49"
-  },
-  {
-   "ts": "2026-10-02T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85476 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-85476 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Loop with unreachable exit condition ('infinite loop') vulnerability in Apache Thrift c_glib",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85476",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85476:2026-10-02T12:49"
-  },
-  {
-   "ts": "2026-10-02T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94653 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-94653 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Inefficient Algorithmic Complexity vulnerability in Apache Thrift PHP bindings. This issue a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94653",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94653:2026-10-02T12:19"
-  },
-  {
-   "ts": "2026-10-02T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94648 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-94648 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling vulnerability in Apache Thrift dart bin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94648",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94648:2026-10-02T12:19"
   }
  ]
 }
