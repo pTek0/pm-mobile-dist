@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-02T09:19:08+00:00",
+ "generated_at": "2026-10-02T09:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94639 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-94639 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True improper handling of exceptional conditions, Allocation of resources without limits or throt",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94639",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94639:2026-10-02T09:49"
+  },
+  {
+   "ts": "2026-10-02T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94635 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-94635 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling, Improper handling of length parameter ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94635",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94635:2026-10-02T09:49"
+  },
+  {
+   "ts": "2026-10-02T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80298 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-80298 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80298",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80298:2026-10-02T09:49"
+  },
   {
    "ts": "2026-10-02T09:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-55393",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-55393:2026-10-01T20:49"
-  },
-  {
-   "ts": "2026-10-01T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102514 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-102514 📢 Source: Secur0 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Out-of-bounds Write (CWE-787) in the PEA archive extraction routine (pea.pas, unpea_proced",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102514",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102514:2026-10-01T20:49"
-  },
-  {
-   "ts": "2026-10-01T20:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-14984 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-14984 📢 Source: Mandiant 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False Cleartext transmission in the primary control endpoints of Teledyne FLIR Aware2 versi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14984",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14984:2026-10-01T20:19"
-  },
-  {
-   "ts": "2026-10-01T20:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14983 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-14983 📢 Source: Mandiant 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Missing authentication in the web interface in Teledyne FLIR Aware2 versions through 6.9.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14983",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14983:2026-10-01T20:19"
   }
  ]
 }
