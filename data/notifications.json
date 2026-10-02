@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-02T13:49:07+00:00",
+ "generated_at": "2026-10-02T14:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94422 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-94422 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An incorrect implementation of message filtering in xdg-dbus-proxy versions before 0.1.9 all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94422",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94422:2026-10-02T14:19"
+  },
   {
    "ts": "2026-10-02T13:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85493",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85493:2026-10-02T11:19"
-  },
-  {
-   "ts": "2026-10-02T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Several vulnerabilities have been discovered in the Linux ke",
-   "body": "Hacker News · 점수 327",
-   "link": "https://lwn.net/Articles/1097401/",
-   "source": "Hacker News",
-   "id": "community:https://lwn.net/Articles/1097401/:2026-10-02T11:19"
   }
  ]
 }
