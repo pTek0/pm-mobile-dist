@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-02T17:49:07+00:00",
+ "generated_at": "2026-10-02T18:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T18:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-102795 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-102795 📢 Source: apache 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Access Control vulnerability in Apache Traffic Server. This issue affects Apac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102795",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102795:2026-10-02T18:19"
+  },
   {
    "ts": "2026-10-02T17:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-96990",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96990:2026-10-02T11:19"
-  },
-  {
-   "ts": "2026-10-02T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94642 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-94642 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Uncaught exception vulnerability in Apache Thrift PHP bindings. This issue affects Apache Th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94642",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94642:2026-10-02T11:19"
   }
  ]
 }
