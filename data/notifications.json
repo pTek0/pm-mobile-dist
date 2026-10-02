@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-02T07:49:08+00:00",
+ "generated_at": "2026-10-02T08:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18036 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-18036 📢 Source: bcorg 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Bouncy Castle for Java before 1.86, NTRU reduced secret values with the % operator in thre",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18036",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18036:2026-10-02T08:19"
+  },
   {
    "ts": "2026-10-02T07:19:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103484",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103484:2026-10-01T20:19"
-  },
-  {
-   "ts": "2026-10-01T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-104286 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-104286 📢 Source: fortinet 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An improper limitation of a pathname to a restricted directory ('path traversal') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104286",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104286:2026-10-01T19:49"
   }
  ]
 }
