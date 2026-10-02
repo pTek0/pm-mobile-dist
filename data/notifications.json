@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-10-02T23:19:07+00:00",
+ "generated_at": "2026-10-02T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T23:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104478 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-104478 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Formwork before 2.3.13 contains a path traversal vulnerability in BackupController that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104478",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104478:2026-10-02T23:49"
+  },
+  {
+   "ts": "2026-10-02T23:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104476 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-104476 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Backdrop CMS before 1.35.1 contains an information disclosure vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104476",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104476:2026-10-02T23:49"
+  },
+  {
+   "ts": "2026-10-02T23:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104433 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-104433 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Mooncake transfer engine before 0.3.12 contains an out-of-bounds read vulnerability in t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104433",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104433:2026-10-02T23:49"
+  },
+  {
+   "ts": "2026-10-02T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] FLUX 3 Image",
+   "body": "Hacker News · 점수 242",
+   "link": "https://bfl.ai/models/flux-3-image",
+   "source": "Hacker News",
+   "id": "community:https://bfl.ai/models/flux-3-image:2026-10-02T23:49"
+  },
+  {
+   "ts": "2026-10-02T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The Legend of von Neumann (1973) [pdf]",
+   "body": "Hacker News · 점수 229",
+   "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+   "source": "Hacker News",
+   "id": "community:https://gwern.net/doc/math/1973-halmos.pdf:2026-10-02T23:49"
+  },
+  {
+   "ts": "2026-10-02T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Show HN: Giving Opus 5.5 a simulated paint canvas",
+   "body": "Hacker News · 점수 173",
+   "link": "https://stillwet.art/",
+   "source": "Hacker News",
+   "id": "community:https://stillwet.art/:2026-10-02T23:49"
+  },
+  {
+   "ts": "2026-10-02T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Bernie Sanders, AOC, and Jeff Merkley Introduce the Ban Floc",
+   "body": "Lemmy · technology · 점수 172",
+   "link": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-merkley-unveil-ban-flock-act-to-protect-americans-right-to-privacy/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-merkley-unveil-ban-flock-act-to-protect-americans-right-to-privacy/:2026-10-02T23:49"
+  },
+  {
+   "ts": "2026-10-02T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Sites in ChatGPT",
+   "body": "Hacker News · 점수 172",
+   "link": "https://chatgpt.com/features/sites/",
+   "source": "Hacker News",
+   "id": "community:https://chatgpt.com/features/sites/:2026-10-02T23:49"
+  },
   {
    "ts": "2026-10-02T23:19:07+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-61374",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-61374:2026-10-02T13:19"
-  },
-  {
-   "ts": "2026-10-02T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-83663 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-83663 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Uncontrolled Recursion vulnerability in Apache Thrift go bindings. Both Go transports satisf",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83663",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83663:2026-10-02T12:49"
-  },
-  {
-   "ts": "2026-10-02T12:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-83632 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-83632 📢 Source: apache 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling, Integer overflow or wraparound, He",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83632",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83632:2026-10-02T12:49"
-  },
-  {
-   "ts": "2026-10-02T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66859 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-66859 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True NULL Pointer Dereference, Use of Uninitialized Variable vulnerability in Apache Thrift c_gli",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66859",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66859:2026-10-02T12:49"
-  },
-  {
-   "ts": "2026-10-02T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66858 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-66858 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The protocol skip routine in several Apache Thrift bindings did not apply the binding's recu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66858",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66858:2026-10-02T12:49"
-  },
-  {
-   "ts": "2026-10-02T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66837 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-66837 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Stack-based Buffer Overflow, Integer Overflow or Wraparound vulnerability in Apache Thrift p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66837",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66837:2026-10-02T12:49"
-  },
-  {
-   "ts": "2026-10-02T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66081 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-66081 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Access of Uninitialized Pointer vulnerability in Apache Thrift c_glib bindings. This issue a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66081",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66081:2026-10-02T12:49"
-  },
-  {
-   "ts": "2026-10-02T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96289 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-96289 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Uncontrolled Recursion vulnerability in Apache Thrift PHP bindings. This issue affects Apach",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96289",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96289:2026-10-02T12:49"
-  },
-  {
-   "ts": "2026-10-02T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96287 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-96287 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Inefficient Algorithmic Complexity vulnerability in Apache Thrift Perl bindings. This issue ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96287",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96287:2026-10-02T12:49"
   }
  ]
 }
