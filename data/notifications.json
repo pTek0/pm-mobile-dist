@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-02T01:19:08+00:00",
+ "generated_at": "2026-10-02T01:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T01:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-104480 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-104480 📢 Source: Bugcrowd 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False Discord libdave before 1.2.0 did not reject an MLS Welcome message when the resultin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104480",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104480:2026-10-02T01:49"
+  },
   {
    "ts": "2026-10-02T01:19:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-97662",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97662:2026-10-01T17:49"
-  },
-  {
-   "ts": "2026-10-01T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78578 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-78578 📢 Source: TPLink 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Tapo C120 v1 and C200 v5 do not enforce authentication for do method HTTPS onboarding conne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78578",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78578:2026-10-01T17:49"
   }
  ]
 }
