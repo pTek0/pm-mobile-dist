@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-02T06:49:08+00:00",
+ "generated_at": "2026-10-02T07:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T07:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-63569 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-63569 📢 Source: bcorg 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Improper input validation in DHAgreement.CalculateAgreement (MTI/A0 two-pass Diffie-Hellm",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63569",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63569:2026-10-02T07:19"
+  },
+  {
+   "ts": "2026-10-02T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63568 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-63568 📢 Source: bcorg 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling in the CMP/CRMF password-based MAC verif",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63568",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63568:2026-10-02T07:19"
+  },
+  {
+   "ts": "2026-10-02T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63567 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-63567 📢 Source: bcorg 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Observable discrepancy in IesEngine.DecryptBlock in Legion of the Bouncy Castle Inc. bc-cshar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63567",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63567:2026-10-02T07:19"
+  },
+  {
+   "ts": "2026-10-02T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63566 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-63566 📢 Source: bcorg 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory allocation with excessive size value in the DTLS handshake reassembly (DtlsReliableHan",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63566",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63566:2026-10-02T07:19"
+  },
+  {
+   "ts": "2026-10-02T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16001 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-16001 📢 Source: bcorg 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Exposure of the message authentication key through the encryption keystream in the stream mod",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16001",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16001:2026-10-02T07:19"
+  },
+  {
+   "ts": "2026-10-02T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16000 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-16000 📢 Source: bcorg 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Missing cryptographic step in the DSTU 7624 CCM mode implementation (KCcmBlockCipher) in Legi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16000",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16000:2026-10-02T07:19"
+  },
+  {
+   "ts": "2026-10-02T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15999 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-15999 📢 Source: bcorg 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Improper validation of integrity check value in the AES-CCM implementation (CcmParameters and",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15999",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15999:2026-10-02T07:19"
+  },
   {
    "ts": "2026-10-02T01:49:07+00:00",
    "level": "important",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-104286",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104286:2026-10-01T19:49"
-  },
-  {
-   "ts": "2026-10-01T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84682 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-84682 📢 Source: TPLink 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False A command injection vulnerability exists in the TDDPv2 service (/usr/bin/tddp) on Archer AX",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84682",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84682:2026-10-01T19:19"
-  },
-  {
-   "ts": "2026-10-01T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15911 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-15911 📢 Source: ibm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Confluent Kafka Python client's HashiCorp Vault KMS integration could allow a remote attacker t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15911",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15911:2026-10-01T18:49"
-  },
-  {
-   "ts": "2026-10-01T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-8618 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-8618 📢 Source: TPLink 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False A stack-based buffer overflow vulnerability exists in the TDDPv2 service (/usr/bin/tddp) on ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8618",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8618:2026-10-01T18:49"
-  },
-  {
-   "ts": "2026-10-01T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104059 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-104059 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Lektor 3.3.14 and 3.4.0b15 contains a cross-site request forgery vulnerability in the ad",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104059",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104059:2026-10-01T18:49"
-  },
-  {
-   "ts": "2026-10-01T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104057 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-104057 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Podgrab contains an unauthenticated denial-of-service vulnerability caused by unsynchron",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104057",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104057:2026-10-01T18:49"
-  },
-  {
-   "ts": "2026-10-01T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-9032 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-9032 📢 Source: TPLink 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Tapo C120 v1 and C200 v5 contain a NULL pointer dereference in the HTTPS onboarding connect ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9032",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9032:2026-10-01T17:49"
-  },
-  {
-   "ts": "2026-10-01T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97662 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-97662 📢 Source: AMZN 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False An argument injection issue in the diff scan operation in AWS security-agent-mcp-server befor",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97662",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97662:2026-10-01T17:49"
   }
  ]
 }
