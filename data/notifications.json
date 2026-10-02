@@ -1,7 +1,157 @@
 {
- "generated_at": "2026-10-02T11:19:08+00:00",
+ "generated_at": "2026-10-02T11:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104423 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-104423 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Zebra (zebrad) before 6.2.1 contains an asymmetric resource consumption vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104423",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104423:2026-10-02T11:49"
+  },
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104422 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-104422 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The block sync download path in Zebra (zebrad) before 6.3.0 reads a block's height from ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104422",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104422:2026-10-02T11:49"
+  },
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104418 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-104418 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Ghost from 6.10.3 before 6.64.0 contains a remote code execution vulnerability that allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104418",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104418:2026-10-02T11:49"
+  },
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104416 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-104416 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Ghost from 4.39.0 before 6.64.0 contains an information disclosure vulnerability in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104416",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104416:2026-10-02T11:49"
+  },
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104414 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-104414 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Ghost from 2.5.0 before 6.64.0 contains a stored cross-site scripting vulnerability that",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104414",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104414:2026-10-02T11:49"
+  },
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104413 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-104413 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Ghost from 5.94.0 before 6.64.0 contains a stored cross-site scripting vulnerability tha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104413",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104413:2026-10-02T11:49"
+  },
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104411 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-104411 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Ghost from 6.22.1 before 6.64.0 contains a stored cross-site scripting vulnerability tha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104411",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104411:2026-10-02T11:49"
+  },
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104410 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-104410 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan before 3.8.5 contains an information disclosure vulnerability that allows publish",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104410",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104410:2026-10-02T11:49"
+  },
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82459 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-82459 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Integer underflow (wrap or wraparound), Out-of-bounds write vulnerability in Apache Thrift C",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82459",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82459:2026-10-02T11:49"
+  },
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82458 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-82458 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory allocation with excessive size value, Allocation of resources without limits or throt",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82458",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82458:2026-10-02T11:49"
+  },
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Anthropic is urging the Australian government to give it app",
+   "body": "Lemmy · technology · 점수 88",
+   "link": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news:2026-10-02T11:49"
+  },
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Become worthless (to tech companies) • Cory Dransfeldt",
+   "body": "Lemmy · technology · 점수 72",
+   "link": "https://www.coryd.dev/posts/2026/become-worthless-to-tech-companies",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.coryd.dev/posts/2026/become-worthless-to-tech-companies:2026-10-02T11:49"
+  },
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Announcing Rust 1.99.0",
+   "body": "Lobsters · 점수 61",
+   "link": "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
+   "source": "Lobsters",
+   "id": "community:https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/:2026-10-02T11:49"
+  },
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Protests against OpenAI get increasingly creative",
+   "body": "Lemmy · technology · 점수 53",
+   "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/:2026-10-02T11:49"
+  },
+  {
+   "ts": "2026-10-02T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Git 3.0's upcoming SHA-256 default will be a costly mistake",
+   "body": "Lobsters · 점수 52",
+   "link": "https://blog.gitbutler.com/git-3-sha-256",
+   "source": "Lobsters",
+   "id": "community:https://blog.gitbutler.com/git-3-sha-256:2026-10-02T11:49"
+  },
   {
    "ts": "2026-10-02T11:19:07+00:00",
    "level": "general",
@@ -351,156 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103098",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103098:2026-10-02T01:19"
-  },
-  {
-   "ts": "2026-10-02T01:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103097 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-103097 📢 Source: GV 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An API key is hardcoded and retrievable from the application package. Since Android application",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103097",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103097:2026-10-02T01:19"
-  },
-  {
-   "ts": "2026-10-02T01:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103096 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-103096 📢 Source: GV 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True API key is hardcoded and retrievable from the application package. Since Android applications c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103096",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103096:2026-10-02T01:19"
-  },
-  {
-   "ts": "2026-10-02T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Quick, someone release Chatbot 2000!",
-   "body": "Lemmy · programming.dev · 점수 69",
-   "link": "https://lemmy.world/pictrs/image/91a565b9-4076-4d09-9bad-02428fbf724c.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/91a565b9-4076-4d09-9bad-02428fbf724c.png:2026-10-02T00:49"
-  },
-  {
-   "ts": "2026-10-02T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Overnight, Meta deleted all her accounts. AI customer servic",
-   "body": "Lemmy · technology · 점수 55",
-   "link": "https://www.cbc.ca/lite/story/9.7364543",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.cbc.ca/lite/story/9.7364543:2026-10-02T00:49"
-  },
-  {
-   "ts": "2026-10-02T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ask HN: Who is hiring? (October 2026)",
-   "body": "Hacker News · 점수 130",
-   "link": "https://news.ycombinator.com/item?id=49922569",
-   "source": "Hacker News",
-   "id": "community:https://news.ycombinator.com/item?id=49922569:2026-10-02T00:19"
-  },
-  {
-   "ts": "2026-10-02T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] IANA's email about why example.com changed",
-   "body": "Lobsters · 점수 103",
-   "link": "https://www.oliverdunk.com/2026/09/30/iana-reply",
-   "source": "Lobsters",
-   "id": "community:https://www.oliverdunk.com/2026/09/30/iana-reply:2026-10-02T00:19"
-  },
-  {
-   "ts": "2026-10-02T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Data Centers Are a $6 Trillion Time Bomb, Analysts Warn: \"Wh",
-   "body": "Lemmy · technology · 점수 97",
-   "link": "https://futurism.com/future-society/data-centers-trillion-capital-time-bomb-bain",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/future-society/data-centers-trillion-capital-time-bomb-bain:2026-10-02T00:19"
-  },
-  {
-   "ts": "2026-10-02T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] NYC is now the first city in America that bans sketchy subsc",
-   "body": "Lemmy · technology · 점수 91",
-   "link": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule:2026-10-02T00:19"
-  },
-  {
-   "ts": "2026-10-02T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Micron CEO Says Memory Supply Will Be Much Tighter in 2027 a",
-   "body": "Lemmy · technology · 점수 72",
-   "link": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026:2026-10-02T00:19"
-  },
-  {
-   "ts": "2026-10-01T23:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-86345 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-86345 📢 Source: redhat 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in 389-ds-base. The server does not discard plaintext bytes already buffe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86345",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86345:2026-10-01T23:49"
-  },
-  {
-   "ts": "2026-10-01T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103766 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-103766 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True ClipBucket v5 through 5.5.3-#197 contains an sql injection vulnerability that allows aut",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103766",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103766:2026-10-01T23:49"
-  },
-  {
-   "ts": "2026-10-01T23:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103765 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-103765 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Mooncake through 0.3.13.post1 contains a missing authentication vulnerability in the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103765",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103765:2026-10-01T23:49"
-  },
-  {
-   "ts": "2026-10-01T23:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103764 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-103764 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Mooncake transfer engine before 0.3.13 contains an untrusted pointer dereference in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103764",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103764:2026-10-01T23:49"
-  },
-  {
-   "ts": "2026-10-01T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Cloudflare K2: serverless event streams",
-   "body": "Hacker News · 점수 175",
-   "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
-   "source": "Hacker News",
-   "id": "community:https://blog.cloudflare.com/cloudflare-k2-streams/:2026-10-01T23:49"
-  },
-  {
-   "ts": "2026-10-01T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GPT-Synopsys: Frontier Intelligence to Revolutionize Chip De",
-   "body": "Hacker News · 점수 159",
-   "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-   "source": "Hacker News",
-   "id": "community:https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design:2026-10-01T23:49"
   }
  ]
 }
