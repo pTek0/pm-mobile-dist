@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-02T08:49:08+00:00",
+ "generated_at": "2026-10-02T09:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80443 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-80443 📢 Source: TR-CERT 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Improper certificate validation vulnerability in HAVELSAN Inc. Sef - AI Chatbot Platform al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80443",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80443:2026-10-02T09:19"
+  },
   {
    "ts": "2026-10-02T08:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14983",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14983:2026-10-01T20:19"
-  },
-  {
-   "ts": "2026-10-01T20:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103484 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-103484 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False IVFFlat index build in pgvector before 0.8.7 allows a database user to write data out-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103484",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103484:2026-10-01T20:19"
   }
  ]
 }
