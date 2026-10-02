@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-02T15:49:08+00:00",
+ "generated_at": "2026-10-02T16:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96613 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-96613 📢 Source: icscert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True The Meari IoT Cloud Platform OpenAPI Service is vulnerable to an authorization flaw that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96613",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96613:2026-10-02T16:19"
+  },
+  {
+   "ts": "2026-10-02T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104912 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-104912 📢 Source: CIRCL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True MISP contains an authorization flaw in its correlation handling during attribute searches. W",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104912",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104912:2026-10-02T16:19"
+  },
+  {
+   "ts": "2026-10-02T16:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-103648 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-103648 📢 Source: GitLab 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Path traversal in image-downloader 4.3.0 allows an attacker who can control the downloa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103648",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103648:2026-10-02T16:19"
+  },
+  {
+   "ts": "2026-10-02T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101104 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-101104 📢 Source: icscert 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True The Meari IoT Cloud Platform OpenAPI Service is vulnerable to an authorization flaw that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101104",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101104:2026-10-02T16:19"
+  },
   {
    "ts": "2026-10-02T14:49:06+00:00",
    "level": "important",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94650",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94650:2026-10-02T11:19"
-  },
-  {
-   "ts": "2026-10-02T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94645 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-94645 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Improper validation of specified quantity in input, Allocation of resources without limits o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94645",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94645:2026-10-02T11:19"
-  },
-  {
-   "ts": "2026-10-02T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94644 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-94644 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling vulnerability in Apache Thrift PHP bind",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94644",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94644:2026-10-02T11:19"
-  },
-  {
-   "ts": "2026-10-02T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94651 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-94651 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True improper handling of exceptional conditions, Missing release of resource after effective lif",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94651",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94651:2026-10-02T11:19"
-  },
-  {
-   "ts": "2026-10-02T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85494 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-85494 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Improper handling of length parameter inconsistency, Uncaught exception, Inefficient Algorit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85494",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85494:2026-10-02T11:19"
   }
  ]
 }
