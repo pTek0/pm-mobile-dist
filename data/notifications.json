@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-01T23:49:10+00:00",
+ "generated_at": "2026-10-02T00:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Ask HN: Who is hiring? (October 2026)",
+   "body": "Hacker News · 점수 130",
+   "link": "https://news.ycombinator.com/item?id=49922569",
+   "source": "Hacker News",
+   "id": "community:https://news.ycombinator.com/item?id=49922569:2026-10-02T00:19"
+  },
+  {
+   "ts": "2026-10-02T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] IANA's email about why example.com changed",
+   "body": "Lobsters · 점수 103",
+   "link": "https://www.oliverdunk.com/2026/09/30/iana-reply",
+   "source": "Lobsters",
+   "id": "community:https://www.oliverdunk.com/2026/09/30/iana-reply:2026-10-02T00:19"
+  },
+  {
+   "ts": "2026-10-02T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Data Centers Are a $6 Trillion Time Bomb, Analysts Warn: \"Wh",
+   "body": "Lemmy · technology · 점수 97",
+   "link": "https://futurism.com/future-society/data-centers-trillion-capital-time-bomb-bain",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/future-society/data-centers-trillion-capital-time-bomb-bain:2026-10-02T00:19"
+  },
+  {
+   "ts": "2026-10-02T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] NYC is now the first city in America that bans sketchy subsc",
+   "body": "Lemmy · technology · 점수 91",
+   "link": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule:2026-10-02T00:19"
+  },
+  {
+   "ts": "2026-10-02T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Micron CEO Says Memory Supply Will Be Much Tighter in 2027 a",
+   "body": "Lemmy · technology · 점수 72",
+   "link": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026:2026-10-02T00:19"
+  },
   {
    "ts": "2026-10-01T23:49:07+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102294",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102294:2026-10-01T17:49"
-  },
-  {
-   "ts": "2026-10-01T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2023-54404 (CVSS 8.2)",
-   "body": "🚨 CVE-2023-54404 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Zod schema-validation library through 4.6.5 contains an uncontrolled resource consumption",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2023-54404",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54404:2026-10-01T17:49"
-  },
-  {
-   "ts": "2026-10-01T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14316 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-14316 📢 Source: Fortra 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True The revoked-key error path builds a human-readable failure reason using sprintf() into a hea",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14316",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14316:2026-10-01T16:49"
-  },
-  {
-   "ts": "2026-10-01T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12544 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-12544 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False A flaw was found in Foreman. The foreman-rake initialization logic in /usr/share/foreman/co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12544",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12544:2026-10-01T16:49"
-  },
-  {
-   "ts": "2026-10-01T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12541 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-12541 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False A flaw was found in Foreman. OS command injection vulnerabilities exist in the foreman-rake",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12541",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12541:2026-10-01T16:49"
-  },
-  {
-   "ts": "2026-10-01T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12540 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-12540 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False A flaw was found in Foreman. A command injection vulnerability exists in the foreman-rake e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12540",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12540:2026-10-01T16:49"
   }
  ]
 }
