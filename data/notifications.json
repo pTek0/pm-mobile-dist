@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-02T11:49:09+00:00",
+ "generated_at": "2026-10-02T12:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94653 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-94653 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Inefficient Algorithmic Complexity vulnerability in Apache Thrift PHP bindings. This issue a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94653",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94653:2026-10-02T12:19"
+  },
+  {
+   "ts": "2026-10-02T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94648 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-94648 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling vulnerability in Apache Thrift dart bin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94648",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94648:2026-10-02T12:19"
+  },
+  {
+   "ts": "2026-10-02T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94646 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-94646 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Uncaught exception, Improper validation of specified quantity in input, Improperly controlle",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94646",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94646:2026-10-02T12:19"
+  },
+  {
+   "ts": "2026-10-02T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94637 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-94637 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Improper handling of highly compressed data (data amplification) vulnerability in Apache Thr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94637",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94637:2026-10-02T12:19"
+  },
+  {
+   "ts": "2026-10-02T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94636 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-94636 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Improper handling of highly compressed data (data amplification), Function call with incorre",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94636",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94636:2026-10-02T12:19"
+  },
+  {
+   "ts": "2026-10-02T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Who's hiring? Q4 2026",
+   "body": "Lobsters · 점수 51",
+   "link": "https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026",
+   "source": "Lobsters",
+   "id": "community:https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026:2026-10-02T12:19"
+  },
   {
    "ts": "2026-10-02T11:49:08+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-63567",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63567:2026-10-02T07:19"
-  },
-  {
-   "ts": "2026-10-02T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-63566 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-63566 📢 Source: bcorg 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory allocation with excessive size value in the DTLS handshake reassembly (DtlsReliableHan",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63566",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63566:2026-10-02T07:19"
-  },
-  {
-   "ts": "2026-10-02T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16001 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-16001 📢 Source: bcorg 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Exposure of the message authentication key through the encryption keystream in the stream mod",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16001",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16001:2026-10-02T07:19"
-  },
-  {
-   "ts": "2026-10-02T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16000 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-16000 📢 Source: bcorg 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Missing cryptographic step in the DSTU 7624 CCM mode implementation (KCcmBlockCipher) in Legi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16000",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16000:2026-10-02T07:19"
-  },
-  {
-   "ts": "2026-10-02T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15999 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-15999 📢 Source: bcorg 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Improper validation of integrity check value in the AES-CCM implementation (CcmParameters and",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15999",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15999:2026-10-02T07:19"
-  },
-  {
-   "ts": "2026-10-02T01:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-104480 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-104480 📢 Source: Bugcrowd 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False Discord libdave before 1.2.0 did not reject an MLS Welcome message when the resultin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104480",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104480:2026-10-02T01:49"
-  },
-  {
-   "ts": "2026-10-02T01:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103098 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-103098 📢 Source: GV 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Transmission of a sensitive key in the URL over an unencrypted HTTP connection. The request is ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103098",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103098:2026-10-02T01:19"
   }
  ]
 }
