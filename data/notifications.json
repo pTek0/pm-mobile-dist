@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-02T13:19:06+00:00",
+ "generated_at": "2026-10-02T13:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85215 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-85215 📢 Source: TR-CERT 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85215",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85215:2026-10-02T13:49"
+  },
   {
    "ts": "2026-10-02T13:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://lwn.net/Articles/1097401/",
    "source": "Hacker News",
    "id": "community:https://lwn.net/Articles/1097401/:2026-10-02T11:19"
-  },
-  {
-   "ts": "2026-10-02T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] System 76's COSMIC Desktop becomes the first major DE to tak",
-   "body": "Lemmy · programming.dev · 점수 322",
-   "link": "https://github.com/pop-os/cosmic-epoch/pull/3911",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://github.com/pop-os/cosmic-epoch/pull/3911:2026-10-02T11:19"
   }
  ]
 }
