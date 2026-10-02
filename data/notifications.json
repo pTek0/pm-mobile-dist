@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-02T10:19:08+00:00",
+ "generated_at": "2026-10-02T10:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T10:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-91135 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-91135 📢 Source: apache 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Heap-based buffer overflow vulnerability in Apache Thrift C++ THeaderTransport. When an ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91135",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91135:2026-10-02T10:49"
+  },
+  {
+   "ts": "2026-10-02T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94633 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-94633 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory allocation with excessive size value, Improper handling of length parameter inconsist",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94633",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94633:2026-10-02T10:49"
+  },
+  {
+   "ts": "2026-10-02T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93926 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93926 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Missing release of memory after effective lifetime, Missing release of resource after effect",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93926",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93926:2026-10-02T10:49"
+  },
+  {
+   "ts": "2026-10-02T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93925 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93925 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Stack-based buffer overflow, Incorrect bitwise shift of integer vulnerability in Apache Thri",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93925",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93925:2026-10-02T10:49"
+  },
+  {
+   "ts": "2026-10-02T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91137 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-91137 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Improper validation of specified quantity in input, Allocation of resources without limits o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91137",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91137:2026-10-02T10:49"
+  },
+  {
+   "ts": "2026-10-02T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86326 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-86326 📢 Source: Moxa 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An improper verification of cryptographic signature vulnerability exists in protocol gateways ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86326",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86326:2026-10-02T10:49"
+  },
+  {
+   "ts": "2026-10-02T10:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-86325 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-86325 📢 Source: Moxa 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True A stack-based buffer overflow vulnerability exists in protocol gateways' account managemen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86325",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86325:2026-10-02T10:49"
+  },
   {
    "ts": "2026-10-02T10:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86344",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86344:2026-10-01T21:49"
-  },
-  {
-   "ts": "2026-10-01T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-64893 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-64893 📢 Source: jci 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True - Cleartext Transmission of Sensitive Information vulnerability in Johnson Controls EasyIO NEO ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64893",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64893:2026-10-01T21:49"
-  },
-  {
-   "ts": "2026-10-01T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-34494 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-34494 📢 Source: jci 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True - On-Chip Debug Interface vulnerability in Johnson Controls Neo Series MVP2 allows Collect Data",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-34494",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34494:2026-10-01T21:49"
-  },
-  {
-   "ts": "2026-10-01T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104356 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-104356 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True PictShare before version 3.7.1 contains a weak randomness vulnerability where the getRan",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104356",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104356:2026-10-01T21:49"
-  },
-  {
-   "ts": "2026-10-01T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71451 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-71451 📢 Source: jci 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False - OS Command Injection vulnerability in Johnson Controls EasyIO FS32 allows - Command Injectio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71451",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71451:2026-10-01T21:19"
-  },
-  {
-   "ts": "2026-10-01T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104020 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-104020 📢 Source: AMZN 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Uncontrolled recursion in the Ion reader in Amazon Ion Python before 0.15.0 might allow a rem",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104020",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104020:2026-10-01T21:19"
-  },
-  {
-   "ts": "2026-10-01T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-55396 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-55396 📢 Source: Mandiant 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Cleartext transmission without a cryptographic integrity check in operator control unit t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-55396",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-55396:2026-10-01T20:49"
-  },
-  {
-   "ts": "2026-10-01T20:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-55395 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-55395 📢 Source: Mandiant 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False Hardcoded passwords in the access control in Teledyne FLIR Aware2 versions through 6.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-55395",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-55395:2026-10-01T20:49"
   }
  ]
 }
