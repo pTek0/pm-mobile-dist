@@ -1,7 +1,167 @@
 {
- "generated_at": "2026-10-02T12:19:08+00:00",
+ "generated_at": "2026-10-02T12:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-83663 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-83663 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Uncontrolled Recursion vulnerability in Apache Thrift go bindings. Both Go transports satisf",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83663",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83663:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-83632 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-83632 📢 Source: apache 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling, Integer overflow or wraparound, He",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83632",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83632:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66859 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-66859 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True NULL Pointer Dereference, Use of Uninitialized Variable vulnerability in Apache Thrift c_gli",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66859",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66859:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66858 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-66858 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The protocol skip routine in several Apache Thrift bindings did not apply the binding's recu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66858",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66858:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66837 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-66837 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Stack-based Buffer Overflow, Integer Overflow or Wraparound vulnerability in Apache Thrift p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66837",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66837:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66081 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-66081 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Access of Uninitialized Pointer vulnerability in Apache Thrift c_glib bindings. This issue a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66081",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66081:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96289 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-96289 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Uncontrolled Recursion vulnerability in Apache Thrift PHP bindings. This issue affects Apach",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96289",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96289:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96287 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-96287 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Inefficient Algorithmic Complexity vulnerability in Apache Thrift Perl bindings. This issue ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96287",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96287:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96286 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-96286 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Uncaught exception vulnerability in Apache Thrift Perl bindings. This issue affects Apache T",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96286",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96286:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96277 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-96277 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Uncaught exception, Improper Handling of Exceptional Conditions vulnerability in Apache Thri",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96277",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96277:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94658 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-94658 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Inefficient Algorithmic Complexity vulnerability in Apache Thrift Lua bindings. This issue a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94658",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94658:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94657 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-94657 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling vulnerability in Apache Thrift JavaME b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94657",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94657:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94656 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-94656 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling vulnerability in Apache Thrift ruby bin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94656",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94656:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94655 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-94655 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling, Inefficient Algorithmic Complexity vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94655",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94655:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94654 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-94654 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Loop with unreachable exit condition ('infinite loop') vulnerability in Apache Thrift python",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94654",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94654:2026-10-02T12:49"
+  },
+  {
+   "ts": "2026-10-02T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85476 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-85476 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Loop with unreachable exit condition ('infinite loop') vulnerability in Apache Thrift c_glib",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85476",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85476:2026-10-02T12:49"
+  },
   {
    "ts": "2026-10-02T12:19:07+00:00",
    "level": "general",
@@ -341,166 +501,6 @@
    "link": "https://www.deepseek.com/en/harness/",
    "source": "Hacker News",
    "id": "community:https://www.deepseek.com/en/harness/:2026-10-02T11:19"
-  },
-  {
-   "ts": "2026-10-02T10:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-91135 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-91135 📢 Source: apache 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Heap-based buffer overflow vulnerability in Apache Thrift C++ THeaderTransport. When an ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91135",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91135:2026-10-02T10:49"
-  },
-  {
-   "ts": "2026-10-02T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94633 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-94633 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory allocation with excessive size value, Improper handling of length parameter inconsist",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94633",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94633:2026-10-02T10:49"
-  },
-  {
-   "ts": "2026-10-02T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93926 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93926 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Missing release of memory after effective lifetime, Missing release of resource after effect",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93926",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93926:2026-10-02T10:49"
-  },
-  {
-   "ts": "2026-10-02T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93925 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93925 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Stack-based buffer overflow, Incorrect bitwise shift of integer vulnerability in Apache Thri",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93925",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93925:2026-10-02T10:49"
-  },
-  {
-   "ts": "2026-10-02T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91137 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-91137 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Improper validation of specified quantity in input, Allocation of resources without limits o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91137",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91137:2026-10-02T10:49"
-  },
-  {
-   "ts": "2026-10-02T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86326 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-86326 📢 Source: Moxa 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An improper verification of cryptographic signature vulnerability exists in protocol gateways ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86326",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86326:2026-10-02T10:49"
-  },
-  {
-   "ts": "2026-10-02T10:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-86325 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-86325 📢 Source: Moxa 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True A stack-based buffer overflow vulnerability exists in protocol gateways' account managemen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86325",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86325:2026-10-02T10:49"
-  },
-  {
-   "ts": "2026-10-02T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94634 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-94634 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling, Initialization of a resource with an i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94634",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94634:2026-10-02T10:19"
-  },
-  {
-   "ts": "2026-10-02T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94639 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-94639 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True improper handling of exceptional conditions, Allocation of resources without limits or throt",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94639",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94639:2026-10-02T09:49"
-  },
-  {
-   "ts": "2026-10-02T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94635 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-94635 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling, Improper handling of length parameter ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94635",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94635:2026-10-02T09:49"
-  },
-  {
-   "ts": "2026-10-02T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80298 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-80298 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vulner",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80298",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80298:2026-10-02T09:49"
-  },
-  {
-   "ts": "2026-10-02T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80443 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-80443 📢 Source: TR-CERT 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Improper certificate validation vulnerability in HAVELSAN Inc. Sef - AI Chatbot Platform al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80443",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80443:2026-10-02T09:19"
-  },
-  {
-   "ts": "2026-10-02T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18036 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-18036 📢 Source: bcorg 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Bouncy Castle for Java before 1.86, NTRU reduced secret values with the % operator in thre",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18036",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18036:2026-10-02T08:19"
-  },
-  {
-   "ts": "2026-10-02T07:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-63569 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-63569 📢 Source: bcorg 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Improper input validation in DHAgreement.CalculateAgreement (MTI/A0 two-pass Diffie-Hellm",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63569",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63569:2026-10-02T07:19"
-  },
-  {
-   "ts": "2026-10-02T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-63568 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-63568 📢 Source: bcorg 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling in the CMP/CRMF password-based MAC verif",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63568",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63568:2026-10-02T07:19"
-  },
-  {
-   "ts": "2026-10-02T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-63567 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-63567 📢 Source: bcorg 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Observable discrepancy in IesEngine.DecryptBlock in Legion of the Bouncy Castle Inc. bc-cshar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63567",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63567:2026-10-02T07:19"
   }
  ]
 }
