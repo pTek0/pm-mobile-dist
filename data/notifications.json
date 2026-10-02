@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-02T12:49:09+00:00",
+ "generated_at": "2026-10-02T13:19:06+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-02T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66055 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-66055 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in Apache Thrift C++, Jav",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66055",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66055:2026-10-02T13:19"
+  },
+  {
+   "ts": "2026-10-02T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63772 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-63772 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in Apache Thrift go bindi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63772",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63772:2026-10-02T13:19"
+  },
+  {
+   "ts": "2026-10-02T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-61374 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-61374 📢 Source: apache 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in Apache Thrift Java bin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-61374",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-61374:2026-10-02T13:19"
+  },
   {
    "ts": "2026-10-02T12:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://github.com/pop-os/cosmic-epoch/pull/3911",
    "source": "Lemmy · programming.dev",
    "id": "community:https://github.com/pop-os/cosmic-epoch/pull/3911:2026-10-02T11:19"
-  },
-  {
-   "ts": "2026-10-02T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] YT-DLP is Being Treated as a Piracy Tool By The IFPI",
-   "body": "Lemmy · technology · 점수 320",
-   "link": "https://itsfoss.com/news/yt-dlp-ifpi-piracy-watchlist/",
-   "source": "Lemmy · technology",
-   "id": "community:https://itsfoss.com/news/yt-dlp-ifpi-piracy-watchlist/:2026-10-02T11:19"
-  },
-  {
-   "ts": "2026-10-02T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] SvelteKit 3",
-   "body": "Hacker News · 점수 288",
-   "link": "https://svelte.dev/blog/sveltekit-3-is-here",
-   "source": "Hacker News",
-   "id": "community:https://svelte.dev/blog/sveltekit-3-is-here:2026-10-02T11:19"
-  },
-  {
-   "ts": "2026-10-02T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] DeepSeek Harness Desktop for macOS and Windows",
-   "body": "Hacker News · 점수 248",
-   "link": "https://www.deepseek.com/en/harness/",
-   "source": "Hacker News",
-   "id": "community:https://www.deepseek.com/en/harness/:2026-10-02T11:19"
   }
  ]
 }
