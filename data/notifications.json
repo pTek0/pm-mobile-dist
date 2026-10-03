@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-03T08:49:07+00:00",
+ "generated_at": "2026-10-03T09:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-03T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71891 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-71891 📢 Source: bcorg 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Bouncy Castle for Java before 1.86, BLS12_381BasicScheme.keyValidate, and so BLSPublicKeyP",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71891",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71891:2026-10-03T09:19"
+  },
+  {
+   "ts": "2026-10-03T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71890 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-71890 📢 Source: bcorg 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Bouncy Castle for Java before 1.86, validation of an MLS (RFC 9420) external commit's prop",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71890",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71890:2026-10-03T09:19"
+  },
+  {
+   "ts": "2026-10-03T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71886 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-71886 📢 Source: bcorg 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Bouncy Castle for Java before 1.86, the high-level OpenPGP certificate API accepted a thir",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71886",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71886:2026-10-03T09:19"
+  },
+  {
+   "ts": "2026-10-03T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-71885 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-71885 📢 Source: bcorg 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True In Bouncy Castle for Java before 1.86, the Messaging Layer Security (MLS, RFC 9420) imple",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71885",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71885:2026-10-03T09:19"
+  },
   {
    "ts": "2026-10-03T08:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-96940",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96940:2026-10-02T19:19"
-  },
-  {
-   "ts": "2026-10-02T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103958 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-103958 📢 Source: AMZN 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Server-side request forgery in the tool server and remote agent connection handling in Loom f",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103958",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103958:2026-10-02T19:19"
-  },
-  {
-   "ts": "2026-10-02T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103957 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-103957 📢 Source: AMZN 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Server-side request forgery in the OAuth2 discovery handling in Loom for AWS before 1.7.0 mig",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103957",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103957:2026-10-02T19:19"
-  },
-  {
-   "ts": "2026-10-02T19:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103956 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-103956 📢 Source: AMZN 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Missing authentication for critical function in the authentication dependency in Loom for ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103956",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103956:2026-10-02T19:19"
-  },
-  {
-   "ts": "2026-10-02T19:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2023-54405 (CVSS 9.8)",
-   "body": "🚨 CVE-2023-54405 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True H3C CVM, the Cloud Virtualization Management component of the H3C CAS cloud platform,",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2023-54405",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54405:2026-10-02T19:19"
   }
  ]
 }
