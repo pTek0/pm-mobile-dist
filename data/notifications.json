@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-03T11:19:07+00:00",
+ "generated_at": "2026-10-03T11:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-03T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Zig 0.17.0 Release Notes",
+   "body": "Lobsters · 점수 80",
+   "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+   "source": "Lobsters",
+   "id": "community:https://ziglang.org/download/0.17.0/release-notes.html:2026-10-03T11:49"
+  },
+  {
+   "ts": "2026-10-03T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I got targeted: Trying to get your credentials via a git pos",
+   "body": "Lobsters · 점수 55",
+   "link": "https://frankwiles.com/posts/i-got-targeted/",
+   "source": "Lobsters",
+   "id": "community:https://frankwiles.com/posts/i-got-targeted/:2026-10-03T11:49"
+  },
+  {
+   "ts": "2026-10-03T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The forgetful CPU (Linux on M4)",
+   "body": "Lobsters · 점수 55",
+   "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+   "source": "Lobsters",
+   "id": "community:https://yuka.dev/blog-2026-10-02-linux-m4.html:2026-10-03T11:49"
+  },
   {
    "ts": "2026-10-03T11:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82044",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82044:2026-10-02T20:49"
-  },
-  {
-   "ts": "2026-10-02T20:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82042 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82042 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True UTMStack before 11.2.16 contains an authentication bypass vulnerability that allows r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82042",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82042:2026-10-02T20:49"
-  },
-  {
-   "ts": "2026-10-02T20:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82041 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-82041 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True UTMStack before 11.2.16 contains a missing authorization vulnerability in UTMIncident",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82041",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82041:2026-10-02T20:49"
-  },
-  {
-   "ts": "2026-10-02T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82039 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-82039 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True UTMStack before 11.2.16 contains a SQL injection vulnerability in UtmAssetGroupService.se",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82039",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82039:2026-10-02T20:19"
   }
  ]
 }
