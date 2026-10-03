@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-03T13:49:07+00:00",
+ "generated_at": "2026-10-03T14:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-03T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105119 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-105119 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True OpenAM before 16.1.3 applies its OAuth2 Provider PKCE enforcement only to authorization ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105119",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105119:2026-10-03T14:19"
+  },
+  {
+   "ts": "2026-10-03T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105115 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-105115 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenAM before 16.1.3 contains an unauthenticated arbitrary class instantiation vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105115",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105115:2026-10-03T14:19"
+  },
+  {
+   "ts": "2026-10-03T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105113 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-105113 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Nezha Dashboard from 1.8.0 before 2.3.13 contains an improper locking vulnerability wher",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105113",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105113:2026-10-03T14:19"
+  },
   {
    "ts": "2026-10-03T12:19:06+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-97212",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97212:2026-10-02T21:49"
-  },
-  {
-   "ts": "2026-10-02T21:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-95102 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-95102 📢 Source: icscert 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True WebSocket endpoints lack proper authentication mechanisms, enabling attackers to impers",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95102",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95102:2026-10-02T21:49"
-  },
-  {
-   "ts": "2026-10-02T20:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-75937 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-75937 📢 Source: Digi 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False A specially crafted HTTP POST request to the web administration interface allows an unaut",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75937",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75937:2026-10-02T20:49"
-  },
-  {
-   "ts": "2026-10-02T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82045 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-82045 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True UTMStack before 11.2.16 contains a JPQL injection vulnerability that allows authenticated",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82045",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82045:2026-10-02T20:49"
   }
  ]
 }
