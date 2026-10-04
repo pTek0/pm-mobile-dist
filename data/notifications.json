@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-04T03:19:07+00:00",
+ "generated_at": "2026-10-04T03:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-04T03:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88779 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-88779 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Vulnerability in NetScaler ADC and NetScaler Gateway. This issue affects ADC: before 14.1",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88779",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88779:2026-10-04T03:49"
+  },
   {
    "ts": "2026-10-04T00:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://gwern.net/doc/math/1973-halmos.pdf",
    "source": "Hacker News",
    "id": "community:https://gwern.net/doc/math/1973-halmos.pdf:2026-10-02T23:49"
-  },
-  {
-   "ts": "2026-10-02T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: Giving Opus 5.5 a simulated paint canvas",
-   "body": "Hacker News · 점수 173",
-   "link": "https://stillwet.art/",
-   "source": "Hacker News",
-   "id": "community:https://stillwet.art/:2026-10-02T23:49"
   }
  ]
 }
