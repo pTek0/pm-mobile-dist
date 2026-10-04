@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-10-04T14:19:08+00:00",
+ "generated_at": "2026-10-04T14:49:14+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-04T14:49:09+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105215 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-105215 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True ZITADEL before 3.4.14 and 4.x before 4.16.2 contains an authentication bypass in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105215",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105215:2026-10-04T14:49"
+  },
+  {
+   "ts": "2026-10-04T14:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105213 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-105213 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ZITADEL 4.x before 4.17.1 does not check an organization's inactive state during Login V",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105213",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105213:2026-10-04T14:49"
+  },
+  {
+   "ts": "2026-10-04T14:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105212 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-105212 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True ZITADEL 3.x before 3.4.14 and 4.x before 4.16.2 contains an authentication bypass in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105212",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105212:2026-10-04T14:49"
+  },
+  {
+   "ts": "2026-10-04T14:49:09+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105211 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-105211 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True ZITADEL before 4.17.1 contains an authentication bypass vulnerability in Login V2 th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105211",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105211:2026-10-04T14:49"
+  },
+  {
+   "ts": "2026-10-04T14:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105210 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-105210 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ZITADEL 3.x before 3.4.15 and 4.x before 4.17.1 contains a missing authentication flaw i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105210",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105210:2026-10-04T14:49"
+  },
+  {
+   "ts": "2026-10-04T14:49:09+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105209 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-105209 📢 Source: VulnCheck 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True ZITADEL 3.x before 3.4.15 and 4.x before 4.17.1 contains an improper authorization v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105209",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105209:2026-10-04T14:49"
+  },
+  {
+   "ts": "2026-10-04T14:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105208 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-105208 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True ZITADEL 4.x before 4.17.3 and 3.x through 3.4.15 protects IdP intent tokens with unauthe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105208",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105208:2026-10-04T14:49"
+  },
+  {
+   "ts": "2026-10-04T14:49:09+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105207 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-105207 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ZITADEL 3.0.0 through 3.4.15 and 4.0.0 before 4.17.3 creates links between user acco",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105207",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105207:2026-10-04T14:49"
+  },
   {
    "ts": "2026-10-04T12:49:08+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105105",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105105:2026-10-03T12:19"
-  },
-  {
-   "ts": "2026-10-03T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Zig 0.17.0 Release Notes",
-   "body": "Lobsters · 점수 80",
-   "link": "https://ziglang.org/download/0.17.0/release-notes.html",
-   "source": "Lobsters",
-   "id": "community:https://ziglang.org/download/0.17.0/release-notes.html:2026-10-03T11:49"
-  },
-  {
-   "ts": "2026-10-03T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I got targeted: Trying to get your credentials via a git pos",
-   "body": "Lobsters · 점수 55",
-   "link": "https://frankwiles.com/posts/i-got-targeted/",
-   "source": "Lobsters",
-   "id": "community:https://frankwiles.com/posts/i-got-targeted/:2026-10-03T11:49"
-  },
-  {
-   "ts": "2026-10-03T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The forgetful CPU (Linux on M4)",
-   "body": "Lobsters · 점수 55",
-   "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-   "source": "Lobsters",
-   "id": "community:https://yuka.dev/blog-2026-10-02-linux-m4.html:2026-10-03T11:49"
-  },
-  {
-   "ts": "2026-10-03T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Trump consulted Musk’s chatbot Grok before abducting Venezue",
-   "body": "Lemmy · technology · 점수 357",
-   "link": "https://www.the-independent.com/news/world/americas/us-politics/trump-musk-grok-venezuela-maduro-b3060366.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.the-independent.com/news/world/americas/us-politics/trump-musk-grok-venezuela-maduro-b3060366.html:2026-10-03T11:19"
-  },
-  {
-   "ts": "2026-10-03T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Extra Big Ass Intelligence",
-   "body": "Hacker News · 점수 309",
-   "link": "https://www.extrabigassintelligence.com/",
-   "source": "Hacker News",
-   "id": "community:https://www.extrabigassintelligence.com/:2026-10-03T11:19"
-  },
-  {
-   "ts": "2026-10-03T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Had me in the first part",
-   "body": "Lemmy · programming.dev · 점수 288",
-   "link": "https://media.piefed.social/posts/vH/VE/vHVEd87broQGuQ1.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://media.piefed.social/posts/vH/VE/vHVEd87broQGuQ1.png:2026-10-03T11:19"
-  },
-  {
-   "ts": "2026-10-03T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Loss of cell identity drives human aging: Two new papers",
-   "body": "Hacker News · 점수 264",
-   "link": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-   "source": "Hacker News",
-   "id": "community:https://erictopol.substack.com/p/loss-of-cell-identity-drives-human:2026-10-03T11:19"
-  },
-  {
-   "ts": "2026-10-03T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] \"Algorithms lack the spark\": Pope Leo XIV calls on church to",
-   "body": "Lemmy · technology · 점수 164",
-   "link": "https://www.axios.com/2026/10/02/pope-leo-xiv-catholic-church-ai-warning-artists",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.axios.com/2026/10/02/pope-leo-xiv-catholic-church-ai-warning-artists:2026-10-03T11:19"
   }
  ]
 }
