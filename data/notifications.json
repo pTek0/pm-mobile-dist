@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-04T11:19:08+00:00",
+ "generated_at": "2026-10-04T11:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-04T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] So you think you could be an electrician?",
+   "body": "Hacker News · 점수 246",
+   "link": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+   "source": "Hacker News",
+   "id": "community:https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician:2026-10-04T11:49"
+  },
+  {
+   "ts": "2026-10-04T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I quit OpenAI because its culture is broken",
+   "body": "Hacker News · 점수 243",
+   "link": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+   "source": "Hacker News",
+   "id": "community:https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA:2026-10-04T11:49"
+  },
+  {
+   "ts": "2026-10-04T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Treachery in the Rodin Museum 3D scan verdict",
+   "body": "Hacker News · 점수 209",
+   "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+   "source": "Hacker News",
+   "id": "community:https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict:2026-10-04T11:49"
+  },
+  {
+   "ts": "2026-10-04T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Federal Judge Rules a Flock Search Was ‘Indiscriminate Mass ",
+   "body": "Lemmy · technology · 점수 205",
+   "link": "https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/:2026-10-04T11:49"
+  },
+  {
+   "ts": "2026-10-04T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Celebrating the 100th birthday of the kidney donated to him ",
+   "body": "Hacker News · 점수 198",
+   "link": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+   "source": "Hacker News",
+   "id": "community:https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/:2026-10-04T11:49"
+  },
   {
    "ts": "2026-10-04T11:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71887",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71887:2026-10-03T08:49"
-  },
-  {
-   "ts": "2026-10-03T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71883 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-71883 📢 Source: bcorg 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Bouncy Castle for Java LTS before 2.73.13, the one-shot native packet ciphers for AES-CBC,",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71883",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71883:2026-10-03T08:49"
-  },
-  {
-   "ts": "2026-10-03T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85515 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-85515 📢 Source: bcorg 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Bouncy Castle for Java before 1.86, a truncated OpenPGP encrypted message was accepted wit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85515",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85515:2026-10-03T08:49"
-  },
-  {
-   "ts": "2026-10-03T01:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105080 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-105080 📢 Source: mitre 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True In ConvertX before 0.19.0, converters/calibre.ts does not block recipe files, and instea",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105080",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105080:2026-10-03T01:19"
-  },
-  {
-   "ts": "2026-10-03T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Used processor leads to game ban",
-   "body": "Lemmy · technology · 점수 65",
-   "link": "https://www.heise.de/en/news/Used-processor-leads-to-game-ban-11471562.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.heise.de/en/news/Used-processor-leads-to-game-ban-11471562.html:2026-10-03T00:49"
-  },
-  {
-   "ts": "2026-10-03T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Actual RFC1149 packet being auctioned",
-   "body": "Lobsters · 점수 54",
-   "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
-   "source": "Lobsters",
-   "id": "community:https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216:2026-10-03T00:49"
   }
  ]
 }
