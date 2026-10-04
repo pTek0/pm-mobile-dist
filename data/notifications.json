@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-03T23:49:07+00:00",
+ "generated_at": "2026-10-04T00:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-04T00:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105129 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-105129 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True LaraDashboard before 1.4.8 contains an incorrect authorization vulnerability that allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105129",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105129:2026-10-04T00:19"
+  },
+  {
+   "ts": "2026-10-04T00:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105126 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-105126 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True LaraDashboard before 1.4.8 contains an improper privilege management vulnerability that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105126",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105126:2026-10-04T00:19"
+  },
   {
    "ts": "2026-10-03T23:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://stillwet.art/",
    "source": "Hacker News",
    "id": "community:https://stillwet.art/:2026-10-02T23:49"
-  },
-  {
-   "ts": "2026-10-02T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Bernie Sanders, AOC, and Jeff Merkley Introduce the Ban Floc",
-   "body": "Lemmy · technology · 점수 172",
-   "link": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-merkley-unveil-ban-flock-act-to-protect-americans-right-to-privacy/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-merkley-unveil-ban-flock-act-to-protect-americans-right-to-privacy/:2026-10-02T23:49"
-  },
-  {
-   "ts": "2026-10-02T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Sites in ChatGPT",
-   "body": "Hacker News · 점수 172",
-   "link": "https://chatgpt.com/features/sites/",
-   "source": "Hacker News",
-   "id": "community:https://chatgpt.com/features/sites/:2026-10-02T23:49"
   }
  ]
 }
