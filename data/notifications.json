@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-04T11:49:08+00:00",
+ "generated_at": "2026-10-04T12:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-04T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Agents don't need memory, they need documentation",
+   "body": "Hacker News · 점수 188",
+   "link": "https://liao.gg/blog/agents-dont-need-memory",
+   "source": "Hacker News",
+   "id": "community:https://liao.gg/blog/agents-dont-need-memory:2026-10-04T12:19"
+  },
+  {
+   "ts": "2026-10-04T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] FTL: A new operating system for clouds",
+   "body": "Hacker News · 점수 175",
+   "link": "https://ftl-os.org/",
+   "source": "Hacker News",
+   "id": "community:https://ftl-os.org/:2026-10-04T12:19"
+  },
+  {
+   "ts": "2026-10-04T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] ICE Is Reportedly Putting ICE Observers, Protesters in a Pal",
+   "body": "Lemmy · technology · 점수 136",
+   "link": "https://gizmodo.com/ice-reportedly-is-putting-ice-observers-in-a-palantir-database-2000821153",
+   "source": "Lemmy · technology",
+   "id": "community:https://gizmodo.com/ice-reportedly-is-putting-ice-observers-in-a-palantir-database-2000821153:2026-10-04T12:19"
+  },
+  {
+   "ts": "2026-10-04T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] News Organizations Like CBS Embracing Prediction Markets as ",
+   "body": "Lemmy · technology · 점수 112",
+   "link": "https://futurism.com/future-society/news-organizations-cbs-prediction-markets-journalism",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/future-society/news-organizations-cbs-prediction-markets-journalism:2026-10-04T12:19"
+  },
+  {
+   "ts": "2026-10-04T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A 2GB Raspberry Pi 4 now costs 50% more than it did at launc",
+   "body": "Lemmy · technology · 점수 98",
+   "link": "https://www.omgubuntu.co.uk/2026/10/raspberry-pi-2gb-costs-how-much-now",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.omgubuntu.co.uk/2026/10/raspberry-pi-2gb-costs-how-much-now:2026-10-04T12:19"
+  },
   {
    "ts": "2026-10-04T11:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71890",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71890:2026-10-03T09:19"
-  },
-  {
-   "ts": "2026-10-03T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71886 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-71886 📢 Source: bcorg 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Bouncy Castle for Java before 1.86, the high-level OpenPGP certificate API accepted a thir",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71886",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71886:2026-10-03T09:19"
-  },
-  {
-   "ts": "2026-10-03T09:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-71885 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-71885 📢 Source: bcorg 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True In Bouncy Castle for Java before 1.86, the Messaging Layer Security (MLS, RFC 9420) imple",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71885",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71885:2026-10-03T09:19"
-  },
-  {
-   "ts": "2026-10-03T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71889 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-71889 📢 Source: bcorg 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Bouncy Castle for Java before 1.86, neither copy of PKIXCertPathReviewer - org.bouncycastl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71889",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71889:2026-10-03T08:49"
-  },
-  {
-   "ts": "2026-10-03T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71888 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-71888 📢 Source: bcorg 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Bouncy Castle for Java before 1.86, the streaming CMS AuthenticatedData parser accepted a ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71888",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71888:2026-10-03T08:49"
-  },
-  {
-   "ts": "2026-10-03T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71887 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-71887 📢 Source: bcorg 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Bouncy Castle for Java before 1.86, the high-level OpenPGP API accepted a data signature m",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71887",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71887:2026-10-03T08:49"
   }
  ]
 }
