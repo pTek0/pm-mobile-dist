@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-04T17:19:08+00:00",
+ "generated_at": "2026-10-04T17:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-04T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105219 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-105219 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Mammoth.js 1.3.0 before 1.12.3 contains a regular expression denial of service vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105219",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105219:2026-10-04T17:49"
+  },
+  {
+   "ts": "2026-10-04T17:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105218 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-105218 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True gopay before 1.5.119 disables TLS certificate verification in defaultClient() in pkg",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105218",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105218:2026-10-04T17:49"
+  },
+  {
+   "ts": "2026-10-04T17:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105216 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-105216 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True go-micro before 6.0.0 contains an improper certificate validation vulnerability that",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105216",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105216:2026-10-04T17:49"
+  },
   {
    "ts": "2026-10-04T16:19:07+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103342",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103342:2026-10-03T15:19"
-  },
-  {
-   "ts": "2026-10-03T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103065 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-103065 📢 Source: Patchstack 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Improper Validation of Specified Quantity in Input vulnerability in Themeum Kirki kirki",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103065",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103065:2026-10-03T15:19"
-  },
-  {
-   "ts": "2026-10-03T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105119 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-105119 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True OpenAM before 16.1.3 applies its OAuth2 Provider PKCE enforcement only to authorization ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105119",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105119:2026-10-03T14:19"
-  },
-  {
-   "ts": "2026-10-03T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105115 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-105115 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenAM before 16.1.3 contains an unauthenticated arbitrary class instantiation vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105115",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105115:2026-10-03T14:19"
   }
  ]
 }
