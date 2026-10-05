@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-05T21:19:08+00:00",
+ "generated_at": "2026-10-05T21:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-05T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-0461 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-0461 📢 Source: AMD 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Insufficient boundary validation in the USB boot mode implementation of AMD Zynq ™ UltraScale+ ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-0461",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-0461:2026-10-05T21:49"
+  },
+  {
+   "ts": "2026-10-05T21:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-91107 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-91107 📢 Source: Fluid Attacks 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True openSIS Classic 9.3 allows an authenticated user with the built-in teacher role c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91107",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91107:2026-10-05T21:49"
+  },
   {
    "ts": "2026-10-05T21:19:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
    "source": "Lemmy · technology",
    "id": "community:https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft:2026-10-04T23:49"
-  },
-  {
-   "ts": "2026-10-04T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Kagi Ends Orion Browser Development for Linux, Will Open-Sou",
-   "body": "Lemmy · programming.dev · 점수 94",
-   "link": "https://linuxiac.com/kagi-ends-orion-browser-development-for-linux-will-open-source-it/?=0",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://linuxiac.com/kagi-ends-orion-browser-development-for-linux-will-open-source-it/?=0:2026-10-04T23:49"
-  },
-  {
-   "ts": "2026-10-04T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 409",
-   "body": "Hacker News · 점수 533",
-   "link": "https://github.com/Niko1221/Strata",
-   "source": "Hacker News",
-   "id": "community:https://github.com/Niko1221/Strata:2026-10-04T23:19"
   }
  ]
 }
