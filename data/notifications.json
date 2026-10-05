@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-05T00:49:08+00:00",
+ "generated_at": "2026-10-05T01:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-05T01:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105295 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-105295 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True GitAhead 2.5.0 through 2.7.1 contains an insecure update mechanism that installs downloa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105295",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105295:2026-10-05T01:19"
+  },
+  {
+   "ts": "2026-10-05T01:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105294 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-105294 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Legcord 1.1.0 through 1.3.0 contains a configuration injection vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105294",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105294:2026-10-05T01:19"
+  },
+  {
+   "ts": "2026-10-05T01:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105293 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-105293 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Legcord 1.1.0 through 1.3.0 contains a path traversal vulnerability in theme IPC han",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105293",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105293:2026-10-05T01:19"
+  },
+  {
+   "ts": "2026-10-05T01:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105223 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-105223 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True maclof kubernetes-client 0.17.0 before 0.32.0 disables TLS certificate verification ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105223",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105223:2026-10-05T01:19"
+  },
   {
    "ts": "2026-10-05T00:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
    "source": "Hacker News",
    "id": "community:https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/:2026-10-04T11:49"
-  },
-  {
-   "ts": "2026-10-04T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97307 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-97307 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Insertion of Sensitive Information Into Sent Data vulnerability in StylemixThemes Cost C",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97307",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97307:2026-10-04T11:19"
-  },
-  {
-   "ts": "2026-10-04T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tell HN: Bob Cringely has died",
-   "body": "Hacker News · 점수 478",
-   "link": "https://news.ycombinator.com/item?id=49949438",
-   "source": "Hacker News",
-   "id": "community:https://news.ycombinator.com/item?id=49949438:2026-10-04T11:19"
-  },
-  {
-   "ts": "2026-10-04T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] We're going to need default hard budget caps on pretty much ",
-   "body": "Hacker News · 점수 447",
-   "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-   "source": "Hacker News",
-   "id": "community:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/:2026-10-04T11:19"
-  },
-  {
-   "ts": "2026-10-04T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Cops Can Bypass iPhone’s Automatic Reboot to Get Into Locked",
-   "body": "Lemmy · technology · 점수 330",
-   "link": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/:2026-10-04T11:19"
   }
  ]
 }
