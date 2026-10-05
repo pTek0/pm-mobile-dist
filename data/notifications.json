@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-05T16:19:07+00:00",
+ "generated_at": "2026-10-05T16:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-05T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86671 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-86671 📢 Source: eclipse 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True In Eclipse Che versions 7.29.0 and later, the GET `/api/scm/resolve` and `POST /api/factory",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86671",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86671:2026-10-05T16:49"
+  },
+  {
+   "ts": "2026-10-05T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12171 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-12171 📢 Source: harborist 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False auto-changelog before 2.6.1 merges configuration from inside the target repository (the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12171",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12171:2026-10-05T16:49"
+  },
   {
    "ts": "2026-10-05T16:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105089",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105089:2026-10-04T16:19"
-  },
-  {
-   "ts": "2026-10-04T16:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105086 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-105086 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True WWBN AVideo 12.4 through 29.2.0 contains a stored cross-site scripting vulnerability",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105086",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105086:2026-10-04T16:19"
-  },
-  {
-   "ts": "2026-10-04T14:49:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105215 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-105215 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True ZITADEL before 3.4.14 and 4.x before 4.16.2 contains an authentication bypass in the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105215",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105215:2026-10-04T14:49"
   }
  ]
 }
