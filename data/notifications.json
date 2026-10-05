@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-05T12:49:08+00:00",
+ "generated_at": "2026-10-05T13:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-05T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77805 (CVSS 7.9)",
+   "body": "🚨 CVE-2026-77805 📢 Source: ProgressSoftware 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: False In Progress ® Telerik ® Fiddler ® Classic for Windows, versions prior to v6.0.202",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77805",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77805:2026-10-05T13:19"
+  },
   {
    "ts": "2026-10-05T11:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105211",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105211:2026-10-04T14:49"
-  },
-  {
-   "ts": "2026-10-04T14:49:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105210 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-105210 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ZITADEL 3.x before 3.4.15 and 4.x before 4.17.1 contains a missing authentication flaw i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105210",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105210:2026-10-04T14:49"
   }
  ]
 }
