@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-05T20:49:07+00:00",
+ "generated_at": "2026-10-05T21:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-05T21:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77226 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-77226 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Camunda 7.24.0 before 7.24.15 contains an incorrect authorization vulnerability in th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77226",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77226:2026-10-05T21:19"
+  },
   {
    "ts": "2026-10-05T19:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "id": "community:https://github.com/Niko1221/Strata:2026-10-04T23:19"
-  },
-  {
-   "ts": "2026-10-04T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Cancel Your Subscription: A browser game where you try to ca",
-   "body": "Lemmy · programming.dev · 점수 528",
-   "link": "https://www.fundrstudio.com/games/cancel-your-subscription/",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.fundrstudio.com/games/cancel-your-subscription/:2026-10-04T23:19"
   }
  ]
 }
