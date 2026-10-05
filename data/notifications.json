@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-05T11:19:07+00:00",
+ "generated_at": "2026-10-05T11:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-05T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63277 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-63277 📢 Source: Document Fdn. 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False LibreOffice Calc can link a cell range to an external data source, and the link is s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63277",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63277:2026-10-05T11:49"
+  },
+  {
+   "ts": "2026-10-05T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Amazon’s $1B plan to combat data center backlash draws more ",
+   "body": "Lemmy · technology · 점수 96",
+   "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/:2026-10-05T11:49"
+  },
+  {
+   "ts": "2026-10-05T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Florida woman used Claude as a diary, then Anthropic reporte",
+   "body": "Lemmy · technology · 점수 90",
+   "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html:2026-10-05T11:49"
+  },
   {
    "ts": "2026-10-05T11:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105210",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105210:2026-10-04T14:49"
-  },
-  {
-   "ts": "2026-10-04T14:49:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105209 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-105209 📢 Source: VulnCheck 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True ZITADEL 3.x before 3.4.15 and 4.x before 4.17.1 contains an improper authorization v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105209",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105209:2026-10-04T14:49"
-  },
-  {
-   "ts": "2026-10-04T14:49:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105208 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-105208 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True ZITADEL 4.x before 4.17.3 and 3.x through 3.4.15 protects IdP intent tokens with unauthe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105208",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105208:2026-10-04T14:49"
-  },
-  {
-   "ts": "2026-10-04T14:49:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105207 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-105207 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ZITADEL 3.0.0 through 3.4.15 and 4.0.0 before 4.17.3 creates links between user acco",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105207",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105207:2026-10-04T14:49"
   }
  ]
 }
