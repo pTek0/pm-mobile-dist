@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-05T17:49:07+00:00",
+ "generated_at": "2026-10-05T18:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-05T18:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93318 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-93318 📢 Source: Docker 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A malicious image can advertise DiffIDs from another image while containing different layer ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93318",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93318:2026-10-05T18:19"
+  },
   {
    "ts": "2026-10-05T17:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105221",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105221:2026-10-04T22:49"
-  },
-  {
-   "ts": "2026-10-04T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105220 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-105220 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Twine 2 desktop through 2.12.0 contains a cross-site scripting vulnerability in importS",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105220",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105220:2026-10-04T22:49"
   }
  ]
 }
