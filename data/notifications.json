@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-05T13:19:07+00:00",
+ "generated_at": "2026-10-05T13:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-05T13:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92931 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-92931 📢 Source: ProgressSoftware 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True CWE-918: Server-Side Request Forgery in the Progress @progress /sitefinity-next",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92931",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92931:2026-10-05T13:49"
+  },
   {
    "ts": "2026-10-05T13:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105212",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105212:2026-10-04T14:49"
-  },
-  {
-   "ts": "2026-10-04T14:49:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105211 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-105211 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True ZITADEL before 4.17.1 contains an authentication bypass vulnerability in Login V2 th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105211",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105211:2026-10-04T14:49"
   }
  ]
 }
