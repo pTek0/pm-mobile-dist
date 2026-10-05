@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-05T14:49:10+00:00",
+ "generated_at": "2026-10-05T15:19:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-05T15:19:09+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-79820 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-79820 📢 Source: hpe 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True A remote user validation failure vulnerability exists in HPE Integrated Lights-Out (iLO) 7 fi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79820",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79820:2026-10-05T15:19"
+  },
   {
    "ts": "2026-10-05T13:49:08+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105213",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105213:2026-10-04T14:49"
-  },
-  {
-   "ts": "2026-10-04T14:49:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105212 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-105212 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True ZITADEL 3.x before 3.4.14 and 4.x before 4.16.2 contains an authentication bypass in the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105212",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105212:2026-10-04T14:49"
   }
  ]
 }
