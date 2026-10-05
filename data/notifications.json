@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-05T17:19:07+00:00",
+ "generated_at": "2026-10-05T17:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-05T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93316 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-93316 📢 Source: Docker 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True If BuildKit daemon is started with --cdi-disabled it can lead to daemon panic when builds tr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93316",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93316:2026-10-05T17:49"
+  },
+  {
+   "ts": "2026-10-05T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104905 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-104905 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True FacturaScripts before version 2026.7 contains a PHP object injection vulnerability in Wi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104905",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104905:2026-10-05T17:49"
+  },
+  {
+   "ts": "2026-10-05T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101919 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-101919 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the HyperShift operator. The operator copies user-provided Kubernetes c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101919",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101919:2026-10-05T17:49"
+  },
+  {
+   "ts": "2026-10-05T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-15643 (CVSS 7.1)",
+   "body": "🚨 CVE-2025-15643 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-15643",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-15643:2026-10-05T17:49"
+  },
   {
    "ts": "2026-10-05T16:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105220",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105220:2026-10-04T22:49"
-  },
-  {
-   "ts": "2026-10-04T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105219 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-105219 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Mammoth.js 1.3.0 before 1.12.3 contains a regular expression denial of service vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105219",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105219:2026-10-04T17:49"
-  },
-  {
-   "ts": "2026-10-04T17:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105218 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-105218 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True gopay before 1.5.119 disables TLS certificate verification in defaultClient() in pkg",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105218",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105218:2026-10-04T17:49"
-  },
-  {
-   "ts": "2026-10-04T17:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105216 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-105216 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True go-micro before 6.0.0 contains an improper certificate validation vulnerability that",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105216",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105216:2026-10-04T17:49"
-  },
-  {
-   "ts": "2026-10-04T16:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105089 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-105089 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True WWBN AVideo through 29.2.0 contains a stored cross-site scripting vulnerability that",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105089",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105089:2026-10-04T16:19"
   }
  ]
 }
