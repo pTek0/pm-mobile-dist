@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-05T00:19:09+00:00",
+ "generated_at": "2026-10-05T00:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-05T00:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: ship-pentest",
+   "body": "**★ 2026-09-18~28 활동(직전 주 작업 — 이번 창(09-28~10-05) 폴더 신규 변경 0, 10-04 지표는 허브리뷰 읽기전용 세션 귀속)** — ①**랜섬웨어 점검 랩**: IT 엔드포인트 rea",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: ship-pentest:2026-10-05T00:49"
+  },
+  {
+   "ts": "2026-10-05T00:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: InsecureBankv2",
+   "body": "정적분석 보고서 완료 — **⚠ 2026-10-04 허브리뷰 적발: 폴더 디스크 소실(HR2026-10-04-1, 이전 작업물 보존 하드제약 위반 의심)** — 참조 5곳 생존·gov-lint ERROR 2, 복구원",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: InsecureBankv2:2026-10-05T00:49"
+  },
+  {
+   "ts": "2026-10-05T00:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pentest-toolkit",
+   "body": "쉐도우 모드(관찰만) — **정체 지속(마지막 세션 07-17 → 2026-10-05 기준 80일 경과, 지난 7일 커밋 0)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→⏸",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pentest-toolkit:2026-10-05T00:49"
+  },
   {
    "ts": "2026-10-05T00:19:08+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
    "source": "Lemmy · technology",
    "id": "community:https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/:2026-10-04T11:19"
-  },
-  {
-   "ts": "2026-10-04T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The work by Valve's Timur Kristóf on improving old AMD GPUs ",
-   "body": "Hacker News · 점수 303",
-   "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-   "source": "Hacker News",
-   "id": "community:https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU:2026-10-04T11:19"
-  },
-  {
-   "ts": "2026-10-04T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Hole Punch: Sling your spaceship around gravitational fields",
-   "body": "Hacker News · 점수 299",
-   "link": "https://notoriousbfg.com/hole-punch/",
-   "source": "Hacker News",
-   "id": "community:https://notoriousbfg.com/hole-punch/:2026-10-04T11:19"
-  },
-  {
-   "ts": "2026-10-04T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97276 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-97276 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97276",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97276:2026-10-04T09:19"
   }
  ]
 }
