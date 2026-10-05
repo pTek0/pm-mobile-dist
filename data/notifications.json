@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-05T08:19:07+00:00",
+ "generated_at": "2026-10-05T08:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-05T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19185 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-19185 📢 Source: zephyr 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The system-call verifier for i3c_do_ccc() in drivers/i3c/i3c_handlers.c validated the outer",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19185",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19185:2026-10-05T08:49"
+  },
+  {
+   "ts": "2026-10-05T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19184 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-19184 📢 Source: zephyr 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False The NXP GAU ADC driver (drivers/adc/adc_mcux_gau_adc.c) validated the caller-supplied seque",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19184",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19184:2026-10-05T08:49"
+  },
   {
    "ts": "2026-10-05T08:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
    "source": "Hacker News",
    "id": "community:https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA:2026-10-04T11:49"
-  },
-  {
-   "ts": "2026-10-04T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Treachery in the Rodin Museum 3D scan verdict",
-   "body": "Hacker News · 점수 209",
-   "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-   "source": "Hacker News",
-   "id": "community:https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict:2026-10-04T11:49"
-  },
-  {
-   "ts": "2026-10-04T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Federal Judge Rules a Flock Search Was ‘Indiscriminate Mass ",
-   "body": "Lemmy · technology · 점수 205",
-   "link": "https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/:2026-10-04T11:49"
   }
  ]
 }
