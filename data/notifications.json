@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-06T18:49:09+00:00",
+ "generated_at": "2026-10-06T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-06T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96890 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-96890 📢 Source: GitHub_P 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A Server-Side Request Forgery (SSRF) vulnerability was identified in GitHub Enterprise Ser",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96890",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96890:2026-10-06T19:19"
+  },
+  {
+   "ts": "2026-10-06T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82162 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-82162 📢 Source: dell 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Dell Command | Configure (DCC), versions prior to 5.2.3.35 , contain an Improper Handling of M",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82162",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82162:2026-10-06T19:19"
+  },
+  {
+   "ts": "2026-10-06T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106512 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-106512 📢 Source: CIRCL 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True The CakeResponse::download() method in lib/Cake/Network/CakeResponse.php constructs a Conten",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106512",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106512:2026-10-06T19:19"
+  },
   {
    "ts": "2026-10-06T18:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84854",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84854:2026-10-06T10:19"
-  },
-  {
-   "ts": "2026-10-06T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-4889 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-4889 📢 Source: INCIBE 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: True SQL injection (SQLi) vulnerability in the eLoanApp application, specifically in the POST para",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-4889",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4889:2026-10-06T08:49"
-  },
-  {
-   "ts": "2026-10-06T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103346 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-103346 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103346",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103346:2026-10-06T08:49"
-  },
-  {
-   "ts": "2026-10-06T07:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85153 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-85153 📢 Source: CERT-In 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True This vulnerability exists in the Schmooze app due to the use of hardcoded credentials a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85153",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85153:2026-10-06T07:49"
   }
  ]
 }
