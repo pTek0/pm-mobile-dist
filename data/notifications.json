@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-06T11:19:08+00:00",
+ "generated_at": "2026-10-06T11:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-06T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Find the flattest route between any two points in SF",
+   "body": "Hacker News · 점수 213",
+   "link": "https://flattensf.com/",
+   "source": "Hacker News",
+   "id": "community:https://flattensf.com/:2026-10-06T11:49"
+  },
+  {
+   "ts": "2026-10-06T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Dust: Pretraining Transformers Without Backpropagation",
+   "body": "Hacker News · 점수 204",
+   "link": "https://qlabs.sh/research/dust",
+   "source": "Hacker News",
+   "id": "community:https://qlabs.sh/research/dust:2026-10-06T11:49"
+  },
+  {
+   "ts": "2026-10-06T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Meta Insiders Convinced Muse Is Going to End Up Leaking the ",
+   "body": "Lemmy · technology · 점수 164",
+   "link": "https://futurism.com/artificial-intelligence/meta-muse-data-breach-bank-accounts-email-archives",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/artificial-intelligence/meta-muse-data-breach-bank-accounts-email-archives:2026-10-06T11:49"
+  },
+  {
+   "ts": "2026-10-06T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Shut up and take our money: Amazon plows $1B+ into quashing ",
+   "body": "Lemmy · technology · 점수 136",
+   "link": "https://www.theregister.com/systems/2026/10/02/shut-up-and-take-our-money-amazon-plows-1b-into-quashing-datacenter-dissent/5300914",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theregister.com/systems/2026/10/02/shut-up-and-take-our-money-amazon-plows-1b-into-quashing-datacenter-dissent/5300914:2026-10-06T11:49"
+  },
+  {
+   "ts": "2026-10-06T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] OpenAI “rogue” agent activities found on Wikimedia projects",
+   "body": "Lemmy · technology · 점수 129",
+   "link": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+   "source": "Lemmy · technology",
+   "id": "community:https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/:2026-10-06T11:49"
+  },
   {
    "ts": "2026-10-06T11:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100511",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100511:2026-10-05T19:49"
-  },
-  {
-   "ts": "2026-10-05T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100506 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-100506 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in WP Spell Check WP Spell Check wp-spe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100506",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100506:2026-10-05T19:49"
-  },
-  {
-   "ts": "2026-10-05T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93318 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-93318 📢 Source: Docker 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A malicious image can advertise DiffIDs from another image while containing different layer ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93318",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93318:2026-10-05T18:19"
-  },
-  {
-   "ts": "2026-10-05T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93316 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-93316 📢 Source: Docker 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True If BuildKit daemon is started with --cdi-disabled it can lead to daemon panic when builds tr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93316",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93316:2026-10-05T17:49"
-  },
-  {
-   "ts": "2026-10-05T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104905 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-104905 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True FacturaScripts before version 2026.7 contains a PHP object injection vulnerability in Wi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104905",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104905:2026-10-05T17:49"
-  },
-  {
-   "ts": "2026-10-05T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101919 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-101919 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the HyperShift operator. The operator copies user-provided Kubernetes c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101919",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101919:2026-10-05T17:49"
   }
  ]
 }
