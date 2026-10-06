@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-06T15:19:11+00:00",
+ "generated_at": "2026-10-06T15:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-06T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70411 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-70411 📢 Source: dell 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Dell Container Storage Modules (CSM), versions prior to 1.18.0, contains a Missing Authentica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70411",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70411:2026-10-06T15:49"
+  },
+  {
+   "ts": "2026-10-06T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76105 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-76105 📢 Source: dell 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Dell Container Storage Modules, versions prior to 1.18.0 contain(s) an Use of Insufficiently ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76105",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76105:2026-10-06T15:49"
+  },
+  {
+   "ts": "2026-10-06T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-67273 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-67273 📢 Source: dell 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Dell Container Storage Modules, versions prior to 1.18.0, contain(s) an Improper Neutraliz",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67273",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67273:2026-10-06T15:49"
+  },
+  {
+   "ts": "2026-10-06T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-67270 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-67270 📢 Source: dell 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Dell Container Storage Modules (CSM) versions prior to 1.18.0, contains an Improper Certifica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67270",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67270:2026-10-06T15:49"
+  },
+  {
+   "ts": "2026-10-06T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-61411 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-61411 📢 Source: dell 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Dell Container Storage Modules, versions prior to 1.18.0, contain(s) an Insertion of Sensitive",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-61411",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-61411:2026-10-06T15:49"
+  },
   {
    "ts": "2026-10-06T15:19:07+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-57537",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57537:2026-10-06T07:19"
-  },
-  {
-   "ts": "2026-10-06T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-25302 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-25302 📢 Source: qualcomm 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Cryptographic Issue when processing non-ELF partitions, authentication and signature chec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25302",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25302:2026-10-06T07:19"
-  },
-  {
-   "ts": "2026-10-06T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-25291 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-25291 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory corruption when performing concurrent operations on shared memory page lists due t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25291",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25291:2026-10-06T07:19"
-  },
-  {
-   "ts": "2026-10-06T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-25267 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-25267 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory corruption when non-secure loader rewrites page tables before secure memory initia",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25267",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25267:2026-10-06T07:19"
-  },
-  {
-   "ts": "2026-10-06T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Mazda CX-6e Is an EV That Lets You Yell Profanities at Peopl",
-   "body": "Lemmy · technology · 점수 52",
-   "link": "https://www.caranddriver.com/news/a74009089/mazda-cx-6e-external-speaker-profanity-japan/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.caranddriver.com/news/a74009089/mazda-cx-6e-external-speaker-profanity-japan/:2026-10-06T00:49"
-  },
-  {
-   "ts": "2026-10-06T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Lawyer Cites ChatGPT-Invented Fake Witnesses in Murder Appea",
-   "body": "Lemmy · technology · 점수 90",
-   "link": "https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/:2026-10-06T00:19"
   }
  ]
 }
