@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-10-06T06:49:07+00:00",
+ "generated_at": "2026-10-06T07:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-06T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59358 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-59358 📢 Source: vmware 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper authentication (CWE-287) in the OAuth token endpoint in Cloud Foundry UAA allows a ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59358",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59358:2026-10-06T07:19"
+  },
+  {
+   "ts": "2026-10-06T07:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-94293 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-94293 📢 Source: CERTVDE 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated remote attacker can modify Asset Administration Shell submodel data ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94293",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94293:2026-10-06T07:19"
+  },
+  {
+   "ts": "2026-10-06T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-57559 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-57559 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory corruption while processing service requests. 📅 Published Date: 2026-10-06T06:30:0",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57559",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57559:2026-10-06T07:19"
+  },
+  {
+   "ts": "2026-10-06T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-57555 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-57555 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when executing system service routines due to improper handling of user",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57555",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57555:2026-10-06T07:19"
+  },
+  {
+   "ts": "2026-10-06T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-57554 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-57554 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when asynchronous threads access shared performance counter data simult",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57554",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57554:2026-10-06T07:19"
+  },
+  {
+   "ts": "2026-10-06T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-57546 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-57546 📢 Source: qualcomm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Transient DOS when processing a continuous receive command with a zero-sized global config",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57546",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57546:2026-10-06T07:19"
+  },
+  {
+   "ts": "2026-10-06T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-57545 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-57545 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory corruption when processing draw objects of incorrect type during graphics command ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57545",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57545:2026-10-06T07:19"
+  },
+  {
+   "ts": "2026-10-06T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-57537 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-57537 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when accessing and modifying geographic mapping data concurrently witho",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57537",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57537:2026-10-06T07:19"
+  },
+  {
+   "ts": "2026-10-06T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25302 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-25302 📢 Source: qualcomm 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Cryptographic Issue when processing non-ELF partitions, authentication and signature chec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25302",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25302:2026-10-06T07:19"
+  },
+  {
+   "ts": "2026-10-06T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25291 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-25291 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory corruption when performing concurrent operations on shared memory page lists due t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25291",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25291:2026-10-06T07:19"
+  },
+  {
+   "ts": "2026-10-06T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-25267 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-25267 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory corruption when non-secure loader rewrites page tables before secure memory initia",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25267",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25267:2026-10-06T07:19"
+  },
   {
    "ts": "2026-10-06T00:49:07+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "id": "community:https://wieslawsoltes.github.io/VB6/:2026-10-05T11:19"
-  },
-  {
-   "ts": "2026-10-05T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Amazon Warns Local Communities to Stop Defying Its Massive A",
-   "body": "Lemmy · technology · 점수 228",
-   "link": "https://futurism.com/artificial-intelligence/amazon-local-communities-stop-defying-ai-data-centers",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/amazon-local-communities-stop-defying-ai-data-centers:2026-10-05T11:19"
-  },
-  {
-   "ts": "2026-10-05T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Powerless F1 drivers frustrated by Bahrain F1 software glitc",
-   "body": "Hacker News · 점수 215",
-   "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-   "source": "Hacker News",
-   "id": "community:https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/:2026-10-05T11:19"
-  },
-  {
-   "ts": "2026-10-05T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Tao of Backup",
-   "body": "Hacker News · 점수 155",
-   "link": "http://www.taobackup.com/index.html",
-   "source": "Hacker News",
-   "id": "community:http://www.taobackup.com/index.html:2026-10-05T11:19"
-  },
-  {
-   "ts": "2026-10-05T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] \"Rising cost of memory,\" Microsoft explains why Windows 11 w",
-   "body": "Lemmy · technology · 점수 136",
-   "link": "https://www.windowslatest.com/2026/10/04/rising-cost-of-memory-microsoft-explains-why-windows-11-will-use-less-ram/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.windowslatest.com/2026/10/04/rising-cost-of-memory-microsoft-explains-why-windows-11-will-use-less-ram/:2026-10-05T11:19"
-  },
-  {
-   "ts": "2026-10-05T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104389 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-104389 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104389",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104389:2026-10-05T09:19"
-  },
-  {
-   "ts": "2026-10-05T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104805 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-104805 📢 Source: NCSC.ch 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True DigitalCanion has discovered a vulnerability in the backup restoration functionality that ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104805",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104805:2026-10-05T09:19"
-  },
-  {
-   "ts": "2026-10-05T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104408 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-104408 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104408",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104408:2026-10-05T09:19"
-  },
-  {
-   "ts": "2026-10-05T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104407 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-104407 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Blubrry Podcasting PowerPress Podcas",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104407",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104407:2026-10-05T09:19"
-  },
-  {
-   "ts": "2026-10-05T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19185 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-19185 📢 Source: zephyr 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The system-call verifier for i3c_do_ccc() in drivers/i3c/i3c_handlers.c validated the outer",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19185",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19185:2026-10-05T08:49"
-  },
-  {
-   "ts": "2026-10-05T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19184 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-19184 📢 Source: zephyr 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False The NXP GAU ADC driver (drivers/adc/adc_mcux_gau_adc.c) validated the caller-supplied seque",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19184",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19184:2026-10-05T08:49"
-  },
-  {
-   "ts": "2026-10-05T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105314 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-105314 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Papermerge 3.5.3 allows remote code execution by a standard user via directory traversal in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105314",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105314:2026-10-05T08:19"
   }
  ]
 }
