@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-06T18:19:08+00:00",
+ "generated_at": "2026-10-06T18:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-06T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86362 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-86362 📢 Source: dell 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Dell System Update, versions prior to 2.3.0.0 , contains an Improper Access Control vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86362",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86362:2026-10-06T18:49"
+  },
+  {
+   "ts": "2026-10-06T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86361 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-86361 📢 Source: dell 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Dell System Update, versions prior to 2.3.0.0 , contains an Incorrect Permission Assignment f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86361",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86361:2026-10-06T18:49"
+  },
+  {
+   "ts": "2026-10-06T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63697 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-63697 📢 Source: dell 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Dell System Update, versions prior to 2.3.0.0 , contains an Improper Certificate Validation vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63697",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63697:2026-10-06T18:49"
+  },
+  {
+   "ts": "2026-10-06T18:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-86360 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-86360 📢 Source: dell 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Dell System Update, versions prior to 2.3.0.0 , contains an Improper Limitation of a Pathn",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86360",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86360:2026-10-06T18:49"
+  },
+  {
+   "ts": "2026-10-06T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-83550 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-83550 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A flaw was found in postgres-exporter. Due to the blank import of `net/http/pprof`, debug e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83550",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83550:2026-10-06T18:49"
+  },
+  {
+   "ts": "2026-10-06T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71168 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-71168 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell System Update, versions prior to 2.3.0.0 , contains an Improper Limitation of a Pathname",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71168",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71168:2026-10-06T18:49"
+  },
   {
    "ts": "2026-10-06T18:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85153",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85153:2026-10-06T07:49"
-  },
-  {
-   "ts": "2026-10-06T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59358 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-59358 📢 Source: vmware 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper authentication (CWE-287) in the OAuth token endpoint in Cloud Foundry UAA allows a ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59358",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59358:2026-10-06T07:19"
-  },
-  {
-   "ts": "2026-10-06T07:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-94293 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-94293 📢 Source: CERTVDE 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated remote attacker can modify Asset Administration Shell submodel data ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94293",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94293:2026-10-06T07:19"
-  },
-  {
-   "ts": "2026-10-06T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-57559 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-57559 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory corruption while processing service requests. 📅 Published Date: 2026-10-06T06:30:0",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57559",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57559:2026-10-06T07:19"
-  },
-  {
-   "ts": "2026-10-06T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-57555 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-57555 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when executing system service routines due to improper handling of user",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57555",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57555:2026-10-06T07:19"
-  },
-  {
-   "ts": "2026-10-06T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-57554 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-57554 📢 Source: qualcomm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Memory Corruption when asynchronous threads access shared performance counter data simult",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57554",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57554:2026-10-06T07:19"
-  },
-  {
-   "ts": "2026-10-06T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-57546 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-57546 📢 Source: qualcomm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Transient DOS when processing a continuous receive command with a zero-sized global config",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57546",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57546:2026-10-06T07:19"
   }
  ]
 }
