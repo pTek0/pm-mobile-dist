@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-06T13:49:07+00:00",
+ "generated_at": "2026-10-06T14:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-06T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106040 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-106040 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Mooncake Store master through 0.3.13.post1 contains a missing authorization vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106040",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106040:2026-10-06T14:19"
+  },
+  {
+   "ts": "2026-10-06T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106038 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-106038 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Mooncake Store master through 0.3.13.post1 contains a missing authentication vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106038",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106038:2026-10-06T14:19"
+  },
+  {
+   "ts": "2026-10-06T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-106037 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-106037 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Mooncake through 0.3.13.post1 contains a missing authentication vulnerability in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106037",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106037:2026-10-06T14:19"
+  },
+  {
+   "ts": "2026-10-06T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85523 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-85523 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command ('OS command injection') ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85523",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85523:2026-10-06T14:19"
+  },
+  {
+   "ts": "2026-10-06T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-91140 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-91140 📢 Source: ProgressSoftware 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True An OS command injection vulnerability in the shell-based temporary-file cleanu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91140",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91140:2026-10-06T14:19"
+  },
   {
    "ts": "2026-10-06T13:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
    "source": "Hacker News",
    "id": "community:https://stratechery.com/2026/apple-and-a-hackers-future/:2026-10-05T23:49"
-  },
-  {
-   "ts": "2026-10-05T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-   "body": "Hacker News · 점수 169",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-   "source": "Hacker News",
-   "id": "community:https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech:2026-10-05T23:49"
-  },
-  {
-   "ts": "2026-10-05T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Opus 5.5 agents discover two room-temperature magnetic semic",
-   "body": "Hacker News · 점수 132",
-   "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-   "source": "Hacker News",
-   "id": "community:https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors:2026-10-05T23:49"
-  },
-  {
-   "ts": "2026-10-05T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Type Safe Generic Data Structures in C (2025)",
-   "body": "Hacker News · 점수 128",
-   "link": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
-   "source": "Hacker News",
-   "id": "community:https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/:2026-10-05T23:49"
-  },
-  {
-   "ts": "2026-10-05T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Web Search API",
-   "body": "Hacker News · 점수 459",
-   "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-   "source": "Hacker News",
-   "id": "community:https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/:2026-10-05T23:19"
-  },
-  {
-   "ts": "2026-10-05T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Pixel 11 doesn't yet meet the GrapheneOS security standards ",
-   "body": "Hacker News · 점수 389",
-   "link": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
-   "source": "Hacker News",
-   "id": "community:https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped:2026-10-05T23:19"
   }
  ]
 }
