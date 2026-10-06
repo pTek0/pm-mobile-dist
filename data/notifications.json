@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-06T07:19:09+00:00",
+ "generated_at": "2026-10-06T07:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-06T07:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85153 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-85153 📢 Source: CERT-In 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True This vulnerability exists in the Schmooze app due to the use of hardcoded credentials a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85153",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85153:2026-10-06T07:49"
+  },
   {
    "ts": "2026-10-06T07:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
    "source": "Lemmy · technology",
    "id": "community:https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html:2026-10-05T11:49"
-  },
-  {
-   "ts": "2026-10-05T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A browser-native classic Visual Basic VB6 IDE",
-   "body": "Hacker News · 점수 252",
-   "link": "https://wieslawsoltes.github.io/VB6/",
-   "source": "Hacker News",
-   "id": "community:https://wieslawsoltes.github.io/VB6/:2026-10-05T11:19"
   }
  ]
 }
