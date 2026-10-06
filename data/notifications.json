@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-06T20:19:12+00:00",
+ "generated_at": "2026-10-06T20:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-06T20:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105812 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-105812 📢 Source: AMZN 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Improper control of code generation in the agent import functionality of Amazon Bedrock Age",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105812",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105812:2026-10-06T20:49"
+  },
+  {
+   "ts": "2026-10-06T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-43598 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-43598 📢 Source: AMD 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Improper input validation in the AMD ROCm Communication Collectives Library (RCCL) could allow ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43598",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43598:2026-10-06T20:49"
+  },
+  {
+   "ts": "2026-10-06T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106547 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-106547 📢 Source: HDFG 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A heap-based buffer overflow in H5VM_array_fill() in src/H5VM.c in HDF5 before 2.2.0 lets a ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106547",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106547:2026-10-06T20:49"
+  },
+  {
+   "ts": "2026-10-06T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106062 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-106062 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A heap-based buffer overflow was found in GIMP’s DirectDraw Surface (DDS) loader. When loa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106062",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106062:2026-10-06T20:49"
+  },
   {
    "ts": "2026-10-06T20:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105837",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105837:2026-10-06T13:49"
-  },
-  {
-   "ts": "2026-10-06T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105835 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-105835 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True PLANKA 2.2.0 through 2.2.1 fails to limit incorrect TOTP codes submitted to POST /ap",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105835",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105835:2026-10-06T13:19"
-  },
-  {
-   "ts": "2026-10-06T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105834 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-105834 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Rundeck before 6.2.0 contains a path traversal vulnerability that allows users holding o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105834",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105834:2026-10-06T13:19"
-  },
-  {
-   "ts": "2026-10-06T12:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82531 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-82531 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Smarty before 4.5.8 and 5.x before 5.8.5 contains a code injection vulnerability wher",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82531",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82531:2026-10-06T12:49"
-  },
-  {
-   "ts": "2026-10-06T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] People are asking ChatGPT to help them decide how to vote in",
-   "body": "Lemmy · technology · 점수 102",
-   "link": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election:2026-10-06T12:19"
   }
  ]
 }
