@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-06T13:19:09+00:00",
+ "generated_at": "2026-10-06T13:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-06T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105841 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-105841 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True lrzsz before 0.13.0 contains an OS command injection vulnerability in the lrz receive ut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105841",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105841:2026-10-06T13:49"
+  },
+  {
+   "ts": "2026-10-06T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105840 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-105840 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True lrzsz before 0.13.0 contains a path traversal vulnerability in the lrz receive utility's",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105840",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105840:2026-10-06T13:49"
+  },
+  {
+   "ts": "2026-10-06T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105839 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-105839 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False libmikmod before 3.3.14 contains an integer overflow in the Oktalyzer loader OKT_doPBOD",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105839",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105839:2026-10-06T13:49"
+  },
+  {
+   "ts": "2026-10-06T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105837 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-105837 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False libmikmod before 3.3.14 contains an integer overflow vulnerability in DSM_Load() in loa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105837",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105837:2026-10-06T13:49"
+  },
   {
    "ts": "2026-10-06T13:19:07+00:00",
    "level": "important",
@@ -461,46 +501,6 @@
    "link": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
    "source": "Hacker News",
    "id": "community:https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped:2026-10-05T23:19"
-  },
-  {
-   "ts": "2026-10-05T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] In the wake of Tippett Studios’ closure, a digital archive a",
-   "body": "Hacker News · 점수 242",
-   "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-   "source": "Hacker News",
-   "id": "community:https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/:2026-10-05T23:19"
-  },
-  {
-   "ts": "2026-10-05T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Beam: Reflection's 501B open-weight model",
-   "body": "Hacker News · 점수 234",
-   "link": "https://reflection.ai/blog/introducing-beam",
-   "source": "Hacker News",
-   "id": "community:https://reflection.ai/blog/introducing-beam:2026-10-05T23:19"
-  },
-  {
-   "ts": "2026-10-05T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The technology to eradicate mosquito-borne disease exists",
-   "body": "Hacker News · 점수 229",
-   "link": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
-   "source": "Hacker News",
-   "id": "community:https://worksinprogress.co/issue/mosquitoes-are-a-choice/:2026-10-05T23:19"
-  },
-  {
-   "ts": "2026-10-05T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-0461 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-0461 📢 Source: AMD 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Insufficient boundary validation in the USB boot mode implementation of AMD Zynq ™ UltraScale+ ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-0461",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-0461:2026-10-05T21:49"
   }
  ]
 }
