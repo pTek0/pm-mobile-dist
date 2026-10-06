@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-06T14:49:09+00:00",
+ "generated_at": "2026-10-06T15:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-06T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-61421 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-61421 📢 Source: dell 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Dell Container Storage Modules, versions prior to 1.18.0, contain(s) an Use of Hard-coded ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-61421",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-61421:2026-10-06T15:19"
+  },
+  {
+   "ts": "2026-10-06T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-54472 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-54472 📢 Source: dell 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Dell Container Storage Modules, versions prior to 1.18.0, contain(s) an Use of Hard-coded ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54472",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54472:2026-10-06T15:19"
+  },
+  {
+   "ts": "2026-10-06T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104069 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-104069 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True HortusFox before 6.2 contains a remote code execution vulnerability in ThemeModule::star",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104069",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104069:2026-10-06T15:19"
+  },
+  {
+   "ts": "2026-10-06T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-67269 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-67269 📢 Source: dell 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Dell Container Storage Modules (CSM) Operator, versions prior to 1.18.0 contains an Improp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67269",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67269:2026-10-06T15:19"
+  },
   {
    "ts": "2026-10-06T14:49:07+00:00",
    "level": "important",
@@ -461,46 +501,6 @@
    "link": "https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/",
    "source": "Lemmy · technology",
    "id": "community:https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/:2026-10-06T00:19"
-  },
-  {
-   "ts": "2026-10-06T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Linux's ZRAM Reworked For Greater Memory Savings, Better Per",
-   "body": "Lemmy · programming.dev · 점수 76",
-   "link": "https://www.phoronix.com/news/Linux-ZRAM-Rework-Savings",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.phoronix.com/news/Linux-ZRAM-Rework-Savings:2026-10-06T00:19"
-  },
-  {
-   "ts": "2026-10-06T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Gleam doesn't compile to Erlang source anymore",
-   "body": "Lobsters · 점수 64",
-   "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-   "source": "Lobsters",
-   "id": "community:https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/:2026-10-06T00:19"
-  },
-  {
-   "ts": "2026-10-06T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Apple will update Macs to protect users from AI agents with ",
-   "body": "Lemmy · technology · 점수 61",
-   "link": "https://mashable.com/tech/apple-will-update-full-disk-access-due-to-updates-ai-agents",
-   "source": "Lemmy · technology",
-   "id": "community:https://mashable.com/tech/apple-will-update-full-disk-access-due-to-updates-ai-agents:2026-10-06T00:19"
-  },
-  {
-   "ts": "2026-10-06T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Another step towards elm v1",
-   "body": "Lobsters · 점수 54",
-   "link": "https://elm-lang.org/news/another-step-towards-elm-v1",
-   "source": "Lobsters",
-   "id": "community:https://elm-lang.org/news/another-step-towards-elm-v1:2026-10-06T00:19"
   }
  ]
 }
