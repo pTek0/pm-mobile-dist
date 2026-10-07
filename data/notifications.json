@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-07T05:49:07+00:00",
+ "generated_at": "2026-10-07T06:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-07T06:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59347 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-59347 📢 Source: vmware 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False VMware Workstation and Fusion contain a stack-based buffer-overflow vulnerability in HGFS. ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59347",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59347:2026-10-07T06:19"
+  },
+  {
+   "ts": "2026-10-07T06:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-59346 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-59346 📢 Source: vmware 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False VMware Workstation and Fusion contain an integer-overflow vulnerability. A malicious ac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59346",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59346:2026-10-07T06:19"
+  },
   {
    "ts": "2026-10-07T04:49:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102165",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102165:2026-10-06T20:19"
-  },
-  {
-   "ts": "2026-10-06T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102163 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-102163 📢 Source: Arista 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False On affected Arista access points with Wireless Intrusion Prevention System (WIPS) active, ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102163",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102163:2026-10-06T20:19"
-  },
-  {
-   "ts": "2026-10-06T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-102162 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-102162 📢 Source: Arista 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False On affected Arista Wi-Fi access points with captive portal, or application firewall en",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102162",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102162:2026-10-06T20:19"
   }
  ]
 }
