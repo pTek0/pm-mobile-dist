@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-07T20:49:07+00:00",
+ "generated_at": "2026-10-07T21:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-07T21:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76268 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-76268 📢 Source: cisco 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: False In Splunk Enterprise versions below 10.4.3 and 10.2.7, an unauthenticated user with netw",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76268",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76268:2026-10-07T21:19"
+  },
+  {
+   "ts": "2026-10-07T21:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76266 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-76266 📢 Source: cisco 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False In Splunk Enterprise versions below 10.4.3, 10.2.7, 10.0.10, and 9.4.15 on Linux, a local us",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76266",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76266:2026-10-07T21:19"
+  },
   {
    "ts": "2026-10-07T20:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92531",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92531:2026-10-07T11:19"
-  },
-  {
-   "ts": "2026-10-07T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Sharing AI progress in mathematics",
-   "body": "Hacker News · 점수 948",
-   "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-   "source": "Hacker News",
-   "id": "community:https://openai.com/index/sharing-ai-progress-in-mathematics/:2026-10-07T11:19"
-  },
-  {
-   "ts": "2026-10-07T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] EmbeddingGemma 2: An open, lightweight multimodal embedding ",
-   "body": "Hacker News · 점수 336",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-   "source": "Hacker News",
-   "id": "community:https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/:2026-10-07T11:19"
   }
  ]
 }
