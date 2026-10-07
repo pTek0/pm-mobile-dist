@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-07T01:49:09+00:00",
+ "generated_at": "2026-10-07T02:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-07T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19396 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-19396 📢 Source: ASUS 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False A predictable seed in the pseudo-random number generator (PRNG) in the IFTTT pairing token ge",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19396",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19396:2026-10-07T02:19"
+  },
+  {
+   "ts": "2026-10-07T02:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19386 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-19386 📢 Source: ASUS 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False A stack-based buffer overflow in the ASUS router modules allows an authenticated nearby u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19386",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19386:2026-10-07T02:19"
+  },
+  {
+   "ts": "2026-10-07T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16528 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-16528 📢 Source: ASUS 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Insertion of Sensitive Information into Log File in certain ASUS router models allows a remot",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16528",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16528:2026-10-07T02:19"
+  },
+  {
+   "ts": "2026-10-07T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106471 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-106471 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Candlepin. The central authorization filter incorrectly grants access w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106471",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106471:2026-10-07T02:19"
+  },
+  {
+   "ts": "2026-10-07T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102478 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-102478 📢 Source: Octopus 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, an authenticated user with permission to modify ro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102478",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102478:2026-10-07T02:19"
+  },
   {
    "ts": "2026-10-07T01:49:07+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102158",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102158:2026-10-06T20:19"
-  },
-  {
-   "ts": "2026-10-06T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102155 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-102155 📢 Source: Arista 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An XML External Entity (XXE) injection vulnerability in the WiFi-server Spectralight appli",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102155",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102155:2026-10-06T20:19"
-  },
-  {
-   "ts": "2026-10-06T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-101157 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-101157 📢 Source: Arista 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False A stored cross-site scripting (XSS) vulnerability may allow an unauthenticated attacke",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101157",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101157:2026-10-06T20:19"
-  },
-  {
-   "ts": "2026-10-06T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101156 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-101156 📢 Source: Arista 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False A stored cross-site scripting (XSS) vulnerability may allow an authenticated, high-privile",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101156",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101156:2026-10-06T20:19"
-  },
-  {
-   "ts": "2026-10-06T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-101155 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-101155 📢 Source: Arista 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False An authenticated remote attacker with specific permissions can read or write files on ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101155",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101155:2026-10-06T20:19"
-  },
-  {
-   "ts": "2026-10-06T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101154 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-101154 📢 Source: Arista 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False An authenticated remote attacker with specific permissions can read or write files on the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101154",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101154:2026-10-06T20:19"
   }
  ]
 }
