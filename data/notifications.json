@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-07T17:19:10+00:00",
+ "generated_at": "2026-10-07T17:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-07T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96335 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-96335 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in WPMU DEV Forminator allows Exploiting Incorrectly",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96335",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96335:2026-10-07T17:49"
+  },
   {
    "ts": "2026-10-07T17:19:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-42720",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-42720:2026-10-07T10:19"
-  },
-  {
-   "ts": "2026-10-07T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105192 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-105192 📢 Source: JFROG 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True LMCache multiprocess mode, also called distributed mode, opens an unauthenticated ZeroMQ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105192",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105192:2026-10-07T10:19"
   }
  ]
 }
