@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-07T04:19:08+00:00",
+ "generated_at": "2026-10-07T04:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-07T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19572 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-19572 📢 Source: flexera 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A security vulnerability has been identified in FlexNet Publisher lmadmin. The vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19572",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19572:2026-10-07T04:49"
+  },
   {
    "ts": "2026-10-07T02:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102162",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102162:2026-10-06T20:19"
-  },
-  {
-   "ts": "2026-10-06T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102161 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-102161 📢 Source: Arista 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False An unauthenticated attacker located on an adjacent private network (or any attacker routed",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102161",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102161:2026-10-06T20:19"
   }
  ]
 }
