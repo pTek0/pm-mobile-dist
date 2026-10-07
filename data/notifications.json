@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-07T08:19:08+00:00",
+ "generated_at": "2026-10-07T08:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-07T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107104 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-107104 📢 Source: CERT-In 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True This vulnerability exists in the ERP system due to unsafe deserialization of user cont",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107104",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107104:2026-10-07T08:49"
+  },
+  {
+   "ts": "2026-10-07T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107103 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-107103 📢 Source: CERT-In 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True This vulnerability exists in the ERP system due to insufficient validation and paramet",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107103",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107103:2026-10-07T08:49"
+  },
+  {
+   "ts": "2026-10-07T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107102 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-107102 📢 Source: CERT-In 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True This vulnerability exists in the ERP system due to improper validation of payment call",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107102",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107102:2026-10-07T08:49"
+  },
   {
    "ts": "2026-10-07T06:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102169",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102169:2026-10-06T20:19"
-  },
-  {
-   "ts": "2026-10-06T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102168 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-102168 📢 Source: Arista 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False On affected Arista Wi-Fi access points with Captive Portal enabled, an unauthenticated wir",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102168",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102168:2026-10-06T20:19"
-  },
-  {
-   "ts": "2026-10-06T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-102167 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-102167 📢 Source: Arista 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: False On affected Arista Wi-Fi access points, a memory corruption vulnerability exists in acce",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102167",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102167:2026-10-06T20:19"
-  },
-  {
-   "ts": "2026-10-06T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102165 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-102165 📢 Source: Arista 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False On affected Arista Wi-Fi access points, an unauthenticated attacker with network access to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102165",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102165:2026-10-06T20:19"
   }
  ]
 }
