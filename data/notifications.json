@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-07T21:49:07+00:00",
+ "generated_at": "2026-10-07T22:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-07T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105816 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-105816 📢 Source: HashiCorp 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False Vault and Vault Enterprise did not consistently verify that stored plugin catalog entries",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105816",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105816:2026-10-07T22:19"
+  },
   {
    "ts": "2026-10-07T21:19:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92532",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92532:2026-10-07T11:19"
-  },
-  {
-   "ts": "2026-10-07T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92531 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-92531 📢 Source: INCIBE 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Operating system command injection vulnerability in the SVN integration component of BugTrac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92531",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92531:2026-10-07T11:19"
   }
  ]
 }
