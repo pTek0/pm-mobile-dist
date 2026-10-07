@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-06T23:49:08+00:00",
+ "generated_at": "2026-10-07T00:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-07T00:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104335 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-104335 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to execute a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104335",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104335:2026-10-07T00:19"
+  },
+  {
+   "ts": "2026-10-07T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Async Rust: Where does the scheduler live?",
+   "body": "Lobsters · 점수 57",
+   "link": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
+   "source": "Lobsters",
+   "id": "community:https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/:2026-10-07T00:19"
+  },
+  {
+   "ts": "2026-10-07T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Norway eyes temporary ban of smart glasses",
+   "body": "Lemmy · programming.dev · 점수 50",
+   "link": "https://www.france24.com/en/video/20261006-norway-eyes-temporary-ban-of-smart-glasses",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://www.france24.com/en/video/20261006-norway-eyes-temporary-ban-of-smart-glasses:2026-10-07T00:19"
+  },
   {
    "ts": "2026-10-06T23:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-61421",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-61421:2026-10-06T15:19"
-  },
-  {
-   "ts": "2026-10-06T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-54472 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-54472 📢 Source: dell 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Dell Container Storage Modules, versions prior to 1.18.0, contain(s) an Use of Hard-coded ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54472",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54472:2026-10-06T15:19"
-  },
-  {
-   "ts": "2026-10-06T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104069 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-104069 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True HortusFox before 6.2 contains a remote code execution vulnerability in ThemeModule::star",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104069",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104069:2026-10-06T15:19"
-  },
-  {
-   "ts": "2026-10-06T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-67269 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-67269 📢 Source: dell 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Dell Container Storage Modules (CSM) Operator, versions prior to 1.18.0 contains an Improp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67269",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67269:2026-10-06T15:19"
   }
  ]
 }
