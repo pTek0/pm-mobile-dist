@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-07T18:19:08+00:00",
+ "generated_at": "2026-10-07T18:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-07T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106164 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-106164 📢 Source: ProgressSoftware 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® Document Processing SpreadProcessing library, versions pr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106164",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106164:2026-10-07T18:49"
+  },
   {
    "ts": "2026-10-07T17:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-42721",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-42721:2026-10-07T10:19"
-  },
-  {
-   "ts": "2026-10-07T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-42720 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-42720 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-42720",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-42720:2026-10-07T10:19"
   }
  ]
 }
