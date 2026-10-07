@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-07T12:49:08+00:00",
+ "generated_at": "2026-10-07T13:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-07T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107177 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-107177 📢 Source: VulnCheck 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Express Gateway through 1.16.11 contains a hardcoded cryptographic key vulnerability tha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107177",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107177:2026-10-07T13:19"
+  },
+  {
+   "ts": "2026-10-07T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107162 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-107162 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Express Gateway through 1.16.11 contains an authentication bypass vulnerability in the O",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107162",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107162:2026-10-07T13:19"
+  },
   {
    "ts": "2026-10-07T12:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-106471",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106471:2026-10-07T02:19"
-  },
-  {
-   "ts": "2026-10-07T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102478 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-102478 📢 Source: Octopus 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, an authenticated user with permission to modify ro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102478",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102478:2026-10-07T02:19"
-  },
-  {
-   "ts": "2026-10-07T01:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105324 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-105324 📢 Source: ASUSTOR1 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True An HTTP header injection vulnerability in start-page-loader.cgi of ADM allows an unau",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105324",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105324:2026-10-07T01:49"
   }
  ]
 }
