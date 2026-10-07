@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-07T19:19:08+00:00",
+ "generated_at": "2026-10-07T19:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-07T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97715 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-97715 📢 Source: Absolute 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True CVE-2026-97715 is a vulnerability in the client registration process of Secure Access serv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97715",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97715:2026-10-07T19:49"
+  },
+  {
+   "ts": "2026-10-07T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-34499 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-34499 📢 Source: jci 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Use of hard-coded cryptographic key vulnerability in Johnson Controls ADVMS allows Read Sensit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-34499",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34499:2026-10-07T19:49"
+  },
+  {
+   "ts": "2026-10-07T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107161 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-107161 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A heap-based buffer overflow flaw was found in Cyrus SASL. The add_to_challenge() function ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107161",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107161:2026-10-07T19:49"
+  },
+  {
+   "ts": "2026-10-07T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97714 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-97714 📢 Source: Absolute 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True CVE-2026-97714 is a is a vulnerability in the authentication sub-system of Secure Access s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97714",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97714:2026-10-07T19:49"
+  },
   {
    "ts": "2026-10-07T18:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://github.com/boykopovar/AnyPS5",
    "source": "Hacker News",
    "id": "community:https://github.com/boykopovar/AnyPS5:2026-10-07T11:19"
-  },
-  {
-   "ts": "2026-10-07T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tell HN: GitHub refuses to remove cracked copies of my softw",
-   "body": "Hacker News · 점수 268",
-   "link": "https://news.ycombinator.com/item?id=49982498",
-   "source": "Hacker News",
-   "id": "community:https://news.ycombinator.com/item?id=49982498:2026-10-07T11:19"
-  },
-  {
-   "ts": "2026-10-07T10:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-96408 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-96408 📢 Source: jpcert 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False A code injection vulnerability exists in the upgrade script of Movable Type, which may ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96408",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96408:2026-10-07T10:49"
-  },
-  {
-   "ts": "2026-10-07T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103668 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-103668 📢 Source: jpcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False An SQL Injection vulnerability exists in the Site Search function of Movable Type, which m",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103668",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103668:2026-10-07T10:49"
-  },
-  {
-   "ts": "2026-10-07T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-42721 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-42721 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-42721",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-42721:2026-10-07T10:19"
   }
  ]
 }
