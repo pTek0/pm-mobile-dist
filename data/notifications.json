@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-07T15:49:10+00:00",
+ "generated_at": "2026-10-07T16:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-07T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92414 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-92414 📢 Source: apache 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True : Session Fixation / Session Reuse across Users vulnerability in Apache Jackrabbit. Jack",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92414",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92414:2026-10-07T16:19"
+  },
+  {
+   "ts": "2026-10-07T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107270 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-107270 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Gophish through 0.12.1 contains an insecure direct object reference vulnerability that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107270",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107270:2026-10-07T16:19"
+  },
   {
    "ts": "2026-10-07T15:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107102",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107102:2026-10-07T08:49"
-  },
-  {
-   "ts": "2026-10-07T06:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59347 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-59347 📢 Source: vmware 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False VMware Workstation and Fusion contain a stack-based buffer-overflow vulnerability in HGFS. ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59347",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59347:2026-10-07T06:19"
-  },
-  {
-   "ts": "2026-10-07T06:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-59346 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-59346 📢 Source: vmware 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False VMware Workstation and Fusion contain an integer-overflow vulnerability. A malicious ac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59346",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59346:2026-10-07T06:19"
   }
  ]
 }
