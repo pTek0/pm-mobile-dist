@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-08T04:49:08+00:00",
+ "generated_at": "2026-10-08T05:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T05:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94585 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-94585 📢 Source: brocade 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False An authentication bypass vulnerability exists in the web management interface of Brocade F",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94585",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94585:2026-10-08T05:19"
+  },
+  {
+   "ts": "2026-10-08T05:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107450 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-107450 📢 Source: mitre 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In Stump through 0.1.10, the updateSmartList and deleteSmartList GraphQL mutations (crates/g",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107450",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107450:2026-10-08T05:19"
+  },
   {
    "ts": "2026-10-08T04:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76268",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76268:2026-10-07T21:19"
-  },
-  {
-   "ts": "2026-10-07T21:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76266 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-76266 📢 Source: cisco 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False In Splunk Enterprise versions below 10.4.3, 10.2.7, 10.0.10, and 9.4.15 on Linux, a local us",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76266",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76266:2026-10-07T21:19"
-  },
-  {
-   "ts": "2026-10-07T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107352 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-107352 📢 Source: AMZN 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Missing authorization checks in Amazon Athena engine version 3 request handling could have al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107352",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107352:2026-10-07T20:49"
   }
  ]
 }
