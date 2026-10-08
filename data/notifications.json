@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-08T02:19:07+00:00",
+ "generated_at": "2026-10-08T02:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94578 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-94578 📢 Source: brocade 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Brocade Fabric OS versions before 10.0.1 contain an authorization logic vulnerability in t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94578",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94578:2026-10-08T02:49"
+  },
+  {
+   "ts": "2026-10-08T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87684 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-87684 📢 Source: brocade 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False A stack-based buffer overflow vulnerability exists in the SNMP daemon request handling of ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87684",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87684:2026-10-08T02:49"
+  },
+  {
+   "ts": "2026-10-08T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87671 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-87671 📢 Source: brocade 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An out-of-bounds memory read vulnerability exists in the web management daemon of Brocade ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87671",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87671:2026-10-08T02:49"
+  },
+  {
+   "ts": "2026-10-08T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87659 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-87659 📢 Source: brocade 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A critical authorization bypass vulnerability exists in the Management Server handling of ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87659",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87659:2026-10-08T02:49"
+  },
   {
    "ts": "2026-10-08T01:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92414",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92414:2026-10-07T16:19"
-  },
-  {
-   "ts": "2026-10-07T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107270 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-107270 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Gophish through 0.12.1 contains an insecure direct object reference vulnerability that a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107270",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107270:2026-10-07T16:19"
-  },
-  {
-   "ts": "2026-10-07T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107207 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-107207 📢 Source: VulnCheck 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True LMCache through 0.5.5 contains a server-side request forgery vulnerability in its fronte",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107207",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107207:2026-10-07T15:49"
-  },
-  {
-   "ts": "2026-10-07T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107206 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-107206 📢 Source: VulnCheck 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True LMCache through 0.5.5 contains a missing authentication vulnerability in the multipr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107206",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107206:2026-10-07T15:49"
-  },
-  {
-   "ts": "2026-10-07T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107205 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-107205 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True LMCache through 0.5.5 contains a missing authentication vulnerability in the multiproces",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107205",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107205:2026-10-07T15:49"
   }
  ]
 }
