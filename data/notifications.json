@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-08T17:19:07+00:00",
+ "generated_at": "2026-10-08T17:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93860 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-93860 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In OpenStack Mistral through 23.0.0, the /v2/maintenance API controller clears the request co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93860",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93860:2026-10-08T17:49"
+  },
+  {
+   "ts": "2026-10-08T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93858 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93858 📢 Source: mitre 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In OpenStack Mistral through 23.0.0, the std.ssh_proxied action passes a caller-supplied prox",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93858",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93858:2026-10-08T17:49"
+  },
+  {
+   "ts": "2026-10-08T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107696 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-107696 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FFmpeg through 9.0.2 contains an infinite loop vulnerability in ff_rtsp_connect() in lib",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107696",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107696:2026-10-08T17:49"
+  },
+  {
+   "ts": "2026-10-08T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107695 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-107695 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FFmpeg before 8.1.3 contains an infinite loop vulnerability in the HLS demuxer that allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107695",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107695:2026-10-08T17:49"
+  },
+  {
+   "ts": "2026-10-08T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107362 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-107362 📢 Source: icscert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Malcolm file-upload component ships the upstream FilePond PHP server (pqina/filepond-serve",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107362",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107362:2026-10-08T17:49"
+  },
+  {
+   "ts": "2026-10-08T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107333 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-107333 📢 Source: icscert 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Malcolm's nginx based reverse proxy contains a URL path normalization inconsistency betwee",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107333",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107333:2026-10-08T17:49"
+  },
   {
    "ts": "2026-10-08T17:19:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107584",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107584:2026-10-08T12:19"
-  },
-  {
-   "ts": "2026-10-08T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107579 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-107579 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Inefficient algorithmic complexity in the bounce and complaint processing of Progressive Ro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107579",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107579:2026-10-08T12:19"
-  },
-  {
-   "ts": "2026-10-08T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107577 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-107577 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Inefficient algorithmic complexity and a non-terminating loop in the MIME processing of rec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107577",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107577:2026-10-08T12:19"
-  },
-  {
-   "ts": "2026-10-08T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107576 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-107576 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Inefficient algorithmic complexity in the inbound DKIM and ARC signature verification of Pr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107576",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107576:2026-10-08T12:19"
-  },
-  {
-   "ts": "2026-10-08T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107573 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-107573 📢 Source: GitLab 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Incorrect default permissions in the Windows installer of Progressive Robot hMailServer 6.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107573",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107573:2026-10-08T12:19"
-  },
-  {
-   "ts": "2026-10-08T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107574 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-107574 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Inefficient algorithmic complexity in the JSON reader of Progressive Robot hMailServer allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107574",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107574:2026-10-08T12:19"
-  },
-  {
-   "ts": "2026-10-08T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] PSP games in the browser without an emulator: static recompi",
-   "body": "Lemmy · programming.dev · 점수 55",
-   "link": "https://github.com/snuri00/psp-web-recomp",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://github.com/snuri00/psp-web-recomp:2026-10-08T12:19"
   }
  ]
 }
