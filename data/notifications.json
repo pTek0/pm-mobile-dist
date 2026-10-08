@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-08T03:49:07+00:00",
+ "generated_at": "2026-10-08T04:19:18+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T04:19:17+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87667 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-87667 📢 Source: brocade 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False An argument injection vulnerability exists in the configuration management command-line ut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87667",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87667:2026-10-08T04:19"
+  },
+  {
+   "ts": "2026-10-08T04:19:17+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87666 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-87666 📢 Source: brocade 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False An OS command injection vulnerability exists in the time and zone management subsystem of ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87666",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87666:2026-10-08T04:19"
+  },
+  {
+   "ts": "2026-10-08T04:19:17+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87660 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-87660 📢 Source: brocade 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False An improper file permission and missing authorization vulnerability exists in the diagnostic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87660",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87660:2026-10-08T04:19"
+  },
+  {
+   "ts": "2026-10-08T04:19:17+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87675 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-87675 📢 Source: brocade 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True An OS command injection vulnerability exists in the configuration management subsystem of B",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87675",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87675:2026-10-08T04:19"
+  },
   {
    "ts": "2026-10-08T03:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-106164",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106164:2026-10-07T18:49"
-  },
-  {
-   "ts": "2026-10-07T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96335 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-96335 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in WPMU DEV Forminator allows Exploiting Incorrectly",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96335",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96335:2026-10-07T17:49"
-  },
-  {
-   "ts": "2026-10-07T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-95606 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-95606 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Liquid Web / StellarWP The Events",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95606",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95606:2026-10-07T17:19"
-  },
-  {
-   "ts": "2026-10-07T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-95605 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-95605 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95605",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95605:2026-10-07T17:19"
-  },
-  {
-   "ts": "2026-10-07T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95595 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-95595 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95595",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95595:2026-10-07T17:19"
   }
  ]
 }
