@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-08T14:19:09+00:00",
+ "generated_at": "2026-10-08T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93017 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-93017 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True The `insights-operator-gather` ClusterRole grants the operator's service account read access",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93017",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93017:2026-10-08T14:49"
+  },
+  {
+   "ts": "2026-10-08T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-14269 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-14269 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM DataPower Gateway 10.5.0.0 through 10.5.0.22 , 10.6.1 through 10.6.6, 10.6.0.0 through ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14269",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14269:2026-10-08T14:49"
+  },
+  {
+   "ts": "2026-10-08T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105833 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-105833 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True EspoCRM before 10.0.5 contains an insecure direct object reference vulnerability in Pers",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105833",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105833:2026-10-08T14:49"
+  },
+  {
+   "ts": "2026-10-08T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105830 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-105830 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True league/commonmark from 2.0.0 before 2.10.2 contains a quadratic-time denial of service v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105830",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105830:2026-10-08T14:49"
+  },
+  {
+   "ts": "2026-10-08T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105824 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-105824 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True ImageMagick before 6.9.13-55 and 7.x before 7.1.2-30 contains a use-after-free vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105824",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105824:2026-10-08T14:49"
+  },
+  {
+   "ts": "2026-10-08T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105405 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-105405 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True ImageMagick before 6.9.13-56 and 7.x before 7.1.2-31 contains an invalid memory free vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105405",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105405:2026-10-08T14:49"
+  },
   {
    "ts": "2026-10-08T14:19:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://lemmy.world/pictrs/image/e5031a20-2c20-4b65-bfd2-70e9438897eb.jpeg",
    "source": "Lemmy · programming.dev",
    "id": "community:https://lemmy.world/pictrs/image/e5031a20-2c20-4b65-bfd2-70e9438897eb.jpeg:2026-10-08T11:49"
-  },
-  {
-   "ts": "2026-10-08T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Software developers are not okay",
-   "body": "Lobsters · 점수 73",
-   "link": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
-   "source": "Lobsters",
-   "id": "community:https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/:2026-10-08T11:49"
-  },
-  {
-   "ts": "2026-10-08T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] US man arrested as second suspect in Canada mass school shoo",
-   "body": "Lemmy · technology · 점수 69",
-   "link": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington:2026-10-08T11:49"
-  },
-  {
-   "ts": "2026-10-08T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104704 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-104704 📢 Source: GitLab 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Progressive Robot hMailServer 6.0.0 through 6.3.5 does not enforce TLS for outbound SMTP de",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104704",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104704:2026-10-08T11:19"
-  },
-  {
-   "ts": "2026-10-08T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104660 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-104660 📢 Source: GitLab 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Missing authorization on COM objects in Progressive Robot hMailServer 6.0.0 through 6.3.5 ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104660",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104660:2026-10-08T11:19"
-  },
-  {
-   "ts": "2026-10-08T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104659 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-104659 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Host header validation and missing throttling of failed administrator sign-ins in t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104659",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104659:2026-10-08T11:19"
-  },
-  {
-   "ts": "2026-10-08T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104658 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-104658 📢 Source: GitLab 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The Linux live-update apply helper (hmailserver-update) of Progressive Robot hMailServer 6",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104658",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104658:2026-10-08T11:19"
   }
  ]
 }
