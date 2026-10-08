@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-10-08T06:19:07+00:00",
+ "generated_at": "2026-10-08T06:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85490 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-85490 📢 Source: brocade 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False When Brocade ASCG before 3.5.0 processes support bundle archives ingested from remote comp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85490",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85490:2026-10-08T06:49"
+  },
+  {
+   "ts": "2026-10-08T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85489 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-85489 📢 Source: brocade 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False An authentication flaw exists in the Brocade ASCG administrative management service compon",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85489",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85489:2026-10-08T06:49"
+  },
+  {
+   "ts": "2026-10-08T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85488 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-85488 📢 Source: brocade 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Brocade ASCG before 3.5.0 has a well-known Brocade default password embedded in a script dis",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85488",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85488:2026-10-08T06:49"
+  },
+  {
+   "ts": "2026-10-08T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85487 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-85487 📢 Source: brocade 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False A path traversal vulnerability exists in the HTTP service component of Brocade ASCG versio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85487",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85487:2026-10-08T06:49"
+  },
+  {
+   "ts": "2026-10-08T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85486 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-85486 📢 Source: brocade 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Brocade ASCG before 3.5.0 improperly processes user input by evaluating form data prior to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85486",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85486:2026-10-08T06:49"
+  },
+  {
+   "ts": "2026-10-08T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85423 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-85423 📢 Source: brocade 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False A vulnerability has been identified in the data collection service of Brocade ASCG version",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85423",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85423:2026-10-08T06:49"
+  },
+  {
+   "ts": "2026-10-08T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85422 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-85422 📢 Source: brocade 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False A vulnerability in Brocade ASCG version before 3.5.0 could allow an attacker to obtain a s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85422",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85422:2026-10-08T06:49"
+  },
+  {
+   "ts": "2026-10-08T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85421 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-85421 📢 Source: brocade 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False A critical security vulnerability has been identified in Brocade ASCG versions before 3.5.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85421",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85421:2026-10-08T06:49"
+  },
   {
    "ts": "2026-10-08T05:49:06+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://ascii.rest/",
    "source": "Hacker News",
    "id": "community:https://ascii.rest/:2026-10-07T23:49"
-  },
-  {
-   "ts": "2026-10-07T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] RAM to see 'meaningful price increases' before 2026 is out, ",
-   "body": "Lemmy · technology · 점수 216",
-   "link": "https://www.techradar.com/computing/memory/ram-to-see-meaningful-price-increases-before-2026-is-out-as-the-memory-crisis-is-predicted-to-last-at-least-another-3-years",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.techradar.com/computing/memory/ram-to-see-meaningful-price-increases-before-2026-is-out-as-the-memory-crisis-is-predicted-to-last-at-least-another-3-years:2026-10-07T23:49"
-  },
-  {
-   "ts": "2026-10-07T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] 🦐🦐🦐",
-   "body": "Lemmy · programming.dev · 점수 579",
-   "link": "https://gregtech.eu/pictrs/image/d60d2627-5554-4c5e-9d37-b0abf5a8bfd8.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://gregtech.eu/pictrs/image/d60d2627-5554-4c5e-9d37-b0abf5a8bfd8.jpeg:2026-10-07T23:19"
-  },
-  {
-   "ts": "2026-10-07T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Claude Haiku 5.5",
-   "body": "Hacker News · 점수 578",
-   "link": "https://www.anthropic.com/claude-haiku-5-5",
-   "source": "Hacker News",
-   "id": "community:https://www.anthropic.com/claude-haiku-5-5:2026-10-07T23:19"
-  },
-  {
-   "ts": "2026-10-07T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Shipping JPEG XL in Chrome",
-   "body": "Hacker News · 점수 460",
-   "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-   "source": "Hacker News",
-   "id": "community:https://developer.chrome.com/blog/jpeg-xl-in-chrome:2026-10-07T23:19"
-  },
-  {
-   "ts": "2026-10-07T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Visa, Mastercard, major banks facing new litigation over 'an",
-   "body": "Hacker News · 점수 438",
-   "link": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
-   "source": "Hacker News",
-   "id": "community:https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees:2026-10-07T23:19"
-  },
-  {
-   "ts": "2026-10-07T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GPT‑6 and Intelligent UI for everyone",
-   "body": "Hacker News · 점수 418",
-   "link": "https://openai.com/index/gpt-6-for-everyone/",
-   "source": "Hacker News",
-   "id": "community:https://openai.com/index/gpt-6-for-everyone/:2026-10-07T23:19"
-  },
-  {
-   "ts": "2026-10-07T22:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-89322 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-89322 📢 Source: HashiCorp 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False Vault and Vault Enterprise did not consistently evaluate ACL policies against the canoni",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89322",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89322:2026-10-07T22:49"
-  },
-  {
-   "ts": "2026-10-07T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105816 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-105816 📢 Source: HashiCorp 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False Vault and Vault Enterprise did not consistently verify that stored plugin catalog entries",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105816",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105816:2026-10-07T22:19"
   }
  ]
 }
