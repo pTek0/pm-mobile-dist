@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-08T09:49:07+00:00",
+ "generated_at": "2026-10-08T10:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T10:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107510 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-107510 📢 Source: Infoblox 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True An authenticated high privilege user can inject arguments in troubleshooting commands",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107510",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107510:2026-10-08T10:19"
+  },
+  {
+   "ts": "2026-10-08T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107503 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-107503 📢 Source: eclipse 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Unvalidated environments URL allows OAuth authorization code + PKCE verifier theft and acc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107503",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107503:2026-10-08T10:19"
+  },
   {
    "ts": "2026-10-08T09:19:06+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://www.fastcompany.com/91619118/amazon-shopping-customer-profiles-about-you-page-shockingly-specific-how-to-see-view-your-profile",
    "source": "Lemmy · technology",
    "id": "community:https://www.fastcompany.com/91619118/amazon-shopping-customer-profiles-about-you-page-shockingly-specific-how-to-see-view-your-profile:2026-10-08T00:19"
-  },
-  {
-   "ts": "2026-10-08T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-   "body": "Lemmy · technology · 점수 121",
-   "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/:2026-10-08T00:19"
-  },
-  {
-   "ts": "2026-10-08T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] cicada 3301 rule",
-   "body": "Lemmy · programming.dev · 점수 120",
-   "link": "https://sh.itjust.works/pictrs/image/fe09daa4-e274-47e5-8802-207e8d3dca01.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://sh.itjust.works/pictrs/image/fe09daa4-e274-47e5-8802-207e8d3dca01.jpeg:2026-10-08T00:19"
   }
  ]
 }
