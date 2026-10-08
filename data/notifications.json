@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-08T19:49:11+00:00",
+ "generated_at": "2026-10-08T20:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107707 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-107707 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Intego Antivirus for Windows through 3.0.0.1 contains a link following vulnerability in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107707",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107707:2026-10-08T20:19"
+  },
+  {
+   "ts": "2026-10-08T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107705 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-107705 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Poppler 0.42.0 through 26.10.0 contains a stack-based buffer overflow in Decrypt::revisi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107705",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107705:2026-10-08T20:19"
+  },
+  {
+   "ts": "2026-10-08T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-106126 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-106126 📢 Source: tenable 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A command injection vulnerability in the Active Directory Events Listener of Tenable I",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106126",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106126:2026-10-08T20:19"
+  },
   {
    "ts": "2026-10-08T19:49:06+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107615",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107615:2026-10-08T14:19"
-  },
-  {
-   "ts": "2026-10-08T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107612 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-107612 📢 Source: securin 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Incorrect permission assignment in GlavSoft TightVNC Server for Windows before 2.8.88 all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107612",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107612:2026-10-08T14:19"
-  },
-  {
-   "ts": "2026-10-08T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107611 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-107611 📢 Source: securin 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An out-of-bounds read vulnerability in the ZRLE decoder of GlavSoft TightVNC Viewer for W",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107611",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107611:2026-10-08T14:19"
-  },
-  {
-   "ts": "2026-10-08T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16167 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-16167 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM DataPower Gateway 10.5.0.0 through 10.5.0.22 , 10.6.1 through 10.6.6, 10.6.0.0 through 10.6",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16167",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16167:2026-10-08T13:49"
   }
  ]
 }
