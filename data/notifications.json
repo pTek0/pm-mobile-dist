@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-08T00:49:07+00:00",
+ "generated_at": "2026-10-08T01:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87681 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-87681 📢 Source: brocade 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An Access Control Bypass vulnerability exists in the Role-Based Access Control (RBAC) vali",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87681",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87681:2026-10-08T01:19"
+  },
+  {
+   "ts": "2026-10-08T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87680 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-87680 📢 Source: brocade 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A command injection vulnerability in the REST API management interface of Brocade Fabric O",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87680",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87680:2026-10-08T01:19"
+  },
+  {
+   "ts": "2026-10-08T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87679 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-87679 📢 Source: brocade 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False When Brocade Fabric OS versions before 10.0.1 processes trunk configuration operations, th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87679",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87679:2026-10-08T01:19"
+  },
   {
    "ts": "2026-10-08T00:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107194",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107194:2026-10-07T14:19"
-  },
-  {
-   "ts": "2026-10-07T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107183 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-107183 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True llama.cpp before b11393 contains a use-after-free and double free vulnerability in c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107183",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107183:2026-10-07T14:19"
-  },
-  {
-   "ts": "2026-10-07T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107181 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-107181 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Telegram Desktop before 7.2.9 contains an IPC record-separator injection vulnerability i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107181",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107181:2026-10-07T14:19"
-  },
-  {
-   "ts": "2026-10-07T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107177 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-107177 📢 Source: VulnCheck 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Express Gateway through 1.16.11 contains a hardcoded cryptographic key vulnerability tha",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107177",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107177:2026-10-07T13:19"
   }
  ]
 }
