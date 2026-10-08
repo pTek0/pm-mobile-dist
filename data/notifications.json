@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-08T08:19:07+00:00",
+ "generated_at": "2026-10-08T08:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T08:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-12260 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-12260 📢 Source: INCIBE 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True SQL injection in the NetBoard CRM demo platform; specifically, the vulnerable component i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12260",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12260:2026-10-08T08:49"
+  },
   {
    "ts": "2026-10-08T07:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://itsfoss.com/news/google-oss-vrp-product-reports-closed/",
    "source": "Lemmy · technology",
    "id": "community:https://itsfoss.com/news/google-oss-vrp-product-reports-closed/:2026-10-08T00:19"
-  },
-  {
-   "ts": "2026-10-07T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A font recreated from photographs of classic Commodore 64 ke",
-   "body": "Hacker News · 점수 367",
-   "link": "https://github.com/szabadkai/c64-keyboard-font/",
-   "source": "Hacker News",
-   "id": "community:https://github.com/szabadkai/c64-keyboard-font/:2026-10-07T23:49"
   }
  ]
 }
