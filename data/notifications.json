@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-08T06:49:07+00:00",
+ "generated_at": "2026-10-08T07:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T07:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87428 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-87428 📢 Source: brocade 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False In Brocade ASCG before 3.5.0, a local unauthorized user on the ASCG VM who can issue a req",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87428",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87428:2026-10-08T07:19"
+  },
+  {
+   "ts": "2026-10-08T07:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87425 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-87425 📢 Source: brocade 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: False An unauthenticated remote attacker can modify the TLS client trust store in Brocade ASCG v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87425",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87425:2026-10-08T07:19"
+  },
+  {
+   "ts": "2026-10-08T07:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87424 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-87424 📢 Source: brocade 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False A vulnerability in the SupportLink API authentication component of Brocade ASCG versions p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87424",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87424:2026-10-08T07:19"
+  },
   {
    "ts": "2026-10-08T06:49:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://github.com/szabadkai/c64-keyboard-font/",
    "source": "Hacker News",
    "id": "community:https://github.com/szabadkai/c64-keyboard-font/:2026-10-07T23:49"
-  },
-  {
-   "ts": "2026-10-07T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: Bigwords.page – Turn any screen into a sign. The UR",
-   "body": "Hacker News · 점수 288",
-   "link": "https://bigwords.page/",
-   "source": "Hacker News",
-   "id": "community:https://bigwords.page/:2026-10-07T23:49"
-  },
-  {
-   "ts": "2026-10-07T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso So",
-   "body": "Hacker News · 점수 281",
-   "link": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-   "source": "Hacker News",
-   "id": "community:https://www.nobelprize.org/prizes/chemistry/2026/press-release/:2026-10-07T23:49"
-  },
-  {
-   "ts": "2026-10-07T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Animated ASCII Art for Web Pages",
-   "body": "Hacker News · 점수 252",
-   "link": "https://ascii.rest/",
-   "source": "Hacker News",
-   "id": "community:https://ascii.rest/:2026-10-07T23:49"
   }
  ]
 }
