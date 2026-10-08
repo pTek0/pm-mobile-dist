@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-08T16:49:07+00:00",
+ "generated_at": "2026-10-08T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105436 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-105436 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in MainWP MainWP Child mainwp-child all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105436",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105436:2026-10-08T17:19"
+  },
+  {
+   "ts": "2026-10-08T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104078 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-104078 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Obsidian Desktop before 1.14.0 contains a filter bypass vulnerability in the bundled Ma",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104078",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104078:2026-10-08T17:19"
+  },
   {
    "ts": "2026-10-08T16:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://github.com/snuri00/psp-web-recomp",
    "source": "Lemmy · programming.dev",
    "id": "community:https://github.com/snuri00/psp-web-recomp:2026-10-08T12:19"
-  },
-  {
-   "ts": "2026-10-08T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GM Admits It Needs Hybrids Again: 'We're Not Tone Deaf'",
-   "body": "Lemmy · technology · 점수 54",
-   "link": "https://www.motor1.com/news/811086/general-motors-hybrids-comeback-plan/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.motor1.com/news/811086/general-motors-hybrids-comeback-plan/:2026-10-08T12:19"
-  },
-  {
-   "ts": "2026-10-08T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Amazon uses its tracking data to guess whether shoppers have",
-   "body": "Lemmy · technology · 점수 51",
-   "link": "https://www.theverge.com/tech/1006712/amazon-about-you-shopping-data",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theverge.com/tech/1006712/amazon-about-you-shopping-data:2026-10-08T12:19"
   }
  ]
 }
