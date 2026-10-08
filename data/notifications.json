@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-08T11:19:07+00:00",
+ "generated_at": "2026-10-08T11:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19083 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-19083 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Authorization bypass through User-Controlled key vulnerability in AKIN Software Computer Im",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19083",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19083:2026-10-08T11:49"
+  },
+  {
+   "ts": "2026-10-08T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Meta Is Refusing to Remove AI-Generated Facebook Videos of G",
+   "body": "Lemmy · technology · 점수 170",
+   "link": "https://futurism.com/artificial-intelligence/meta-ai-generated-videos-graphic-child-abuse",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/artificial-intelligence/meta-ai-generated-videos-graphic-child-abuse:2026-10-08T11:49"
+  },
+  {
+   "ts": "2026-10-08T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Microsoft tells nonprofits their deleted M365 data isn't com",
+   "body": "Lemmy · technology · 점수 140",
+   "link": "https://www.theregister.com/saas/2026/09/28/microsoft-tells-nonprofits-their-deleted-m365-data-isnt-coming-back/5299433",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theregister.com/saas/2026/09/28/microsoft-tells-nonprofits-their-deleted-m365-data-isnt-coming-back/5299433:2026-10-08T11:49"
+  },
+  {
+   "ts": "2026-10-08T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] no one can understand AI",
+   "body": "Lemmy · programming.dev · 점수 113",
+   "link": "https://lemmy.world/pictrs/image/e5031a20-2c20-4b65-bfd2-70e9438897eb.jpeg",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.world/pictrs/image/e5031a20-2c20-4b65-bfd2-70e9438897eb.jpeg:2026-10-08T11:49"
+  },
+  {
+   "ts": "2026-10-08T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Software developers are not okay",
+   "body": "Lobsters · 점수 73",
+   "link": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
+   "source": "Lobsters",
+   "id": "community:https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/:2026-10-08T11:49"
+  },
+  {
+   "ts": "2026-10-08T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] US man arrested as second suspect in Canada mass school shoo",
+   "body": "Lemmy · technology · 점수 69",
+   "link": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington:2026-10-08T11:49"
+  },
   {
    "ts": "2026-10-08T11:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-87673",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87673:2026-10-08T03:49"
-  },
-  {
-   "ts": "2026-10-08T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94578 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-94578 📢 Source: brocade 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Brocade Fabric OS versions before 10.0.1 contain an authorization logic vulnerability in t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94578",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94578:2026-10-08T02:49"
-  },
-  {
-   "ts": "2026-10-08T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87684 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-87684 📢 Source: brocade 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False A stack-based buffer overflow vulnerability exists in the SNMP daemon request handling of ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87684",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87684:2026-10-08T02:49"
-  },
-  {
-   "ts": "2026-10-08T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87671 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-87671 📢 Source: brocade 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An out-of-bounds memory read vulnerability exists in the web management daemon of Brocade ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87671",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87671:2026-10-08T02:49"
-  },
-  {
-   "ts": "2026-10-08T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87659 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-87659 📢 Source: brocade 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A critical authorization bypass vulnerability exists in the Management Server handling of ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87659",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87659:2026-10-08T02:49"
-  },
-  {
-   "ts": "2026-10-08T01:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87683 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-87683 📢 Source: brocade 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Multiple stack-based buffer overflow vulnerabilities exist in the REST API management comp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87683",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87683:2026-10-08T01:49"
-  },
-  {
-   "ts": "2026-10-08T01:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87682 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-87682 📢 Source: brocade 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Multiple OS Command Injection vulnerabilities exist in the management interface and sessio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87682",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87682:2026-10-08T01:49"
   }
  ]
 }
