@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-08T08:49:08+00:00",
+ "generated_at": "2026-10-08T09:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105110 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-105110 📢 Source: TuranSec 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True OS Command Injection in the login.xgi CGI endpoint in Iskratel Innbox GPON ONT device",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105110",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105110:2026-10-08T09:19"
+  },
   {
    "ts": "2026-10-08T08:49:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://sh.itjust.works/pictrs/image/fe09daa4-e274-47e5-8802-207e8d3dca01.jpeg",
    "source": "Lemmy · programming.dev",
    "id": "community:https://sh.itjust.works/pictrs/image/fe09daa4-e274-47e5-8802-207e8d3dca01.jpeg:2026-10-08T00:19"
-  },
-  {
-   "ts": "2026-10-08T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Google Has Shut Down Part of its Open Source Bounty Program",
-   "body": "Lemmy · technology · 점수 102",
-   "link": "https://itsfoss.com/news/google-oss-vrp-product-reports-closed/",
-   "source": "Lemmy · technology",
-   "id": "community:https://itsfoss.com/news/google-oss-vrp-product-reports-closed/:2026-10-08T00:19"
   }
  ]
 }
