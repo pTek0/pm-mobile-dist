@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-08T04:19:18+00:00",
+ "generated_at": "2026-10-08T04:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T04:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94586 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-94586 📢 Source: brocade 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A command injection vulnerability exists in the WebTools administrative interface handling",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94586",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94586:2026-10-08T04:49"
+  },
+  {
+   "ts": "2026-10-08T04:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94581 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-94581 📢 Source: brocade 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An OS command injection vulnerability exists in the REST API management interface of Broca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94581",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94581:2026-10-08T04:49"
+  },
+  {
+   "ts": "2026-10-08T04:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94577 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-94577 📢 Source: brocade 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A privilege escalation vulnerability exists in the internal Command-Line Interface (CLI) a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94577",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94577:2026-10-08T04:49"
+  },
+  {
+   "ts": "2026-10-08T04:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87664 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-87664 📢 Source: brocade 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A session context forgery vulnerability exists in the web management daemon of Brocade Fab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87664",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87664:2026-10-08T04:49"
+  },
+  {
+   "ts": "2026-10-08T04:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87663 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-87663 📢 Source: brocade 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An authentication bypass and command injection vulnerability exists in the inter-switch re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87663",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87663:2026-10-08T04:49"
+  },
+  {
+   "ts": "2026-10-08T04:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87662 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-87662 📢 Source: brocade 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Brocade Fabric versions before 9.2.2d and 10.0.0 through 10.0.0a1 handling of specific downl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87662",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87662:2026-10-08T04:49"
+  },
   {
    "ts": "2026-10-08T04:19:17+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107352",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107352:2026-10-07T20:49"
-  },
-  {
-   "ts": "2026-10-07T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97716 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-97716 📢 Source: Absolute 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True CVE-2026-97716 is a vulnerability in the connection set up sub-system of Secure Access ser",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97716",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97716:2026-10-07T20:19"
-  },
-  {
-   "ts": "2026-10-07T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97715 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-97715 📢 Source: Absolute 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True CVE-2026-97715 is a vulnerability in the client registration process of Secure Access serv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97715",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97715:2026-10-07T19:49"
-  },
-  {
-   "ts": "2026-10-07T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-34499 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-34499 📢 Source: jci 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Use of hard-coded cryptographic key vulnerability in Johnson Controls ADVMS allows Read Sensit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-34499",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34499:2026-10-07T19:49"
-  },
-  {
-   "ts": "2026-10-07T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107161 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-107161 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A heap-based buffer overflow flaw was found in Cyrus SASL. The add_to_challenge() function ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107161",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107161:2026-10-07T19:49"
-  },
-  {
-   "ts": "2026-10-07T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97714 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-97714 📢 Source: Absolute 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True CVE-2026-97714 is a is a vulnerability in the authentication sub-system of Secure Access s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97714",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97714:2026-10-07T19:49"
-  },
-  {
-   "ts": "2026-10-07T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106164 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-106164 📢 Source: ProgressSoftware 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® Document Processing SpreadProcessing library, versions pr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106164",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106164:2026-10-07T18:49"
   }
  ]
 }
