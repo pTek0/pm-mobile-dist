@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-08T14:49:08+00:00",
+ "generated_at": "2026-10-08T15:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-9209 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-9209 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True mJobTime through build 15.7.3.32 contains an unauthenticated SQL execution vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9209",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9209:2026-10-08T15:19"
+  },
+  {
+   "ts": "2026-10-08T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107589 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-107589 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Insufficient job validation for service accounts in Jacamar CI prior to v0.30.0 allows aut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107589",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107589:2026-10-08T15:19"
+  },
   {
    "ts": "2026-10-08T14:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://futurism.com/artificial-intelligence/meta-ai-generated-videos-graphic-child-abuse",
    "source": "Lemmy · technology",
    "id": "community:https://futurism.com/artificial-intelligence/meta-ai-generated-videos-graphic-child-abuse:2026-10-08T11:49"
-  },
-  {
-   "ts": "2026-10-08T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft tells nonprofits their deleted M365 data isn't com",
-   "body": "Lemmy · technology · 점수 140",
-   "link": "https://www.theregister.com/saas/2026/09/28/microsoft-tells-nonprofits-their-deleted-m365-data-isnt-coming-back/5299433",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theregister.com/saas/2026/09/28/microsoft-tells-nonprofits-their-deleted-m365-data-isnt-coming-back/5299433:2026-10-08T11:49"
-  },
-  {
-   "ts": "2026-10-08T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] no one can understand AI",
-   "body": "Lemmy · programming.dev · 점수 113",
-   "link": "https://lemmy.world/pictrs/image/e5031a20-2c20-4b65-bfd2-70e9438897eb.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/e5031a20-2c20-4b65-bfd2-70e9438897eb.jpeg:2026-10-08T11:49"
   }
  ]
 }
