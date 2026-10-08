@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-08T17:49:07+00:00",
+ "generated_at": "2026-10-08T18:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97147 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-97147 📢 Source: mitre 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In OpenStack Mistral through 23.0.0, several of the v2 API write paths resolve the target obj",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97147",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97147:2026-10-08T18:19"
+  },
   {
    "ts": "2026-10-08T17:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92555",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92555:2026-10-08T12:19"
-  },
-  {
-   "ts": "2026-10-08T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107584 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-107584 📢 Source: GitLab 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Progressive Robot hMailServer 6.0.0 through 6.3.5 fails open when applying DANE (RFC 7672) ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107584",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107584:2026-10-08T12:19"
   }
  ]
 }
