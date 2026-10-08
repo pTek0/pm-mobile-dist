@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-08T01:19:07+00:00",
+ "generated_at": "2026-10-08T01:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87683 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-87683 📢 Source: brocade 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Multiple stack-based buffer overflow vulnerabilities exist in the REST API management comp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87683",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87683:2026-10-08T01:49"
+  },
+  {
+   "ts": "2026-10-08T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87682 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-87682 📢 Source: brocade 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Multiple OS Command Injection vulnerabilities exist in the management interface and sessio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87682",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87682:2026-10-08T01:49"
+  },
+  {
+   "ts": "2026-10-08T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102488 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-102488 📢 Source: Octopus 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In affected versions, Octopus Server incorrectly evaluates multiple scoped permission assi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102488",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102488:2026-10-08T01:49"
+  },
   {
    "ts": "2026-10-08T01:19:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107205",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107205:2026-10-07T15:49"
-  },
-  {
-   "ts": "2026-10-07T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107204 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-107204 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True LMCache through 0.5.5 contains an unauthenticated remote code execution vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107204",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107204:2026-10-07T15:49"
-  },
-  {
-   "ts": "2026-10-07T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77214 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-77214 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True libexpat before commit 13c5f63 contains a heap buffer over-read vulnerability in xmlparse",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77214",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77214:2026-10-07T14:49"
-  },
-  {
-   "ts": "2026-10-07T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107194 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-107194 📢 Source: mitre 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Sungrow iSolarCloud before 2026 allows authentication bypass and account takeover via \"l",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107194",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107194:2026-10-07T14:19"
   }
  ]
 }
