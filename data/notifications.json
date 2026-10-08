@@ -1,7 +1,157 @@
 {
- "generated_at": "2026-10-08T21:19:10+00:00",
+ "generated_at": "2026-10-08T21:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-84249 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-84249 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2, and 12.2.2 could allow a remote attacker to execute arbi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84249",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84249:2026-10-08T21:49"
+  },
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84247 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-84247 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2 could allow a remote authenticated attacker to cause a denial",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84247",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84247:2026-10-08T21:49"
+  },
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84246 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-84246 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.0, 12.1, and 12.2 could allow a remote attacker to execute arbi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84246",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84246:2026-10-08T21:49"
+  },
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84230 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-84230 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2.2 could allow a remote attacker to cause a denial of service ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84230",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84230:2026-10-08T21:49"
+  },
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84209 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-84209 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2.2, and 12.1 could allow a remote attacker to execute arbitrar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84209",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84209:2026-10-08T21:49"
+  },
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84198 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-84198 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.0, 12.1, and 12.2 could allow a remote attacker to execute arbi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84198",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84198:2026-10-08T21:49"
+  },
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84058 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-84058 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.0, 12.1, and 12.2 is vulnerable to a buffer overrun in the TDS ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84058",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84058:2026-10-08T21:49"
+  },
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84057 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-84057 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2.2, and 12.1 could allow a remote attacker to execute arbitrar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84057",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84057:2026-10-08T21:49"
+  },
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84035 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-84035 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.0, 12.1, and 12.2 could allow a remote attacker to execute arbi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84035",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84035:2026-10-08T21:49"
+  },
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82900 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-82900 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2.2, and 12.1 could allow a remote attacker to delete arbitrary",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82900",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82900:2026-10-08T21:49"
+  },
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82895 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-82895 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.0, 12.1, and 12.2 could allow a remote attacker to execute arbi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82895",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82895:2026-10-08T21:49"
+  },
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81932 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-81932 📢 Source: ibm 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.0, 12.1, and 12.2 is vulnerable to SQL injection. A remote unau",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81932",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81932:2026-10-08T21:49"
+  },
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-80381 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-80381 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.0, 12.1, and 12.2 could allow a remote attacker to execute ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80381",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80381:2026-10-08T21:49"
+  },
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75875 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-75875 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.0, 12.1, and 12.2 could allow a remote attacker to execute ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75875",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75875:2026-10-08T21:49"
+  },
+  {
+   "ts": "2026-10-08T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105269 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-105269 📢 Source: icscert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Satel Netco Design versions prior to v2.1.7 contains a stored cross site scripting vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105269",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105269:2026-10-08T21:49"
+  },
   {
    "ts": "2026-10-08T21:19:07+00:00",
    "level": "general",
@@ -351,156 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-106433",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106433:2026-10-08T19:19"
-  },
-  {
-   "ts": "2026-10-08T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106429 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-106429 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True An integer underflow in the KMS endpoint-parsing logic of MongoDB libmongocrypt can cause ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106429",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106429:2026-10-08T19:19"
-  },
-  {
-   "ts": "2026-10-08T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-40804 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-40804 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40804",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40804:2026-10-08T19:19"
-  },
-  {
-   "ts": "2026-10-08T19:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107704 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-107704 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The image_optimizer Ruby gem 1.3.0 through 1.9.0 contains an OS command injection vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107704",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107704:2026-10-08T19:19"
-  },
-  {
-   "ts": "2026-10-08T19:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107703 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-107703 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True @enmaso /node-convert through 1.0.0 contains an OS command injection vulnerability i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107703",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107703:2026-10-08T19:19"
-  },
-  {
-   "ts": "2026-10-08T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107701 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-107701 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True dot-access through 1.0.0 contains a prototype pollution vulnerability that allows attack",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107701",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107701:2026-10-08T19:19"
-  },
-  {
-   "ts": "2026-10-08T19:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107700 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-107700 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True dot-access 0.0.3 through 1.0.0 contains a code injection vulnerability that allows r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107700",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107700:2026-10-08T19:19"
-  },
-  {
-   "ts": "2026-10-08T19:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107699 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-107699 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ppt2png through 0.0.6 contains an OS command injection vulnerability that allows att",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107699",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107699:2026-10-08T19:19"
-  },
-  {
-   "ts": "2026-10-08T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97147 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-97147 📢 Source: mitre 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In OpenStack Mistral through 23.0.0, several of the v2 API write paths resolve the target obj",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97147",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97147:2026-10-08T18:19"
-  },
-  {
-   "ts": "2026-10-08T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93860 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-93860 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In OpenStack Mistral through 23.0.0, the /v2/maintenance API controller clears the request co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93860",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93860:2026-10-08T17:49"
-  },
-  {
-   "ts": "2026-10-08T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93858 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93858 📢 Source: mitre 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In OpenStack Mistral through 23.0.0, the std.ssh_proxied action passes a caller-supplied prox",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93858",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93858:2026-10-08T17:49"
-  },
-  {
-   "ts": "2026-10-08T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107696 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-107696 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FFmpeg through 9.0.2 contains an infinite loop vulnerability in ff_rtsp_connect() in lib",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107696",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107696:2026-10-08T17:49"
-  },
-  {
-   "ts": "2026-10-08T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107695 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-107695 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FFmpeg before 8.1.3 contains an infinite loop vulnerability in the HLS demuxer that allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107695",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107695:2026-10-08T17:49"
-  },
-  {
-   "ts": "2026-10-08T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107362 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-107362 📢 Source: icscert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Malcolm file-upload component ships the upstream FilePond PHP server (pqina/filepond-serve",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107362",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107362:2026-10-08T17:49"
-  },
-  {
-   "ts": "2026-10-08T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107333 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-107333 📢 Source: icscert 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Malcolm's nginx based reverse proxy contains a URL path normalization inconsistency betwee",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107333",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107333:2026-10-08T17:49"
-  },
-  {
-   "ts": "2026-10-08T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105436 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-105436 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in MainWP MainWP Child mainwp-child all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105436",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105436:2026-10-08T17:19"
   }
  ]
 }
