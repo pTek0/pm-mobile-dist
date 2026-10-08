@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-08T13:49:09+00:00",
+ "generated_at": "2026-10-08T14:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15781 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-15781 📢 Source: ibm 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True IBM DataPower Gateway 10.5.0.0 through 10.5.0.22 , 10.6.1 through 10.6.6, 10.6.0.0 through 10.6.0",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15781",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15781:2026-10-08T14:19"
+  },
+  {
+   "ts": "2026-10-08T14:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-14991 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-14991 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM DataPower Gateway 10.5.0.0 through 10.5.0.22 , 10.6.1 through 10.6.6, 10.6.0.0 through ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14991",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14991:2026-10-08T14:19"
+  },
+  {
+   "ts": "2026-10-08T14:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-14990 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-14990 📢 Source: ibm 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True IBM DataPower Gateway 10.6.0.0 through 10.6.0.10 is vulnerable to cross-site scripting. Thi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14990",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14990:2026-10-08T14:19"
+  },
+  {
+   "ts": "2026-10-08T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91844 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-91844 📢 Source: TR-CERT 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Unrestricted upload of file with dangerous type vulnerability in İzometri IT Services Domes",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91844",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91844:2026-10-08T14:19"
+  },
+  {
+   "ts": "2026-10-08T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107615 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-107615 📢 Source: securin 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False An uncontrolled search path element vulnerability in GlavSoft TightVNC Server for Windows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107615",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107615:2026-10-08T14:19"
+  },
+  {
+   "ts": "2026-10-08T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107612 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-107612 📢 Source: securin 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Incorrect permission assignment in GlavSoft TightVNC Server for Windows before 2.8.88 all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107612",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107612:2026-10-08T14:19"
+  },
+  {
+   "ts": "2026-10-08T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107611 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-107611 📢 Source: securin 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An out-of-bounds read vulnerability in the ZRLE decoder of GlavSoft TightVNC Viewer for W",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107611",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107611:2026-10-08T14:19"
+  },
   {
    "ts": "2026-10-08T13:49:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-104658",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104658:2026-10-08T11:19"
-  },
-  {
-   "ts": "2026-10-08T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103647 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-103647 📢 Source: GitLab 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True Cross-site scripting in the webmail of Progressive Robot hMailServer 6.3.2 through 6.3.5 allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103647",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103647:2026-10-08T11:19"
-  },
-  {
-   "ts": "2026-10-08T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103010 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-103010 📢 Source: GitLab 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Heap-based buffer overflow in the legacy Blowfish decryption routine (BlowFishEncryptor::D",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103010",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103010:2026-10-08T11:19"
-  },
-  {
-   "ts": "2026-10-08T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Margaret Hamilton has died",
-   "body": "Hacker News · 점수 1589",
-   "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-   "source": "Hacker News",
-   "id": "community:https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007:2026-10-08T11:19"
-  },
-  {
-   "ts": "2026-10-08T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] “Math 2.0” will need to value mathematical progress more hol",
-   "body": "Hacker News · 점수 312",
-   "link": "https://mathstodon.xyz/@tao/117395269325940185",
-   "source": "Hacker News",
-   "id": "community:https://mathstodon.xyz/@tao/117395269325940185:2026-10-08T11:19"
-  },
-  {
-   "ts": "2026-10-08T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Navier–Stokes Lost in Translation",
-   "body": "Hacker News · 점수 312",
-   "link": "https://arxiv.org/abs/2610.08144",
-   "source": "Hacker News",
-   "id": "community:https://arxiv.org/abs/2610.08144:2026-10-08T11:19"
-  },
-  {
-   "ts": "2026-10-08T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Mathocalypse",
-   "body": "Hacker News · 점수 254",
-   "link": "https://scottaaronson.blog/?p=10169",
-   "source": "Hacker News",
-   "id": "community:https://scottaaronson.blog/?p=10169:2026-10-08T11:19"
-  },
-  {
-   "ts": "2026-10-08T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] “Has No Friends”: Amazon Is Keeping Amazingly Detailed Recor",
-   "body": "Lemmy · technology · 점수 242",
-   "link": "https://futurism.com/future-society/amazon-detailed-records-customers-insulting",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/future-society/amazon-detailed-records-customers-insulting:2026-10-08T11:19"
   }
  ]
 }
