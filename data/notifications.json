@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-08T21:49:10+00:00",
+ "generated_at": "2026-10-08T22:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-08T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107829 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-107829 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Jivejdon through 5.0 contains a weak password storage vulnerability that stores account ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107829",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107829:2026-10-08T22:19"
+  },
+  {
+   "ts": "2026-10-08T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-89091 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-89091 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in ansible-core. When installing a collection with `ansible-galaxy collecti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89091",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89091:2026-10-08T22:19"
+  },
   {
    "ts": "2026-10-08T21:49:06+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107325",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107325:2026-10-08T19:19"
-  },
-  {
-   "ts": "2026-10-08T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107324 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-107324 📢 Source: mongodb 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True An integer overflow in BSON value-length handling in the MongoDB Go Driver can cause a run",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107324",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107324:2026-10-08T19:19"
-  },
-  {
-   "ts": "2026-10-08T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106433 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-106433 📢 Source: mongodb 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper state management in MongoDB libmongocrypt can cause provider-specific data to be ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106433",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106433:2026-10-08T19:19"
   }
  ]
 }
