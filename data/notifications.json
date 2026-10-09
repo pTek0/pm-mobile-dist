@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-09T08:49:07+00:00",
+ "generated_at": "2026-10-09T09:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-09T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78020 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-78020 📢 Source: dell 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains an Im",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78020",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78020:2026-10-09T09:19"
+  },
+  {
+   "ts": "2026-10-09T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78019 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-78019 📢 Source: dell 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains an In",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78019",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78019:2026-10-09T09:19"
+  },
   {
    "ts": "2026-10-09T08:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84057",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84057:2026-10-08T21:49"
-  },
-  {
-   "ts": "2026-10-08T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84035 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-84035 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.0, 12.1, and 12.2 could allow a remote attacker to execute arbi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84035",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84035:2026-10-08T21:49"
-  },
-  {
-   "ts": "2026-10-08T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82900 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-82900 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.2.2, and 12.1 could allow a remote attacker to delete arbitrary",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82900",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82900:2026-10-08T21:49"
   }
  ]
 }
