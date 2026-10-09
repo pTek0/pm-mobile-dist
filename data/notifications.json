@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-09T22:49:08+00:00",
+ "generated_at": "2026-10-09T23:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-09T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Cloudflare acquires Deno",
+   "body": "Hacker News · 점수 986",
+   "link": "https://deno.com/blog/cloudflare",
+   "source": "Hacker News",
+   "id": "community:https://deno.com/blog/cloudflare:2026-10-09T23:19"
+  },
+  {
+   "ts": "2026-10-09T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Sorry, I'm in a meeting",
+   "body": "Hacker News · 점수 699",
+   "link": "https://iminafleeting.com/",
+   "source": "Hacker News",
+   "id": "community:https://iminafleeting.com/:2026-10-09T23:19"
+  },
+  {
+   "ts": "2026-10-09T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Our $445M Series D",
+   "body": "Hacker News · 점수 543",
+   "link": "https://oxide.computer/blog/our-445m-series-d",
+   "source": "Hacker News",
+   "id": "community:https://oxide.computer/blog/our-445m-series-d:2026-10-09T23:19"
+  },
+  {
+   "ts": "2026-10-09T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Triple-A Minesweeper",
+   "body": "Hacker News · 점수 444",
+   "link": "https://minesweeper.mikelacher.com/",
+   "source": "Hacker News",
+   "id": "community:https://minesweeper.mikelacher.com/:2026-10-09T23:19"
+  },
+  {
+   "ts": "2026-10-09T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nobel Peace Prize for 2026 to Navanethem Pillay",
+   "body": "Hacker News · 점수 416",
+   "link": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+   "source": "Hacker News",
+   "id": "community:https://www.nobelprize.org/prizes/peace/2026/press-release/:2026-10-09T23:19"
+  },
   {
    "ts": "2026-10-09T22:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94058",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94058:2026-10-09T13:19"
-  },
-  {
-   "ts": "2026-10-09T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-86405 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-86405 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper verification of cryptographic signature vulnerability in Sipay Electronic Mone",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86405",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86405:2026-10-09T13:19"
-  },
-  {
-   "ts": "2026-10-09T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103413 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-103413 📢 Source: apache 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper input validation vulnerability in Apache Camel Karavan. When a deployment was star",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103413",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103413:2026-10-09T13:19"
-  },
-  {
-   "ts": "2026-10-09T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103412 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-103412 📢 Source: apache 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper limitation of a pathname to a restricted directory ('path traversal') vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103412",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103412:2026-10-09T13:19"
-  },
-  {
-   "ts": "2026-10-09T12:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85531 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-85531 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper verification of cryptographic signature vulnerability in Sipay Electronic Mone",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85531",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85531:2026-10-09T12:49"
-  },
-  {
-   "ts": "2026-10-09T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-8374 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-8374 📢 Source: cirosec 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Misuse and misconfiguration in Bluetooth communication in SwitchBot Door Lock Series allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8374",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8374:2026-10-09T12:49"
   }
  ]
 }
