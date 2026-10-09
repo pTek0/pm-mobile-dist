@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-09T04:19:07+00:00",
+ "generated_at": "2026-10-09T04:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-09T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-7827 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-7827 📢 Source: securin 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: False A stack-based buffer overflow in the _RdbLoadEntity function of the RDB graph decoders ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7827",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7827:2026-10-09T04:49"
+  },
+  {
+   "ts": "2026-10-09T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-7826 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-7826 📢 Source: securin 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False A heap-based out-of-bounds read in the BufferSerializerIOv2_ReadBuffer function (src/se",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7826",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7826:2026-10-09T04:49"
+  },
+  {
+   "ts": "2026-10-09T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-5759 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-5759 📢 Source: securin 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: False A double free and use-after-free vulnerability in the RdbLoadDeletedNodes function of t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-5759",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-5759:2026-10-09T04:49"
+  },
   {
    "ts": "2026-10-09T00:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-11318",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-11318:2026-10-08T21:19"
-  },
-  {
-   "ts": "2026-10-08T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101024 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-101024 📢 Source: icscert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Satel Netco Design versions prior to v2.1.7 contains a relative path traversal vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101024",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101024:2026-10-08T21:19"
-  },
-  {
-   "ts": "2026-10-08T20:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107318 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-107318 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False @fastify /reply-from is a Fastify plugin that forwards requests to an upstream HTTP or HTT",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107318",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107318:2026-10-08T20:49"
-  },
-  {
-   "ts": "2026-10-08T20:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107782 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-107782 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False System Informer before 4.0.26241.138 contains an incorrect authorization vulnerability ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107782",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107782:2026-10-08T20:49"
   }
  ]
 }
