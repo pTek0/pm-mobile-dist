@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-09T23:19:08+00:00",
+ "generated_at": "2026-10-09T23:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-09T23:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-108474 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-108474 📢 Source: JetBrains 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True In JetBrains Exposed before 1.5.1 sQL injection was possible via unescaped string ar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108474",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108474:2026-10-09T23:49"
+  },
+  {
+   "ts": "2026-10-09T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Show HN: Let your AI agents paint big arrows, boxes and text",
+   "body": "Hacker News · 점수 359",
+   "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+   "source": "Hacker News",
+   "id": "community:https://github.com/franzenzenhofer/big-arrow-on-the-screen:2026-10-09T23:49"
+  },
+  {
+   "ts": "2026-10-09T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Keyboard differences between Windows and Macs",
+   "body": "Hacker News · 점수 315",
+   "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+   "source": "Hacker News",
+   "id": "community:https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/:2026-10-09T23:49"
+  },
+  {
+   "ts": "2026-10-09T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] OpenAI fires three safety researchers for \"mishandling resea",
+   "body": "Hacker News · 점수 299",
+   "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+   "source": "Hacker News",
+   "id": "community:https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/:2026-10-09T23:49"
+  },
+  {
+   "ts": "2026-10-09T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A strong message to you by Proton",
+   "body": "Lemmy · programming.dev · 점수 254",
+   "link": "https://lemmy.ml/pictrs/image/65c01c1f-6731-4522-aa9e-8cb654d20960.png",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.ml/pictrs/image/65c01c1f-6731-4522-aa9e-8cb654d20960.png:2026-10-09T23:49"
+  },
+  {
+   "ts": "2026-10-09T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] When No ID Means No Internet: Age Verification and the Right",
+   "body": "Lemmy · technology · 점수 228",
+   "link": "https://www.eff.org/deeplinks/2026/10/when-no-id-means-no-internet-age-verification-and-right-access-information",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.eff.org/deeplinks/2026/10/when-no-id-means-no-internet-age-verification-and-right-access-information:2026-10-09T23:49"
+  },
   {
    "ts": "2026-10-09T23:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100730",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100730:2026-10-09T14:19"
-  },
-  {
-   "ts": "2026-10-09T13:49:13+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-62026 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-62026 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in MIGHTYminnow Dashboard Notes dashboar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62026",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62026:2026-10-09T13:49"
-  },
-  {
-   "ts": "2026-10-09T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94062 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-94062 📢 Source: Patchstack 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote F",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94062",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94062:2026-10-09T13:19"
-  },
-  {
-   "ts": "2026-10-09T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94061 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-94061 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94061",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94061:2026-10-09T13:19"
-  },
-  {
-   "ts": "2026-10-09T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94060 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-94060 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94060",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94060:2026-10-09T13:19"
-  },
-  {
-   "ts": "2026-10-09T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94059 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-94059 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94059",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94059:2026-10-09T13:19"
-  },
-  {
-   "ts": "2026-10-09T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94058 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-94058 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94058",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94058:2026-10-09T13:19"
   }
  ]
 }
