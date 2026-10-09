@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-10-09T14:19:09+00:00",
+ "generated_at": "2026-10-09T14:49:15+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-09T14:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-39460 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-39460 📢 Source: icscert 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Usernames and passwords, including the default factory credentials, are stored in plain",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-39460",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-39460:2026-10-09T14:49"
+  },
+  {
+   "ts": "2026-10-09T14:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-33367 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-33367 📢 Source: icscert 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True SNMP can be used to perform administrative actions such as retrieving configuration fil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-33367",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33367:2026-10-09T14:49"
+  },
+  {
+   "ts": "2026-10-09T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-29797 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-29797 📢 Source: icscert 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True No authentication is required when updating firmware or bootloader, making it easy for mali",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-29797",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-29797:2026-10-09T14:49"
+  },
+  {
+   "ts": "2026-10-09T14:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-28745 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-28745 📢 Source: icscert 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Usernames and passwords, including the default credentials, are stored in the configura",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-28745",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-28745:2026-10-09T14:49"
+  },
+  {
+   "ts": "2026-10-09T14:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-108109 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-108109 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True PHPNuxBill through 2025.3.20 contains an account takeover vulnerability in the custo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108109",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108109:2026-10-09T14:49"
+  },
+  {
+   "ts": "2026-10-09T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108108 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-108108 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False PHPNuxBill through 2025.3.20 contains an authentication bypass vulnerability in RADIUS ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108108",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108108:2026-10-09T14:49"
+  },
+  {
+   "ts": "2026-10-09T14:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-108107 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-108107 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True PHPNuxBill through 2025.3.20 contains an unauthenticated SQL injection vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108107",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108107:2026-10-09T14:49"
+  },
+  {
+   "ts": "2026-10-09T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108106 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-108106 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Xerial snappy-java before 1.1.10.9 contains an unbounded memory allocation vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108106",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108106:2026-10-09T14:49"
+  },
+  {
+   "ts": "2026-10-09T14:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-32645 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-32645 📢 Source: icscert 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: False Default factory credentials with administrative access are enabled and persist even af",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-32645",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-32645:2026-10-09T14:49"
+  },
+  {
+   "ts": "2026-10-09T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108105 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-108105 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Open5GS through 2.8.0 contains a reachable assertion vulnerability in mme_gn_handle_sgsn",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108105",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108105:2026-10-09T14:49"
+  },
+  {
+   "ts": "2026-10-09T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108101 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-108101 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True HortusFox (hortusfox-web) through 6.3 contains an unrestricted file upload vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108101",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108101:2026-10-09T14:49"
+  },
+  {
+   "ts": "2026-10-09T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108100 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-108100 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True HortusFox (hortusfox-web) before 6.2 contains an SQL injection vulnerability that allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108100",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108100:2026-10-09T14:49"
+  },
+  {
+   "ts": "2026-10-09T14:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105278 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-105278 📢 Source: icscert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The published Docker image for openPDC includes a fixed administrative credential with",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105278",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105278:2026-10-09T14:49"
+  },
   {
    "ts": "2026-10-09T14:19:07+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94668",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94668:2026-10-09T10:19"
-  },
-  {
-   "ts": "2026-10-09T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94666 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-94666 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94666",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94666:2026-10-09T10:19"
-  },
-  {
-   "ts": "2026-10-09T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94664 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-94664 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94664",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94664:2026-10-09T10:19"
-  },
-  {
-   "ts": "2026-10-09T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94663 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-94663 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94663",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94663:2026-10-09T10:19"
-  },
-  {
-   "ts": "2026-10-09T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94661 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-94661 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94661",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94661:2026-10-09T10:19"
-  },
-  {
-   "ts": "2026-10-09T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94641 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-94641 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94641",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94641:2026-10-09T10:19"
-  },
-  {
-   "ts": "2026-10-09T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94632 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-94632 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94632",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94632:2026-10-09T10:19"
-  },
-  {
-   "ts": "2026-10-09T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94568 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-94568 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in WP Hosting AS Pay with Vipps for WooC",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94568",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94568:2026-10-09T10:19"
-  },
-  {
-   "ts": "2026-10-09T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-94503 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-94503 📢 Source: Patchstack 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Unrestricted Upload of File with Dangerous Type vulnerability in PX-lab Zombify zombi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94503",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94503:2026-10-09T10:19"
-  },
-  {
-   "ts": "2026-10-09T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94415 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-94415 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94415",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94415:2026-10-09T10:19"
-  },
-  {
-   "ts": "2026-10-09T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94170 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-94170 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94170",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94170:2026-10-09T10:19"
-  },
-  {
-   "ts": "2026-10-09T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94167 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-94167 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94167",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94167:2026-10-09T10:19"
-  },
-  {
-   "ts": "2026-10-09T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94166 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-94166 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94166",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94166:2026-10-09T10:19"
-  },
-  {
-   "ts": "2026-10-09T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94161 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-94161 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94161",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94161:2026-10-09T10:19"
   }
  ]
 }
