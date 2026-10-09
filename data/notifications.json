@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-09T11:49:08+00:00",
+ "generated_at": "2026-10-09T12:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-09T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] EXT4 Deprecates Its Journaled \"data=journal\" Mode",
+   "body": "Lemmy · programming.dev · 점수 50",
+   "link": "https://www.phoronix.com/news/EXT4-Deprecates-Journal-Mode?=0",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://www.phoronix.com/news/EXT4-Deprecates-Journal-Mode?=0:2026-10-09T12:19"
+  },
   {
    "ts": "2026-10-09T11:49:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-7827",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7827:2026-10-09T04:49"
-  },
-  {
-   "ts": "2026-10-09T04:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-7826 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-7826 📢 Source: securin 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False A heap-based out-of-bounds read in the BufferSerializerIOv2_ReadBuffer function (src/se",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-7826",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-7826:2026-10-09T04:49"
   }
  ]
 }
