@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-09T16:19:08+00:00",
+ "generated_at": "2026-10-09T16:49:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-09T16:49:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108160 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-108160 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True AstronRPA through 1.1.6 contains a download of code without integrity check vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108160",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108160:2026-10-09T16:49"
+  },
+  {
+   "ts": "2026-10-09T16:49:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108159 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-108159 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True AstronRPA through 1.1.6 contains a cross-site scripting vulnerability in the desktop cli",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108159",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108159:2026-10-09T16:49"
+  },
+  {
+   "ts": "2026-10-09T16:49:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108158 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-108158 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True plugNmeet Server through 2.5.2 contains a path traversal vulnerability in the whiteboard",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108158",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108158:2026-10-09T16:49"
+  },
+  {
+   "ts": "2026-10-09T16:49:11+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-108157 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-108157 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Pingvin Share X from 0.19.0 before 1.22.0 contains an improper authentication vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108157",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108157:2026-10-09T16:49"
+  },
+  {
+   "ts": "2026-10-09T16:49:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108156 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-108156 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False LobsterAI 2026.5.27 through 2026.9.23 contains an external control of file path vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108156",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108156:2026-10-09T16:49"
+  },
   {
    "ts": "2026-10-09T15:49:08+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105872",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105872:2026-10-09T12:49"
-  },
-  {
-   "ts": "2026-10-09T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105870 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-105870 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105870",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105870:2026-10-09T12:49"
-  },
-  {
-   "ts": "2026-10-09T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105318 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-105318 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105318",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105318:2026-10-09T12:49"
-  },
-  {
-   "ts": "2026-10-09T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104392 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-104392 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in ExpressTech Quiz And Survey Master q",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104392",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104392:2026-10-09T12:49"
-  },
-  {
-   "ts": "2026-10-09T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] EXT4 Deprecates Its Journaled \"data=journal\" Mode",
-   "body": "Lemmy · programming.dev · 점수 50",
-   "link": "https://www.phoronix.com/news/EXT4-Deprecates-Journal-Mode?=0",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.phoronix.com/news/EXT4-Deprecates-Journal-Mode?=0:2026-10-09T12:19"
-  },
-  {
-   "ts": "2026-10-09T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ask HN: What do you run on a $5 VPS that's worth keeping onl",
-   "body": "Hacker News · 점수 241",
-   "link": "https://news.ycombinator.com/item?id=49985548",
-   "source": "Hacker News",
-   "id": "community:https://news.ycombinator.com/item?id=49985548:2026-10-09T11:49"
   }
  ]
 }
