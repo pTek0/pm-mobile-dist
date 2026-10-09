@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-09T14:49:15+00:00",
+ "generated_at": "2026-10-09T15:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-09T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108125 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-108125 📢 Source: tenable 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108125",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108125:2026-10-09T15:19"
+  },
+  {
+   "ts": "2026-10-09T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95702 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-95702 📢 Source: Google 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Use-after-free vulnerability in VFS in Google gVisor prior to release 20260831.0 on all pla",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95702",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95702:2026-10-09T15:19"
+  },
+  {
+   "ts": "2026-10-09T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-39453 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-39453 📢 Source: icscert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Navigating to a certain URL on the switch’s web server causes the switch to reboot. This ca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-39453",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-39453:2026-10-09T15:19"
+  },
+  {
+   "ts": "2026-10-09T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-15340 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-15340 📢 Source: icscert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True lwIP SMTP client does not check the size of inputs, potentially allowing a buffer overf",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15340",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15340:2026-10-09T15:19"
+  },
   {
    "ts": "2026-10-09T14:49:08+00:00",
    "level": "important",
@@ -461,46 +501,6 @@
    "link": "https://twitter.com/danintheory/status/2108065033070789090",
    "source": "Hacker News",
    "id": "community:https://twitter.com/danintheory/status/2108065033070789090:2026-10-09T11:19"
-  },
-  {
-   "ts": "2026-10-09T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] ADHD as a circadian rhythm disorder: evidence and implicatio",
-   "body": "Hacker News · 점수 310",
-   "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
-   "source": "Hacker News",
-   "id": "community:https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full:2026-10-09T11:19"
-  },
-  {
-   "ts": "2026-10-09T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Internal files add to evidence of an ExxonMobil climate dece",
-   "body": "Lemmy · technology · 점수 304",
-   "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/:2026-10-09T11:19"
-  },
-  {
-   "ts": "2026-10-09T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] YouTuber Builds System That Mimics Flock to Spy on Cops; The",
-   "body": "Lemmy · technology · 점수 291",
-   "link": "https://www.gadgetreview.com/youtuber-builds-system-that-mimics-flock-to-spy-on-cops-then-the-cops-came-knocking",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.gadgetreview.com/youtuber-builds-system-that-mimics-flock-to-spy-on-cops-then-the-cops-came-knocking:2026-10-09T11:19"
-  },
-  {
-   "ts": "2026-10-09T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94668 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-94668 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94668",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94668:2026-10-09T10:19"
   }
  ]
 }
