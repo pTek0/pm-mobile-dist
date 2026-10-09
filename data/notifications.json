@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-09T08:19:08+00:00",
+ "generated_at": "2026-10-09T08:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-09T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76779 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-76779 📢 Source: dell 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains an Im",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76779",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76779:2026-10-09T08:49"
+  },
+  {
+   "ts": "2026-10-09T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104635 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-104635 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Uncontrolled Recursion vulnerability in Protobuf.JSON.Decode in elixir-protobuf protobuf allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104635",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104635:2026-10-09T08:49"
+  },
   {
    "ts": "2026-10-09T07:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82900",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82900:2026-10-08T21:49"
-  },
-  {
-   "ts": "2026-10-08T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82895 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-82895 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.0, 12.1, and 12.2 could allow a remote attacker to execute arbi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82895",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82895:2026-10-08T21:49"
-  },
-  {
-   "ts": "2026-10-08T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81932 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-81932 📢 Source: ibm 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.0, 12.1, and 12.2 is vulnerable to SQL injection. A remote unau",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81932",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81932:2026-10-08T21:49"
   }
  ]
 }
