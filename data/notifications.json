@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-09T13:19:09+00:00",
+ "generated_at": "2026-10-09T13:49:14+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-09T13:49:13+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-62026 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-62026 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in MIGHTYminnow Dashboard Notes dashboar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62026",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62026:2026-10-09T13:49"
+  },
   {
    "ts": "2026-10-09T13:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78020",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78020:2026-10-09T09:19"
-  },
-  {
-   "ts": "2026-10-09T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78019 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-78019 📢 Source: dell 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains an In",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78019",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78019:2026-10-09T09:19"
   }
  ]
 }
