@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-10T16:49:08+00:00",
+ "generated_at": "2026-10-10T17:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-10T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94160 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-94160 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94160",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94160:2026-10-10T17:19"
+  },
+  {
+   "ts": "2026-10-10T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-62044 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-62044 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in bPlugins Super Video Player super-vid",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62044",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62044:2026-10-10T17:19"
+  },
+  {
+   "ts": "2026-10-10T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106609 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-106609 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Web Impian Bayarcash WooCommerce bayarcash-wc al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106609",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106609:2026-10-10T17:19"
+  },
+  {
+   "ts": "2026-10-10T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106608 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-106608 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in Automattic WooCommerce woocommerce allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106608",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106608:2026-10-10T17:19"
+  },
+  {
+   "ts": "2026-10-10T17:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105889 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-105889 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105889",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105889:2026-10-10T17:19"
+  },
+  {
+   "ts": "2026-10-10T17:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-104398 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-104398 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in VillaTheme AFFI – Affiliate Mark",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104398",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104398:2026-10-10T17:19"
+  },
+  {
+   "ts": "2026-10-10T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103071 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-103071 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper Control of Generation of Code ('Code Injection') vulnerability in VillaTheme T",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103071",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103071:2026-10-10T17:19"
+  },
   {
    "ts": "2026-10-10T16:19:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-62045",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62045:2026-10-10T07:49"
-  },
-  {
-   "ts": "2026-10-10T03:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101947 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-101947 📢 Source: Fluid Attacks 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False ExifTool for photo and video 5.0.1-gms by CellHubs constructs shell command strings",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101947",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101947:2026-10-10T03:49"
-  },
-  {
-   "ts": "2026-10-10T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Being mean to AI could get you banned as Anthropic introduce",
-   "body": "Lemmy · technology · 점수 164",
-   "link": "https://www.techspot.com/news/114153-mean-ai-could-get-you-banned-anthropic-introduces.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.techspot.com/news/114153-mean-ai-could-get-you-banned-anthropic-introduces.html:2026-10-10T00:19"
-  },
-  {
-   "ts": "2026-10-10T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Yandex Takes a Second Data Center Hit in 48 Hours—Now Its Bi",
-   "body": "Lemmy · technology · 점수 91",
-   "link": "https://meduza.io/en/news/2026/10/09/several-modules-of-yandex-s-data-center-in-russia-completely-knocked-out-by-ukrainian-drone-strike",
-   "source": "Lemmy · technology",
-   "id": "community:https://meduza.io/en/news/2026/10/09/several-modules-of-yandex-s-data-center-in-russia-completely-knocked-out-by-ukrainian-drone-strike:2026-10-10T00:19"
-  },
-  {
-   "ts": "2026-10-10T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] OpenAI Wargaming Response in Case of Public Revolt After Cat",
-   "body": "Lemmy · technology · 점수 63",
-   "link": "https://futurism.com/artificial-intelligence/openai-wargaming-public-revolt-ai-catastrophe",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/openai-wargaming-public-revolt-ai-catastrophe:2026-10-10T00:19"
-  },
-  {
-   "ts": "2026-10-10T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Programming Isn’t Special",
-   "body": "Lobsters · 점수 61",
-   "link": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-   "source": "Lobsters",
-   "id": "community:https://blog.glyph.im/2026/10/programming-isnt-special.html:2026-10-10T00:19"
-  },
-  {
-   "ts": "2026-10-09T23:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-108474 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-108474 📢 Source: JetBrains 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True In JetBrains Exposed before 1.5.1 sQL injection was possible via unescaped string ar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108474",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108474:2026-10-09T23:49"
-  },
-  {
-   "ts": "2026-10-09T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: Let your AI agents paint big arrows, boxes and text",
-   "body": "Hacker News · 점수 359",
-   "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-   "source": "Hacker News",
-   "id": "community:https://github.com/franzenzenhofer/big-arrow-on-the-screen:2026-10-09T23:49"
   }
  ]
 }
