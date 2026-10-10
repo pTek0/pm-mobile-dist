@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-10T18:19:08+00:00",
+ "generated_at": "2026-10-10T18:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-10T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96341 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-96341 📢 Source: Patchstack 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in WPMU DEV Forminator forminator allows Pr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96341",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96341:2026-10-10T18:49"
+  },
+  {
+   "ts": "2026-10-10T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108593 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-108593 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True 9router 0.4.1 through 0.5.99 contains a configuration injection vulnerability in the POS",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108593",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108593:2026-10-10T18:49"
+  },
+  {
+   "ts": "2026-10-10T18:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-106610 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-106610 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in miniOrange miniorange otp verificat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106610",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106610:2026-10-10T18:49"
+  },
+  {
+   "ts": "2026-10-10T18:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105892 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-105892 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105892",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105892:2026-10-10T18:49"
+  },
   {
    "ts": "2026-10-10T17:19:08+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93930",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93930:2026-10-10T07:49"
-  },
-  {
-   "ts": "2026-10-10T07:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-93929 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-93929 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in ThemeREX Group Travesia travesia ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93929",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93929:2026-10-10T07:49"
-  },
-  {
-   "ts": "2026-10-10T07:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-93927 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-93927 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Axiomthemes Veto veto allows Obje",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93927",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93927:2026-10-10T07:49"
-  },
-  {
-   "ts": "2026-10-10T07:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-62046 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-62046 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in ThemeREX Group Gutentype gutentyp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62046",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62046:2026-10-10T07:49"
-  },
-  {
-   "ts": "2026-10-10T07:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-62045 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-62045 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in ThemeREX Group Booklovers booklov",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62045",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62045:2026-10-10T07:49"
   }
  ]
 }
