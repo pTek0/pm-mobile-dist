@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-10T14:19:07+00:00",
+ "generated_at": "2026-10-10T14:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-10T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-108551 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-108551 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True openapi-typescript-codegen through 0.31.0 contains a code injection vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108551",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108551:2026-10-10T14:49"
+  },
+  {
+   "ts": "2026-10-10T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108550 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-108550 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SkillHub before 0.2.22 contains an incorrect authorization vulnerability in AccountMerge",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108550",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108550:2026-10-10T14:49"
+  },
+  {
+   "ts": "2026-10-10T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-108549 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-108549 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True cc-connect through 1.5.0 contains a missing authentication vulnerability in the MAX ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108549",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108549:2026-10-10T14:49"
+  },
+  {
+   "ts": "2026-10-10T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108548 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-108548 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True AstronRPA through 1.1.6 contains an authentication bypass vulnerability in the OpenResty",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108548",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108548:2026-10-10T14:49"
+  },
+  {
+   "ts": "2026-10-10T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108547 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-108547 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True AstronRPA through 1.1.6 contains a missing tenant authorization check in robot-service t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108547",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108547:2026-10-10T14:49"
+  },
+  {
+   "ts": "2026-10-10T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108546 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-108546 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Spotweb through 1.5.8 contains an OS command injection vulnerability in the runcommand N",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108546",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108546:2026-10-10T14:49"
+  },
+  {
+   "ts": "2026-10-10T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108545 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-108545 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True SillyTavern 1.12.13 through 1.19.0 contains a denial of service vulnerability that allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108545",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108545:2026-10-10T14:49"
+  },
   {
    "ts": "2026-10-10T14:19:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
    "source": "Hacker News",
    "id": "community:https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/:2026-10-09T23:49"
-  },
-  {
-   "ts": "2026-10-09T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A strong message to you by Proton",
-   "body": "Lemmy · programming.dev · 점수 254",
-   "link": "https://lemmy.ml/pictrs/image/65c01c1f-6731-4522-aa9e-8cb654d20960.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.ml/pictrs/image/65c01c1f-6731-4522-aa9e-8cb654d20960.png:2026-10-09T23:49"
-  },
-  {
-   "ts": "2026-10-09T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] When No ID Means No Internet: Age Verification and the Right",
-   "body": "Lemmy · technology · 점수 228",
-   "link": "https://www.eff.org/deeplinks/2026/10/when-no-id-means-no-internet-age-verification-and-right-access-information",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.eff.org/deeplinks/2026/10/when-no-id-means-no-internet-age-verification-and-right-access-information:2026-10-09T23:49"
-  },
-  {
-   "ts": "2026-10-09T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Cloudflare acquires Deno",
-   "body": "Hacker News · 점수 986",
-   "link": "https://deno.com/blog/cloudflare",
-   "source": "Hacker News",
-   "id": "community:https://deno.com/blog/cloudflare:2026-10-09T23:19"
-  },
-  {
-   "ts": "2026-10-09T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Sorry, I'm in a meeting",
-   "body": "Hacker News · 점수 699",
-   "link": "https://iminafleeting.com/",
-   "source": "Hacker News",
-   "id": "community:https://iminafleeting.com/:2026-10-09T23:19"
-  },
-  {
-   "ts": "2026-10-09T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Our $445M Series D",
-   "body": "Hacker News · 점수 543",
-   "link": "https://oxide.computer/blog/our-445m-series-d",
-   "source": "Hacker News",
-   "id": "community:https://oxide.computer/blog/our-445m-series-d:2026-10-09T23:19"
-  },
-  {
-   "ts": "2026-10-09T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Triple-A Minesweeper",
-   "body": "Hacker News · 점수 444",
-   "link": "https://minesweeper.mikelacher.com/",
-   "source": "Hacker News",
-   "id": "community:https://minesweeper.mikelacher.com/:2026-10-09T23:19"
-  },
-  {
-   "ts": "2026-10-09T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nobel Peace Prize for 2026 to Navanethem Pillay",
-   "body": "Hacker News · 점수 416",
-   "link": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-   "source": "Hacker News",
-   "id": "community:https://www.nobelprize.org/prizes/peace/2026/press-release/:2026-10-09T23:19"
   }
  ]
 }
