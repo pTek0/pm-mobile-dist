@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-11T12:19:07+00:00",
+ "generated_at": "2026-10-11T12:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-11T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108718 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-108718 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Rill 0.77.0 through 0.90.5 contains a missing authorization vulnerability in the admin O",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108718",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108718:2026-10-11T12:49"
+  },
+  {
+   "ts": "2026-10-11T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108714 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-108714 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True MCP Kotlin SDK through 0.15.0 contains an uncontrolled memory allocation vulnerability t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108714",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108714:2026-10-11T12:49"
+  },
+  {
+   "ts": "2026-10-11T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108710 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-108710 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True NornicDB through 1.4.1 contains a missing authorization vulnerability that allows authen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108710",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108710:2026-10-11T12:49"
+  },
   {
    "ts": "2026-10-11T12:19:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-57806",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57806:2026-10-10T19:19"
-  },
-  {
-   "ts": "2026-10-10T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96341 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-96341 📢 Source: Patchstack 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in WPMU DEV Forminator forminator allows Pr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96341",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96341:2026-10-10T18:49"
-  },
-  {
-   "ts": "2026-10-10T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108593 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-108593 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True 9router 0.4.1 through 0.5.99 contains a configuration injection vulnerability in the POS",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108593",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108593:2026-10-10T18:49"
-  },
-  {
-   "ts": "2026-10-10T18:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-106610 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-106610 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in miniOrange miniorange otp verificat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106610",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106610:2026-10-10T18:49"
   }
  ]
 }
