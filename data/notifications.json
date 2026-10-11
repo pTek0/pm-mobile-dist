@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-11T17:19:07+00:00",
+ "generated_at": "2026-10-11T17:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-11T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19935 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-19935 📢 Source: zephyr 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False The Bluetooth LE host queues received L2CAP connection-oriented channel (CoC) data for defe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19935",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19935:2026-10-11T17:49"
+  },
+  {
+   "ts": "2026-10-11T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19736 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-19736 📢 Source: zephyr 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The NXP MCUX TRNG entropy driver in drivers/entropy/entropy_mcux_trng.c passed the caller's",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19736",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19736:2026-10-11T17:49"
+  },
+  {
+   "ts": "2026-10-11T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19669 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-19669 📢 Source: zephyr 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The user-mode syscall verifiers z_vrfy_fuel_gauge_get_props() and z_vrfy_fuel_gauge_set_pro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19669",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19669:2026-10-11T17:49"
+  },
+  {
+   "ts": "2026-10-11T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19577 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-19577 📢 Source: zephyr 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False net_route_ipv6_packet() in subsys/net/ip/route_ipv6.c resolved the nexthop's link-layer add",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19577",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19577:2026-10-11T17:49"
+  },
   {
    "ts": "2026-10-11T16:19:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://www.engadget.com/2276609/ice-is-reportedly-using-a-palantir-database-to-compile-dossiers-on-protestors/",
    "source": "Lemmy · technology",
    "id": "community:https://www.engadget.com/2276609/ice-is-reportedly-using-a-palantir-database-to-compile-dossiers-on-protestors/:2026-10-11T00:19"
-  },
-  {
-   "ts": "2026-10-11T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Mainstream News Anchors Now Talking About the AI Bubble Burs",
-   "body": "Lemmy · technology · 점수 89",
-   "link": "https://futurism.com/future-society/mainstream-news-anchors-bloomberg-tv-ai-bubble-bursting",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/future-society/mainstream-news-anchors-bloomberg-tv-ai-bubble-bursting:2026-10-11T00:19"
-  },
-  {
-   "ts": "2026-10-10T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
-   "body": "Hacker News · 점수 293",
-   "link": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-   "source": "Hacker News",
-   "id": "community:https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo:2026-10-10T23:49"
-  },
-  {
-   "ts": "2026-10-10T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] 2D Vehicles",
-   "body": "Hacker News · 점수 291",
-   "link": "https://patkerr.co.uk/2d-vehicles/",
-   "source": "Hacker News",
-   "id": "community:https://patkerr.co.uk/2d-vehicles/:2026-10-10T23:49"
-  },
-  {
-   "ts": "2026-10-10T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Apple/macOS removed from official Unix registry",
-   "body": "Hacker News · 점수 227",
-   "link": "https://www.opengroup.org//openbrand/register/",
-   "source": "Hacker News",
-   "id": "community:https://www.opengroup.org//openbrand/register/:2026-10-10T23:49"
   }
  ]
 }
