@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-11T14:19:07+00:00",
+ "generated_at": "2026-10-11T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-11T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108883 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-108883 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the editThirdA",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108883",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108883:2026-10-11T14:49"
+  },
   {
    "ts": "2026-10-11T13:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://lemmy.zip/pictrs/image/4192186b-3539-4b91-97c5-3bcad7a09059.avif",
    "source": "Lemmy · programming.dev",
    "id": "community:https://lemmy.zip/pictrs/image/4192186b-3539-4b91-97c5-3bcad7a09059.avif:2026-10-10T23:19"
-  },
-  {
-   "ts": "2026-10-10T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] `123456' password used in Danish CPR data breach",
-   "body": "Hacker News · 점수 372",
-   "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-   "source": "Hacker News",
-   "id": "community:https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/:2026-10-10T23:19"
   }
  ]
 }
