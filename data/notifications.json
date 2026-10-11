@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-11T13:19:07+00:00",
+ "generated_at": "2026-10-11T13:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-11T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108865 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-108865 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True AmoyLab Unla through 0.10.0 contains an authentication bypass vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108865",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108865:2026-10-11T13:49"
+  },
+  {
+   "ts": "2026-10-11T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108863 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-108863 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Katanemo Plano through 0.4.37 contains a missing authentication vulnerability that allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108863",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108863:2026-10-11T13:49"
+  },
+  {
+   "ts": "2026-10-11T13:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-108860 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-108860 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True BotSharp through 5.2.0 contains an authentication bypass vulnerability that allows u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108860",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108860:2026-10-11T13:49"
+  },
+  {
+   "ts": "2026-10-11T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108859 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-108859 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True mcp-go through 1.2.1 contains a denial of service vulnerability in StreamableHTTPServer.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108859",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108859:2026-10-11T13:49"
+  },
+  {
+   "ts": "2026-10-11T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108853 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-108853 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True UnicomAI Wanwu before 0.6.3 contains an insecure direct object reference vulnerability t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108853",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108853:2026-10-11T13:49"
+  },
+  {
+   "ts": "2026-10-11T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108699 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-108699 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True hyper-mcp through 0.8.3 contains an improper signature verification vulnerability that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108699",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108699:2026-10-11T13:49"
+  },
+  {
+   "ts": "2026-10-11T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108698 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-108698 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True hyper-mcp through 0.8.3 contains a signature verification bypass vulnerability in load_w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108698",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108698:2026-10-11T13:49"
+  },
   {
    "ts": "2026-10-11T12:49:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
    "source": "Hacker News",
    "id": "community:https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/:2026-10-10T23:19"
-  },
-  {
-   "ts": "2026-10-10T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Bitwarden Dual License Model",
-   "body": "Hacker News · 점수 324",
-   "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-   "source": "Hacker News",
-   "id": "community:https://community.bitwarden.com/t/published-version-update-in-app-stores/102750:2026-10-10T23:19"
-  },
-  {
-   "ts": "2026-10-10T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Grieving the loss of details",
-   "body": "Hacker News · 점수 300",
-   "link": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-   "source": "Hacker News",
-   "id": "community:https://purplesyringa.moe/blog/grieving-the-loss-of-details/:2026-10-10T23:19"
-  },
-  {
-   "ts": "2026-10-10T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108623 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-108623 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the SysLogCont",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108623",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108623:2026-10-10T22:19"
-  },
-  {
-   "ts": "2026-10-10T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-27350 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-27350 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Server-Side Request Forgery (SSRF) vulnerability in Builderius.io Builderius allows Serv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-27350",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-27350:2026-10-10T20:19"
-  },
-  {
-   "ts": "2026-10-10T19:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-57742 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-57742 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57742",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57742:2026-10-10T19:49"
-  },
-  {
-   "ts": "2026-10-10T19:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-108598 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-108598 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Floci 1.1.0 before 2.2.0 contains a code injection vulnerability in VtlTemplateEngin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108598",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108598:2026-10-10T19:19"
-  },
-  {
-   "ts": "2026-10-10T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-57806 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-57806 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57806",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57806:2026-10-10T19:19"
   }
  ]
 }
