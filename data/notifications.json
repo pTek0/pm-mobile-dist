@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-11T19:49:07+00:00",
+ "generated_at": "2026-10-11T20:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-11T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108963 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-108963 📢 Source: mitre 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True databasement before 1.8.2 allows remote code execution because it runs certain commands (e.g",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108963",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108963:2026-10-11T20:19"
+  },
   {
    "ts": "2026-10-11T17:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
    "source": "Lemmy · technology",
    "id": "community:https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/:2026-10-11T00:19"
-  },
-  {
-   "ts": "2026-10-11T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] ICE is reportedly using a Palantir database to compile dossi",
-   "body": "Lemmy · technology · 점수 95",
-   "link": "https://www.engadget.com/2276609/ice-is-reportedly-using-a-palantir-database-to-compile-dossiers-on-protestors/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.engadget.com/2276609/ice-is-reportedly-using-a-palantir-database-to-compile-dossiers-on-protestors/:2026-10-11T00:19"
   }
  ]
 }
