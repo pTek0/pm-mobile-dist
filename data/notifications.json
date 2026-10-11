@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-11T01:19:08+00:00",
+ "generated_at": "2026-10-11T01:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-11T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108708 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-108708 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Wukong_HRM through commit 186115e contains a missing authorization vulnerability because",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108708",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108708:2026-10-11T01:49"
+  },
+  {
+   "ts": "2026-10-11T01:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-108707 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-108707 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Wukong_HRM through commit 186115e contains an authentication bypass vulnerability in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108707",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108707:2026-10-11T01:49"
+  },
+  {
+   "ts": "2026-10-11T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108700 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-108700 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True 1Panel-dev CordysCRM before 1.9.2 contains a missing authorization vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108700",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108700:2026-10-11T01:49"
+  },
+  {
+   "ts": "2026-10-11T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108695 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-108695 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True MultiVendorX WordPress plugin through 5.0.19 contains an incorrect authorization vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108695",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108695:2026-10-11T01:49"
+  },
+  {
+   "ts": "2026-10-11T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108694 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-108694 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ConvertX through 0.19.0 contains an arbitrary file read vulnerability that allows authen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108694",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108694:2026-10-11T01:49"
+  },
+  {
+   "ts": "2026-10-11T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108693 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-108693 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False ImageMagick on Windows through 7.1.2-33 and 6.9.13-58 contains an uncontrolled search p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108693",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108693:2026-10-11T01:49"
+  },
+  {
+   "ts": "2026-10-11T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108692 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-108692 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True 1Panel-dev CordysCRM from 1.9.0 before 1.9.2 contains a missing authorization vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108692",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108692:2026-10-11T01:49"
+  },
   {
    "ts": "2026-10-11T00:49:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108547",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108547:2026-10-10T14:49"
-  },
-  {
-   "ts": "2026-10-10T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108546 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-108546 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Spotweb through 1.5.8 contains an OS command injection vulnerability in the runcommand N",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108546",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108546:2026-10-10T14:49"
-  },
-  {
-   "ts": "2026-10-10T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108545 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-108545 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True SillyTavern 1.12.13 through 1.19.0 contains a denial of service vulnerability that allow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108545",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108545:2026-10-10T14:49"
-  },
-  {
-   "ts": "2026-10-10T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97264 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-97264 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97264",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97264:2026-10-10T14:19"
-  },
-  {
-   "ts": "2026-10-10T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97263 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-97263 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97263",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97263:2026-10-10T14:19"
-  },
-  {
-   "ts": "2026-10-10T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94676 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-94676 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Tainacan Community Tainacan tainacan ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94676",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94676:2026-10-10T14:19"
-  },
-  {
-   "ts": "2026-10-10T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105885 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-105885 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in 10Web Slider by 10Web slider-wd allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105885",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105885:2026-10-10T14:19"
-  },
-  {
-   "ts": "2026-10-10T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102388 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-102388 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102388",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102388:2026-10-10T14:19"
   }
  ]
 }
