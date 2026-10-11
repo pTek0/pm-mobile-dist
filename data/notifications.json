@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-11T11:19:07+00:00",
+ "generated_at": "2026-10-11T11:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-11T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nix wrote half of my debugger",
+   "body": "Hacker News · 점수 200",
+   "link": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+   "source": "Hacker News",
+   "id": "community:https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger:2026-10-11T11:49"
+  },
+  {
+   "ts": "2026-10-11T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Knuth reward check",
+   "body": "Hacker News · 점수 196",
+   "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+   "source": "Hacker News",
+   "id": "community:https://www.thomas-huehn.com/knuth-reward-check/:2026-10-11T11:49"
+  },
+  {
+   "ts": "2026-10-11T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Mxc: Microsoft Execution Containers version 1.0.0",
+   "body": "Hacker News · 점수 193",
+   "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+   "source": "Hacker News",
+   "id": "community:https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/:2026-10-11T11:49"
+  },
+  {
+   "ts": "2026-10-11T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Mac Users Are Nuking Every Trace of Apple AI on Their Machin",
+   "body": "Lemmy · technology · 점수 176",
+   "link": "https://futurism.com/artificial-intelligence/mac-users-nuking-every-trace-of-apple-ai",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/artificial-intelligence/mac-users-nuking-every-trace-of-apple-ai:2026-10-11T11:49"
+  },
+  {
+   "ts": "2026-10-11T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Unikernels were hard. key word: were",
+   "body": "Hacker News · 점수 166",
+   "link": "https://ghuntley.com/unikernels/",
+   "source": "Hacker News",
+   "id": "community:https://ghuntley.com/unikernels/:2026-10-11T11:49"
+  },
   {
    "ts": "2026-10-11T11:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-106608",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106608:2026-10-10T17:19"
-  },
-  {
-   "ts": "2026-10-10T17:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105889 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-105889 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105889",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105889:2026-10-10T17:19"
-  },
-  {
-   "ts": "2026-10-10T17:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-104398 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-104398 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in VillaTheme AFFI – Affiliate Mark",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104398",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104398:2026-10-10T17:19"
-  },
-  {
-   "ts": "2026-10-10T17:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103071 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-103071 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper Control of Generation of Code ('Code Injection') vulnerability in VillaTheme T",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103071",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103071:2026-10-10T17:19"
-  },
-  {
-   "ts": "2026-10-10T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108581 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-108581 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True TencentCloud Octop through 1.0.2b6 contains a missing authorization vulnerability that a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108581",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108581:2026-10-10T16:19"
-  },
-  {
-   "ts": "2026-10-10T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108553 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-108553 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True OpenRefine through 3.10.1 contains a cross-site request forgery vulnerability in the get",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108553",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108553:2026-10-10T15:19"
   }
  ]
 }
