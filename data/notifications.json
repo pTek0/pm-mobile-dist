@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-10-12T15:19:08+00:00",
+ "generated_at": "2026-10-12T15:49:15+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-12T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-9191 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-9191 📢 Source: ProgressSoftware 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Progress MarkLogic Server 12.x releases before 12.1.0 and 11.x releases before ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9191",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9191:2026-10-12T15:49"
+  },
+  {
+   "ts": "2026-10-12T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85949 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-85949 📢 Source: ProgressSoftware 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Progress MarkLogic Server 12.x releases before 12.1.0 and 11.x releases before 11.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85949",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85949:2026-10-12T15:49"
+  },
+  {
+   "ts": "2026-10-12T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85948 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-85948 📢 Source: ProgressSoftware 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Progress MarkLogic Server 12.x releases before 12.1.0 and 11.x releases before",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85948",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85948:2026-10-12T15:49"
+  },
+  {
+   "ts": "2026-10-12T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85947 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-85947 📢 Source: ProgressSoftware 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Progress MarkLogic Server 12.x releases before 12.1.0 and 11.x releases before",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85947",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85947:2026-10-12T15:49"
+  },
+  {
+   "ts": "2026-10-12T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105668 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-105668 📢 Source: EEF 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Protection Mechanism Failure vulnerability in hexpm hex allows the owner of a package, or an a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105668",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105668:2026-10-12T15:49"
+  },
+  {
+   "ts": "2026-10-12T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92682 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-92682 📢 Source: Neo4j 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True In @neo4j /graphql versions from 7.0.0 up to but not including 7.6.4, the none quantifier in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92682",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92682:2026-10-12T15:49"
+  },
+  {
+   "ts": "2026-10-12T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-92681 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-92681 📢 Source: Neo4j 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True In @neo4j /graphql versions up to and including 7.6.3, @authentication directives applied",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92681",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92681:2026-10-12T15:49"
+  },
+  {
+   "ts": "2026-10-12T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109399 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-109399 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True SWUpdate through 2026.05.1 contains an improper certificate validation vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109399",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109399:2026-10-12T15:49"
+  },
+  {
+   "ts": "2026-10-12T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109398 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-109398 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Gumlet php-image-resize before 3.0.1 contains a denial of service vulnerability because ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109398",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109398:2026-10-12T15:49"
+  },
+  {
+   "ts": "2026-10-12T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109397 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-109397 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Thelia before 3.1.2 and 3.2.x before 3.2.1 contains an unrestricted file upload vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109397",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109397:2026-10-12T15:49"
+  },
+  {
+   "ts": "2026-10-12T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109394 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-109394 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Thirty bees through 1.7.0 contains an authentication bypass vulnerability in Passwor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109394",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109394:2026-10-12T15:49"
+  },
+  {
+   "ts": "2026-10-12T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109391 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-109391 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Square Squash through commit e73f280 contains an insecure deserialization vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109391",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109391:2026-10-12T15:49"
+  },
   {
    "ts": "2026-10-12T15:19:06+00:00",
    "level": "important",
@@ -381,126 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-21125",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21125:2026-10-12T05:19"
-  },
-  {
-   "ts": "2026-10-12T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21124 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-21124 📢 Source: SamsungMobile 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Improper input validation in getting cover image in libsimba.heifdec.media.samsung.s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21124",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21124:2026-10-12T05:19"
-  },
-  {
-   "ts": "2026-10-12T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21122 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-21122 📢 Source: SamsungMobile 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Out-of-bounds write in libsamsungtts.so prior to SMR Oct-2026 Release 1 allows local a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21122",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21122:2026-10-12T05:19"
-  },
-  {
-   "ts": "2026-10-12T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21120 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-21120 📢 Source: SamsungMobile 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: False Use after free in WSM service prior to SMR Oct-2026 Release 1 allows local attackers",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21120",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21120:2026-10-12T05:19"
-  },
-  {
-   "ts": "2026-10-12T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21114 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-21114 📢 Source: SamsungMobile 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Out-of-bounds write in libsmkvextractor.so prior to SMR Oct-2026 Release 1 allows loca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21114",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21114:2026-10-12T05:19"
-  },
-  {
-   "ts": "2026-10-12T03:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108985 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-108985 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ZDR decoding in libnfs through 6.0.2 before 7613236 has an out-of-bounds write related to li",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108985",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108985:2026-10-12T03:19"
-  },
-  {
-   "ts": "2026-10-12T03:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108982 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-108982 📢 Source: mitre 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False VeraCrypt 1.26.29 (FUSE-T build) on macOS sometimes allows unintended access to decrypted d",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108982",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108982:2026-10-12T03:19"
-  },
-  {
-   "ts": "2026-10-12T02:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66086 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-66086 📢 Source: Unisoc 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False In the modem OTA stack, there is a possible stack-based buffer overflow due to improper val",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66086",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66086:2026-10-12T02:19"
-  },
-  {
-   "ts": "2026-10-12T02:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108980 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-108980 📢 Source: mitre 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Blinko through 1.8.8 allows directory traversal, overwriting startup files as root, via inst",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108980",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108980:2026-10-12T02:19"
-  },
-  {
-   "ts": "2026-10-12T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nitter: Update Oct 10th seeking funding and legal help",
-   "body": "Lemmy · programming.dev · 점수 61",
-   "link": "https://i.ibb.co/FkQ0MN76/67899.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://i.ibb.co/FkQ0MN76/67899.png:2026-10-12T00:49"
-  },
-  {
-   "ts": "2026-10-12T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tech Workers Have Long Resisted Unions. Will AI and Politics",
-   "body": "Lemmy · technology · 점수 55",
-   "link": "https://www.kqed.org/news/12095749/tech-workers-have-long-resisted-unions-will-ai-and-politics-change-the-equation",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.kqed.org/news/12095749/tech-workers-have-long-resisted-unions-will-ai-and-politics-change-the-equation:2026-10-12T00:49"
-  },
-  {
-   "ts": "2026-10-12T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: ship-pentest",
-   "body": "**★ 2026-10-05~11 활동 — MCP 툴킷 영구화**: 스크래치패드에만 있던 산출물을 `mcp-toolkit/`로 영구화(MCP 프로파일·오프라인 펌웨어 랩 Proxmox 설치 스펙·웹/모바일/API 진단",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: ship-pentest:2026-10-12T00:49"
-  },
-  {
-   "ts": "2026-10-12T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pentest-toolkit",
-   "body": "쉐도우 모드(관찰만) — **정체 지속(마지막 세션 07-17 → 2026-10-12 기준 87일 경과, 지난 7일 커밋 0)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→⏸",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pentest-toolkit:2026-10-12T00:49"
   }
  ]
 }
