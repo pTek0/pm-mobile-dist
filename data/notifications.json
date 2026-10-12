@@ -1,7 +1,147 @@
 {
- "generated_at": "2026-10-12T13:49:07+00:00",
+ "generated_at": "2026-10-12T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18390 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-18390 📢 Source: TR-CERT 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Improper neutralization of special elements used in an OS command ('OS command injection')",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18390",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18390:2026-10-12T14:19"
+  },
+  {
+   "ts": "2026-10-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12613 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-12613 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of untrusted data vulnerability in Ministry of Justice General Directorate ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12613",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12613:2026-10-12T14:19"
+  },
+  {
+   "ts": "2026-10-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109229 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-109229 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SGLang through 0.5.21 contains a denial of service vulnerability that disables Pillow de",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109229",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109229:2026-10-12T14:19"
+  },
+  {
+   "ts": "2026-10-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109228 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-109228 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SGLang through 0.5.21 contains a resource budget bypass vulnerability that allows remote",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109228",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109228:2026-10-12T14:19"
+  },
+  {
+   "ts": "2026-10-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109227 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-109227 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SGLang through 0.5.21 contains an unbounded memory allocation vulnerability in preproces",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109227",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109227:2026-10-12T14:19"
+  },
+  {
+   "ts": "2026-10-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109226 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-109226 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SGLang through 0.5.21 contains a decompression amplification vulnerability in load_audio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109226",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109226:2026-10-12T14:19"
+  },
+  {
+   "ts": "2026-10-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109225 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-109225 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SGLang through 0.5.21 contains an unbounded memory allocation vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109225",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109225:2026-10-12T14:19"
+  },
+  {
+   "ts": "2026-10-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109205 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-109205 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True LogicalDOC Community Edition through 9.3 contains an unauthenticated file upload vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109205",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109205:2026-10-12T14:19"
+  },
+  {
+   "ts": "2026-10-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109203 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109203 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True LogicalDOC Community Edition through 9.3 contains a missing authorization vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109203",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109203:2026-10-12T14:19"
+  },
+  {
+   "ts": "2026-10-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109202 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109202 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True LogicalDOC Community Edition through 9.3 contains a missing authorization vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109202",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109202:2026-10-12T14:19"
+  },
+  {
+   "ts": "2026-10-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109201 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-109201 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True LogicalDOC Community Edition through 9.3 contains a missing authorization vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109201",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109201:2026-10-12T14:19"
+  },
+  {
+   "ts": "2026-10-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109199 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-109199 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True LogicalDOC Community Edition through 9.3 contains a code injection vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109199",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109199:2026-10-12T14:19"
+  },
+  {
+   "ts": "2026-10-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109170 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109170 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True LogicalDOC Community Edition through 9.3 contains an HQL injection vulnerability in Docu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109170",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109170:2026-10-12T14:19"
+  },
+  {
+   "ts": "2026-10-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109169 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109169 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True LogicalDOC Community Edition through 9.3 contains a sql injection vulnerability that all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109169",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109169:2026-10-12T14:19"
+  },
   {
    "ts": "2026-10-12T13:19:08+00:00",
    "level": "general",
@@ -361,146 +501,6 @@
    "link": "https://www.improvethenews.org/story/2026/report-pelosi-leads-congress-in-data-center-investments",
    "source": "Lemmy · technology",
    "id": "community:https://www.improvethenews.org/story/2026/report-pelosi-leads-congress-in-data-center-investments:2026-10-12T00:19"
-  },
-  {
-   "ts": "2026-10-12T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Texas Driver, Alek Schott of Houston, wins $76 after ALPR le",
-   "body": "Lemmy · technology · 점수 87",
-   "link": "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/:2026-10-12T00:19"
-  },
-  {
-   "ts": "2026-10-12T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I'm still around.. I'm just not writing here",
-   "body": "Lobsters · 점수 78",
-   "link": "https://rachelbythebay.com/w/2026/10/08/idle/",
-   "source": "Lobsters",
-   "id": "community:https://rachelbythebay.com/w/2026/10/08/idle/:2026-10-12T00:19"
-  },
-  {
-   "ts": "2026-10-11T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Terence Tao: Math 2.0 [pdf]",
-   "body": "Hacker News · 점수 281",
-   "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-   "source": "Hacker News",
-   "id": "community:https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf:2026-10-11T23:49"
-  },
-  {
-   "ts": "2026-10-11T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Total Annihilation, rebuilt for modern computers",
-   "body": "Hacker News · 점수 280",
-   "link": "https://nanolathe.gg",
-   "source": "Hacker News",
-   "id": "community:https://nanolathe.gg:2026-10-11T23:49"
-  },
-  {
-   "ts": "2026-10-11T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] So, You’d Like To Sell Your Print Issues Of The Onion?",
-   "body": "Hacker News · 점수 199",
-   "link": "https://theonion.com/archivehunt/",
-   "source": "Hacker News",
-   "id": "community:https://theonion.com/archivehunt/:2026-10-11T23:49"
-  },
-  {
-   "ts": "2026-10-11T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The tilde in your PATH may not be your HOME",
-   "body": "Hacker News · 점수 195",
-   "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-   "source": "Hacker News",
-   "id": "community:https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/:2026-10-11T23:49"
-  },
-  {
-   "ts": "2026-10-11T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Coffee machine uses 1,000GB of traffic in 10 days, leaves IT",
-   "body": "Lemmy · technology · 점수 192",
-   "link": "https://cybernews.com/security/smart-coffee-maker-cought-generating-massive-amount-of-data/",
-   "source": "Lemmy · technology",
-   "id": "community:https://cybernews.com/security/smart-coffee-maker-cought-generating-massive-amount-of-data/:2026-10-11T23:49"
-  },
-  {
-   "ts": "2026-10-11T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] LineageOS 24.0",
-   "body": "Hacker News · 점수 393",
-   "link": "https://lineageos.org/Changelog-32/",
-   "source": "Hacker News",
-   "id": "community:https://lineageos.org/Changelog-32/:2026-10-11T23:19"
-  },
-  {
-   "ts": "2026-10-11T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I paid people to try and follow my README",
-   "body": "Hacker News · 점수 356",
-   "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-   "source": "Hacker News",
-   "id": "community:https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/:2026-10-11T23:19"
-  },
-  {
-   "ts": "2026-10-11T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] IRCv3",
-   "body": "Hacker News · 점수 322",
-   "link": "https://ircv3.net/",
-   "source": "Hacker News",
-   "id": "community:https://ircv3.net/:2026-10-11T23:19"
-  },
-  {
-   "ts": "2026-10-11T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Intel to release new CPUs on old socket in early 2027 says G",
-   "body": "Lemmy · technology · 점수 292",
-   "link": "https://www.pcgamer.com/hardware/processors/intel-to-release-new-cpus-on-old-socket-in-early-2027-says-gigabyte-memory-crisis-making-ddr4-desirable-again/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.pcgamer.com/hardware/processors/intel-to-release-new-cpus-on-old-socket-in-early-2027-says-gigabyte-memory-crisis-making-ddr4-desirable-again/:2026-10-11T23:19"
-  },
-  {
-   "ts": "2026-10-11T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] NYC's \"Click to Cancel\" rule is now in effect",
-   "body": "Hacker News · 점수 283",
-   "link": "https://www.nyc.gov/main/click-to-cancel",
-   "source": "Hacker News",
-   "id": "community:https://www.nyc.gov/main/click-to-cancel:2026-10-11T23:19"
-  },
-  {
-   "ts": "2026-10-11T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108976 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-108976 📢 Source: mitre 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False GNU Emacs before 31.2 (and TRAMP through 2.8.2) allows OS command injection via a filename ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108976",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108976:2026-10-11T20:49"
-  },
-  {
-   "ts": "2026-10-11T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108963 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-108963 📢 Source: mitre 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True databasement before 1.8.2 allows remote code execution because it runs certain commands (e.g",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108963",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108963:2026-10-11T20:19"
   }
  ]
 }
