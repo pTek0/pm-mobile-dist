@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-12T01:49:07+00:00",
+ "generated_at": "2026-10-12T02:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-12T02:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66086 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-66086 📢 Source: Unisoc 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False In the modem OTA stack, there is a possible stack-based buffer overflow due to improper val",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66086",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66086:2026-10-12T02:19"
+  },
+  {
+   "ts": "2026-10-12T02:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108980 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-108980 📢 Source: mitre 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Blinko through 1.8.8 allows directory traversal, overwriting startup files as root, via inst",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108980",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108980:2026-10-12T02:19"
+  },
   {
    "ts": "2026-10-12T00:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
    "source": "Hacker News",
    "id": "community:https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/:2026-10-11T11:49"
-  },
-  {
-   "ts": "2026-10-11T11:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Mac Users Are Nuking Every Trace of Apple AI on Their Machin",
-   "body": "Lemmy · technology · 점수 176",
-   "link": "https://futurism.com/artificial-intelligence/mac-users-nuking-every-trace-of-apple-ai",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/mac-users-nuking-every-trace-of-apple-ai:2026-10-11T11:49"
-  },
-  {
-   "ts": "2026-10-11T11:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Unikernels were hard. key word: were",
-   "body": "Hacker News · 점수 166",
-   "link": "https://ghuntley.com/unikernels/",
-   "source": "Hacker News",
-   "id": "community:https://ghuntley.com/unikernels/:2026-10-11T11:49"
   }
  ]
 }
