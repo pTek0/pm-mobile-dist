@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-12T22:19:08+00:00",
+ "generated_at": "2026-10-12T22:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-12T22:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109573 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-109573 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True phpMyFAQ before 4.1.9 contains an SQL injection vulnerability in PdoMysql::escape(),",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109573",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109573:2026-10-12T22:49"
+  },
+  {
+   "ts": "2026-10-12T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109572 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-109572 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Open WebUI from 0.8.6 before 0.11.4 contains a privilege escalation vulnerability in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109572",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109572:2026-10-12T22:49"
+  },
+  {
+   "ts": "2026-10-12T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-71432 (CVSS 8.6)",
+   "body": "🚨 CVE-2025-71432 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Frappe ERPNext before 14.92.1 and 15.x before 15.83.0 contains a reflected cross-site scr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71432",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71432:2026-10-12T22:49"
+  },
+  {
+   "ts": "2026-10-12T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2024-58390 (CVSS 8.8)",
+   "body": "🚨 CVE-2024-58390 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Frappe before 14.81.4 and 15.x before 15.41.0 contains an improper privilege management v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58390",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58390:2026-10-12T22:49"
+  },
+  {
+   "ts": "2026-10-12T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2023-54412 (CVSS 7.1)",
+   "body": "🚨 CVE-2023-54412 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Frappe before 13.46.3 and 14.x before 14.21.1 contains an improper access control vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2023-54412",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54412:2026-10-12T22:49"
+  },
+  {
+   "ts": "2026-10-12T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2023-54411 (CVSS 8.2)",
+   "body": "🚨 CVE-2023-54411 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Frappe framework before 13.32.0 uses weak authentication for print view access, because t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2023-54411",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54411:2026-10-12T22:49"
+  },
   {
    "ts": "2026-10-12T22:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85956",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85956:2026-10-12T16:19"
-  },
-  {
-   "ts": "2026-10-12T16:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85955 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-85955 📢 Source: ProgressSoftware 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Progress MarkLogic Server 12.x releases before 12.1.0 and 11.x releases before",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85955",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85955:2026-10-12T16:19"
-  },
-  {
-   "ts": "2026-10-12T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85954 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-85954 📢 Source: ProgressSoftware 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Progress MarkLogic Server 12.x releases before 12.1.0 and 11.x releases before 11.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85954",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85954:2026-10-12T16:19"
-  },
-  {
-   "ts": "2026-10-12T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85953 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-85953 📢 Source: ProgressSoftware 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Progress MarkLogic Server 12.x releases before 12.1.0 and 11.x releases before 11.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85953",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85953:2026-10-12T16:19"
-  },
-  {
-   "ts": "2026-10-12T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85952 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-85952 📢 Source: ProgressSoftware 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Affected Linux-based Progress MarkLogic Server 12.x releases before 12.1.0 and 11.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85952",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85952:2026-10-12T16:19"
-  },
-  {
-   "ts": "2026-10-12T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85951 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-85951 📢 Source: ProgressSoftware 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Progress MarkLogic Server 12.x releases before 12.1.0 and 11.x releases before 11.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85951",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85951:2026-10-12T16:19"
-  },
-  {
-   "ts": "2026-10-12T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85950 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-85950 📢 Source: ProgressSoftware 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Progress MarkLogic Server 12.x releases before 12.1.0 and 11.x releases before 11.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85950",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85950:2026-10-12T16:19"
   }
  ]
 }
