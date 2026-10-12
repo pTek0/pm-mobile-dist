@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-12T12:19:07+00:00",
+ "generated_at": "2026-10-12T12:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-12T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-52903 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-52903 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A deserialization of untrusted data vulnerability was found in ManageIQ. The YamlLoadAliase",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-52903",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-52903:2026-10-12T12:49"
+  },
+  {
+   "ts": "2026-10-12T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108953 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-108953 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False mac-shell-mcp before 2.0.0 contains an OS command injection vulnerability that allows M",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108953",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108953:2026-10-12T12:49"
+  },
+  {
+   "ts": "2026-10-12T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108951 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-108951 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True LavaLite CMS through 10.1.2 contains an authorization bypass vulnerability that allows a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108951",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108951:2026-10-12T12:49"
+  },
   {
    "ts": "2026-10-12T11:19:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19577",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19577:2026-10-11T17:49"
-  },
-  {
-   "ts": "2026-10-11T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108913 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-108913 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True omarchy-theme-set in Omarchy 4 before 4.0.1 allows code execution via a third-party theme be",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108913",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108913:2026-10-11T16:19"
-  },
-  {
-   "ts": "2026-10-11T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108905 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-108905 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True pH7Builder (pH7 Social Dating CMS) before 18.6.0 contains a hard-coded API key vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108905",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108905:2026-10-11T15:19"
-  },
-  {
-   "ts": "2026-10-11T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108904 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-108904 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True pH7Builder (pH7 Social Dating CMS) before 18.5.0 contains an information disclosure vuln",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108904",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108904:2026-10-11T15:19"
   }
  ]
 }
