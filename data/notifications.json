@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-12T23:19:07+00:00",
+ "generated_at": "2026-10-12T23:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-12T23:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-96119 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-96119 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM i 7.3, 7.4, 7.5, and 7.6 could allow a remote authenticated attacker to obtain sensitiv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96119",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96119:2026-10-12T23:49"
+  },
+  {
+   "ts": "2026-10-12T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93886 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-93886 📢 Source: ibm 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True IBM i 7.3, 7.4, 7.5, and 7.6 could allow a remote authenticated attacker to execute arbitrary s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93886",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93886:2026-10-12T23:49"
+  },
+  {
+   "ts": "2026-10-12T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] 'Unprecedented' Cyberattack cripples supermarket fridges acr",
+   "body": "Lemmy · technology · 점수 353",
+   "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident:2026-10-12T23:49"
+  },
+  {
+   "ts": "2026-10-12T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A Modern Web App in C",
+   "body": "Hacker News · 점수 335",
+   "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
+   "source": "Hacker News",
+   "id": "community:https://prophitt.me/writing/a-modern-web-app-in-c:2026-10-12T23:49"
+  },
+  {
+   "ts": "2026-10-12T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Breaking news!!",
+   "body": "Lemmy · programming.dev · 점수 296",
+   "link": "https://lemmy.zip/pictrs/image/0e034859-a6b1-4b75-a10f-9dafcb00ae91.avif",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.zip/pictrs/image/0e034859-a6b1-4b75-a10f-9dafcb00ae91.avif:2026-10-12T23:49"
+  },
+  {
+   "ts": "2026-10-12T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Show HN: PS2 games statically recompiled to WebAssembly",
+   "body": "Hacker News · 점수 255",
+   "link": "https://github.com/snuri00/ps2-web-recomp",
+   "source": "Hacker News",
+   "id": "community:https://github.com/snuri00/ps2-web-recomp:2026-10-12T23:49"
+  },
+  {
+   "ts": "2026-10-12T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Citroen revives the 2CV for an electric age",
+   "body": "Hacker News · 점수 235",
+   "link": "https://www.bbc.com/news/articles/c620r33plgppo",
+   "source": "Hacker News",
+   "id": "community:https://www.bbc.com/news/articles/c620r33plgppo:2026-10-12T23:49"
+  },
   {
    "ts": "2026-10-12T23:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-109422",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109422:2026-10-12T19:49"
-  },
-  {
-   "ts": "2026-10-12T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-96012 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-96012 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM Db2 Mirror for i 7.4, 7.5, and 7.6 is vulnerable to privilege escalation. An authentica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96012",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96012:2026-10-12T19:49"
-  },
-  {
-   "ts": "2026-10-12T19:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-87744 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-87744 📢 Source: redhat 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in Quarkus REST Data Panache. This vulnerability allows unauthenticated",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87744",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87744:2026-10-12T19:19"
-  },
-  {
-   "ts": "2026-10-12T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-83535 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-83535 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in openstack-network-exporter. When an operator configures user authenticat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83535",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83535:2026-10-12T19:19"
-  },
-  {
-   "ts": "2026-10-12T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18166 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-18166 📢 Source: ibm 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True IBM Db2 11.5.0 through 11.5.9, and 12.1.0 through 12.1.5 for Linux, UNIX and Windows (includes ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18166",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18166:2026-10-12T19:19"
-  },
-  {
-   "ts": "2026-10-12T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105464 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-105464 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False IBM Db2 11.5.0 through 11.5.9, and 12.1.0 through 12.1.5 for Linux, UNIX and Windows (include",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105464",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105464:2026-10-12T19:19"
-  },
-  {
-   "ts": "2026-10-12T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104355 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-104355 📢 Source: Temporal 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True A connected peer cluster can modify a Temporal Server cluster's local namespaces, which are",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104355",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104355:2026-10-12T19:19"
-  },
-  {
-   "ts": "2026-10-12T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108481 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-108481 📢 Source: Patchstack 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Patreon Patreon WordPress patreon-co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108481",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108481:2026-10-12T17:49"
   }
  ]
 }
