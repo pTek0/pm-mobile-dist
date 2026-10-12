@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-12T05:49:07+00:00",
+ "generated_at": "2026-10-12T06:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-12T06:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109080 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109080 📢 Source: flock 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True SQL injection in the bulk license plate search of the Flock Night Shift hosted service allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109080",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109080:2026-10-12T06:19"
+  },
   {
    "ts": "2026-10-12T05:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108710",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108710:2026-10-11T12:49"
-  },
-  {
-   "ts": "2026-10-11T12:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Walmart Running Into Trouble as Its Super-Expensive Robots C",
-   "body": "Lemmy · technology · 점수 95",
-   "link": "https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse:2026-10-11T12:19"
   }
  ]
 }
