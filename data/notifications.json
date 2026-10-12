@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-12T10:19:07+00:00",
+ "generated_at": "2026-10-12T10:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-12T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103902 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-103902 📢 Source: ENISA 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper verification of cryptographic signature vulnerability in DigiDoc libdigidocpp, Digi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103902",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103902:2026-10-12T10:49"
+  },
   {
    "ts": "2026-10-12T09:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108853",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108853:2026-10-11T13:49"
-  },
-  {
-   "ts": "2026-10-11T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108699 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-108699 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True hyper-mcp through 0.8.3 contains an improper signature verification vulnerability that a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108699",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108699:2026-10-11T13:49"
   }
  ]
 }
