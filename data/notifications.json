@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-12T08:49:07+00:00",
+ "generated_at": "2026-10-12T09:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-12T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-1907 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-1907 📢 Source: Kong 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False A SQL Injection (SQLi) affects the Kong Gateway (Enterprise and Open Source) clustering commun",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-1907",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-1907:2026-10-12T09:19"
+  },
   {
    "ts": "2026-10-12T07:19:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108699",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108699:2026-10-11T13:49"
-  },
-  {
-   "ts": "2026-10-11T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108698 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-108698 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True hyper-mcp through 0.8.3 contains a signature verification bypass vulnerability in load_w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108698",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108698:2026-10-11T13:49"
   }
  ]
 }
