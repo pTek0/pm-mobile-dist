@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-12T21:49:07+00:00",
+ "generated_at": "2026-10-12T22:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-12T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92876 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-92876 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Maximo Application Suite - IoT Component 9.2.0, 9.1.0, and 9.0.0 could allow a remote attac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92876",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92876:2026-10-12T22:19"
+  },
+  {
+   "ts": "2026-10-12T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-90921 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-90921 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Maximo AI Service 9.1.0, and 9.2.0 could allow a remote attacker to cause a denial of servi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90921",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90921:2026-10-12T22:19"
+  },
+  {
+   "ts": "2026-10-12T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-90920 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-90920 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Maximo AI Service 9.1.0, and 9.2.0 could allow a remote attacker to execute arbitrary c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90920",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90920:2026-10-12T22:19"
+  },
+  {
+   "ts": "2026-10-12T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-90912 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-90912 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Maximo AI Service 9.1.0, and 9.2.0 SaaS could allow a remote attacker to cause a denial of ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90912",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90912:2026-10-12T22:19"
+  },
+  {
+   "ts": "2026-10-12T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-90911 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-90911 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Maximo AI Service 9.1.0, and 9.2.0 could allow a remote attacker to cause a denial of servi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90911",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90911:2026-10-12T22:19"
+  },
   {
    "ts": "2026-10-12T21:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85950",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85950:2026-10-12T16:19"
-  },
-  {
-   "ts": "2026-10-12T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103060 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-103060 📢 Source: EEF 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103060",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103060:2026-10-12T16:19"
-  },
-  {
-   "ts": "2026-10-12T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-9191 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-9191 📢 Source: ProgressSoftware 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Progress MarkLogic Server 12.x releases before 12.1.0 and 11.x releases before ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9191",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9191:2026-10-12T15:49"
-  },
-  {
-   "ts": "2026-10-12T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85949 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-85949 📢 Source: ProgressSoftware 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Progress MarkLogic Server 12.x releases before 12.1.0 and 11.x releases before 11.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85949",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85949:2026-10-12T15:49"
-  },
-  {
-   "ts": "2026-10-12T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85948 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-85948 📢 Source: ProgressSoftware 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Progress MarkLogic Server 12.x releases before 12.1.0 and 11.x releases before",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85948",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85948:2026-10-12T15:49"
-  },
-  {
-   "ts": "2026-10-12T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85947 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-85947 📢 Source: ProgressSoftware 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Progress MarkLogic Server 12.x releases before 12.1.0 and 11.x releases before",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85947",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85947:2026-10-12T15:49"
   }
  ]
 }
