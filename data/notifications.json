@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-13T23:19:08+00:00",
+ "generated_at": "2026-10-13T23:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-13T23:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92817 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-92817 📢 Source: icscert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The Ignition Perspective module does not properly validate session privileges when determin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92817",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92817:2026-10-13T23:49"
+  },
+  {
+   "ts": "2026-10-13T23:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] We turned EmbeddingGemma 2 into a speech-to-text model",
+   "body": "Hacker News · 점수 372",
+   "link": "https://eg2.haku.sh/",
+   "source": "Hacker News",
+   "id": "community:https://eg2.haku.sh/:2026-10-13T23:49"
+  },
+  {
+   "ts": "2026-10-13T23:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Ledger confirms spy chip implant behind wallet crypto thefts",
+   "body": "Hacker News · 점수 324",
+   "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+   "source": "Hacker News",
+   "id": "community:https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/:2026-10-13T23:49"
+  },
+  {
+   "ts": "2026-10-13T23:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Thunderbird for iOS",
+   "body": "Hacker News · 점수 288",
+   "link": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+   "source": "Hacker News",
+   "id": "community:https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/:2026-10-13T23:49"
+  },
+  {
+   "ts": "2026-10-13T23:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] New Apple TV 4K",
+   "body": "Hacker News · 점수 259",
+   "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+   "source": "Hacker News",
+   "id": "community:https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/:2026-10-13T23:49"
+  },
+  {
+   "ts": "2026-10-13T23:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI godfather Geoffrey Hinton: ‘We’re creating alien beings. ",
+   "body": "Lemmy · technology · 점수 145",
+   "link": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech:2026-10-13T23:49"
+  },
   {
    "ts": "2026-10-13T23:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-95636",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95636:2026-10-13T20:49"
-  },
-  {
-   "ts": "2026-10-13T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95635 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-95635 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Photoshop Desktop is affected by a Double Free vulnerability that could result in arbitrary ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95635",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95635:2026-10-13T20:49"
-  },
-  {
-   "ts": "2026-10-13T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105994 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-105994 📢 Source: adobe 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True ColdFusion is affected by an Incorrect Authorization vulnerability that could result in a Se",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105994",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105994:2026-10-13T20:49"
-  },
-  {
-   "ts": "2026-10-13T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105897 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-105897 📢 Source: adobe 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True ColdFusion is affected by a Server-Side Request Forgery (SSRF) vulnerability that could resu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105897",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105897:2026-10-13T20:49"
-  },
-  {
-   "ts": "2026-10-13T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104348 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-104348 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Photoshop Desktop is affected by a Heap-based Buffer Overflow vulnerability that could resu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104348",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104348:2026-10-13T20:49"
-  },
-  {
-   "ts": "2026-10-13T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104347 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-104347 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104347",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104347:2026-10-13T20:49"
-  },
-  {
-   "ts": "2026-10-13T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104346 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-104346 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104346",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104346:2026-10-13T20:49"
   }
  ]
 }
