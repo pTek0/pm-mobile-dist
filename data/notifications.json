@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-10-13T12:49:08+00:00",
+ "generated_at": "2026-10-13T13:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65180 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-65180 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA Megatron-LM contains a vulnerability in checkpoint loading where an Attacker may cau",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65180",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65180:2026-10-13T13:19"
+  },
+  {
+   "ts": "2026-10-13T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-65173 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-65173 📢 Source: nvidia 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True NVIDIA AIStore for Linux contains a missing authentication vulnerability in the token-re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65173",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65173:2026-10-13T13:19"
+  },
+  {
+   "ts": "2026-10-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65172 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-65172 📢 Source: nvidia 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True NVIDIA AIStore for Linux and Kubernetes contains a missing authorization vulnerability in th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65172",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65172:2026-10-13T13:19"
+  },
+  {
+   "ts": "2026-10-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65170 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-65170 📢 Source: nvidia 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True NVIDIA AIStore for Linux contains a vulnerability in the experimental HT backend where an un",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65170",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65170:2026-10-13T13:19"
+  },
+  {
+   "ts": "2026-10-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65164 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-65164 📢 Source: nvidia 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True NVIDIA AIStore for Linux contains a path traversal vulnerability in the dSort archive extrac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65164",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65164:2026-10-13T13:19"
+  },
+  {
+   "ts": "2026-10-13T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-65162 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-65162 📢 Source: nvidia 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True NVIDIA AIStore for Linux contains a vulnerability in the legacy ETL Kubernetes PodSpec in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65162",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65162:2026-10-13T13:19"
+  },
+  {
+   "ts": "2026-10-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65161 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-65161 📢 Source: nvidia 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True NVIDIA AIStore for Linux contains a vulnerability in the Promote API where an unauthenticate",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65161",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65161:2026-10-13T13:19"
+  },
+  {
+   "ts": "2026-10-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65110 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-65110 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA Megatron-LM contains a vulnerability in checkpoint loading where, an attacker could ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65110",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65110:2026-10-13T13:19"
+  },
+  {
+   "ts": "2026-10-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65104 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-65104 📢 Source: nvidia 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True NVIDIA Megatron-LM for all platforms contains a vulnerability in inference, where an attacke",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65104",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65104:2026-10-13T13:19"
+  },
+  {
+   "ts": "2026-10-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65103 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-65103 📢 Source: nvidia 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True NVIDIA AIStore for Linux contains a path traversal vulnerability in the target-side object r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65103",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65103:2026-10-13T13:19"
+  },
+  {
+   "ts": "2026-10-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65101 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-65101 📢 Source: nvidia 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True NVIDIA AIStore for Linux contains a vulnerability in the distributed sort component where an",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65101",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65101:2026-10-13T13:19"
+  },
+  {
+   "ts": "2026-10-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65147 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-65147 📢 Source: nvidia 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False NVIDIA DALI contains a vulnerability where an attacker could cause an uncontrolled out-of-b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65147",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65147:2026-10-13T13:19"
+  },
+  {
+   "ts": "2026-10-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65141 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-65141 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA Isaac Lab contains a vulnerability where an attacker could cause an eval injection. ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65141",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65141:2026-10-13T13:19"
+  },
   {
    "ts": "2026-10-13T12:19:07+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://www.techpowerup.com/353641/valve-publishes-steam-frame-cad-files-for-diy-accessories-and-tweaks",
    "source": "Lemmy · programming.dev",
    "id": "community:https://www.techpowerup.com/353641/valve-publishes-steam-frame-cad-files-for-diy-accessories-and-tweaks:2026-10-13T00:49"
-  },
-  {
-   "ts": "2026-10-13T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Type-safe HTML templating in Zig",
-   "body": "Hacker News · 점수 232",
-   "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-   "source": "Hacker News",
-   "id": "community:https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html:2026-10-13T00:19"
-  },
-  {
-   "ts": "2026-10-13T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] 'AI' is Not a Tool",
-   "body": "Lobsters · 점수 86",
-   "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-   "source": "Lobsters",
-   "id": "community:https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e:2026-10-13T00:19"
-  },
-  {
-   "ts": "2026-10-13T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Anthropic will be ‘most ridiculous IPO’ of year, analyst say",
-   "body": "Lemmy · technology · 점수 70",
-   "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html:2026-10-13T00:19"
-  },
-  {
-   "ts": "2026-10-13T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Just say no to OpenAI and Anthropic",
-   "body": "Lemmy · technology · 점수 66",
-   "link": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
-   "source": "Lemmy · technology",
-   "id": "community:https://micahflee.com/just-say-no-to-openai-and-anthropic/:2026-10-13T00:19"
-  },
-  {
-   "ts": "2026-10-13T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft president says milk faces more regulation than AI",
-   "body": "Lemmy · technology · 점수 66",
-   "link": "https://www.reuters.com/legal/litigation/microsoft-president-says-milk-faces-more-regulation-than-ai-2026-10-12/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.reuters.com/legal/litigation/microsoft-president-says-milk-faces-more-regulation-than-ai-2026-10-12/:2026-10-13T00:19"
-  },
-  {
-   "ts": "2026-10-12T23:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-96119 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-96119 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM i 7.3, 7.4, 7.5, and 7.6 could allow a remote authenticated attacker to obtain sensitiv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96119",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96119:2026-10-12T23:49"
-  },
-  {
-   "ts": "2026-10-12T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93886 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-93886 📢 Source: ibm 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True IBM i 7.3, 7.4, 7.5, and 7.6 could allow a remote authenticated attacker to execute arbitrary s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93886",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93886:2026-10-12T23:49"
-  },
-  {
-   "ts": "2026-10-12T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] 'Unprecedented' Cyberattack cripples supermarket fridges acr",
-   "body": "Lemmy · technology · 점수 353",
-   "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident:2026-10-12T23:49"
-  },
-  {
-   "ts": "2026-10-12T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A Modern Web App in C",
-   "body": "Hacker News · 점수 335",
-   "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
-   "source": "Hacker News",
-   "id": "community:https://prophitt.me/writing/a-modern-web-app-in-c:2026-10-12T23:49"
-  },
-  {
-   "ts": "2026-10-12T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Breaking news!!",
-   "body": "Lemmy · programming.dev · 점수 296",
-   "link": "https://lemmy.zip/pictrs/image/0e034859-a6b1-4b75-a10f-9dafcb00ae91.avif",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.zip/pictrs/image/0e034859-a6b1-4b75-a10f-9dafcb00ae91.avif:2026-10-12T23:49"
-  },
-  {
-   "ts": "2026-10-12T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: PS2 games statically recompiled to WebAssembly",
-   "body": "Hacker News · 점수 255",
-   "link": "https://github.com/snuri00/ps2-web-recomp",
-   "source": "Hacker News",
-   "id": "community:https://github.com/snuri00/ps2-web-recomp:2026-10-12T23:49"
-  },
-  {
-   "ts": "2026-10-12T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Citroen revives the 2CV for an electric age",
-   "body": "Hacker News · 점수 235",
-   "link": "https://www.bbc.com/news/articles/c620r33plgppo",
-   "source": "Hacker News",
-   "id": "community:https://www.bbc.com/news/articles/c620r33plgppo:2026-10-12T23:49"
-  },
-  {
-   "ts": "2026-10-12T23:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93892 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-93892 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM TRIRIGA Application Platform 5.0.0 through 5.0.8 could allow a remote authenticated attacke",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93892",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93892:2026-10-12T23:19"
   }
  ]
 }
