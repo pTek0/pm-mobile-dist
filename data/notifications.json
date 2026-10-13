@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-10-13T14:19:07+00:00",
+ "generated_at": "2026-10-13T14:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77100 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-77100 📢 Source: Commvault 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False MediaAgent contained a heap-based buffer overflow issue affecting service availability. ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77100",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77100:2026-10-13T14:49"
+  },
+  {
+   "ts": "2026-10-13T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77099 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-77099 📢 Source: Commvault 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False CVFS contained an input validation issue affecting command execution. Software custo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77099",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77099:2026-10-13T14:49"
+  },
+  {
+   "ts": "2026-10-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77096 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-77096 📢 Source: Commvault 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False CVFS contained a missing authentication condition affecting command execution. Software ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77096",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77096:2026-10-13T14:49"
+  },
+  {
+   "ts": "2026-10-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77095 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-77095 📢 Source: Commvault 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False CvFWD contained a null pointer dereference affecting service availability. Software cust",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77095",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77095:2026-10-13T14:49"
+  },
+  {
+   "ts": "2026-10-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77094 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-77094 📢 Source: Commvault 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False CvFWD contained an out-of-bounds write affecting service availability. Software customer",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77094",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77094:2026-10-13T14:49"
+  },
+  {
+   "ts": "2026-10-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77093 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-77093 📢 Source: Commvault 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False CvFWD contained an integer overflow affecting service availability. Software customers u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77093",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77093:2026-10-13T14:49"
+  },
+  {
+   "ts": "2026-10-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77090 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-77090 📢 Source: Commvault 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False CVFS contained an XML external entity (XXE) reference handling issue affecting informati",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77090",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77090:2026-10-13T14:49"
+  },
+  {
+   "ts": "2026-10-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65198 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-65198 📢 Source: runZero 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Huawei's openUBMC ships a default SNMPv3 USM key that uses one value for both authenticatio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65198",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65198:2026-10-13T14:49"
+  },
+  {
+   "ts": "2026-10-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-53420 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-53420 📢 Source: Zoom 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True Buffer overflow in a Zoom Phone feature of Zoom Workplace Clients may allow an unauthenticated u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53420",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53420:2026-10-13T14:49"
+  },
+  {
+   "ts": "2026-10-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-53418 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-53418 📢 Source: Zoom 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Improper Authorization in Handler for Custom URL Scheme in Zoom Workplace for Android before v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-53418",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-53418:2026-10-13T14:49"
+  },
+  {
+   "ts": "2026-10-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18228 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-18228 📢 Source: Commvault 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False HyperScale contained a path traversal issue affecting information disclosure. Software c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18228",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18228:2026-10-13T14:49"
+  },
+  {
+   "ts": "2026-10-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12656 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-12656 📢 Source: Rockwell 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A denial-of-service security issue exists in the affected product and version. The securit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12656",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12656:2026-10-13T14:49"
+  },
+  {
+   "ts": "2026-10-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12655 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-12655 📢 Source: Rockwell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A security issue exists within 1732E ArmorBlock ® I/O, where an unauthenticated attacker c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12655",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12655:2026-10-13T14:49"
+  },
   {
    "ts": "2026-10-13T14:19:07+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
    "source": "Lobsters",
    "id": "community:https://blog.julik.nl/2026/10/the-weimar-of-ruby:2026-10-13T12:19"
-  },
-  {
-   "ts": "2026-10-13T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Linus Torvalds Working On A Hefty Linux Kernel Improvement W",
-   "body": "Lobsters · 점수 54",
-   "link": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
-   "source": "Lobsters",
-   "id": "community:https://www.phoronix.com/news/Linus-Torvalds-Claude-Code:2026-10-13T12:19"
-  },
-  {
-   "ts": "2026-10-13T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-63316 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-63316 📢 Source: CERT-PL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A SQL injection vulnerability has been identified in Payload CMS. Improper neutralization o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63316",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63316:2026-10-13T11:49"
-  },
-  {
-   "ts": "2026-10-13T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-   "body": "Hacker News · 점수 226",
-   "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-   "source": "Hacker News",
-   "id": "community:https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html:2026-10-13T11:49"
-  },
-  {
-   "ts": "2026-10-13T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ukraine's Zelenskyy Claims Strikes on Russian Data Centers S",
-   "body": "Lemmy · technology · 점수 173",
-   "link": "https://gizmodo.com/ukraines-zelenskyy-claims-strikes-on-russian-data-centers-silenced-social-media-bots-2000825044",
-   "source": "Lemmy · technology",
-   "id": "community:https://gizmodo.com/ukraines-zelenskyy-claims-strikes-on-russian-data-centers-silenced-social-media-bots-2000825044:2026-10-13T11:49"
-  },
-  {
-   "ts": "2026-10-13T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI coding agents generate more code, but not more software",
-   "body": "Lemmy · technology · 점수 99",
-   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/:2026-10-13T11:49"
-  },
-  {
-   "ts": "2026-10-13T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Flock Cameras Are Really Just the Start of Our Dystopian Sur",
-   "body": "Lemmy · technology · 점수 91",
-   "link": "https://futurism.com/future-society/flock-axon-alpr-police-surveillance-cameras",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/future-society/flock-axon-alpr-police-surveillance-cameras:2026-10-13T11:49"
-  },
-  {
-   "ts": "2026-10-13T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] People are rejoicing about the removal of Russian bots from ",
-   "body": "Lemmy · technology · 점수 81",
-   "link": "https://www.the-independent.com/tech/bots-russia-x-facebook-meta-bluesky-twitter-b3065172.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.the-independent.com/tech/bots-russia-x-facebook-meta-bluesky-twitter-b3065172.html:2026-10-13T11:49"
-  },
-  {
-   "ts": "2026-10-13T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI is a tool and using it well takes skill",
-   "body": "Hacker News · 점수 430",
-   "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-   "source": "Hacker News",
-   "id": "community:https://yyhh.org/blog/2026/10/ai-is-a-tool/:2026-10-13T11:19"
-  },
-  {
-   "ts": "2026-10-13T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Turn a WiFi 7 Router into a 320Msps Software Defined Radio R",
-   "body": "Hacker News · 점수 353",
-   "link": "https://github.com/h0m3us3r/w1700k-sdr",
-   "source": "Hacker News",
-   "id": "community:https://github.com/h0m3us3r/w1700k-sdr:2026-10-13T11:19"
-  },
-  {
-   "ts": "2026-10-13T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The baffling intelligence of a single cell (2024)",
-   "body": "Hacker News · 점수 303",
-   "link": "https://jsomers.net/e-coli-chemotaxis/",
-   "source": "Hacker News",
-   "id": "community:https://jsomers.net/e-coli-chemotaxis/:2026-10-13T11:19"
-  },
-  {
-   "ts": "2026-10-13T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Just imagine how much fun it would be!",
-   "body": "Lemmy · programming.dev · 점수 286",
-   "link": "https://lemmy.blahaj.zone/pictrs/image/7a118c00-91d4-45a8-8456-f77e524332fa.webp",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.blahaj.zone/pictrs/image/7a118c00-91d4-45a8-8456-f77e524332fa.webp:2026-10-13T11:19"
-  },
-  {
-   "ts": "2026-10-13T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Making Of Super Mario 64 – full Giles Goddard interview ",
-   "body": "Hacker News · 점수 252",
-   "link": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
-   "source": "Hacker News",
-   "id": "community:https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/:2026-10-13T11:19"
-  },
-  {
-   "ts": "2026-10-13T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109687 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-109687 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109687",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109687:2026-10-13T09:19"
   }
  ]
 }
