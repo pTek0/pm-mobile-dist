@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-13T03:49:08+00:00",
+ "generated_at": "2026-10-13T04:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-13T04:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109758 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-109758 📢 Source: Perforce 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Perforce Helix Authentication Service (HAS) deployments that retain the shipped defau",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109758",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109758:2026-10-13T04:19"
+  },
   {
    "ts": "2026-10-13T02:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2023-54411",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-54411:2026-10-12T22:49"
-  },
-  {
-   "ts": "2026-10-12T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92876 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-92876 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Maximo Application Suite - IoT Component 9.2.0, 9.1.0, and 9.0.0 could allow a remote attac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92876",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92876:2026-10-12T22:19"
   }
  ]
 }
