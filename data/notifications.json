@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-13T22:49:08+00:00",
+ "generated_at": "2026-10-13T23:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-13T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Gemini 4 Argon",
+   "body": "Hacker News · 점수 867",
+   "link": "https://deepmind.google/models/gemini/",
+   "source": "Hacker News",
+   "id": "community:https://deepmind.google/models/gemini/:2026-10-13T23:19"
+  },
+  {
+   "ts": "2026-10-13T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] 11 year old unsoundness bugs found in Rust borrow checker",
+   "body": "Hacker News · 점수 640",
+   "link": "https://github.com/rust-lang/rust/issues/164250",
+   "source": "Hacker News",
+   "id": "community:https://github.com/rust-lang/rust/issues/164250:2026-10-13T23:19"
+  },
+  {
+   "ts": "2026-10-13T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Apple HomeView",
+   "body": "Hacker News · 점수 614",
+   "link": "https://www.apple.com/apple-homeview/",
+   "source": "Hacker News",
+   "id": "community:https://www.apple.com/apple-homeview/:2026-10-13T23:19"
+  },
+  {
+   "ts": "2026-10-13T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Firefox Enterprise",
+   "body": "Hacker News · 점수 586",
+   "link": "https://www.firefox.com/en-US/enterprise/",
+   "source": "Hacker News",
+   "id": "community:https://www.firefox.com/en-US/enterprise/:2026-10-13T23:19"
+  },
+  {
+   "ts": "2026-10-13T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Redesigning source control at Anthropic",
+   "body": "Hacker News · 점수 442",
+   "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+   "source": "Hacker News",
+   "id": "community:https://www.anthropic.com/engineering/redesigning-source-control:2026-10-13T23:19"
+  },
   {
    "ts": "2026-10-13T22:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-104346",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104346:2026-10-13T20:49"
-  },
-  {
-   "ts": "2026-10-13T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106634 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-106634 📢 Source: adobe 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Improper Limitation of a Pathname to a Restricted",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106634",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106634:2026-10-13T20:19"
-  },
-  {
-   "ts": "2026-10-13T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-106630 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-106630 📢 Source: adobe 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106630",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106630:2026-10-13T20:19"
-  },
-  {
-   "ts": "2026-10-13T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-106629 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-106629 📢 Source: adobe 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106629",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106629:2026-10-13T20:19"
-  },
-  {
-   "ts": "2026-10-13T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-106626 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-106626 📢 Source: adobe 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Improper Input Validation vulnerability that ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106626",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106626:2026-10-13T20:19"
-  },
-  {
-   "ts": "2026-10-13T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105895 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-105895 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Improper Input Validation vulnerability that ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105895",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105895:2026-10-13T20:19"
   }
  ]
 }
