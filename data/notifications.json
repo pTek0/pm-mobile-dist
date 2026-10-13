@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-13T08:49:08+00:00",
+ "generated_at": "2026-10-13T09:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-13T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109687 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-109687 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109687",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109687:2026-10-13T09:19"
+  },
+  {
+   "ts": "2026-10-13T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13138 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-13138 📢 Source: TR-CERT 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Client-Side Enforcement of Server-Side Security vulnerability in Divasoft Software and E-Co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13138",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13138:2026-10-13T09:19"
+  },
+  {
+   "ts": "2026-10-13T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108179 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-108179 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108179",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108179:2026-10-13T09:19"
+  },
   {
    "ts": "2026-10-13T07:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-109573",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109573:2026-10-12T22:49"
-  },
-  {
-   "ts": "2026-10-12T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109572 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-109572 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Open WebUI from 0.8.6 before 0.11.4 contains a privilege escalation vulnerability in the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109572",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109572:2026-10-12T22:49"
-  },
-  {
-   "ts": "2026-10-12T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-71432 (CVSS 8.6)",
-   "body": "🚨 CVE-2025-71432 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Frappe ERPNext before 14.92.1 and 15.x before 15.83.0 contains a reflected cross-site scr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71432",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71432:2026-10-12T22:49"
-  },
-  {
-   "ts": "2026-10-12T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2024-58390 (CVSS 8.8)",
-   "body": "🚨 CVE-2024-58390 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Frappe before 14.81.4 and 15.x before 15.41.0 contains an improper privilege management v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58390",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58390:2026-10-12T22:49"
   }
  ]
 }
