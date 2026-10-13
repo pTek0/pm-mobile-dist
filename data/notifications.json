@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-13T01:19:13+00:00",
+ "generated_at": "2026-10-13T01:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-13T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81839 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-81839 📢 Source: GitLab 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab EE affecting all versions from 18.1 before 19.2.8, ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81839",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81839:2026-10-13T01:49"
+  },
+  {
+   "ts": "2026-10-13T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16301 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-16301 📢 Source: GitLab 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.7 before 19.2.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16301",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16301:2026-10-13T01:49"
+  },
+  {
+   "ts": "2026-10-13T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14814 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-14814 📢 Source: GitLab 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions before 19.2.8, 19.3 be",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14814",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14814:2026-10-13T01:49"
+  },
   {
    "ts": "2026-10-13T01:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-90921",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90921:2026-10-12T22:19"
-  },
-  {
-   "ts": "2026-10-12T22:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-90920 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-90920 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Maximo AI Service 9.1.0, and 9.2.0 could allow a remote attacker to execute arbitrary c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90920",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90920:2026-10-12T22:19"
-  },
-  {
-   "ts": "2026-10-12T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-90912 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-90912 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Maximo AI Service 9.1.0, and 9.2.0 SaaS could allow a remote attacker to cause a denial of ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90912",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90912:2026-10-12T22:19"
-  },
-  {
-   "ts": "2026-10-12T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-90911 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-90911 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Maximo AI Service 9.1.0, and 9.2.0 could allow a remote attacker to cause a denial of servi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90911",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90911:2026-10-12T22:19"
   }
  ]
 }
