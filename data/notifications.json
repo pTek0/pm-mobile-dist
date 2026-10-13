@@ -1,7 +1,187 @@
 {
- "generated_at": "2026-10-13T19:19:07+00:00",
+ "generated_at": "2026-10-13T19:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85927 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-85927 📢 Source: secure@microsoft.com 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Heap-based buffer overflow in Windows Universal Plug and Play (UPnP) Device H",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85927",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85927:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-83647 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-83647 📢 Source: microsoft 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-13T19:00:49.710Z https://cvefeed.io/vuln/detail/CVE-2026-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83647",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83647:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-85928 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-85928 📢 Source: secure@microsoft.com 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Heap-based buffer overflow in Windows Volume Manager Extension Driver allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85928",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85928:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85943 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-85943 📢 Source: secure@microsoft.com 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Time-of-check time-of-use (toctou) race condition in Reliable Multicast Transpo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85943",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85943:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-83639 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-83639 📢 Source: microsoft 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-13T19:00:49.389Z https://cvefeed.io/vuln/detail/CVE-2026-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83639",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83639:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85945 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-85945 📢 Source: secure@microsoft.com 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Use after free in Windows Kernel allows an authorized attacker to elevate pri",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85945",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85945:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86016 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-86016 📢 Source: None 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True VNote is a note-taking platform. Prior to 4.3.0, VNote uses the assignment `preNode.innerHTML ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86016",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86016:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86022 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-86022 📢 Source: None 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False VNote is a note-taking platform. Prior to 4.3.0, SessionConfig::ExternalProgram::fetchCommand w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86022",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86022:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86063 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-86063 📢 Source: security-advisories@github.com 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Claude Code is an agentic coding tool. Prior to 2.1.179, the Claude ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86063",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86063:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-83638 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-83638 📢 Source: microsoft 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-13T19:00:49.298Z https://cvefeed.io/vuln/detail/CVE-2026-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83638",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83638:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87691 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-87691 📢 Source: secure@microsoft.com 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Use after free in Windows Management Services allows an authorized attacker t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87691",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87691:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87692 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-87692 📢 Source: secure@microsoft.com 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Deserialization of untrusted data in Microsoft Exchange Server allows an auth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87692",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87692:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87693 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-87693 📢 Source: secure@microsoft.com 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Use after free in Windows Installer allows an authorized attacker to elevate pr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87693",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87693:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-83637 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-83637 📢 Source: microsoft 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-13T19:00:49.224Z https://cvefeed.io/vuln/detail/CVE-2026-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83637",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83637:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87694 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-87694 📢 Source: secure@microsoft.com 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Use after free in Windows Installer allows an authorized attacker to elevate ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87694",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87694:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87695 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-87695 📢 Source: secure@microsoft.com 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Inclusion of functionality from untrusted control sphere in Microsoft Exchang",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87695",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87695:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87696 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-87696 📢 Source: secure@microsoft.com 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper verification of cryptographic signature in Microsoft Exchange Server ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87696",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87696:2026-10-13T19:49"
+  },
+  {
+   "ts": "2026-10-13T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87697 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-87697 📢 Source: secure@microsoft.com 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of untrusted data in .NET allows an unauthorized attacker to e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87697",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87697:2026-10-13T19:49"
+  },
   {
    "ts": "2026-10-13T19:19:07+00:00",
    "level": "general",
@@ -321,186 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-104085",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104085:2026-10-13T17:49"
-  },
-  {
-   "ts": "2026-10-13T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110117 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-110117 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True SmartAdmin through 3.30.0 contains a missing authorization vulnerability in AdminProtect",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110117",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110117:2026-10-13T17:19"
-  },
-  {
-   "ts": "2026-10-13T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-110116 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-110116 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Risesoft-y9 Digital-Infrastructure 9.6.5 through 9.6.11 contains a path traversal vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110116",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110116:2026-10-13T17:19"
-  },
-  {
-   "ts": "2026-10-13T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110115 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-110115 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Risesoft Digital-Infrastructure 9.6.5 through 9.6.11 contains a path traversal vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110115",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110115:2026-10-13T17:19"
-  },
-  {
-   "ts": "2026-10-13T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110109 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-110109 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True JetLinks Community through 2.10.0 contains a missing authorization vulnerability that al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110109",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110109:2026-10-13T17:19"
-  },
-  {
-   "ts": "2026-10-13T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110108 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-110108 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True MateCloud through 5.0.8 contains a missing authorization vulnerability that allows any a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110108",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110108:2026-10-13T17:19"
-  },
-  {
-   "ts": "2026-10-13T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110104 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-110104 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Xxyopen novel through 3.5.0 contains a weak password hashing vulnerability that allows a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110104",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110104:2026-10-13T17:19"
-  },
-  {
-   "ts": "2026-10-13T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110102 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-110102 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Powerlevel10k through 1.20.0 contains an insecure download vulnerability in the gitstatu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110102",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110102:2026-10-13T17:19"
-  },
-  {
-   "ts": "2026-10-13T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110097 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-110097 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Ikaros 1.2.0 through 1.2.5 contains an authentication bypass vulnerability that allows a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110097",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110097:2026-10-13T17:19"
-  },
-  {
-   "ts": "2026-10-13T16:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-109412 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-109412 📢 Source: ivanti 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True An exposed dangerous endpoint in Ivanti Neurons Patch for Intune allows a remote authen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109412",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109412:2026-10-13T16:49"
-  },
-  {
-   "ts": "2026-10-13T16:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106047 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-106047 📢 Source: ivanti 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A Path Traversal vulnerability in the template export functionality of Ivanti Xtraction bef",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106047",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106047:2026-10-13T16:49"
-  },
-  {
-   "ts": "2026-10-13T16:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106043 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-106043 📢 Source: ivanti 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A Missing Authentication for Critical Function vulnerability in Ivanti Xtraction before ver",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106043",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106043:2026-10-13T16:49"
-  },
-  {
-   "ts": "2026-10-13T16:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-69227 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-69227 📢 Source: Esri 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A flaw in Portal for ArcGIS allows unauthenticated access to certain /portaladmin/local AP",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69227",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69227:2026-10-13T16:49"
-  },
-  {
-   "ts": "2026-10-13T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104004 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-104004 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True MongoDB Server's collection validation feature may not properly handle certain expressions",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104004",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104004:2026-10-13T16:19"
-  },
-  {
-   "ts": "2026-10-13T15:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96299 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-96299 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Missing limits on resource use in the match expression evaluator of MongoDB Server can caus",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96299",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96299:2026-10-13T15:49"
-  },
-  {
-   "ts": "2026-10-13T15:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104935 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-104935 📢 Source: ivanti 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Authentication bypass by spoofing in ICS before version 25.1.3.0 allows a remote unauthenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104935",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104935:2026-10-13T15:49"
-  },
-  {
-   "ts": "2026-10-13T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102250 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-102250 📢 Source: schneider 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True CWE-345: Insufficient Verification of Data Authenticity vulnerability exists that could ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102250",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102250:2026-10-13T15:19"
-  },
-  {
-   "ts": "2026-10-13T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108185 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-108185 📢 Source: Zoom 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Improper certificate validation in the My Notes feature of certain Zoom Clients may allow an ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108185",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108185:2026-10-13T15:19"
-  },
-  {
-   "ts": "2026-10-13T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108184 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-108184 📢 Source: Zoom 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Improper certificate validation in certain Zoom Clients for Windows may allow an unauthentica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108184",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108184:2026-10-13T15:19"
   }
  ]
 }
