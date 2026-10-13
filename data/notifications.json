@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-13T11:49:09+00:00",
+ "generated_at": "2026-10-13T12:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-13T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109832 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-109832 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in gnome-remote-desktop as shipped in Red Hat Enterprise Linux. In the VNC",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109832",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109832:2026-10-13T12:19"
+  },
+  {
+   "ts": "2026-10-13T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] (Post-Quantum) Cryptographic Right Answers",
+   "body": "Lobsters · 점수 62",
+   "link": "https://words.filippo.io/right-answers/",
+   "source": "Lobsters",
+   "id": "community:https://words.filippo.io/right-answers/:2026-10-13T12:19"
+  },
+  {
+   "ts": "2026-10-13T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Iran is weeks away from a nuclear weapon vibes",
+   "body": "Lemmy · programming.dev · 점수 58",
+   "link": "https://www.anthropic.com/research/self-replicating-ai",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://www.anthropic.com/research/self-replicating-ai:2026-10-13T12:19"
+  },
+  {
+   "ts": "2026-10-13T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Living in the Weimar era of Ruby",
+   "body": "Lobsters · 점수 56",
+   "link": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+   "source": "Lobsters",
+   "id": "community:https://blog.julik.nl/2026/10/the-weimar-of-ruby:2026-10-13T12:19"
+  },
+  {
+   "ts": "2026-10-13T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Linus Torvalds Working On A Hefty Linux Kernel Improvement W",
+   "body": "Lobsters · 점수 54",
+   "link": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+   "source": "Lobsters",
+   "id": "community:https://www.phoronix.com/news/Linus-Torvalds-Claude-Code:2026-10-13T12:19"
+  },
   {
    "ts": "2026-10-13T11:49:08+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93892",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93892:2026-10-12T23:19"
-  },
-  {
-   "ts": "2026-10-12T23:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93891 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-93891 📢 Source: ibm 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True IBM TRIRIGA Application Platform 5.0.0 through 5.0.8 could allow a remote authenticated attacke",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93891",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93891:2026-10-12T23:19"
-  },
-  {
-   "ts": "2026-10-12T23:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75782 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-75782 📢 Source: ibm 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False IBM Aspera Enterprise WebApps 1.0.0 through 1.0.6 could allow a local attacker to gain elevate",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75782",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75782:2026-10-12T23:19"
-  },
-  {
-   "ts": "2026-10-12T23:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75095 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-75095 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Aspera Enterprise WebApps 1.0.0 through 1.0.6 could allow a remote attacker to cause a deni",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75095",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75095:2026-10-12T23:19"
-  },
-  {
-   "ts": "2026-10-12T23:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102627 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-102627 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM TRIRIGA Application Platform 5.0.0 through 5.0.8 could allow a remote authenticated attack",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102627",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102627:2026-10-12T23:19"
-  },
-  {
-   "ts": "2026-10-12T23:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85457 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-85457 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Planning Analytics 2.0, and 2.1 could allow a remote authenticated attacker to execute arbi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85457",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85457:2026-10-12T23:19"
   }
  ]
 }
