@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-10-13T13:19:10+00:00",
+ "generated_at": "2026-10-13T13:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-13T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109949 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109949 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP 3.0.0 before 3.32.0 contains an improper restriction of excessive authentication",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109949",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109949:2026-10-13T13:49"
+  },
+  {
+   "ts": "2026-10-13T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109947 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109947 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.20.1 before 3.32.0 contains an uncontrolled resource allocation vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109947",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109947:2026-10-13T13:49"
+  },
+  {
+   "ts": "2026-10-13T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109946 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109946 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP 3.11.0 before 3.32.0 does not validate that AVC444 and AVC444v2 region widths ar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109946",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109946:2026-10-13T13:49"
+  },
+  {
+   "ts": "2026-10-13T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109944 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109944 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP 3.0.0 before 3.32.0 does not remove card handles when Emulate_SCardReleaseContex",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109944",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109944:2026-10-13T13:49"
+  },
+  {
+   "ts": "2026-10-13T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109943 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109943 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP 3.29.0 before 3.32.0 contains a double free in the client's async-update message",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109943",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109943:2026-10-13T13:49"
+  },
+  {
+   "ts": "2026-10-13T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109942 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109942 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP 2.3.0 before 3.32.0 dereferences a NULL stream in rdg_process_close_packet in li",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109942",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109942:2026-10-13T13:49"
+  },
+  {
+   "ts": "2026-10-13T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109941 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109941 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 2.3.0 before 3.32.0 contains an infinite loop vulnerability in http_chuncke",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109941",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109941:2026-10-13T13:49"
+  },
+  {
+   "ts": "2026-10-13T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109938 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109938 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Positive mapped-video coordinates overflow and abort FreeRDP clients A malicious or comp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109938",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109938:2026-10-13T13:49"
+  },
+  {
+   "ts": "2026-10-13T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109678 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109678 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP 3.0.0-beta1 before 3.32.0, when built with verbose WinPR assertions and using sm",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109678",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109678:2026-10-13T13:49"
+  },
+  {
+   "ts": "2026-10-13T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109677 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109677 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 2.0.0-beta1 before 3.28.0 contains an out-of-bounds read vulnerability in s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109677",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109677:2026-10-13T13:49"
+  },
+  {
+   "ts": "2026-10-13T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109676 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-109676 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.0.0-beta1 before 3.32.0 contains a use-after-free vulnerability in smartc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109676",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109676:2026-10-13T13:49"
+  },
   {
    "ts": "2026-10-13T13:19:07+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14814",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14814:2026-10-13T01:49"
-  },
-  {
-   "ts": "2026-10-13T01:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-89113 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-89113 📢 Source: sap 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SAP Commerce Cloud does not sufficiently validate certain user-supplied input before it is inco",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89113",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89113:2026-10-13T01:19"
-  },
-  {
-   "ts": "2026-10-13T01:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-89111 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-89111 📢 Source: sap 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True The SAP Cloud SDK for Python contains an OAuth2 SSRF vulnerability affecting multi-tenant BT",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89111",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89111:2026-10-13T01:19"
-  },
-  {
-   "ts": "2026-10-13T01:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-89110 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-89110 📢 Source: sap 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True SAP NetWeaver Visual Composer does not perform sufficient authorization checks in certain p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89110",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89110:2026-10-13T01:19"
-  },
-  {
-   "ts": "2026-10-13T01:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-89108 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-89108 📢 Source: sap 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SAP Manufacturing Integration and Intelligence does not sufficiently enforce authorization ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89108",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89108:2026-10-13T01:19"
-  },
-  {
-   "ts": "2026-10-13T01:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-89107 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-89107 📢 Source: sap 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True SAP S/4HANA (Manage Substitution/Validation Rules) does not sufficiently validate input pro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89107",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89107:2026-10-13T01:19"
-  },
-  {
-   "ts": "2026-10-13T01:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-87689 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-87689 📢 Source: rapid7 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The Metasploit Framework Web Service REST API (msf-ws) exposes the credential store thro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87689",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87689:2026-10-13T01:19"
-  },
-  {
-   "ts": "2026-10-13T01:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-58249 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-58249 📢 Source: sap 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True SAP NetWeaver and SAP Web Dispatcher do not properly validate certain fields in specially craft",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58249",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58249:2026-10-13T01:19"
-  },
-  {
-   "ts": "2026-10-13T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] French supermarkets suffer refrigerator shutdown after 'unpr",
-   "body": "Lemmy · technology · 점수 60",
-   "link": "https://www.afp.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.afp.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack:2026-10-13T00:49"
-  },
-  {
-   "ts": "2026-10-13T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Just vibin'",
-   "body": "Lemmy · programming.dev · 점수 56",
-   "link": "https://lemmy.world/pictrs/image/5b6dba54-78aa-4b63-b2d2-d4ea0ae1cf67.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/5b6dba54-78aa-4b63-b2d2-d4ea0ae1cf67.jpeg:2026-10-13T00:49"
-  },
-  {
-   "ts": "2026-10-13T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI is creating a 'human premium' for art created by people",
-   "body": "Lemmy · technology · 점수 56",
-   "link": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.bbc.com/news/articles/c5vgjm3gk7rzo:2026-10-13T00:49"
-  },
-  {
-   "ts": "2026-10-13T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Valve Publishes Steam Frame CAD Files for DIY Accessories an",
-   "body": "Lemmy · programming.dev · 점수 50",
-   "link": "https://www.techpowerup.com/353641/valve-publishes-steam-frame-cad-files-for-diy-accessories-and-tweaks",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.techpowerup.com/353641/valve-publishes-steam-frame-cad-files-for-diy-accessories-and-tweaks:2026-10-13T00:49"
   }
  ]
 }
