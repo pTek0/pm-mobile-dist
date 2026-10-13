@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-13T01:49:07+00:00",
+ "generated_at": "2026-10-13T02:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-13T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-35001 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-35001 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False OpenS100 through commit daa35b contains an integer overflow vulnerability in the S-102 B",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-35001",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-35001:2026-10-13T02:19"
+  },
   {
    "ts": "2026-10-13T01:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92876",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92876:2026-10-12T22:19"
-  },
-  {
-   "ts": "2026-10-12T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-90921 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-90921 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Maximo AI Service 9.1.0, and 9.2.0 could allow a remote attacker to cause a denial of servi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90921",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90921:2026-10-12T22:19"
   }
  ]
 }
