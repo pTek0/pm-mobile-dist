@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-13T00:49:07+00:00",
+ "generated_at": "2026-10-13T01:19:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-13T01:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-89113 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-89113 📢 Source: sap 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SAP Commerce Cloud does not sufficiently validate certain user-supplied input before it is inco",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89113",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89113:2026-10-13T01:19"
+  },
+  {
+   "ts": "2026-10-13T01:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-89111 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-89111 📢 Source: sap 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True The SAP Cloud SDK for Python contains an OAuth2 SSRF vulnerability affecting multi-tenant BT",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89111",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89111:2026-10-13T01:19"
+  },
+  {
+   "ts": "2026-10-13T01:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-89110 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-89110 📢 Source: sap 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True SAP NetWeaver Visual Composer does not perform sufficient authorization checks in certain p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89110",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89110:2026-10-13T01:19"
+  },
+  {
+   "ts": "2026-10-13T01:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-89108 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-89108 📢 Source: sap 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SAP Manufacturing Integration and Intelligence does not sufficiently enforce authorization ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89108",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89108:2026-10-13T01:19"
+  },
+  {
+   "ts": "2026-10-13T01:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-89107 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-89107 📢 Source: sap 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True SAP S/4HANA (Manage Substitution/Validation Rules) does not sufficiently validate input pro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89107",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89107:2026-10-13T01:19"
+  },
+  {
+   "ts": "2026-10-13T01:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-87689 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-87689 📢 Source: rapid7 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The Metasploit Framework Web Service REST API (msf-ws) exposes the credential store thro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87689",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87689:2026-10-13T01:19"
+  },
+  {
+   "ts": "2026-10-13T01:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-58249 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-58249 📢 Source: sap 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True SAP NetWeaver and SAP Web Dispatcher do not properly validate certain fields in specially craft",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-58249",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-58249:2026-10-13T01:19"
+  },
   {
    "ts": "2026-10-13T00:49:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-90911",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90911:2026-10-12T22:19"
-  },
-  {
-   "ts": "2026-10-12T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78673 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-78673 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Maximo AI Service 9.1.0, and 9.2.0 could allow a remote attacker to cause a denial of servi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78673",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78673:2026-10-12T21:19"
-  },
-  {
-   "ts": "2026-10-12T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75881 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-75881 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Maximo Application Suite - IoT Component 9.2.0, 9.1.0, and 9.0.0 could allow a remote attac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75881",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75881:2026-10-12T21:19"
-  },
-  {
-   "ts": "2026-10-12T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18537 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-18537 📢 Source: ibm 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True IBM Maximo Application Suite - Location Service for Esri Component 9.2, 9.1, and 9.0 is vulnera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18537",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18537:2026-10-12T21:19"
-  },
-  {
-   "ts": "2026-10-12T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18529 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-18529 📢 Source: ibm 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True IBM Maximo Application Suite - Location Service for Esri Component 9.2, 9.1, and 9.0 is vulnera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18529",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18529:2026-10-12T21:19"
-  },
-  {
-   "ts": "2026-10-12T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18517 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-18517 📢 Source: ibm 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True IBM Maximo Application Suite - Location Service for Esri Component 9.2, 9.1, and 9.0 IBM Maximo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18517",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18517:2026-10-12T21:19"
-  },
-  {
-   "ts": "2026-10-12T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18513 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-18513 📢 Source: ibm 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True IBM Maximo Application Suite - Location Service for Esri Component 9.2, 9.1, and 9.0 is vulnera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18513",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18513:2026-10-12T21:19"
-  },
-  {
-   "ts": "2026-10-12T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105052 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-105052 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Maximo Application Suite 8.10, 8.11, 9.0, 9.1, and 9.2 could allow a remote attacker to tr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105052",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105052:2026-10-12T21:19"
   }
  ]
 }
