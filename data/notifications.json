@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-13T19:49:09+00:00",
+ "generated_at": "2026-10-13T20:19:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-13T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106634 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-106634 📢 Source: adobe 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Improper Limitation of a Pathname to a Restricted",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106634",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106634:2026-10-13T20:19"
+  },
+  {
+   "ts": "2026-10-13T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-106630 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-106630 📢 Source: adobe 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106630",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106630:2026-10-13T20:19"
+  },
+  {
+   "ts": "2026-10-13T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-106629 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-106629 📢 Source: adobe 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106629",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106629:2026-10-13T20:19"
+  },
+  {
+   "ts": "2026-10-13T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-106626 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-106626 📢 Source: adobe 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Improper Input Validation vulnerability that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106626",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106626:2026-10-13T20:19"
+  },
+  {
+   "ts": "2026-10-13T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105895 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-105895 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Improper Input Validation vulnerability that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105895",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105895:2026-10-13T20:19"
+  },
+  {
+   "ts": "2026-10-13T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-103848 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-103848 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Improper Neutralization of Special Elements u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103848",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103848:2026-10-13T20:19"
+  },
   {
    "ts": "2026-10-13T19:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103849",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103849:2026-10-13T18:49"
-  },
-  {
-   "ts": "2026-10-13T18:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-100133 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-100133 📢 Source: adobe 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Adobe Commerce is affected by a stored Cross-Site Scripting (XSS) vulnerability that cou",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100133",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100133:2026-10-13T18:49"
-  },
-  {
-   "ts": "2026-10-13T18:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92892 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-92892 📢 Source: JFROG 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Potential arbitrary code execution, under specific configurations. 📅 Published Date: 2026-1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92892",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92892:2026-10-13T18:19"
-  },
-  {
-   "ts": "2026-10-13T18:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-106173 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-106173 📢 Source: fortinet 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True A improper limitation of a pathname to a restricted directory ('path traversal') vuln",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106173",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106173:2026-10-13T18:19"
-  },
-  {
-   "ts": "2026-10-13T18:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105445 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-105445 📢 Source: Docker 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True An Incorrect Privilege Assignment vulnerability in Docker Hub's account-to-organization",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105445",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105445:2026-10-13T18:19"
-  },
-  {
-   "ts": "2026-10-13T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-57739 (CVSS 7.7)",
-   "body": "🚨 CVE-2025-57739 📢 Source: fortinet 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True An improper neutralization of special elements used in an SQL Command (\"SQL Injection\") vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-57739",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-57739:2026-10-13T18:19"
-  },
-  {
-   "ts": "2026-10-13T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104085 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-104085 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True odt2spip plugin for SPIP before 4.4.0 contains an OS command injection vulnerability tha",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104085",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104085:2026-10-13T17:49"
   }
  ]
 }
