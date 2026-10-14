@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-10-14T17:19:11+00:00",
+ "generated_at": "2026-10-14T17:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107350 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-107350 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Improper authentication in PgBouncer 1.17.0 through 1.26.0 allows a remote attacker wh",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107350",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107350:2026-10-14T17:49"
+  },
+  {
+   "ts": "2026-10-14T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107349 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-107349 📢 Source: PostgreSQL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False An infinite loop in PgBouncer 1.20.0 through 1.26.0 allows an unauthenticated remote a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107349",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107349:2026-10-14T17:49"
+  },
+  {
+   "ts": "2026-10-14T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106464 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-106464 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True `_nx_secure_x509_parse_signature_data` computes the certificate signature's length as `tlv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106464",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106464:2026-10-14T17:49"
+  },
+  {
+   "ts": "2026-10-14T17:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-103415 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-103415 📢 Source: eclipse 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True When a TLS 1.3 client processes a HelloRetryRequest, it copies the server's cookie int",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103415",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103415:2026-10-14T17:49"
+  },
+  {
+   "ts": "2026-10-14T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103414 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-103414 📢 Source: eclipse 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False The GUIX binary resource (theme) loader sizes its arena and populates it in two separate ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103414",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103414:2026-10-14T17:49"
+  },
+  {
+   "ts": "2026-10-14T17:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101954 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-101954 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An Improper Authentication vulnerability in the J-Web management interface and its NET",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101954",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101954:2026-10-14T17:49"
+  },
+  {
+   "ts": "2026-10-14T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101952 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-101952 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An Improper Validation of Consistency within Input vulnerability in the routing protocol d",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101952",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101952:2026-10-14T17:49"
+  },
+  {
+   "ts": "2026-10-14T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-0322 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-0322 📢 Source: palo_alto 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A remote code execution (RCE) vulnerability in the management interface of Palo Alto Netwo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-0322",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-0322:2026-10-14T17:49"
+  },
+  {
+   "ts": "2026-10-14T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102077 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-102077 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An Improper Check for Unusual or Exceptional Conditions vulnerability in the Packet Forwar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102077",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102077:2026-10-14T17:49"
+  },
+  {
+   "ts": "2026-10-14T17:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101983 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-101983 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A Stack-based Buffer Overflow vulnerability in the httpd process of Juniper Networks J",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101983",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101983:2026-10-14T17:49"
+  },
+  {
+   "ts": "2026-10-14T17:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101982 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-101982 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A Stack-based Buffer Overflow vulnerability in the routing protocol daemon (rpd) of Ju",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101982",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101982:2026-10-14T17:49"
+  },
+  {
+   "ts": "2026-10-14T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101981 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-101981 📢 Source: juniper 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A Stack-based Buffer Overflow vulnerability in the routing protocol daemon (rpd) of Junip",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101981",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101981:2026-10-14T17:49"
+  },
   {
    "ts": "2026-10-14T17:19:06+00:00",
    "level": "general",
@@ -381,126 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100169",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100169:2026-10-14T16:19"
-  },
-  {
-   "ts": "2026-10-14T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87093 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-87093 📢 Source: ProgressSoftware 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Incorrect Permission Assignment for Critical Resource vulnerability in Progress M",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87093",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87093:2026-10-14T15:49"
-  },
-  {
-   "ts": "2026-10-14T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110719 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-110719 📢 Source: VulnCheck 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Portkey AI Gateway 1.14.0 through 1.15.2 contains a server-side request forgery vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110719",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110719:2026-10-14T15:49"
-  },
-  {
-   "ts": "2026-10-14T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110718 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-110718 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True TurboDocx html-to-docx through 1.23.1 contains a server-side request forgery vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110718",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110718:2026-10-14T15:49"
-  },
-  {
-   "ts": "2026-10-14T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110714 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-110714 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True libsmb2 through 6.2 contains an integer underflow vulnerability in decode_acl that allow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110714",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110714:2026-10-14T15:49"
-  },
-  {
-   "ts": "2026-10-14T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110713 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-110713 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True libsmb2 through 6.2 contains a heap out-of-bounds read vulnerability in smb2_decode_file",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110713",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110713:2026-10-14T15:49"
-  },
-  {
-   "ts": "2026-10-14T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110712 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-110712 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True libsmb2 through 6.2 contains a heap out-of-bounds read vulnerability in smb2_decode_file",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110712",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110712:2026-10-14T15:49"
-  },
-  {
-   "ts": "2026-10-14T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107870 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-107870 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107870",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107870:2026-10-14T14:19"
-  },
-  {
-   "ts": "2026-10-14T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110690 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-110690 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Cloud Commander (cloudcmd) versions 19.20.2 through 19.21.1 contains a path traversal vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110690",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110690:2026-10-14T14:19"
-  },
-  {
-   "ts": "2026-10-14T14:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-108065 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-108065 📢 Source: rapid7 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True SQL Injection (CWE-89) in the SOAP GetUser method of the /preapproval.asmx endpoint in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108065",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108065:2026-10-14T14:19"
-  },
-  {
-   "ts": "2026-10-14T13:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107426 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-107426 📢 Source: Patchstack 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in VideoWhisper.com Paid Videochat Turnkey Site ppv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107426",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107426:2026-10-14T13:19"
-  },
-  {
-   "ts": "2026-10-14T13:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-16740 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-16740 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Missing authentication for critical function vulnerability in TR7 Cyber ​​Defense Inc. ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16740",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16740:2026-10-14T13:19"
-  },
-  {
-   "ts": "2026-10-14T13:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82026 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-82026 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Radar before 1.12.2 contains a missing authorization vulnerability in the handleLocalTerm",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82026",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82026:2026-10-14T13:19"
   }
  ]
 }
