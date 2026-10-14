@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-14T12:19:07+00:00",
+ "generated_at": "2026-10-14T12:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97278 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-97278 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in WP SYNTEX Polylang polylang allows Ob",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97278",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97278:2026-10-14T12:49"
+  },
+  {
+   "ts": "2026-10-14T12:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-108291 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-108291 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in itthinx Affiliates affiliates al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108291",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108291:2026-10-14T12:49"
+  },
+  {
+   "ts": "2026-10-14T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107867 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-107867 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107867",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107867:2026-10-14T12:49"
+  },
+  {
+   "ts": "2026-10-14T12:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107424 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-107424 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in M A Vinoth Kumar Frontend Dashboard",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107424",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107424:2026-10-14T12:49"
+  },
+  {
+   "ts": "2026-10-14T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107421 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-107421 📢 Source: Patchstack 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Session Fixation vulnerability in VideoWhisper.com Broadcast Live Video videowhisper-li",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107421",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107421:2026-10-14T12:49"
+  },
+  {
+   "ts": "2026-10-14T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106599 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-106599 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Brainstorm Force SureCart surecart a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106599",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106599:2026-10-14T12:49"
+  },
+  {
+   "ts": "2026-10-14T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105874 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-105874 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105874",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105874:2026-10-14T12:49"
+  },
   {
    "ts": "2026-10-14T12:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110449",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110449:2026-10-14T04:19"
-  },
-  {
-   "ts": "2026-10-14T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110445 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-110445 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True TeamPlus Messenger developed by Teamplus Technology has a Code Injection vulnerability. Una",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110445",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110445:2026-10-14T03:19"
-  },
-  {
-   "ts": "2026-10-14T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110444 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-110444 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True TeamPlus Messenger developed by Teamplus Technology has a Code Injection vulnerability. Una",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110444",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110444:2026-10-14T03:19"
-  },
-  {
-   "ts": "2026-10-14T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14765 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-14765 📢 Source: AHA 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Epic Games Unreal Engine versions up to and including 5.8.0 ship with an insecure default conf",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14765",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14765:2026-10-14T02:49"
-  },
-  {
-   "ts": "2026-10-14T02:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-110447 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-110447 📢 Source: mitre 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Collabora Online Built-in CODE Server before 26.4.303 (richdocumentscode), a Nextcloud a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110447",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110447:2026-10-14T02:49"
-  },
-  {
-   "ts": "2026-10-14T02:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82715 (CVSS 7.9)",
-   "body": "🚨 CVE-2026-82715 📢 Source: Hitachi 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: False Insecure Temporary File vulnerability in Hitachi Disk Array Driver for AIX and Hitachi Dis",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82715",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82715:2026-10-14T02:19"
-  },
-  {
-   "ts": "2026-10-14T02:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-110392 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-110392 📢 Source: samsung.tv_appliance 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command ('OS co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110392",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110392:2026-10-14T02:19"
-  },
-  {
-   "ts": "2026-10-14T00:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110385 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-110385 📢 Source: mitre 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A remote code execution vulnerability in ONLYOFFICE Document Server versions before10.0.0 al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110385",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110385:2026-10-14T00:49"
   }
  ]
 }
