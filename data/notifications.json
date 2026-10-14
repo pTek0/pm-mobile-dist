@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-14T04:19:07+00:00",
+ "generated_at": "2026-10-14T04:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105429 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-105429 📢 Source: securin 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: False Improper neutralization of special elements in the NetBird client SSH configuration manag",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105429",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105429:2026-10-14T04:49"
+  },
+  {
+   "ts": "2026-10-14T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110450 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-110450 📢 Source: mitre 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False Nix before 2.35.3 and Lix before 2.95.4 allow privilege escalation via a repair operation bec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110450",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110450:2026-10-14T04:49"
+  },
   {
    "ts": "2026-10-14T04:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94512",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94512:2026-10-13T21:19"
-  },
-  {
-   "ts": "2026-10-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88088 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-88088 📢 Source: microsoft 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-13T20:37:23.763Z https://cvefeed.io/vuln/detail/CVE-2026-88",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88088",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88088:2026-10-13T21:19"
-  },
-  {
-   "ts": "2026-10-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88083 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-88083 📢 Source: microsoft 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-13T20:37:22.743Z https://cvefeed.io/vuln/detail/CVE-2026-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88083",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88083:2026-10-13T21:19"
   }
  ]
 }
