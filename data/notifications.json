@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-14T01:49:07+00:00",
+ "generated_at": "2026-10-14T02:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82715 (CVSS 7.9)",
+   "body": "🚨 CVE-2026-82715 📢 Source: Hitachi 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: False Insecure Temporary File vulnerability in Hitachi Disk Array Driver for AIX and Hitachi Dis",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82715",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82715:2026-10-14T02:19"
+  },
+  {
+   "ts": "2026-10-14T02:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-110392 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-110392 📢 Source: samsung.tv_appliance 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command ('OS co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110392",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110392:2026-10-14T02:19"
+  },
   {
    "ts": "2026-10-14T00:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-65674",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65674:2026-10-13T21:19"
-  },
-  {
-   "ts": "2026-10-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-62840 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-62840 📢 Source: microsoft 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-13T20:37:15.976Z https://cvefeed.io/vuln/detail/CVE-2026-62",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62840",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62840:2026-10-13T21:19"
-  },
-  {
-   "ts": "2026-10-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100129 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-100129 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Bridge is affected by an out-of-bounds write vulnerability that could result in arbitrary c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100129",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100129:2026-10-13T21:19"
   }
  ]
 }
