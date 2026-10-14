@@ -1,7 +1,197 @@
 {
- "generated_at": "2026-10-14T16:19:07+00:00",
+ "generated_at": "2026-10-14T16:49:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102079 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-102079 📢 Source: juniper 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An OS command injection vulnerability in the CLI of Juniper Networks Junos OS allows a lo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102079",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102079:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102078 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-102078 📢 Source: juniper 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A Use After Free vulnerability in the packet forwarding engine (pfe) of Juniper Networks J",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102078",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102078:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102071 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-102071 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Reachable Assertion vulnerability in the routing protocol daemon (rpd) of Juniper Netwo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102071",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102071:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102066 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-102066 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Improper Validation of Specified Quantity in Input vulnerability in the routing protoco",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102066",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102066:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102064 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-102064 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A Reachable Assertion vulnerability in the routing protocol daemon (rpd) of Juniper Networ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102064",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102064:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-102062 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-102062 📢 Source: juniper 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True An Use of Externally-Controlled Format String vulnerability in the ipfd daemon of Juni",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102062",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102062:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101997 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-101997 📢 Source: juniper 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True An Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101997",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101997:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101996 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101996 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Reachable Assertion vulnerability in the l2ald daemon of Juniper Networks Junos OS and ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101996",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101996:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101994 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101994 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An Improper Handling of Length Parameter Inconsistency vulnerability in the l2ald daemon ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101994",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101994:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101993 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101993 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Reachable Assertion vulnerability in the routing protocol daemon (rpd) of Juniper Netwo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101993",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101993:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101992 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101992 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An Improper Input Validation vulnerability in the routing protocol daemon (rpd) process o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101992",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101992:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101990 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-101990 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A Stack-based Buffer Overflow vulnerability in the routing protocol daemon (rpd) of Ju",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101990",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101990:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101989 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101989 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Reachable Assertion vulnerability in the routing protocol daemon (rpd) of Juniper Netwo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101989",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101989:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101988 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101988 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A NULL Pointer Dereference vulnerability in the routing protocol daemon (rpd) of Juniper ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101988",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101988:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101987 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101987 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An Improper Validation of Specified Quantity in Input vulnerability in the routing daemon",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101987",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101987:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101984 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101984 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Reachable Assertion vulnerability in the routing protocol daemon (rpd) of Juniper Netwo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101984",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101984:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101955 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-101955 📢 Source: juniper 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True A Stack-based Buffer Overflow vulnerability in the UTM Anti-Spam SBL of Juniper Networ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101955",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101955:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101950 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-101950 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A Heap-based Buffer Overflow vulnerability in the SVR component of Juniper Networks Ju",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101950",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101950:2026-10-14T16:49"
+  },
+  {
+   "ts": "2026-10-14T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100236 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-100236 📢 Source: redhat 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the DPDK GSO library. When software GSO copies packet headers into a ne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100236",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100236:2026-10-14T16:49"
+  },
   {
    "ts": "2026-10-14T16:19:06+00:00",
    "level": "general",
@@ -311,196 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108071",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108071:2026-10-14T11:19"
-  },
-  {
-   "ts": "2026-10-14T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107431 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-107431 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Crocoblock JetFormBuilder jetformbuilder allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107431",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107431:2026-10-14T11:19"
-  },
-  {
-   "ts": "2026-10-14T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105067 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-105067 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105067",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105067:2026-10-14T11:19"
-  },
-  {
-   "ts": "2026-10-14T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103358 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-103358 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper Control of Generation of Code ('Code Injection') vulnerability in VillaTheme E",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103358",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103358:2026-10-14T11:19"
-  },
-  {
-   "ts": "2026-10-14T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108070 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-108070 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A vulnerability involving improper access control in the TSplus Remote Access web server th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108070",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108070:2026-10-14T11:19"
-  },
-  {
-   "ts": "2026-10-14T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101341 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-101341 📢 Source: NLnet Labs 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Tokens of text in RDATA (of for example TXT records) under 32 bytes are not checked to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101341",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101341:2026-10-14T11:19"
-  },
-  {
-   "ts": "2026-10-14T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101339 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-101339 📢 Source: NLnet Labs 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False A HIP resource record that fills the RDATA near or at is limit, and has another dname ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101339",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101339:2026-10-14T11:19"
-  },
-  {
-   "ts": "2026-10-14T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101338 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-101338 📢 Source: NLnet Labs 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False When a SVCB or HTTPS RR has filled the wire format RDATA up to the brim, another ECH p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101338",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101338:2026-10-14T11:19"
-  },
-  {
-   "ts": "2026-10-14T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101337 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-101337 📢 Source: NLnet Labs 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False When base64 data is split up in pieces, of 3 character or less, tokens were incorrectl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101337",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101337:2026-10-14T11:19"
-  },
-  {
-   "ts": "2026-10-14T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: Guitoro, a virtual guitar you strum with your keybo",
-   "body": "Hacker News · 점수 448",
-   "link": "https://guitoro.com/",
-   "source": "Hacker News",
-   "id": "community:https://guitoro.com/:2026-10-14T11:19"
-  },
-  {
-   "ts": "2026-10-14T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The United Kingdom generates less electricity per person tha",
-   "body": "Hacker News · 점수 323",
-   "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-   "source": "Hacker News",
-   "id": "community:https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak:2026-10-14T11:19"
-  },
-  {
-   "ts": "2026-10-14T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AOSP Source Releases Are So Late Developers Disassemble Libr",
-   "body": "Hacker News · 점수 285",
-   "link": "https://github.com/android/ndk/issues/2260",
-   "source": "Hacker News",
-   "id": "community:https://github.com/android/ndk/issues/2260:2026-10-14T11:19"
-  },
-  {
-   "ts": "2026-10-14T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] MIT class project turns into an FDA-cleared treatment for tr",
-   "body": "Hacker News · 점수 218",
-   "link": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-   "source": "Hacker News",
-   "id": "community:https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002:2026-10-14T11:19"
-  },
-  {
-   "ts": "2026-10-14T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Recreational Programming",
-   "body": "Hacker News · 점수 201",
-   "link": "https://www.cphiri.dev/presentations/recreational-programming",
-   "source": "Hacker News",
-   "id": "community:https://www.cphiri.dev/presentations/recreational-programming:2026-10-14T11:19"
-  },
-  {
-   "ts": "2026-10-14T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103905 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-103905 📢 Source: ENISA 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The authentication middleware of the JTL-Shop administration backend processes the plugin sa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103905",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103905:2026-10-14T10:49"
-  },
-  {
-   "ts": "2026-10-14T10:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103904 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-103904 📢 Source: ENISA 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The public consent endpoint of JTL-Shop accepts arbitrary consent names from unauthentic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103904",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103904:2026-10-14T10:49"
-  },
-  {
-   "ts": "2026-10-14T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-90954 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-90954 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in BusyBox's dpkg-deb archive extraction. The ar archive handler flushes d",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90954",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90954:2026-10-14T10:19"
-  },
-  {
-   "ts": "2026-10-14T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88829 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-88829 📢 Source: redhat 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A flaw was found in BusyBox httpd's reverse proxy feature. When the proxy is configured to f",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88829",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88829:2026-10-14T10:19"
-  },
-  {
-   "ts": "2026-10-14T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86476 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-86476 📢 Source: redhat 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False A flaw was found in gst-plugins-base. A heap buffer overflow can be triggered when processi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86476",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86476:2026-10-14T10:19"
-  },
-  {
-   "ts": "2026-10-14T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73793 (CVSS 7.9)",
-   "body": "🚨 CVE-2026-73793 📢 Source: hpe 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: True HPE NonStop Middleware software has secret key handling and data deserialization vulnerability.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73793",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73793:2026-10-14T10:19"
   }
  ]
 }
