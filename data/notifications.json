@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-14T07:19:08+00:00",
+ "generated_at": "2026-10-14T07:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109901 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-109901 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109901",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109901:2026-10-14T07:49"
+  },
+  {
+   "ts": "2026-10-14T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105106 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-105106 📢 Source: TuranSec 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Koha is vulnerable to OS command injection in the Task Scheduler deletion path. The tools",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105106",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105106:2026-10-14T07:49"
+  },
   {
    "ts": "2026-10-14T07:19:06+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100121",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100121:2026-10-13T21:49"
-  },
-  {
-   "ts": "2026-10-13T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100120 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-100120 📢 Source: adobe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True CAI Content Credentials is affected by an Improper Input Validation vulnerability that could",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100120",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100120:2026-10-13T21:49"
-  },
-  {
-   "ts": "2026-10-13T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100119 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-100119 📢 Source: adobe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True CAI Content Credentials is affected by an Improper Input Validation vulnerability that could",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100119",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100119:2026-10-13T21:49"
   }
  ]
 }
