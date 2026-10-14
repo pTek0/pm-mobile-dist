@@ -1,7 +1,207 @@
 {
- "generated_at": "2026-10-14T22:49:07+00:00",
+ "generated_at": "2026-10-14T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110847 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-110847 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.83, 2.x before 2.41.4, and 2.42.x before 2.42.1 contains a stored cross-s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110847",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110847:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110846 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-110846 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True n8n before 2.41.4 and 2.42.x before 2.42.1 contains a signature bypass in the waiting-webh",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110846",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110846:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110845 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-110845 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.83, 2.x before 2.41.4, and 2.42.x before 2.42.1 contains a code executi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110845",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110845:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110844 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-110844 📢 Source: VulnCheck 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.83 contains an authorization bypass vulnerability that allows shared-wo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110844",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110844:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110843 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-110843 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True n8n before 2.41.4 and 2.42.x before 2.42.1 contains an uncontrolled resource consumption",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110843",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110843:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110842 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-110842 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True n8n before 2.41.4 and 2.42.x before 2.42.1 contains a prototype pollution vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110842",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110842:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110840 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-110840 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True n8n before 2.41.4 and 2.42.x before 2.42.1 contains an SQL injection vulnerability in vers",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110840",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110840:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110839 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-110839 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP 3.3.0 before 3.32.0, when built with WINPR_UTILS_IMAGE_JPEG=ON, has a heap-based",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110839",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110839:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110838 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-110838 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP shadow server from 3.0.0 before 3.32.0 dispatches input PDUs during the Confirm ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110838",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110838:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110837 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-110837 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP 2.0.0 before 3.32.0, when built with WITH_LAME=ON and WITH_DSP_FFMPEG=OFF, has a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110837",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110837:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110836 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-110836 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.0.0 before 3.32.0 contains an infinite loop vulnerability in http_respons",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110836",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110836:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110834 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-110834 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 2.0.0 before 3.32.0 contains a null pointer dereference vulnerability that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110834",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110834:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110833 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-110833 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.0.0-beta1 before 3.32.0 fails to enforce cumulative or absolute size limi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110833",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110833:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110832 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-110832 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 2.0.0 before 3.32.0 contains a memory exhaustion vulnerability in wts_read_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110832",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110832:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110830 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-110830 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.0 fails to close prior serial handles in serial_process_irp_create, ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110830",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110830:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Containment and monitoring failures are to blame for AI hack",
+   "body": "Hacker News · 점수 792",
+   "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+   "source": "Hacker News",
+   "id": "community:https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Iosevka is an open-source, sans-serif and slab-serif monospa",
+   "body": "Hacker News · 점수 685",
+   "link": "https://typeof.net/Iosevka/",
+   "source": "Hacker News",
+   "id": "community:https://typeof.net/Iosevka/:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] How Amazon pushes up prices all across the Internet",
+   "body": "Hacker News · 점수 681",
+   "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+   "source": "Hacker News",
+   "id": "community:https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Things to know when you get cancer – 2026 Edition",
+   "body": "Hacker News · 점수 531",
+   "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+   "source": "Hacker News",
+   "id": "community:https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/:2026-10-14T23:19"
+  },
+  {
+   "ts": "2026-10-14T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Passkeys are not a trap",
+   "body": "Hacker News · 점수 391",
+   "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+   "source": "Hacker News",
+   "id": "community:https://scotthelme.co.uk/passkeys-are-not-a-trap/:2026-10-14T23:19"
+  },
   {
    "ts": "2026-10-14T22:49:06+00:00",
    "level": "general",
@@ -301,206 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-33798",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33798:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-33796 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-33796 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A Stack-based Buffer Overflow vulnerability in the routing protocol daemon (rpd) of Jun",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-33796",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33796:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-33795 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-33795 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A Numeric Truncation Error vulnerability in the rpd process of Juniper Networks Junos OS an",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-33795",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33795:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-33792 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-33792 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A Stack-based Buffer Overflow vulnerability in the srxpfe process of Juniper Networks J",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-33792",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33792:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-33789 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-33789 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A Stack-based Buffer Overflow vulnerability in the routing protocol daemon (rpd) of Jun",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-33789",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33789:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102185 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-102185 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A Loop with Unreachable Exit Condition ('Infinite Loop') vulnerability in the routing prot",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102185",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102185:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102184 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-102184 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An Improper Validation of Specified Quantity in Input vulnerability in the routing protoco",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102184",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102184:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102183 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-102183 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An Improper Validation of Specified Quantity in Input vulnerability in the routing protoco",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102183",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102183:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-102182 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-102182 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A Stack-based Buffer Overflow vulnerability in the kmd component of Juniper Networks J",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102182",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102182:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102012 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-102012 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A Reachable Assertion vulnerability in the na-grpcd process of Juniper Networks Junos OS E",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102012",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102012:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102011 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-102011 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Reachable Assertion vulnerability in the rpd process of Juniper Networks Junos OS and J",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102011",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102011:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102000 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-102000 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Reachable Assertion vulnerability in the rpd process of Juniper Networks Junos OS and J",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102000",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102000:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101999 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-101999 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Reachable Assertion vulnerability in the rpd process of Juniper Networks Junos OS and J",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101999",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101999:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101971 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-101971 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An Allocation of Resources Without Limits or Throttling vulnerability in rpd, the routing",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101971",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101971:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101970 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-101970 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Use After Free vulnerability in the rpd PIM Join/Prune processing of Juniper Networks J",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101970",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101970:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101969 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-101969 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An Improper Input Validation vulnerability in the rpd process of Juniper Networks Junos O",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101969",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101969:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101945 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-101945 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An Integer Overflow or Wraparound vulnerability in the rpd process of Juniper Networks Jun",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101945",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101945:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101944 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-101944 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An Integer Overflow or Wraparound vulnerability in the routing protocol daemon (rpd) of Ju",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101944",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101944:2026-10-14T17:19"
-  },
-  {
-   "ts": "2026-10-14T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102079 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-102079 📢 Source: juniper 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An OS command injection vulnerability in the CLI of Juniper Networks Junos OS allows a lo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102079",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102079:2026-10-14T16:49"
-  },
-  {
-   "ts": "2026-10-14T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102078 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-102078 📢 Source: juniper 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A Use After Free vulnerability in the packet forwarding engine (pfe) of Juniper Networks J",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102078",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102078:2026-10-14T16:49"
-  },
-  {
-   "ts": "2026-10-14T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102071 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-102071 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Reachable Assertion vulnerability in the routing protocol daemon (rpd) of Juniper Netwo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102071",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102071:2026-10-14T16:49"
   }
  ]
 }
