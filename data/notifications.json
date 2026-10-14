@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-14T12:49:09+00:00",
+ "generated_at": "2026-10-14T13:19:21+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T13:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107426 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-107426 📢 Source: Patchstack 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in VideoWhisper.com Paid Videochat Turnkey Site ppv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107426",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107426:2026-10-14T13:19"
+  },
+  {
+   "ts": "2026-10-14T13:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-16740 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-16740 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Missing authentication for critical function vulnerability in TR7 Cyber ​​Defense Inc. ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16740",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16740:2026-10-14T13:19"
+  },
+  {
+   "ts": "2026-10-14T13:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82026 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-82026 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Radar before 1.12.2 contains a missing authorization vulnerability in the handleLocalTerm",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82026",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82026:2026-10-14T13:19"
+  },
+  {
+   "ts": "2026-10-14T13:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-16741 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-16741 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command ('OS command injectio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16741",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16741:2026-10-14T13:19"
+  },
   {
    "ts": "2026-10-14T12:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110455",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110455:2026-10-14T05:19"
-  },
-  {
-   "ts": "2026-10-14T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106931 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-106931 📢 Source: jpcert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False SiteGuard Server Edition contains an OS command injection vulnerability, which may allow a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106931",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106931:2026-10-14T05:19"
-  },
-  {
-   "ts": "2026-10-14T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105429 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-105429 📢 Source: securin 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: False Improper neutralization of special elements in the NetBird client SSH configuration manag",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105429",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105429:2026-10-14T04:49"
-  },
-  {
-   "ts": "2026-10-14T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110450 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-110450 📢 Source: mitre 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False Nix before 2.35.3 and Lix before 2.95.4 allow privilege escalation via a repair operation bec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110450",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110450:2026-10-14T04:49"
-  },
-  {
-   "ts": "2026-10-14T04:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110449 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-110449 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Nix before 2.35.3 and Lix before 2.95.4 have an integer overflow and resultant out-of-bounds",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110449",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110449:2026-10-14T04:19"
   }
  ]
 }
