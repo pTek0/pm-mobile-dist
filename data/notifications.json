@@ -1,7 +1,147 @@
 {
- "generated_at": "2026-10-14T10:49:08+00:00",
+ "generated_at": "2026-10-14T11:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108071 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-108071 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Incorrect authentication vulnerability in the TSplus Remote Access multi-factor authenticat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108071",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108071:2026-10-14T11:19"
+  },
+  {
+   "ts": "2026-10-14T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107431 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-107431 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Crocoblock JetFormBuilder jetformbuilder allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107431",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107431:2026-10-14T11:19"
+  },
+  {
+   "ts": "2026-10-14T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105067 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-105067 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105067",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105067:2026-10-14T11:19"
+  },
+  {
+   "ts": "2026-10-14T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103358 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-103358 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper Control of Generation of Code ('Code Injection') vulnerability in VillaTheme E",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103358",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103358:2026-10-14T11:19"
+  },
+  {
+   "ts": "2026-10-14T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108070 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-108070 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A vulnerability involving improper access control in the TSplus Remote Access web server th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108070",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108070:2026-10-14T11:19"
+  },
+  {
+   "ts": "2026-10-14T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101341 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-101341 📢 Source: NLnet Labs 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Tokens of text in RDATA (of for example TXT records) under 32 bytes are not checked to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101341",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101341:2026-10-14T11:19"
+  },
+  {
+   "ts": "2026-10-14T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101339 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-101339 📢 Source: NLnet Labs 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False A HIP resource record that fills the RDATA near or at is limit, and has another dname ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101339",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101339:2026-10-14T11:19"
+  },
+  {
+   "ts": "2026-10-14T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101338 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-101338 📢 Source: NLnet Labs 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False When a SVCB or HTTPS RR has filled the wire format RDATA up to the brim, another ECH p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101338",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101338:2026-10-14T11:19"
+  },
+  {
+   "ts": "2026-10-14T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101337 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-101337 📢 Source: NLnet Labs 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False When base64 data is split up in pieces, of 3 character or less, tokens were incorrectl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101337",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101337:2026-10-14T11:19"
+  },
+  {
+   "ts": "2026-10-14T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Show HN: Guitoro, a virtual guitar you strum with your keybo",
+   "body": "Hacker News · 점수 448",
+   "link": "https://guitoro.com/",
+   "source": "Hacker News",
+   "id": "community:https://guitoro.com/:2026-10-14T11:19"
+  },
+  {
+   "ts": "2026-10-14T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The United Kingdom generates less electricity per person tha",
+   "body": "Hacker News · 점수 323",
+   "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+   "source": "Hacker News",
+   "id": "community:https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak:2026-10-14T11:19"
+  },
+  {
+   "ts": "2026-10-14T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AOSP Source Releases Are So Late Developers Disassemble Libr",
+   "body": "Hacker News · 점수 285",
+   "link": "https://github.com/android/ndk/issues/2260",
+   "source": "Hacker News",
+   "id": "community:https://github.com/android/ndk/issues/2260:2026-10-14T11:19"
+  },
+  {
+   "ts": "2026-10-14T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] MIT class project turns into an FDA-cleared treatment for tr",
+   "body": "Hacker News · 점수 218",
+   "link": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+   "source": "Hacker News",
+   "id": "community:https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002:2026-10-14T11:19"
+  },
+  {
+   "ts": "2026-10-14T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Recreational Programming",
+   "body": "Hacker News · 점수 201",
+   "link": "https://www.cphiri.dev/presentations/recreational-programming",
+   "source": "Hacker News",
+   "id": "community:https://www.cphiri.dev/presentations/recreational-programming:2026-10-14T11:19"
+  },
   {
    "ts": "2026-10-14T10:49:06+00:00",
    "level": "general",
@@ -361,146 +501,6 @@
    "link": "https://www.isaca.org/about-us/newsroom/press-releases/2026/almost-half-of-women-in-tech-have-experienced-gender-discrimination--in-the-workplace",
    "source": "Lemmy · technology",
    "id": "community:https://www.isaca.org/about-us/newsroom/press-releases/2026/almost-half-of-women-in-tech-have-experienced-gender-discrimination--in-the-workplace:2026-10-14T00:19"
-  },
-  {
-   "ts": "2026-10-14T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Who is vfmaddrnd231pd??",
-   "body": "Lobsters · 점수 68",
-   "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-   "source": "Lobsters",
-   "id": "community:https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/:2026-10-14T00:19"
-  },
-  {
-   "ts": "2026-10-14T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fridges in French supermarkets hit by cyber attack",
-   "body": "Lemmy · technology · 점수 62",
-   "link": "http://www.bbc.com/news/articles/crq5nzxv9q4yo",
-   "source": "Lemmy · technology",
-   "id": "community:http://www.bbc.com/news/articles/crq5nzxv9q4yo:2026-10-14T00:19"
-  },
-  {
-   "ts": "2026-10-13T23:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92817 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-92817 📢 Source: icscert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The Ignition Perspective module does not properly validate session privileges when determin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92817",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92817:2026-10-13T23:49"
-  },
-  {
-   "ts": "2026-10-13T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] We turned EmbeddingGemma 2 into a speech-to-text model",
-   "body": "Hacker News · 점수 372",
-   "link": "https://eg2.haku.sh/",
-   "source": "Hacker News",
-   "id": "community:https://eg2.haku.sh/:2026-10-13T23:49"
-  },
-  {
-   "ts": "2026-10-13T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ledger confirms spy chip implant behind wallet crypto thefts",
-   "body": "Hacker News · 점수 324",
-   "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-   "source": "Hacker News",
-   "id": "community:https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/:2026-10-13T23:49"
-  },
-  {
-   "ts": "2026-10-13T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Thunderbird for iOS",
-   "body": "Hacker News · 점수 288",
-   "link": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-   "source": "Hacker News",
-   "id": "community:https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/:2026-10-13T23:49"
-  },
-  {
-   "ts": "2026-10-13T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] New Apple TV 4K",
-   "body": "Hacker News · 점수 259",
-   "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-   "source": "Hacker News",
-   "id": "community:https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/:2026-10-13T23:49"
-  },
-  {
-   "ts": "2026-10-13T23:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI godfather Geoffrey Hinton: ‘We’re creating alien beings. ",
-   "body": "Lemmy · technology · 점수 145",
-   "link": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech:2026-10-13T23:49"
-  },
-  {
-   "ts": "2026-10-13T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Gemini 4 Argon",
-   "body": "Hacker News · 점수 867",
-   "link": "https://deepmind.google/models/gemini/",
-   "source": "Hacker News",
-   "id": "community:https://deepmind.google/models/gemini/:2026-10-13T23:19"
-  },
-  {
-   "ts": "2026-10-13T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] 11 year old unsoundness bugs found in Rust borrow checker",
-   "body": "Hacker News · 점수 640",
-   "link": "https://github.com/rust-lang/rust/issues/164250",
-   "source": "Hacker News",
-   "id": "community:https://github.com/rust-lang/rust/issues/164250:2026-10-13T23:19"
-  },
-  {
-   "ts": "2026-10-13T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Apple HomeView",
-   "body": "Hacker News · 점수 614",
-   "link": "https://www.apple.com/apple-homeview/",
-   "source": "Hacker News",
-   "id": "community:https://www.apple.com/apple-homeview/:2026-10-13T23:19"
-  },
-  {
-   "ts": "2026-10-13T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Firefox Enterprise",
-   "body": "Hacker News · 점수 586",
-   "link": "https://www.firefox.com/en-US/enterprise/",
-   "source": "Hacker News",
-   "id": "community:https://www.firefox.com/en-US/enterprise/:2026-10-13T23:19"
-  },
-  {
-   "ts": "2026-10-13T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Redesigning source control at Anthropic",
-   "body": "Hacker News · 점수 442",
-   "link": "https://www.anthropic.com/engineering/redesigning-source-control",
-   "source": "Hacker News",
-   "id": "community:https://www.anthropic.com/engineering/redesigning-source-control:2026-10-13T23:19"
-  },
-  {
-   "ts": "2026-10-13T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88964 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-88964 📢 Source: OpenVPN 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True An integer underflow in OpenVPN version 2.7_alpha3 through 2.7.7 on Windows and Android all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88964",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88964:2026-10-13T22:49"
   }
  ]
 }
