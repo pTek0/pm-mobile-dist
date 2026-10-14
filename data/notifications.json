@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-10-14T11:19:07+00:00",
+ "generated_at": "2026-10-14T11:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76655 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-76655 📢 Source: hpe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A security vulnerability in HPE NonStop SNMP Trap Multiplexer may allow remote code execution 📅",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76655",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76655:2026-10-14T11:49"
+  },
+  {
+   "ts": "2026-10-14T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85298 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-85298 📢 Source: GoogleCloud 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True An Incorrect Authorization vulnerability in the AuthConfig validation and integration e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85298",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85298:2026-10-14T11:49"
+  },
+  {
+   "ts": "2026-10-14T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73798 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-73798 📢 Source: hpe 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A security vulnerability in HPE NonStop DNS 9.2.3 Non Secure Version could cause a Denial of Se",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73798",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73798:2026-10-14T11:49"
+  },
+  {
+   "ts": "2026-10-14T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Felix Rieseberg Homepage",
+   "body": "Hacker News · 점수 199",
+   "link": "https://felixrieseberg.com/",
+   "source": "Hacker News",
+   "id": "community:https://felixrieseberg.com/:2026-10-14T11:49"
+  },
+  {
+   "ts": "2026-10-14T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Google-Tied AI Startup Once Valued at a Billion Dollars Decl",
+   "body": "Lemmy · technology · 점수 143",
+   "link": "https://futurism.com/artificial-intelligence/google-character-ai-bankruptcy",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/artificial-intelligence/google-character-ai-bankruptcy:2026-10-14T11:49"
+  },
+  {
+   "ts": "2026-10-14T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] My Windows is pushing \"Download Linux\" ads on me now",
+   "body": "Lemmy · programming.dev · 점수 143",
+   "link": "https://media.piefed.social/posts/10/ss/10ssA9HyM5sdl39.png",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://media.piefed.social/posts/10/ss/10ssA9HyM5sdl39.png:2026-10-14T11:49"
+  },
+  {
+   "ts": "2026-10-14T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] How to get a job",
+   "body": "Lemmy · programming.dev · 점수 83",
+   "link": "https://lemmy.today/api/v3/image_proxy?url=https%3A%2F%2Fi.postimg.cc%2FxfWS84F4%2Fj6rs2k4di5sh1.jpg",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.today/api/v3/image_proxy?url=https%3A%2F%2Fi.postimg.cc%2FxfWS84F4%2Fj6rs2k4di5sh1.jpg:2026-10-14T11:49"
+  },
+  {
+   "ts": "2026-10-14T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Assisting users be like",
+   "body": "Lemmy · programming.dev · 점수 75",
+   "link": "https://lazysoci.al/pictrs/image/7b68731e-82af-4624-95cf-21ac7782c729.png",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lazysoci.al/pictrs/image/7b68731e-82af-4624-95cf-21ac7782c729.png:2026-10-14T11:49"
+  },
   {
    "ts": "2026-10-14T11:19:06+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110359",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110359:2026-10-14T00:49"
-  },
-  {
-   "ts": "2026-10-14T00:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108473 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-108473 📢 Source: TPLink 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Multiple Kasa devices contain an improper authentication vulnerability in the local device",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108473",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108473:2026-10-14T00:49"
-  },
-  {
-   "ts": "2026-10-14T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] IMF warns AI stock crash and cyberattacks threaten global fi",
-   "body": "Lemmy · technology · 점수 61",
-   "link": "https://www.imf.org/en/blogs/articles/2026/10/12/global-financial-markets-face-rising-risks-from-ai-bond-yields-and-cyberattacks",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.imf.org/en/blogs/articles/2026/10/12/global-financial-markets-face-rising-risks-from-ai-bond-yields-and-cyberattacks:2026-10-14T00:49"
-  },
-  {
-   "ts": "2026-10-14T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Did Ente Locker copy my code without attribution?",
-   "body": "Lobsters · 점수 59",
-   "link": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
-   "source": "Lobsters",
-   "id": "community:https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/:2026-10-14T00:49"
-  },
-  {
-   "ts": "2026-10-14T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] NetBSD may have found a new role: The AI-free FOSS OS",
-   "body": "Lemmy · programming.dev · 점수 58",
-   "link": "https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818:2026-10-14T00:49"
-  },
-  {
-   "ts": "2026-10-14T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A plea not to use uv-build",
-   "body": "Lobsters · 점수 57",
-   "link": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
-   "source": "Lobsters",
-   "id": "community:https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/:2026-10-14T00:49"
-  },
-  {
-   "ts": "2026-10-14T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Crypto thieves sell hardware wallets with secret eSIM",
-   "body": "Lemmy · technology · 점수 105",
-   "link": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html:2026-10-14T00:19"
-  },
-  {
-   "ts": "2026-10-14T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Vi Hart's Big Navier-Stokes Post",
-   "body": "Lobsters · 점수 88",
-   "link": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
-   "source": "Lobsters",
-   "id": "community:https://www.patreon.com/vihart/posts/vi-harts-big-171939430:2026-10-14T00:19"
-  },
-  {
-   "ts": "2026-10-14T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Survey: Almost Half of Women in Tech Have Experienced Gender",
-   "body": "Lemmy · technology · 점수 68",
-   "link": "https://www.isaca.org/about-us/newsroom/press-releases/2026/almost-half-of-women-in-tech-have-experienced-gender-discrimination--in-the-workplace",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.isaca.org/about-us/newsroom/press-releases/2026/almost-half-of-women-in-tech-have-experienced-gender-discrimination--in-the-workplace:2026-10-14T00:19"
   }
  ]
 }
