@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-14T04:49:07+00:00",
+ "generated_at": "2026-10-14T05:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T05:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110455 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-110455 📢 Source: Ubiquiti 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A malicious actor with access to the network and under certain conditions could exploit a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110455",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110455:2026-10-14T05:19"
+  },
+  {
+   "ts": "2026-10-14T05:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106931 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-106931 📢 Source: jpcert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False SiteGuard Server Edition contains an OS command injection vulnerability, which may allow a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106931",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106931:2026-10-14T05:19"
+  },
   {
    "ts": "2026-10-14T04:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100115",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100115:2026-10-13T21:49"
-  },
-  {
-   "ts": "2026-10-13T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100114 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-100114 📢 Source: adobe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True CAI Content Credentials is affected by an Improper Access Control vulnerability that could r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100114",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100114:2026-10-13T21:49"
-  },
-  {
-   "ts": "2026-10-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94512 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-94512 📢 Source: microsoft 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-13T20:37:27.679Z https://cvefeed.io/vuln/detail/CVE-2026-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94512",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94512:2026-10-13T21:19"
   }
  ]
 }
