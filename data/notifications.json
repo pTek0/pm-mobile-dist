@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-14T09:49:07+00:00",
+ "generated_at": "2026-10-14T10:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-90954 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-90954 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in BusyBox's dpkg-deb archive extraction. The ar archive handler flushes d",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90954",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90954:2026-10-14T10:19"
+  },
+  {
+   "ts": "2026-10-14T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88829 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-88829 📢 Source: redhat 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A flaw was found in BusyBox httpd's reverse proxy feature. When the proxy is configured to f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88829",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88829:2026-10-14T10:19"
+  },
+  {
+   "ts": "2026-10-14T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86476 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-86476 📢 Source: redhat 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False A flaw was found in gst-plugins-base. A heap buffer overflow can be triggered when processi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86476",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86476:2026-10-14T10:19"
+  },
+  {
+   "ts": "2026-10-14T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73793 (CVSS 7.9)",
+   "body": "🚨 CVE-2026-73793 📢 Source: hpe 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: True HPE NonStop Middleware software has secret key handling and data deserialization vulnerability.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73793",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73793:2026-10-14T10:19"
+  },
   {
    "ts": "2026-10-14T08:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100139",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100139:2026-10-13T21:49"
-  },
-  {
-   "ts": "2026-10-13T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100138 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-100138 📢 Source: adobe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True CAI Content Credentials is affected by an Uncontrolled Resource Consumption vulnerability th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100138",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100138:2026-10-13T21:49"
-  },
-  {
-   "ts": "2026-10-13T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100137 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-100137 📢 Source: adobe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True CAI Content Credentials is affected by an Uncontrolled Resource Consumption vulnerability th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100137",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100137:2026-10-13T21:49"
-  },
-  {
-   "ts": "2026-10-13T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100136 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-100136 📢 Source: adobe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True CAI Content Credentials is affected by an Integer Overflow or Wraparound vulnerability that ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100136",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100136:2026-10-13T21:49"
-  },
-  {
-   "ts": "2026-10-13T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100135 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-100135 📢 Source: adobe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True CAI Content Credentials is affected by an Improper Input Validation vulnerability that could",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100135",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100135:2026-10-13T21:49"
   }
  ]
 }
