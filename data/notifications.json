@@ -1,7 +1,187 @@
 {
- "generated_at": "2026-10-14T16:49:12+00:00",
+ "generated_at": "2026-10-14T17:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-33798 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-33798 📢 Source: juniper 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A Stack-based Buffer Overflow vulnerability in the srxpfe of Juniper Networks Junos OS and",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-33798",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33798:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-33796 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-33796 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A Stack-based Buffer Overflow vulnerability in the routing protocol daemon (rpd) of Jun",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-33796",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33796:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-33795 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-33795 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A Numeric Truncation Error vulnerability in the rpd process of Juniper Networks Junos OS an",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-33795",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33795:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-33792 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-33792 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A Stack-based Buffer Overflow vulnerability in the srxpfe process of Juniper Networks J",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-33792",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33792:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-33789 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-33789 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A Stack-based Buffer Overflow vulnerability in the routing protocol daemon (rpd) of Jun",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-33789",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33789:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102185 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-102185 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A Loop with Unreachable Exit Condition ('Infinite Loop') vulnerability in the routing prot",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102185",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102185:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102184 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-102184 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An Improper Validation of Specified Quantity in Input vulnerability in the routing protoco",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102184",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102184:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102183 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-102183 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An Improper Validation of Specified Quantity in Input vulnerability in the routing protoco",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102183",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102183:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-102182 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-102182 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A Stack-based Buffer Overflow vulnerability in the kmd component of Juniper Networks J",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102182",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102182:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102012 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-102012 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A Reachable Assertion vulnerability in the na-grpcd process of Juniper Networks Junos OS E",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102012",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102012:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102011 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-102011 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Reachable Assertion vulnerability in the rpd process of Juniper Networks Junos OS and J",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102011",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102011:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102000 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-102000 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Reachable Assertion vulnerability in the rpd process of Juniper Networks Junos OS and J",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102000",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102000:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101999 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101999 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Reachable Assertion vulnerability in the rpd process of Juniper Networks Junos OS and J",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101999",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101999:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101971 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101971 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An Allocation of Resources Without Limits or Throttling vulnerability in rpd, the routing",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101971",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101971:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101970 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101970 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A Use After Free vulnerability in the rpd PIM Join/Prune processing of Juniper Networks J",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101970",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101970:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101969 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101969 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An Improper Input Validation vulnerability in the rpd process of Juniper Networks Junos O",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101969",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101969:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101945 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-101945 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An Integer Overflow or Wraparound vulnerability in the rpd process of Juniper Networks Jun",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101945",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101945:2026-10-14T17:19"
+  },
+  {
+   "ts": "2026-10-14T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101944 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-101944 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An Integer Overflow or Wraparound vulnerability in the routing protocol daemon (rpd) of Ju",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101944",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101944:2026-10-14T17:19"
+  },
   {
    "ts": "2026-10-14T16:49:06+00:00",
    "level": "general",
@@ -321,186 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82026",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82026:2026-10-14T13:19"
-  },
-  {
-   "ts": "2026-10-14T13:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-16741 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-16741 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command ('OS command injectio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16741",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16741:2026-10-14T13:19"
-  },
-  {
-   "ts": "2026-10-14T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97278 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-97278 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in WP SYNTEX Polylang polylang allows Ob",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97278",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97278:2026-10-14T12:49"
-  },
-  {
-   "ts": "2026-10-14T12:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-108291 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-108291 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in itthinx Affiliates affiliates al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108291",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108291:2026-10-14T12:49"
-  },
-  {
-   "ts": "2026-10-14T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107867 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-107867 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107867",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107867:2026-10-14T12:49"
-  },
-  {
-   "ts": "2026-10-14T12:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107424 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-107424 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in M A Vinoth Kumar Frontend Dashboard",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107424",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107424:2026-10-14T12:49"
-  },
-  {
-   "ts": "2026-10-14T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107421 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-107421 📢 Source: Patchstack 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Session Fixation vulnerability in VideoWhisper.com Broadcast Live Video videowhisper-li",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107421",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107421:2026-10-14T12:49"
-  },
-  {
-   "ts": "2026-10-14T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106599 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-106599 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Brainstorm Force SureCart surecart a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106599",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106599:2026-10-14T12:49"
-  },
-  {
-   "ts": "2026-10-14T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105874 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-105874 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105874",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105874:2026-10-14T12:49"
-  },
-  {
-   "ts": "2026-10-14T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Federal Reserve Says AI Data Center Buildout Is Making Every",
-   "body": "Lemmy · technology · 점수 56",
-   "link": "https://futurism.com/artificial-intelligence/federal-reserve-ai-data-center-buildout-more-expensive",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/federal-reserve-ai-data-center-buildout-more-expensive:2026-10-14T12:19"
-  },
-  {
-   "ts": "2026-10-14T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76655 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-76655 📢 Source: hpe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A security vulnerability in HPE NonStop SNMP Trap Multiplexer may allow remote code execution 📅",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76655",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76655:2026-10-14T11:49"
-  },
-  {
-   "ts": "2026-10-14T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85298 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-85298 📢 Source: GoogleCloud 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True An Incorrect Authorization vulnerability in the AuthConfig validation and integration e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85298",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85298:2026-10-14T11:49"
-  },
-  {
-   "ts": "2026-10-14T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73798 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-73798 📢 Source: hpe 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A security vulnerability in HPE NonStop DNS 9.2.3 Non Secure Version could cause a Denial of Se",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73798",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73798:2026-10-14T11:49"
-  },
-  {
-   "ts": "2026-10-14T11:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Felix Rieseberg Homepage",
-   "body": "Hacker News · 점수 199",
-   "link": "https://felixrieseberg.com/",
-   "source": "Hacker News",
-   "id": "community:https://felixrieseberg.com/:2026-10-14T11:49"
-  },
-  {
-   "ts": "2026-10-14T11:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Google-Tied AI Startup Once Valued at a Billion Dollars Decl",
-   "body": "Lemmy · technology · 점수 143",
-   "link": "https://futurism.com/artificial-intelligence/google-character-ai-bankruptcy",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/google-character-ai-bankruptcy:2026-10-14T11:49"
-  },
-  {
-   "ts": "2026-10-14T11:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] My Windows is pushing \"Download Linux\" ads on me now",
-   "body": "Lemmy · programming.dev · 점수 143",
-   "link": "https://media.piefed.social/posts/10/ss/10ssA9HyM5sdl39.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://media.piefed.social/posts/10/ss/10ssA9HyM5sdl39.png:2026-10-14T11:49"
-  },
-  {
-   "ts": "2026-10-14T11:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How to get a job",
-   "body": "Lemmy · programming.dev · 점수 83",
-   "link": "https://lemmy.today/api/v3/image_proxy?url=https%3A%2F%2Fi.postimg.cc%2FxfWS84F4%2Fj6rs2k4di5sh1.jpg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.today/api/v3/image_proxy?url=https%3A%2F%2Fi.postimg.cc%2FxfWS84F4%2Fj6rs2k4di5sh1.jpg:2026-10-14T11:49"
-  },
-  {
-   "ts": "2026-10-14T11:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Assisting users be like",
-   "body": "Lemmy · programming.dev · 점수 75",
-   "link": "https://lazysoci.al/pictrs/image/7b68731e-82af-4624-95cf-21ac7782c729.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lazysoci.al/pictrs/image/7b68731e-82af-4624-95cf-21ac7782c729.png:2026-10-14T11:49"
-  },
-  {
-   "ts": "2026-10-14T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108071 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-108071 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Incorrect authentication vulnerability in the TSplus Remote Access multi-factor authenticat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108071",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108071:2026-10-14T11:19"
   }
  ]
 }
