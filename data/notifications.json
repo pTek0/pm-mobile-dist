@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-14T07:49:07+00:00",
+ "generated_at": "2026-10-14T08:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105107 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-105107 📢 Source: TuranSec 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Koha is vulnerable to SQL injection in the Most-circulated items report. The reports/cat_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105107",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105107:2026-10-14T08:19"
+  },
   {
    "ts": "2026-10-14T07:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100122",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100122:2026-10-13T21:49"
-  },
-  {
-   "ts": "2026-10-13T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100121 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-100121 📢 Source: adobe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True CAI Content Credentials is affected by an Improper Certificate Validation vulnerability that",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100121",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100121:2026-10-13T21:49"
   }
  ]
 }
