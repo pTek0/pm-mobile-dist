@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-14T02:19:08+00:00",
+ "generated_at": "2026-10-14T02:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14765 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-14765 📢 Source: AHA 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Epic Games Unreal Engine versions up to and including 5.8.0 ship with an insecure default conf",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14765",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14765:2026-10-14T02:49"
+  },
+  {
+   "ts": "2026-10-14T02:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-110447 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-110447 📢 Source: mitre 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Collabora Online Built-in CODE Server before 26.4.303 (richdocumentscode), a Nextcloud a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110447",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110447:2026-10-14T02:49"
+  },
   {
    "ts": "2026-10-14T02:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85919",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85919:2026-10-13T21:19"
-  },
-  {
-   "ts": "2026-10-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85888 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-85888 📢 Source: microsoft 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-13T20:37:22.909Z https://cvefeed.io/vuln/detail/CVE-2026-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85888",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85888:2026-10-13T21:19"
-  },
-  {
-   "ts": "2026-10-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65674 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-65674 📢 Source: microsoft 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-13T20:37:01.110Z https://cvefeed.io/vuln/detail/CVE-2026-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65674",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65674:2026-10-13T21:19"
   }
  ]
 }
