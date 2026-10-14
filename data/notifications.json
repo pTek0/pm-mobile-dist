@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-14T10:19:08+00:00",
+ "generated_at": "2026-10-14T10:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103905 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-103905 📢 Source: ENISA 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The authentication middleware of the JTL-Shop administration backend processes the plugin sa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103905",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103905:2026-10-14T10:49"
+  },
+  {
+   "ts": "2026-10-14T10:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-103904 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-103904 📢 Source: ENISA 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The public consent endpoint of JTL-Shop accepts arbitrary consent names from unauthentic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103904",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103904:2026-10-14T10:49"
+  },
   {
    "ts": "2026-10-14T10:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-88964",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88964:2026-10-13T22:49"
-  },
-  {
-   "ts": "2026-10-13T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84790 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-84790 📢 Source: OpenVPN 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True OpenVPN 2.3.0 through 2.6.22 and 2.7_alpha1 through 2.7.7 allows remote authenticated users",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84790",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84790:2026-10-13T21:49"
-  },
-  {
-   "ts": "2026-10-13T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100139 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-100139 📢 Source: adobe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True CAI Content Credentials is affected by an Uncontrolled Resource Consumption vulnerability th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100139",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100139:2026-10-13T21:49"
   }
  ]
 }
