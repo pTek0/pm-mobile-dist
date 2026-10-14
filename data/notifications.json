@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-14T00:19:06+00:00",
+ "generated_at": "2026-10-14T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T00:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110385 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-110385 📢 Source: mitre 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A remote code execution vulnerability in ONLYOFFICE Document Server versions before10.0.0 al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110385",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110385:2026-10-14T00:49"
+  },
+  {
+   "ts": "2026-10-14T00:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110359 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-110359 📢 Source: mitre 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Hyland Desktop Host for Windows before 25.1.1 is vulnerable to local privilege escalation. ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110359",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110359:2026-10-14T00:49"
+  },
+  {
+   "ts": "2026-10-14T00:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108473 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-108473 📢 Source: TPLink 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Multiple Kasa devices contain an improper authentication vulnerability in the local device",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108473",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108473:2026-10-14T00:49"
+  },
+  {
+   "ts": "2026-10-14T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] IMF warns AI stock crash and cyberattacks threaten global fi",
+   "body": "Lemmy · technology · 점수 61",
+   "link": "https://www.imf.org/en/blogs/articles/2026/10/12/global-financial-markets-face-rising-risks-from-ai-bond-yields-and-cyberattacks",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.imf.org/en/blogs/articles/2026/10/12/global-financial-markets-face-rising-risks-from-ai-bond-yields-and-cyberattacks:2026-10-14T00:49"
+  },
+  {
+   "ts": "2026-10-14T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Did Ente Locker copy my code without attribution?",
+   "body": "Lobsters · 점수 59",
+   "link": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+   "source": "Lobsters",
+   "id": "community:https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/:2026-10-14T00:49"
+  },
+  {
+   "ts": "2026-10-14T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] NetBSD may have found a new role: The AI-free FOSS OS",
+   "body": "Lemmy · programming.dev · 점수 58",
+   "link": "https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818:2026-10-14T00:49"
+  },
+  {
+   "ts": "2026-10-14T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A plea not to use uv-build",
+   "body": "Lobsters · 점수 57",
+   "link": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+   "source": "Lobsters",
+   "id": "community:https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/:2026-10-14T00:49"
+  },
   {
    "ts": "2026-10-14T00:19:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100129",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100129:2026-10-13T21:19"
-  },
-  {
-   "ts": "2026-10-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100128 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-100128 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Bridge is affected by an out-of-bounds write vulnerability that could result in arbitrary c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100128",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100128:2026-10-13T21:19"
-  },
-  {
-   "ts": "2026-10-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100127 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-100127 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Bridge is affected by an out-of-bounds write vulnerability that could result in arbitrary c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100127",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100127:2026-10-13T21:19"
-  },
-  {
-   "ts": "2026-10-13T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97312 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-97312 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97312",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97312:2026-10-13T20:49"
-  },
-  {
-   "ts": "2026-10-13T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96956 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-96956 📢 Source: microsoft 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-13T20:35:45.884Z https://cvefeed.io/vuln/detail/CVE-2026-96",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96956",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96956:2026-10-13T20:49"
-  },
-  {
-   "ts": "2026-10-13T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96523 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-96523 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96523",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96523:2026-10-13T20:49"
-  },
-  {
-   "ts": "2026-10-13T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96522 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-96522 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96522",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96522:2026-10-13T20:49"
-  },
-  {
-   "ts": "2026-10-13T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96521 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-96521 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96521",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96521:2026-10-13T20:49"
   }
  ]
 }
