@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-14T03:49:07+00:00",
+ "generated_at": "2026-10-14T04:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T04:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110449 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-110449 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Nix before 2.35.3 and Lix before 2.95.4 have an integer overflow and resultant out-of-bounds",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110449",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110449:2026-10-14T04:19"
+  },
   {
    "ts": "2026-10-14T03:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-88083",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88083:2026-10-13T21:19"
-  },
-  {
-   "ts": "2026-10-13T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88082 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-88082 📢 Source: microsoft 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-13T20:37:22.653Z https://cvefeed.io/vuln/detail/CVE-2026-88",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88082",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88082:2026-10-13T21:19"
   }
  ]
 }
