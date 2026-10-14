@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-14T21:49:08+00:00",
+ "generated_at": "2026-10-14T22:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-14T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102298 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-102298 📢 Source: TPLink 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Omada Controller MSP mode, the user-confirmation endpoint fails to enforce the required ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102298",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102298:2026-10-14T22:19"
+  },
+  {
+   "ts": "2026-10-14T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108337 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-108337 📢 Source: HITVAN 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True An administrator could retrieve the password reset code for any user and take over the acco",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108337",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108337:2026-10-14T22:19"
+  },
+  {
+   "ts": "2026-10-14T22:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-108336 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-108336 📢 Source: HITVAN 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True When the default self-signed certificate is used, an attacker could gain administrative",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108336",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108336:2026-10-14T22:19"
+  },
   {
    "ts": "2026-10-14T21:49:06+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102066",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102066:2026-10-14T16:49"
-  },
-  {
-   "ts": "2026-10-14T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102064 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-102064 📢 Source: juniper 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A Reachable Assertion vulnerability in the routing protocol daemon (rpd) of Juniper Networ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102064",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102064:2026-10-14T16:49"
-  },
-  {
-   "ts": "2026-10-14T16:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-102062 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-102062 📢 Source: juniper 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True An Use of Externally-Controlled Format String vulnerability in the ipfd daemon of Juni",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102062",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102062:2026-10-14T16:49"
-  },
-  {
-   "ts": "2026-10-14T16:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-101997 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-101997 📢 Source: juniper 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True An Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101997",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101997:2026-10-14T16:49"
   }
  ]
 }
