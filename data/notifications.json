@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-15T18:19:22+00:00",
+ "generated_at": "2026-10-15T18:49:20+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T18:49:17+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87018 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-87018 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False undici is an HTTP client library for Node.js. In versions 4.2.1 through 6.29.0, 7.0.0 throu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87018",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87018:2026-10-15T18:49"
+  },
+  {
+   "ts": "2026-10-15T18:49:17+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109829 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-109829 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False undici is an HTTP client library for Node.js. In versions 7.0.0 through 7.30.0 and 8.0.0 t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109829",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109829:2026-10-15T18:49"
+  },
+  {
+   "ts": "2026-10-15T18:49:17+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109383 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-109383 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False undici is an HTTP client library for Node.js. In versions 4.0.0 through 6.29.0, 7.0.0 thro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109383",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109383:2026-10-15T18:49"
+  },
   {
    "ts": "2026-10-15T18:19:17+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://sunshowers.io/posts/anthropic-mononoke/",
    "source": "Lobsters",
    "id": "community:https://sunshowers.io/posts/anthropic-mononoke/:2026-10-15T11:49"
-  },
-  {
-   "ts": "2026-10-15T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79833 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-79833 📢 Source: hpe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A vulnerability in HPE NonStop ANSI SQLUTIL may allow a remote unauthenticated actor to cause a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79833",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79833:2026-10-15T11:19"
-  },
-  {
-   "ts": "2026-10-15T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109695 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-109695 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Insertion of Sensitive Information Into Sent Data vulnerability in WPManageNinja Fluent",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109695",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109695:2026-10-15T11:19"
-  },
-  {
-   "ts": "2026-10-15T11:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-109694 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-109694 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in WP ManageNinja LLC Fluent CRM fluen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109694",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109694:2026-10-15T11:19"
   }
  ]
 }
