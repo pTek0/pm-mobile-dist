@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-15T03:49:08+00:00",
+ "generated_at": "2026-10-15T04:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T04:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93484 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-93484 📢 Source: mitre 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Znuny through 7.3.6 constructs a ticket-search database query by directly concatenating user-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93484",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93484:2026-10-15T04:19"
+  },
+  {
+   "ts": "2026-10-15T04:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-93483 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-93483 📢 Source: mitre 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True In Znuny through 7.3.6, an attacker can bypass specific standard login procedures and gai",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93483",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93483:2026-10-15T04:19"
+  },
   {
    "ts": "2026-10-15T03:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108336",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108336:2026-10-14T22:19"
-  },
-  {
-   "ts": "2026-10-14T21:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-108335 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-108335 📢 Source: HITVAN 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True When the password reset functionality is enabled, and email is configured, an attacker ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108335",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108335:2026-10-14T21:49"
-  },
-  {
-   "ts": "2026-10-14T19:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-110770 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-110770 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Databasus 3.7.0 through 3.61.0 contains an authentication bypass vulnerability that ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110770",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110770:2026-10-14T19:19"
   }
  ]
 }
