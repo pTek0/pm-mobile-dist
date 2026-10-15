@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-15T12:49:12+00:00",
+ "generated_at": "2026-10-15T13:19:14+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T13:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109892 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-109892 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in Shabti Kaplan Frontend Admin by Dyn",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109892",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109892:2026-10-15T13:19"
+  },
+  {
+   "ts": "2026-10-15T13:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109702 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109702 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109702",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109702:2026-10-15T13:19"
+  },
+  {
+   "ts": "2026-10-15T13:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109688 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-109688 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109688",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109688:2026-10-15T13:19"
+  },
+  {
+   "ts": "2026-10-15T13:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109686 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-109686 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Link Whisper INC Link Whisper Fr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109686",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109686:2026-10-15T13:19"
+  },
+  {
+   "ts": "2026-10-15T13:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109685 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109685 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109685",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109685:2026-10-15T13:19"
+  },
+  {
+   "ts": "2026-10-15T13:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107416 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-107416 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key vulnerability in Webba Plugins Webba B",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107416",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107416:2026-10-15T13:19"
+  },
   {
    "ts": "2026-10-15T12:49:09+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-34008",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34008:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-34006 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-34006 📢 Source: qnap 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A missing authentication for critical function vulnerability has been reported to affect s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-34006",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34006:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-26245 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-26245 📢 Source: qnap 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A SQL injection vulnerability has been reported to affect Video Station. If a remote attacker ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-26245",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-26245:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-26244 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-26244 📢 Source: qnap 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A SQL injection vulnerability has been reported to affect Video Station. If a remote attacker ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-26244",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-26244:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-26243 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-26243 📢 Source: qnap 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A path traversal vulnerability has been reported to affect Qsync Central. If a remote attacker",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-26243",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-26243:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18660 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-18660 📢 Source: eclipse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Eclipse Jetty, across various versions of `jetty-server`, and `jetty-proxy`, the host wh",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18660",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18660:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-63315 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-63315 📢 Source: CERT-PL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True WebCTI service for Slican IPx telephone exchanges stores temporary subscriber password in p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63315",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63315:2026-10-15T09:19"
   }
  ]
 }
