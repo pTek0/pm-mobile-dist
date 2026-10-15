@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-15T17:49:26+00:00",
+ "generated_at": "2026-10-15T18:19:22+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T18:19:17+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111105 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-111105 📢 Source: zdi 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Telegram rlottie Numeric Truncation Remote Code Execution Vulnerability. This vulnerability all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111105",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111105:2026-10-15T18:19"
+  },
   {
    "ts": "2026-10-15T17:49:16+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-109694",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109694:2026-10-15T11:19"
-  },
-  {
-   "ts": "2026-10-15T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108498 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-108498 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108498",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108498:2026-10-15T11:19"
   }
  ]
 }
