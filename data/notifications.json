@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-15T11:19:09+00:00",
+ "generated_at": "2026-10-15T11:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79834 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-79834 📢 Source: hpe 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A security vulnerability in HPE NonStop SQL/MX SQLCAT may allow an unauthenticated user to perf",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79834",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79834:2026-10-15T11:49"
+  },
+  {
+   "ts": "2026-10-15T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Better HTTP/1 connection reuse in Go 1.27",
+   "body": "Hacker News · 점수 257",
+   "link": "https://go.dev/blog/http-connection-reuse",
+   "source": "Hacker News",
+   "id": "community:https://go.dev/blog/http-connection-reuse:2026-10-15T11:49"
+  },
+  {
+   "ts": "2026-10-15T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] DHS Inspector General Finds That TSA is Not Properly Safegua",
+   "body": "Lemmy · technology · 점수 246",
+   "link": "https://www.eff.org/deeplinks/2026/10/dhs-inspector-general-finds-tsa-not-properly-safeguarding-passenger-facial",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.eff.org/deeplinks/2026/10/dhs-inspector-general-finds-tsa-not-properly-safeguarding-passenger-facial:2026-10-15T11:49"
+  },
+  {
+   "ts": "2026-10-15T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Electric cars saved oil-importing countries $20 Billion in c",
+   "body": "Lemmy · technology · 점수 145",
+   "link": "https://ember-energy.org/latest-insights/electric-energy-security-how-evs-are-reducing-oil-import-vulnerabilities/",
+   "source": "Lemmy · technology",
+   "id": "community:https://ember-energy.org/latest-insights/electric-energy-security-how-evs-are-reducing-oil-import-vulnerabilities/:2026-10-15T11:49"
+  },
+  {
+   "ts": "2026-10-15T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Other AI Companies Should Be Very Afraid of What Just Happen",
+   "body": "Lemmy · technology · 점수 137",
+   "link": "https://futurism.com/artificial-intelligence/ai-companies-afraid-characterai-bankrupcy",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/artificial-intelligence/ai-companies-afraid-characterai-bankrupcy:2026-10-15T11:49"
+  },
+  {
+   "ts": "2026-10-15T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Anthropic's Scion is heavily inspired by Mononoke",
+   "body": "Lobsters · 점수 90",
+   "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+   "source": "Lobsters",
+   "id": "community:https://sunshowers.io/posts/anthropic-mononoke/:2026-10-15T11:49"
+  },
   {
    "ts": "2026-10-15T11:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-109855",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109855:2026-10-15T08:49"
-  },
-  {
-   "ts": "2026-10-15T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103224 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-103224 📢 Source: eclipse 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Eclipse Vert.x versions [4.0.0, 4.5.34] or [5.0.0,5.0.12] or [5.1.0,5.1.9] or [5.2.0, 5",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103224",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103224:2026-10-15T08:49"
-  },
-  {
-   "ts": "2026-10-15T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103223 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-103223 📢 Source: eclipse 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Eclipse Vert.x versions [4.0.0, 4.5.34] or [5.0.0,5.0.12] or [5.1.0,5.1.9] or [5.2.0, 5",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103223",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103223:2026-10-15T08:49"
-  },
-  {
-   "ts": "2026-10-15T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102477 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-102477 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Eclipse Vert.x versions [4.0.0, 4.5.34] or [5.0.0,5.0.12] or [5.1.0,5.1.9] or [5.2.0, 5",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102477",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102477:2026-10-15T08:49"
-  },
-  {
-   "ts": "2026-10-15T08:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-102469 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-102469 📢 Source: eclipse 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True In Eclipse Vert.x versions [4.0.0, 4.5.34] or [5.0.0,5.0.12] or [5.1.0,5.1.9] or [5.2.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102469",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102469:2026-10-15T08:49"
-  },
-  {
-   "ts": "2026-10-15T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102466 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-102466 📢 Source: eclipse 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Eclipse Vert.x versions [4.0.0, 4.5.34] or [5.0.0,5.0.12] or [5.1.0,5.1.9] or [5.2.0, 5",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102466",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102466:2026-10-15T08:49"
-  },
-  {
-   "ts": "2026-10-15T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102464 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-102464 📢 Source: eclipse 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Eclipse Vert.x versions [4.0.0, 4.5.34] or [5.0.0,5.0.12] or [5.1.0,5.1.9] or [5.2.0, 5",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102464",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102464:2026-10-15T08:49"
   }
  ]
 }
