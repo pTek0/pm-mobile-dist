@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-15T16:49:08+00:00",
+ "generated_at": "2026-10-15T17:19:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105065 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-105065 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105065",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105065:2026-10-15T17:19"
+  },
+  {
+   "ts": "2026-10-15T17:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-110812 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-110812 📢 Source: AMZN 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of untrusted data in the Gremlin graph data import component in Amazon Ne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110812",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110812:2026-10-15T17:19"
+  },
   {
    "ts": "2026-10-15T16:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108497",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108497:2026-10-15T11:19"
-  },
-  {
-   "ts": "2026-10-15T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108491 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-108491 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108491",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108491:2026-10-15T11:19"
-  },
-  {
-   "ts": "2026-10-15T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79832 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-79832 📢 Source: hpe 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True A stack buffer overflow vulnerability in HPE NonStop SQL/MX Executor may potentially result in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79832",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79832:2026-10-15T11:19"
   }
  ]
 }
