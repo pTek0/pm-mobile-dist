@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-15T00:49:07+00:00",
+ "generated_at": "2026-10-15T01:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-0993 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-0993 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SODOLA SL902-SWTGW124AS firmware before 200.2.12 contains a buffer overflow vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-0993",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-0993:2026-10-15T01:19"
+  },
   {
    "ts": "2026-10-15T00:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107350",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107350:2026-10-14T17:49"
-  },
-  {
-   "ts": "2026-10-14T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107349 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-107349 📢 Source: PostgreSQL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False An infinite loop in PgBouncer 1.20.0 through 1.26.0 allows an unauthenticated remote a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107349",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107349:2026-10-14T17:49"
   }
  ]
 }
