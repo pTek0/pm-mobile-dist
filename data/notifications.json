@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-15T02:19:07+00:00",
+ "generated_at": "2026-10-15T02:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76663 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-76663 📢 Source: hpe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A stack-based buffer overflow vulnerability in HPE NonStop TELSERV can cause memory corruption ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76663",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76663:2026-10-15T02:49"
+  },
+  {
+   "ts": "2026-10-15T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110908 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-110908 📢 Source: mitre 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Netgate pfSense FRR package (pfSense-pkg-frr) 2.0.2_1 and source revision 2.1.2_1 contain an",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110908",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110908:2026-10-15T02:49"
+  },
+  {
+   "ts": "2026-10-15T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110907 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-110907 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Backdrop CMS Core 1.35.x before 1.35.2 and 1.34.x before 1.34.6 mishandles tokens. A token i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110907",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110907:2026-10-15T02:49"
+  },
   {
    "ts": "2026-10-15T02:19:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110767",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110767:2026-10-14T19:19"
-  },
-  {
-   "ts": "2026-10-14T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110765 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-110765 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True FlexPrice through 2.1.38 contains an authentication bypass vulnerability in HandleQuickB",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110765",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110765:2026-10-14T19:19"
-  },
-  {
-   "ts": "2026-10-14T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110761 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-110761 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ILIAS before 9.24, 10.12, and 11.5 contains a PHP object injection vulnerability that al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110761",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110761:2026-10-14T19:19"
-  },
-  {
-   "ts": "2026-10-14T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79957 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-79957 📢 Source: BLSOPS 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False ServiceNext contains an insecure direct object reference (IDOR) in the /api/Usuario/GetUsua",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79957",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79957:2026-10-14T18:19"
   }
  ]
 }
