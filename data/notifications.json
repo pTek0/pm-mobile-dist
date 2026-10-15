@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-15T21:49:08+00:00",
+ "generated_at": "2026-10-15T22:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111313 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-111313 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True JobOps through 0.13.1 contains a server-side request forgery vulnerability in the POST /",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111313",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111313:2026-10-15T22:19"
+  },
+  {
+   "ts": "2026-10-15T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111312 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-111312 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True OpenHealth through 0.2.0 contains a missing authentication and authorization vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111312",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111312:2026-10-15T22:19"
+  },
+  {
+   "ts": "2026-10-15T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111283 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-111283 📢 Source: VulnCheck 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True BMC Helix Network Management on-prem before 26.3.01 contains an authentication bypas",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111283",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111283:2026-10-15T22:19"
+  },
+  {
+   "ts": "2026-10-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111282 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-111282 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Driftregion iso14229 before 0.10.1 contains an integer wraparound in Handle_0x38_Request",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111282",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111282:2026-10-15T22:19"
+  },
+  {
+   "ts": "2026-10-15T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111281 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-111281 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Jooan JA-A12 IP cameras with firmware 009_20171107 and 05.02.31.105 contain a remote",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111281",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111281:2026-10-15T22:19"
+  },
+  {
+   "ts": "2026-10-15T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111280 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-111280 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True snap7 through 1.4.3 contains an out-of-bounds write vulnerability in TSnap7MicroClient::",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111280",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111280:2026-10-15T22:19"
+  },
   {
    "ts": "2026-10-15T21:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-45451",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-45451:2026-10-15T15:49"
-  },
-  {
-   "ts": "2026-10-15T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-45450 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-45450 📢 Source: INCD 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True : Improper Restriction of Operations within the Bounds of a Memory Buffer vulnerability in Uni",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-45450",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-45450:2026-10-15T15:49"
-  },
-  {
-   "ts": "2026-10-15T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-45449 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-45449 📢 Source: INCD 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True : Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-45449",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-45449:2026-10-15T15:49"
-  },
-  {
-   "ts": "2026-10-15T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111095 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-111095 📢 Source: JetBrains 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 stored XSS in the classic project",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111095",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111095:2026-10-15T15:49"
-  },
-  {
-   "ts": "2026-10-15T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111094 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-111094 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 remote code execution via a whi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111094",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111094:2026-10-15T15:49"
-  },
-  {
-   "ts": "2026-10-15T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111093 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-111093 📢 Source: JetBrains 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In JetBrains Datalore before 2026.2.1 unauthenticated path traversal via the report blob",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111093",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111093:2026-10-15T15:49"
-  },
-  {
-   "ts": "2026-10-15T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111091 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-111091 📢 Source: JetBrains 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In JetBrains Junie CLI before 26.8.3 code execution was possible via an untrusted proje",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111091",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111091:2026-10-15T15:49"
   }
  ]
 }
