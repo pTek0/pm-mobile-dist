@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-15T14:49:11+00:00",
+ "generated_at": "2026-10-15T15:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T15:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109413 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-109413 📢 Source: Checkmarx 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Symfony YAML prior to versions 5.4.54, 6.4.45, 7.4.18, and 8.1.6, Yaml\\Parser::lexInl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109413",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109413:2026-10-15T15:19"
+  },
+  {
+   "ts": "2026-10-15T15:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79840 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-79840 📢 Source: hpe 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A buffer overflow vulnerability in HPE NonStop XABroker may cause memory corruption, resulting",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79840",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79840:2026-10-15T15:19"
+  },
+  {
+   "ts": "2026-10-15T15:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103509 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-103509 📢 Source: Perforce 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True P4 Search (formerly Helix Search) returns stored credentials in cleartext through its con",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103509",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103509:2026-10-15T15:19"
+  },
   {
    "ts": "2026-10-15T14:49:08+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-47786",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47786:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-44084 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-44084 📢 Source: qnap 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An authorization bypass through user-controlled key vulnerability has been reported to affect ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-44084",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-44084:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-41545 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-41545 📢 Source: qnap 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A relative path traversal vulnerability has been reported to affect QuMagie. If a remote attac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-41545",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-41545:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-39997 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-39997 📢 Source: qnap 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: False A missing authentication for critical function vulnerability has been reported to affect Hybr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-39997",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-39997:2026-10-15T09:49"
   }
  ]
 }
