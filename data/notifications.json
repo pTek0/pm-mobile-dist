@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-15T22:49:07+00:00",
+ "generated_at": "2026-10-15T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Muse Spark Open",
+   "body": "Hacker News · 점수 536",
+   "link": "https://research.meta.ai/blog/muse-spark-open",
+   "source": "Hacker News",
+   "id": "community:https://research.meta.ai/blog/muse-spark-open:2026-10-15T23:19"
+  },
+  {
+   "ts": "2026-10-15T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Wayland desktop for Linux with skeuomorphic design",
+   "body": "Hacker News · 점수 456",
+   "link": "https://github.com/fyzugx/DEsk",
+   "source": "Hacker News",
+   "id": "community:https://github.com/fyzugx/DEsk:2026-10-15T23:19"
+  },
+  {
+   "ts": "2026-10-15T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Neural networks are clean",
+   "body": "Hacker News · 점수 435",
+   "link": "https://already-clean.goodfire.com/",
+   "source": "Hacker News",
+   "id": "community:https://already-clean.goodfire.com/:2026-10-15T23:19"
+  },
+  {
+   "ts": "2026-10-15T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AdFection: Targeted ads turned into a pipeline for zero-clic",
+   "body": "Hacker News · 점수 341",
+   "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+   "source": "Hacker News",
+   "id": "community:https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/:2026-10-15T23:19"
+  },
+  {
+   "ts": "2026-10-15T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Wanted to download an ISO, ended up writing a kernel exploit",
+   "body": "Hacker News · 점수 336",
+   "link": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+   "source": "Hacker News",
+   "id": "community:https://blog.dfb.sh/blog/eap770-root-for-two-zeros/:2026-10-15T23:19"
+  },
   {
    "ts": "2026-10-15T22:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85634",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85634:2026-10-15T16:49"
-  },
-  {
-   "ts": "2026-10-15T16:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97712 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-97712 📢 Source: Sonatype 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Sonatype Nexus Repository 3 allows a user that holds the role create or role update permis",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97712",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97712:2026-10-15T16:19"
-  },
-  {
-   "ts": "2026-10-15T16:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97665 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-97665 📢 Source: Sonatype 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A missing authorization check in Nexus Repository 3's NuGet Components API upload path all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97665",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97665:2026-10-15T16:19"
-  },
-  {
-   "ts": "2026-10-15T16:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92982 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-92982 📢 Source: redhat 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Ansible Operator Plugins. A low-privileged Kubernetes user can exploit a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92982",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92982:2026-10-15T16:19"
-  },
-  {
-   "ts": "2026-10-15T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-45452 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-45452 📢 Source: INCD 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Use of Externally-Controlled format string vulnerability in Unitronics Unitronics UniStream Pr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-45452",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-45452:2026-10-15T15:49"
-  },
-  {
-   "ts": "2026-10-15T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-45451 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-45451 📢 Source: INCD 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True : Improper Authentication vulnerability in Unitronics Unitronics UniStream Pro/UniLogic. This ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-45451",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-45451:2026-10-15T15:49"
   }
  ]
 }
