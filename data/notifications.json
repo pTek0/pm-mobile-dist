@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-15T00:19:07+00:00",
+ "generated_at": "2026-10-15T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] UK recruiters report record AI cheating in graduate job inte",
+   "body": "Lemmy · technology · 점수 54",
+   "link": "https://ise.org.uk/knowledge/insights/615/graduate_jobs_stabilise_but_ai_use_disrupts_recruitment",
+   "source": "Lemmy · technology",
+   "id": "community:https://ise.org.uk/knowledge/insights/615/graduate_jobs_stabilise_but_ai_use_disrupts_recruitment:2026-10-15T00:49"
+  },
   {
    "ts": "2026-10-15T00:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107349",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107349:2026-10-14T17:49"
-  },
-  {
-   "ts": "2026-10-14T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106464 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-106464 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True `_nx_secure_x509_parse_signature_data` computes the certificate signature's length as `tlv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106464",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106464:2026-10-14T17:49"
   }
  ]
 }
