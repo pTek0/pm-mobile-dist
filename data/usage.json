@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-15T22:27:12+09:00",
+ "generated_at": "2026-10-15T22:57:12+09:00",
  "plan": "Max 20x",
- "tokens_total": 7475226832,
- "msgs_total": 35245,
+ "tokens_total": 7475736827,
+ "msgs_total": 35246,
  "window_5h": {
-  "used": 14037916,
+  "used": 14547911,
   "limit": 344138474,
-  "pct": 4.1,
+  "pct": 4.2,
   "resets_at": "2026-10-16T03:00:00+09:00",
-  "msgs": 29,
+  "msgs": 30,
   "basis": "measured",
   "limit_basis": "estimated"
  },
  "window_weekly": {
-  "used": 484161856,
+  "used": 484671851,
   "limit": null,
   "pct": null,
   "resets_at": null,
-  "msgs": 1765,
+  "msgs": 1766,
   "basis": "measured",
   "limit_basis": null,
   "window_basis": "rolling_7d"
