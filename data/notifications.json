@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-15T07:19:07+00:00",
+ "generated_at": "2026-10-15T07:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102475 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-102475 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Eclipse Vert.x versions [5.0.0,5.0.12] or [5.1.0,5.1.9] or [5.2.0, 5.2.0], the HTTP pro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102475",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102475:2026-10-15T07:49"
+  },
+  {
+   "ts": "2026-10-15T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102467 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-102467 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Eclipse Vert.x versions [4.0.0, 4.5.34] or [5.0.0,5.0.12] or [5.1.0,5.1.9] or [5.2.0, 5",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102467",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102467:2026-10-15T07:49"
+  },
+  {
+   "ts": "2026-10-15T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102465 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-102465 📢 Source: eclipse 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Eclipse Vert.x versions [4.0.0, 4.5.34] or [5.0.0,5.0.12] or [5.1.0,5.1.9] or [5.2.0, 5",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102465",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102465:2026-10-15T07:49"
+  },
   {
    "ts": "2026-10-15T05:19:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
    "source": "Hacker News",
    "id": "community:https://scotthelme.co.uk/passkeys-are-not-a-trap/:2026-10-14T23:19"
-  },
-  {
-   "ts": "2026-10-14T22:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107795 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-107795 📢 Source: TPLink 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Omada Controller's MSP and OpenAPI certificate/private-key management APIs do not properly ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107795",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107795:2026-10-14T22:49"
-  },
-  {
-   "ts": "2026-10-14T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102298 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-102298 📢 Source: TPLink 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Omada Controller MSP mode, the user-confirmation endpoint fails to enforce the required ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102298",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102298:2026-10-14T22:19"
-  },
-  {
-   "ts": "2026-10-14T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108337 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-108337 📢 Source: HITVAN 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True An administrator could retrieve the password reset code for any user and take over the acco",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108337",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108337:2026-10-14T22:19"
   }
  ]
 }
