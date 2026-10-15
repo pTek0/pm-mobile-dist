@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-10-15T08:49:08+00:00",
+ "generated_at": "2026-10-15T09:19:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63315 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-63315 📢 Source: CERT-PL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True WebCTI service for Slican IPx telephone exchanges stores temporary subscriber password in p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63315",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63315:2026-10-15T09:19"
+  },
+  {
+   "ts": "2026-10-15T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63314 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-63314 📢 Source: CERT-PL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True WebCTI service for Slican IPx telephone exchanges is vulnerable to SQL Injection in /webcti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63314",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63314:2026-10-15T09:19"
+  },
+  {
+   "ts": "2026-10-15T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-35088 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-35088 📢 Source: CERT-PL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Slican telephone exchanges use symmetric encryption for TCP/IP communication. Secret key is",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-35088",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-35088:2026-10-15T09:19"
+  },
+  {
+   "ts": "2026-10-15T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18661 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-18661 📢 Source: eclipse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Eclipse Jetty, across various versions of `jetty-annotations`, and `jetty-eeN-annotation",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18661",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18661:2026-10-15T09:19"
+  },
+  {
+   "ts": "2026-10-15T09:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101287 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-101287 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Authentication bypass vulnerability in Stela, versions prior to 1.60.1, due to the use ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101287",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101287:2026-10-15T09:19"
+  },
+  {
+   "ts": "2026-10-15T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77711 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-77711 📢 Source: eclipse 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True When Jetty's `HttpClient` make a request to a server through a forward proxy, the server ma",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77711",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77711:2026-10-15T09:19"
+  },
+  {
+   "ts": "2026-10-15T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76184 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-76184 📢 Source: eclipse 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Eclipse Jetty, HttpClient may receive a redirect of the form: ``` /secure/../evil ``` If",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76184",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76184:2026-10-15T09:19"
+  },
+  {
+   "ts": "2026-10-15T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101290 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-101290 📢 Source: SICK AG 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A remote attacker may send a specially crafted network packet that causes the affected app",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101290",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101290:2026-10-15T09:19"
+  },
+  {
+   "ts": "2026-10-15T09:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-16438 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-16438 📢 Source: Mitsubishi 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in Mitsubishi Electric GENESIS64 versio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16438",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16438:2026-10-15T09:19"
+  },
+  {
+   "ts": "2026-10-15T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16437 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-16437 📢 Source: Mitsubishi 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Weak Password Recovery Mechanism for Forgotten Password vulnerability in Mitsubishi Ele",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16437",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16437:2026-10-15T09:19"
+  },
+  {
+   "ts": "2026-10-15T09:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-16436 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-16436 📢 Source: Mitsubishi 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Weak Password Recovery Mechanism for Forgotten Password vulnerability in Mitsubishi ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16436",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16436:2026-10-15T09:19"
+  },
   {
    "ts": "2026-10-15T08:49:06+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://mapwriting.substack.com/p/dentists",
    "source": "Hacker News",
    "id": "community:https://mapwriting.substack.com/p/dentists:2026-10-14T23:49"
-  },
-  {
-   "ts": "2026-10-14T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fire at Starlink site in Bulgaria after suspected sabotage i",
-   "body": "Hacker News · 점수 249",
-   "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-   "source": "Hacker News",
-   "id": "community:https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/:2026-10-14T23:49"
-  },
-  {
-   "ts": "2026-10-14T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Banks are now trying to offload the AI data center debt they",
-   "body": "Lemmy · technology · 점수 163",
-   "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-   "source": "Lemmy · technology",
-   "id": "community:https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/:2026-10-14T23:49"
-  },
-  {
-   "ts": "2026-10-14T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Dutch tax authorities cancel Microsoft 365 cloud rollout - a",
-   "body": "Lemmy · technology · 점수 135",
-   "link": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/:2026-10-14T23:49"
-  },
-  {
-   "ts": "2026-10-14T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110847 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-110847 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.83, 2.x before 2.41.4, and 2.42.x before 2.42.1 contains a stored cross-s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110847",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110847:2026-10-14T23:19"
-  },
-  {
-   "ts": "2026-10-14T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110846 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-110846 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True n8n before 2.41.4 and 2.42.x before 2.42.1 contains a signature bypass in the waiting-webh",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110846",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110846:2026-10-14T23:19"
-  },
-  {
-   "ts": "2026-10-14T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110845 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-110845 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.83, 2.x before 2.41.4, and 2.42.x before 2.42.1 contains a code executi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110845",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110845:2026-10-14T23:19"
-  },
-  {
-   "ts": "2026-10-14T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110844 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-110844 📢 Source: VulnCheck 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.83 contains an authorization bypass vulnerability that allows shared-wo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110844",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110844:2026-10-14T23:19"
-  },
-  {
-   "ts": "2026-10-14T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110843 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-110843 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True n8n before 2.41.4 and 2.42.x before 2.42.1 contains an uncontrolled resource consumption",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110843",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110843:2026-10-14T23:19"
-  },
-  {
-   "ts": "2026-10-14T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110842 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-110842 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True n8n before 2.41.4 and 2.42.x before 2.42.1 contains a prototype pollution vulnerability ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110842",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110842:2026-10-14T23:19"
-  },
-  {
-   "ts": "2026-10-14T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110840 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-110840 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True n8n before 2.41.4 and 2.42.x before 2.42.1 contains an SQL injection vulnerability in vers",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110840",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110840:2026-10-14T23:19"
-  },
-  {
-   "ts": "2026-10-14T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110839 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-110839 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP 3.3.0 before 3.32.0, when built with WINPR_UTILS_IMAGE_JPEG=ON, has a heap-based",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110839",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110839:2026-10-14T23:19"
   }
  ]
 }
