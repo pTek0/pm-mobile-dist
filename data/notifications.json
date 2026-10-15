@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-15T01:19:07+00:00",
+ "generated_at": "2026-10-15T01:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76659 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-76659 📢 Source: hpe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A vulnerability in the finger daemon of HPE NonStop TCP/IP UTILITIES could allow an unauthentic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76659",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76659:2026-10-15T01:49"
+  },
+  {
+   "ts": "2026-10-15T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76066 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-76066 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True IntentKit through 2.6.3 contains an authorization bypass vulnerability where the executor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76066",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76066:2026-10-15T01:49"
+  },
+  {
+   "ts": "2026-10-15T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109430 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-109430 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Ellucian WebAdvisor 3.2 contains an unauthenticated XML External Entity (XXE) injection ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109430",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109430:2026-10-15T01:49"
+  },
+  {
+   "ts": "2026-10-15T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77931 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-77931 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True MoviePilot through 3.1.5 contains a command injection vulnerability that allows attackers",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77931",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77931:2026-10-15T01:49"
+  },
+  {
+   "ts": "2026-10-15T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73799 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-73799 📢 Source: hpe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A security vulnerability in HPE NonStop SNMP Trap Multiplexer may cause memory corruption 📅 Pub",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73799",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73799:2026-10-15T01:49"
+  },
   {
    "ts": "2026-10-15T01:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108483",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108483:2026-10-14T18:19"
-  },
-  {
-   "ts": "2026-10-14T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108480 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-108480 📢 Source: Patchstack 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Skydropx Skydropx skydropx allows Exploiting Inc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108480",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108480:2026-10-14T18:19"
-  },
-  {
-   "ts": "2026-10-14T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105066 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-105066 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105066",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105066:2026-10-14T18:19"
-  },
-  {
-   "ts": "2026-10-14T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103081 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-103081 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper Control of Generation of Code ('Code Injection') vulnerability in VillaTheme S",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103081",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103081:2026-10-14T18:19"
-  },
-  {
-   "ts": "2026-10-14T18:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-102476 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-102476 📢 Source: eclipse 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True In Eclipse Vert.x versions [5.0.0,5.0.12] or [5.1.0,5.1.9] or [5.2.0, 5.2.0], the Vert",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102476",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102476:2026-10-14T18:19"
-  },
-  {
-   "ts": "2026-10-14T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107350 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-107350 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Improper authentication in PgBouncer 1.17.0 through 1.26.0 allows a remote attacker wh",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107350",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107350:2026-10-14T17:49"
   }
  ]
 }
