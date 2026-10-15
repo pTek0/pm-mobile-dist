@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-15T16:19:09+00:00",
+ "generated_at": "2026-10-15T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85634 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-85634 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the ContentRepositoryImpl.copyExplodedContent function of the wildfly-co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85634",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85634:2026-10-15T16:49"
+  },
   {
    "ts": "2026-10-15T16:19:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-79832",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79832:2026-10-15T11:19"
-  },
-  {
-   "ts": "2026-10-15T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] OpenCode 2.0",
-   "body": "Hacker News · 점수 631",
-   "link": "https://anoma.ly/notes/opencode-2-0/",
-   "source": "Hacker News",
-   "id": "community:https://anoma.ly/notes/opencode-2-0/:2026-10-15T11:19"
   }
  ]
 }
