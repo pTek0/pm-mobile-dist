@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-10-15T18:49:20+00:00",
+ "generated_at": "2026-10-15T19:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-45165 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-45165 📢 Source: palo_alto 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An authorization flaw in Idira Conjur version 13.9.0 allows an authenticated user with li",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-45165",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-45165:2026-10-15T19:19"
+  },
+  {
+   "ts": "2026-10-15T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111229 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111229 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True pfSense CE 2.7.0 through 2.9.0 contains a command injection vulnerability in services_ca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111229",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111229:2026-10-15T19:19"
+  },
+  {
+   "ts": "2026-10-15T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111226 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111226 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True pfSense CE 2.4.5 through 2.9.0 contains an OS command injection vulnerability that allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111226",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111226:2026-10-15T19:19"
+  },
+  {
+   "ts": "2026-10-15T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111224 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-111224 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True pfSense CE through 2.9.0 contains an OS command injection vulnerability in the OpenVPN o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111224",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111224:2026-10-15T19:19"
+  },
+  {
+   "ts": "2026-10-15T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111223 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111223 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Netgate pfSense CE 2.7.0 through 2.9.0 contains a configuration injection vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111223",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111223:2026-10-15T19:19"
+  },
+  {
+   "ts": "2026-10-15T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111222 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-111222 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Netgate pfSense CE through 2.9.0 contains a php.ini injection vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111222",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111222:2026-10-15T19:19"
+  },
+  {
+   "ts": "2026-10-15T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111221 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-111221 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Netgate pfSense CE through 2.9.0 contains a configuration injection vulnerability that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111221",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111221:2026-10-15T19:19"
+  },
+  {
+   "ts": "2026-10-15T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111220 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111220 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True pfSense CE through 2.9.0 contains a crontab injection vulnerability in interfaces_ppps_e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111220",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111220:2026-10-15T19:19"
+  },
+  {
+   "ts": "2026-10-15T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111219 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-111219 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Netgate pfSense CE through 2.9.0 contains a newline injection vulnerability in services_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111219",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111219:2026-10-15T19:19"
+  },
+  {
+   "ts": "2026-10-15T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111218 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111218 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Netgate pfSense CE 2.7.0 through 2.9.0 contains an OS command injection vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111218",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111218:2026-10-15T19:19"
+  },
+  {
+   "ts": "2026-10-15T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111217 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111217 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Netgate pfSense CE through 2.9.0 contains an OS command injection vulnerability that all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111217",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111217:2026-10-15T19:19"
+  },
+  {
+   "ts": "2026-10-15T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111216 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111216 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Netgate pfSense CE through 2.9.0 contains an OS command injection vulnerability that all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111216",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111216:2026-10-15T19:19"
+  },
+  {
+   "ts": "2026-10-15T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111214 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111214 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Netgate pfSense CE 2.7.0 through 2.9.0 contains an OS command injection vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111214",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111214:2026-10-15T19:19"
+  },
   {
    "ts": "2026-10-15T18:49:17+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-109693",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109693:2026-10-15T12:49"
-  },
-  {
-   "ts": "2026-10-15T12:49:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109692 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-109692 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in ThemeGrill User Registration user-registration a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109692",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109692:2026-10-15T12:49"
-  },
-  {
-   "ts": "2026-10-15T12:49:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104025 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-104025 📢 Source: Secur0 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Path Traversal (CWE-22) in the execute_obj function of the archive object viewer (peach.pa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104025",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104025:2026-10-15T12:49"
-  },
-  {
-   "ts": "2026-10-15T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Yandex outage: data shows that instead of going dark, malici",
-   "body": "Lemmy · technology · 점수 84",
-   "link": "https://blog.cloudflare.com/yandex-outage/",
-   "source": "Lemmy · technology",
-   "id": "community:https://blog.cloudflare.com/yandex-outage/:2026-10-15T12:19"
-  },
-  {
-   "ts": "2026-10-15T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Plasma 6.8 released (KDE's 30th birthday)",
-   "body": "Lobsters · 점수 76",
-   "link": "https://kde.org/announcements/plasma/6/6.8.0/",
-   "source": "Lobsters",
-   "id": "community:https://kde.org/announcements/plasma/6/6.8.0/:2026-10-15T12:19"
-  },
-  {
-   "ts": "2026-10-15T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] OpenAI, Google pushing new AI models easily tricked into mak",
-   "body": "Lemmy · technology · 점수 74",
-   "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/:2026-10-15T12:19"
-  },
-  {
-   "ts": "2026-10-15T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] What I Self-Host",
-   "body": "Lobsters · 점수 58",
-   "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-   "source": "Lobsters",
-   "id": "community:https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/:2026-10-15T12:19"
-  },
-  {
-   "ts": "2026-10-15T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fancy Curl Sites",
-   "body": "Lobsters · 점수 55",
-   "link": "https://nytpu.com/gemlog/2026-03-18",
-   "source": "Lobsters",
-   "id": "community:https://nytpu.com/gemlog/2026-03-18:2026-10-15T12:19"
-  },
-  {
-   "ts": "2026-10-15T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79834 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-79834 📢 Source: hpe 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A security vulnerability in HPE NonStop SQL/MX SQLCAT may allow an unauthenticated user to perf",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79834",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79834:2026-10-15T11:49"
-  },
-  {
-   "ts": "2026-10-15T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Better HTTP/1 connection reuse in Go 1.27",
-   "body": "Hacker News · 점수 257",
-   "link": "https://go.dev/blog/http-connection-reuse",
-   "source": "Hacker News",
-   "id": "community:https://go.dev/blog/http-connection-reuse:2026-10-15T11:49"
-  },
-  {
-   "ts": "2026-10-15T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] DHS Inspector General Finds That TSA is Not Properly Safegua",
-   "body": "Lemmy · technology · 점수 246",
-   "link": "https://www.eff.org/deeplinks/2026/10/dhs-inspector-general-finds-tsa-not-properly-safeguarding-passenger-facial",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.eff.org/deeplinks/2026/10/dhs-inspector-general-finds-tsa-not-properly-safeguarding-passenger-facial:2026-10-15T11:49"
-  },
-  {
-   "ts": "2026-10-15T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Electric cars saved oil-importing countries $20 Billion in c",
-   "body": "Lemmy · technology · 점수 145",
-   "link": "https://ember-energy.org/latest-insights/electric-energy-security-how-evs-are-reducing-oil-import-vulnerabilities/",
-   "source": "Lemmy · technology",
-   "id": "community:https://ember-energy.org/latest-insights/electric-energy-security-how-evs-are-reducing-oil-import-vulnerabilities/:2026-10-15T11:49"
-  },
-  {
-   "ts": "2026-10-15T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Other AI Companies Should Be Very Afraid of What Just Happen",
-   "body": "Lemmy · technology · 점수 137",
-   "link": "https://futurism.com/artificial-intelligence/ai-companies-afraid-characterai-bankrupcy",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/ai-companies-afraid-characterai-bankrupcy:2026-10-15T11:49"
-  },
-  {
-   "ts": "2026-10-15T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Anthropic's Scion is heavily inspired by Mononoke",
-   "body": "Lobsters · 점수 90",
-   "link": "https://sunshowers.io/posts/anthropic-mononoke/",
-   "source": "Lobsters",
-   "id": "community:https://sunshowers.io/posts/anthropic-mononoke/:2026-10-15T11:49"
   }
  ]
 }
