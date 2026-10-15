@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-15T12:19:10+00:00",
+ "generated_at": "2026-10-15T12:49:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T12:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88794 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-88794 📢 Source: CERT-PL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Enterprise Architect is vulnerable to XML External Entity (XXE) injection in the XSLT Debug",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88794",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88794:2026-10-15T12:49"
+  },
+  {
+   "ts": "2026-10-15T12:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79837 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-79837 📢 Source: hpe 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A vulnerability in HPE NonStop SQL/MX UDR SERVER may allow a crafted message to cause process ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79837",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79837:2026-10-15T12:49"
+  },
+  {
+   "ts": "2026-10-15T12:49:09+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109698 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-109698 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109698",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109698:2026-10-15T12:49"
+  },
+  {
+   "ts": "2026-10-15T12:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109693 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-109693 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in WP ManageNinja LLC Fluent CRM fluent-cr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109693",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109693:2026-10-15T12:49"
+  },
+  {
+   "ts": "2026-10-15T12:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109692 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109692 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in ThemeGrill User Registration user-registration a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109692",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109692:2026-10-15T12:49"
+  },
+  {
+   "ts": "2026-10-15T12:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104025 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-104025 📢 Source: Secur0 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Path Traversal (CWE-22) in the execute_obj function of the archive object viewer (peach.pa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104025",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104025:2026-10-15T12:49"
+  },
   {
    "ts": "2026-10-15T12:19:08+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-63315",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63315:2026-10-15T09:19"
-  },
-  {
-   "ts": "2026-10-15T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-63314 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-63314 📢 Source: CERT-PL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True WebCTI service for Slican IPx telephone exchanges is vulnerable to SQL Injection in /webcti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63314",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63314:2026-10-15T09:19"
-  },
-  {
-   "ts": "2026-10-15T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-35088 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-35088 📢 Source: CERT-PL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Slican telephone exchanges use symmetric encryption for TCP/IP communication. Secret key is",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-35088",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-35088:2026-10-15T09:19"
-  },
-  {
-   "ts": "2026-10-15T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18661 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-18661 📢 Source: eclipse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Eclipse Jetty, across various versions of `jetty-annotations`, and `jetty-eeN-annotation",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18661",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18661:2026-10-15T09:19"
-  },
-  {
-   "ts": "2026-10-15T09:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-101287 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-101287 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Authentication bypass vulnerability in Stela, versions prior to 1.60.1, due to the use ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101287",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101287:2026-10-15T09:19"
-  },
-  {
-   "ts": "2026-10-15T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77711 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-77711 📢 Source: eclipse 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True When Jetty's `HttpClient` make a request to a server through a forward proxy, the server ma",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77711",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77711:2026-10-15T09:19"
-  },
-  {
-   "ts": "2026-10-15T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76184 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-76184 📢 Source: eclipse 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Eclipse Jetty, HttpClient may receive a redirect of the form: ``` /secure/../evil ``` If",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76184",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76184:2026-10-15T09:19"
   }
  ]
 }
