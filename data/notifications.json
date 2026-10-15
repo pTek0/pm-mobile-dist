@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-15T14:19:09+00:00",
+ "generated_at": "2026-10-15T14:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79839 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-79839 📢 Source: hpe 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A buffer overflow vulnerability in HPE NonStop ODBC/MX Server may cause memory corruption, res",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79839",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79839:2026-10-15T14:49"
+  },
+  {
+   "ts": "2026-10-15T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79838 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-79838 📢 Source: hpe 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A buffer overflow vulnerability in HPE NonStop ODBC/MX Services may cause memory corruption, r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79838",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79838:2026-10-15T14:49"
+  },
+  {
+   "ts": "2026-10-15T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108116 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-108116 📢 Source: ProgressSoftware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Progress Kendo UI for jQuery prior to v2026.3.1015, specially crafted filter v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108116",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108116:2026-10-15T14:49"
+  },
+  {
+   "ts": "2026-10-15T14:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103508 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-103508 📢 Source: Perforce 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True P4 Search (formerly Helix Search) allows an authenticated user holding administrative pri",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103508",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103508:2026-10-15T14:49"
+  },
   {
    "ts": "2026-10-15T13:19:08+00:00",
    "level": "important",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-39997",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-39997:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-34015 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-34015 📢 Source: qnap 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A path traversal vulnerability has been reported to affect Video Station. If a remote attacker",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-34015",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34015:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-34014 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-34014 📢 Source: qnap 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False An incorrect permission assignment for critical resource vulnerability has been reported to a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-34014",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34014:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-34009 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-34009 📢 Source: qnap 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False An improper isolation or compartmentalization vulnerability has been reported to affect Notes",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-34009",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34009:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-34008 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-34008 📢 Source: qnap 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An incorrect permission assignment for critical resource vulnerability has been reported to a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-34008",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34008:2026-10-15T09:49"
   }
  ]
 }
