@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-10-15T15:19:11+00:00",
+ "generated_at": "2026-10-15T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-45452 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-45452 📢 Source: INCD 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Use of Externally-Controlled format string vulnerability in Unitronics Unitronics UniStream Pr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-45452",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-45452:2026-10-15T15:49"
+  },
+  {
+   "ts": "2026-10-15T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-45451 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-45451 📢 Source: INCD 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True : Improper Authentication vulnerability in Unitronics Unitronics UniStream Pro/UniLogic. This ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-45451",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-45451:2026-10-15T15:49"
+  },
+  {
+   "ts": "2026-10-15T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-45450 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-45450 📢 Source: INCD 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True : Improper Restriction of Operations within the Bounds of a Memory Buffer vulnerability in Uni",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-45450",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-45450:2026-10-15T15:49"
+  },
+  {
+   "ts": "2026-10-15T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-45449 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-45449 📢 Source: INCD 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True : Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-45449",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-45449:2026-10-15T15:49"
+  },
+  {
+   "ts": "2026-10-15T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111095 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-111095 📢 Source: JetBrains 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 stored XSS in the classic project",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111095",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111095:2026-10-15T15:49"
+  },
+  {
+   "ts": "2026-10-15T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111094 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-111094 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 remote code execution via a whi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111094",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111094:2026-10-15T15:49"
+  },
+  {
+   "ts": "2026-10-15T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111093 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-111093 📢 Source: JetBrains 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In JetBrains Datalore before 2026.2.1 unauthenticated path traversal via the report blob",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111093",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111093:2026-10-15T15:49"
+  },
+  {
+   "ts": "2026-10-15T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111091 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-111091 📢 Source: JetBrains 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In JetBrains Junie CLI before 26.8.3 code execution was possible via an untrusted proje",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111091",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111091:2026-10-15T15:49"
+  },
+  {
+   "ts": "2026-10-15T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109449 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-109449 📢 Source: Checkmarx 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Symfony Expression Language versions prior to 5.4.54, 6.4.48, 7.4.21, and 8.1.9, the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109449",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109449:2026-10-15T15:49"
+  },
   {
    "ts": "2026-10-15T15:19:09+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://alexwennerberg.com/blog/2026-10-13-long.html",
    "source": "Hacker News",
    "id": "community:https://alexwennerberg.com/blog/2026-10-13-long.html:2026-10-15T11:19"
-  },
-  {
-   "ts": "2026-10-15T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] We’re releasing Jev 1.14.0 along with experimental features ",
-   "body": "Hacker News · 점수 301",
-   "link": "https://typesafe.ai/blog/jev-1-14",
-   "source": "Hacker News",
-   "id": "community:https://typesafe.ai/blog/jev-1-14:2026-10-15T11:19"
-  },
-  {
-   "ts": "2026-10-15T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79829 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-79829 📢 Source: hpe 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A security vulnerability in HPE NonStop HTTP WEBSERVER can cause memory corruption which may re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79829",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79829:2026-10-15T10:19"
-  },
-  {
-   "ts": "2026-10-15T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79828 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-79828 📢 Source: hpe 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A heap buffer overflow in HPE NonStop Debug Utilities could corrupt resume-execution address a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79828",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79828:2026-10-15T10:19"
-  },
-  {
-   "ts": "2026-10-15T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79827 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-79827 📢 Source: hpe 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A heap buffer overflow in HPE NonStop Inspect Subsystem could corrupt resume-execution address",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79827",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79827:2026-10-15T10:19"
-  },
-  {
-   "ts": "2026-10-15T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79826 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-79826 📢 Source: hpe 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A heap buffer overflow in HPE NonStop OCAX could corrupt address space and may potentially red",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79826",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79826:2026-10-15T10:19"
-  },
-  {
-   "ts": "2026-10-15T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-19863 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-19863 📢 Source: eclipse 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated client may access certain protected resources when using EthereumAut",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19863",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19863:2026-10-15T10:19"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-50619 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-50619 📢 Source: qnap 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A path traversal vulnerability has been reported to affect Qsirch. If exploited, the vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-50619",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-50619:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-50612 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-50612 📢 Source: qnap 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True An unix symbolic link (symlink) following vulnerability has been reported to affect QuMagi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-50612",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-50612:2026-10-15T09:49"
-  },
-  {
-   "ts": "2026-10-15T09:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-47786 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-47786 📢 Source: qnap 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An OS command injection vulnerability has been reported to affect HybridDesk Station. If e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47786",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47786:2026-10-15T09:49"
   }
  ]
 }
