@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-15T15:49:07+00:00",
+ "generated_at": "2026-10-15T16:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-15T16:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97712 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-97712 📢 Source: Sonatype 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Sonatype Nexus Repository 3 allows a user that holds the role create or role update permis",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97712",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97712:2026-10-15T16:19"
+  },
+  {
+   "ts": "2026-10-15T16:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97665 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-97665 📢 Source: Sonatype 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A missing authorization check in Nexus Repository 3's NuGet Components API upload path all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97665",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97665:2026-10-15T16:19"
+  },
+  {
+   "ts": "2026-10-15T16:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92982 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-92982 📢 Source: redhat 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Ansible Operator Plugins. A low-privileged Kubernetes user can exploit a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92982",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92982:2026-10-15T16:19"
+  },
   {
    "ts": "2026-10-15T15:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://anoma.ly/notes/opencode-2-0/",
    "source": "Hacker News",
    "id": "community:https://anoma.ly/notes/opencode-2-0/:2026-10-15T11:19"
-  },
-  {
-   "ts": "2026-10-15T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tiny Little Office",
-   "body": "Hacker News · 점수 458",
-   "link": "https://tinylittleoffice.com/",
-   "source": "Hacker News",
-   "id": "community:https://tinylittleoffice.com/:2026-10-15T11:19"
-  },
-  {
-   "ts": "2026-10-15T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Americans' social activity has steeply declined in the past ",
-   "body": "Hacker News · 점수 415",
-   "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-   "source": "Hacker News",
-   "id": "community:https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years:2026-10-15T11:19"
-  },
-  {
-   "ts": "2026-10-15T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Why is every rationalist blog post way too long?",
-   "body": "Hacker News · 점수 365",
-   "link": "https://alexwennerberg.com/blog/2026-10-13-long.html",
-   "source": "Hacker News",
-   "id": "community:https://alexwennerberg.com/blog/2026-10-13-long.html:2026-10-15T11:19"
   }
  ]
 }
