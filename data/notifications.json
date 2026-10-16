@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-16T13:49:13+00:00",
+ "generated_at": "2026-10-16T14:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-16T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107617 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-107617 📢 Source: icscert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An attacker can use a hard-coded credential to log in to EseeCloud devices. 📅 Publishe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107617",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107617:2026-10-16T14:19"
+  },
+  {
+   "ts": "2026-10-16T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18516 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-18516 📢 Source: GitLab 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True An output escaping vulnerability in the Audit Logs component of Crafty Controller allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18516",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18516:2026-10-16T14:19"
+  },
   {
    "ts": "2026-10-16T13:49:12+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84823",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84823:2026-10-16T00:19"
-  },
-  {
-   "ts": "2026-10-16T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Jev meets the Trolley Problem",
-   "body": "Hacker News · 점수 231",
-   "link": "https://zachlandes.com/trolley-problem/",
-   "source": "Hacker News",
-   "id": "community:https://zachlandes.com/trolley-problem/:2026-10-16T00:19"
-  },
-  {
-   "ts": "2026-10-16T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Amsterdam server seized at request of U.S. authorities after",
-   "body": "Lemmy · technology · 점수 210",
-   "link": "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations",
-   "source": "Lemmy · technology",
-   "id": "community:https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations:2026-10-16T00:19"
   }
  ]
 }
