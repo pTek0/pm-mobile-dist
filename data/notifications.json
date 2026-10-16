@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-16T08:19:08+00:00",
+ "generated_at": "2026-10-16T08:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-16T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14177 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-14177 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Observable response discrepancy vulnerability in IKAS Technology Inc. Ikas E-Commerce Infra",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14177",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14177:2026-10-16T08:49"
+  },
   {
    "ts": "2026-10-16T07:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111282",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111282:2026-10-15T22:19"
-  },
-  {
-   "ts": "2026-10-15T22:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111281 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-111281 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Jooan JA-A12 IP cameras with firmware 009_20171107 and 05.02.31.105 contain a remote",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111281",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111281:2026-10-15T22:19"
   }
  ]
 }
