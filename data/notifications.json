@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-16T08:49:08+00:00",
+ "generated_at": "2026-10-16T09:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-16T09:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111472 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-111472 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An SQL injection vulnerability has been discovered in TSG Profleet. The vulnerability c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111472",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111472:2026-10-16T09:19"
+  },
   {
    "ts": "2026-10-16T08:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111283",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111283:2026-10-15T22:19"
-  },
-  {
-   "ts": "2026-10-15T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111282 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-111282 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Driftregion iso14229 before 0.10.1 contains an integer wraparound in Handle_0x38_Request",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111282",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111282:2026-10-15T22:19"
   }
  ]
 }
