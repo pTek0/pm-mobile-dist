@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-16T12:19:08+00:00",
+ "generated_at": "2026-10-16T12:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-16T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111399 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-111399 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111399",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111399:2026-10-16T12:49"
+  },
+  {
+   "ts": "2026-10-16T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105958 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-105958 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in spice-server. Multiple migration data handlers use client-supplied offs",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105958",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105958:2026-10-16T12:49"
+  },
   {
    "ts": "2026-10-16T12:19:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
    "source": "Lemmy · technology",
    "id": "community:https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt:2026-10-16T00:19"
-  },
-  {
-   "ts": "2026-10-15T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92629 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-92629 📢 Source: lenovo 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A potential improper authorization vulnerability was reported in Lenovo Baiying PC Client, ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92629",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92629:2026-10-15T23:49"
-  },
-  {
-   "ts": "2026-10-15T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-89057 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-89057 📢 Source: lenovo 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A potential authentication bypass vulnerability was reported in some Lenovo tablets that coul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89057",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89057:2026-10-15T23:49"
   }
  ]
 }
