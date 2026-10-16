@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-16T21:19:07+00:00",
+ "generated_at": "2026-10-16T21:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-16T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-68498 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-68498 📢 Source: HeroDevs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True StreamReadConstraints.maxNameLength (default 50,000 characters) is intended to bound how m",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-68498",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-68498:2026-10-16T21:49"
+  },
   {
    "ts": "2026-10-16T19:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111444",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111444:2026-10-16T03:49"
-  },
-  {
-   "ts": "2026-10-16T03:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109813 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-109813 📢 Source: Moxa 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False A hard-coded cryptographic key vulnerability exists in the `/usr/bin/sysman` of some of Moxa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109813",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109813:2026-10-16T03:19"
   }
  ]
 }
