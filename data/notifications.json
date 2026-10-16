@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-10-16T17:19:07+00:00",
+ "generated_at": "2026-10-16T17:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-16T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111627 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111627 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True HestiaCP before 1.10.5 contains an authorization bypass vulnerability that allows non-RO",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111627",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111627:2026-10-16T17:49"
+  },
+  {
+   "ts": "2026-10-16T17:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111626 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-111626 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Webreaper Damselfly through 4.5.3 contains an authentication bypass vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111626",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111626:2026-10-16T17:49"
+  },
+  {
+   "ts": "2026-10-16T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111622 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-111622 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True smart-sso through 2.1.1 contains an open redirect vulnerability in the /login handler th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111622",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111622:2026-10-16T17:49"
+  },
+  {
+   "ts": "2026-10-16T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111619 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-111619 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FilePress through 3.0.1 contains an sql injection vulnerability that allows authenticate",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111619",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111619:2026-10-16T17:49"
+  },
+  {
+   "ts": "2026-10-16T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111615 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-111615 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Mall4cloud through 4.0 contains an insecure direct object reference vulnerability that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111615",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111615:2026-10-16T17:49"
+  },
+  {
+   "ts": "2026-10-16T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111614 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-111614 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True DataCap through 2025.1.1 contains an insecure direct object reference vulnerability in B",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111614",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111614:2026-10-16T17:49"
+  },
+  {
+   "ts": "2026-10-16T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111613 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-111613 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True AllData through 0.7.1 contains an unauthenticated JDBC injection vulnerability that allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111613",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111613:2026-10-16T17:49"
+  },
+  {
+   "ts": "2026-10-16T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111612 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-111612 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True netdisk-fast-download through 0.4.8 contains an information disclosure vulnerability tha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111612",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111612:2026-10-16T17:49"
+  },
   {
    "ts": "2026-10-16T15:49:06+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111389",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111389:2026-10-16T01:49"
-  },
-  {
-   "ts": "2026-10-16T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111387 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-111387 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Nezha from 2.2.5 before 2.3.15 contains an information disclosure vulnerability that all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111387",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111387:2026-10-16T01:49"
-  },
-  {
-   "ts": "2026-10-16T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111384 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-111384 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Nezha 1.0.0 before 2.3.15 contains a memory exhaustion vulnerability in the dashboard fi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111384",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111384:2026-10-16T01:49"
-  },
-  {
-   "ts": "2026-10-16T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111383 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-111383 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Nezha from 2.0.13 before 2.3.15 contains a resource exhaustion vulnerability that allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111383",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111383:2026-10-16T01:49"
-  },
-  {
-   "ts": "2026-10-16T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111382 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-111382 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.0 contains a client-side heap out-of-bounds write vulnerability in g",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111382",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111382:2026-10-16T01:49"
-  },
-  {
-   "ts": "2026-10-16T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111381 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-111381 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False FreeRDP before 3.32.0 contains a heap buffer overflow vulnerability in persistent_cache",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111381",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111381:2026-10-16T01:49"
-  },
-  {
-   "ts": "2026-10-16T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111380 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-111380 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.29.0 before 3.32.0 contains an integer overflow in the Apple audin backen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111380",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111380:2026-10-16T01:49"
-  },
-  {
-   "ts": "2026-10-16T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111379 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-111379 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False FreeRDP before 3.32.0 contains a heap buffer overflow vulnerability in persistent_cache",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111379",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111379:2026-10-16T01:49"
-  },
-  {
-   "ts": "2026-10-16T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111378 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-111378 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.0.0 before 3.32.0 contains an uncontrolled resource consumption vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111378",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111378:2026-10-16T01:49"
   }
  ]
 }
