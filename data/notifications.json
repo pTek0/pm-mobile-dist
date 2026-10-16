@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-16T23:19:07+00:00",
+ "generated_at": "2026-10-16T23:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-16T23:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111823 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-111823 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encounteri",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111823",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111823:2026-10-16T23:49"
+  },
+  {
+   "ts": "2026-10-16T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] MapQuest will now show you where Flock cameras are in your n",
+   "body": "Lemmy · technology · 점수 306",
+   "link": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/:2026-10-16T23:49"
+  },
+  {
+   "ts": "2026-10-16T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I Love Software Rendering",
+   "body": "Hacker News · 점수 273",
+   "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+   "source": "Hacker News",
+   "id": "community:https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/:2026-10-16T23:49"
+  },
+  {
+   "ts": "2026-10-16T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+   "body": "Hacker News · 점수 244",
+   "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+   "source": "Hacker News",
+   "id": "community:https://machinelearning.apple.com/research/mlx-distributed-inference:2026-10-16T23:49"
+  },
+  {
+   "ts": "2026-10-16T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] hell yeah!",
+   "body": "Lemmy · programming.dev · 점수 243",
+   "link": "https://slrpnk.net/pictrs/image/e5c61b48-436a-4f7f-8804-f96dd671a694.png",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://slrpnk.net/pictrs/image/e5c61b48-436a-4f7f-8804-f96dd671a694.png:2026-10-16T23:49"
+  },
+  {
+   "ts": "2026-10-16T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Waymo in Toronto",
+   "body": "Hacker News · 점수 225",
+   "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+   "source": "Hacker News",
+   "id": "community:https://waymo.com/blog/2026/10/waymo-in-toronto/:2026-10-16T23:49"
+  },
   {
    "ts": "2026-10-16T23:19:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://futurism.com/robots-and-machines/meta-glasses-ray-ban-recording-privacy",
    "source": "Lemmy · technology",
    "id": "community:https://futurism.com/robots-and-machines/meta-glasses-ray-ban-recording-privacy:2026-10-16T11:19"
-  },
-  {
-   "ts": "2026-10-16T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109119 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-109119 📢 Source: GitLab 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper Privilege Management in the user management API endpoint (/api/users/{username_or_",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109119",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109119:2026-10-16T10:49"
-  },
-  {
-   "ts": "2026-10-16T09:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111472 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-111472 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An SQL injection vulnerability has been discovered in TSG Profleet. The vulnerability c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111472",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111472:2026-10-16T09:19"
-  },
-  {
-   "ts": "2026-10-16T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14177 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-14177 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Observable response discrepancy vulnerability in IKAS Technology Inc. Ikas E-Commerce Infra",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14177",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14177:2026-10-16T08:49"
-  },
-  {
-   "ts": "2026-10-16T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97296 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-97296 📢 Source: Patchstack 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Rocketgenius, Inc Gravity Forms gravi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97296",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97296:2026-10-16T07:19"
-  },
-  {
-   "ts": "2026-10-16T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96339 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-96339 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96339",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96339:2026-10-16T07:19"
-  },
-  {
-   "ts": "2026-10-16T07:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-94388 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-94388 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94388",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94388:2026-10-16T07:19"
   }
  ]
 }
