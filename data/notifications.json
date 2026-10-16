@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-16T21:49:07+00:00",
+ "generated_at": "2026-10-16T22:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-16T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-62439 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-62439 📢 Source: redhat 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A flaw was found in GIMP. An integer overflow occurs in the file-pvr plug-in when calculating",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62439",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62439:2026-10-16T22:19"
+  },
   {
    "ts": "2026-10-16T21:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111445",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111445:2026-10-16T04:19"
-  },
-  {
-   "ts": "2026-10-16T03:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111444 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-111444 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111444",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111444:2026-10-16T03:49"
   }
  ]
 }
