@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-16T14:49:10+00:00",
+ "generated_at": "2026-10-16T15:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-16T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107777 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-107777 📢 Source: icscert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Thermo Fisher Torrent Suite Software is vulnerable to a path traversal, which could allow ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107777",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107777:2026-10-16T15:19"
+  },
+  {
+   "ts": "2026-10-16T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105667 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-105667 📢 Source: icscert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In the default configuration, the HL7 listener accepts ADT^A40 patient-merge messages with",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105667",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105667:2026-10-16T15:19"
+  },
+  {
+   "ts": "2026-10-16T15:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105279 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-105279 📢 Source: icscert 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True In the default configuration, the archive accepts DICOM associations from an unregiste",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105279",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105279:2026-10-16T15:19"
+  },
   {
    "ts": "2026-10-16T14:49:08+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111377",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111377:2026-10-16T01:49"
-  },
-  {
-   "ts": "2026-10-16T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105228 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-105228 📢 Source: Deltaww 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True This vulnerability allows remote attackers to disclose sensitive information on affected ins",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105228",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105228:2026-10-16T01:49"
-  },
-  {
-   "ts": "2026-10-16T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105227 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-105227 📢 Source: Deltaww 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True This vulnerability allows remote attackers to disclose sensitive information on affected ins",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105227",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105227:2026-10-16T01:49"
-  },
-  {
-   "ts": "2026-10-16T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Online ads weaponised to deliver ‘zero-click’ spyware, resea",
-   "body": "Lemmy · technology · 점수 78",
-   "link": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say:2026-10-16T00:49"
   }
  ]
 }
