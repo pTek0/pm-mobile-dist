@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-16T03:49:09+00:00",
+ "generated_at": "2026-10-16T04:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-16T04:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111451 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-111451 📢 Source: mitre 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Wheels CLI 4.0.0 through 4.1.1 insufficiently validates or escapes caller-supplied values a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111451",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111451:2026-10-16T04:19"
+  },
+  {
+   "ts": "2026-10-16T04:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111447 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-111447 📢 Source: mitre 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Wheels 1.1 through 4.1.2 resolves nestedProperties() records by posted primary key without c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111447",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111447:2026-10-16T04:19"
+  },
+  {
+   "ts": "2026-10-16T04:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111446 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111446 📢 Source: mitre 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Wheels 4.0.0 through 4.1.2 exposes password-less development tools under /wheels/* to remote",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111446",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111446:2026-10-16T04:19"
+  },
+  {
+   "ts": "2026-10-16T04:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111445 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-111445 📢 Source: mitre 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Wheels 4.0.0 through 4.1.2 before 4.2.0 replaces incoming scope conditions with a primary-ke",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111445",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111445:2026-10-16T04:19"
+  },
   {
    "ts": "2026-10-16T03:49:07+00:00",
    "level": "important",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108431",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108431:2026-10-15T21:19"
-  },
-  {
-   "ts": "2026-10-15T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108430 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-108430 📢 Source: microsoft 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-15T20:57:18.959Z https://cvefeed.io/vuln/detail/CVE-2026",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108430",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108430:2026-10-15T21:19"
-  },
-  {
-   "ts": "2026-10-15T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108429 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-108429 📢 Source: microsoft 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-15T20:57:18.497Z https://cvefeed.io/vuln/detail/CVE-2026",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108429",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108429:2026-10-15T21:19"
-  },
-  {
-   "ts": "2026-10-15T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108428 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-108428 📢 Source: microsoft 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-15T20:57:18.040Z https://cvefeed.io/vuln/detail/CVE-2026",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108428",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108428:2026-10-15T21:19"
-  },
-  {
-   "ts": "2026-10-15T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108427 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-108427 📢 Source: microsoft 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-15T20:57:17.525Z https://cvefeed.io/vuln/detail/CVE-2026",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108427",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108427:2026-10-15T21:19"
   }
  ]
 }
