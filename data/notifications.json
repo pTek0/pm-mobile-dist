@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-16T15:19:08+00:00",
+ "generated_at": "2026-10-16T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-16T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96424 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-96424 📢 Source: GitLab 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Incorrect DBus policy for lomiri-upload-manager (part of lomiri-download-manager) allows ar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96424",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96424:2026-10-16T15:49"
+  },
   {
    "ts": "2026-10-16T15:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111378",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111378:2026-10-16T01:49"
-  },
-  {
-   "ts": "2026-10-16T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111377 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-111377 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 2.0.0 before 3.32.0 contains an unbounded reassembly vulnerability in WTSPr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111377",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111377:2026-10-16T01:49"
   }
  ]
 }
