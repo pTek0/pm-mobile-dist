@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-16T02:49:08+00:00",
+ "generated_at": "2026-10-16T03:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-16T03:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109813 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-109813 📢 Source: Moxa 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False A hard-coded cryptographic key vulnerability exists in the `/usr/bin/sysman` of some of Moxa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109813",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109813:2026-10-16T03:19"
+  },
   {
    "ts": "2026-10-16T01:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108426",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108426:2026-10-15T21:19"
-  },
-  {
-   "ts": "2026-10-15T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105040 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-105040 📢 Source: AHA 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The EnergizeLab Eilik NestJS auth service accepts a user-controlled user ID in account update ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105040",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105040:2026-10-15T21:19"
   }
  ]
 }
