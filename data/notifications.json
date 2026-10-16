@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-16T22:49:07+00:00",
+ "generated_at": "2026-10-16T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-16T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Tesla Roadster",
+   "body": "Hacker News · 점수 1040",
+   "link": "https://www.tesla.com/roadster",
+   "source": "Hacker News",
+   "id": "community:https://www.tesla.com/roadster:2026-10-16T23:19"
+  },
+  {
+   "ts": "2026-10-16T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] You just sit in a chair and watch",
+   "body": "Lemmy · programming.dev · 점수 687",
+   "link": "https://infosec.pub/api/v3/image_proxy?url=https%3A%2F%2Fpiefed.jeena.net%2Fstatic%2Fmedia%2Fposts%2FSG%2FKo%2FSGKoZMSmoxjYZAa.png",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://infosec.pub/api/v3/image_proxy?url=https%3A%2F%2Fpiefed.jeena.net%2Fstatic%2Fmedia%2Fposts%2FSG%2FKo%2FSGKoZMSmoxjYZAa.png:2026-10-16T23:19"
+  },
+  {
+   "ts": "2026-10-16T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Claude reveals ECDSA curve origins",
+   "body": "Hacker News · 점수 533",
+   "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "source": "Hacker News",
+   "id": "community:https://www.anthropic.com/research/ecdsa-curve-origins:2026-10-16T23:19"
+  },
+  {
+   "ts": "2026-10-16T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] 90% of US working hours are spent on tasks not covered well ",
+   "body": "Hacker News · 점수 349",
+   "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+   "source": "Hacker News",
+   "id": "community:https://www.mercor.com/research/labor-index/benchmark-map/:2026-10-16T23:19"
+  },
+  {
+   "ts": "2026-10-16T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] limitations",
+   "body": "Lemmy · programming.dev · 점수 311",
+   "link": "https://techresearchonline.com/wp-content/uploads/2022/08/face-meme.webp",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://techresearchonline.com/wp-content/uploads/2022/08/face-meme.webp:2026-10-16T23:19"
+  },
   {
    "ts": "2026-10-16T22:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94388",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94388:2026-10-16T07:19"
-  },
-  {
-   "ts": "2026-10-16T07:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-94169 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-94169 📢 Source: Patchstack 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Improper Control of Generation of Code ('Code Injection') vulnerability in Theme-one ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94169",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94169:2026-10-16T07:19"
-  },
-  {
-   "ts": "2026-10-16T04:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111451 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-111451 📢 Source: mitre 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Wheels CLI 4.0.0 through 4.1.1 insufficiently validates or escapes caller-supplied values a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111451",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111451:2026-10-16T04:19"
-  },
-  {
-   "ts": "2026-10-16T04:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111447 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-111447 📢 Source: mitre 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Wheels 1.1 through 4.1.2 resolves nestedProperties() records by posted primary key without c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111447",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111447:2026-10-16T04:19"
-  },
-  {
-   "ts": "2026-10-16T04:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111446 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-111446 📢 Source: mitre 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Wheels 4.0.0 through 4.1.2 exposes password-less development tools under /wheels/* to remote",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111446",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111446:2026-10-16T04:19"
-  },
-  {
-   "ts": "2026-10-16T04:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111445 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-111445 📢 Source: mitre 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Wheels 4.0.0 through 4.1.2 before 4.2.0 replaces incoming scope conditions with a primary-ke",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111445",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111445:2026-10-16T04:19"
   }
  ]
 }
