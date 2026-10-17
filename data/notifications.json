@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-17T10:49:08+00:00",
+ "generated_at": "2026-10-17T11:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-17T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110889 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-110889 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Generation of Error Message Containing Sensitive Information vulnerability in Gantry Ga",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110889",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110889:2026-10-17T11:19"
+  },
+  {
+   "ts": "2026-10-17T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] You could have invented transformers from memory",
+   "body": "Hacker News · 점수 314",
+   "link": "https://alexwang.ai/posts/associative-memory/",
+   "source": "Hacker News",
+   "id": "community:https://alexwang.ai/posts/associative-memory/:2026-10-17T11:19"
+  },
+  {
+   "ts": "2026-10-17T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Llama.cpp on a jailbroken PS5: run any GGUF model natively o",
+   "body": "Hacker News · 점수 295",
+   "link": "https://github.com/cobanov/PS5LM",
+   "source": "Hacker News",
+   "id": "community:https://github.com/cobanov/PS5LM:2026-10-17T11:19"
+  },
+  {
+   "ts": "2026-10-17T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Ultramarine 1 Flash",
+   "body": "Hacker News · 점수 255",
+   "link": "https://www.paperinstruments.com/ultramarine",
+   "source": "Hacker News",
+   "id": "community:https://www.paperinstruments.com/ultramarine:2026-10-17T11:19"
+  },
+  {
+   "ts": "2026-10-17T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Butlerian Jihad",
+   "body": "Hacker News · 점수 239",
+   "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+   "source": "Hacker News",
+   "id": "community:https://dune.fandom.com/wiki/Butlerian_Jihad:2026-10-17T11:19"
+  },
+  {
+   "ts": "2026-10-17T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] free xray",
+   "body": "Lemmy · programming.dev · 점수 168",
+   "link": "https://programming.dev/pictrs/image/61975972-3c2a-4155-80d1-b7c64d5021af.webp",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://programming.dev/pictrs/image/61975972-3c2a-4155-80d1-b7c64d5021af.webp:2026-10-17T11:19"
+  },
   {
    "ts": "2026-10-17T07:19:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101021",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101021:2026-10-16T14:49"
-  },
-  {
-   "ts": "2026-10-16T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107617 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-107617 📢 Source: icscert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An attacker can use a hard-coded credential to log in to EseeCloud devices. 📅 Publishe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107617",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107617:2026-10-16T14:19"
-  },
-  {
-   "ts": "2026-10-16T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-18516 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-18516 📢 Source: GitLab 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True An output escaping vulnerability in the Audit Logs component of Crafty Controller allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18516",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18516:2026-10-16T14:19"
-  },
-  {
-   "ts": "2026-10-16T13:49:12+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111413 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-111413 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in aThemeArt aThemeArt Theme Helper ath",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111413",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111413:2026-10-16T13:49"
-  },
-  {
-   "ts": "2026-10-16T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111396 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-111396 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Liquid Web / StellarWP Advanced Post Manager adv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111396",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111396:2026-10-16T13:19"
-  },
-  {
-   "ts": "2026-10-16T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107564 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-107564 📢 Source: CERTVDE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An unauthenticated remote attacker may use an allocation of resources without limits or th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107564",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107564:2026-10-16T13:19"
-  },
-  {
-   "ts": "2026-10-16T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111399 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-111399 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111399",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111399:2026-10-16T12:49"
   }
  ]
 }
