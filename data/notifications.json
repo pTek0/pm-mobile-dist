@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-17T01:49:07+00:00",
+ "generated_at": "2026-10-17T02:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-17T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111855 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-111855 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. A path traversal vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111855",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111855:2026-10-17T02:19"
+  },
+  {
+   "ts": "2026-10-17T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111854 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-111854 📢 Source: mitre 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. A path traversal vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111854",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111854:2026-10-17T02:19"
+  },
+  {
+   "ts": "2026-10-17T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111853 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-111853 📢 Source: mitre 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. An OS command injec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111853",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111853:2026-10-17T02:19"
+  },
   {
    "ts": "2026-10-17T00:49:06+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105958",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105958:2026-10-16T12:49"
-  },
-  {
-   "ts": "2026-10-16T12:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105959 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-105959 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in spice-server. The GLZ encoder dictionary restore path truncates a size_",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105959",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105959:2026-10-16T12:19"
-  },
-  {
-   "ts": "2026-10-16T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Haxy on Haxy",
-   "body": "Lobsters · 점수 50",
-   "link": "https://try.haxy.net/haxy:haxy",
-   "source": "Lobsters",
-   "id": "community:https://try.haxy.net/haxy:haxy:2026-10-16T12:19"
-  },
-  {
-   "ts": "2026-10-16T11:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111391 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-111391 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True SGLang 0.5.10 through 0.5.22 contains a code injection vulnerability in _evaluate_fi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111391",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111391:2026-10-16T11:49"
   }
  ]
 }
