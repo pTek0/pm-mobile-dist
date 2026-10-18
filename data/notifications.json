@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-10-18T11:19:10+00:00",
+ "generated_at": "2026-10-18T11:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-18T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112017 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-112017 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True JeecgBoot before 3.9.5 contains an sql injection vulnerability that allows authenticated",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112017",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112017:2026-10-18T11:49"
+  },
+  {
+   "ts": "2026-10-18T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112015 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-112015 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Omnigent 0.3.0 before 0.14.0 contains a path traversal vulnerability that allows authent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112015",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112015:2026-10-18T11:49"
+  },
+  {
+   "ts": "2026-10-18T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112006 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-112006 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True OpenTelemetry opentelemetry-exporter-otlp-proto-http 1.5.0 before 1.45.0 contains an imp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112006",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112006:2026-10-18T11:49"
+  },
+  {
+   "ts": "2026-10-18T11:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112005 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-112005 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True WhoDB 0.104.0 before 0.135.0 contains a path traversal vulnerability that allows rem",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112005",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112005:2026-10-18T11:49"
+  },
+  {
+   "ts": "2026-10-18T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112002 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-112002 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True ProjectSend 2.5.0 before 2.7.0 contains an unverified password change vulnerability in P",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112002",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112002:2026-10-18T11:49"
+  },
+  {
+   "ts": "2026-10-18T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112001 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-112001 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True ProjectSend 2.0.0 before 2.7.0 contains an incorrect authorization vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112001",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112001:2026-10-18T11:49"
+  },
+  {
+   "ts": "2026-10-18T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112000 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-112000 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Vanus 0.8.0 through 0.9.0 contains a missing authorization vulnerability in the gateway ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112000",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112000:2026-10-18T11:49"
+  },
+  {
+   "ts": "2026-10-18T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111999 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-111999 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Vanus 0.8.0 through 0.9.0 contains a missing authentication vulnerability that allows un",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111999",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111999:2026-10-18T11:49"
+  },
+  {
+   "ts": "2026-10-18T11:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111998 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-111998 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Vanus 0.8.0 through 0.9.0 contains a default credentials vulnerability that allows u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111998",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111998:2026-10-18T11:49"
+  },
+  {
+   "ts": "2026-10-18T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Free Anti-Virus Software [System32Comics]",
+   "body": "Lemmy · programming.dev · 점수 54",
+   "link": "https://infosec.pub/api/v3/image_proxy?url=https%3A%2F%2Flemmy.zip%2Fpictrs%2Fimage%2F9fbff133-7885-48d6-820f-79d05b5696a6.avif",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://infosec.pub/api/v3/image_proxy?url=https%3A%2F%2Flemmy.zip%2Fpictrs%2Fimage%2F9fbff133-7885-48d6-820f-79d05b5696a6.avif:2026-10-18T11:49"
+  },
+  {
+   "ts": "2026-10-18T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] OpenAI Confirms Its AI Model Hacked Government Website While",
+   "body": "Lemmy · technology · 점수 53",
+   "link": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/",
+   "source": "Lemmy · technology",
+   "id": "community:https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/:2026-10-18T11:49"
+  },
+  {
+   "ts": "2026-10-18T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] New Meta Commercial Terms Raise Questions for Steampunk Crea",
+   "body": "Lemmy · technology · 점수 52",
+   "link": "https://steampunk-explorer.com/news/new-meta-commercial-terms-raise-questions-steampunk-creators",
+   "source": "Lemmy · technology",
+   "id": "community:https://steampunk-explorer.com/news/new-meta-commercial-terms-raise-questions-steampunk-creators:2026-10-18T11:49"
+  },
+  {
+   "ts": "2026-10-18T11:49:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Microsoft Wants to Protect Your Linux Desktop with Defender",
+   "body": "Lemmy · programming.dev · 점수 51",
+   "link": "https://linuxiac.com/microsoft-wants-to-protect-your-linux-desktop-with-defender/",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://linuxiac.com/microsoft-wants-to-protect-your-linux-desktop-with-defender/:2026-10-18T11:49"
+  },
   {
    "ts": "2026-10-18T11:19:07+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111897",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111897:2026-10-17T19:19"
-  },
-  {
-   "ts": "2026-10-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111895 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-111895 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ 3.2.0 before 4.0.0 and 4.0.2 before 4.2.0-beta contains an authentication bypas",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111895",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111895:2026-10-17T19:19"
-  },
-  {
-   "ts": "2026-10-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111893 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-111893 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ 4.2.0-alpha before 4.2.0-beta contains a privilege escalation vulnerability in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111893",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111893:2026-10-17T19:19"
-  },
-  {
-   "ts": "2026-10-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111891 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-111891 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ from 4.2.0-alpha.2 before 4.2.0-beta contains a privilege escalation vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111891",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111891:2026-10-17T19:19"
-  },
-  {
-   "ts": "2026-10-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111890 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-111890 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ from 4.2.0-alpha.2 before 4.2.0-beta contains a privilege escalation vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111890",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111890:2026-10-17T19:19"
-  },
-  {
-   "ts": "2026-10-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111886 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-111886 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ from 4.2.0-alpha.2 before 4.2.0-beta lacks brute-force lockout in the removeTwo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111886",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111886:2026-10-17T19:19"
-  },
-  {
-   "ts": "2026-10-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111885 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-111885 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ from 4.2.0-alpha before 4.2.0-beta contains a missing authorization vulnerability",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111885",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111885:2026-10-17T19:19"
-  },
-  {
-   "ts": "2026-10-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111884 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-111884 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ before 4.1.9 and 4.2.0-alpha before 4.2.0-beta does not require the current pas",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111884",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111884:2026-10-17T19:19"
-  },
-  {
-   "ts": "2026-10-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111882 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-111882 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ 3.2.0-alpha before 4.1.9 and 4.2.0-alpha before 4.2.0-beta contains an authenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111882",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111882:2026-10-17T19:19"
-  },
-  {
-   "ts": "2026-10-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111881 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-111881 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.14.1 before 3.32.0 contains an integer underflow in the WinPR BMP writer,",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111881",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111881:2026-10-17T19:19"
-  },
-  {
-   "ts": "2026-10-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111880 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-111880 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True FreeRDP versions from 2.0.0 before 3.32.0 contain a heap out-of-bounds write in the serv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111880",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111880:2026-10-17T19:19"
-  },
-  {
-   "ts": "2026-10-17T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109701 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-109701 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109701",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109701:2026-10-17T17:19"
-  },
-  {
-   "ts": "2026-10-17T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
-   "body": "Lobsters · 점수 79",
-   "link": "https://words.filippo.io/seeds-solved/",
-   "source": "Lobsters",
-   "id": "community:https://words.filippo.io/seeds-solved/:2026-10-17T11:49"
-  },
-  {
-   "ts": "2026-10-17T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft bringing Defender to Linux desktops. Repeat: Micro",
-   "body": "Lemmy · programming.dev · 점수 63",
-   "link": "https://www.theregister.com/os-platforms/2026/10/16/microsoft-bringing-defender-to-linux-desktops-repeat-microsoft-bringing-defender-to-linux-desktops/5303477",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.theregister.com/os-platforms/2026/10/16/microsoft-bringing-defender-to-linux-desktops-repeat-microsoft-bringing-defender-to-linux-desktops/5303477:2026-10-17T11:49"
   }
  ]
 }
