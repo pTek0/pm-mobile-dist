@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-19T17:19:07+00:00",
+ "generated_at": "2026-10-19T17:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-19T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-3295 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-3295 📢 Source: ibm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True IBM Cloud Pak System 2.3.6.0 , and 2.3.6.1 is vulnerable to cross site scripting. The web app us",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-3295",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-3295:2026-10-19T17:49"
+  },
+  {
+   "ts": "2026-10-19T17:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112377 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-112377 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True CCC Attestation SIG attested-tls-poc through commit 731ca82 fails to bind early atte",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112377",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112377:2026-10-19T17:49"
+  },
+  {
+   "ts": "2026-10-19T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-6719 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-6719 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Concert 1.0 through 3.0.0 uses weaker than expected cryptographic algorithms that could allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6719",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6719:2026-10-19T17:49"
+  },
   {
    "ts": "2026-10-19T16:49:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-79985",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79985:2026-10-19T10:49"
-  },
-  {
-   "ts": "2026-10-19T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79984 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-79984 📢 Source: apache 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79984",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79984:2026-10-19T10:49"
-  },
-  {
-   "ts": "2026-10-19T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79983 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-79983 📢 Source: apache 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79983",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79983:2026-10-19T10:49"
-  },
-  {
-   "ts": "2026-10-19T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-78165 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-78165 📢 Source: apache 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Apache Camel Spring Redis component. This",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78165",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78165:2026-10-19T10:49"
   }
  ]
 }
