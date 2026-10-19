@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-19T13:19:07+00:00",
+ "generated_at": "2026-10-19T13:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-19T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-8168 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-8168 📢 Source: Qt 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Uncontrolled recursion in the SVG parser and renderer of the Qt SVG module (QtSvg) in Qt Group Qt",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8168",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8168:2026-10-19T13:49"
+  },
   {
    "ts": "2026-10-19T12:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://futurism.com/robots-and-machines/livestreamers-film-themselves-robot-assault-girl",
    "source": "Lemmy · technology",
    "id": "community:https://futurism.com/robots-and-machines/livestreamers-film-themselves-robot-assault-girl:2026-10-19T00:49"
-  },
-  {
-   "ts": "2026-10-19T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Bosses Deploying AI-Powered Spyware That Watches Workers Con",
-   "body": "Lemmy · technology · 점수 85",
-   "link": "https://futurism.com/artificial-intelligence/bosses-ai-software-watches-workers",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/bosses-ai-software-watches-workers:2026-10-19T00:49"
   }
  ]
 }
