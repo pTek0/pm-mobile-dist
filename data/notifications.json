@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-19T05:19:07+00:00",
+ "generated_at": "2026-10-19T05:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-19T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16487 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-16487 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A flaw was found in bootc when operating with the default containers signature policy. Autom",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16487",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16487:2026-10-19T05:49"
+  },
+  {
+   "ts": "2026-10-19T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108120 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-108120 📢 Source: NCSC.ch 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Brian Mariani from DigitalCanion SA has discovered a path traversal vulnerability in the V",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108120",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108120:2026-10-19T05:49"
+  },
   {
    "ts": "2026-10-19T04:19:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110382",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110382:2026-10-18T11:19"
-  },
-  {
-   "ts": "2026-10-18T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110373 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-110373 📢 Source: Patchstack 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in Hamid Alinia Login with phone number lo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110373",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110373:2026-10-18T11:19"
-  },
-  {
-   "ts": "2026-10-18T11:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-110372 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-110372 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in Brainstorm Force OttoKit suretrigge",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110372",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110372:2026-10-18T11:19"
   }
  ]
 }
