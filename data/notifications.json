@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-19T06:49:08+00:00",
+ "generated_at": "2026-10-19T07:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-19T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76740 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-76740 📢 Source: hpe 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A security vulnerability in HPE Compute Scale-up Server 3200 and 3250 platforms, Superdome Flex",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76740",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76740:2026-10-19T07:19"
+  },
+  {
+   "ts": "2026-10-19T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16460 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-16460 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False A flaw was found in bootc and ostree. Already-staged deployments are finalized without reva",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16460",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16460:2026-10-19T07:19"
+  },
   {
    "ts": "2026-10-19T05:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110886",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110886:2026-10-18T11:19"
-  },
-  {
-   "ts": "2026-10-18T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110383 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-110383 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key vulnerability in WP E-Signature Electr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110383",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110383:2026-10-18T11:19"
-  },
-  {
-   "ts": "2026-10-18T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110382 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-110382 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110382",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110382:2026-10-18T11:19"
   }
  ]
 }
