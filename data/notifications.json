@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-19T03:49:08+00:00",
+ "generated_at": "2026-10-19T04:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-19T04:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111440 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-111440 📢 Source: openGauss 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False 在 openGauss-connector-jdbc 的 pgjdbc/src/main/java/org/postgresql/log/ LogFactory.java 中，L",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111440",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111440:2026-10-19T04:19"
+  },
   {
    "ts": "2026-10-19T02:49:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110372",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110372:2026-10-18T11:19"
-  },
-  {
-   "ts": "2026-10-18T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109895 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-109895 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109895",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109895:2026-10-18T11:19"
   }
  ]
 }
