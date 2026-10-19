@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-10-19T16:19:07+00:00",
+ "generated_at": "2026-10-19T16:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-19T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12148 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-12148 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM MQ Operator could allow an authenticated attacker to cause a denial of service or potential",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12148",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12148:2026-10-19T16:49"
+  },
+  {
+   "ts": "2026-10-19T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10743 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-10743 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM MQ could allow an authenticated attacker to cause a denial of service or corrupt memory due",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10743",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10743:2026-10-19T16:49"
+  },
+  {
+   "ts": "2026-10-19T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10574 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-10574 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM MQ could allow an authenticated attacker to cause a denial of service or potentially execut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10574",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10574:2026-10-19T16:49"
+  },
+  {
+   "ts": "2026-10-19T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10572 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-10572 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM MQ could allow an authenticated attacker to cause a denial of service or potentially execut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10572",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10572:2026-10-19T16:49"
+  },
+  {
+   "ts": "2026-10-19T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107188 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-107188 📢 Source: rapid7 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True A user can upload export reports with any file contents and specify any contents. JSP c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107188",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107188:2026-10-19T16:49"
+  },
+  {
+   "ts": "2026-10-19T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107187 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-107187 📢 Source: rapid7 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True A user can access any database details, such as usernames and passwords by sending a DWR re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107187",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107187:2026-10-19T16:49"
+  },
+  {
+   "ts": "2026-10-19T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107186 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-107186 📢 Source: rapid7 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An unauthenticated user can send a DWR request with isPasswordUppercase as one call method ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107186",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107186:2026-10-19T16:49"
+  },
+  {
+   "ts": "2026-10-19T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-10149 (CVSS 8.2)",
+   "body": "🚨 CVE-2025-10149 📢 Source: WSO2 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True The SCIM endpoint does not sufficiently validate authorization for federated users when perfor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-10149",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-10149:2026-10-19T16:49"
+  },
   {
    "ts": "2026-10-19T16:19:06+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78165",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78165:2026-10-19T10:49"
-  },
-  {
-   "ts": "2026-10-19T10:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-78162 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-78162 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Apache Camel. This issue affects Apach",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78162",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78162:2026-10-19T10:49"
-  },
-  {
-   "ts": "2026-10-19T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111408 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-111408 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in ExpressTech Quiz And Survey Master q",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111408",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111408:2026-10-19T09:49"
-  },
-  {
-   "ts": "2026-10-19T09:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111406 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-111406 📢 Source: Patchstack 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Unrestricted Upload of File with Dangerous Type vulnerability in PT Norther Lights ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111406",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111406:2026-10-19T09:49"
-  },
-  {
-   "ts": "2026-10-19T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111398 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-111398 📢 Source: Patchstack 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111398",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111398:2026-10-19T09:49"
-  },
-  {
-   "ts": "2026-10-19T09:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-110887 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-110887 📢 Source: Patchstack 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Improper Control of Generation of Code ('Code Injection') vulnerability in HivePres",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110887",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110887:2026-10-19T09:49"
-  },
-  {
-   "ts": "2026-10-19T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110379 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-110379 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110379",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110379:2026-10-19T09:49"
-  },
-  {
-   "ts": "2026-10-19T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-13695 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-13695 📢 Source: INCIBE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SQL injection (SQLi) vulnerability—specifically a UNION-based vulnerability—in the Integrate",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13695",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13695:2026-10-19T09:19"
-  },
-  {
-   "ts": "2026-10-19T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112161 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-112161 📢 Source: INCIBE 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False MobaXterm Personal Edition (Portable) 26.4 GA extracts the CygUtils64.plugin file without ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112161",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112161:2026-10-19T08:49"
   }
  ]
 }
