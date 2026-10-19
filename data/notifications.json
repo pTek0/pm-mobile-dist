@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-19T20:19:07+00:00",
+ "generated_at": "2026-10-19T20:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-19T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76788 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76788 📢 Source: zephyr 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The OSDP Control Panel reply parser cp_decode_response() in subsys/mgmt/osdp/src/osdp_cp.c ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76788",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76788:2026-10-19T20:49"
+  },
   {
    "ts": "2026-10-19T20:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-88900",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88900:2026-10-19T11:49"
-  },
-  {
-   "ts": "2026-10-19T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I built a programming language that LLMs can't use",
-   "body": "Hacker News · 점수 201",
-   "link": "https://blog.picheta.me/post/killswitch-lang/",
-   "source": "Hacker News",
-   "id": "community:https://blog.picheta.me/post/killswitch-lang/:2026-10-19T11:49"
   }
  ]
 }
