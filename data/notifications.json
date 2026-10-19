@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-10-19T15:19:07+00:00",
+ "generated_at": "2026-10-19T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-19T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107571 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-107571 📢 Source: GitLab 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Incorrect default permissions in the Windows installer of Progressive Robot hMailServer 6.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107571",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107571:2026-10-19T15:49"
+  },
+  {
+   "ts": "2026-10-19T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107569 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-107569 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Unchecked input for a loop condition in Progressive Robot hMailServer 6.0.0 through 6.3.6 a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107569",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107569:2026-10-19T15:49"
+  },
+  {
+   "ts": "2026-10-19T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107567 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-107567 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Use of a less trusted source in the DKIM signing of Progressive Robot hMailServer 6.0.0 thr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107567",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107567:2026-10-19T15:49"
+  },
+  {
+   "ts": "2026-10-19T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112366 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-112366 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Picomatch through 4.0.7 contains a regular expression denial of service vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112366",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112366:2026-10-19T15:49"
+  },
+  {
+   "ts": "2026-10-19T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112309 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-112309 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True @rvf/set-get before 7.0.4 contains a prototype pollution vulnerability in setPath that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112309",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112309:2026-10-19T15:49"
+  },
+  {
+   "ts": "2026-10-19T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112308 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-112308 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True crewai-tools through 1.15.28 contains a server-side request forgery vulnerability in Sel",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112308",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112308:2026-10-19T15:49"
+  },
+  {
+   "ts": "2026-10-19T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112307 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-112307 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False sqlparse through 0.6.0 contains a PHP code injection vulnerability that allows attacker",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112307",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112307:2026-10-19T15:49"
+  },
+  {
+   "ts": "2026-10-19T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112306 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-112306 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True NocoBase @nocobase /plugin-collection-sql through 2.2.28 contains an SQL injection vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112306",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112306:2026-10-19T15:49"
+  },
+  {
+   "ts": "2026-10-19T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112305 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-112305 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Semaphore UI through 2.19.16 contains a remote code execution vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112305",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112305:2026-10-19T15:49"
+  },
+  {
+   "ts": "2026-10-19T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112304 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-112304 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True docTR through 1.1.0 contains an unsafe deserialization vulnerability in load_pretrained_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112304",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112304:2026-10-19T15:49"
+  },
   {
    "ts": "2026-10-19T14:19:06+00:00",
    "level": "important",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-104679",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104679:2026-10-19T08:49"
-  },
-  {
-   "ts": "2026-10-19T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76740 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-76740 📢 Source: hpe 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A security vulnerability in HPE Compute Scale-up Server 3200 and 3250 platforms, Superdome Flex",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76740",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76740:2026-10-19T07:19"
-  },
-  {
-   "ts": "2026-10-19T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16460 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-16460 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False A flaw was found in bootc and ostree. Already-staged deployments are finalized without reva",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16460",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16460:2026-10-19T07:19"
-  },
-  {
-   "ts": "2026-10-19T05:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16487 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-16487 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A flaw was found in bootc when operating with the default containers signature policy. Autom",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16487",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16487:2026-10-19T05:49"
-  },
-  {
-   "ts": "2026-10-19T05:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108120 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-108120 📢 Source: NCSC.ch 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Brian Mariani from DigitalCanion SA has discovered a path traversal vulnerability in the V",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108120",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108120:2026-10-19T05:49"
-  },
-  {
-   "ts": "2026-10-19T04:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111440 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-111440 📢 Source: openGauss 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False 在 openGauss-connector-jdbc 的 pgjdbc/src/main/java/org/postgresql/log/ LogFactory.java 中，L",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111440",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111440:2026-10-19T04:19"
-  },
-  {
-   "ts": "2026-10-19T02:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103091 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-103091 📢 Source: Google 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Missing Authorization (CWE-862) and Initialization of a Resource with an Insecure Defau",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103091",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103091:2026-10-19T02:49"
-  },
-  {
-   "ts": "2026-10-19T02:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-102503 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-102503 📢 Source: Google 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Missing Authentication for Critical Function (CWE-306) and Missing Authorization (CWE-8",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102503",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102503:2026-10-19T02:49"
-  },
-  {
-   "ts": "2026-10-19T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108984 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-108984 📢 Source: GV 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A vulnerability is in Web Server default connection ports under the process name GeoWebServer.e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108984",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108984:2026-10-19T01:49"
-  },
-  {
-   "ts": "2026-10-19T01:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-108983 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-108983 📢 Source: GV 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability is in Web Server default connection ports under the process name GeoWebServ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108983",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108983:2026-10-19T01:49"
-  },
-  {
-   "ts": "2026-10-19T01:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Lawsuit against the Trump administration over alleged survei",
-   "body": "Lemmy · programming.dev · 점수 61",
-   "link": "https://www.eff.org/deeplinks/2026/10/our-lawsuit-against-trump-administrations-social-media-surveillance-moves-forward",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.eff.org/deeplinks/2026/10/our-lawsuit-against-trump-administrations-social-media-surveillance-moves-forward:2026-10-19T01:19"
   }
  ]
 }
