@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-10-19T19:19:07+00:00",
+ "generated_at": "2026-10-19T19:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-19T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112260 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-112260 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A flaw was found in GIMP. Opening a crafted XCF with a malformed text-layer parasite can c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112260",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112260:2026-10-19T19:49"
+  },
+  {
+   "ts": "2026-10-19T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112782 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-112782 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Grav 1.7.53 before 1.7.53.5 and 2.0.0-rc.8 before 2.2.2 contains a resource exhaustion v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112782",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112782:2026-10-19T19:49"
+  },
+  {
+   "ts": "2026-10-19T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112781 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-112781 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Grav from 2.0.0 before 2.2.2 contains an information disclosure vulnerability that allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112781",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112781:2026-10-19T19:49"
+  },
+  {
+   "ts": "2026-10-19T19:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112780 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-112780 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Grav from 2.0.15 before 2.2.2 contains an allowlist bypass vulnerability that allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112780",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112780:2026-10-19T19:49"
+  },
+  {
+   "ts": "2026-10-19T19:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112779 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-112779 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Grav API plugin (grav-plugin-api) 1.0.40 before 1.0.42 caches a full translation dic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112779",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112779:2026-10-19T19:49"
+  },
+  {
+   "ts": "2026-10-19T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112777 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-112777 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Craft CMS 4.x before 4.18.8 and 5.x before 5.11.0 contains a blocklist bypass in the Twi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112777",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112777:2026-10-19T19:49"
+  },
+  {
+   "ts": "2026-10-19T19:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112776 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-112776 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Craft CMS from 5.0.0 before 5.11.0 contains an authorization bypass vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112776",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112776:2026-10-19T19:49"
+  },
+  {
+   "ts": "2026-10-19T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112775 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-112775 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Craft CMS from 5.0.0 before 5.11.0 contains an authentication bypass vulnerability that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112775",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112775:2026-10-19T19:49"
+  },
+  {
+   "ts": "2026-10-19T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112774 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-112774 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Craft CMS from 5.8.0 before 5.11.0 contains a remote code execution vulnerability that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112774",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112774:2026-10-19T19:49"
+  },
+  {
+   "ts": "2026-10-19T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112773 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-112773 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Craft CMS from 5.0.0 before 5.11.0 contains a remote code execution vulnerability that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112773",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112773:2026-10-19T19:49"
+  },
+  {
+   "ts": "2026-10-19T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112772 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-112772 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Craft CMS from 5.0.0 before 5.11.0 contains a remote code execution vulnerability that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112772",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112772:2026-10-19T19:49"
+  },
+  {
+   "ts": "2026-10-19T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112771 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-112771 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Craft CMS 4.0.0 before 4.18.8 and 5.0.0 before 5.11.0 contains a Twig sandbox allowlist ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112771",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112771:2026-10-19T19:49"
+  },
+  {
+   "ts": "2026-10-19T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112770 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-112770 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Craft CMS 4.x before 4.18.8 and 5.x before 5.11.0 contains a remote code execution vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112770",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112770:2026-10-19T19:49"
+  },
   {
    "ts": "2026-10-19T18:49:06+00:00",
    "level": "important",
@@ -371,136 +501,6 @@
    "link": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
    "source": "Lobsters",
    "id": "community:https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen:2026-10-19T11:49"
-  },
-  {
-   "ts": "2026-10-19T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Linux Kernel 7.3 Release is Good News For Gamers Short on VR",
-   "body": "Lemmy · programming.dev · 점수 62",
-   "link": "https://itsfoss.com/news/linux-kernel-7-3-release/",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://itsfoss.com/news/linux-kernel-7-3-release/:2026-10-19T11:49"
-  },
-  {
-   "ts": "2026-10-19T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88901 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-88901 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Improper Restriction of XML External Entity Reference vulnerability in Apache Camel. This is",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88901",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88901:2026-10-19T11:19"
-  },
-  {
-   "ts": "2026-10-19T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85251 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-85251 📢 Source: apache 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Apache Camel HTT",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85251",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85251:2026-10-19T11:19"
-  },
-  {
-   "ts": "2026-10-19T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85250 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-85250 📢 Source: apache 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper Restriction of XML External Entity Reference vulnerability in Apache Camel XPath co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85250",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85250:2026-10-19T11:19"
-  },
-  {
-   "ts": "2026-10-19T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Hybrid Reasoning Agents: LLM agents that think in latent spa",
-   "body": "Hacker News · 점수 406",
-   "link": "https://arxiv.org/abs/2610.18861",
-   "source": "Hacker News",
-   "id": "community:https://arxiv.org/abs/2610.18861:2026-10-19T11:19"
-  },
-  {
-   "ts": "2026-10-19T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] There's never been a better time to go into math (by: 3blue1",
-   "body": "Hacker News · 점수 386",
-   "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-   "source": "Hacker News",
-   "id": "community:https://www.youtube.com/watch?v=LKrwhjOI8Nc:2026-10-19T11:19"
-  },
-  {
-   "ts": "2026-10-19T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] macOS 15.8.2 Breaks OpenGL",
-   "body": "Hacker News · 점수 269",
-   "link": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
-   "source": "Hacker News",
-   "id": "community:https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550:2026-10-19T11:19"
-  },
-  {
-   "ts": "2026-10-19T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Dogs seem to agree with humans that 'bouba' is round and 'ki",
-   "body": "Hacker News · 점수 252",
-   "link": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-   "source": "Hacker News",
-   "id": "community:https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky:2026-10-19T11:19"
-  },
-  {
-   "ts": "2026-10-19T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Linux 7.3 Released",
-   "body": "Hacker News · 점수 228",
-   "link": "https://lwn.net/Articles/1101143/",
-   "source": "Hacker News",
-   "id": "community:https://lwn.net/Articles/1101143/:2026-10-19T11:19"
-  },
-  {
-   "ts": "2026-10-19T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-83531 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-83531 📢 Source: apache 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper Control of Generation of Code ('Code Injection'), Improper Neutralization of Specia",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83531",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83531:2026-10-19T10:49"
-  },
-  {
-   "ts": "2026-10-19T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80344 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-80344 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Server-Side Request Forgery (SSRF) vulnerability in Apache Camel AS2 component. This issue a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80344",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80344:2026-10-19T10:49"
-  },
-  {
-   "ts": "2026-10-19T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80343 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-80343 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Improper Handling of Case Sensitivity vulnerability in Apache Camel Netty HTTP component. Th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80343",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80343:2026-10-19T10:49"
-  },
-  {
-   "ts": "2026-10-19T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80312 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-80312 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Improper Authentication vulnerability in Apache Camel OAuth component. This issue affects Ap",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80312",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80312:2026-10-19T10:49"
   }
  ]
 }
