@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-20T08:19:07+00:00",
+ "generated_at": "2026-10-20T08:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-20T08:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-43839 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-43839 📢 Source: CSA 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A NULL pointer dereference vulnerability in the logs management functionality could allow an un",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43839",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43839:2026-10-20T08:49"
+  },
+  {
+   "ts": "2026-10-20T08:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-43838 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-43838 📢 Source: CSA 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True A stack-based buffer overflow vulnerability in the login functionality could allow an attac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43838",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43838:2026-10-20T08:49"
+  },
+  {
+   "ts": "2026-10-20T08:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-43837 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-43837 📢 Source: CSA 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A buffer overflow vulnerability in the password verification functionality could allow an attac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43837",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43837:2026-10-20T08:49"
+  },
+  {
+   "ts": "2026-10-20T08:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-43836 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-43836 📢 Source: CSA 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability could allow an attacker to forge a packet to execute arbitrary commands wit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43836",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43836:2026-10-20T08:49"
+  },
+  {
+   "ts": "2026-10-20T08:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113469 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-113469 📢 Source: airbus 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False A failure has been identified in the SNS during dynamic data files signature check. A logi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113469",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113469:2026-10-20T08:49"
+  },
   {
    "ts": "2026-10-20T08:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://www.minimax.io/blog/minimax-m31f",
    "source": "Hacker News",
    "id": "community:https://www.minimax.io/blog/minimax-m31f:2026-10-19T23:19"
-  },
-  {
-   "ts": "2026-10-19T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Google’s AI pinned another man’s sex crime on a doctor, and ",
-   "body": "Lemmy · programming.dev · 점수 311",
-   "link": "https://madrobot.blog/2026/10/18/german-courts-google-liable-ai-overviews-ai-mode-aachen-munich-ruling/",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://madrobot.blog/2026/10/18/german-courts-google-liable-ai-overviews-ai-mode-aachen-munich-ruling/:2026-10-19T23:19"
-  },
-  {
-   "ts": "2026-10-19T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76788 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-76788 📢 Source: zephyr 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The OSDP Control Panel reply parser cp_decode_response() in subsys/mgmt/osdp/src/osdp_cp.c ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76788",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76788:2026-10-19T20:49"
-  },
-  {
-   "ts": "2026-10-19T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82166 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-82166 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Dell Application Store, versions prior to 26.05.0.7, contain a Missing Authentication for Cri",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82166",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82166:2026-10-19T20:19"
-  },
-  {
-   "ts": "2026-10-19T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71170 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-71170 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Application Store, versions prior to 26.05.0.7, contains an Uncontrolled Path Element vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71170",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71170:2026-10-19T20:19"
-  },
-  {
-   "ts": "2026-10-19T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71169 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-71169 📢 Source: dell 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Dell Application Store, versions prior to 26.05.0.7, contain an Incorrect Permission Assignment",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71169",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71169:2026-10-19T20:19"
   }
  ]
 }
