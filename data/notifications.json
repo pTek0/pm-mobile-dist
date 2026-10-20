@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-20T01:19:13+00:00",
+ "generated_at": "2026-10-20T01:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-20T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105299 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-105299 📢 Source: cloudflare 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Summary Before version 0.9.0, the HTTP/1 upstream path in pingora-proxy passed the down",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105299",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105299:2026-10-20T01:49"
+  },
   {
    "ts": "2026-10-20T01:19:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105810",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105810:2026-10-19T18:19"
-  },
-  {
-   "ts": "2026-10-19T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-3295 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-3295 📢 Source: ibm 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True IBM Cloud Pak System 2.3.6.0 , and 2.3.6.1 is vulnerable to cross site scripting. The web app us",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-3295",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-3295:2026-10-19T17:49"
   }
  ]
 }
