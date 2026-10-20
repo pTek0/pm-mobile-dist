@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-20T10:19:07+00:00",
+ "generated_at": "2026-10-20T10:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-20T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113358 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-113358 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True LavaLite CMS through 10.1.2 contains a missing authentication vulnerability in the Filer",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113358",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113358:2026-10-20T10:49"
+  },
+  {
+   "ts": "2026-10-20T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113356 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-113356 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True DokuWiki before 2026-07-14c contains a PHP object injection vulnerability in Draft::getD",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113356",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113356:2026-10-20T10:49"
+  },
+  {
+   "ts": "2026-10-20T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113354 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-113354 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dockhand before 1.0.46 contains an arbitrary file read vulnerability that allows non-adm",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113354",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113354:2026-10-20T10:49"
+  },
+  {
+   "ts": "2026-10-20T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113352 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-113352 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True uTox through 0.18.1 contains a path traversal vulnerability that allows Tox friends to w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113352",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113352:2026-10-20T10:49"
+  },
+  {
+   "ts": "2026-10-20T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113351 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-113351 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True libexpat 2.7.2 through 2.9.0 contains a denial of service vulnerability because XML_Pars",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113351",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113351:2026-10-20T10:49"
+  },
   {
    "ts": "2026-10-20T09:49:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105297",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105297:2026-10-20T01:19"
-  },
-  {
-   "ts": "2026-10-20T00:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105453 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-105453 📢 Source: ibm 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False IBM Sterling Connect Direct for Unix 6.3.0.0 through 6.3.0.7 and 6.4.0.0 through 6.4.0.6 coul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105453",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105453:2026-10-20T00:19"
-  },
-  {
-   "ts": "2026-10-20T00:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107400 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-107400 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM TRIRIGA Application Platform 5.0.0 through 5.0.8 could allow a remote authenticated attack",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107400",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107400:2026-10-20T00:19"
-  },
-  {
-   "ts": "2026-10-20T00:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107366 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-107366 📢 Source: ibm 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.4 contains three message endpoints that perform no ownersh",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107366",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107366:2026-10-20T00:19"
-  },
-  {
-   "ts": "2026-10-20T00:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109126 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-109126 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False IBM Verify Identity Access 11.0.3.1 and IBM Security Verify Access 10.0.9.3 Appliance could a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109126",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109126:2026-10-20T00:19"
-  },
-  {
-   "ts": "2026-10-20T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Mercury 3: Diffusion at scale",
-   "body": "Hacker News · 점수 203",
-   "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-   "source": "Hacker News",
-   "id": "community:https://www.inceptionlabs.ai/blog/introducing-mercury-3:2026-10-20T00:19"
   }
  ]
 }
