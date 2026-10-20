@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-20T17:49:07+00:00",
+ "generated_at": "2026-10-20T18:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-20T18:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-113802 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-113802 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Wavlink WL-WN530BE1-A firmware through M30BE1_V251117 contains an OS command injecti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113802",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113802:2026-10-20T18:19"
+  },
+  {
+   "ts": "2026-10-20T18:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105772 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-105772 📢 Source: Google 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Path Traversal (CWE-22) in FileArtifactService in Google ADK TypeScript ( @google /adk)",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105772",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105772:2026-10-20T18:19"
+  },
   {
    "ts": "2026-10-20T16:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-43844",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43844:2026-10-20T09:19"
-  },
-  {
-   "ts": "2026-10-20T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-43839 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-43839 📢 Source: CSA 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A NULL pointer dereference vulnerability in the logs management functionality could allow an un",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43839",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43839:2026-10-20T08:49"
-  },
-  {
-   "ts": "2026-10-20T08:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-43838 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-43838 📢 Source: CSA 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True A stack-based buffer overflow vulnerability in the login functionality could allow an attac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43838",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43838:2026-10-20T08:49"
   }
  ]
 }
