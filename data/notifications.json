@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-20T15:19:08+00:00",
+ "generated_at": "2026-10-20T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-20T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113607 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-113607 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Configurable Reports block for Moodle before 5.3.0 contains an authorization bypass vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113607",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113607:2026-10-20T15:49"
+  },
+  {
+   "ts": "2026-10-20T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113605 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-113605 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Stirling-PDF from 2.13.2 through 3.2.0 contains an incomplete denylist in DatabaseServic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113605",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113605:2026-10-20T15:49"
+  },
+  {
+   "ts": "2026-10-20T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-71436 (CVSS 7.1)",
+   "body": "🚨 CVE-2025-71436 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Raptor RDF Syntax Library from 2.0.15 through 2.0.16 contains a heap-based buffer overflo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-71436",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71436:2026-10-20T15:49"
+  },
   {
    "ts": "2026-10-20T15:19:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-43836",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43836:2026-10-20T08:49"
-  },
-  {
-   "ts": "2026-10-20T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-113469 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-113469 📢 Source: airbus 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False A failure has been identified in the SNS during dynamic data files signature check. A logi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113469",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113469:2026-10-20T08:49"
-  },
-  {
-   "ts": "2026-10-20T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-43835 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-43835 📢 Source: CSA 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A vulnerability in the firmware upgrade functionality could allow an authenticated attacker to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43835",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43835:2026-10-20T08:19"
-  },
-  {
-   "ts": "2026-10-20T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-43834 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-43834 📢 Source: CSA 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A stack-based buffer overflow vulnerability in the logs settings functionality could allow an a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43834",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43834:2026-10-20T08:19"
   }
  ]
 }
