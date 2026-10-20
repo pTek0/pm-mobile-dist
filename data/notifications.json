@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-20T07:19:08+00:00",
+ "generated_at": "2026-10-20T07:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-20T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113407 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-113407 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True BA-Workflow developed by YS-infoware has a SQL Injection vulnerability. Authenticated remot",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113407",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113407:2026-10-20T07:49"
+  },
+  {
+   "ts": "2026-10-20T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113406 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-113406 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True BA-Workflow developed by YS-infoware has a SQL Injection vulnerability. Authenticated remot",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113406",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113406:2026-10-20T07:49"
+  },
+  {
+   "ts": "2026-10-20T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113405 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-113405 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True BA-Workflow developed by YS-infoware has a SQL Injection vulnerability. Authenticated remot",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113405",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113405:2026-10-20T07:49"
+  },
+  {
+   "ts": "2026-10-20T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112177 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-112177 📢 Source: redhat 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Ghostscript as shipped with Red Hat Enterprise Linux 8. The correction ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112177",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112177:2026-10-20T07:49"
+  },
   {
    "ts": "2026-10-20T07:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-112781",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112781:2026-10-19T19:49"
-  },
-  {
-   "ts": "2026-10-19T19:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-112780 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-112780 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Grav from 2.0.15 before 2.2.2 contains an allowlist bypass vulnerability that allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112780",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112780:2026-10-19T19:49"
-  },
-  {
-   "ts": "2026-10-19T19:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-112779 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-112779 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Grav API plugin (grav-plugin-api) 1.0.40 before 1.0.42 caches a full translation dic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112779",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112779:2026-10-19T19:49"
-  },
-  {
-   "ts": "2026-10-19T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112777 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-112777 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Craft CMS 4.x before 4.18.8 and 5.x before 5.11.0 contains a blocklist bypass in the Twi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112777",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112777:2026-10-19T19:49"
-  },
-  {
-   "ts": "2026-10-19T19:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-112776 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-112776 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Craft CMS from 5.0.0 before 5.11.0 contains an authorization bypass vulnerability th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112776",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112776:2026-10-19T19:49"
   }
  ]
 }
