@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-20T04:19:08+00:00",
+ "generated_at": "2026-10-20T04:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-20T04:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-113380 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-113380 📢 Source: mitre 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True In the RingRTC library before 2.72.0 for Signal, a peer that saturates a call's FSM queu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113380",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113380:2026-10-20T04:49"
+  },
   {
    "ts": "2026-10-20T02:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-112771",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112771:2026-10-19T19:49"
-  },
-  {
-   "ts": "2026-10-19T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112770 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-112770 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Craft CMS 4.x before 4.18.8 and 5.x before 5.11.0 contains a remote code execution vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112770",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112770:2026-10-19T19:49"
   }
  ]
 }
