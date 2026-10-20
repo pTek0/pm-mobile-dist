@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-10-20T00:49:07+00:00",
+ "generated_at": "2026-10-20T01:19:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-20T01:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77933 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-77933 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True DB-GPT through 0.8.2 contains a hardcoded credentials vulnerability in its default do",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77933",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77933:2026-10-20T01:19"
+  },
+  {
+   "ts": "2026-10-20T01:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77932 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-77932 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True DB-GPT through 0.8.2 contains an unauthenticated remote code execution vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77932",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77932:2026-10-20T01:19"
+  },
+  {
+   "ts": "2026-10-20T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77930 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-77930 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True EvoScientist 0.1.0 before 0.2.5 contains an approval bypass vulnerability that allows att",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77930",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77930:2026-10-20T01:19"
+  },
+  {
+   "ts": "2026-10-20T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77926 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-77926 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Aix-DB 1.2.4 contains a remote code execution vulnerability that allows authenticated non",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77926",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77926:2026-10-20T01:19"
+  },
+  {
+   "ts": "2026-10-20T01:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-75128 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-75128 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Langchain-Chatchat through 0.3.1.3 exposes a POST /tools/call API endpoint that invok",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75128",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75128:2026-10-20T01:19"
+  },
+  {
+   "ts": "2026-10-20T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109444 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-109444 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenSRE through 0.1.2026.10.19 contains an approval gate bypass vulnerability that allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109444",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109444:2026-10-20T01:19"
+  },
+  {
+   "ts": "2026-10-20T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109443 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-109443 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True JoySafeter through 1.0.0 contains a remote code execution vulnerability that allows auth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109443",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109443:2026-10-20T01:19"
+  },
+  {
+   "ts": "2026-10-20T01:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109442 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-109442 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True piflow 2.0.0 through 2.0.1 contains a remote code execution vulnerability in its Dee",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109442",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109442:2026-10-20T01:19"
+  },
+  {
+   "ts": "2026-10-20T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109440 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-109440 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True LangAlpha through 2026.09.07 contains an indirect prompt injection vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109440",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109440:2026-10-20T01:19"
+  },
+  {
+   "ts": "2026-10-20T01:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109395 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-109395 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Ning compress-lzf before 1.2.0 contains an out-of-bounds memory access vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109395",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109395:2026-10-20T01:19"
+  },
+  {
+   "ts": "2026-10-20T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105297 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-105297 📢 Source: cloudflare 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Summary Before version 0.8.1, Pingora's HTTP/2 server used the h2 crate's default limit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105297",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105297:2026-10-20T01:19"
+  },
   {
    "ts": "2026-10-20T00:19:06+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-3295",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-3295:2026-10-19T17:49"
-  },
-  {
-   "ts": "2026-10-19T17:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-112377 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-112377 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True CCC Attestation SIG attested-tls-poc through commit 731ca82 fails to bind early atte",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112377",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112377:2026-10-19T17:49"
-  },
-  {
-   "ts": "2026-10-19T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-6719 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-6719 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM Concert 1.0 through 3.0.0 uses weaker than expected cryptographic algorithms that could allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6719",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6719:2026-10-19T17:49"
-  },
-  {
-   "ts": "2026-10-19T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12148 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-12148 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM MQ Operator could allow an authenticated attacker to cause a denial of service or potential",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12148",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12148:2026-10-19T16:49"
-  },
-  {
-   "ts": "2026-10-19T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-10743 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-10743 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM MQ could allow an authenticated attacker to cause a denial of service or corrupt memory due",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10743",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10743:2026-10-19T16:49"
-  },
-  {
-   "ts": "2026-10-19T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-10574 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-10574 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM MQ could allow an authenticated attacker to cause a denial of service or potentially execut",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10574",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10574:2026-10-19T16:49"
-  },
-  {
-   "ts": "2026-10-19T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-10572 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-10572 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM MQ could allow an authenticated attacker to cause a denial of service or potentially execut",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10572",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10572:2026-10-19T16:49"
-  },
-  {
-   "ts": "2026-10-19T16:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107188 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-107188 📢 Source: rapid7 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True A user can upload export reports with any file contents and specify any contents. JSP c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107188",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107188:2026-10-19T16:49"
-  },
-  {
-   "ts": "2026-10-19T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107187 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-107187 📢 Source: rapid7 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True A user can access any database details, such as usernames and passwords by sending a DWR re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107187",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107187:2026-10-19T16:49"
-  },
-  {
-   "ts": "2026-10-19T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107186 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-107186 📢 Source: rapid7 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An unauthenticated user can send a DWR request with isPasswordUppercase as one call method ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107186",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107186:2026-10-19T16:49"
-  },
-  {
-   "ts": "2026-10-19T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-10149 (CVSS 8.2)",
-   "body": "🚨 CVE-2025-10149 📢 Source: WSO2 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True The SCIM endpoint does not sufficiently validate authorization for federated users when perfor",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-10149",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-10149:2026-10-19T16:49"
-  },
-  {
-   "ts": "2026-10-19T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112368 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-112368 📢 Source: mongodb 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True An uncontrolled recursion weakness in the BSON decoding logic of the MongoDB PHP driver ma",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112368",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112368:2026-10-19T16:19"
   }
  ]
 }
