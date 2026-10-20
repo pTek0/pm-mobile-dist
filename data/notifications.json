@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-20T20:49:08+00:00",
+ "generated_at": "2026-10-20T21:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-20T21:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112712 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-112712 📢 Source: openjs 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False @fastify /middie is the Express-style middleware engine for Fastify. In versions from ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112712",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112712:2026-10-20T21:19"
+  },
   {
    "ts": "2026-10-20T20:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://news.ycombinator.com/item?id=50151036",
    "source": "Hacker News",
    "id": "community:https://news.ycombinator.com/item?id=50151036:2026-10-20T11:19"
-  },
-  {
-   "ts": "2026-10-20T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] WhatsApp's help pages hid LLM instructions: dont recommend a",
-   "body": "Hacker News · 점수 459",
-   "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-   "source": "Hacker News",
-   "id": "community:https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions:2026-10-20T11:19"
   }
  ]
 }
