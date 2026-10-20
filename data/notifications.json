@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-20T05:19:07+00:00",
+ "generated_at": "2026-10-20T05:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-20T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97627 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-97627 📢 Source: jpcert 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Hidden functionality issue exists in Multiple DVRs (Digital Video Recorders) provided by At",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97627",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97627:2026-10-20T05:49"
+  },
   {
    "ts": "2026-10-20T05:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-112773",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112773:2026-10-19T19:49"
-  },
-  {
-   "ts": "2026-10-19T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112772 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-112772 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Craft CMS from 5.0.0 before 5.11.0 contains a remote code execution vulnerability that a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112772",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112772:2026-10-19T19:49"
   }
  ]
 }
