@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-10-20T09:19:09+00:00",
+ "generated_at": "2026-10-20T09:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-20T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85267 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-85267 📢 Source: GoogleCloud 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A Cross-Site WebSocket Hijacking vulnerability in Cloud Shell prior to 2026-07-22 on Go",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85267",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85267:2026-10-20T09:49"
+  },
+  {
+   "ts": "2026-10-20T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-43858 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-43858 📢 Source: CSA 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A stack-based buffer overflow vulnerability could allow a remote authenticated attacker to achi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43858",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43858:2026-10-20T09:49"
+  },
+  {
+   "ts": "2026-10-20T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-43857 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-43857 📢 Source: CSA 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A vulnerability could allow a remote authenticated attacker to achieve arbitrary code execution",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43857",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43857:2026-10-20T09:49"
+  },
+  {
+   "ts": "2026-10-20T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113459 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-113459 📢 Source: TYPO3 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In versions running on TYPO3 10 and 11, the configured OpenAI API key is embedded in every b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113459",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113459:2026-10-20T09:49"
+  },
+  {
+   "ts": "2026-10-20T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112239 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-112239 📢 Source: TYPO3 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True The extension provides a backend endpoint that writes a submitted value into a submitted fie",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112239",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112239:2026-10-20T09:49"
+  },
+  {
+   "ts": "2026-10-20T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112238 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-112238 📢 Source: TYPO3 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The file search of the extension builds its database conditions by wrapping the search term ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112238",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112238:2026-10-20T09:49"
+  },
+  {
+   "ts": "2026-10-20T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112066 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-112066 📢 Source: TYPO3 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True The JSON import of the cookie consent configuration did not respect the backend user's permi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112066",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112066:2026-10-20T09:49"
+  },
+  {
+   "ts": "2026-10-20T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112064 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-112064 📢 Source: TYPO3 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True The backend module for reviewing the consent history accepted sorting, grouping and index op",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112064",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112064:2026-10-20T09:49"
+  },
+  {
+   "ts": "2026-10-20T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-43856 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-43856 📢 Source: CSA 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A stack-based buffer overflow vulnerability in the FileProcess::CheckDir function could allow a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-43856",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-43856:2026-10-20T09:49"
+  },
   {
    "ts": "2026-10-20T09:19:06+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
    "source": "Hacker News",
    "id": "community:https://www.inceptionlabs.ai/blog/introducing-mercury-3:2026-10-20T00:19"
-  },
-  {
-   "ts": "2026-10-20T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The US is ordering every civilian agency to rip out DeepSeek",
-   "body": "Lemmy · technology · 점수 202",
-   "link": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
-   "source": "Lemmy · technology",
-   "id": "community:https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/:2026-10-20T00:19"
-  },
-  {
-   "ts": "2026-10-20T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Where there's a will...",
-   "body": "Lemmy · programming.dev · 점수 66",
-   "link": "https://lemmy.world/pictrs/image/50f12322-ad65-4726-a06e-cc477d6f70e5.jpeg?=0",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/50f12322-ad65-4726-a06e-cc477d6f70e5.jpeg?=0:2026-10-20T00:19"
-  },
-  {
-   "ts": "2026-10-20T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fudan University researchers found ChatGPT, Perplexity, Grok",
-   "body": "Lemmy · technology · 점수 61",
-   "link": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/:2026-10-20T00:19"
-  },
-  {
-   "ts": "2026-10-20T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Big Tech Oligarchs Have a Terrible Plan for Humanity",
-   "body": "Lemmy · technology · 점수 54",
-   "link": "https://www.theatlantic.com/ideas/2026/10/ai-regulation-transhumanism-oligarchs/689013/?taid=6ad5fbbaf6d6f300019ee1cb",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theatlantic.com/ideas/2026/10/ai-regulation-transhumanism-oligarchs/689013/?taid=6ad5fbbaf6d6f300019ee1cb:2026-10-20T00:19"
-  },
-  {
-   "ts": "2026-10-19T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Alternatives to animal testing are finally taking off",
-   "body": "Hacker News · 점수 297",
-   "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-   "source": "Hacker News",
-   "id": "community:https://spectrum.ieee.org/alternatives-to-animal-testing:2026-10-19T23:49"
-  },
-  {
-   "ts": "2026-10-19T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I built a drone with only one motor [video]",
-   "body": "Hacker News · 점수 279",
-   "link": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-   "source": "Hacker News",
-   "id": "community:https://www.youtube.com/watch?v=Ndftcft6XhU:2026-10-19T23:49"
-  },
-  {
-   "ts": "2026-10-19T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Starcraft: Ashfall",
-   "body": "Hacker News · 점수 242",
-   "link": "https://starcraft-shooter-2026.pages.dev/",
-   "source": "Hacker News",
-   "id": "community:https://starcraft-shooter-2026.pages.dev/:2026-10-19T23:49"
-  },
-  {
-   "ts": "2026-10-19T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Let's Encrypt is adding two additional remote perspectives f",
-   "body": "Hacker News · 점수 235",
-   "link": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-   "source": "Hacker News",
-   "id": "community:https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166:2026-10-19T23:49"
-  },
-  {
-   "ts": "2026-10-19T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Android apps running native on macOS",
-   "body": "Hacker News · 점수 219",
-   "link": "https://github.com/kksimp/Mac.apk",
-   "source": "Hacker News",
-   "id": "community:https://github.com/kksimp/Mac.apk:2026-10-19T23:49"
   }
  ]
 }
