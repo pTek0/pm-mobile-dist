@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-20T10:49:07+00:00",
+ "generated_at": "2026-10-20T11:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-20T11:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-9589 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-9589 📢 Source: NCSC.ch 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Missing authorization in the configuration cascade operations of the Collaboration Serve",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9589",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9589:2026-10-20T11:19"
+  },
+  {
+   "ts": "2026-10-20T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Ask HN: How to deal with shipping AI-written code you don't ",
+   "body": "Hacker News · 점수 466",
+   "link": "https://news.ycombinator.com/item?id=50151036",
+   "source": "Hacker News",
+   "id": "community:https://news.ycombinator.com/item?id=50151036:2026-10-20T11:19"
+  },
+  {
+   "ts": "2026-10-20T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] WhatsApp's help pages hid LLM instructions: dont recommend a",
+   "body": "Hacker News · 점수 459",
+   "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+   "source": "Hacker News",
+   "id": "community:https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions:2026-10-20T11:19"
+  },
+  {
+   "ts": "2026-10-20T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Ukraine claims first drone evacuation of wounded soldier",
+   "body": "Hacker News · 점수 300",
+   "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+   "source": "Hacker News",
+   "id": "community:https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310:2026-10-20T11:19"
+  },
+  {
+   "ts": "2026-10-20T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nordwand Mono – A monospace font for coders and adventurers",
+   "body": "Hacker News · 점수 285",
+   "link": "https://github.com/tywr/Nordwand-Mono",
+   "source": "Hacker News",
+   "id": "community:https://github.com/tywr/Nordwand-Mono:2026-10-20T11:19"
+  },
+  {
+   "ts": "2026-10-20T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Big Tech will not broadcast your dissent",
+   "body": "Lemmy · technology · 점수 244",
+   "link": "https://www.motherjones.com/politics/2026/10/meta-x-no-kings-elections-protests-midterms-free-speech-us-brazil/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.motherjones.com/politics/2026/10/meta-x-no-kings-elections-protests-midterms-free-speech-us-brazil/:2026-10-20T11:19"
+  },
   {
    "ts": "2026-10-20T10:49:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75128",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75128:2026-10-20T01:19"
-  },
-  {
-   "ts": "2026-10-20T01:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109444 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-109444 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenSRE through 0.1.2026.10.19 contains an approval gate bypass vulnerability that allow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109444",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109444:2026-10-20T01:19"
-  },
-  {
-   "ts": "2026-10-20T01:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109443 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-109443 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True JoySafeter through 1.0.0 contains a remote code execution vulnerability that allows auth",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109443",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109443:2026-10-20T01:19"
-  },
-  {
-   "ts": "2026-10-20T01:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-109442 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-109442 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True piflow 2.0.0 through 2.0.1 contains a remote code execution vulnerability in its Dee",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109442",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109442:2026-10-20T01:19"
-  },
-  {
-   "ts": "2026-10-20T01:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109440 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-109440 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True LangAlpha through 2026.09.07 contains an indirect prompt injection vulnerability that al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109440",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109440:2026-10-20T01:19"
-  },
-  {
-   "ts": "2026-10-20T01:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-109395 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-109395 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Ning compress-lzf before 1.2.0 contains an out-of-bounds memory access vulnerability",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109395",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109395:2026-10-20T01:19"
-  },
-  {
-   "ts": "2026-10-20T01:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105297 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-105297 📢 Source: cloudflare 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Summary Before version 0.8.1, Pingora's HTTP/2 server used the h2 crate's default limit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105297",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105297:2026-10-20T01:19"
   }
  ]
 }
