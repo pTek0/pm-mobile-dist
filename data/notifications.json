@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-20T01:49:07+00:00",
+ "generated_at": "2026-10-20T02:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-20T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-17518 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-17518 📢 Source: ASUS 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Buffer Copy without Checking Size of Input in certain ASUS router models allows an adjacent a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17518",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17518:2026-10-20T02:19"
+  },
+  {
+   "ts": "2026-10-20T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102438 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-102438 📢 Source: ASUS 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An uncontrolled search path element vulnerability in ASUS Armoury Crate allows local users t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102438",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102438:2026-10-20T02:19"
+  },
   {
    "ts": "2026-10-20T01:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-112770",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112770:2026-10-19T19:49"
-  },
-  {
-   "ts": "2026-10-19T18:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-109437 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-109437 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Cognition before 0.13.0 contains an unauthenticated remote code execution vulnerabil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109437",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109437:2026-10-19T18:49"
-  },
-  {
-   "ts": "2026-10-19T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105810 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-105810 📢 Source: TPLink 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Tapo C320WS V2.0 contains an authenticated stack-based buffer overflow in the local onboar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105810",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105810:2026-10-19T18:19"
   }
  ]
 }
