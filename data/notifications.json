@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-20T22:49:07+00:00",
+ "generated_at": "2026-10-20T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-20T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] DeepInfer: High-performance inference framework for DeepSeek",
+   "body": "Hacker News · 점수 2070",
+   "link": "https://github.com/deepseek-ai/DeepInfer",
+   "source": "Hacker News",
+   "id": "community:https://github.com/deepseek-ai/DeepInfer:2026-10-20T23:19"
+  },
+  {
+   "ts": "2026-10-20T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] EMudhra Intermediate CA Compromise",
+   "body": "Hacker News · 점수 536",
+   "link": "https://emudhra.we-have-a-problem.com/",
+   "source": "Hacker News",
+   "id": "community:https://emudhra.we-have-a-problem.com/:2026-10-20T23:19"
+  },
+  {
+   "ts": "2026-10-20T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Voxtral 3",
+   "body": "Hacker News · 점수 468",
+   "link": "https://mistral.ai/news/voxtral-3/",
+   "source": "Hacker News",
+   "id": "community:https://mistral.ai/news/voxtral-3/:2026-10-20T23:19"
+  },
+  {
+   "ts": "2026-10-20T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Apple broke an essential presentation feature of iPads",
+   "body": "Hacker News · 점수 455",
+   "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+   "source": "Hacker News",
+   "id": "community:https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/:2026-10-20T23:19"
+  },
+  {
+   "ts": "2026-10-20T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] SimCity, but with Permits",
+   "body": "Hacker News · 점수 406",
+   "link": "https://permit.petercai.com/",
+   "source": "Hacker News",
+   "id": "community:https://permit.petercai.com/:2026-10-20T23:19"
+  },
   {
    "ts": "2026-10-20T22:19:06+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
    "source": "Lemmy · technology",
    "id": "community:https://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html:2026-10-20T12:19"
-  },
-  {
-   "ts": "2026-10-20T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105949 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-105949 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Cruise Control's Jetty ConstraintSecurityHandler registers security constraints on exact p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105949",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105949:2026-10-20T11:49"
-  },
-  {
-   "ts": "2026-10-20T11:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105312 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-105312 📢 Source: redhat 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A Kubernetes tenant with create permission on Console custom resources can set spec.con",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105312",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105312:2026-10-20T11:49"
-  },
-  {
-   "ts": "2026-10-20T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105311 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-105311 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True The StreamsHub Console operator acts as a confused deputy: a Kubernetes tenant with permiss",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105311",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105311:2026-10-20T11:49"
-  },
-  {
-   "ts": "2026-10-20T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14933 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-14933 📢 Source: NCSC.ch 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Cross-site scripting in the embedded co-browsing feature in Unblu inc. Unblu Spark 7.0 thro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14933",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14933:2026-10-20T11:49"
-  },
-  {
-   "ts": "2026-10-20T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] (RF) network engineer irl",
-   "body": "Lemmy · programming.dev · 점수 214",
-   "link": "https://sh.itjust.works/pictrs/image/7659f31a-c333-44b5-b64f-5df8321cc94b.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://sh.itjust.works/pictrs/image/7659f31a-c333-44b5-b64f-5df8321cc94b.jpeg:2026-10-20T11:49"
   }
  ]
 }
