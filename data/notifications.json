@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-21T10:49:09+00:00",
+ "generated_at": "2026-10-21T11:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-21T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Upcoming critical PHP security release (CVE-2026-109618 / -1",
+   "body": "Hacker News · 점수 944",
+   "link": "https://news-web.php.net/php.announce/509",
+   "source": "Hacker News",
+   "id": "community:https://news-web.php.net/php.announce/509:2026-10-21T11:19"
+  },
+  {
+   "ts": "2026-10-21T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The Internet goes on high alert after discovery of 8 comprom",
+   "body": "Lemmy · technology · 점수 545",
+   "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/:2026-10-21T11:19"
+  },
+  {
+   "ts": "2026-10-21T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] What shall I teach my son?",
+   "body": "Hacker News · 점수 408",
+   "link": "https://stevekrouse.com/ends",
+   "source": "Hacker News",
+   "id": "community:https://stevekrouse.com/ends:2026-10-21T11:19"
+  },
+  {
+   "ts": "2026-10-21T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Ofcom concedes defeat in 4chan case",
+   "body": "Hacker News · 점수 399",
+   "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+   "source": "Hacker News",
+   "id": "community:https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/:2026-10-21T11:19"
+  },
+  {
+   "ts": "2026-10-21T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Google open-sources TorchTPU, a native PyTorch back end for ",
+   "body": "Hacker News · 점수 344",
+   "link": "https://github.com/google-pytorch/torch_tpu",
+   "source": "Hacker News",
+   "id": "community:https://github.com/google-pytorch/torch_tpu:2026-10-21T11:19"
+  },
   {
    "ts": "2026-10-21T10:49:08+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://permit.petercai.com/",
    "source": "Hacker News",
    "id": "community:https://permit.petercai.com/:2026-10-20T23:19"
-  },
-  {
-   "ts": "2026-10-20T22:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-81212 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-81212 📢 Source: ibm 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True IBM DataStage on Cloud Pak for Data 5.4.0.0 allows an unauthenticated user to perform an arb",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81212",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81212:2026-10-20T22:19"
-  },
-  {
-   "ts": "2026-10-20T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76587 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-76587 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Planning Analytics 2.0 and 2.1 are vulnerable to a stack-based buffer overflow, caused by i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76587",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76587:2026-10-20T22:19"
-  },
-  {
-   "ts": "2026-10-20T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82891 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-82891 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Guardium Data Protection 12.1, and 12.2 could allow a remote attacker to obtain sensitive i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82891",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82891:2026-10-20T22:19"
-  },
-  {
-   "ts": "2026-10-20T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93442 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-93442 📢 Source: ibm 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True IBM QRadar SIEM 7.6.0.0 through 7.6.0.4 , and 7.5.0 through 7.5.0 Update Package 16 Interim Fix",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93442",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93442:2026-10-20T22:19"
-  },
-  {
-   "ts": "2026-10-20T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93441 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-93441 📢 Source: ibm 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True IBM QRadar SIEM could allow a remote attacker to cause a denial of service due to uncontrolled ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93441",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93441:2026-10-20T22:19"
   }
  ]
 }
