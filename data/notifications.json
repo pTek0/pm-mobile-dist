@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-21T10:19:08+00:00",
+ "generated_at": "2026-10-21T10:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-21T10:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-87095 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-87095 📢 Source: Acronis 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False Sensitive information disclosure and manipulation due to improper authorization checks",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87095",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87095:2026-10-21T10:49"
+  },
   {
    "ts": "2026-10-21T09:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93441",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93441:2026-10-20T22:19"
-  },
-  {
-   "ts": "2026-10-20T22:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-92559 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-92559 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM App Connect Enterprise 13.0.1.0 through 13.0.8.2 could allow a remote attacker to obtai",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92559",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92559:2026-10-20T22:19"
   }
  ]
 }
