@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-21T22:19:07+00:00",
+ "generated_at": "2026-10-21T22:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-21T22:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103090 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-103090 📢 Source: Google 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Missing Authentication for Critical Function (CWE-306) and Insufficiently Protected Credent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103090",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103090:2026-10-21T22:49"
+  },
   {
    "ts": "2026-10-21T21:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111832",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111832:2026-10-21T14:49"
-  },
-  {
-   "ts": "2026-10-21T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-109619 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-109619 📢 Source: php 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True PHP has various global state that temporarily points into request memory. In some scenario",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109619",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109619:2026-10-21T14:19"
   }
  ]
 }
