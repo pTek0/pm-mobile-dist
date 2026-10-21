@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-10-21T17:19:08+00:00",
+ "generated_at": "2026-10-21T17:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92210 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-92210 📢 Source: zdi 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False NoMachine nxhtd Server-Side Request Forgery Information Disclosure Vulnerability. This vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92210",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92210:2026-10-21T17:49"
+  },
+  {
+   "ts": "2026-10-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92209 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-92209 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NoMachine Redis Improper Authentication Local Privilege Escalation Vulnerability. This vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92209",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92209:2026-10-21T17:49"
+  },
+  {
+   "ts": "2026-10-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92208 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-92208 📢 Source: zdi 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False NoMachine mDNS Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92208",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92208:2026-10-21T17:49"
+  },
+  {
+   "ts": "2026-10-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92207 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-92207 📢 Source: zdi 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False MindsDB OpenBBtable Code Injection Remote Code Execution Vulnerability. This vulnerability all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92207",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92207:2026-10-21T17:49"
+  },
+  {
+   "ts": "2026-10-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92206 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-92206 📢 Source: zdi 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False CrewAI crewAI Framework Agent Loading Unsafe Reflection Remote Code Execution Vulnerability. T",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92206",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92206:2026-10-21T17:49"
+  },
+  {
+   "ts": "2026-10-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92204 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-92204 📢 Source: zdi 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Airbyte OneDrive Connector _get_shared_drive_object Server-Side Request Forgery Information Di",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92204",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92204:2026-10-21T17:49"
+  },
+  {
+   "ts": "2026-10-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92203 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-92203 📢 Source: zdi 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Airbyte SharePoint Connector _get_shared_drive_object Server-Side Request Forgery Information ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92203",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92203:2026-10-21T17:49"
+  },
+  {
+   "ts": "2026-10-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92202 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-92202 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Luxion KeyShot BIP File Parsing Uncontrolled Search Path Element Remote Code Execution Vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92202",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92202:2026-10-21T17:49"
+  },
+  {
+   "ts": "2026-10-21T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92183 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-92183 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False GIMP APNG File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability. This v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92183",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92183:2026-10-21T17:49"
+  },
+  {
+   "ts": "2026-10-21T17:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-89035 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-89035 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True MikroTik RouterOS through 7.24.5 contains a session token replay vulnerability in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89035",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89035:2026-10-21T17:49"
+  },
   {
    "ts": "2026-10-21T16:19:07+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110370",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110370:2026-10-21T09:49"
-  },
-  {
-   "ts": "2026-10-21T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110369 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-110369 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in GS Plugins WordPress Team Members – ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110369",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110369:2026-10-21T09:49"
-  },
-  {
-   "ts": "2026-10-21T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97206 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-97206 📢 Source: NLnet Labs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False NLnet Labs Unbound, 1.22.0 up to and including version 1.26.1, contains a DNS-over-QUIC",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97206",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97206:2026-10-21T09:19"
-  },
-  {
-   "ts": "2026-10-21T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70387 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-70387 📢 Source: ENISA 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Exposed dangerous method or function and Incorrect Authorization vulnerability in OnePlus Ox",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70387",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70387:2026-10-21T09:19"
-  },
-  {
-   "ts": "2026-10-21T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-70386 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-70386 📢 Source: ENISA 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Exposed dangerous method or function vulnerability in OnePlus OxygenOS on Android. This issu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70386",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70386:2026-10-21T09:19"
-  },
-  {
-   "ts": "2026-10-21T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110938 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-110938 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Eclipse OpenJ9 versions up to 0.63.0, the JITServer component is vulnerable to denial o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110938",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110938:2026-10-21T08:49"
-  },
-  {
-   "ts": "2026-10-21T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111075 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-111075 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Eclipse OpenJ9 versions prior to 0.63.0, the JITServer component fails to perform cross",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111075",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111075:2026-10-21T08:19"
-  },
-  {
-   "ts": "2026-10-21T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111074 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-111074 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Eclipse OpenJ9 versions prior to 0.63.0, the JITServer component is vulnerable to a pre",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111074",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111074:2026-10-21T08:19"
-  },
-  {
-   "ts": "2026-10-21T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110899 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-110899 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110899",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110899:2026-10-21T08:19"
-  },
-  {
-   "ts": "2026-10-21T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107435 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-107435 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107435",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107435:2026-10-21T08:19"
-  },
-  {
-   "ts": "2026-10-21T05:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-71195 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-71195 📢 Source: mitre 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True In OpenStack Manila before 23.0.1, multiple Manila API operations on public shares do not",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71195",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71195:2026-10-21T05:49"
   }
  ]
 }
