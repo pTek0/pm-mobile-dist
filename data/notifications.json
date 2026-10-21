@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-21T12:49:08+00:00",
+ "generated_at": "2026-10-21T13:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-21T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-114403 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-114403 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True PHPOffice PHPPresentation through 1.2.0 contains an insecure deserialization vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114403",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114403:2026-10-21T13:19"
+  },
+  {
+   "ts": "2026-10-21T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114400 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-114400 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Trudesk through 1.2.11 contains a missing authentication vulnerability that allows unaut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114400",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114400:2026-10-21T13:19"
+  },
+  {
+   "ts": "2026-10-21T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114399 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-114399 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Trudesk through 1.2.11 contains a path traversal vulnerability that allows administrators ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114399",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114399:2026-10-21T13:19"
+  },
+  {
+   "ts": "2026-10-21T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114397 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-114397 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Trudesk through 1.2.11 contains a missing authentication vulnerability in debug routes e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114397",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114397:2026-10-21T13:19"
+  },
+  {
+   "ts": "2026-10-21T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114396 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-114396 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Trudesk through 1.2.11 contains a server-side JavaScript injection vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114396",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114396:2026-10-21T13:19"
+  },
+  {
+   "ts": "2026-10-21T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114391 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-114391 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ZenTao PMS before 22.3 contains an authorization bypass vulnerability in commonModel::is",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114391",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114391:2026-10-21T13:19"
+  },
+  {
+   "ts": "2026-10-21T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114387 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-114387 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Shopper from 2.0.0 before 2.6.0 contains a missing authorization vulnerability that allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114387",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114387:2026-10-21T13:19"
+  },
   {
    "ts": "2026-10-21T12:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://futurism.com/artificial-intelligence/ai-humans-empty-vessels",
    "source": "Lemmy · technology",
    "id": "community:https://futurism.com/artificial-intelligence/ai-humans-empty-vessels:2026-10-21T00:49"
-  },
-  {
-   "ts": "2026-10-21T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Facebook now charging to post more than 2 links a month",
-   "body": "Lemmy · technology · 점수 51",
-   "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-   "source": "Lemmy · technology",
-   "id": "community:https://mastodon.gamedev.place/@AshleyGullen/117473851565913919:2026-10-21T00:49"
-  },
-  {
-   "ts": "2026-10-21T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Your Phone Can Now Spot Smart Glasses Faster Than You Can",
-   "body": "Lemmy · technology · 점수 134",
-   "link": "https://www.cnet.com/tech/mobile/if-you-dont-want-smart-glasses-to-spy-try-a-bluetooth-detector-app/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.cnet.com/tech/mobile/if-you-dont-want-smart-glasses-to-spy-try-a-bluetooth-detector-app/:2026-10-21T00:19"
-  },
-  {
-   "ts": "2026-10-21T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Protecting Firefox users following the compromise of eMudhra",
-   "body": "Lobsters · 점수 111",
-   "link": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
-   "source": "Lobsters",
-   "id": "community:https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/:2026-10-21T00:19"
-  },
-  {
-   "ts": "2026-10-21T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Anthropic logged net loss of over $80 billion in first half ",
-   "body": "Lemmy · technology · 점수 85",
-   "link": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/:2026-10-21T00:19"
-  },
-  {
-   "ts": "2026-10-21T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The people sick of being spied on by their smart TV",
-   "body": "Lemmy · programming.dev · 점수 62",
-   "link": "https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy:2026-10-21T00:19"
-  },
-  {
-   "ts": "2026-10-21T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] DHS Said They Searched Man Who Wiped GrapheneOS Phone for Ch",
-   "body": "Lemmy · programming.dev · 점수 61",
-   "link": "https://www.404media.co/dhs-said-they-searched-man-who-wiped-grapheneos-phone-for-child-abuse-material-they-lied/",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.404media.co/dhs-said-they-searched-man-who-wiped-grapheneos-phone-for-child-abuse-material-they-lied/:2026-10-21T00:19"
-  },
-  {
-   "ts": "2026-10-20T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] MicroG: Free-libre re-implementation of Google's proprietary",
-   "body": "Hacker News · 점수 367",
-   "link": "https://github.com/microg/GmsCore/wiki",
-   "source": "Hacker News",
-   "id": "community:https://github.com/microg/GmsCore/wiki:2026-10-20T23:49"
   }
  ]
 }
