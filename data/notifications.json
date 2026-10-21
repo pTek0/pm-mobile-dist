@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-21T08:49:08+00:00",
+ "generated_at": "2026-10-21T09:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-21T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97206 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-97206 📢 Source: NLnet Labs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False NLnet Labs Unbound, 1.22.0 up to and including version 1.26.1, contains a DNS-over-QUIC",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97206",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97206:2026-10-21T09:19"
+  },
+  {
+   "ts": "2026-10-21T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70387 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-70387 📢 Source: ENISA 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Exposed dangerous method or function and Incorrect Authorization vulnerability in OnePlus Ox",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70387",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70387:2026-10-21T09:19"
+  },
+  {
+   "ts": "2026-10-21T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70386 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-70386 📢 Source: ENISA 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Exposed dangerous method or function vulnerability in OnePlus OxygenOS on Android. This issu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70386",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70386:2026-10-21T09:19"
+  },
   {
    "ts": "2026-10-21T08:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2016-20103",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2016-20103:2026-10-20T20:49"
-  },
-  {
-   "ts": "2026-10-20T20:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2016-20101 (CVSS 9.2)",
-   "body": "🚨 CVE-2016-20101 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Issuu Panel plugin for WordPress before 1.6.6 contains a PHP file inclusion vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2016-20101",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2016-20101:2026-10-20T20:49"
-  },
-  {
-   "ts": "2026-10-20T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2016-20100 (CVSS 8.7)",
-   "body": "🚨 CVE-2016-20100 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memphis Documents Library plugin for WordPress before 3.1.6 contains a path traversal vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2016-20100",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2016-20100:2026-10-20T20:49"
-  },
-  {
-   "ts": "2026-10-20T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2015-20128 (CVSS 8.8)",
-   "body": "🚨 CVE-2015-20128 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True FooSun DotNetCMS 1.0 and 2.0 contains an SQL injection vulnerability that allows unauthen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2015-20128",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2015-20128:2026-10-20T20:49"
   }
  ]
 }
