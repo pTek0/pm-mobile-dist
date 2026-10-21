@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-21T09:19:07+00:00",
+ "generated_at": "2026-10-21T09:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-21T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110884 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-110884 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110884",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110884:2026-10-21T09:49"
+  },
+  {
+   "ts": "2026-10-21T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110370 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-110370 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in GS Plugins GS Pins for Pinterest gs-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110370",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110370:2026-10-21T09:49"
+  },
+  {
+   "ts": "2026-10-21T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110369 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-110369 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in GS Plugins WordPress Team Members – ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110369",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110369:2026-10-21T09:49"
+  },
   {
    "ts": "2026-10-21T09:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92559",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92559:2026-10-20T22:19"
-  },
-  {
-   "ts": "2026-10-20T21:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-112712 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-112712 📢 Source: openjs 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False @fastify /middie is the Express-style middleware engine for Fastify. In versions from ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112712",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112712:2026-10-20T21:19"
-  },
-  {
-   "ts": "2026-10-20T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2016-20104 (CVSS 8.7)",
-   "body": "🚨 CVE-2016-20104 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True EyeLock nano NXT 3.05.1193, 3.04.1108, 3.03.944, and 3.01.646 contain a path traversal vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2016-20104",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2016-20104:2026-10-20T20:49"
-  },
-  {
-   "ts": "2026-10-20T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2016-20103 (CVSS 8.7)",
-   "body": "🚨 CVE-2016-20103 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Cherry Plugin for WordPress before 1.2.7 contains a path traversal vulnerability that all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2016-20103",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2016-20103:2026-10-20T20:49"
   }
  ]
 }
