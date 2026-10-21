@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-21T23:19:07+00:00",
+ "generated_at": "2026-10-21T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-21T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-15723 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-15723 📢 Source: GitLab 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 10.1 before 19.3.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15723",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15723:2026-10-21T23:49"
+  },
+  {
+   "ts": "2026-10-21T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112212 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-112212 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.3 before 19.3",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112212",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112212:2026-10-21T23:49"
+  },
+  {
+   "ts": "2026-10-21T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Claude Duet",
+   "body": "Hacker News · 점수 259",
+   "link": "https://claude.com/product/claude-duet",
+   "source": "Hacker News",
+   "id": "community:https://claude.com/product/claude-duet:2026-10-21T23:49"
+  },
+  {
+   "ts": "2026-10-21T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] am I late for this meme",
+   "body": "Lemmy · programming.dev · 점수 246",
+   "link": "https://lemmy.today/pictrs/image/49c5eb8a-9573-4c09-9315-163d92a52a95.jpeg",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.today/pictrs/image/49c5eb8a-9573-4c09-9315-163d92a52a95.jpeg:2026-10-21T23:49"
+  },
+  {
+   "ts": "2026-10-21T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Patch the Planet: global response coordination as agents unc",
+   "body": "Hacker News · 점수 217",
+   "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+   "source": "Hacker News",
+   "id": "community:https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/:2026-10-21T23:49"
+  },
+  {
+   "ts": "2026-10-21T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] OpenAI models are coming to Google Cloud",
+   "body": "Hacker News · 점수 204",
+   "link": "https://openai.com/index/openai-models-google-cloud/",
+   "source": "Hacker News",
+   "id": "community:https://openai.com/index/openai-models-google-cloud/:2026-10-21T23:49"
+  },
+  {
+   "ts": "2026-10-21T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] what a week huh",
+   "body": "Lemmy · programming.dev · 점수 188",
+   "link": "https://slrpnk.net/pictrs/image/b088ed82-5021-48e1-b84d-995331a5a0e9.jpeg",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://slrpnk.net/pictrs/image/b088ed82-5021-48e1-b84d-995331a5a0e9.jpeg:2026-10-21T23:49"
+  },
   {
    "ts": "2026-10-21T23:19:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92204",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92204:2026-10-21T17:49"
-  },
-  {
-   "ts": "2026-10-21T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92203 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-92203 📢 Source: zdi 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Airbyte SharePoint Connector _get_shared_drive_object Server-Side Request Forgery Information ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92203",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92203:2026-10-21T17:49"
-  },
-  {
-   "ts": "2026-10-21T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92202 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-92202 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Luxion KeyShot BIP File Parsing Uncontrolled Search Path Element Remote Code Execution Vulnera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92202",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92202:2026-10-21T17:49"
-  },
-  {
-   "ts": "2026-10-21T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92183 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-92183 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False GIMP APNG File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability. This v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92183",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92183:2026-10-21T17:49"
-  },
-  {
-   "ts": "2026-10-21T17:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-89035 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-89035 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True MikroTik RouterOS through 7.24.5 contains a session token replay vulnerability in the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89035",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89035:2026-10-21T17:49"
-  },
-  {
-   "ts": "2026-10-21T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114490 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-114490 📢 Source: GitLab 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Incorrect authorization in the COM administration API of Progressive Robot hMailServer 6.3",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114490",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114490:2026-10-21T16:19"
-  },
-  {
-   "ts": "2026-10-21T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114489 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-114489 📢 Source: GitLab 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Missing authorization in the REST and COM administration APIs of Progressive Robot hMailSer",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114489",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114489:2026-10-21T16:19"
-  },
-  {
-   "ts": "2026-10-21T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114476 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-114476 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Incorrect authorization in the REST administration API of Progressive Robot hMailServer 6.3",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114476",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114476:2026-10-21T15:49"
   }
  ]
 }
