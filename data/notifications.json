@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-10-21T19:19:08+00:00",
+ "generated_at": "2026-10-21T19:49:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-21T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112408 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-112408 📢 Source: AMZN 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Missing verification of source of a communication channel in the default_bucket() functio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112408",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112408:2026-10-21T19:49"
+  },
+  {
+   "ts": "2026-10-21T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112381 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-112381 📢 Source: apache 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Apache Traffic Server can crash with a null pointer dereference when a client POST request ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112381",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112381:2026-10-21T19:49"
+  },
+  {
+   "ts": "2026-10-21T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111812 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-111812 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Apache Traffic Server's origin_server_auth plugin lets a client force signing of attacke",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111812",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111812:2026-10-21T19:49"
+  },
+  {
+   "ts": "2026-10-21T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111811 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-111811 📢 Source: apache 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Apache Traffic Server's experimental tsmemcache plugin allows unauthenticated network r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111811",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111811:2026-10-21T19:49"
+  },
+  {
+   "ts": "2026-10-21T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111815 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-111815 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Apache Traffic Server can resume a TLS session across SNI virtual hosts without re-verif",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111815",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111815:2026-10-21T19:49"
+  },
+  {
+   "ts": "2026-10-21T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111814 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-111814 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Apache Traffic Server's default outbound session-sharing policy can reuse a pooled TLS s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111814",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111814:2026-10-21T19:49"
+  },
+  {
+   "ts": "2026-10-21T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111810 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-111810 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Apache Traffic Server 9.2.15, 10.1.4 and 10.2.0 write one unthrottled diagnostic log line f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111810",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111810:2026-10-21T19:49"
+  },
+  {
+   "ts": "2026-10-21T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111809 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-111809 📢 Source: apache 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Apache Traffic Server allows request smuggling via HEAD requests that carry Content-Len",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111809",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111809:2026-10-21T19:49"
+  },
+  {
+   "ts": "2026-10-21T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111808 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111808 📢 Source: apache 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Apache Traffic Server can be used to exhaust an HTTP/1.1 origin's worker pool via a malform",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111808",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111808:2026-10-21T19:49"
+  },
+  {
+   "ts": "2026-10-21T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111805 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111805 📢 Source: apache 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Apache Traffic Server can be used to exhaust an HTTP/1.1 origin's worker pool via a truncat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111805",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111805:2026-10-21T19:49"
+  },
   {
    "ts": "2026-10-21T18:49:07+00:00",
    "level": "important",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-104948",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104948:2026-10-21T14:19"
-  },
-  {
-   "ts": "2026-10-21T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-109618 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-109618 📢 Source: php 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort ha",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109618",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109618:2026-10-21T14:19"
-  },
-  {
-   "ts": "2026-10-21T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114403 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-114403 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True PHPOffice PHPPresentation through 1.2.0 contains an insecure deserialization vulnera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114403",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114403:2026-10-21T13:19"
-  },
-  {
-   "ts": "2026-10-21T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114400 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-114400 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Trudesk through 1.2.11 contains a missing authentication vulnerability that allows unaut",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114400",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114400:2026-10-21T13:19"
-  },
-  {
-   "ts": "2026-10-21T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114399 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-114399 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Trudesk through 1.2.11 contains a path traversal vulnerability that allows administrators ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114399",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114399:2026-10-21T13:19"
-  },
-  {
-   "ts": "2026-10-21T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114397 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-114397 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Trudesk through 1.2.11 contains a missing authentication vulnerability in debug routes e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114397",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114397:2026-10-21T13:19"
-  },
-  {
-   "ts": "2026-10-21T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114396 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-114396 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Trudesk through 1.2.11 contains a server-side JavaScript injection vulnerability that al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114396",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114396:2026-10-21T13:19"
-  },
-  {
-   "ts": "2026-10-21T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114391 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-114391 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ZenTao PMS before 22.3 contains an authorization bypass vulnerability in commonModel::is",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114391",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114391:2026-10-21T13:19"
-  },
-  {
-   "ts": "2026-10-21T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114387 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-114387 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Shopper from 2.0.0 before 2.6.0 contains a missing authorization vulnerability that allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114387",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114387:2026-10-21T13:19"
-  },
-  {
-   "ts": "2026-10-21T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Setting up SSH keys on macOS with Touch ID",
-   "body": "Lobsters · 점수 59",
-   "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-   "source": "Lobsters",
-   "id": "community:https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/:2026-10-21T12:19"
-  },
-  {
-   "ts": "2026-10-21T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] NixOS is making me less afraid",
-   "body": "Lobsters · 점수 51",
-   "link": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-   "source": "Lobsters",
-   "id": "community:https://entropicthoughts.com/nixos-is-making-me-less-afraid:2026-10-21T12:19"
   }
  ]
 }
