@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-21T08:19:07+00:00",
+ "generated_at": "2026-10-21T08:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-21T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110938 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-110938 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Eclipse OpenJ9 versions up to 0.63.0, the JITServer component is vulnerable to denial o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110938",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110938:2026-10-21T08:49"
+  },
   {
    "ts": "2026-10-21T08:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2015-20128",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2015-20128:2026-10-20T20:49"
-  },
-  {
-   "ts": "2026-10-20T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2015-20125 (CVSS 8.7)",
-   "body": "🚨 CVE-2015-20125 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Aspose PDF Exporter plugin for WordPress before 2.0 contains a path traversal vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2015-20125",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2015-20125:2026-10-20T20:49"
   }
  ]
 }
