@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-21T17:49:09+00:00",
+ "generated_at": "2026-10-21T18:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-21T18:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105869 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-105869 📢 Source: apache 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Apache Pulsar's MultiRolesTokenAuthorizationProvider authorizes a client with all roles",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105869",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105869:2026-10-21T18:19"
+  },
+  {
+   "ts": "2026-10-21T18:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-114493 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-114493 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True LocalAI v4.6.0 through v4.11.0 contains a server-side request forgery vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114493",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114493:2026-10-21T18:19"
+  },
+  {
+   "ts": "2026-10-21T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114492 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-114492 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True gin-vue-admin through 2.9.2 contains a path traversal vulnerability that allows authentica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114492",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114492:2026-10-21T18:19"
+  },
+  {
+   "ts": "2026-10-21T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110744 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-110744 📢 Source: redhat 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A flaw was found in multicluster-global-hub-operator-bundle. The operator is configured wit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110744",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110744:2026-10-21T18:19"
+  },
   {
    "ts": "2026-10-21T17:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
    "source": "Hacker News",
    "id": "community:https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/:2026-10-21T11:19"
-  },
-  {
-   "ts": "2026-10-21T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Google open-sources TorchTPU, a native PyTorch back end for ",
-   "body": "Hacker News · 점수 344",
-   "link": "https://github.com/google-pytorch/torch_tpu",
-   "source": "Hacker News",
-   "id": "community:https://github.com/google-pytorch/torch_tpu:2026-10-21T11:19"
-  },
-  {
-   "ts": "2026-10-21T10:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-87095 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-87095 📢 Source: Acronis 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False Sensitive information disclosure and manipulation due to improper authorization checks",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87095",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87095:2026-10-21T10:49"
-  },
-  {
-   "ts": "2026-10-21T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110884 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-110884 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110884",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110884:2026-10-21T09:49"
-  },
-  {
-   "ts": "2026-10-21T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110370 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-110370 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in GS Plugins GS Pins for Pinterest gs-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110370",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110370:2026-10-21T09:49"
   }
  ]
 }
