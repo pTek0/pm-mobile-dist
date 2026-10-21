@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-10-21T18:19:11+00:00",
+ "generated_at": "2026-10-21T18:49:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-21T18:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111816 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-111816 📢 Source: apache 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Apache Traffic Server forwarded a malformed 302 response that should have been rejected",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111816",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111816:2026-10-21T18:49"
+  },
+  {
+   "ts": "2026-10-21T18:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111813 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-111813 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Apache Traffic Server's experimental magick plugin lets an unauthenticated client contro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111813",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111813:2026-10-21T18:49"
+  },
+  {
+   "ts": "2026-10-21T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111804 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-111804 📢 Source: apache 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Apache Traffic Server's experimental wasm plugin has a use-after-free in its transaction-cl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111804",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111804:2026-10-21T18:49"
+  },
+  {
+   "ts": "2026-10-21T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110803 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-110803 📢 Source: Vaadin 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True VaadinService.requestEnd() in Vaadin Framework 8 locks the session and then reads the v-uiI",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110803",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110803:2026-10-21T18:49"
+  },
+  {
+   "ts": "2026-10-21T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107588 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-107588 📢 Source: Vaadin 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Vaadin Charts renders charts with the Highcharts library and pins an exact version of it, 9",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107588",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107588:2026-10-21T18:49"
+  },
+  {
+   "ts": "2026-10-21T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105945 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-105945 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True The Pulsar Packages Management Service can be configured to store packages on the local fil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105945",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105945:2026-10-21T18:49"
+  },
+  {
+   "ts": "2026-10-21T18:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105944 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-105944 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Apache Pulsar Manager is a web console for administering Apache Pulsar clusters. It has ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105944",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105944:2026-10-21T18:49"
+  },
+  {
+   "ts": "2026-10-21T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105942 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-105942 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True When a configured proxy role sends a request to the broker on behalf of another user (the o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105942",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105942:2026-10-21T18:49"
+  },
+  {
+   "ts": "2026-10-21T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105934 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-105934 📢 Source: apache 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True The Apache Pulsar broker admin REST API provides a truncate operation for persistent topics",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105934",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105934:2026-10-21T18:49"
+  },
+  {
+   "ts": "2026-10-21T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-55702 (CVSS 8.7)",
+   "body": "🚨 CVE-2025-55702 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True When a client sends a POST with Expect: 100-continue and the origin answers before reading t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-55702",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-55702:2026-10-21T18:49"
+  },
+  {
+   "ts": "2026-10-21T18:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-31699 (CVSS 9.1)",
+   "body": "🚨 CVE-2025-31699 📢 Source: apache 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Apache Traffic Server can return an origin connection to the shared pool while the origi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-31699",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-31699:2026-10-21T18:49"
+  },
   {
    "ts": "2026-10-21T18:19:07+00:00",
    "level": "important",
@@ -391,116 +501,6 @@
    "link": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
    "source": "Lobsters",
    "id": "community:https://entropicthoughts.com/nixos-is-making-me-less-afraid:2026-10-21T12:19"
-  },
-  {
-   "ts": "2026-10-21T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Hands on With The Retroid Pocket Duo; A Little More Magic Th",
-   "body": "Lemmy · technology · 점수 51",
-   "link": "https://gardinerbryant.com/hands-on-with-the-retroid-pocket-duo/",
-   "source": "Lemmy · technology",
-   "id": "community:https://gardinerbryant.com/hands-on-with-the-retroid-pocket-duo/:2026-10-21T12:19"
-  },
-  {
-   "ts": "2026-10-21T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Delivery Robots Accused Of Scanning Customers’ Faces, Sharin",
-   "body": "Lemmy · technology · 점수 50",
-   "link": "https://apnews.com/article/chicago-food-delivery-robots-biometric-data-lawsuits-16ead54eb7dc7c6eacbf011c53b9b20d",
-   "source": "Lemmy · technology",
-   "id": "community:https://apnews.com/article/chicago-food-delivery-robots-biometric-data-lawsuits-16ead54eb7dc7c6eacbf011c53b9b20d:2026-10-21T12:19"
-  },
-  {
-   "ts": "2026-10-21T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft reportedly projects $1,200 to $1,800 price for 202",
-   "body": "Lemmy · technology · 점수 146",
-   "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/:2026-10-21T11:49"
-  },
-  {
-   "ts": "2026-10-21T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Presented by the number 4",
-   "body": "Lemmy · programming.dev · 점수 123",
-   "link": "https://lemmy.ml/pictrs/image/6bfa1aa4-52d3-43d6-a1b1-3544011881df.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.ml/pictrs/image/6bfa1aa4-52d3-43d6-a1b1-3544011881df.jpeg:2026-10-21T11:49"
-  },
-  {
-   "ts": "2026-10-21T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] This won't be controversial at all",
-   "body": "Lemmy · programming.dev · 점수 123",
-   "link": "https://sh.itjust.works/pictrs/image/c2d20a30-9f1d-4541-b5fd-d5eeb5319b45.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://sh.itjust.works/pictrs/image/c2d20a30-9f1d-4541-b5fd-d5eeb5319b45.jpeg:2026-10-21T11:49"
-  },
-  {
-   "ts": "2026-10-21T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Upcoming Critical PHP Security Release",
-   "body": "Lobsters · 점수 86",
-   "link": "https://www.php.net/archive/2026.php#2026-10-20-1",
-   "source": "Lobsters",
-   "id": "community:https://www.php.net/archive/2026.php#2026-10-20-1:2026-10-21T11:49"
-  },
-  {
-   "ts": "2026-10-21T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How shitty standards stick around",
-   "body": "Lemmy · programming.dev · 점수 79",
-   "link": "https://programming.dev/pictrs/image/7d672888-0fb6-431e-b862-15df4d6358e0.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://programming.dev/pictrs/image/7d672888-0fb6-431e-b862-15df4d6358e0.jpeg:2026-10-21T11:49"
-  },
-  {
-   "ts": "2026-10-21T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Upcoming critical PHP security release (CVE-2026-109618 / -1",
-   "body": "Hacker News · 점수 944",
-   "link": "https://news-web.php.net/php.announce/509",
-   "source": "Hacker News",
-   "id": "community:https://news-web.php.net/php.announce/509:2026-10-21T11:19"
-  },
-  {
-   "ts": "2026-10-21T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Internet goes on high alert after discovery of 8 comprom",
-   "body": "Lemmy · technology · 점수 545",
-   "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/:2026-10-21T11:19"
-  },
-  {
-   "ts": "2026-10-21T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] What shall I teach my son?",
-   "body": "Hacker News · 점수 408",
-   "link": "https://stevekrouse.com/ends",
-   "source": "Hacker News",
-   "id": "community:https://stevekrouse.com/ends:2026-10-21T11:19"
-  },
-  {
-   "ts": "2026-10-21T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ofcom concedes defeat in 4chan case",
-   "body": "Hacker News · 점수 399",
-   "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-   "source": "Hacker News",
-   "id": "community:https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/:2026-10-21T11:19"
   }
  ]
 }
