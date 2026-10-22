@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-22T00:19:07+00:00",
+ "generated_at": "2026-10-22T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A critical PHP vulnerability may take websites down today",
+   "body": "Lemmy · technology · 점수 62",
+   "link": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress:2026-10-22T00:49"
+  },
+  {
+   "ts": "2026-10-22T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Firefox Local Mode",
+   "body": "Lobsters · 점수 55",
+   "link": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+   "source": "Lobsters",
+   "id": "community:https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html:2026-10-22T00:49"
+  },
+  {
+   "ts": "2026-10-22T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Unikernels in OCaml",
+   "body": "Lobsters · 점수 55",
+   "link": "https://uniker.nl/",
+   "source": "Lobsters",
+   "id": "community:https://uniker.nl/:2026-10-22T00:49"
+  },
+  {
+   "ts": "2026-10-22T00:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The Future of CSS",
+   "body": "Lobsters · 점수 54",
+   "link": "https://www.joshwcomeau.com/css/interop-2027/",
+   "source": "Lobsters",
+   "id": "community:https://www.joshwcomeau.com/css/interop-2027/:2026-10-22T00:49"
+  },
   {
    "ts": "2026-10-22T00:19:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105869",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105869:2026-10-21T18:19"
-  },
-  {
-   "ts": "2026-10-21T18:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114493 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-114493 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True LocalAI v4.6.0 through v4.11.0 contains a server-side request forgery vulnerability ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114493",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114493:2026-10-21T18:19"
-  },
-  {
-   "ts": "2026-10-21T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114492 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-114492 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True gin-vue-admin through 2.9.2 contains a path traversal vulnerability that allows authentica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114492",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114492:2026-10-21T18:19"
-  },
-  {
-   "ts": "2026-10-21T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110744 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-110744 📢 Source: redhat 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A flaw was found in multicluster-global-hub-operator-bundle. The operator is configured wit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110744",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110744:2026-10-21T18:19"
-  },
-  {
-   "ts": "2026-10-21T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92210 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-92210 📢 Source: zdi 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False NoMachine nxhtd Server-Side Request Forgery Information Disclosure Vulnerability. This vulnera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92210",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92210:2026-10-21T17:49"
   }
  ]
 }
