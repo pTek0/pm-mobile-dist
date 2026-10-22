@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-22T12:49:07+00:00",
+ "generated_at": "2026-10-22T13:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T13:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-102785 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-102785 📢 Source: Joomla 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - yootheme.com - Unauthenticated remote code execution in YOOtheme Pro ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102785",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102785:2026-10-22T13:19"
+  },
   {
    "ts": "2026-10-22T12:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-114730",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114730:2026-10-22T02:49"
-  },
-  {
-   "ts": "2026-10-22T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2024-45747 (CVSS 7.2)",
-   "body": "🚨 CVE-2024-45747 📢 Source: github-security-advisories 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True ### Summary A server-side template injection (SSTI) vulnerability exist ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2024-45747",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-45747:2026-10-22T02:49"
   }
  ]
 }
