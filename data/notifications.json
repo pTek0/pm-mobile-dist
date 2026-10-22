@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-10-22T18:49:07+00:00",
+ "generated_at": "2026-10-22T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115349 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-115349 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Mistune from 3.0.0 before 3.3.0 contains an algorithmic complexity denial of service vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115349",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115349:2026-10-22T19:19"
+  },
+  {
+   "ts": "2026-10-22T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115348 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-115348 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Mistune from 3.0.0 before 3.3.0 contains an algorithmic complexity vulnerability in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115348",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115348:2026-10-22T19:19"
+  },
+  {
+   "ts": "2026-10-22T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115347 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-115347 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Mistune before 3.3.0 contains an inefficient algorithmic complexity vulnerability in par",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115347",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115347:2026-10-22T19:19"
+  },
+  {
+   "ts": "2026-10-22T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114653 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-114653 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A client-side encryption schema construction component in the MongoDB C# Driver places cal",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114653",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114653:2026-10-22T19:19"
+  },
+  {
+   "ts": "2026-10-22T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114652 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-114652 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A data-query-logic neutralization weakness in the update-statement construction component ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114652",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114652:2026-10-22T19:19"
+  },
+  {
+   "ts": "2026-10-22T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114649 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-114649 📢 Source: mongodb 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True The MongoDB C# Driver compares TLS client certificates by issuer and serial number only wh",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114649",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114649:2026-10-22T19:19"
+  },
+  {
+   "ts": "2026-10-22T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114648 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-114648 📢 Source: mongodb 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True The MongoDB C# Driver does not neutralize dot and dollar characters in dictionary keys, fi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114648",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114648:2026-10-22T19:19"
+  },
+  {
+   "ts": "2026-10-22T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114644 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-114644 📢 Source: mongodb 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True The MongoDB C# Driver's BSON library contains an uncontrolled resource consumption weaknes",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114644",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114644:2026-10-22T19:19"
+  },
+  {
+   "ts": "2026-10-22T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114519 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-114519 📢 Source: Secur0 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Missing Authorization (CWE-862) in the user API of Roskus Prospero Flow CRM from 2.0.0 befo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114519",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114519:2026-10-22T19:19"
+  },
+  {
+   "ts": "2026-10-22T19:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2022-51026 (CVSS 9.8)",
+   "body": "🚨 CVE-2022-51026 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Bytebase 0.12.0 before 1.0.1 contains an authentication bypass vulnerability that all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2022-51026",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51026:2026-10-22T19:19"
+  },
   {
    "ts": "2026-10-22T18:49:06+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2019-25778",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2019-25778:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2018-25439 (CVSS 8.7)",
-   "body": "🚨 CVE-2018-25439 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True MetInfo CMS 6.0.0 before 6.1.1 contains a path traversal vulnerability in /include/thumb.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2018-25439",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2018-25439:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2018-25438 (CVSS 8.7)",
-   "body": "🚨 CVE-2018-25438 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Intermesh Group-Office 3.3.0 before 3.5.5 contains an unauthenticated path traversal vuln",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2018-25438",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2018-25438:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] There isn't an easy exploit for this PHP vulnerability",
-   "body": "Hacker News · 점수 537",
-   "link": "https://eliastaylor.com/noexploit/",
-   "source": "Hacker News",
-   "id": "community:https://eliastaylor.com/noexploit/:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] mitmproxy adds --emudhra option",
-   "body": "Hacker News · 점수 492",
-   "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-   "source": "Hacker News",
-   "id": "community:https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Security Disclosure",
-   "body": "Hacker News · 점수 477",
-   "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-   "source": "Hacker News",
-   "id": "community:https://blog.railway.com/p/security-disclosure-wednesday-october-21st:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The PHP part never gets old",
-   "body": "Lemmy · programming.dev · 점수 411",
-   "link": "https://toggl.com/blog/wp-content/uploads/2018/08/toggl-how-to-create-horse-with-programming.jpg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://toggl.com/blog/wp-content/uploads/2018/08/toggl-how-to-create-horse-with-programming.jpg:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GitLab critical patch release",
-   "body": "Hacker News · 점수 356",
-   "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-   "source": "Hacker News",
-   "id": "community:https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112820 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-112820 📢 Source: Patchstack 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112820",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112820:2026-10-22T10:49"
-  },
-  {
-   "ts": "2026-10-22T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112313 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-112313 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112313",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112313:2026-10-22T10:49"
-  },
-  {
-   "ts": "2026-10-22T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111079 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-111079 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Goose. When the terminal integration feature is enabled, the applicatio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111079",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111079:2026-10-22T10:49"
   }
  ]
 }
