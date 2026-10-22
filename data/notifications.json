@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-22T20:19:07+00:00",
+ "generated_at": "2026-10-22T20:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115417 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-115417 📢 Source: AMZN 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Memory allocation with excessive size value in the MQTT 3.1.1 compatibility adapter in AWS aw",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115417",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115417:2026-10-22T20:49"
+  },
+  {
+   "ts": "2026-10-22T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115419 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-115419 📢 Source: AMZN 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True The A2A server component in Amazon Strands Agents SDK for Python before 1.43.0 and Amazon Str",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115419",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115419:2026-10-22T20:49"
+  },
   {
    "ts": "2026-10-22T19:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2022-51024",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51024:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2022-51023 (CVSS 8.8)",
-   "body": "🚨 CVE-2022-51023 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True PHPOK 4.5.000 before 5.4.081 contains an SQL injection vulnerability that allows unauthen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2022-51023",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51023:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2022-51022 (CVSS 9.1)",
-   "body": "🚨 CVE-2022-51022 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True YiShaAdmin 2.2 through 3.1, fixed in commit 025b062, contains an unauthenticated path",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2022-51022",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51022:2026-10-22T11:19"
   }
  ]
 }
