@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-10-22T21:49:08+00:00",
+ "generated_at": "2026-10-22T22:19:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96616 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-96616 📢 Source: icscert 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Authentication tokens issued by the E3's web management interface on login are given an exp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96616",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96616:2026-10-22T22:19"
+  },
+  {
+   "ts": "2026-10-22T22:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109122 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-109122 📢 Source: icscert 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True The network management service on affected Kiloview E3 NDI encoder firmware fails to s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109122",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109122:2026-10-22T22:19"
+  },
+  {
+   "ts": "2026-10-22T22:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-97785 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-97785 📢 Source: microsoft 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-22T21:44:41.227Z https://cvefeed.io/vuln/detail/CVE-20",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97785",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97785:2026-10-22T22:19"
+  },
+  {
+   "ts": "2026-10-22T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96185 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-96185 📢 Source: microsoft 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-22T21:44:41.837Z https://cvefeed.io/vuln/detail/CVE-2026-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96185",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96185:2026-10-22T22:19"
+  },
+  {
+   "ts": "2026-10-22T22:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-83938 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-83938 📢 Source: microsoft 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-22T21:44:42.272Z https://cvefeed.io/vuln/detail/CVE-20",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83938",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83938:2026-10-22T22:19"
+  },
+  {
+   "ts": "2026-10-22T22:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-110063 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-110063 📢 Source: microsoft 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-22T21:44:42.868Z https://cvefeed.io/vuln/detail/CVE-2",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110063",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110063:2026-10-22T22:19"
+  },
+  {
+   "ts": "2026-10-22T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108456 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-108456 📢 Source: microsoft 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-22T21:44:40.650Z https://cvefeed.io/vuln/detail/CVE-2026",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108456",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108456:2026-10-22T22:19"
+  },
+  {
+   "ts": "2026-10-22T22:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-105014 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-105014 📢 Source: microsoft 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-22T21:44:40.069Z https://cvefeed.io/vuln/detail/CVE-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105014",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105014:2026-10-22T22:19"
+  },
   {
    "ts": "2026-10-22T21:49:06+00:00",
    "level": "important",
@@ -421,86 +501,6 @@
    "link": "https://zigtools.org/zls/releases/0.17.0/",
    "source": "Lobsters",
    "id": "community:https://zigtools.org/zls/releases/0.17.0/:2026-10-22T12:19"
-  },
-  {
-   "ts": "2026-10-22T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] PingCap TiDB Leaks",
-   "body": "Hacker News · 점수 352",
-   "link": "https://fulcrumsec.vg/pingcap/",
-   "source": "Hacker News",
-   "id": "community:https://fulcrumsec.vg/pingcap/:2026-10-22T11:49"
-  },
-  {
-   "ts": "2026-10-22T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Trump officials asked CISA to secretly hack a voting machine",
-   "body": "Lemmy · technology · 점수 334",
-   "link": "https://www.techradar.com/pro/trump-officials-asked-cisa-to-secretly-hack-a-voting-machine-and-not-disclose-any-vulnerabilities-they-found",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.techradar.com/pro/trump-officials-asked-cisa-to-secretly-hack-a-voting-machine-and-not-disclose-any-vulnerabilities-they-found:2026-10-22T11:49"
-  },
-  {
-   "ts": "2026-10-22T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Shoulda listened",
-   "body": "Lemmy · programming.dev · 점수 328",
-   "link": "https://lemy.lol/pictrs/image/940bc5ab-025c-4fba-9772-212055f1e824.webp",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemy.lol/pictrs/image/940bc5ab-025c-4fba-9772-212055f1e824.webp:2026-10-22T11:49"
-  },
-  {
-   "ts": "2026-10-22T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Xbox wants you to pay 24 to 40 cents per hour to stream game",
-   "body": "Lemmy · technology · 점수 225",
-   "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/:2026-10-22T11:49"
-  },
-  {
-   "ts": "2026-10-22T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Farewell, BioWare: The End of an RPG Giant",
-   "body": "Lemmy · technology · 점수 119",
-   "link": "https://gardinerbryant.com/farewell-bioware-the-end-of-an-rpg-giant/",
-   "source": "Lemmy · technology",
-   "id": "community:https://gardinerbryant.com/farewell-bioware-the-end-of-an-rpg-giant/:2026-10-22T11:49"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-112832 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-112832 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Rem",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112832",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112832:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112822 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-112822 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112822",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112822:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2024-58393 (CVSS 8.8)",
-   "body": "🚨 CVE-2024-58393 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True i-Netsolution Readymade Unilevel Ecommerce MLM (2024-03-15 build) contains an SQL injecti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58393",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58393:2026-10-22T11:19"
   }
  ]
 }
