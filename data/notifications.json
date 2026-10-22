@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-22T22:19:12+00:00",
+ "generated_at": "2026-10-22T22:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92450 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-92450 📢 Source: icscert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The authentication framework used by affected Kiloview E3 NDI encoder firmware signs sessio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92450",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92450:2026-10-22T22:49"
+  },
+  {
+   "ts": "2026-10-22T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110825 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-110825 📢 Source: icscert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The ONVIF device service on affected Kiloview E3 NDI encoder firmware accepts hostname, DN",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110825",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110825:2026-10-22T22:49"
+  },
+  {
+   "ts": "2026-10-22T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110491 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-110491 📢 Source: icscert 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The ONVIF service on the E3 can be rendered unresponsive by sending malformed or incomplet",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110491",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110491:2026-10-22T22:49"
+  },
+  {
+   "ts": "2026-10-22T22:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-110243 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-110243 📢 Source: icscert 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True The network management service on affected Kiloview E3 NDI encoder firmware fails to v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110243",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110243:2026-10-22T22:49"
+  },
+  {
+   "ts": "2026-10-22T22:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107861 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-107861 📢 Source: icscert 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True The system control service on affected Kiloview E3 NDI encoder firmware fails to sanit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107861",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107861:2026-10-22T22:49"
+  },
   {
    "ts": "2026-10-22T22:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66279",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66279:2026-10-22T14:19"
-  },
-  {
-   "ts": "2026-10-22T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-113582 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-113582 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True UNSUPPORTED WHEN ASSIGNED Improper restriction of XML external entity references in Apache ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113582",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113582:2026-10-22T13:49"
-  },
-  {
-   "ts": "2026-10-22T13:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111497 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-111497 📢 Source: Google 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111497",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111497:2026-10-22T13:49"
-  },
-  {
-   "ts": "2026-10-22T13:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-102785 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-102785 📢 Source: Joomla 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - yootheme.com - Unauthenticated remote code execution in YOOtheme Pro ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102785",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102785:2026-10-22T13:19"
-  },
-  {
-   "ts": "2026-10-22T12:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Meta hit with $25 Billion penalty for deceiving users about ",
-   "body": "Lemmy · technology · 점수 69",
-   "link": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
-   "source": "Lemmy · technology",
-   "id": "community:https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/:2026-10-22T12:19"
-  },
-  {
-   "ts": "2026-10-22T12:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] zls 0.17.0",
-   "body": "Lobsters · 점수 65",
-   "link": "https://zigtools.org/zls/releases/0.17.0/",
-   "source": "Lobsters",
-   "id": "community:https://zigtools.org/zls/releases/0.17.0/:2026-10-22T12:19"
   }
  ]
 }
