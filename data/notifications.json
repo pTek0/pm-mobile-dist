@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-22T01:19:08+00:00",
+ "generated_at": "2026-10-22T01:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2014-4179 (CVSS 7.5)",
+   "body": "🚨 CVE-2014-4179 📢 Source: github-security-advisories 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Versions of `yar` prior to 2.2.0 are affected by a denial of service vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2014-4179",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2014-4179:2026-10-22T01:49"
+  },
+  {
+   "ts": "2026-10-22T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2014-4931 (CVSS 7.5)",
+   "body": "🚨 CVE-2014-4931 📢 Source: github-security-advisories 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True When investigating issue [#11093]( https://github.com/symfony/symfony/iss",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2014-4931",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2014-4931:2026-10-22T01:49"
+  },
+  {
+   "ts": "2026-10-22T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2014-5244 (CVSS 7.5)",
+   "body": "🚨 CVE-2014-5244 📢 Source: github-security-advisories 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True All 2.0.X, 2.1.X, 2.2.X, 2.3.X, 2.4.X, and 2.5.X versions of the Symfony ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2014-5244",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2014-5244:2026-10-22T01:49"
+  },
+  {
+   "ts": "2026-10-22T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2014-5245 (CVSS 7.5)",
+   "body": "🚨 CVE-2014-5245 📢 Source: github-security-advisories 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True All 2.2.X, 2.3.X, 2.4.X, and 2.5.X versions of the Symfony HttpKernel com",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2014-5245",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2014-5245:2026-10-22T01:49"
+  },
+  {
+   "ts": "2026-10-22T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2014-6072 (CVSS 8.1)",
+   "body": "🚨 CVE-2014-6072 📢 Source: github-security-advisories 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True All 2.0.X, 2.1.X, 2.2.X, 2.3.X, 2.4.X, and 2.5.X versions of the Symfony ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2014-6072",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2014-6072:2026-10-22T01:49"
+  },
+  {
+   "ts": "2026-10-22T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2014-8882 (CVSS 7.5)",
+   "body": "🚨 CVE-2014-8882 📢 Source: github-security-advisories 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Versions of `validator` prior to 3.22.1 are affected by a regular express",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2014-8882",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2014-8882:2026-10-22T01:49"
+  },
+  {
+   "ts": "2026-10-22T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2016-1000249 (CVSS 7.3)",
+   "body": "🚨 CVE-2016-1000249 📢 Source: github-security-advisories 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True `fury-adapter-swagger` from version 0.2.0 until version 0.9.7 has a we",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2016-1000249",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2016-1000249:2026-10-22T01:49"
+  },
   {
    "ts": "2026-10-22T01:19:06+00:00",
    "level": "important",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110803",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110803:2026-10-21T18:49"
-  },
-  {
-   "ts": "2026-10-21T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107588 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-107588 📢 Source: Vaadin 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Vaadin Charts renders charts with the Highcharts library and pins an exact version of it, 9",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107588",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107588:2026-10-21T18:49"
-  },
-  {
-   "ts": "2026-10-21T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105945 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-105945 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True The Pulsar Packages Management Service can be configured to store packages on the local fil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105945",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105945:2026-10-21T18:49"
-  },
-  {
-   "ts": "2026-10-21T18:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105944 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-105944 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Apache Pulsar Manager is a web console for administering Apache Pulsar clusters. It has ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105944",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105944:2026-10-21T18:49"
-  },
-  {
-   "ts": "2026-10-21T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105942 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-105942 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True When a configured proxy role sends a request to the broker on behalf of another user (the o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105942",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105942:2026-10-21T18:49"
-  },
-  {
-   "ts": "2026-10-21T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105934 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-105934 📢 Source: apache 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True The Apache Pulsar broker admin REST API provides a truncate operation for persistent topics",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105934",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105934:2026-10-21T18:49"
-  },
-  {
-   "ts": "2026-10-21T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-55702 (CVSS 8.7)",
-   "body": "🚨 CVE-2025-55702 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True When a client sends a POST with Expect: 100-continue and the origin answers before reading t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-55702",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-55702:2026-10-21T18:49"
-  },
-  {
-   "ts": "2026-10-21T18:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2025-31699 (CVSS 9.1)",
-   "body": "🚨 CVE-2025-31699 📢 Source: apache 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Apache Traffic Server can return an origin connection to the shared pool while the origi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-31699",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-31699:2026-10-21T18:49"
   }
  ]
 }
