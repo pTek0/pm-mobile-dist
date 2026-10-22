@@ -1,7 +1,217 @@
 {
- "generated_at": "2026-10-22T10:49:07+00:00",
+ "generated_at": "2026-10-22T11:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112832 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-112832 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Rem",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112832",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112832:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112822 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-112822 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112822",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112822:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2024-58393 (CVSS 8.8)",
+   "body": "🚨 CVE-2024-58393 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True i-Netsolution Readymade Unilevel Ecommerce MLM (2024-03-15 build) contains an SQL injecti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58393",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58393:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2022-51025 (CVSS 7.1)",
+   "body": "🚨 CVE-2022-51025 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Penta Security WAPPLES 4.0.54.1 , 5.0, and 6.0 contains a path traversal vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2022-51025",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51025:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2022-51024 (CVSS 8.7)",
+   "body": "🚨 CVE-2022-51024 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Kavita 0.5.2 before 0.5.4.1 contains a path traversal vulnerability that allows unauthent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2022-51024",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51024:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2022-51023 (CVSS 8.8)",
+   "body": "🚨 CVE-2022-51023 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True PHPOK 4.5.000 before 5.4.081 contains an SQL injection vulnerability that allows unauthen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2022-51023",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51023:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2022-51022 (CVSS 9.1)",
+   "body": "🚨 CVE-2022-51022 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True YiShaAdmin 2.2 through 3.1, fixed in commit 025b062, contains an unauthenticated path",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2022-51022",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51022:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2022-51021 (CVSS 8.8)",
+   "body": "🚨 CVE-2022-51021 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True NotificationX plugin for WordPress 2.0.0 before 2.3.12 contains an unauthenticated SQL in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2022-51021",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51021:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2021-48016 (CVSS 9.8)",
+   "body": "🚨 CVE-2021-48016 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True DedeCMS through 5.8.1-beta contains a PHP code injection vulnerability in ShowMsg() w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2021-48016",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-48016:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2021-48015 (CVSS 8.7)",
+   "body": "🚨 CVE-2021-48015 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True JeeWMS before commit 0a610e8 contains an unauthenticated path traversal vulnerability tha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2021-48015",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-48015:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2021-48014 (CVSS 9.8)",
+   "body": "🚨 CVE-2021-48014 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True FineReport 9.0 contains a path traversal vulnerability in the /WebReport/ReportServer",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2021-48014",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-48014:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2021-48013 (CVSS 8.7)",
+   "body": "🚨 CVE-2021-48013 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Weaver E-cology 8.0 contains a path traversal vulnerability that allows unauthenticated a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2021-48013",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-48013:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2019-25779 (CVSS 8.7)",
+   "body": "🚨 CVE-2019-25779 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True WooThemes Diarise through 1.5.9 contains a file read vulnerability that allows unauthenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2019-25779",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2019-25779:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2019-25778 (CVSS 8.8)",
+   "body": "🚨 CVE-2019-25778 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SeaCMS through 8.7 contains an unauthenticated SQL injection vulnerability that allows re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2019-25778",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2019-25778:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2018-25439 (CVSS 8.7)",
+   "body": "🚨 CVE-2018-25439 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True MetInfo CMS 6.0.0 before 6.1.1 contains a path traversal vulnerability in /include/thumb.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2018-25439",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2018-25439:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2018-25438 (CVSS 8.7)",
+   "body": "🚨 CVE-2018-25438 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Intermesh Group-Office 3.3.0 before 3.5.5 contains an unauthenticated path traversal vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2018-25438",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2018-25438:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] There isn't an easy exploit for this PHP vulnerability",
+   "body": "Hacker News · 점수 537",
+   "link": "https://eliastaylor.com/noexploit/",
+   "source": "Hacker News",
+   "id": "community:https://eliastaylor.com/noexploit/:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] mitmproxy adds --emudhra option",
+   "body": "Hacker News · 점수 492",
+   "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+   "source": "Hacker News",
+   "id": "community:https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Security Disclosure",
+   "body": "Hacker News · 점수 477",
+   "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+   "source": "Hacker News",
+   "id": "community:https://blog.railway.com/p/security-disclosure-wednesday-october-21st:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The PHP part never gets old",
+   "body": "Lemmy · programming.dev · 점수 411",
+   "link": "https://toggl.com/blog/wp-content/uploads/2018/08/toggl-how-to-create-horse-with-programming.jpg",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://toggl.com/blog/wp-content/uploads/2018/08/toggl-how-to-create-horse-with-programming.jpg:2026-10-22T11:19"
+  },
+  {
+   "ts": "2026-10-22T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] GitLab critical patch release",
+   "body": "Hacker News · 점수 356",
+   "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+   "source": "Hacker News",
+   "id": "community:https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/:2026-10-22T11:19"
+  },
   {
    "ts": "2026-10-22T10:49:06+00:00",
    "level": "general",
@@ -291,216 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2014-4179",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2014-4179:2026-10-22T01:49"
-  },
-  {
-   "ts": "2026-10-22T01:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2014-4931 (CVSS 7.5)",
-   "body": "🚨 CVE-2014-4931 📢 Source: github-security-advisories 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True When investigating issue [#11093]( https://github.com/symfony/symfony/iss",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2014-4931",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2014-4931:2026-10-22T01:49"
-  },
-  {
-   "ts": "2026-10-22T01:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2014-5244 (CVSS 7.5)",
-   "body": "🚨 CVE-2014-5244 📢 Source: github-security-advisories 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True All 2.0.X, 2.1.X, 2.2.X, 2.3.X, 2.4.X, and 2.5.X versions of the Symfony ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2014-5244",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2014-5244:2026-10-22T01:49"
-  },
-  {
-   "ts": "2026-10-22T01:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2014-5245 (CVSS 7.5)",
-   "body": "🚨 CVE-2014-5245 📢 Source: github-security-advisories 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True All 2.2.X, 2.3.X, 2.4.X, and 2.5.X versions of the Symfony HttpKernel com",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2014-5245",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2014-5245:2026-10-22T01:49"
-  },
-  {
-   "ts": "2026-10-22T01:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2014-6072 (CVSS 8.1)",
-   "body": "🚨 CVE-2014-6072 📢 Source: github-security-advisories 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True All 2.0.X, 2.1.X, 2.2.X, 2.3.X, 2.4.X, and 2.5.X versions of the Symfony ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2014-6072",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2014-6072:2026-10-22T01:49"
-  },
-  {
-   "ts": "2026-10-22T01:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2014-8882 (CVSS 7.5)",
-   "body": "🚨 CVE-2014-8882 📢 Source: github-security-advisories 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Versions of `validator` prior to 3.22.1 are affected by a regular express",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2014-8882",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2014-8882:2026-10-22T01:49"
-  },
-  {
-   "ts": "2026-10-22T01:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2016-1000249 (CVSS 7.3)",
-   "body": "🚨 CVE-2016-1000249 📢 Source: github-security-advisories 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True `fury-adapter-swagger` from version 0.2.0 until version 0.9.7 has a we",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2016-1000249",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2016-1000249:2026-10-22T01:49"
-  },
-  {
-   "ts": "2026-10-22T01:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-110264 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-110264 📢 Source: GitLab 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True An issue has been discovered in GitLab CE/EE affecting all versions from 7.0 before 18.1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110264",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110264:2026-10-22T01:19"
-  },
-  {
-   "ts": "2026-10-22T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A critical PHP vulnerability may take websites down today",
-   "body": "Lemmy · technology · 점수 62",
-   "link": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress:2026-10-22T00:49"
-  },
-  {
-   "ts": "2026-10-22T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Firefox Local Mode",
-   "body": "Lobsters · 점수 55",
-   "link": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
-   "source": "Lobsters",
-   "id": "community:https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html:2026-10-22T00:49"
-  },
-  {
-   "ts": "2026-10-22T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Unikernels in OCaml",
-   "body": "Lobsters · 점수 55",
-   "link": "https://uniker.nl/",
-   "source": "Lobsters",
-   "id": "community:https://uniker.nl/:2026-10-22T00:49"
-  },
-  {
-   "ts": "2026-10-22T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Future of CSS",
-   "body": "Lobsters · 점수 54",
-   "link": "https://www.joshwcomeau.com/css/interop-2027/",
-   "source": "Lobsters",
-   "id": "community:https://www.joshwcomeau.com/css/interop-2027/:2026-10-22T00:49"
-  },
-  {
-   "ts": "2026-10-22T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Meta ordered to pay $25 billion penalty in New Mexico Cambri",
-   "body": "Lemmy · technology · 점수 175",
-   "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html:2026-10-22T00:19"
-  },
-  {
-   "ts": "2026-10-22T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Executives are more likely to trust AI over themselves",
-   "body": "Lemmy · technology · 점수 144",
-   "link": "https://www.axios.com/2026/10/21/ai-trust-executives-survey",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.axios.com/2026/10/21/ai-trust-executives-survey:2026-10-22T00:19"
-  },
-  {
-   "ts": "2026-10-22T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Hugging Face CEO warns that Netflix's OpenAI hack documentar",
-   "body": "Lemmy · technology · 점수 138",
-   "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-   "source": "Lemmy · technology",
-   "id": "community:https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/:2026-10-22T00:19"
-  },
-  {
-   "ts": "2026-10-22T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Four is 6 7 for infosec",
-   "body": "Lemmy · programming.dev · 점수 134",
-   "link": "https://piefed-media.feddit.online/posts/Ft/0m/Ft0mSyQjoDaL28z.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://piefed-media.feddit.online/posts/Ft/0m/Ft0mSyQjoDaL28z.png:2026-10-22T00:19"
-  },
-  {
-   "ts": "2026-10-22T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Today's PHP Security Release, and How We're Strengthening PH",
-   "body": "Lemmy · technology · 점수 69",
-   "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-   "source": "Lemmy · technology",
-   "id": "community:https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/:2026-10-22T00:19"
-  },
-  {
-   "ts": "2026-10-21T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15723 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-15723 📢 Source: GitLab 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 10.1 before 19.3.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15723",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15723:2026-10-21T23:49"
-  },
-  {
-   "ts": "2026-10-21T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112212 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-112212 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.3 before 19.3",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112212",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112212:2026-10-21T23:49"
-  },
-  {
-   "ts": "2026-10-21T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Claude Duet",
-   "body": "Hacker News · 점수 259",
-   "link": "https://claude.com/product/claude-duet",
-   "source": "Hacker News",
-   "id": "community:https://claude.com/product/claude-duet:2026-10-21T23:49"
-  },
-  {
-   "ts": "2026-10-21T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] am I late for this meme",
-   "body": "Lemmy · programming.dev · 점수 246",
-   "link": "https://lemmy.today/pictrs/image/49c5eb8a-9573-4c09-9315-163d92a52a95.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.today/pictrs/image/49c5eb8a-9573-4c09-9315-163d92a52a95.jpeg:2026-10-21T23:49"
-  },
-  {
-   "ts": "2026-10-21T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Patch the Planet: global response coordination as agents unc",
-   "body": "Hacker News · 점수 217",
-   "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-   "source": "Hacker News",
-   "id": "community:https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/:2026-10-21T23:49"
   }
  ]
 }
