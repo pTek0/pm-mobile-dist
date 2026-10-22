@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-22T14:49:07+00:00",
+ "generated_at": "2026-10-22T15:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16477 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-16477 📢 Source: CERT-PL 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False CleanShot X for macOS insecurely deserializes untrusted data embedded in a .cleanshot proj",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16477",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16477:2026-10-22T15:19"
+  },
   {
    "ts": "2026-10-22T14:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-112327",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112327:2026-10-22T07:49"
-  },
-  {
-   "ts": "2026-10-22T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114177 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-114177 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Xpro Xpro Elementor Addons xpro-elem",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114177",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114177:2026-10-22T07:19"
   }
  ]
 }
