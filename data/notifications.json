@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-22T20:49:07+00:00",
+ "generated_at": "2026-10-22T21:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T21:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-114625 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-114625 📢 Source: Arista 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: False VeloCloud Orchestrator (VCO) on-prem has a security issue where this issue may allow a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114625",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114625:2026-10-22T21:19"
+  },
   {
    "ts": "2026-10-22T20:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2022-51025",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51025:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2022-51024 (CVSS 8.7)",
-   "body": "🚨 CVE-2022-51024 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Kavita 0.5.2 before 0.5.4.1 contains a path traversal vulnerability that allows unauthent",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2022-51024",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51024:2026-10-22T11:19"
   }
  ]
 }
