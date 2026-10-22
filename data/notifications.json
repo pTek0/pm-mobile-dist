@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-22T00:49:07+00:00",
+ "generated_at": "2026-10-22T01:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T01:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-110264 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-110264 📢 Source: GitLab 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True An issue has been discovered in GitLab CE/EE affecting all versions from 7.0 before 18.1",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110264",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110264:2026-10-22T01:19"
+  },
   {
    "ts": "2026-10-22T00:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2025-31699",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-31699:2026-10-21T18:49"
-  },
-  {
-   "ts": "2026-10-21T18:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105869 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-105869 📢 Source: apache 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Apache Pulsar's MultiRolesTokenAuthorizationProvider authorizes a client with all roles",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105869",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105869:2026-10-21T18:19"
   }
  ]
 }
