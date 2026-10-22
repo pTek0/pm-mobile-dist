@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-22T16:49:08+00:00",
+ "generated_at": "2026-10-22T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115513 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-115513 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True OpenCATS before 0.12.0 contains a stored cross-site scripting vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115513",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115513:2026-10-22T17:19"
+  },
+  {
+   "ts": "2026-10-22T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115416 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-115416 📢 Source: AMZN 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Incorrect authorization checks in Amazon Athena engine version 3 query processing could have ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115416",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115416:2026-10-22T17:19"
+  },
   {
    "ts": "2026-10-22T16:49:06+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-112242",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112242:2026-10-22T08:49"
-  },
-  {
-   "ts": "2026-10-22T08:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-112241 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-112241 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Authentication Bypass by Spoofing vulnerability in Brainstorm Force SureCart sureca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112241",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112241:2026-10-22T08:49"
-  },
-  {
-   "ts": "2026-10-22T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111851 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-111851 📢 Source: Patchstack 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection') vuln",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111851",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111851:2026-10-22T08:49"
   }
  ]
 }
