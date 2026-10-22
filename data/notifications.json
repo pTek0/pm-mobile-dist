@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-22T02:19:08+00:00",
+ "generated_at": "2026-10-22T02:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114730 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-114730 📢 Source: mitre 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Roundcube Webmail 1.6.14 before 1.6.20 and 1.7.0 before 1.7.5 is affected by a server-side r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114730",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114730:2026-10-22T02:49"
+  },
+  {
+   "ts": "2026-10-22T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2024-45747 (CVSS 7.2)",
+   "body": "🚨 CVE-2024-45747 📢 Source: github-security-advisories 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True ### Summary A server-side template injection (SSTI) vulnerability exist ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2024-45747",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-45747:2026-10-22T02:49"
+  },
+  {
+   "ts": "2026-10-22T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-47425 (CVSS 8.1)",
+   "body": "🚨 CVE-2025-47425 📢 Source: github-security-advisories 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True ### Summary A user on the website can modify any private field on their ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-47425",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-47425:2026-10-22T02:49"
+  },
+  {
+   "ts": "2026-10-22T02:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-32179 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-32179 📢 Source: github-security-advisories 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ### Summary Improper input validation in Microsoft QUIC allows an un",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-32179",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-32179:2026-10-22T02:49"
+  },
   {
    "ts": "2026-10-22T02:19:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111814",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111814:2026-10-21T19:49"
-  },
-  {
-   "ts": "2026-10-21T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111810 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-111810 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Apache Traffic Server 9.2.15, 10.1.4 and 10.2.0 write one unthrottled diagnostic log line f",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111810",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111810:2026-10-21T19:49"
-  },
-  {
-   "ts": "2026-10-21T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111809 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-111809 📢 Source: apache 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Apache Traffic Server allows request smuggling via HEAD requests that carry Content-Len",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111809",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111809:2026-10-21T19:49"
-  },
-  {
-   "ts": "2026-10-21T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111808 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-111808 📢 Source: apache 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Apache Traffic Server can be used to exhaust an HTTP/1.1 origin's worker pool via a malform",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111808",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111808:2026-10-21T19:49"
-  },
-  {
-   "ts": "2026-10-21T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111805 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-111805 📢 Source: apache 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Apache Traffic Server can be used to exhaust an HTTP/1.1 origin's worker pool via a truncat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111805",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111805:2026-10-21T19:49"
   }
  ]
 }
