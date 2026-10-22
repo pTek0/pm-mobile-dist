@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-22T06:49:07+00:00",
+ "generated_at": "2026-10-22T07:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114177 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-114177 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Xpro Xpro Elementor Addons xpro-elem",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114177",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114177:2026-10-22T07:19"
+  },
+  {
+   "ts": "2026-10-22T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105270 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-105270 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in esaml_binding in dropbox",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105270",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105270:2026-10-22T07:19"
+  },
   {
    "ts": "2026-10-22T04:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103090",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103090:2026-10-21T22:49"
-  },
-  {
-   "ts": "2026-10-21T21:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-29001 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-29001 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True TastyIgniter through 4.4.5 contain a PHP object injection vulnerability that allows authe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-29001",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-29001:2026-10-21T21:19"
-  },
-  {
-   "ts": "2026-10-21T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-112408 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-112408 📢 Source: AMZN 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Missing verification of source of a communication channel in the default_bucket() functio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112408",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112408:2026-10-21T19:49"
   }
  ]
 }
