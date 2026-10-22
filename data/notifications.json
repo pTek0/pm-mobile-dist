@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-22T13:49:08+00:00",
+ "generated_at": "2026-10-22T14:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94502 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-94502 📢 Source: Silabs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False In EmberZNet 9.1.1 and earlier, a malformed Publish Price Matrix command can result in an o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94502",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94502:2026-10-22T14:19"
+  },
+  {
+   "ts": "2026-10-22T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85079 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-85079 📢 Source: Silabs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False In EmberZNet 9.1.1 and earlier, a malformed Simple_Desc_req response can result in an out-o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85079",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85079:2026-10-22T14:19"
+  },
+  {
+   "ts": "2026-10-22T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66279 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-66279 📢 Source: Silabs 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False In Connect SDK 4.3.1 and earlier and Flex SDK 3.7.7 and earlier, a message with invalid sec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66279",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66279:2026-10-22T14:19"
+  },
   {
    "ts": "2026-10-22T13:49:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-114221",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114221:2026-10-22T04:49"
-  },
-  {
-   "ts": "2026-10-22T04:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114220 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-114220 📢 Source: twcert 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True NT OneAPP developed by NewType Infortech has an Improper Certificate Validation vulnera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114220",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114220:2026-10-22T04:49"
-  },
-  {
-   "ts": "2026-10-22T04:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114219 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-114219 📢 Source: twcert 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True NT OneAPP developed by NewType Infortech has a Hard-coded Credentials vulnerability. Un",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114219",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114219:2026-10-22T04:49"
-  },
-  {
-   "ts": "2026-10-22T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110353 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-110353 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True HAProxy 3.2 before 3.4.6 allows a remote unauthenticated attacker to cause a denial of servi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110353",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110353:2026-10-22T03:19"
   }
  ]
 }
