@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-22T19:19:08+00:00",
+ "generated_at": "2026-10-22T19:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112332 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-112332 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Motor.NET before 0.19.0 contains an uncaught exception vulnerability in JsonNetDeseriali",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112332",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112332:2026-10-22T19:49"
+  },
+  {
+   "ts": "2026-10-22T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112331 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-112331 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Motor.NET before 0.19.0 contains a denial-of-service vulnerability that allows a remote ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112331",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112331:2026-10-22T19:49"
+  },
+  {
+   "ts": "2026-10-22T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112330 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-112330 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Motor.NET before 0.19.0 contains a denial of service vulnerability that allows a remote ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112330",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112330:2026-10-22T19:49"
+  },
+  {
+   "ts": "2026-10-22T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115508 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-115508 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Crawl4AI 0.7.0 before 0.9.5 contains an inefficient regular expression complexity vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115508",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115508:2026-10-22T19:49"
+  },
+  {
+   "ts": "2026-10-22T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115506 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-115506 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True libexpat through 2.9.0 contains a denial of service vulnerability because billion laughs",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115506",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115506:2026-10-22T19:49"
+  },
+  {
+   "ts": "2026-10-22T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115505 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-115505 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True libsmb2 before 6.3 contains integer overflow vulnerabilities in the DCE/RPC NDR decoder ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115505",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115505:2026-10-22T19:49"
+  },
+  {
+   "ts": "2026-10-22T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115504 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-115504 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False CFITSIO through 4.7.0 contains an out-of-bounds write vulnerability in ffgcls2() in get",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115504",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115504:2026-10-22T19:49"
+  },
   {
    "ts": "2026-10-22T19:19:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2022-51022",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51022:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2022-51021 (CVSS 8.8)",
-   "body": "🚨 CVE-2022-51021 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True NotificationX plugin for WordPress 2.0.0 before 2.3.12 contains an unauthenticated SQL in",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2022-51021",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51021:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2021-48016 (CVSS 9.8)",
-   "body": "🚨 CVE-2021-48016 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True DedeCMS through 5.8.1-beta contains a PHP code injection vulnerability in ShowMsg() w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2021-48016",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-48016:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2021-48015 (CVSS 8.7)",
-   "body": "🚨 CVE-2021-48015 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True JeeWMS before commit 0a610e8 contains an unauthenticated path traversal vulnerability tha",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2021-48015",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-48015:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2021-48014 (CVSS 9.8)",
-   "body": "🚨 CVE-2021-48014 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True FineReport 9.0 contains a path traversal vulnerability in the /WebReport/ReportServer",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2021-48014",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-48014:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2021-48013 (CVSS 8.7)",
-   "body": "🚨 CVE-2021-48013 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Weaver E-cology 8.0 contains a path traversal vulnerability that allows unauthenticated a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2021-48013",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-48013:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2019-25779 (CVSS 8.7)",
-   "body": "🚨 CVE-2019-25779 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True WooThemes Diarise through 1.5.9 contains a file read vulnerability that allows unauthenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2019-25779",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2019-25779:2026-10-22T11:19"
-  },
-  {
-   "ts": "2026-10-22T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2019-25778 (CVSS 8.8)",
-   "body": "🚨 CVE-2019-25778 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SeaCMS through 8.7 contains an unauthenticated SQL injection vulnerability that allows re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2019-25778",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2019-25778:2026-10-22T11:19"
   }
  ]
 }
