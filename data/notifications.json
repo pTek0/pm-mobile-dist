@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-22T01:49:07+00:00",
+ "generated_at": "2026-10-22T02:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-9141 (CVSS 8.8)",
+   "body": "🚨 CVE-2025-9141 📢 Source: github-security-advisories 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ### Summary An unsafe deserialization vulnerability allows any authentica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-9141",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-9141:2026-10-22T02:19"
+  },
+  {
+   "ts": "2026-10-22T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114727 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-114727 📢 Source: mitre 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Roundcube Webmail before 1.6.20 and 1.7.x before 1.7.5 passes potentially unsafe content int",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114727",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114727:2026-10-22T02:19"
+  },
+  {
+   "ts": "2026-10-22T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2016-1000223 (CVSS 8.7)",
+   "body": "🚨 CVE-2016-1000223 📢 Source: github-security-advisories 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Affected versions of the `jws` package allow users to select what algo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2016-1000223",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2016-1000223:2026-10-22T02:19"
+  },
+  {
+   "ts": "2026-10-22T02:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2016-1000225 (CVSS 9.8)",
+   "body": "🚨 CVE-2016-1000225 📢 Source: github-security-advisories 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Affected versions of `sequelize` are vulnerable to SQL Injection i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2016-1000225",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2016-1000225:2026-10-22T02:19"
+  },
   {
    "ts": "2026-10-22T01:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111805",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111805:2026-10-21T19:49"
-  },
-  {
-   "ts": "2026-10-21T18:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111816 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-111816 📢 Source: apache 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Apache Traffic Server forwarded a malformed 302 response that should have been rejected",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111816",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111816:2026-10-21T18:49"
-  },
-  {
-   "ts": "2026-10-21T18:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111813 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-111813 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Apache Traffic Server's experimental magick plugin lets an unauthenticated client contro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111813",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111813:2026-10-21T18:49"
-  },
-  {
-   "ts": "2026-10-21T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111804 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-111804 📢 Source: apache 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Apache Traffic Server's experimental wasm plugin has a use-after-free in its transaction-cl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111804",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111804:2026-10-21T18:49"
-  },
-  {
-   "ts": "2026-10-21T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110803 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-110803 📢 Source: Vaadin 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True VaadinService.requestEnd() in Vaadin Framework 8 locks the session and then reads the v-uiI",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110803",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110803:2026-10-21T18:49"
   }
  ]
 }
