@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-22T17:19:07+00:00",
+ "generated_at": "2026-10-22T17:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93336 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-93336 📢 Source: canonical 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Missing authorization in the unit resources download route in Canonical Juju 4.0 through ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93336",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93336:2026-10-22T17:49"
+  },
+  {
+   "ts": "2026-10-22T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13599 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-13599 📢 Source: ABB 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Missing authentication for critical function vulnerability in ABB Ability Edgenius. This issue",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13599",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13599:2026-10-22T17:49"
+  },
   {
    "ts": "2026-10-22T17:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-112085",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112085:2026-10-22T09:49"
-  },
-  {
-   "ts": "2026-10-22T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112312 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-112312 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in ACF Extended ACF Extended acf-extended allows Ex",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112312",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112312:2026-10-22T08:49"
-  },
-  {
-   "ts": "2026-10-22T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112242 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-112242 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in Cozmoslabs Profile Builder profile-buil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112242",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112242:2026-10-22T08:49"
   }
  ]
 }
