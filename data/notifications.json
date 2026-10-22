@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-22T07:19:07+00:00",
+ "generated_at": "2026-10-22T07:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93471 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93471 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Improper Handling of Highly Compressed Data (Data Amplification) in esaml_binding in dropbox es",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93471",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93471:2026-10-22T07:49"
+  },
+  {
+   "ts": "2026-10-22T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86696 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-86696 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in esaml in dropbox esaml al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86696",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86696:2026-10-22T07:49"
+  },
+  {
+   "ts": "2026-10-22T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112379 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-112379 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112379",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112379:2026-10-22T07:49"
+  },
+  {
+   "ts": "2026-10-22T07:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112327 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-112327 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112327",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112327:2026-10-22T07:49"
+  },
   {
    "ts": "2026-10-22T07:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
    "source": "Hacker News",
    "id": "community:https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/:2026-10-21T23:19"
-  },
-  {
-   "ts": "2026-10-21T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] EA is shutting down BioWare",
-   "body": "Hacker News · 점수 446",
-   "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-   "source": "Hacker News",
-   "id": "community:https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware:2026-10-21T23:19"
-  },
-  {
-   "ts": "2026-10-21T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Compromised LiteLLM 1.107.0 on PyPI Installs a Credential St",
-   "body": "Hacker News · 점수 387",
-   "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-   "source": "Hacker News",
-   "id": "community:https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/:2026-10-21T23:19"
-  },
-  {
-   "ts": "2026-10-21T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] DuckDB 2.0.0 LTS “Cinnamon Teal”",
-   "body": "Hacker News · 점수 342",
-   "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-   "source": "Hacker News",
-   "id": "community:https://duckdb.org/2026/10/21/announcing-duckdb-200:2026-10-21T23:19"
-  },
-  {
-   "ts": "2026-10-21T22:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103090 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-103090 📢 Source: Google 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Missing Authentication for Critical Function (CWE-306) and Insufficiently Protected Credent",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103090",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103090:2026-10-21T22:49"
   }
  ]
 }
