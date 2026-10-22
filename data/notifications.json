@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-22T09:19:07+00:00",
+ "generated_at": "2026-10-22T09:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112085 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-112085 📢 Source: openjs 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False webpack-dev-server is a development server that provides live reloading for webpack projec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112085",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112085:2026-10-22T09:49"
+  },
   {
    "ts": "2026-10-22T08:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76298",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76298:2026-10-21T23:19"
-  },
-  {
-   "ts": "2026-10-21T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76293 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-76293 📢 Source: cisco 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False In Splunk Enterprise versions below 10.4.3, 10.2.8, 10.0.11, and 9.4.16, a user that holds a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76293",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76293:2026-10-21T23:19"
   }
  ]
 }
