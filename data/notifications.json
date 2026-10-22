@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-22T23:19:07+00:00",
+ "generated_at": "2026-10-22T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-22T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] What Is Gridifcation",
+   "body": "Hacker News · 점수 379",
+   "link": "https://musicalform.substack.com/p/what-is-gridifcation",
+   "source": "Hacker News",
+   "id": "community:https://musicalform.substack.com/p/what-is-gridifcation:2026-10-22T23:49"
+  },
+  {
+   "ts": "2026-10-22T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] What’s getting pwned right now",
+   "body": "Hacker News · 점수 322",
+   "link": "https://pwn.watch/",
+   "source": "Hacker News",
+   "id": "community:https://pwn.watch/:2026-10-22T23:49"
+  },
+  {
+   "ts": "2026-10-22T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry",
+   "body": "Hacker News · 점수 291",
+   "link": "https://news.ycombinator.com/item?id=50193416",
+   "source": "Hacker News",
+   "id": "community:https://news.ycombinator.com/item?id=50193416:2026-10-22T23:49"
+  },
+  {
+   "ts": "2026-10-22T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Run full iOS 16.5 firmware on Android Devices",
+   "body": "Hacker News · 점수 284",
+   "link": "https://github.com/oosexgang/hackios-xnu-kernel",
+   "source": "Hacker News",
+   "id": "community:https://github.com/oosexgang/hackios-xnu-kernel:2026-10-22T23:49"
+  },
+  {
+   "ts": "2026-10-22T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] OpenShell – A safe, private runtime for fleets of autonomous",
+   "body": "Hacker News · 점수 245",
+   "link": "https://github.com/NVIDIA/OpenShell",
+   "source": "Hacker News",
+   "id": "community:https://github.com/NVIDIA/OpenShell:2026-10-22T23:49"
+  },
   {
    "ts": "2026-10-22T23:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-97631",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97631:2026-10-22T16:49"
-  },
-  {
-   "ts": "2026-10-22T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104068 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-104068 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True JetBackup plugin for WordPress before 3.1.24.10 contains a symlink-based arbitrary file ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104068",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104068:2026-10-22T16:49"
-  },
-  {
-   "ts": "2026-10-22T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115453 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-115453 📢 Source: Secur0 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key (CWE-639) in the cart and wishlist reposit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115453",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115453:2026-10-22T15:49"
-  },
-  {
-   "ts": "2026-10-22T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115482 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-115482 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In lsquic before 4.9.0, the HTTP/3 implementation can use an excessive amount of memory beca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115482",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115482:2026-10-22T15:49"
-  },
-  {
-   "ts": "2026-10-22T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115450 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-115450 📢 Source: Secur0 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True External Control of Assumed-Immutable Web Parameter (CWE-472) in the cart and checkout flow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115450",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115450:2026-10-22T15:49"
-  },
-  {
-   "ts": "2026-10-22T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16477 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-16477 📢 Source: CERT-PL 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False CleanShot X for macOS insecurely deserializes untrusted data embedded in a .cleanshot proj",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16477",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16477:2026-10-22T15:19"
   }
  ]
 }
