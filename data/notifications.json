@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-23T10:49:08+00:00",
+ "generated_at": "2026-10-23T11:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-23T11:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107685 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-107685 📢 Source: EEF 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Improper Certificate Validation vulnerability in the WebSocket streaming client in agentji",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107685",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107685:2026-10-23T11:19"
+  },
+  {
+   "ts": "2026-10-23T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Local Wikipedia: Wikipedia, but only for things a half hour ",
+   "body": "Hacker News · 점수 446",
+   "link": "https://edjefferson.com/localwiki/",
+   "source": "Hacker News",
+   "id": "community:https://edjefferson.com/localwiki/:2026-10-23T11:19"
+  },
+  {
+   "ts": "2026-10-23T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Every AI model has the same \"controversial\" take on humans",
+   "body": "Hacker News · 점수 439",
+   "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+   "source": "Hacker News",
+   "id": "community:https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans:2026-10-23T11:19"
+  },
+  {
+   "ts": "2026-10-23T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] LLMs are making formal software verification feasible at a m",
+   "body": "Hacker News · 점수 352",
+   "link": "https://www.anthropic.com/research/formal-verification",
+   "source": "Hacker News",
+   "id": "community:https://www.anthropic.com/research/formal-verification:2026-10-23T11:19"
+  },
+  {
+   "ts": "2026-10-23T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] David Revoy - \"Do you have the password ?\"",
+   "body": "Lemmy · programming.dev · 점수 181",
+   "link": "https://framapiaf.org/@davidrevoy/117486886676310899",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://framapiaf.org/@davidrevoy/117486886676310899:2026-10-23T11:19"
+  },
+  {
+   "ts": "2026-10-23T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Getty Images files for bankruptcy amid mounting debt and AI ",
+   "body": "Lemmy · technology · 점수 131",
+   "link": "https://nypost.com/2026/10/22/business/getty-images-files-for-bankruptcy-amid-mounting-debt-ai-competition/",
+   "source": "Lemmy · technology",
+   "id": "community:https://nypost.com/2026/10/22/business/getty-images-files-for-bankruptcy-amid-mounting-debt-ai-competition/:2026-10-23T11:19"
+  },
   {
    "ts": "2026-10-23T09:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92450",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92450:2026-10-22T22:49"
-  },
-  {
-   "ts": "2026-10-22T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110825 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-110825 📢 Source: icscert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The ONVIF device service on affected Kiloview E3 NDI encoder firmware accepts hostname, DN",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110825",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110825:2026-10-22T22:49"
-  },
-  {
-   "ts": "2026-10-22T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110491 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-110491 📢 Source: icscert 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The ONVIF service on the E3 can be rendered unresponsive by sending malformed or incomplet",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110491",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110491:2026-10-22T22:49"
-  },
-  {
-   "ts": "2026-10-22T22:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-110243 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-110243 📢 Source: icscert 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True The network management service on affected Kiloview E3 NDI encoder firmware fails to v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110243",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110243:2026-10-22T22:49"
-  },
-  {
-   "ts": "2026-10-22T22:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107861 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-107861 📢 Source: icscert 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True The system control service on affected Kiloview E3 NDI encoder firmware fails to sanit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107861",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107861:2026-10-22T22:49"
-  },
-  {
-   "ts": "2026-10-22T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96616 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-96616 📢 Source: icscert 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Authentication tokens issued by the E3's web management interface on login are given an exp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96616",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96616:2026-10-22T22:19"
-  },
-  {
-   "ts": "2026-10-22T22:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-109122 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-109122 📢 Source: icscert 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True The network management service on affected Kiloview E3 NDI encoder firmware fails to s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109122",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109122:2026-10-22T22:19"
   }
  ]
 }
