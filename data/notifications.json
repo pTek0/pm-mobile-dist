@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-23T21:49:08+00:00",
+ "generated_at": "2026-10-23T22:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-23T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115938 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-115938 📢 Source: Hackrate 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Craft CMS allows any authenticated control panel user to submit an element-search conditi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115938",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115938:2026-10-23T22:19"
+  },
+  {
+   "ts": "2026-10-23T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115937 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-115937 📢 Source: Hackrate 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The Mollie webhook endpoint accepts two independent, attacker-controlled parameters and n",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115937",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115937:2026-10-23T22:19"
+  },
   {
    "ts": "2026-10-23T21:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107685",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107685:2026-10-23T11:19"
-  },
-  {
-   "ts": "2026-10-23T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Local Wikipedia: Wikipedia, but only for things a half hour ",
-   "body": "Hacker News · 점수 446",
-   "link": "https://edjefferson.com/localwiki/",
-   "source": "Hacker News",
-   "id": "community:https://edjefferson.com/localwiki/:2026-10-23T11:19"
-  },
-  {
-   "ts": "2026-10-23T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Every AI model has the same \"controversial\" take on humans",
-   "body": "Hacker News · 점수 439",
-   "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-   "source": "Hacker News",
-   "id": "community:https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans:2026-10-23T11:19"
   }
  ]
 }
