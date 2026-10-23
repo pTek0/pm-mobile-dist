@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-23T23:19:07+00:00",
+ "generated_at": "2026-10-23T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-23T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] PHP was just the beginning: Node.js unveils dangerous flaws ",
+   "body": "Lemmy · technology · 점수 205",
+   "link": "https://cybernews.com/security/php-node-js-vulnerabilities-patch-exploit/",
+   "source": "Lemmy · technology",
+   "id": "community:https://cybernews.com/security/php-node-js-vulnerabilities-patch-exploit/:2026-10-23T23:49"
+  },
+  {
+   "ts": "2026-10-23T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The Real Kevin Bacon",
+   "body": "Hacker News · 점수 198",
+   "link": "https://pudding.cool/2026/10/kevin-bacon/",
+   "source": "Hacker News",
+   "id": "community:https://pudding.cool/2026/10/kevin-bacon/:2026-10-23T23:49"
+  },
+  {
+   "ts": "2026-10-23T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Now Google says it might use your Gmail and Google Photos da",
+   "body": "Hacker News · 점수 163",
+   "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+   "source": "Hacker News",
+   "id": "community:https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update:2026-10-23T23:49"
+  },
+  {
+   "ts": "2026-10-23T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Dessa: the most authentic full-duplex speech model ever buil",
+   "body": "Hacker News · 점수 144",
+   "link": "https://block.xyz/dessa",
+   "source": "Hacker News",
+   "id": "community:https://block.xyz/dessa:2026-10-23T23:49"
+  },
+  {
+   "ts": "2026-10-23T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Hundreds of Protestors Descend on Meta Corporate Office Depi",
+   "body": "Lemmy · technology · 점수 140",
+   "link": "https://futurism.com/artificial-intelligence/protestors-meta-corporate-office-brazil-zuckerberg-devil",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/artificial-intelligence/protestors-meta-corporate-office-brazil-zuckerberg-devil:2026-10-23T23:49"
+  },
   {
    "ts": "2026-10-23T23:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-112847",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112847:2026-10-23T13:19"
-  },
-  {
-   "ts": "2026-10-23T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-112846 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-112846 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in ThemeREX Group Save Life save-li",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112846",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112846:2026-10-23T13:19"
-  },
-  {
-   "ts": "2026-10-23T12:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-115727 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-115727 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True AgenticSeek before commit 409840c contains a remote code execution vulnerability bec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115727",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115727:2026-10-23T12:19"
-  },
-  {
-   "ts": "2026-10-23T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115726 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-115726 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Aider through 0.86.2 contains a command execution vulnerability that allows attackers t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115726",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115726:2026-10-23T12:19"
-  },
-  {
-   "ts": "2026-10-23T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115723 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-115723 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Snap7 through 1.4.3 contains an out-of-bounds write vulnerability in the passive partner",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115723",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115723:2026-10-23T12:19"
-  },
-  {
-   "ts": "2026-10-23T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Man Who Saved the Internet Yesterday",
-   "body": "Lemmy · technology · 점수 52",
-   "link": "https://www.theatlantic.com/technology/2026/10/man-who-saved-internet-php-vulnerability/689123/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theatlantic.com/technology/2026/10/man-who-saved-internet-php-vulnerability/689123/:2026-10-23T12:19"
   }
  ]
 }
