@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-10-23T08:19:08+00:00",
+ "generated_at": "2026-10-23T08:49:16+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-23T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-30054 (CVSS 9.3)",
+   "body": "🚨 CVE-2025-30054 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False CGM CLININET is vulnerable to local privilege escalation. The service that processes i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30054",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30054:2026-10-23T08:49"
+  },
+  {
+   "ts": "2026-10-23T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-30052 (CVSS 8.8)",
+   "body": "🚨 CVE-2025-30052 📢 Source: CERT-PL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The rsyncd service of the CGM CLININET is vulnerable to Authentication Bypass via IP spoofi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30052",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30052:2026-10-23T08:49"
+  },
+  {
+   "ts": "2026-10-23T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-30050 (CVSS 9.4)",
+   "body": "🚨 CVE-2025-30050 📢 Source: CERT-PL 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False CGM CLININET is vulnerable to Code Injection in the RunCGI.pm component, which dynamic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30050",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30050:2026-10-23T08:49"
+  },
+  {
+   "ts": "2026-10-23T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-30049 (CVSS 8.2)",
+   "body": "🚨 CVE-2025-30049 📢 Source: CERT-PL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True The CGM CLININET application stores user passwords as unsalted MD5 hashes. This issue was f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30049",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30049:2026-10-23T08:49"
+  },
+  {
+   "ts": "2026-10-23T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-30047 (CVSS 9.4)",
+   "body": "🚨 CVE-2025-30047 📢 Source: CERT-PL 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False CGM CLININET is vulnerable to Remote Code Execution caused by deserialization of untru",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30047",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30047:2026-10-23T08:49"
+  },
+  {
+   "ts": "2026-10-23T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-30046 (CVSS 9.0)",
+   "body": "🚨 CVE-2025-30046 📢 Source: CERT-PL 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: False In the CGM CLININET application server, multiple processes responsible for HL7 communica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30046",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30046:2026-10-23T08:49"
+  },
+  {
+   "ts": "2026-10-23T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-30045 (CVSS 8.6)",
+   "body": "🚨 CVE-2025-30045 📢 Source: CERT-PL 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False CGM CLININET is vulnerable to Code Injection in the ConvExpr function, which processes Per",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30045",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30045:2026-10-23T08:49"
+  },
+  {
+   "ts": "2026-10-23T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-30043 (CVSS 7.1)",
+   "body": "🚨 CVE-2025-30043 📢 Source: CERT-PL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False CGM CLININET is vulnerable to Missing Authentication for Critical Function in the /DocMana",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30043",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30043:2026-10-23T08:49"
+  },
+  {
+   "ts": "2026-10-23T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112862 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-112862 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in xnau webdesign Participants Data",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112862",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112862:2026-10-23T08:49"
+  },
+  {
+   "ts": "2026-10-23T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112860 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-112860 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112860",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112860:2026-10-23T08:49"
+  },
+  {
+   "ts": "2026-10-23T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112838 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-112838 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112838",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112838:2026-10-23T08:49"
+  },
+  {
+   "ts": "2026-10-23T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112837 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-112837 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112837",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112837:2026-10-23T08:49"
+  },
+  {
+   "ts": "2026-10-23T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112835 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-112835 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112835",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112835:2026-10-23T08:49"
+  },
   {
    "ts": "2026-10-23T07:49:07+00:00",
    "level": "important",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110063",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110063:2026-10-22T22:19"
-  },
-  {
-   "ts": "2026-10-22T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108456 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-108456 📢 Source: microsoft 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-22T21:44:40.650Z https://cvefeed.io/vuln/detail/CVE-2026",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108456",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108456:2026-10-22T22:19"
-  },
-  {
-   "ts": "2026-10-22T22:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105014 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-105014 📢 Source: microsoft 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-22T21:44:40.069Z https://cvefeed.io/vuln/detail/CVE-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105014",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105014:2026-10-22T22:19"
-  },
-  {
-   "ts": "2026-10-22T21:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111594 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-111594 📢 Source: icscert 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True InterSystems IRIS for Health has TLS/SSL encryption turned off by default, which may e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111594",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111594:2026-10-22T21:49"
-  },
-  {
-   "ts": "2026-10-22T21:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114625 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-114625 📢 Source: Arista 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: False VeloCloud Orchestrator (VCO) on-prem has a security issue where this issue may allow a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114625",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114625:2026-10-22T21:19"
-  },
-  {
-   "ts": "2026-10-22T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115417 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-115417 📢 Source: AMZN 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Memory allocation with excessive size value in the MQTT 3.1.1 compatibility adapter in AWS aw",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115417",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115417:2026-10-22T20:49"
-  },
-  {
-   "ts": "2026-10-22T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115419 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-115419 📢 Source: AMZN 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True The A2A server component in Amazon Strands Agents SDK for Python before 1.43.0 and Amazon Str",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115419",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115419:2026-10-22T20:49"
-  },
-  {
-   "ts": "2026-10-22T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112332 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-112332 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Motor.NET before 0.19.0 contains an uncaught exception vulnerability in JsonNetDeseriali",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112332",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112332:2026-10-22T19:49"
-  },
-  {
-   "ts": "2026-10-22T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112331 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-112331 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Motor.NET before 0.19.0 contains a denial-of-service vulnerability that allows a remote ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112331",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112331:2026-10-22T19:49"
-  },
-  {
-   "ts": "2026-10-22T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112330 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-112330 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Motor.NET before 0.19.0 contains a denial of service vulnerability that allows a remote ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112330",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112330:2026-10-22T19:49"
-  },
-  {
-   "ts": "2026-10-22T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115508 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-115508 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Crawl4AI 0.7.0 before 0.9.5 contains an inefficient regular expression complexity vulner",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115508",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115508:2026-10-22T19:49"
-  },
-  {
-   "ts": "2026-10-22T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115506 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-115506 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True libexpat through 2.9.0 contains a denial of service vulnerability because billion laughs",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115506",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115506:2026-10-22T19:49"
-  },
-  {
-   "ts": "2026-10-22T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115505 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-115505 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True libsmb2 before 6.3 contains integer overflow vulnerabilities in the DCE/RPC NDR decoder ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115505",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115505:2026-10-22T19:49"
-  },
-  {
-   "ts": "2026-10-22T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115504 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-115504 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False CFITSIO through 4.7.0 contains an out-of-bounds write vulnerability in ffgcls2() in get",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115504",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115504:2026-10-22T19:49"
   }
  ]
 }
