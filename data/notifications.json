@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-23T00:19:07+00:00",
+ "generated_at": "2026-10-23T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-23T00:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115486 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-115486 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the iscsiuio component of open-iscsi. The IPv6 Neighbor Discovery hand",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115486",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115486:2026-10-23T00:49"
+  },
+  {
+   "ts": "2026-10-23T00:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115484 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-115484 📢 Source: redhat 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the iscsiuio component of open-iscsi. The DHCPv4 option parser incorre",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115484",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115484:2026-10-23T00:49"
+  },
+  {
+   "ts": "2026-10-23T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] examining the macOS gcc binary",
+   "body": "Lobsters · 점수 54",
+   "link": "https://zoey-on-github.github.io/blog/macgcc.html",
+   "source": "Lobsters",
+   "id": "community:https://zoey-on-github.github.io/blog/macgcc.html:2026-10-23T00:49"
+  },
   {
    "ts": "2026-10-23T00:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-114644",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114644:2026-10-22T19:19"
-  },
-  {
-   "ts": "2026-10-22T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114519 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-114519 📢 Source: Secur0 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Missing Authorization (CWE-862) in the user API of Roskus Prospero Flow CRM from 2.0.0 befo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114519",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114519:2026-10-22T19:19"
-  },
-  {
-   "ts": "2026-10-22T19:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2022-51026 (CVSS 9.8)",
-   "body": "🚨 CVE-2022-51026 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Bytebase 0.12.0 before 1.0.1 contains an authentication bypass vulnerability that all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2022-51026",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-51026:2026-10-22T19:19"
-  },
-  {
-   "ts": "2026-10-22T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115414 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-115414 📢 Source: AMZN 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False OS command injection in the Terraform hook in AWS SAM CLI before 1.166.2 might allow an acto",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115414",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115414:2026-10-22T18:49"
   }
  ]
 }
