@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-23T01:19:07+00:00",
+ "generated_at": "2026-10-23T01:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-23T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19678 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-19678 📢 Source: MON-CSIRT 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A server-side request forgery (SSRF) vulnerability in the unauthenticated form service in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19678",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19678:2026-10-23T01:49"
+  },
+  {
+   "ts": "2026-10-23T01:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19677 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-19677 📢 Source: MON-CSIRT 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An authentication bypass vulnerability in the public onPhase/ frevvo registration for",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19677",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19677:2026-10-23T01:49"
+  },
   {
    "ts": "2026-10-23T00:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-114649",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114649:2026-10-22T19:19"
-  },
-  {
-   "ts": "2026-10-22T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114648 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-114648 📢 Source: mongodb 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True The MongoDB C# Driver does not neutralize dot and dollar characters in dictionary keys, fi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114648",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114648:2026-10-22T19:19"
-  },
-  {
-   "ts": "2026-10-22T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114644 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-114644 📢 Source: mongodb 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True The MongoDB C# Driver's BSON library contains an uncontrolled resource consumption weaknes",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114644",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114644:2026-10-22T19:19"
   }
  ]
 }
