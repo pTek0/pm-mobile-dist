@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-10-23T13:19:20+00:00",
+ "generated_at": "2026-10-23T13:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-23T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93640 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-93640 📢 Source: rapid7 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A local privilege escalation vulnerability in the optional dnscache package of Zimbra Colla",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93640",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93640:2026-10-23T13:49"
+  },
+  {
+   "ts": "2026-10-23T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93639 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-93639 📢 Source: rapid7 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A missing authorization vulnerability in Zimbra Collaboration Suite (ZCS) allows a delegated",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93639",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93639:2026-10-23T13:49"
+  },
+  {
+   "ts": "2026-10-23T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-50057 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-50057 📢 Source: rapid7 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A local privilege escalation vulnerability in the Zimbra Collaboration Suite (ZCS) MTA pack",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-50057",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-50057:2026-10-23T13:49"
+  },
+  {
+   "ts": "2026-10-23T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-50056 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-50056 📢 Source: rapid7 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A local privilege escalation vulnerability in the zmmailboxdmgr launcher of Zimbra Collabor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-50056",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-50056:2026-10-23T13:49"
+  },
+  {
+   "ts": "2026-10-23T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114355 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-114355 📢 Source: NCSC.ch 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False OS command injection in the root-privileged 'hardware_monitor' helper in DJI CrystalSky Z",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114355",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114355:2026-10-23T13:49"
+  },
+  {
+   "ts": "2026-10-23T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114354 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-114354 📢 Source: NCSC.ch 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Missing authorization in the native binder service 'android.dji.server' (transaction code",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114354",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114354:2026-10-23T13:49"
+  },
+  {
+   "ts": "2026-10-23T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114353 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-114353 📢 Source: NCSC.ch 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Hidden functionality (undocumented backdoor) in the root-privileged 'assistant' daemon in D",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114353",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114353:2026-10-23T13:49"
+  },
+  {
+   "ts": "2026-10-23T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93631 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-93631 📢 Source: rapid7 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A cross-site request forgery vulnerability in the OAuth extension of Zimbra Collaboration Su",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93631",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93631:2026-10-23T13:49"
+  },
   {
    "ts": "2026-10-23T13:19:07+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2025-30043",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30043:2026-10-23T08:49"
-  },
-  {
-   "ts": "2026-10-23T08:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-112862 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-112862 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in xnau webdesign Participants Data",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112862",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112862:2026-10-23T08:49"
-  },
-  {
-   "ts": "2026-10-23T08:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-112860 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-112860 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112860",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112860:2026-10-23T08:49"
-  },
-  {
-   "ts": "2026-10-23T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112838 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-112838 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112838",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112838:2026-10-23T08:49"
-  },
-  {
-   "ts": "2026-10-23T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112837 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-112837 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112837",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112837:2026-10-23T08:49"
-  },
-  {
-   "ts": "2026-10-23T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112835 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-112835 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112835",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112835:2026-10-23T08:49"
-  },
-  {
-   "ts": "2026-10-23T07:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-63244 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-63244 📢 Source: CSA 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An authentication bypass vulnerability in WizLearn Technologies' Learning Management System",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63244",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63244:2026-10-23T07:49"
-  },
-  {
-   "ts": "2026-10-23T07:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93489 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-93489 📢 Source: ASUS 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Improper Authentication in ASUS router modules allows an unauthenticated nearby user to send ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93489",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93489:2026-10-23T07:49"
-  },
-  {
-   "ts": "2026-10-23T07:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75779 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-75779 📢 Source: ASUS 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an OS Command (“OS Command Injection”) and",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75779",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75779:2026-10-23T07:49"
   }
  ]
 }
