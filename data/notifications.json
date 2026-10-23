@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-23T17:19:08+00:00",
+ "generated_at": "2026-10-23T17:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-23T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115863 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-115863 📢 Source: mitre 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: False ConnMan through 2.0 has a stack-based buffer overflow via a DHCPv6 Reply message. This occu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115863",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115863:2026-10-23T17:49"
+  },
+  {
+   "ts": "2026-10-23T17:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-115812 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-115812 📢 Source: AMZN 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Relative path traversal during model archive extraction in Amazon Web Services Multi Mode",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115812",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115812:2026-10-23T17:49"
+  },
+  {
+   "ts": "2026-10-23T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110975 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-110975 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False A flaw was found in Kruize Autotune. Its REST API ships without an authentication layer, a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110975",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110975:2026-10-23T17:49"
+  },
   {
    "ts": "2026-10-23T16:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16762",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16762:2026-10-23T09:19"
-  },
-  {
-   "ts": "2026-10-23T08:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2025-30054 (CVSS 9.3)",
-   "body": "🚨 CVE-2025-30054 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False CGM CLININET is vulnerable to local privilege escalation. The service that processes i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30054",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30054:2026-10-23T08:49"
-  },
-  {
-   "ts": "2026-10-23T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-30052 (CVSS 8.8)",
-   "body": "🚨 CVE-2025-30052 📢 Source: CERT-PL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The rsyncd service of the CGM CLININET is vulnerable to Authentication Bypass via IP spoofi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30052",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30052:2026-10-23T08:49"
-  },
-  {
-   "ts": "2026-10-23T08:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2025-30050 (CVSS 9.4)",
-   "body": "🚨 CVE-2025-30050 📢 Source: CERT-PL 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False CGM CLININET is vulnerable to Code Injection in the RunCGI.pm component, which dynamic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-30050",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-30050:2026-10-23T08:49"
   }
  ]
 }
