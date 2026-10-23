@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-23T19:49:07+00:00",
+ "generated_at": "2026-10-23T20:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-23T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79982 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-79982 📢 Source: zephyr 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The Bluetooth HCI USB transport class of the new USB device stack, subsys/usb/device_next/c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79982",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79982:2026-10-23T20:19"
+  },
+  {
+   "ts": "2026-10-23T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79979 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-79979 📢 Source: zephyr 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The arm64 MMU backend invalidates a single virtual address from the TLB with invalidate_tlb",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79979",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79979:2026-10-23T20:19"
+  },
+  {
+   "ts": "2026-10-23T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-79977 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-79977 📢 Source: zephyr 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False The WireGuard VPN service in subsys/net/lib/wireguard/wg.c updated the peer endpoint from a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79977",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79977:2026-10-23T20:19"
+  },
+  {
+   "ts": "2026-10-23T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19741 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-19741 📢 Source: zephyr 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Zephyr's OpenThread integration defined CONFIG_OPENTHREAD_JOINER_PSKD with default \"J01NME\"",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19741",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19741:2026-10-23T20:19"
+  },
   {
    "ts": "2026-10-23T18:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://www.anthropic.com/research/formal-verification",
    "source": "Hacker News",
    "id": "community:https://www.anthropic.com/research/formal-verification:2026-10-23T11:19"
-  },
-  {
-   "ts": "2026-10-23T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] David Revoy - \"Do you have the password ?\"",
-   "body": "Lemmy · programming.dev · 점수 181",
-   "link": "https://framapiaf.org/@davidrevoy/117486886676310899",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://framapiaf.org/@davidrevoy/117486886676310899:2026-10-23T11:19"
-  },
-  {
-   "ts": "2026-10-23T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Getty Images files for bankruptcy amid mounting debt and AI ",
-   "body": "Lemmy · technology · 점수 131",
-   "link": "https://nypost.com/2026/10/22/business/getty-images-files-for-bankruptcy-amid-mounting-debt-ai-competition/",
-   "source": "Lemmy · technology",
-   "id": "community:https://nypost.com/2026/10/22/business/getty-images-files-for-bankruptcy-amid-mounting-debt-ai-competition/:2026-10-23T11:19"
-  },
-  {
-   "ts": "2026-10-23T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-89320 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-89320 📢 Source: eclipse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True `HmacShaCryptor.Hash` never hashed its input. For any input it returned `HMAC_K(\"\")` — the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89320",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89320:2026-10-23T09:19"
-  },
-  {
-   "ts": "2026-10-23T09:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-25784 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-25784 📢 Source: HW 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Initialization of a Resource with an Insecure Default vulnerability in Hallo Welt! GmbH Blue",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-25784",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-25784:2026-10-23T09:19"
   }
  ]
 }
