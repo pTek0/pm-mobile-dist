@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-23T05:19:07+00:00",
+ "generated_at": "2026-10-23T05:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-23T05:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107858 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-107858 📢 Source: Google 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Missing Origin Validation in WebSockets (CWE-1385) and Permissive Cross-domain Policy with ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107858",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107858:2026-10-23T05:49"
+  },
   {
    "ts": "2026-10-23T01:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-114652",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114652:2026-10-22T19:19"
-  },
-  {
-   "ts": "2026-10-22T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114649 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-114649 📢 Source: mongodb 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True The MongoDB C# Driver compares TLS client certificates by issuer and serial number only wh",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114649",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114649:2026-10-22T19:19"
   }
  ]
 }
