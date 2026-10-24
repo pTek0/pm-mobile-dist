@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-24T13:49:08+00:00",
+ "generated_at": "2026-10-24T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-24T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114704 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-114704 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Christoph Vielgrader Relevanssi rele",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114704",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114704:2026-10-24T14:19"
+  },
+  {
+   "ts": "2026-10-24T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114191 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-114191 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Knit Pay UPI QR Code Payment Gateway for WooComm",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114191",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114191:2026-10-24T14:19"
+  },
   {
    "ts": "2026-10-24T12:49:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115938",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115938:2026-10-23T22:19"
-  },
-  {
-   "ts": "2026-10-23T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115937 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-115937 📢 Source: Hackrate 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The Mollie webhook endpoint accepts two independent, attacker-controlled parameters and n",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115937",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115937:2026-10-23T22:19"
-  },
-  {
-   "ts": "2026-10-23T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115935 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-115935 📢 Source: Hackrate 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The app/process-api-response-headers action accepts fake Craft API response headers from ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115935",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115935:2026-10-23T21:49"
   }
  ]
 }
