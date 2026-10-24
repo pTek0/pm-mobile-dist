@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-24T12:19:08+00:00",
+ "generated_at": "2026-10-24T12:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-24T12:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-115932 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-115932 📢 Source: postiz 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False When a post is published, Postiz treats a media path that is not a web address as a fi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115932",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115932:2026-10-24T12:49"
+  },
   {
    "ts": "2026-10-24T11:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115935",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115935:2026-10-23T21:49"
-  },
-  {
-   "ts": "2026-10-23T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79982 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-79982 📢 Source: zephyr 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The Bluetooth HCI USB transport class of the new USB device stack, subsys/usb/device_next/c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79982",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79982:2026-10-23T20:19"
   }
  ]
 }
