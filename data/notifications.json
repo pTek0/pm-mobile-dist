@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-24T10:49:08+00:00",
+ "generated_at": "2026-10-24T11:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-24T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Google quietly changes privacy policy so your Gmail and Phot",
+   "body": "Lemmy · technology · 점수 447",
+   "link": "https://www.dexerto.com/entertainment/google-quietly-changes-privacy-policy-so-your-gmail-and-photos-could-be-used-in-targeted-ads-3421462/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.dexerto.com/entertainment/google-quietly-changes-privacy-policy-so-your-gmail-and-photos-could-be-used-in-targeted-ads-3421462/:2026-10-24T11:19"
+  },
+  {
+   "ts": "2026-10-24T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Threadizens! I give you ✨THE WINDOWS STACK✨",
+   "body": "Lemmy · programming.dev · 점수 254",
+   "link": "https://lemy.lol/pictrs/image/7c6af2a0-3c4e-4c58-9632-180dc87b782a.webp",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemy.lol/pictrs/image/7c6af2a0-3c4e-4c58-9632-180dc87b782a.webp:2026-10-24T11:19"
+  },
+  {
+   "ts": "2026-10-24T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Twelve years of distributed SQLite",
+   "body": "Hacker News · 점수 213",
+   "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+   "source": "Hacker News",
+   "id": "community:https://philipotoole.com/twelve-years-of-distributed-sqlite/:2026-10-24T11:19"
+  },
+  {
+   "ts": "2026-10-24T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] CVE Tracker",
+   "body": "Hacker News · 점수 172",
+   "link": "https://cve.0xosprey.com/",
+   "source": "Hacker News",
+   "id": "community:https://cve.0xosprey.com/:2026-10-24T11:19"
+  },
+  {
+   "ts": "2026-10-24T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] OBS Studio 33",
+   "body": "Hacker News · 점수 167",
+   "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+   "source": "Hacker News",
+   "id": "community:https://github.com/obsproject/obs-studio/releases/tag/33.0.0:2026-10-24T11:19"
+  },
   {
    "ts": "2026-10-24T08:19:08+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115810",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115810:2026-10-23T16:49"
-  },
-  {
-   "ts": "2026-10-23T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-57845 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-57845 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Hugging Face Datasets through 5.1.0 contains an insecure deserialization vulnerability th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57845",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57845:2026-10-23T15:49"
-  },
-  {
-   "ts": "2026-10-23T14:49:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102786 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-102786 📢 Source: Joomla 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - phoca.cz - Authenticated stored cross-site scripting through HTML attrib",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102786",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102786:2026-10-23T14:49"
-  },
-  {
-   "ts": "2026-10-23T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114357 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-114357 📢 Source: NCSC.ch 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Missing authentication for a critical function in the Android Debug Bridge daemon (adb",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114357",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114357:2026-10-23T14:19"
-  },
-  {
-   "ts": "2026-10-23T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114356 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-114356 📢 Source: NCSC.ch 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Missing authorization in the system-privileged 'DJIUpdateService' binder in DJI CrystalSky ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114356",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114356:2026-10-23T14:19"
-  },
-  {
-   "ts": "2026-10-23T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93640 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-93640 📢 Source: rapid7 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A local privilege escalation vulnerability in the optional dnscache package of Zimbra Colla",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93640",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93640:2026-10-23T13:49"
   }
  ]
 }
