@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-24T14:19:08+00:00",
+ "generated_at": "2026-10-24T14:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-24T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-115933 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-115933 📢 Source: postiz 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: False Postiz signs its session, invitation and password reset tokens with one shared secret ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115933",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115933:2026-10-24T14:49"
+  },
+  {
+   "ts": "2026-10-24T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-115557 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-115557 📢 Source: PSF 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Python has added a denylist for known compromised certificates to the \"ssl\" module to ensu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115557",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115557:2026-10-24T14:49"
+  },
   {
    "ts": "2026-10-24T14:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
    "source": "Hacker News",
    "id": "community:https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill:2026-10-23T23:19"
-  },
-  {
-   "ts": "2026-10-23T22:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-115931 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-115931 📢 Source: postiz 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: False Postiz lets a signed-in user ask the backend to run a function on one of their connect",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115931",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115931:2026-10-23T22:49"
-  },
-  {
-   "ts": "2026-10-23T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115938 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-115938 📢 Source: Hackrate 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Craft CMS allows any authenticated control panel user to submit an element-search conditi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115938",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115938:2026-10-23T22:19"
   }
  ]
 }
