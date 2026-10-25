@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-25T11:49:08+00:00",
+ "generated_at": "2026-10-25T12:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-25T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116071 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-116071 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True rotki before 1.44.2 contains a weak key derivation vulnerability that allows attackers t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116071",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116071:2026-10-25T12:19"
+  },
+  {
+   "ts": "2026-10-25T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116068 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116068 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dokploy through 0.30.10 contains an authorization bypass vulnerability that allows owner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116068",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116068:2026-10-25T12:19"
+  },
+  {
+   "ts": "2026-10-25T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116067 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116067 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Paisa before 0.7.8 contains a path traversal vulnerability in the GetFile, GetSheet, Del",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116067",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116067:2026-10-25T12:19"
+  },
+  {
+   "ts": "2026-10-25T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116066 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-116066 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Firecrawl before 2.11.586 contains a server-side request forgery vulnerability in the Play",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116066",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116066:2026-10-25T12:19"
+  },
   {
    "ts": "2026-10-25T11:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
    "source": "Hacker News",
    "id": "community:https://philipotoole.com/twelve-years-of-distributed-sqlite/:2026-10-24T11:19"
-  },
-  {
-   "ts": "2026-10-24T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] CVE Tracker",
-   "body": "Hacker News · 점수 172",
-   "link": "https://cve.0xosprey.com/",
-   "source": "Hacker News",
-   "id": "community:https://cve.0xosprey.com/:2026-10-24T11:19"
-  },
-  {
-   "ts": "2026-10-24T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] OBS Studio 33",
-   "body": "Hacker News · 점수 167",
-   "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-   "source": "Hacker News",
-   "id": "community:https://github.com/obsproject/obs-studio/releases/tag/33.0.0:2026-10-24T11:19"
-  },
-  {
-   "ts": "2026-10-24T08:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-94075 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-94075 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Tribulant Software Newsletters ne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94075",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94075:2026-10-24T08:19"
-  },
-  {
-   "ts": "2026-10-24T08:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114697 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-114697 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114697",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114697:2026-10-24T08:19"
   }
  ]
 }
