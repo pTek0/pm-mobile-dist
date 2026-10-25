@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-25T13:19:07+00:00",
+ "generated_at": "2026-10-25T13:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-25T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116149 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-116149 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True ImageMagick before 6.9.13-58 and 7.x before 7.1.2-33 contains a stack-based buffer overf",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116149",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116149:2026-10-25T13:49"
+  },
   {
    "ts": "2026-10-25T12:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://lemy.lol/pictrs/image/7c6af2a0-3c4e-4c58-9632-180dc87b782a.webp",
    "source": "Lemmy · programming.dev",
    "id": "community:https://lemy.lol/pictrs/image/7c6af2a0-3c4e-4c58-9632-180dc87b782a.webp:2026-10-24T11:19"
-  },
-  {
-   "ts": "2026-10-24T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Twelve years of distributed SQLite",
-   "body": "Hacker News · 점수 213",
-   "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-   "source": "Hacker News",
-   "id": "community:https://philipotoole.com/twelve-years-of-distributed-sqlite/:2026-10-24T11:19"
   }
  ]
 }
