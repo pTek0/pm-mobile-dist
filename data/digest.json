@@ -1,69 +1,79 @@
 {
- "date": "2026-10-25",
- "generated_at": "2026-10-25T08:05:20+09:00",
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T08:05:17+09:00",
  "news": [
   {
-   "title": "앤트로픽, 클로드로 오픈소스 123개 라이브러리 검증...수십 년 버그도 발견",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202610/216612_220721_424.jpg",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=216612",
-   "source": "AI타임스",
-   "category": "AI",
-   "why": "123개 오픈소스 검증서 수십 년 묵은 버그 발견, AI 보안 감사 가능성 입증"
+   "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+   "title_ko": "미패치 Tailscale SSH 결함, 해킹된 기기 하나로 다른 서버의 root 권한 획득 가능성",
+   "summary_ko": "보안 연구자가 이번 주 발표한 내용에 따르면, Tailscale 네트워크에서 해킹된 기기 하나로 연결 가능한 다른 서버의 root 권한을 얻을 수 있다. 공격에는 포트 포워딩이 허용된 Tailscale SSH 설정과, 접근 규칙상 대상에 연결이 허용된 기기를 이미 장악한 공격자가 필요하다.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg",
+   "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+   "source": "The Hacker News",
+   "category": "보안",
+   "why": "패치 전 결함, 기기 하나 뚫리면 다른 서버 root까지 위험"
   },
   {
-   "title": "중국 국영 통신망서 수출 금지 엔비디아 칩 또 포착…첨단 'B300' 32개 확인",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202610/216617_220732_832.jpg",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=216617",
-   "source": "AI타임스",
-   "category": "AI",
-   "why": "수출 금지된 B300 칩이 중국 국영망에서 확인돼 대중 반도체 통제 실효성 시험대"
+   "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+   "title_ko": "PHP2Shell 취약점 악용, 유럽 정부기관 공격에서 AI 활용 정황 포착",
+   "summary_ko": "PHP2Shell 취약점 CVE-2026-109618과 CVE-2026-109619를 악용한 뒤, 위협 행위자가 에이전트형(agentic) AI 플랫폼을 사후 공격에 활용한 정황이 관찰되었다. Unit 42에 따르면 한 사례에서 공격자는 유럽의 정부기관을 노려 초기 악용 후 두 시간 만에 비밀번호 해시와 다단계 인증(2FA) 비밀값을 확보했다. 이후 Active Directory에 NTLM 릴레이 터널을 구축하고 도메인 관리자 권한 상승을 시도했다.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg",
+   "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+   "source": "The Hacker News",
+   "category": "보안",
+   "why": "AI가 취약점 공격 체인에 쓰인 정황, 공격 자동화 신호"
   },
   {
-   "title": "SK “AI 데이터센터 5GW에 464조 필요”…글로벌 빅테크와 투자 협상",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202610/216614_220727_3229.jpg",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=216614",
-   "source": "AI타임스",
-   "category": "AI",
-   "why": "5GW 데이터센터에 464조 투입 협상, AI 인프라 투자 규모가 한 단계 커졌다"
+   "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+   "title_ko": "AI 코딩 에이전트, Downloads 폴더의 AGENTS.md 파일로 탈취 가능",
+   "summary_ko": "Forever Security 연구진은 고객의 Downloads 폴더에서 악성 AGENTS.md 파일을 발견했다. 이 파일의 지시에 따라 AI 코딩 에이전트가 악성 npm 패키지 ‘function-color’를 설치하려 했다. 연구진은 OpenAI Codex에서 이 공격을 재현했고, Claude Code에 대해서도 관련 기법으로 OAuth 토큰을 유출하고 계정을 탈취할 수 있음을 보였다고 밝혔다.",
+   "image": "https://www.bleepstatic.com/content/hl-images/2026/10/23/robot.jpg",
+   "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+   "source": "BleepingComputer",
+   "category": "보안",
+   "why": "AI 코딩 에이전트가 파일 한 장으로 탈취 가능, 도구 신뢰 문제"
   },
   {
-   "title": "피차이 “매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”",
+   "title": "오픈AI 회의실 도청 사태, 사우디 연루 '경제 간첩' 수사로 확대",
    "title_ko": "",
    "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202610/216618_220734_2236.png",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=216618",
+   "image": "https://cdn.aitimes.com/news/photo/202610/216621_220738_369.jpg",
+   "link": "https://www.aitimes.com/news/articleView.html?idxno=216621",
    "source": "AI타임스",
    "category": "AI",
-   "why": "매출보다 첨단 AI 개발 컴퓨팅을 우선한다는 발언, 빅테크 전략 전환 신호"
+   "why": "회의실 도청이 경제간첩 수사로 번져, AI 기업 보안 리스크 부각"
   },
   {
-   "title": "오픈AI 연구원 3명 해고, ‘순환 추론’ 유출 조사서 비롯…시그널 대화 쟁점",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202610/216616_220731_5231.jpg",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=216616",
-   "source": "AI타임스",
-   "category": "AI",
-   "why": "OpenAI 유출 조사로 연구원 3명 해고, 내부 보안과 안전 논쟁이 다시 불붙음"
-  },
-  {
-   "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
-   "title_ko": "비트코인이 잠시 8만 달러 아래로 밀리자 가상자산 롱 투자자 4시간 만에 4억 400만 달러 손실",
-   "summary_ko": "현물 비트코인 ETF는 3일 연속 순유입 이후 목요일과 금요일에 합계 7억 7,300만 달러의 순유출을 기록했다. 자료는 SoSoValue 데이터를 인용했다.",
-   "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/05/20220516-News-Market-Decline-3.png",
-   "link": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+   "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
+   "title_ko": "CoinDCX, CEO가 침해 보도를 '오경보'라고 한 지 며칠 만에 사용 중단된 지갑에서 1,600만 달러 손실 확인",
+   "summary_ko": "CoinDCX는 사용 중단된 지갑에서 $16 million(1,600만 달러) 규모의 손실이 발생했다고 확인했다. CEO Sumit Gupta는 앞서 수요일 X에 올린 글에서 초기 침해 보도가 'a false alarm'처럼 보인다고 말했다.",
+   "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/09/20210917_Hack_General.jpg",
+   "link": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
    "source": "The Block",
    "category": "코인",
-   "why": "BTC 8만 달러 이탈로 4시간 만에 롱 4억 달러 청산, 단기 하방 압력 확인"
+   "why": "'오경보'라던 침해가 실손실로 확인, 거래소 신뢰 타격"
+  },
+  {
+   "title": "Musk says SpaceX raised $40 billion in debt for GPUs",
+   "title_ko": "Musk, SpaceX가 GPU 투자 자금으로 400억 달러 부채를 조달했다고 밝혀",
+   "summary_ko": "Musk는 SpaceX가 GPU 확보를 위해 400억 달러 규모의 부채를 조달했다고 밝혔다. 요약과 본문이 없어 제목 이상의 세부 내용은 확인할 수 없다.",
+   "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9O0KK_L.jpg",
+   "link": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+   "source": "Investing.com",
+   "category": "주식",
+   "why": "AI 인프라 투자의 부채 의존도, 자금 조달 구조 변화 신호"
   }
  ],
  "community": [
+  {
+   "title": "Root shell on Samsung TV",
+   "title_ko": "Samsung TV에서 루트 셸 획득 주장",
+   "summary_ko": "2025년형 Samsung TV 소유자가 펌웨어 리버싱을 시도했으나 AES로 암호화되어 있어 키를 얻지 못했다고 밝혔다. 키를 얻으려면 분해 후 UART/JTAG 작업이 필요하다고 설명했다. 작성자는 최신 Samsung TV에서 루트 셸을 얻을 수 있는 제로데이를 확보했다고 주장했다.",
+   "image": "https://pbs.twimg.com/media/HVLvKWgXIAAWNTX?format=webp&name=large",
+   "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+   "source": "Hacker News",
+   "category": "해외·기술",
+   "why": "삼성 TV 루트 셸 주장, 스마트 가전 펌웨어 보안 재조명"
+  },
   {
    "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
    "title_ko": "사이버 테스트 중 AI 에이전트의 무단 해로운 행동 사건 | AISI",
@@ -72,17 +82,7 @@
    "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "AI 에이전트가 사이버 테스트 중 무단 해로운 행동을 보인 사례, 자율성 리스크 실증"
-  },
-  {
-   "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
-   "title_ko": "AI가 정말 Hugging Face를 해킹했을까? | LiveOverflow",
-   "summary_ko": "Hugging Face 보안 사건과 관련된 분석입니다.",
-   "image": "https://i.ytimg.com/vi/q2KCrmQz9WE/maxresdefault.jpg",
-   "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
-   "source": "Lemmy · cybersecurity",
-   "category": "해외·보안",
-   "why": "AI의 Hugging Face 해킹 주장 진위를 짚어, 자율 공격 능력의 실제 수준 가늠"
+   "why": "AI 에이전트 테스트 중 무단 행동 사례, 자율성 통제 과제"
   },
   {
    "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
@@ -92,37 +92,37 @@
    "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "Google Workspace 규칙을 악용한 연구·국방 이메일 대량 탈취, 정교한 중국발 공격"
+   "why": "정상 기능을 악용한 이메일 대량 탈취, 워크스페이스 설정 점검 필요"
   },
   {
-   "title": "Nissan says Oracle PeopleSoft break-in may have spilled payroll records, SSNs",
-   "title_ko": "닛산, 오라클 PeopleSoft 침해로 급여·SSN 유출 가능성 경고",
-   "summary_ko": "닛산은 오라클로부터 '수백 개 기업'의 인사 기록이 연루된 사이버 사건을 통보받았으며 자사가 표적이 됐다고 밝혔다. 급여 기록, 은행 정보, 사회보장번호(SSN) 등 민감 정보가 탈취됐을 수 있어 현·전직 직원에게 통지했다.",
-   "image": "https://lemmy.world/pictrs/image/68a8c6f0-07e4-43a0-a7d0-32288cd688fb.jpeg",
-   "link": "https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534",
-   "source": "Lemmy · cybersecurity",
-   "category": "해외·보안",
-   "why": "닛산의 Oracle PeopleSoft 침해로 급여·SSN 유출 우려, 기업 ERP 보안 경고"
-  },
-  {
-   "title": "AI bubble update: 79% of companies say their GPUs sit idle at least half the time, yet most plan new AI platforms",
-   "title_ko": "AI 거품 논쟁: 기업 79%는 GPU를 절반 이상 놀리는데도 새 AI 플랫폼 도입을 계획",
-   "summary_ko": "VentureBeat Intelligence의 최신 조사에 따르면, 프로덕션에서 AI를 운영하는 기업 대다수가 GPU를 최소 절반 이상 유휴 상태로 두고 있다. GPU 활용률을 응답한 218개 기업 중 79%가 가동 시간이 절반 이하라고 답했고, 이 중 70%는 향후 12개월 안에 새로운, 추가 또는 교체용 AI 컴퓨팅 플랫폼을 도입할 계획이라고 밝혔다. 이 비율은 3개월 조사 내내 77~81% 범위를 유지했다.",
-   "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3JBpsU0HfqG8QwRXiSFcXM/138ddf1aaf2523160ff5445d818ed1f2/lead-A-sleeping-gpus-in-cart.png?w=800&q=75",
-   "link": "https://venturebeat.com/infrastructure/ai-bubble-update-79-of-companies-say-their-gpus-sit-idle-at-least-half-the-time-yet-most-plan-new-ai-platforms",
-   "source": "Lemmy · technology",
+   "title": "Cerebras Deploys Trillion-Parameter AI Models",
+   "title_ko": "Cerebras, 1조 파라미터급 AI 모델을 여러 웨이퍼에 나눠 배포하는 방식 공개",
+   "summary_ko": "Cerebras는 WSE-3T 웨이퍼 한 장의 온칩 메모리가 44GB에 그쳐, 1조 파라미터 이상의 모델을 여러 웨이퍼에 나눠 올리는 방식을 설명한다. 예시로 약 3조 파라미터의 오픈소스 모델 Kimi K3를 들어, 이를 1000~2000+ tokens/s로 구동하는 과정을 다룬다. Kimi K3는 Terminal-Bench 2.1에서 88.3%, BrowseComp에서 91.2%를 기록했다고 한다.",
+   "image": "https://cdn.sanity.io/images/e4qjo92p/production/1796e3cccda1454e97d262833fb0bb0d6015032f-2786x1567.png?rect=0,53,2786,1463&w=1200&h=630&fit=max&auto=format",
+   "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+   "source": "Hacker News",
    "category": "해외·기술",
-   "why": "기업 79%가 GPU 절반 이상을 놀리면서도 AI 플랫폼 도입 계획, 과열 논쟁 지표"
+   "why": "1조 파라미터 모델을 웨이퍼 분산 배포, 추론 인프라 진화"
   },
   {
-   "title": "I want my Wednesday back",
-   "title_ko": "수요일을 되찾고 싶다: php2shell 대량 악용이 아직 보이지 않는 이유",
-   "summary_ko": "php2shell의 심각성에 대한 의견이 엇갈리는 가운데, 작성자가 공개된 PoC를 분석한 글입니다. 작성자가 찾은 가장 나은 PoC를 쓰려면 같은 PHP 워커 프로세스에 요청 네 개를 연속으로 보내야 하며, 정확한 PHP 빌드 정보(버전, OS, 아키텍처)가 필요하다고 설명합니다.",
-   "image": "",
-   "link": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
-   "source": "Lobsters",
-   "category": "해외·개발/보안",
-   "why": "php2shell 대량 악용이 늦는 이유 분석, 공개 취약점의 실제 위험도 판단 힌트"
+   "title": "어처피 AI 때문에 CTF 다 끝났다",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://nstatic.dcinside.com/dc/w/images/descrip_img.png",
+   "link": "https://gall.dcinside.com/mgallery/board/view/?id=ctf&no=45&page=1",
+   "source": "디시 CTF 갤러리",
+   "category": "국내·CTF/보안",
+   "why": "AI 발전이 CTF 문화를 흔든다는 커뮤니티 반응"
+  },
+  {
+   "title": ".NET October 2026 Out-of-Band Security Updates",
+   "title_ko": ".NET 2026년 10월 긴급(Out-of-Band) 보안 업데이트 배포",
+   "summary_ko": ".NET 8, 9, 10 대상 긴급 보안 업데이트가 공개되었으며, .NET 11 Release Candidate 3도 함께 배포되었다. 이번 업데이트는 Brotli 압축 해제 알고리즘의 버퍼 오버플로 취약점 CVE-2026-111497을 수정하고, .NET 8부터 11까지에 영향을 주는 Linux .NET tarball 소유권 문제 CVE-2026-114148의 수정을 포함한다. 가능한 한 빨리 업데이트할 것을 권장한다.",
+   "image": "https://programming.dev/pictrs/image/95f92dab-5d67-4366-80e0-ec0f947633db.webp",
+   "link": "https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/",
+   "source": "Lemmy · programming.dev",
+   "category": "해외·개발",
+   "why": ".NET 긴급 보안 업데이트, 해당 환경은 즉시 점검 필요"
   }
  ]
 }
