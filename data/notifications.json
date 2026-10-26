@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-26T18:49:08+00:00",
+ "generated_at": "2026-10-26T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-26T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-110720 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-110720 📢 Source: HashiCorp 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: False Consul-k8s versions 0.42.0 and later are vulnerable to a cross-namespace authorizat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110720",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110720:2026-10-26T19:19"
+  },
   {
    "ts": "2026-10-26T18:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
    "source": "Lobsters",
    "id": "community:https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/:2026-10-26T12:19"
-  },
-  {
-   "ts": "2026-10-26T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Denmark has abandoned plans to ditch Microsoft Office after ",
-   "body": "Lemmy · technology · 점수 64",
-   "link": "https://www.neowin.net/news/denmark-has-abandoned-plans-to-ditch-microsoft-office-after-technical-problems/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.neowin.net/news/denmark-has-abandoned-plans-to-ditch-microsoft-office-after-technical-problems/:2026-10-26T12:19"
   }
  ]
 }
