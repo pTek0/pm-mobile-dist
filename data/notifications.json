@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-10-26T23:19:07+00:00",
+ "generated_at": "2026-10-26T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-26T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116819 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-116819 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains an information disclosure vulnerability that allows read",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116819",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116819:2026-10-26T23:49"
+  },
+  {
+   "ts": "2026-10-26T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116818 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116818 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains an unauthenticated ClickHouse sql injection vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116818",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116818:2026-10-26T23:49"
+  },
+  {
+   "ts": "2026-10-26T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116814 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-116814 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains an information exposure vulnerability that writes databa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116814",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116814:2026-10-26T23:49"
+  },
+  {
+   "ts": "2026-10-26T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116813 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-116813 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains an sql injection vulnerability in ConversionService.getC",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116813",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116813:2026-10-26T23:49"
+  },
+  {
+   "ts": "2026-10-26T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116812 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-116812 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains a sql injection vulnerability in profileColumnAccess in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116812",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116812:2026-10-26T23:49"
+  },
+  {
+   "ts": "2026-10-26T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116811 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116811 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains a sandbox escape vulnerability in the js-runtime validat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116811",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116811:2026-10-26T23:49"
+  },
+  {
+   "ts": "2026-10-26T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116808 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-116808 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains an sql injection vulnerability that allows authenticated",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116808",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116808:2026-10-26T23:49"
+  },
+  {
+   "ts": "2026-10-26T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116807 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-116807 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains an sql injection vulnerability that allows authenticated u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116807",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116807:2026-10-26T23:49"
+  },
+  {
+   "ts": "2026-10-26T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Blaise Pascal invented fixed route public transport (2024)",
+   "body": "Hacker News · 점수 248",
+   "link": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+   "source": "Hacker News",
+   "id": "community:https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html:2026-10-26T23:49"
+  },
+  {
+   "ts": "2026-10-26T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Some iPhone Duo screens are already failing",
+   "body": "Lemmy · technology · 점수 234",
+   "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/:2026-10-26T23:49"
+  },
+  {
+   "ts": "2026-10-26T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Concerning behavior from a popular open-weight AI model",
+   "body": "Hacker News · 점수 234",
+   "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+   "source": "Hacker News",
+   "id": "community:https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model:2026-10-26T23:49"
+  },
+  {
+   "ts": "2026-10-26T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] In Leaked Audio, Flock CEO Tells Cops Backlash to the Compan",
+   "body": "Hacker News · 점수 227",
+   "link": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+   "source": "Hacker News",
+   "id": "community:https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/:2026-10-26T23:49"
+  },
+  {
+   "ts": "2026-10-26T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] In China, the AI bubble has already burst",
+   "body": "Lemmy · technology · 점수 171",
+   "link": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/:2026-10-26T23:49"
+  },
   {
    "ts": "2026-10-26T23:19:07+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77056",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77056:2026-10-26T15:19"
-  },
-  {
-   "ts": "2026-10-26T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-77055 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-77055 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False boneIO black_debian_images gives the boneio service account excessive privileges, incl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77055",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77055:2026-10-26T15:19"
-  },
-  {
-   "ts": "2026-10-26T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77053 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-77053 📢 Source: CERT-PL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False boneIO Black firmware ships with authentication disabled by default. Its management web AP",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77053",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77053:2026-10-26T15:19"
-  },
-  {
-   "ts": "2026-10-26T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77052 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-77052 📢 Source: CERT-PL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False boneIO Black exposes a Node-RED instance without authentication at the /nodered/ path thro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77052",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77052:2026-10-26T15:19"
-  },
-  {
-   "ts": "2026-10-26T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-65184 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-65184 📢 Source: runZero 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The root-privileged `wsserver` terminal-bridge daemon builds a shell command from clien",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65184",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65184:2026-10-26T15:19"
-  },
-  {
-   "ts": "2026-10-26T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115930 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-115930 📢 Source: mongodb 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True The MongoDB Shell (mongosh) relies on Node.js as a third-party runtime that carries its ow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115930",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115930:2026-10-26T15:19"
-  },
-  {
-   "ts": "2026-10-26T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112345 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-112345 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False TTLock Android application before v9.8.260718 and associated smart-lock firmware contai",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112345",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112345:2026-10-26T15:19"
-  },
-  {
-   "ts": "2026-10-26T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115189 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-115189 📢 Source: Mautic 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A server-side template injection vulnerability exists in the Twig theme rendering sandbox o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115189",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115189:2026-10-26T14:19"
-  },
-  {
-   "ts": "2026-10-26T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-115188 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-115188 📢 Source: Mautic 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True An unrestricted file upload vulnerability exists in the campaign import feature of Maut",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115188",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115188:2026-10-26T14:19"
-  },
-  {
-   "ts": "2026-10-26T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114213 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-114213 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in the WebSocket fragment r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114213",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114213:2026-10-26T14:19"
-  },
-  {
-   "ts": "2026-10-26T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-113436 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-113436 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Inefficient Algorithmic Complexity vulnerability in the header integer parser of mtrudel bandi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113436",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113436:2026-10-26T14:19"
-  },
-  {
-   "ts": "2026-10-26T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111103 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-111103 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Improper Cleanup on Thrown Exception vulnerability in the HTTP/2 handler of mtrudel bandit all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111103",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111103:2026-10-26T14:19"
-  },
-  {
-   "ts": "2026-10-26T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111101 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-111101 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in the HTTP/1.1 chunked bod",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111101",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111101:2026-10-26T14:19"
-  },
-  {
-   "ts": "2026-10-26T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110499 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-110499 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in the HTTP/2 implementatio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110499",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110499:2026-10-26T14:19"
   }
  ]
 }
