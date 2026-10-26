@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-26T11:49:07+00:00",
+ "generated_at": "2026-10-26T12:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-26T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115717 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-115717 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Frappe Builder versions before 1.36.1 contain a server-side request forgery vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115717",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115717:2026-10-26T12:19"
+  },
+  {
+   "ts": "2026-10-26T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Report says 'circular financing' shows AI bubble 'primed to ",
+   "body": "Lemmy · technology · 점수 106",
+   "link": "https://www.openmarketsinstitute.org/publications/brace-for-impact-report-release",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.openmarketsinstitute.org/publications/brace-for-impact-report-release:2026-10-26T12:19"
+  },
+  {
+   "ts": "2026-10-26T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] POSIX wordexp(3) is dangerous",
+   "body": "Lobsters · 점수 73",
+   "link": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
+   "source": "Lobsters",
+   "id": "community:https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/:2026-10-26T12:19"
+  },
+  {
+   "ts": "2026-10-26T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Denmark has abandoned plans to ditch Microsoft Office after ",
+   "body": "Lemmy · technology · 점수 64",
+   "link": "https://www.neowin.net/news/denmark-has-abandoned-plans-to-ditch-microsoft-office-after-technical-problems/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.neowin.net/news/denmark-has-abandoned-plans-to-ditch-microsoft-office-after-technical-problems/:2026-10-26T12:19"
+  },
+  {
+   "ts": "2026-10-26T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Vim Classic",
+   "body": "Lobsters · 점수 63",
+   "link": "https://vim-classic.org/",
+   "source": "Lobsters",
+   "id": "community:https://vim-classic.org/:2026-10-26T12:19"
+  },
+  {
+   "ts": "2026-10-26T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Partial Order Precedence",
+   "body": "Lobsters · 점수 52",
+   "link": "https://ziglang.org/devlog/2026/#2026-10-24",
+   "source": "Lobsters",
+   "id": "community:https://ziglang.org/devlog/2026/#2026-10-24:2026-10-26T12:19"
+  },
   {
    "ts": "2026-10-26T11:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://talkweb.eu/openweb/4558/",
    "source": "Hacker News",
    "id": "community:https://talkweb.eu/openweb/4558/:2026-10-25T23:19"
-  },
-  {
-   "ts": "2026-10-25T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116149 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-116149 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True ImageMagick before 6.9.13-58 and 7.x before 7.1.2-33 contains a stack-based buffer overf",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116149",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116149:2026-10-25T13:49"
-  },
-  {
-   "ts": "2026-10-25T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116071 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-116071 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True rotki before 1.44.2 contains a weak key derivation vulnerability that allows attackers t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116071",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116071:2026-10-25T12:19"
-  },
-  {
-   "ts": "2026-10-25T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116068 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116068 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dokploy through 0.30.10 contains an authorization bypass vulnerability that allows owner",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116068",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116068:2026-10-25T12:19"
-  },
-  {
-   "ts": "2026-10-25T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116067 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116067 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Paisa before 0.7.8 contains a path traversal vulnerability in the GetFile, GetSheet, Del",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116067",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116067:2026-10-25T12:19"
-  },
-  {
-   "ts": "2026-10-25T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116066 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-116066 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Firecrawl before 2.11.586 contains a server-side request forgery vulnerability in the Play",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116066",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116066:2026-10-25T12:19"
-  },
-  {
-   "ts": "2026-10-25T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] When your phone has a menu that NO user in the UNIVERSE woul",
-   "body": "Lemmy · programming.dev · 점수 142",
-   "link": "https://piefed.cdn.blahaj.zone/posts/0S/zD/0SzDDM2sv2fpC7h.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://piefed.cdn.blahaj.zone/posts/0S/zD/0SzDDM2sv2fpC7h.png:2026-10-25T11:49"
   }
  ]
 }
