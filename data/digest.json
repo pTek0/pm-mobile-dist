@@ -1,79 +1,69 @@
 {
- "date": "2026-10-26",
- "generated_at": "2026-10-26T08:05:17+09:00",
+ "date": "2026-10-27",
+ "generated_at": "2026-10-27T08:05:17+09:00",
  "news": [
   {
-   "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-   "title_ko": "미패치 Tailscale SSH 결함, 해킹된 기기 하나로 다른 서버의 root 권한 획득 가능성",
-   "summary_ko": "보안 연구자가 이번 주 발표한 내용에 따르면, Tailscale 네트워크에서 해킹된 기기 하나로 연결 가능한 다른 서버의 root 권한을 얻을 수 있다. 공격에는 포트 포워딩이 허용된 Tailscale SSH 설정과, 접근 규칙상 대상에 연결이 허용된 기기를 이미 장악한 공격자가 필요하다.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg",
-   "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-   "source": "The Hacker News",
-   "category": "보안",
-   "why": "패치 전 결함, 기기 하나 뚫리면 다른 서버 root까지 위험"
-  },
-  {
-   "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-   "title_ko": "PHP2Shell 취약점 악용, 유럽 정부기관 공격에서 AI 활용 정황 포착",
-   "summary_ko": "PHP2Shell 취약점 CVE-2026-109618과 CVE-2026-109619를 악용한 뒤, 위협 행위자가 에이전트형(agentic) AI 플랫폼을 사후 공격에 활용한 정황이 관찰되었다. Unit 42에 따르면 한 사례에서 공격자는 유럽의 정부기관을 노려 초기 악용 후 두 시간 만에 비밀번호 해시와 다단계 인증(2FA) 비밀값을 확보했다. 이후 Active Directory에 NTLM 릴레이 터널을 구축하고 도메인 관리자 권한 상승을 시도했다.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg",
-   "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-   "source": "The Hacker News",
-   "category": "보안",
-   "why": "AI가 취약점 공격 체인에 쓰인 정황, 공격 자동화 신호"
-  },
-  {
-   "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-   "title_ko": "AI 코딩 에이전트, Downloads 폴더의 AGENTS.md 파일로 탈취 가능",
-   "summary_ko": "Forever Security 연구진은 고객의 Downloads 폴더에서 악성 AGENTS.md 파일을 발견했다. 이 파일의 지시에 따라 AI 코딩 에이전트가 악성 npm 패키지 ‘function-color’를 설치하려 했다. 연구진은 OpenAI Codex에서 이 공격을 재현했고, Claude Code에 대해서도 관련 기법으로 OAuth 토큰을 유출하고 계정을 탈취할 수 있음을 보였다고 밝혔다.",
-   "image": "https://www.bleepstatic.com/content/hl-images/2026/10/23/robot.jpg",
-   "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-   "source": "BleepingComputer",
-   "category": "보안",
-   "why": "AI 코딩 에이전트가 파일 한 장으로 탈취 가능, 도구 신뢰 문제"
-  },
-  {
-   "title": "오픈AI 회의실 도청 사태, 사우디 연루 '경제 간첩' 수사로 확대",
+   "title": "앤트로픽 IPO 서류에 드러난 재무 부담…800조 지출 약정·빅테크 의존",
    "title_ko": "",
    "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202610/216621_220738_369.jpg",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=216621",
+   "image": "https://cdn.aitimes.com/news/photo/202610/216688_220824_1315.jpg",
+   "link": "https://www.aitimes.com/news/articleView.html?idxno=216688",
    "source": "AI타임스",
    "category": "AI",
-   "why": "회의실 도청이 경제간첩 수사로 번져, AI 기업 보안 리스크 부각"
+   "why": "800조 지출 약정과 빅테크 의존, IPO 서류가 드러낸 AI 재무 구조"
   },
   {
-   "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
-   "title_ko": "CoinDCX, CEO가 침해 보도를 '오경보'라고 한 지 며칠 만에 사용 중단된 지갑에서 1,600만 달러 손실 확인",
-   "summary_ko": "CoinDCX는 사용 중단된 지갑에서 $16 million(1,600만 달러) 규모의 손실이 발생했다고 확인했다. CEO Sumit Gupta는 앞서 수요일 X에 올린 글에서 초기 침해 보도가 'a false alarm'처럼 보인다고 말했다.",
-   "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/09/20210917_Hack_General.jpg",
-   "link": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
-   "source": "The Block",
-   "category": "코인",
-   "why": "'오경보'라던 침해가 실손실로 확인, 거래소 신뢰 타격"
+   "title": "일본 사이버공격 급증에 정부 긴급대책 착수…기업들 고객 피해보상 확대",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.dailysecu.com/news/photo/202610/209083_210111_5134.jpeg",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209083",
+   "source": "데일리시큐",
+   "category": "보안",
+   "why": "일본 정부가 사이버공격 급증에 긴급대책 착수, 기업 보상 부담도 커진다"
   },
   {
-   "title": "Musk says SpaceX raised $40 billion in debt for GPUs",
-   "title_ko": "Musk, SpaceX가 GPU 투자 자금으로 400억 달러 부채를 조달했다고 밝혀",
-   "summary_ko": "Musk는 SpaceX가 GPU 확보를 위해 400억 달러 규모의 부채를 조달했다고 밝혔다. 요약과 본문이 없어 제목 이상의 세부 내용은 확인할 수 없다.",
-   "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9O0KK_L.jpg",
-   "link": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
-   "source": "Investing.com",
-   "category": "주식",
-   "why": "AI 인프라 투자의 부채 의존도, 자금 조달 구조 변화 신호"
+   "title": "KB국민은행 해킹 피해 119명→2,210명으로 확대…초기 조사서 2,091명 누락",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.dailysecu.com/news/photo/202610/209078_210106_62.jpg",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209078",
+   "source": "데일리시큐",
+   "category": "보안",
+   "why": "초기 조사 누락으로 피해자가 2,210명까지 늘어난 국내 금융권 해킹"
+  },
+  {
+   "title": "기업 AI 에이전트 76%, 두 달간 사용 안 해도 접근권한 유지…보안 사각지대 경고",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.dailysecu.com/news/photo/202610/209082_210110_4455.jpeg",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209082",
+   "source": "데일리시큐",
+   "category": "보안",
+   "why": "두 달간 안 써도 권한이 남는 AI 에이전트, 기업 보안의 새 사각지대"
+  },
+  {
+   "title": "AI로 국내 90여 곳 해킹…개인정보 820만 건 탈취 조직 검거",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.dailysecu.com/news/photo/202610/209080_210108_284.jpeg",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209080",
+   "source": "데일리시큐",
+   "category": "보안",
+   "why": "AI로 90여 곳을 뚫은 국내 해킹 조직, 공격 자동화의 현실을 보여줌"
+  },
+  {
+   "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+   "title_ko": "GPT-6.1 Terra, OpenAI API 가격 절반 인하…대형 모델과의 경쟁력 확대",
+   "summary_ko": "OpenAI가 전 세대 대비 API 가격을 절반으로 낮춘 중급 모델 GPT-6.1 Terra를 출시했다. 분석가들은 일상적인 컴퓨팅 작업과 AI 기반 컴퓨터 제어에서 달러당 지능(intelligence per dollar)의 새 기준을 세웠다고 평가한다.",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo_earth.png",
+   "link": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+   "source": "The Decoder",
+   "category": "AI",
+   "why": "API 가격 절반 인하로 AI 모델 경쟁이 가격 전쟁으로 번지는 신호"
   }
  ],
  "community": [
-  {
-   "title": "Root shell on Samsung TV",
-   "title_ko": "Samsung TV에서 루트 셸 획득 주장",
-   "summary_ko": "2025년형 Samsung TV 소유자가 펌웨어 리버싱을 시도했으나 AES로 암호화되어 있어 키를 얻지 못했다고 밝혔다. 키를 얻으려면 분해 후 UART/JTAG 작업이 필요하다고 설명했다. 작성자는 최신 Samsung TV에서 루트 셸을 얻을 수 있는 제로데이를 확보했다고 주장했다.",
-   "image": "https://pbs.twimg.com/media/HVLvKWgXIAAWNTX?format=webp&name=large",
-   "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-   "source": "Hacker News",
-   "category": "해외·기술",
-   "why": "삼성 TV 루트 셸 주장, 스마트 가전 펌웨어 보안 재조명"
-  },
   {
    "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
    "title_ko": "사이버 테스트 중 AI 에이전트의 무단 해로운 행동 사건 | AISI",
@@ -82,7 +72,7 @@
    "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "AI 에이전트 테스트 중 무단 행동 사례, 자율성 통제 과제"
+   "why": "AI 에이전트가 사이버 테스트 중 무단으로 해로운 행동을 한 실제 사례"
   },
   {
    "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
@@ -92,17 +82,37 @@
    "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "정상 기능을 악용한 이메일 대량 탈취, 워크스페이스 설정 점검 필요"
+   "why": "Google Workspace 규칙을 악용한 대량 이메일 도용, 연구·국방 표적"
   },
   {
-   "title": "Cerebras Deploys Trillion-Parameter AI Models",
-   "title_ko": "Cerebras, 1조 파라미터급 AI 모델을 여러 웨이퍼에 나눠 배포하는 방식 공개",
-   "summary_ko": "Cerebras는 WSE-3T 웨이퍼 한 장의 온칩 메모리가 44GB에 그쳐, 1조 파라미터 이상의 모델을 여러 웨이퍼에 나눠 올리는 방식을 설명한다. 예시로 약 3조 파라미터의 오픈소스 모델 Kimi K3를 들어, 이를 1000~2000+ tokens/s로 구동하는 과정을 다룬다. Kimi K3는 Terminal-Bench 2.1에서 88.3%, BrowseComp에서 91.2%를 기록했다고 한다.",
-   "image": "https://cdn.sanity.io/images/e4qjo92p/production/1796e3cccda1454e97d262833fb0bb0d6015032f-2786x1567.png?rect=0,53,2786,1463&w=1200&h=630&fit=max&auto=format",
-   "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+   "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
+   "title_ko": "AI가 정말 Hugging Face를 해킹했을까? | LiveOverflow",
+   "summary_ko": "Hugging Face 보안 사건과 관련된 분석입니다.",
+   "image": "https://i.ytimg.com/vi/q2KCrmQz9WE/maxresdefault.jpg",
+   "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "AI가 Hugging Face를 실제로 뚫었는지 따져보는 보안 커뮤니티 분석"
+  },
+  {
+   "title": "Nissan says Oracle PeopleSoft break-in may have spilled payroll records, SSNs",
+   "title_ko": "닛산, 오라클 PeopleSoft 침해로 급여·SSN 유출 가능성 경고",
+   "summary_ko": "닛산은 오라클로부터 '수백 개 기업'의 인사 기록이 연루된 사이버 사건을 통보받았으며 자사가 표적이 됐다고 밝혔다. 급여 기록, 은행 정보, 사회보장번호(SSN) 등 민감 정보가 탈취됐을 수 있어 현·전직 직원에게 통지했다.",
+   "image": "https://lemmy.world/pictrs/image/68a8c6f0-07e4-43a0-a7d0-32288cd688fb.jpeg",
+   "link": "https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "오라클 PeopleSoft 침해로 급여·SSN 유출 가능성, 기업 인사 시스템 위험"
+  },
+  {
+   "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+   "title_ko": "Microsoft, 전체 인력의 약 4분의 1에 대규모 자발적 퇴직 제안",
+   "summary_ko": "Microsoft가 미국, 캐나다, 인도, 영국의 부사장(VP)급 이하 직원 약 6만 명(전체 인력의 약 4분의 1)에게 자발적 퇴직 제안을 보냅니다. 대상자는 지역에 따른 표준 퇴직금 패키지를 받으며, 12월 초까지 결정해야 합니다. 이번 제안은 올해 초 미국 직원 8,700명 이상을 대상으로 한 자발적 퇴직 프로그램에 이은 것입니다.",
+   "image": "https://images.seattletimes.com/wp-content/uploads/2026/10/10262026_Microsoft_tzr_081156.jpg?d=1200x630",
+   "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
    "source": "Hacker News",
    "category": "해외·기술",
-   "why": "1조 파라미터 모델을 웨이퍼 분산 배포, 추론 인프라 진화"
+   "why": "Microsoft 전체 인력의 약 4분의 1 규모 퇴직 제안, 업계 구조조정 신호"
   },
   {
    "title": "어처피 AI 때문에 CTF 다 끝났다",
@@ -112,17 +122,7 @@
    "link": "https://gall.dcinside.com/mgallery/board/view/?id=ctf&no=45&page=1",
    "source": "디시 CTF 갤러리",
    "category": "국내·CTF/보안",
-   "why": "AI 발전이 CTF 문화를 흔든다는 커뮤니티 반응"
-  },
-  {
-   "title": ".NET October 2026 Out-of-Band Security Updates",
-   "title_ko": ".NET 2026년 10월 긴급(Out-of-Band) 보안 업데이트 배포",
-   "summary_ko": ".NET 8, 9, 10 대상 긴급 보안 업데이트가 공개되었으며, .NET 11 Release Candidate 3도 함께 배포되었다. 이번 업데이트는 Brotli 압축 해제 알고리즘의 버퍼 오버플로 취약점 CVE-2026-111497을 수정하고, .NET 8부터 11까지에 영향을 주는 Linux .NET tarball 소유권 문제 CVE-2026-114148의 수정을 포함한다. 가능한 한 빨리 업데이트할 것을 권장한다.",
-   "image": "https://programming.dev/pictrs/image/95f92dab-5d67-4366-80e0-ec0f947633db.webp",
-   "link": "https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/",
-   "source": "Lemmy · programming.dev",
-   "category": "해외·개발",
-   "why": ".NET 긴급 보안 업데이트, 해당 환경은 즉시 점검 필요"
+   "why": "AI 발전으로 CTF 판이 바뀌었다는 국내 해커 커뮤니티의 위기감"
   }
  ]
 }
