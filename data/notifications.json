@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-10-26T13:49:08+00:00",
+ "generated_at": "2026-10-26T14:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-26T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115189 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-115189 📢 Source: Mautic 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A server-side template injection vulnerability exists in the Twig theme rendering sandbox o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115189",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115189:2026-10-26T14:19"
+  },
+  {
+   "ts": "2026-10-26T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-115188 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-115188 📢 Source: Mautic 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True An unrestricted file upload vulnerability exists in the campaign import feature of Maut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115188",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115188:2026-10-26T14:19"
+  },
+  {
+   "ts": "2026-10-26T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114213 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-114213 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in the WebSocket fragment r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114213",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114213:2026-10-26T14:19"
+  },
+  {
+   "ts": "2026-10-26T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113436 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-113436 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Inefficient Algorithmic Complexity vulnerability in the header integer parser of mtrudel bandi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113436",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113436:2026-10-26T14:19"
+  },
+  {
+   "ts": "2026-10-26T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111103 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-111103 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Improper Cleanup on Thrown Exception vulnerability in the HTTP/2 handler of mtrudel bandit all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111103",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111103:2026-10-26T14:19"
+  },
+  {
+   "ts": "2026-10-26T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111101 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-111101 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in the HTTP/1.1 chunked bod",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111101",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111101:2026-10-26T14:19"
+  },
+  {
+   "ts": "2026-10-26T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110499 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-110499 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in the HTTP/2 implementatio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110499",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110499:2026-10-26T14:19"
+  },
+  {
+   "ts": "2026-10-26T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-110475 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-110475 📢 Source: CERT-In 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True This vulnerability exists in the CreditNirvana Collections Platform due to improper au",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110475",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110475:2026-10-26T14:19"
+  },
+  {
+   "ts": "2026-10-26T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110474 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-110474 📢 Source: CERT-In 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True This vulnerability exists in the CreditNirvana Agentic AI Call Centre application due to h",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110474",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110474:2026-10-26T14:19"
+  },
+  {
+   "ts": "2026-10-26T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109584 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-109584 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Improper Handling of Highly Compressed Data (Data Amplification) vulnerability in the HTTP/2 i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109584",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109584:2026-10-26T14:19"
+  },
+  {
+   "ts": "2026-10-26T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108529 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-108529 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Inefficient Algorithmic Complexity vulnerability in the HTTP/2 implementation of mtrudel bandi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108529",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108529:2026-10-26T14:19"
+  },
+  {
+   "ts": "2026-10-26T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108525 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-108525 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in the HTTP/2 implementatio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108525",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108525:2026-10-26T14:19"
+  },
+  {
+   "ts": "2026-10-26T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107656 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-107656 📢 Source: fortinet 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True An authentication bypass using an alternate path or channel vulnerability in Fortinet",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107656",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107656:2026-10-26T14:19"
+  },
   {
    "ts": "2026-10-26T12:19:07+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://discuss.tchncs.de/pictrs/image/3fa4925a-1b1e-4e7d-81e8-357be52559d1.jpeg",
    "source": "Lemmy · programming.dev",
    "id": "community:https://discuss.tchncs.de/pictrs/image/3fa4925a-1b1e-4e7d-81e8-357be52559d1.jpeg:2026-10-26T00:19"
-  },
-  {
-   "ts": "2026-10-26T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I Bought a Custom Domain and So Should You",
-   "body": "Lemmy · technology · 점수 93",
-   "link": "https://thefunblog.bearblog.dev/new-post/",
-   "source": "Lemmy · technology",
-   "id": "community:https://thefunblog.bearblog.dev/new-post/:2026-10-26T00:19"
-  },
-  {
-   "ts": "2026-10-26T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Slurptop: A home-built luggable that runs on power tool ",
-   "body": "Lobsters · 점수 76",
-   "link": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
-   "source": "Lobsters",
-   "id": "community:https://slurpburgers.com/slurpbuilds/the-slurptop/:2026-10-26T00:19"
-  },
-  {
-   "ts": "2026-10-26T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Retro Gaming Has a Port-Slop Problem",
-   "body": "Lemmy · technology · 점수 67",
-   "link": "https://gardinerbryant.com/retro-gaming-has-a-port-slop-problem/",
-   "source": "Lemmy · technology",
-   "id": "community:https://gardinerbryant.com/retro-gaming-has-a-port-slop-problem/:2026-10-26T00:19"
-  },
-  {
-   "ts": "2026-10-25T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Oregon Police Are Charging a Local News Outlet $2.5M for Rec",
-   "body": "Hacker News · 점수 315",
-   "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-   "source": "Hacker News",
-   "id": "community:https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/:2026-10-25T23:49"
-  },
-  {
-   "ts": "2026-10-25T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Dolly Parton's Imagination Library",
-   "body": "Hacker News · 점수 279",
-   "link": "https://imaginationlibrary.com/",
-   "source": "Hacker News",
-   "id": "community:https://imaginationlibrary.com/:2026-10-25T23:49"
-  },
-  {
-   "ts": "2026-10-25T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How Japanese Dried Bonito Is Made",
-   "body": "Hacker News · 점수 182",
-   "link": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-   "source": "Hacker News",
-   "id": "community:https://kottke.org/26/10/how-japanese-dried-bonito-is-made:2026-10-25T23:49"
-  },
-  {
-   "ts": "2026-10-25T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI use leads UC Berkeley math professor to see 'no point' in",
-   "body": "Hacker News · 점수 175",
-   "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-   "source": "Hacker News",
-   "id": "community:https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html:2026-10-25T23:49"
-  },
-  {
-   "ts": "2026-10-25T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] ChatGPT Is Building Detailed Psychological Profiles of Its U",
-   "body": "Lemmy · technology · 점수 135",
-   "link": "https://futurism.com/artificial-intelligence/chatgpt-building-profiles-users",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/chatgpt-building-profiles-users:2026-10-25T23:49"
-  },
-  {
-   "ts": "2026-10-25T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Root shell on Samsung TV",
-   "body": "Hacker News · 점수 736",
-   "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-   "source": "Hacker News",
-   "id": "community:https://twitter.com/log4j/status/2113014142600953868?s=46:2026-10-25T23:19"
-  },
-  {
-   "ts": "2026-10-25T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A 10-year-old CNN outperforms frontier LLMs for skin cancer ",
-   "body": "Hacker News · 점수 352",
-   "link": "https://lynchlab.net/llm-skin-cancer",
-   "source": "Hacker News",
-   "id": "community:https://lynchlab.net/llm-skin-cancer:2026-10-25T23:19"
-  },
-  {
-   "ts": "2026-10-25T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Cerebras Deploys Trillion-Parameter AI Models",
-   "body": "Hacker News · 점수 344",
-   "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-   "source": "Hacker News",
-   "id": "community:https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras:2026-10-25T23:19"
-  },
-  {
-   "ts": "2026-10-25T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Internet",
-   "body": "Lemmy · programming.dev · 점수 340",
-   "link": "https://lemmy.ml/pictrs/image/dcc5f654-9620-4aef-af12-5e341b09b2a1.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.ml/pictrs/image/dcc5f654-9620-4aef-af12-5e341b09b2a1.jpeg:2026-10-25T23:19"
-  },
-  {
-   "ts": "2026-10-25T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-   "body": "Hacker News · 점수 331",
-   "link": "https://talkweb.eu/openweb/4558/",
-   "source": "Hacker News",
-   "id": "community:https://talkweb.eu/openweb/4558/:2026-10-25T23:19"
   }
  ]
 }
