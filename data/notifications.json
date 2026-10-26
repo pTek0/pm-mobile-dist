@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-26T08:19:08+00:00",
+ "generated_at": "2026-10-26T08:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-26T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70388 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-70388 📢 Source: ENISA 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False SOEM version 2.0.0 and earlier contains vulnerabilities where a malicious device on the netw",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70388",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70388:2026-10-26T08:49"
+  },
   {
    "ts": "2026-10-26T07:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.cbc.ca/news/mapquest-surveillance-camera-canada-flock-9.7393090",
    "source": "Lemmy · programming.dev",
    "id": "community:https://www.cbc.ca/news/mapquest-surveillance-camera-canada-flock-9.7393090:2026-10-25T00:19"
-  },
-  {
-   "ts": "2026-10-24T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Node2Shell evolves to HTTP2Shell, blast radius affects many ",
-   "body": "Hacker News · 점수 259",
-   "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-   "source": "Hacker News",
-   "id": "community:https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497:2026-10-24T23:49"
   }
  ]
 }
