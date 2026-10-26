@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-26T15:49:08+00:00",
+ "generated_at": "2026-10-26T16:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-26T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112344 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-112344 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Syncplify Server! before 8.8.0 contains a path traversal vulnerability that allows attac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112344",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112344:2026-10-26T16:19"
+  },
+  {
+   "ts": "2026-10-26T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112343 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-112343 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Syncplify Server! before 8.8.0 contains an access control bypass vulnerability that allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112343",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112343:2026-10-26T16:19"
+  },
+  {
+   "ts": "2026-10-26T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112346 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-112346 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True OpenHands Software Agent SDK before 1.52.0 contains an unauthenticated remote code e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112346",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112346:2026-10-26T16:19"
+  },
   {
    "ts": "2026-10-26T15:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115948",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115948:2026-10-26T10:49"
-  },
-  {
-   "ts": "2026-10-26T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115608 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-115608 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115608",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115608:2026-10-26T10:49"
-  },
-  {
-   "ts": "2026-10-26T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82947 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-82947 📢 Source: ENISA 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False SOEM version 2.0.0 and earlier contains multiple vulnerabilities in frame processing where a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82947",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82947:2026-10-26T09:19"
-  },
-  {
-   "ts": "2026-10-26T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82944 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-82944 📢 Source: ENISA 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False SOEM version 2.0.0 and earlier contains a vulnerability in multi-segment data transfers wher",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82944",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82944:2026-10-26T09:19"
   }
  ]
 }
