@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-26T17:19:08+00:00",
+ "generated_at": "2026-10-26T17:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-26T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105765 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-105765 📢 Source: HashiCorp 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False HashiCorp Consul and Consul Enterprise 1.17.0 up to 2.0.4 are vulnerable to an authoriz",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105765",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105765:2026-10-26T17:49"
+  },
+  {
+   "ts": "2026-10-26T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72758 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-72758 📢 Source: NLnet Labs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False When parsing an AS range in Routinator, if the maximum value of the range is smaller th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72758",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72758:2026-10-26T17:49"
+  },
+  {
+   "ts": "2026-10-26T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72756 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-72756 📢 Source: NLnet Labs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Routinator exits when an rsync URI for a file obtained over RRDP contains a path that c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72756",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72756:2026-10-26T17:49"
+  },
+  {
+   "ts": "2026-10-26T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72754 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-72754 📢 Source: NLnet Labs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False When Routinator encounters a CRL with many entries, it may hang or run out of memory. I",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72754",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72754:2026-10-26T17:49"
+  },
+  {
+   "ts": "2026-10-26T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-72753 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-72753 📢 Source: NLnet Labs 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False When Routinator encounters an RRDP notification file with gaps in the delta entries, it",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72753",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72753:2026-10-26T17:49"
+  },
   {
    "ts": "2026-10-26T17:19:08+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
    "source": "Hacker News",
    "id": "community:https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers:2026-10-26T11:49"
-  },
-  {
-   "ts": "2026-10-26T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Growing Majority of Americans Convinced That AI Is Bad for S",
-   "body": "Lemmy · technology · 점수 173",
-   "link": "https://futurism.com/artificial-intelligence/majority-americans-ai-bad-society",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/majority-americans-ai-bad-society:2026-10-26T11:49"
-  },
-  {
-   "ts": "2026-10-26T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Big Tech is cashing in on AI while the rest of corporate Ame",
-   "body": "Lemmy · technology · 점수 106",
-   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins:2026-10-26T11:49"
-  },
-  {
-   "ts": "2026-10-26T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116469 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-116469 📢 Source: CIRCL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True MISP Guard, a proxy-based security filter for MISP (Malware Information Sharing Platform) fe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116469",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116469:2026-10-26T11:19"
-  },
-  {
-   "ts": "2026-10-26T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Cybersecurity bounty hunter says Samsung TVs use AI to recor",
-   "body": "Lemmy · technology · 점수 518",
-   "link": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting:2026-10-26T11:19"
-  },
-  {
-   "ts": "2026-10-26T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] this is the start of everything falling apart, i can feel it",
-   "body": "Lemmy · programming.dev · 점수 363",
-   "link": "https://media.fedia.io/06/0e/060e3137eb77e17fe9e4901bb638648a150c07c1c06f5c7ae60b9921a882627c.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://media.fedia.io/06/0e/060e3137eb77e17fe9e4901bb638648a150c07c1c06f5c7ae60b9921a882627c.png:2026-10-26T11:19"
   }
  ]
 }
