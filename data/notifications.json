@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-26T19:49:08+00:00",
+ "generated_at": "2026-10-26T20:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-26T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65629 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-65629 📢 Source: EEF 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Use of Password Hash With Insufficient Computational Effort in the jose library allows an atta",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65629",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65629:2026-10-26T20:19"
+  },
   {
    "ts": "2026-10-26T19:19:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://www.openmarketsinstitute.org/publications/brace-for-impact-report-release",
    "source": "Lemmy · technology",
    "id": "community:https://www.openmarketsinstitute.org/publications/brace-for-impact-report-release:2026-10-26T12:19"
-  },
-  {
-   "ts": "2026-10-26T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] POSIX wordexp(3) is dangerous",
-   "body": "Lobsters · 점수 73",
-   "link": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
-   "source": "Lobsters",
-   "id": "community:https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/:2026-10-26T12:19"
   }
  ]
 }
