@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-26T14:49:07+00:00",
+ "generated_at": "2026-10-26T15:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-26T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77056 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-77056 📢 Source: CERT-PL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False boneIO black_debian_images ships with a Mosquitto MQTT broker that uses the same default c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77056",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77056:2026-10-26T15:19"
+  },
+  {
+   "ts": "2026-10-26T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77055 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-77055 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False boneIO black_debian_images gives the boneio service account excessive privileges, incl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77055",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77055:2026-10-26T15:19"
+  },
+  {
+   "ts": "2026-10-26T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77053 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-77053 📢 Source: CERT-PL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False boneIO Black firmware ships with authentication disabled by default. Its management web AP",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77053",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77053:2026-10-26T15:19"
+  },
+  {
+   "ts": "2026-10-26T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77052 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-77052 📢 Source: CERT-PL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False boneIO Black exposes a Node-RED instance without authentication at the /nodered/ path thro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77052",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77052:2026-10-26T15:19"
+  },
+  {
+   "ts": "2026-10-26T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-65184 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-65184 📢 Source: runZero 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The root-privileged `wsserver` terminal-bridge daemon builds a shell command from clien",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65184",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65184:2026-10-26T15:19"
+  },
+  {
+   "ts": "2026-10-26T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115930 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-115930 📢 Source: mongodb 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True The MongoDB Shell (mongosh) relies on Node.js as a third-party runtime that carries its ow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115930",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115930:2026-10-26T15:19"
+  },
+  {
+   "ts": "2026-10-26T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112345 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-112345 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False TTLock Android application before v9.8.260718 and associated smart-lock firmware contai",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112345",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112345:2026-10-26T15:19"
+  },
   {
    "ts": "2026-10-26T14:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107897",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107897:2026-10-26T07:19"
-  },
-  {
-   "ts": "2026-10-26T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107896 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-107896 📢 Source: jpcert 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False V-SFT provided by FUJI ELECTRIC CO., LTD. contains an out-of-bounds read vulnerability in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107896",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107896:2026-10-26T07:19"
-  },
-  {
-   "ts": "2026-10-26T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107895 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-107895 📢 Source: jpcert 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False V-SFT provided by FUJI ELECTRIC CO., LTD. contains an out-of-bounds write vulnerability. O",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107895",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107895:2026-10-26T07:19"
-  },
-  {
-   "ts": "2026-10-26T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107894 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-107894 📢 Source: jpcert 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False V-SFT provided by FUJI ELECTRIC CO., LTD. contains a stack-based buffer overflow vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107894",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107894:2026-10-26T07:19"
-  },
-  {
-   "ts": "2026-10-26T04:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-113345 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-113345 📢 Source: jpcert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Electronic delivery item Inspection Support System provided by Japan's Ministry of Land, I",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113345",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113345:2026-10-26T04:49"
-  },
-  {
-   "ts": "2026-10-26T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: ship-pentest",
-   "body": "**★ 2026-10-20~21 활동 — 오프라인 패스워드 크래킹 실습**: 선박 침투테스트 레인에서 획득 해시 기반 오프라인 크래킹 파이프라인 수행(hashcat 7.1.2 + 사전/룰/마스크 조합·한국어 룰셋 +",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: ship-pentest:2026-10-26T00:49"
-  },
-  {
-   "ts": "2026-10-26T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pentest-toolkit",
-   "body": "쉐도우 모드(관찰만) — **정체 지속(마지막 세션 07-17 → 2026-10-26 기준 101일 경과, 지난 7일 커밋 0)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pentest-toolkit:2026-10-26T00:49"
-  },
-  {
-   "ts": "2026-10-26T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] OpenAI banned a user who reverse engineered his Samsung TV",
-   "body": "Lemmy · programming.dev · 점수 133",
-   "link": "https://discuss.tchncs.de/pictrs/image/3fa4925a-1b1e-4e7d-81e8-357be52559d1.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://discuss.tchncs.de/pictrs/image/3fa4925a-1b1e-4e7d-81e8-357be52559d1.jpeg:2026-10-26T00:19"
   }
  ]
 }
