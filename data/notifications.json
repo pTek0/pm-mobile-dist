@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-26T00:19:07+00:00",
+ "generated_at": "2026-10-26T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-26T00:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: ship-pentest",
+   "body": "**★ 2026-10-20~21 활동 — 오프라인 패스워드 크래킹 실습**: 선박 침투테스트 레인에서 획득 해시 기반 오프라인 크래킹 파이프라인 수행(hashcat 7.1.2 + 사전/룰/마스크 조합·한국어 룰셋 +",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: ship-pentest:2026-10-26T00:49"
+  },
+  {
+   "ts": "2026-10-26T00:49:07+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: pentest-toolkit",
+   "body": "쉐도우 모드(관찰만) — **정체 지속(마지막 세션 07-17 → 2026-10-26 기준 101일 경과, 지난 7일 커밋 0)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: pentest-toolkit:2026-10-26T00:49"
+  },
   {
    "ts": "2026-10-26T00:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
    "source": "Hacker News",
    "id": "community:https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/:2026-10-24T23:19"
-  },
-  {
-   "ts": "2026-10-24T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-115933 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-115933 📢 Source: postiz 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: False Postiz signs its session, invitation and password reset tokens with one shared secret ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115933",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115933:2026-10-24T14:49"
-  },
-  {
-   "ts": "2026-10-24T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-115557 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-115557 📢 Source: PSF 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Python has added a denylist for known compromised certificates to the \"ssl\" module to ensu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115557",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115557:2026-10-24T14:49"
   }
  ]
 }
