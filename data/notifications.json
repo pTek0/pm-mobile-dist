@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-26T21:49:09+00:00",
+ "generated_at": "2026-10-26T22:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-26T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116738 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116738 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True VMime through 0.9.2 contains an integer underflow in the uuEncoder::decode function that",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116738",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116738:2026-10-26T22:19"
+  },
+  {
+   "ts": "2026-10-26T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116724 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-116724 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False FLTK through 1.4.5 contains an integer overflow vulnerability in Fl_BMP_Image::load_bmp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116724",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116724:2026-10-26T22:19"
+  },
+  {
+   "ts": "2026-10-26T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116723 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-116723 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False FLTK through 1.4.5 contains a stack-based buffer overflow vulnerability in Fl_BMP_Image",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116723",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116723:2026-10-26T22:19"
+  },
   {
    "ts": "2026-10-26T20:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108525",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108525:2026-10-26T14:19"
-  },
-  {
-   "ts": "2026-10-26T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107656 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-107656 📢 Source: fortinet 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True An authentication bypass using an alternate path or channel vulnerability in Fortinet",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107656",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107656:2026-10-26T14:19"
-  },
-  {
-   "ts": "2026-10-26T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115717 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-115717 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Frappe Builder versions before 1.36.1 contain a server-side request forgery vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115717",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115717:2026-10-26T12:19"
-  },
-  {
-   "ts": "2026-10-26T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Report says 'circular financing' shows AI bubble 'primed to ",
-   "body": "Lemmy · technology · 점수 106",
-   "link": "https://www.openmarketsinstitute.org/publications/brace-for-impact-report-release",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.openmarketsinstitute.org/publications/brace-for-impact-report-release:2026-10-26T12:19"
   }
  ]
 }
