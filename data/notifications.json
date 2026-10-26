@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-26T17:49:07+00:00",
+ "generated_at": "2026-10-26T18:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-26T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-33521 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-33521 📢 Source: Esri 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True There is s denial of service vulnerability in Esri ArcGIS Server versions 12.0 and prior that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-33521",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33521:2026-10-26T18:19"
+  },
+  {
+   "ts": "2026-10-26T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116634 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-116634 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True OmniRoute 3.8.50 before 3.8.52 contains a missing authentication vulnerability that allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116634",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116634:2026-10-26T18:19"
+  },
+  {
+   "ts": "2026-10-26T18:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-10757 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-10757 📢 Source: Esri 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True There is a SQL injection vulnerability in Esri ArcGIS Server versions 12.1 and earlier on ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10757",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10757:2026-10-26T18:19"
+  },
+  {
+   "ts": "2026-10-26T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105626 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-105626 📢 Source: HashiCorp 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False HashiCorp Consul and Consul Enterprise are vulnerable to a denial of service in the HTT",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105626",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105626:2026-10-26T18:19"
+  },
+  {
+   "ts": "2026-10-26T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105608 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-105608 📢 Source: HashiCorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False HashiCorp Consul and Consul Enterprise are vulnerable to an authorization bypass in ser",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105608",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105608:2026-10-26T18:19"
+  },
+  {
+   "ts": "2026-10-26T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70379 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-70379 📢 Source: ENISA 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False When the vSolution Matrix feature is enabled, affected devices may make current screen conte",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70379",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70379:2026-10-26T18:19"
+  },
   {
    "ts": "2026-10-26T17:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://www.neowin.net/news/denmark-has-abandoned-plans-to-ditch-microsoft-office-after-technical-problems/",
    "source": "Lemmy · technology",
    "id": "community:https://www.neowin.net/news/denmark-has-abandoned-plans-to-ditch-microsoft-office-after-technical-problems/:2026-10-26T12:19"
-  },
-  {
-   "ts": "2026-10-26T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Vim Classic",
-   "body": "Lobsters · 점수 63",
-   "link": "https://vim-classic.org/",
-   "source": "Lobsters",
-   "id": "community:https://vim-classic.org/:2026-10-26T12:19"
-  },
-  {
-   "ts": "2026-10-26T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Partial Order Precedence",
-   "body": "Lobsters · 점수 52",
-   "link": "https://ziglang.org/devlog/2026/#2026-10-24",
-   "source": "Lobsters",
-   "id": "community:https://ziglang.org/devlog/2026/#2026-10-24:2026-10-26T12:19"
-  },
-  {
-   "ts": "2026-10-26T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94380 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-94380 📢 Source: TR-CERT 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Weak Password Recovery Mechanism for Forgotten Password vulnerability in HAVELSAN Inc. Lima",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94380",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94380:2026-10-26T11:49"
-  },
-  {
-   "ts": "2026-10-26T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: TitleArt – Make text like it's 1997",
-   "body": "Hacker News · 점수 248",
-   "link": "https://titleart.dvy.io/",
-   "source": "Hacker News",
-   "id": "community:https://titleart.dvy.io/:2026-10-26T11:49"
-  },
-  {
-   "ts": "2026-10-26T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Why I Am a Programmer",
-   "body": "Hacker News · 점수 239",
-   "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-   "source": "Hacker News",
-   "id": "community:https://www.alfie.wtf/programming/why-i-am-a-programmer.html:2026-10-26T11:49"
-  },
-  {
-   "ts": "2026-10-26T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Amazon’s “digital pacifier” for toddlers",
-   "body": "Hacker News · 점수 200",
-   "link": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
-   "source": "Hacker News",
-   "id": "community:https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers:2026-10-26T11:49"
   }
  ]
 }
