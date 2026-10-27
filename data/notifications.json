@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-27T12:49:09+00:00",
+ "generated_at": "2026-10-27T13:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92546 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-92546 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Authentication bypass by spoofing vulnerability in Keepnet Labs Cybersecurity Inc. Agentic ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92546",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92546:2026-10-27T13:19"
+  },
   {
    "ts": "2026-10-27T12:49:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82122",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82122:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82121 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-82121 📢 Source: Hitachi 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Origin Validation Error Vulnerability in HiRDB. This issue affects HiRDB Server Version 10:",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82121",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82121:2026-10-27T10:19"
   }
  ]
 }
