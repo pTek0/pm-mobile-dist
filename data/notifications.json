@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-27T12:19:09+00:00",
+ "generated_at": "2026-10-27T12:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T12:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65151 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-65151 📢 Source: nvidia 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False NVIDIA NeMo Agent Toolkit contains vulnerability where an attacker could cause a SQL inject",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65151",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65151:2026-10-27T12:49"
+  },
+  {
+   "ts": "2026-10-27T12:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-65145 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-65145 📢 Source: nvidia 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True NVIDIA NeMo Agent Toolkit contains a vulnerability where a attacker could cause a missing",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65145",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65145:2026-10-27T12:49"
+  },
+  {
+   "ts": "2026-10-27T12:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65120 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-65120 📢 Source: nvidia 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False NVIDIA TensorRT-LLM contains a vulnerability where an attacker could cause a server-side re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65120",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65120:2026-10-27T12:49"
+  },
+  {
+   "ts": "2026-10-27T12:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65119 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-65119 📢 Source: nvidia 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False NVIDIA TensorRT-LLM for any platform contains a vulnerability in KvCacheAwareRouter tokeniz",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65119",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65119:2026-10-27T12:49"
+  },
+  {
+   "ts": "2026-10-27T12:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47486 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-47486 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA PhysX for all platforms contains a vulnerability where an attacker could cause an ou",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47486",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47486:2026-10-27T12:49"
+  },
+  {
+   "ts": "2026-10-27T12:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-24269 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-24269 📢 Source: nvidia 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False NVIDIA TensorRT-LLM contains a vulnerability where an attacker could cause a server-side re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24269",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24269:2026-10-27T12:49"
+  },
+  {
+   "ts": "2026-10-27T12:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100164 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-100164 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Observable response discrepancy vulnerability in Rolantis Information Technologies Tourism",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100164",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100164:2026-10-27T12:49"
+  },
   {
    "ts": "2026-10-27T12:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82121",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82121:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82120 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82120 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Heap-based Buffer Overflow Vulnerability in HiRDB. This issue affects HiRDB Server Vers",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82120",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82120:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82119 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82119 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True OS Command Injection Vulnerability in HiRDB. This issue affects HiRDB Server Version 10",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82119",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82119:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82118 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82118 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Stack-based Buffer Overflow Vulnerability in HiRDB. This issue affects HiRDB Server Ver",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82118",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82118:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82117 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82117 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Authentication Bypass by Spoofing Vulnerability in HiRDB. This issue affects HiRDB Serv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82117",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82117:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82116 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-82116 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Missing Authentication for Critical Function Vulnerability in HiRDB. This issue affects",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82116",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82116:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76939 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-76939 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Heap-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. This",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76939",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76939:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76938 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-76938 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Authentication Bypass Vulnerability in JP1/Automatic Job Management System 3. This issu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76938",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76938:2026-10-27T10:19"
   }
  ]
 }
