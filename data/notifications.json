@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-27T14:49:07+00:00",
+ "generated_at": "2026-10-27T15:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-117604 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-117604 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Grav from 1.7.53.3 before 1.7.53.6 contains an authorization bypass in Debugger::isDebug",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117604",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117604:2026-10-27T15:19"
+  },
   {
    "ts": "2026-10-27T13:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
    "source": "Hacker News",
    "id": "community:https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear:2026-10-27T11:19"
-  },
-  {
-   "ts": "2026-10-27T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Type Server Protocol",
-   "body": "Hacker News · 점수 246",
-   "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-   "source": "Hacker News",
-   "id": "community:https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md:2026-10-27T11:19"
   }
  ]
 }
