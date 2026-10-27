@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-27T21:19:07+00:00",
+ "generated_at": "2026-10-27T21:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-62765 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-62765 📢 Source: microsoft 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-10-27T21:37:20.753Z https://cvefeed.io/vuln/detail/CVE-2026-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62765",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62765:2026-10-27T21:49"
+  },
   {
    "ts": "2026-10-27T20:19:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-117553",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117553:2026-10-27T13:49"
-  },
-  {
-   "ts": "2026-10-27T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92546 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-92546 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Authentication bypass by spoofing vulnerability in Keepnet Labs Cybersecurity Inc. Agentic ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92546",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92546:2026-10-27T13:19"
   }
  ]
 }
