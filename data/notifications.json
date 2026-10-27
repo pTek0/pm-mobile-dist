@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-27T15:49:07+00:00",
+ "generated_at": "2026-10-27T16:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107672 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-107672 📢 Source: autodesk 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A maliciously crafted .stack.json file can trigger a trusted Markdown injection vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107672",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107672:2026-10-27T16:19"
+  },
+  {
+   "ts": "2026-10-27T16:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-116863 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-116863 📢 Source: Patchstack 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Tribulant Software Newsletters n",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116863",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116863:2026-10-27T16:19"
+  },
   {
    "ts": "2026-10-27T15:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-117536",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117536:2026-10-27T11:19"
-  },
-  {
-   "ts": "2026-10-27T11:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-117532 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-117532 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True REDAXO core from 5.3.0 before 5.21.4 contains an authentication bypass vulnerability",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117532",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117532:2026-10-27T11:19"
-  },
-  {
-   "ts": "2026-10-27T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116899 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-116899 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True REDAXO before 5.21.4 contains a broken access control vulnerability that allows authenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116899",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116899:2026-10-27T11:19"
   }
  ]
 }
