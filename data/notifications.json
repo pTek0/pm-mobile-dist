@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-27T18:19:07+00:00",
+ "generated_at": "2026-10-27T18:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115413 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-115413 📢 Source: AMZN 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Missing token audience validation in the OAuth authentication mode of AWS API MCP Server bef",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115413",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115413:2026-10-27T18:49"
+  },
   {
    "ts": "2026-10-27T18:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-65119",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65119:2026-10-27T12:49"
-  },
-  {
-   "ts": "2026-10-27T12:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-47486 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-47486 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA PhysX for all platforms contains a vulnerability where an attacker could cause an ou",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47486",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47486:2026-10-27T12:49"
   }
  ]
 }
