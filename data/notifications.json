@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-27T17:49:07+00:00",
+ "generated_at": "2026-10-27T18:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T18:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88812 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-88812 📢 Source: suse 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A double free in XKB SetGeometryin X.Org X Server before 21.1.25 and X Wayland before 24.1.14",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88812",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88812:2026-10-27T18:19"
+  },
   {
    "ts": "2026-10-27T17:19:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-47486",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47486:2026-10-27T12:49"
-  },
-  {
-   "ts": "2026-10-27T12:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-24269 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-24269 📢 Source: nvidia 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False NVIDIA TensorRT-LLM contains a vulnerability where an attacker could cause a server-side re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-24269",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-24269:2026-10-27T12:49"
   }
  ]
 }
