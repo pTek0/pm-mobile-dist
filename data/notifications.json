@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-27T00:19:08+00:00",
+ "generated_at": "2026-10-27T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Microsoft offers voluntary buyouts to 60,000 employees",
+   "body": "Lemmy · technology · 점수 51",
+   "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html:2026-10-27T00:49"
+  },
+  {
+   "ts": "2026-10-27T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Simple NetBSD webserver",
+   "body": "Lobsters · 점수 51",
+   "link": "https://bsandro.tech/posts/simple-netbsd-webserver/",
+   "source": "Lobsters",
+   "id": "community:https://bsandro.tech/posts/simple-netbsd-webserver/:2026-10-27T00:49"
+  },
   {
    "ts": "2026-10-27T00:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116543",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116543:2026-10-26T15:49"
-  },
-  {
-   "ts": "2026-10-26T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116541 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-116541 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Netty netty-tcnative before 2.0.84.Final contains a denial of service vulnerability in t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116541",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116541:2026-10-26T15:49"
-  },
-  {
-   "ts": "2026-10-26T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116540 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-116540 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True netty-tcnative 2.0.66.Final before 2.0.84.Final built against OpenSSL 3.x contains a use",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116540",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116540:2026-10-26T15:49"
   }
  ]
 }
