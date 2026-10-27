@@ -1,7 +1,167 @@
 {
- "generated_at": "2026-10-27T09:49:08+00:00",
+ "generated_at": "2026-10-27T10:19:23+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-86574 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-86574 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Heap-based Buffer Overflow Vulnerability in JP1/Base. This issue affects JP1/Base: from",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86574",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86574:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82122 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-82122 📢 Source: Hitachi 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Stack-based Buffer Overflow Vulnerability in HiRDB. This issue affects HiRDB Server Ver",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82122",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82122:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82121 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-82121 📢 Source: Hitachi 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Origin Validation Error Vulnerability in HiRDB. This issue affects HiRDB Server Version 10:",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82121",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82121:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82120 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82120 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Heap-based Buffer Overflow Vulnerability in HiRDB. This issue affects HiRDB Server Vers",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82120",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82120:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82119 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82119 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True OS Command Injection Vulnerability in HiRDB. This issue affects HiRDB Server Version 10",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82119",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82119:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82118 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82118 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Stack-based Buffer Overflow Vulnerability in HiRDB. This issue affects HiRDB Server Ver",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82118",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82118:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82117 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82117 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Authentication Bypass by Spoofing Vulnerability in HiRDB. This issue affects HiRDB Serv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82117",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82117:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82116 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-82116 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Missing Authentication for Critical Function Vulnerability in HiRDB. This issue affects",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82116",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82116:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76939 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-76939 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Heap-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. This",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76939",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76939:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76938 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-76938 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Authentication Bypass Vulnerability in JP1/Automatic Job Management System 3. This issu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76938",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76938:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76937 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-76937 📢 Source: Hitachi 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Heap-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. This",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76937",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76937:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76936 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-76936 📢 Source: Hitachi 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Stack-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. Thi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76936",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76936:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76935 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-76935 📢 Source: Hitachi 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Stack-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. Thi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76935",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76935:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76934 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-76934 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Stack-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. Thi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76934",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76934:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76933 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-76933 📢 Source: Hitachi 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Heap-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. This",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76933",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76933:2026-10-27T10:19"
+  },
+  {
+   "ts": "2026-10-27T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-76932 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-76932 📢 Source: Hitachi 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Stack-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. Thi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76932",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76932:2026-10-27T10:19"
+  },
   {
    "ts": "2026-10-27T09:49:07+00:00",
    "level": "general",
@@ -341,166 +501,6 @@
    "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
    "source": "Lemmy · technology",
    "id": "community:https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/:2026-10-26T23:49"
-  },
-  {
-   "ts": "2026-10-26T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Concerning behavior from a popular open-weight AI model",
-   "body": "Hacker News · 점수 234",
-   "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-   "source": "Hacker News",
-   "id": "community:https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model:2026-10-26T23:49"
-  },
-  {
-   "ts": "2026-10-26T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] In Leaked Audio, Flock CEO Tells Cops Backlash to the Compan",
-   "body": "Hacker News · 점수 227",
-   "link": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
-   "source": "Hacker News",
-   "id": "community:https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/:2026-10-26T23:49"
-  },
-  {
-   "ts": "2026-10-26T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] In China, the AI bubble has already burst",
-   "body": "Lemmy · technology · 점수 171",
-   "link": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/:2026-10-26T23:49"
-  },
-  {
-   "ts": "2026-10-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Anthropic S-1",
-   "body": "Hacker News · 점수 1402",
-   "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-   "source": "Hacker News",
-   "id": "community:https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm:2026-10-26T23:19"
-  },
-  {
-   "ts": "2026-10-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft offers mass buyouts for roughly a quarter of its w",
-   "body": "Hacker News · 점수 652",
-   "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
-   "source": "Hacker News",
-   "id": "community:https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/:2026-10-26T23:19"
-  },
-  {
-   "ts": "2026-10-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Sebastian Raschka's from-scratch video course on building re",
-   "body": "Hacker News · 점수 501",
-   "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-   "source": "Hacker News",
-   "id": "community:https://magazine.sebastianraschka.com/p/building-reasoning-models:2026-10-26T23:19"
-  },
-  {
-   "ts": "2026-10-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Birdwatching rewires the brain and slows cognitive decline",
-   "body": "Hacker News · 점수 487",
-   "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-   "source": "Hacker News",
-   "id": "community:https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline:2026-10-26T23:19"
-  },
-  {
-   "ts": "2026-10-26T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GPT-6.1 Terra",
-   "body": "Hacker News · 점수 440",
-   "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
-   "source": "Hacker News",
-   "id": "community:https://openai.com/index/introducing-gpt-6-1-terra/:2026-10-26T23:19"
-  },
-  {
-   "ts": "2026-10-26T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116738 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116738 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True VMime through 0.9.2 contains an integer underflow in the uuEncoder::decode function that",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116738",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116738:2026-10-26T22:19"
-  },
-  {
-   "ts": "2026-10-26T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116724 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-116724 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False FLTK through 1.4.5 contains an integer overflow vulnerability in Fl_BMP_Image::load_bmp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116724",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116724:2026-10-26T22:19"
-  },
-  {
-   "ts": "2026-10-26T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116723 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-116723 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False FLTK through 1.4.5 contains a stack-based buffer overflow vulnerability in Fl_BMP_Image",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116723",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116723:2026-10-26T22:19"
-  },
-  {
-   "ts": "2026-10-26T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65629 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-65629 📢 Source: EEF 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Use of Password Hash With Insufficient Computational Effort in the jose library allows an atta",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65629",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65629:2026-10-26T20:19"
-  },
-  {
-   "ts": "2026-10-26T19:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-110720 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-110720 📢 Source: HashiCorp 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: False Consul-k8s versions 0.42.0 and later are vulnerable to a cross-namespace authorizat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110720",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110720:2026-10-26T19:19"
-  },
-  {
-   "ts": "2026-10-26T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-33521 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-33521 📢 Source: Esri 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True There is s denial of service vulnerability in Esri ArcGIS Server versions 12.0 and prior that ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-33521",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33521:2026-10-26T18:19"
-  },
-  {
-   "ts": "2026-10-26T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116634 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-116634 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True OmniRoute 3.8.50 before 3.8.52 contains a missing authentication vulnerability that allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116634",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116634:2026-10-26T18:19"
-  },
-  {
-   "ts": "2026-10-26T18:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-10757 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-10757 📢 Source: Esri 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True There is a SQL injection vulnerability in Esri ArcGIS Server versions 12.1 and earlier on ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10757",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10757:2026-10-26T18:19"
   }
  ]
 }
