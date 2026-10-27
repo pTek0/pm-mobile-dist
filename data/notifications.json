@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-10-27T10:19:23+00:00",
+ "generated_at": "2026-10-27T10:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116880 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-116880 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Semantic MediaWiki from 3.0.0 before 7.3.1 contains a cross-site request forgery vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116880",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116880:2026-10-27T10:49"
+  },
+  {
+   "ts": "2026-10-27T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116878 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-116878 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Semantic MediaWiki from 2.5.0 before 7.3.1 contains an uncontrolled resource consumption",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116878",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116878:2026-10-27T10:49"
+  },
+  {
+   "ts": "2026-10-27T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116877 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-116877 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Semantic MediaWiki from 2.5.0 before 7.3.1 contains an uncontrolled resource consumption",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116877",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116877:2026-10-27T10:49"
+  },
+  {
+   "ts": "2026-10-27T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116876 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-116876 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Semantic MediaWiki from 2.5.0 before 7.3.1 contains an improper authorization vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116876",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116876:2026-10-27T10:49"
+  },
+  {
+   "ts": "2026-10-27T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116873 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-116873 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Semantic MediaWiki from 7.3.0 before 7.3.1 contains a missing authorization vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116873",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116873:2026-10-27T10:49"
+  },
+  {
+   "ts": "2026-10-27T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116872 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-116872 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Semantic MediaWiki from 3.0.0 before 7.3.1 contains an algorithmic complexity vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116872",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116872:2026-10-27T10:49"
+  },
+  {
+   "ts": "2026-10-27T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116871 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-116871 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Semantic MediaWiki 3.0.0 before 7.3.1 contains an uncontrolled recursion vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116871",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116871:2026-10-27T10:49"
+  },
+  {
+   "ts": "2026-10-27T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116870 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-116870 📢 Source: Octopus 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, OIDC token issuer validation was performed inconsi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116870",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116870:2026-10-27T10:49"
+  },
   {
    "ts": "2026-10-27T10:19:07+00:00",
    "level": "important",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116818",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116818:2026-10-26T23:49"
-  },
-  {
-   "ts": "2026-10-26T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116814 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-116814 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains an information exposure vulnerability that writes databa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116814",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116814:2026-10-26T23:49"
-  },
-  {
-   "ts": "2026-10-26T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116813 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-116813 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains an sql injection vulnerability in ConversionService.getC",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116813",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116813:2026-10-26T23:49"
-  },
-  {
-   "ts": "2026-10-26T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116812 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-116812 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains a sql injection vulnerability in profileColumnAccess in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116812",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116812:2026-10-26T23:49"
-  },
-  {
-   "ts": "2026-10-26T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116811 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116811 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains a sandbox escape vulnerability in the js-runtime validat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116811",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116811:2026-10-26T23:49"
-  },
-  {
-   "ts": "2026-10-26T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116808 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-116808 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains an sql injection vulnerability that allows authenticated",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116808",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116808:2026-10-26T23:49"
-  },
-  {
-   "ts": "2026-10-26T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116807 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-116807 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains an sql injection vulnerability that allows authenticated u",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116807",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116807:2026-10-26T23:49"
-  },
-  {
-   "ts": "2026-10-26T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Blaise Pascal invented fixed route public transport (2024)",
-   "body": "Hacker News · 점수 248",
-   "link": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-   "source": "Hacker News",
-   "id": "community:https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html:2026-10-26T23:49"
-  },
-  {
-   "ts": "2026-10-26T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Some iPhone Duo screens are already failing",
-   "body": "Lemmy · technology · 점수 234",
-   "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/:2026-10-26T23:49"
   }
  ]
 }
