@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-10-27T11:49:09+00:00",
+ "generated_at": "2026-10-27T12:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10756 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-10756 📢 Source: Hitachi Energy 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True TRO600 contains a vulnerability that allows an authenticated attacker to bypass netw",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10756",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10756:2026-10-27T12:19"
+  },
+  {
+   "ts": "2026-10-27T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106087 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-106087 📢 Source: Hitachi Energy 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True TRO600 contains an arbitrary file read vulnerability. An unauthenticated attacker c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106087",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106087:2026-10-27T12:19"
+  },
+  {
+   "ts": "2026-10-27T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13162 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-13162 📢 Source: Hitachi Energy 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True An OS command vulnerability exists in CoreTec product that allows authenticated user",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13162",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13162:2026-10-27T12:19"
+  },
+  {
+   "ts": "2026-10-27T12:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-115216 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-115216 📢 Source: eclipse 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True In Eclipse ioFog Operator versions 3.8.0 before 3.9.2, TLS certificate verification is",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115216",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115216:2026-10-27T12:19"
+  },
+  {
+   "ts": "2026-10-27T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI models cost more when you don’t use English: Some languag",
+   "body": "Lemmy · technology · 점수 72",
+   "link": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+   "source": "Lemmy · technology",
+   "id": "community:https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/:2026-10-27T12:19"
+  },
+  {
+   "ts": "2026-10-27T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] ICE plan to buy robot dogs spurs protest from hundreds of Bo",
+   "body": "Lemmy · technology · 점수 66",
+   "link": "https://www.wbur.org/news/2026/10/23/boston-dynamics-employees-petition-dhs",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.wbur.org/news/2026/10/23/boston-dynamics-employees-petition-dhs:2026-10-27T12:19"
+  },
+  {
+   "ts": "2026-10-27T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Gram 3.4.0 released",
+   "body": "Lobsters · 점수 62",
+   "link": "https://gram-editor.com/posts/release-3.4.0/",
+   "source": "Lobsters",
+   "id": "community:https://gram-editor.com/posts/release-3.4.0/:2026-10-27T12:19"
+  },
+  {
+   "ts": "2026-10-27T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Why is it so expensive to send an email?",
+   "body": "Lobsters · 점수 53",
+   "link": "https://evancz.dev/why-is-it-so-expensive-to-send-an-email",
+   "source": "Lobsters",
+   "id": "community:https://evancz.dev/why-is-it-so-expensive-to-send-an-email:2026-10-27T12:19"
+  },
+  {
+   "ts": "2026-10-27T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] About the compromised eMudhra intermediate CAs",
+   "body": "Lobsters · 점수 53",
+   "link": "https://support.apple.com/en-us/149555",
+   "source": "Lobsters",
+   "id": "community:https://support.apple.com/en-us/149555:2026-10-27T12:19"
+  },
   {
    "ts": "2026-10-27T11:49:07+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76938",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76938:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76937 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-76937 📢 Source: Hitachi 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Heap-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. This",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76937",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76937:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76936 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-76936 📢 Source: Hitachi 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Stack-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. Thi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76936",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76936:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76935 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-76935 📢 Source: Hitachi 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Stack-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. Thi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76935",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76935:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76934 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-76934 📢 Source: Hitachi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Stack-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. Thi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76934",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76934:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76933 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-76933 📢 Source: Hitachi 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Heap-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. This",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76933",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76933:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T10:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76932 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-76932 📢 Source: Hitachi 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Stack-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. Thi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76932",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76932:2026-10-27T10:19"
-  },
-  {
-   "ts": "2026-10-27T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85299 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-85299 📢 Source: GoogleCloud 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True A Missing Authorization vulnerability in the disks.createSnapshot and regionDisks.creat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85299",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85299:2026-10-27T09:49"
-  },
-  {
-   "ts": "2026-10-27T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-117494 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-117494 📢 Source: INCIBE 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Cross-Site Scripting (XSS) in the processing of SVG images submitted to the /api/v2/ai/sess",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117494",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117494:2026-10-27T09:49"
-  },
-  {
-   "ts": "2026-10-27T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65211 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-65211 📢 Source: Supermicro 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True This issue may allow an authenticated IPMI Administrator to read and write arbitrary BMC",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65211",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65211:2026-10-27T08:49"
   }
  ]
 }
