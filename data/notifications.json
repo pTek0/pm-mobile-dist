@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-10-27T07:49:21+00:00",
+ "generated_at": "2026-10-27T08:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65220 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-65220 📢 Source: Supermicro 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A logic flaw in the BMC IPMI implementation may allow an attacker to send specially craf",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65220",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65220:2026-10-27T08:19"
+  },
+  {
+   "ts": "2026-10-27T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65219 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-65219 📢 Source: Supermicro 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw in the BMC RAKP+ implementation may allow an attacker to send a request followed ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65219",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65219:2026-10-27T08:19"
+  },
+  {
+   "ts": "2026-10-27T08:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18450 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-18450 📢 Source: Supermicro 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The BMC does not correctly enforce integrity and encryption requirements for IPMI co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18450",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18450:2026-10-27T08:19"
+  },
+  {
+   "ts": "2026-10-27T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18449 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-18449 📢 Source: Supermicro 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The BMC does not correctly enforce integrity and encryption requirements for IPMI comman",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18449",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18449:2026-10-27T08:19"
+  },
+  {
+   "ts": "2026-10-27T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16521 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-16521 📢 Source: Supermicro 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True An OS command injection vulnerability exists because of insufficient input filtering. An",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16521",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16521:2026-10-27T08:19"
+  },
+  {
+   "ts": "2026-10-27T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111461 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-111461 📢 Source: Moxa 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An OS command injection vulnerability exists in OnCell G3150A-LTE Series. When the SMS manage",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111461",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111461:2026-10-27T08:19"
+  },
+  {
+   "ts": "2026-10-27T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111460 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-111460 📢 Source: Moxa 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A hard-coded cryptographic key vulnerability exists in the OnCell G3150A-LTE Series. Under ce",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111460",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111460:2026-10-27T08:19"
+  },
+  {
+   "ts": "2026-10-27T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111459 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-111459 📢 Source: Moxa 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True An improper certificate validation vulnerability exists in Moxa Remote Connect Suite (MRC Cli",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111459",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111459:2026-10-27T08:19"
+  },
   {
    "ts": "2026-10-27T01:19:07+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-70379",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70379:2026-10-26T18:19"
-  },
-  {
-   "ts": "2026-10-26T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105765 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-105765 📢 Source: HashiCorp 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False HashiCorp Consul and Consul Enterprise 1.17.0 up to 2.0.4 are vulnerable to an authoriz",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105765",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105765:2026-10-26T17:49"
-  },
-  {
-   "ts": "2026-10-26T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72758 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-72758 📢 Source: NLnet Labs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False When parsing an AS range in Routinator, if the maximum value of the range is smaller th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72758",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72758:2026-10-26T17:49"
-  },
-  {
-   "ts": "2026-10-26T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72756 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-72756 📢 Source: NLnet Labs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Routinator exits when an rsync URI for a file obtained over RRDP contains a path that c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72756",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72756:2026-10-26T17:49"
-  },
-  {
-   "ts": "2026-10-26T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72754 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-72754 📢 Source: NLnet Labs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False When Routinator encounters a CRL with many entries, it may hang or run out of memory. I",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72754",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72754:2026-10-26T17:49"
-  },
-  {
-   "ts": "2026-10-26T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-72753 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-72753 📢 Source: NLnet Labs 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False When Routinator encounters an RRDP notification file with gaps in the delta entries, it",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-72753",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-72753:2026-10-26T17:49"
-  },
-  {
-   "ts": "2026-10-26T17:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116612 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-116612 📢 Source: fedora 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in GStreamer Editing Services (gst-editing-services). A GES project file ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116612",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116612:2026-10-26T17:19"
-  },
-  {
-   "ts": "2026-10-26T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115418 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-115418 📢 Source: AMZN 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False SQL injection in the database-query custom resource handlers in the Amazon Web Services (AWS",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115418",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115418:2026-10-26T16:49"
-  },
-  {
-   "ts": "2026-10-26T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-81038 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-81038 📢 Source: zephyr 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False The Object Transfer Service server builds its Object Action Control Point (OACP) response i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81038",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81038:2026-10-26T16:49"
   }
  ]
 }
