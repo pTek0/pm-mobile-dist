@@ -1,7 +1,147 @@
 {
- "generated_at": "2026-10-27T10:49:08+00:00",
+ "generated_at": "2026-10-27T11:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-117540 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-117540 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True svg-sanitizer from 0.5.3 before 1.1.0 contains a denial of service vulnerability in Sani",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117540",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117540:2026-10-27T11:19"
+  },
+  {
+   "ts": "2026-10-27T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-117536 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-117536 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True REDAXO before 5.21.3 contains a cross-site request forgery vulnerability in the backend ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117536",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117536:2026-10-27T11:19"
+  },
+  {
+   "ts": "2026-10-27T11:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-117532 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-117532 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True REDAXO core from 5.3.0 before 5.21.4 contains an authentication bypass vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117532",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117532:2026-10-27T11:19"
+  },
+  {
+   "ts": "2026-10-27T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116899 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-116899 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True REDAXO before 5.21.4 contains a broken access control vulnerability that allows authenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116899",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116899:2026-10-27T11:19"
+  },
+  {
+   "ts": "2026-10-27T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116898 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-116898 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True REDAXO before 5.21.4 contains a missing authorization vulnerability in the media pool bu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116898",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116898:2026-10-27T11:19"
+  },
+  {
+   "ts": "2026-10-27T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116897 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-116897 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True REDAXO core before 5.21.4 contains a missing authorization vulnerability in the structur",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116897",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116897:2026-10-27T11:19"
+  },
+  {
+   "ts": "2026-10-27T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116896 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-116896 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True REDAXO before 5.21.5 contains a missing authorization vulnerability in the backup addon ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116896",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116896:2026-10-27T11:19"
+  },
+  {
+   "ts": "2026-10-27T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-117466 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-117466 📢 Source: Octopus 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, a user holding the System Manager role could escal",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117466",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117466:2026-10-27T11:19"
+  },
+  {
+   "ts": "2026-10-27T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-117341 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-117341 📢 Source: Octopus 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, creating a user invitation writes the invitation c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117341",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117341:2026-10-27T11:19"
+  },
+  {
+   "ts": "2026-10-27T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Three new discoveries in mathematics, computer science, and ",
+   "body": "Hacker News · 점수 940",
+   "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+   "source": "Hacker News",
+   "id": "community:https://openai.com/index/building-scientific-understanding-with-academic-communities/:2026-10-27T11:19"
+  },
+  {
+   "ts": "2026-10-27T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The Exponential Time Hypothesis Is False [pdf]",
+   "body": "Hacker News · 점수 644",
+   "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+   "source": "Hacker News",
+   "id": "community:https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf:2026-10-27T11:19"
+  },
+  {
+   "ts": "2026-10-27T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Oldest GUI application that still runs on Windows 11",
+   "body": "Hacker News · 점수 437",
+   "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+   "source": "Hacker News",
+   "id": "community:https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/:2026-10-27T11:19"
+  },
+  {
+   "ts": "2026-10-27T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Solar power is becoming bigger than nuclear",
+   "body": "Hacker News · 점수 339",
+   "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+   "source": "Hacker News",
+   "id": "community:https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear:2026-10-27T11:19"
+  },
+  {
+   "ts": "2026-10-27T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Type Server Protocol",
+   "body": "Hacker News · 점수 246",
+   "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+   "source": "Hacker News",
+   "id": "community:https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md:2026-10-27T11:19"
+  },
   {
    "ts": "2026-10-27T10:49:07+00:00",
    "level": "general",
@@ -361,146 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116843",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116843:2026-10-27T01:19"
-  },
-  {
-   "ts": "2026-10-27T01:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116839 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-116839 📢 Source: Ubiquiti 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A malicious actor who lures an authenticated user to a malicious page could exploit a Cro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116839",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116839:2026-10-27T01:19"
-  },
-  {
-   "ts": "2026-10-27T01:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116838 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116838 📢 Source: Ubiquiti 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A malicious actor who lures an authenticated user to a malicious page could exploit a Cro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116838",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116838:2026-10-27T01:19"
-  },
-  {
-   "ts": "2026-10-27T01:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116837 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116837 📢 Source: Ubiquiti 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A malicious actor with access to the adjacent network could exploit a Heap-based Buffer ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116837",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116837:2026-10-27T01:19"
-  },
-  {
-   "ts": "2026-10-27T01:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116836 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116836 📢 Source: Ubiquiti 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A malicious actor with access to the adjacent network and under certain conditions could",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116836",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116836:2026-10-27T01:19"
-  },
-  {
-   "ts": "2026-10-27T01:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2024-58400 (CVSS 8.8)",
-   "body": "🚨 CVE-2024-58400 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True llama.cpp before b3701 contains an out-of-bounds read vulnerability in llama_decode_inter",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58400",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58400:2026-10-27T01:19"
-  },
-  {
-   "ts": "2026-10-27T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft offers voluntary buyouts to 60,000 employees",
-   "body": "Lemmy · technology · 점수 51",
-   "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html:2026-10-27T00:49"
-  },
-  {
-   "ts": "2026-10-27T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Simple NetBSD webserver",
-   "body": "Lobsters · 점수 51",
-   "link": "https://bsandro.tech/posts/simple-netbsd-webserver/",
-   "source": "Lobsters",
-   "id": "community:https://bsandro.tech/posts/simple-netbsd-webserver/:2026-10-27T00:49"
-  },
-  {
-   "ts": "2026-10-27T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Americans Are Officially More Scared of AI Than a Loved One ",
-   "body": "Lemmy · technology · 점수 93",
-   "link": "https://futurism.com/artificial-intelligence/americans-more-scared-ai-loved-one-ill",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/americans-more-scared-ai-loved-one-ill:2026-10-27T00:19"
-  },
-  {
-   "ts": "2026-10-27T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Chart of Linux security vulnerabilities fixed per kernel ver",
-   "body": "Lemmy · programming.dev · 점수 84",
-   "link": "https://media.piefed.social/posts/7T/DZ/7TDZUtAY6OXtyLt.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://media.piefed.social/posts/7T/DZ/7TDZUtAY6OXtyLt.png:2026-10-27T00:19"
-  },
-  {
-   "ts": "2026-10-27T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft offers buyouts to around 60,000 employees to conta",
-   "body": "Lemmy · technology · 점수 80",
-   "link": "https://www.nbcnews.com/business/corporations/microsoft-offers-buyouts-60000-employees-rcna605765",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.nbcnews.com/business/corporations/microsoft-offers-buyouts-60000-employees-rcna605765:2026-10-27T00:19"
-  },
-  {
-   "ts": "2026-10-27T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft looking to remove 60,000 jobs, ~25% of the company",
-   "body": "Lemmy · technology · 점수 78",
-   "link": "https://www.reuters.com/technology/microsoft-is-offering-buyouts-around-60000-employees-business-insider-reports-2026-10-26/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.reuters.com/technology/microsoft-is-offering-buyouts-around-60000-employees-business-insider-reports-2026-10-26/:2026-10-27T00:19"
-  },
-  {
-   "ts": "2026-10-27T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Websites Should Be Printable",
-   "body": "Lobsters · 점수 61",
-   "link": "https://brennenputh.me/blog/printable-websites/",
-   "source": "Lobsters",
-   "id": "community:https://brennenputh.me/blog/printable-websites/:2026-10-27T00:19"
-  },
-  {
-   "ts": "2026-10-26T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116819 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-116819 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains an information disclosure vulnerability that allows read",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116819",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116819:2026-10-26T23:49"
-  },
-  {
-   "ts": "2026-10-26T23:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116818 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116818 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenPanel before 3.0.0 contains an unauthenticated ClickHouse sql injection vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116818",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116818:2026-10-26T23:49"
   }
  ]
 }
