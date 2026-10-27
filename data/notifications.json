@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-10-27T16:19:08+00:00",
+ "generated_at": "2026-10-27T16:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-48360 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-48360 📢 Source: adobe 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Adobe Connect is affected by an Improper Control of Generation of Code ('Code Injection')",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-48360",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-48360:2026-10-27T16:49"
+  },
+  {
+   "ts": "2026-10-27T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109090 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-109090 📢 Source: suse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A malicious X server could cause a heap overflow by injecting a large DEVICE_ENABLE reply whe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109090",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109090:2026-10-27T16:49"
+  },
+  {
+   "ts": "2026-10-27T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-108014 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-108014 📢 Source: HCL 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Private keys for eight eMudhra intermediate CA certificates have been compromised https://",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108014",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108014:2026-10-27T16:49"
+  },
+  {
+   "ts": "2026-10-27T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-48379 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-48379 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Substance3D - Painter is affected by a Stack-based Buffer Overflow vulnerability that could ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-48379",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-48379:2026-10-27T16:49"
+  },
+  {
+   "ts": "2026-10-27T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104349 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-104349 📢 Source: adobe 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Creative Cloud Desktop is affected by an Uncontrolled Search Path Element vulnerability tha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104349",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104349:2026-10-27T16:49"
+  },
+  {
+   "ts": "2026-10-27T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113775 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-113775 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted dynamic library, when loaded from an arbitrary path through the Te",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113775",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113775:2026-10-27T16:49"
+  },
+  {
+   "ts": "2026-10-27T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112353 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-112353 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True GFI KerioConnect (Kerio Connect) before 10.0.8 Patch 2 contains a stored cross-site scri",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112353",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112353:2026-10-27T16:49"
+  },
+  {
+   "ts": "2026-10-27T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109089 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-109089 📢 Source: suse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A buffer overflow when handling DEVICE_RESOLUTION in libXi before 1.8.4 could overflow a heap",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109089",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109089:2026-10-27T16:49"
+  },
   {
    "ts": "2026-10-27T16:19:06+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-4337",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4337:2026-10-27T11:49"
-  },
-  {
-   "ts": "2026-10-27T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-41020 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-41020 📢 Source: Eaton 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Eaton easyE4 uses a static nonce during authentication, which could allow an unauthenticated ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-41020",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-41020:2026-10-27T11:49"
-  },
-  {
-   "ts": "2026-10-27T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Top Economist Finds That AI Has Provided “Zero Financial Pay",
-   "body": "Lemmy · technology · 점수 198",
-   "link": "https://futurism.com/artificial-intelligence/economist-ai-provided-zero-economic-benefit-companies-outside-tech",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/economist-ai-provided-zero-economic-benefit-companies-outside-tech:2026-10-27T11:49"
-  },
-  {
-   "ts": "2026-10-27T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Former Yahoo CEO Needed AI to Help Describe What Makes Her O",
-   "body": "Lemmy · technology · 점수 156",
-   "link": "https://gizmodo.com/former-yahoo-ceo-needed-ai-to-help-describe-what-makes-her-own-daughter-special-2000830868",
-   "source": "Lemmy · technology",
-   "id": "community:https://gizmodo.com/former-yahoo-ceo-needed-ai-to-help-describe-what-makes-her-own-daughter-special-2000830868:2026-10-27T11:49"
-  },
-  {
-   "ts": "2026-10-27T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft is offering buyouts to around 60,000 employees. Re",
-   "body": "Lemmy · technology · 점수 135",
-   "link": "https://www.businessinsider.com/microsoft-is-offering-buyouts-read-the-memo-2026-10",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.businessinsider.com/microsoft-is-offering-buyouts-read-the-memo-2026-10:2026-10-27T11:49"
-  },
-  {
-   "ts": "2026-10-27T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] My Colleagues really drive me crazy",
-   "body": "Lemmy · programming.dev · 점수 78",
-   "link": "https://feddit.org/pictrs/image/3ffc3ec3-7416-4a7a-9d98-c23da6c16ae3.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://feddit.org/pictrs/image/3ffc3ec3-7416-4a7a-9d98-c23da6c16ae3.jpeg:2026-10-27T11:49"
-  },
-  {
-   "ts": "2026-10-27T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] CSS-Tricks has a new owner",
-   "body": "Lobsters · 점수 73",
-   "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-   "source": "Lobsters",
-   "id": "community:https://css-tricks.com/css-tricks-has-a-new-owner/:2026-10-27T11:49"
-  },
-  {
-   "ts": "2026-10-27T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-117540 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-117540 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True svg-sanitizer from 0.5.3 before 1.1.0 contains a denial of service vulnerability in Sani",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117540",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117540:2026-10-27T11:19"
-  },
-  {
-   "ts": "2026-10-27T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-117536 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-117536 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True REDAXO before 5.21.3 contains a cross-site request forgery vulnerability in the backend ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117536",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117536:2026-10-27T11:19"
   }
  ]
 }
