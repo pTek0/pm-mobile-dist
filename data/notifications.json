@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-10-27T15:19:07+00:00",
+ "generated_at": "2026-10-27T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92377 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-92377 📢 Source: TV 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Improper access control in the Patch Management update mechanism of TeamViewer Full Client and ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92377",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92377:2026-10-27T15:49"
+  },
+  {
+   "ts": "2026-10-27T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92376 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-92376 📢 Source: TV 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Improper authentication in the inter-process communication (IPC) mechanism of TeamViewer Remote",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92376",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92376:2026-10-27T15:49"
+  },
+  {
+   "ts": "2026-10-27T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92375 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-92375 📢 Source: TV 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False An improper access control vulnerability in the IPC communication between TeamViewer Full Clien",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92375",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92375:2026-10-27T15:49"
+  },
+  {
+   "ts": "2026-10-27T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92374 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-92374 📢 Source: TV 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A time-of-check time-of-use (TOCTOU) race condition combined with improper symbolic link handli",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92374",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92374:2026-10-27T15:49"
+  },
+  {
+   "ts": "2026-10-27T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92372 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-92372 📢 Source: TV 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An out-of-bounds write vulnerability in the screen-image decoder of TeamViewer Full Client for L",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92372",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92372:2026-10-27T15:49"
+  },
+  {
+   "ts": "2026-10-27T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111585 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-111585 📢 Source: TV 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An integer overflow in the remote-control screen processing component of TeamViewer clients (Fu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111585",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111585:2026-10-27T15:49"
+  },
+  {
+   "ts": "2026-10-27T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111584 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-111584 📢 Source: TV 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A race condition in the installation process of TeamViewer Remote Management - Patch Managemen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111584",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111584:2026-10-27T15:49"
+  },
+  {
+   "ts": "2026-10-27T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111583 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-111583 📢 Source: TV 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Improper access control in the installer staging directory used by TeamViewer Full Client and ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111583",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111583:2026-10-27T15:49"
+  },
+  {
+   "ts": "2026-10-27T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111582 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-111582 📢 Source: TV 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A DLL loading vulnerability in the TeamViewer Remote Management Monitoring installer for Windo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111582",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111582:2026-10-27T15:49"
+  },
   {
    "ts": "2026-10-27T15:19:06+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116899",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116899:2026-10-27T11:19"
-  },
-  {
-   "ts": "2026-10-27T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116898 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-116898 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True REDAXO before 5.21.4 contains a missing authorization vulnerability in the media pool bu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116898",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116898:2026-10-27T11:19"
-  },
-  {
-   "ts": "2026-10-27T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116897 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-116897 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True REDAXO core before 5.21.4 contains a missing authorization vulnerability in the structur",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116897",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116897:2026-10-27T11:19"
-  },
-  {
-   "ts": "2026-10-27T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116896 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-116896 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True REDAXO before 5.21.5 contains a missing authorization vulnerability in the backup addon ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116896",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116896:2026-10-27T11:19"
-  },
-  {
-   "ts": "2026-10-27T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-117466 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-117466 📢 Source: Octopus 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, a user holding the System Manager role could escal",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117466",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117466:2026-10-27T11:19"
-  },
-  {
-   "ts": "2026-10-27T11:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-117341 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-117341 📢 Source: Octopus 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, creating a user invitation writes the invitation c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117341",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117341:2026-10-27T11:19"
-  },
-  {
-   "ts": "2026-10-27T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Three new discoveries in mathematics, computer science, and ",
-   "body": "Hacker News · 점수 940",
-   "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-   "source": "Hacker News",
-   "id": "community:https://openai.com/index/building-scientific-understanding-with-academic-communities/:2026-10-27T11:19"
-  },
-  {
-   "ts": "2026-10-27T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Exponential Time Hypothesis Is False [pdf]",
-   "body": "Hacker News · 점수 644",
-   "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-   "source": "Hacker News",
-   "id": "community:https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf:2026-10-27T11:19"
-  },
-  {
-   "ts": "2026-10-27T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Oldest GUI application that still runs on Windows 11",
-   "body": "Hacker News · 점수 437",
-   "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-   "source": "Hacker News",
-   "id": "community:https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/:2026-10-27T11:19"
-  },
-  {
-   "ts": "2026-10-27T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Solar power is becoming bigger than nuclear",
-   "body": "Hacker News · 점수 339",
-   "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
-   "source": "Hacker News",
-   "id": "community:https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear:2026-10-27T11:19"
   }
  ]
 }
