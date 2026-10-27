@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-27T19:49:07+00:00",
+ "generated_at": "2026-10-27T20:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-27T20:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112352 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-112352 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Sunhillo SureLine before 9.1.5 contains an authentication bypass vulnerability that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112352",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112352:2026-10-27T20:19"
+  },
   {
    "ts": "2026-10-27T19:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92546",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92546:2026-10-27T13:19"
-  },
-  {
-   "ts": "2026-10-27T12:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65151 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-65151 📢 Source: nvidia 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False NVIDIA NeMo Agent Toolkit contains vulnerability where an attacker could cause a SQL inject",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65151",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65151:2026-10-27T12:49"
   }
  ]
 }
