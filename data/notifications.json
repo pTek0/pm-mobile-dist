@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-28T16:49:09+00:00",
+ "generated_at": "2026-10-28T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-28T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82961 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-82961 📢 Source: zephyr 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The GPIO syscall handlers in drivers/gpio/gpio_handlers.c did not validate the pin argument",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82961",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82961:2026-10-28T17:19"
+  },
   {
    "ts": "2026-10-28T16:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://lemy.lol/pictrs/image/3b865d8b-5d42-4281-a1a9-ca4c79daabdc.jpeg",
    "source": "Lemmy · programming.dev",
    "id": "community:https://lemy.lol/pictrs/image/3b865d8b-5d42-4281-a1a9-ca4c79daabdc.jpeg:2026-10-28T12:19"
-  },
-  {
-   "ts": "2026-10-28T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] KDE Fixes 15 Year Old Bug Over Inaccurate Notifications When",
-   "body": "Lemmy · programming.dev · 점수 87",
-   "link": "https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs:2026-10-28T12:19"
   }
  ]
 }
