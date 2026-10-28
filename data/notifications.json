@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-28T15:49:08+00:00",
+ "generated_at": "2026-10-28T16:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-28T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93522 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-93522 📢 Source: suse 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A heap buffer overflow caused by mismatched size usage in CopyArea CPU-to-FBO path in X.Org X",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93522",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93522:2026-10-28T16:19"
+  },
   {
    "ts": "2026-10-28T15:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.brangus.io/survival-llm",
    "source": "Hacker News",
    "id": "community:https://www.brangus.io/survival-llm:2026-10-28T11:19"
-  },
-  {
-   "ts": "2026-10-28T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Solar Panels Are Now Producing So Much Power That They’re Le",
-   "body": "Lemmy · technology · 점수 329",
-   "link": "https://futurism.com/science-energy/solar-panels-electricity-energy-nuclear-power",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/science-energy/solar-panels-electricity-energy-nuclear-power:2026-10-28T11:19"
   }
  ]
 }
