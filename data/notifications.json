@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-27T23:49:07+00:00",
+ "generated_at": "2026-10-28T00:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-28T00:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Amazon Is Gutting Its AI Division After Sustained Failure",
+   "body": "Hacker News · 점수 188",
+   "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+   "source": "Hacker News",
+   "id": "community:https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova:2026-10-28T00:19"
+  },
+  {
+   "ts": "2026-10-28T00:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Police Are Using AI to Pull Over Drivers for ‘Suspicious’ Be",
+   "body": "Lemmy · technology · 점수 159",
+   "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+   "source": "Lemmy · technology",
+   "id": "community:https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220:2026-10-28T00:19"
+  },
+  {
+   "ts": "2026-10-28T00:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] ICE plan to buy robot dogs spurs protest from hundreds of Bo",
+   "body": "Lemmy · technology · 점수 116",
+   "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/:2026-10-28T00:19"
+  },
+  {
+   "ts": "2026-10-28T00:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Python's experimental JIT to be removed",
+   "body": "Lobsters · 점수 85",
+   "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+   "source": "Lobsters",
+   "id": "community:https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/:2026-10-28T00:19"
+  },
+  {
+   "ts": "2026-10-28T00:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Shitty Screenshare",
+   "body": "Lobsters · 점수 73",
+   "link": "http://shittyscreenshare.com",
+   "source": "Lobsters",
+   "id": "community:http://shittyscreenshare.com:2026-10-28T00:19"
+  },
   {
    "ts": "2026-10-27T23:49:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92372",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92372:2026-10-27T15:49"
-  },
-  {
-   "ts": "2026-10-27T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111585 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-111585 📢 Source: TV 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An integer overflow in the remote-control screen processing component of TeamViewer clients (Fu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111585",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111585:2026-10-27T15:49"
-  },
-  {
-   "ts": "2026-10-27T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111584 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-111584 📢 Source: TV 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A race condition in the installation process of TeamViewer Remote Management - Patch Managemen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111584",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111584:2026-10-27T15:49"
-  },
-  {
-   "ts": "2026-10-27T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111583 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-111583 📢 Source: TV 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Improper access control in the installer staging directory used by TeamViewer Full Client and ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111583",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111583:2026-10-27T15:49"
-  },
-  {
-   "ts": "2026-10-27T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111582 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-111582 📢 Source: TV 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A DLL loading vulnerability in the TeamViewer Remote Management Monitoring installer for Windo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111582",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111582:2026-10-27T15:49"
-  },
-  {
-   "ts": "2026-10-27T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-117604 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-117604 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Grav from 1.7.53.3 before 1.7.53.6 contains an authorization bypass in Debugger::isDebug",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117604",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117604:2026-10-27T15:19"
   }
  ]
 }
