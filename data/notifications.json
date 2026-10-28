@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-28T14:49:07+00:00",
+ "generated_at": "2026-10-28T15:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-28T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93520 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-93520 📢 Source: suse 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A heap buffer overflow caused by mismatching size calculations between XkbAllocNames and Chan",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93520",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93520:2026-10-28T15:19"
+  },
+  {
+   "ts": "2026-10-28T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93519 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-93519 📢 Source: suse 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A buffer overflow when handling pointer barriers in the XFIXES extension in X.Org X server be",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93519",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93519:2026-10-28T15:19"
+  },
   {
    "ts": "2026-10-28T14:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://futurism.com/artificial-intelligence/ai-bubble-burst-china",
    "source": "Lemmy · technology",
    "id": "community:https://futurism.com/artificial-intelligence/ai-bubble-burst-china:2026-10-28T11:19"
-  },
-  {
-   "ts": "2026-10-28T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110541 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-110541 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110541",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110541:2026-10-28T10:49"
-  },
-  {
-   "ts": "2026-10-28T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110540 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-110540 📢 Source: dell 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dell PowerProtect Data Domain Management Center, Feature Release versions 7.7.1.0 through 8.8",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110540",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110540:2026-10-28T10:49"
   }
  ]
 }
