@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-28T19:49:07+00:00",
+ "generated_at": "2026-10-28T20:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-28T20:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-117574 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-117574 📢 Source: redhat 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in ai-gateway-payload-processing. An authenticated remote attacker can",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117574",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117574:2026-10-28T20:19"
+  },
+  {
+   "ts": "2026-10-28T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13451 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-13451 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in KServe. A namespace-scoped user with create/update permissions on Infere",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13451",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13451:2026-10-28T20:19"
+  },
   {
    "ts": "2026-10-28T19:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115609",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115609:2026-10-28T13:19"
-  },
-  {
-   "ts": "2026-10-28T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-115607 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-115607 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115607",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115607:2026-10-28T13:19"
-  },
-  {
-   "ts": "2026-10-28T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115606 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-115606 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115606",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115606:2026-10-28T13:19"
   }
  ]
 }
