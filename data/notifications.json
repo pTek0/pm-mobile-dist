@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-28T04:19:07+00:00",
+ "generated_at": "2026-10-28T04:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-28T04:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104384 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-104384 📢 Source: Mandiant 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Insufficiently Protected Credentials in tunnel gateway and provisioning interfaces in Eag",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104384",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104384:2026-10-28T04:49"
+  },
+  {
+   "ts": "2026-10-28T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-104383 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-104383 📢 Source: Mandiant 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Improper Control of Generation of Code in Pigeon MFA service in EagleCloud Aquila ver",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104383",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104383:2026-10-28T04:49"
+  },
   {
    "ts": "2026-10-28T02:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-113775",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113775:2026-10-27T16:49"
-  },
-  {
-   "ts": "2026-10-27T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112353 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-112353 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True GFI KerioConnect (Kerio Connect) before 10.0.8 Patch 2 contains a stored cross-site scri",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112353",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112353:2026-10-27T16:49"
-  },
-  {
-   "ts": "2026-10-27T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109089 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-109089 📢 Source: suse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A buffer overflow when handling DEVICE_RESOLUTION in libXi before 1.8.4 could overflow a heap",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109089",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109089:2026-10-27T16:49"
   }
  ]
 }
