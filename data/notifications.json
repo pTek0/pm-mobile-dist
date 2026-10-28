@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-28T19:19:08+00:00",
+ "generated_at": "2026-10-28T19:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-28T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78674 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-78674 📢 Source: WSO2 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The BPMN System REST APIs do not sufficiently validate input parameters, allowing authenticate",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78674",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78674:2026-10-28T19:49"
+  },
+  {
+   "ts": "2026-10-28T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-6647 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-6647 📢 Source: WSO2 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True In deployments of WSO2 Identity Server configured with a case-insensitive user store and a case",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6647",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6647:2026-10-28T19:49"
+  },
+  {
+   "ts": "2026-10-28T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109411 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-109411 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True An access control bypass flaw was found in Samba's vfs_ceph_rgw module in it's openat() fun",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109411",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109411:2026-10-28T19:49"
+  },
+  {
+   "ts": "2026-10-28T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-14260 (CVSS 8.3)",
+   "body": "🚨 CVE-2025-14260 📢 Source: WSO2 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Due to the improper implementation of access control rules, the WSO2 product accepts user-supp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-14260",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-14260:2026-10-28T19:49"
+  },
   {
    "ts": "2026-10-28T19:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115606",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115606:2026-10-28T13:19"
-  },
-  {
-   "ts": "2026-10-28T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115596 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-115596 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115596",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115596:2026-10-28T13:19"
-  },
-  {
-   "ts": "2026-10-28T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115593 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-115593 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115593",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115593:2026-10-28T13:19"
-  },
-  {
-   "ts": "2026-10-28T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115591 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-115591 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Insertion of Sensitive Information Into Sent Data vulnerability in Supsystic Contact Fo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115591",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115591:2026-10-28T13:19"
-  },
-  {
-   "ts": "2026-10-28T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111850 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-111850 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111850",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111850:2026-10-28T13:19"
   }
  ]
 }
