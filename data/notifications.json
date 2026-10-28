@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-28T22:49:07+00:00",
+ "generated_at": "2026-10-28T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-28T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Apple's git still trusts the compromised eMudhra certificate",
+   "body": "Hacker News · 점수 995",
+   "link": "https://emudhra.we-have-a-problem.com/apple.html",
+   "source": "Hacker News",
+   "id": "community:https://emudhra.we-have-a-problem.com/apple.html:2026-10-28T23:19"
+  },
+  {
+   "ts": "2026-10-28T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Gemini 4 Carbon",
+   "body": "Hacker News · 점수 723",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "source": "Hacker News",
+   "id": "community:https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/:2026-10-28T23:19"
+  },
+  {
+   "ts": "2026-10-28T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Why is this fingerprinting script creating bioweapons?",
+   "body": "Hacker News · 점수 603",
+   "link": "https://nullpt.rs/fingerprinting-bioweapons",
+   "source": "Hacker News",
+   "id": "community:https://nullpt.rs/fingerprinting-bioweapons:2026-10-28T23:19"
+  },
+  {
+   "ts": "2026-10-28T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Start Doing Graph Theory",
+   "body": "Hacker News · 점수 540",
+   "link": "https://vertex.degree/",
+   "source": "Hacker News",
+   "id": "community:https://vertex.degree/:2026-10-28T23:19"
+  },
+  {
+   "ts": "2026-10-28T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] MacBook Pro with PROLED XDR Display and Touch",
+   "body": "Hacker News · 점수 453",
+   "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+   "source": "Hacker News",
+   "id": "community:https://www.apple.com/macbook-pro/proled-xdr-display/:2026-10-28T23:19"
+  },
   {
    "ts": "2026-10-28T22:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-67187",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67187:2026-10-28T15:49"
-  },
-  {
-   "ts": "2026-10-28T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93520 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-93520 📢 Source: suse 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A heap buffer overflow caused by mismatching size calculations between XkbAllocNames and Chan",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93520",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93520:2026-10-28T15:19"
-  },
-  {
-   "ts": "2026-10-28T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93519 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-93519 📢 Source: suse 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A buffer overflow when handling pointer barriers in the XFIXES extension in X.Org X server be",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93519",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93519:2026-10-28T15:19"
-  },
-  {
-   "ts": "2026-10-28T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93518 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-93518 📢 Source: suse 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False An integer truncation issue in XkbResizeKeyType() that could lead to a heap buffer overflow b",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93518",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93518:2026-10-28T14:49"
-  },
-  {
-   "ts": "2026-10-28T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116390 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-116390 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in stepasyuk Filter Everything — WordPr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116390",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116390:2026-10-28T14:19"
-  },
-  {
-   "ts": "2026-10-28T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116389 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116389 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in crossi72 Phoenix Media Rename phoeni",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116389",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116389:2026-10-28T14:19"
   }
  ]
 }
