@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-10-28T09:49:08+00:00",
+ "generated_at": "2026-10-28T10:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-28T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86380 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-86380 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86380",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86380:2026-10-28T10:19"
+  },
+  {
+   "ts": "2026-10-28T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86379 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-86379 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell PowerProtect Data Domain Management Center, Feature Release versions 7.7.1.0 through 8.8,",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86379",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86379:2026-10-28T10:19"
+  },
+  {
+   "ts": "2026-10-28T10:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-86384 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-86384 📢 Source: dell 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.8, LTS2024 relea",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86384",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86384:2026-10-28T10:19"
+  },
+  {
+   "ts": "2026-10-28T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86385 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-86385 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.8, contain an Improp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86385",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86385:2026-10-28T10:19"
+  },
   {
    "ts": "2026-10-28T09:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105489",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105489:2026-10-27T17:19"
-  },
-  {
-   "ts": "2026-10-27T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-104354 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-104354 📢 Source: adobe 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Adobe Campaign Classic (ACC) is affected by an Improper Neutralization of Special Elemen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104354",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104354:2026-10-27T17:19"
-  },
-  {
-   "ts": "2026-10-27T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-104353 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-104353 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Campaign Classic (ACC) is affected by an Improper Neutralization of Special Elemen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104353",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104353:2026-10-27T17:19"
-  },
-  {
-   "ts": "2026-10-27T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-104351 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-104351 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Campaign Classic (ACC) is affected by an Improper Control of Generation of Code ('",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104351",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104351:2026-10-27T17:19"
-  },
-  {
-   "ts": "2026-10-27T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-104350 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-104350 📢 Source: adobe 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Adobe Campaign Classic (ACC) is affected by a reflected Cross-Site Scripting (XSS) vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104350",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104350:2026-10-27T17:19"
   }
  ]
 }
