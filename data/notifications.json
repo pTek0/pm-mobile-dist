@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-10-28T16:19:08+00:00",
+ "generated_at": "2026-10-28T16:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-28T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106079 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-106079 📢 Source: juniper 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An Improper Neutralization of Special Elements used in an OS Command ('OS Command Injectio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106079",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106079:2026-10-28T16:49"
+  },
+  {
+   "ts": "2026-10-28T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103411 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-103411 📢 Source: juniper 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False An Integer Underflow vulnerability in DhcpMessageDecoder in Juniper Networks Session Smar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103411",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103411:2026-10-28T16:49"
+  },
+  {
+   "ts": "2026-10-28T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103410 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-103410 📢 Source: juniper 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An Integer Overflow vulnerability in the DPI certificate scanner in Juniper Networks Sessi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103410",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103410:2026-10-28T16:49"
+  },
+  {
+   "ts": "2026-10-28T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-103409 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-103409 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A Missing authentication for critical function vulnerability in Juniper Networks Sessi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103409",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103409:2026-10-28T16:49"
+  },
+  {
+   "ts": "2026-10-28T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103408 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-103408 📢 Source: juniper 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A Stack Buffer Overflow vulnerability in the DHCP client in Juniper Networks Session Smar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103408",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103408:2026-10-28T16:49"
+  },
+  {
+   "ts": "2026-10-28T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103407 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-103407 📢 Source: juniper 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An Improper Limitation of a Pathname to a Restricted Directory vulnerability in ConfigDire",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103407",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103407:2026-10-28T16:49"
+  },
+  {
+   "ts": "2026-10-28T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-103406 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-103406 📢 Source: juniper 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An Improper Neutralization of Special Elements used in an OS Command vulnerability in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103406",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103406:2026-10-28T16:49"
+  },
+  {
+   "ts": "2026-10-28T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103403 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-103403 📢 Source: juniper 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An Improper Neutralization of Special Elements used in an OS Command ('OS Command Injectio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103403",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103403:2026-10-28T16:49"
+  },
+  {
+   "ts": "2026-10-28T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103402 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-103402 📢 Source: juniper 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An Insufficient Verification of Data Authenticity vulnerability in PCLI in Juniper Network",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103402",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103402:2026-10-28T16:49"
+  },
+  {
+   "ts": "2026-10-28T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103401 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-103401 📢 Source: juniper 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An Improper Link Resolution Before File Access ('Link Following') vulnerability in the una",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103401",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103401:2026-10-28T16:49"
+  },
   {
    "ts": "2026-10-28T16:19:07+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs",
    "source": "Lemmy · programming.dev",
    "id": "community:https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs:2026-10-28T12:19"
-  },
-  {
-   "ts": "2026-10-28T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A fast and secure tar parser for the Rust ecosystem",
-   "body": "Lobsters · 점수 66",
-   "link": "https://astral.sh/blog/tar-codec",
-   "source": "Lobsters",
-   "id": "community:https://astral.sh/blog/tar-codec:2026-10-28T12:19"
-  },
-  {
-   "ts": "2026-10-28T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Four Months of Zig",
-   "body": "Lobsters · 점수 57",
-   "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
-   "source": "Lobsters",
-   "id": "community:https://gracefulliberty.com/articles/four-months-of-zig/:2026-10-28T12:19"
-  },
-  {
-   "ts": "2026-10-28T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118485 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-118485 📢 Source: OCD 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Axel Download Accelerator 2.17.14 and earlier performs URL percent-decoding (http_decode()) on",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118485",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118485:2026-10-28T11:49"
-  },
-  {
-   "ts": "2026-10-28T11:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-118477 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-118477 📢 Source: OCD 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The ei_git_repo_url parameter in the Git remote configuration endpoint of KaliFast is vuln",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118477",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118477:2026-10-28T11:49"
-  },
-  {
-   "ts": "2026-10-28T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Some Google Home Speakers downloading massive amounts of dat",
-   "body": "Lemmy · technology · 점수 265",
-   "link": "https://9to5google.com/2026/10/19/google-home-speaker-downloads/",
-   "source": "Lemmy · technology",
-   "id": "community:https://9to5google.com/2026/10/19/google-home-speaker-downloads/:2026-10-28T11:49"
-  },
-  {
-   "ts": "2026-10-28T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Researchers Uncover Signs of Massive Surveillance Operation ",
-   "body": "Lemmy · technology · 점수 252",
-   "link": "https://gizmodo.com/researchers-uncover-signs-of-massive-surveillance-operation-on-starlink-users-2000831366",
-   "source": "Lemmy · technology",
-   "id": "community:https://gizmodo.com/researchers-uncover-signs-of-massive-surveillance-operation-on-starlink-users-2000831366:2026-10-28T11:49"
-  },
-  {
-   "ts": "2026-10-28T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ink droplets in motion snag top prize in Nikon Small World c",
-   "body": "Hacker News · 점수 247",
-   "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-   "source": "Hacker News",
-   "id": "community:https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/:2026-10-28T11:49"
-  },
-  {
-   "ts": "2026-10-28T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Code-execution flaw in UEFI firmware affects most servers on",
-   "body": "Lemmy · technology · 점수 181",
-   "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/:2026-10-28T11:49"
-  },
-  {
-   "ts": "2026-10-28T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] “No human at the helm”: Delaware plan would let AI agents ru",
-   "body": "Lemmy · technology · 점수 158",
-   "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/:2026-10-28T11:49"
-  },
-  {
-   "ts": "2026-10-28T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Survival LLM: AI assistant and emergency library that runs o",
-   "body": "Hacker News · 점수 364",
-   "link": "https://www.brangus.io/survival-llm",
-   "source": "Hacker News",
-   "id": "community:https://www.brangus.io/survival-llm:2026-10-28T11:19"
   }
  ]
 }
