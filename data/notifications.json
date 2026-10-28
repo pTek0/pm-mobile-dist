@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-10-28T18:49:07+00:00",
+ "generated_at": "2026-10-28T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118679 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-118679 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.83, 2.41.4, and 2.42.1 contains a server-side request forgery vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118679",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118679:2026-10-28T19:19"
+  },
+  {
+   "ts": "2026-10-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118678 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-118678 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n before 2.41.4 and 2.42.x before 2.42.1 contains a prototype pollution vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118678",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118678:2026-10-28T19:19"
+  },
+  {
+   "ts": "2026-10-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118676 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-118676 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.43.5, and 2.44.1 contains an authorization bypass vulnerability t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118676",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118676:2026-10-28T19:19"
+  },
+  {
+   "ts": "2026-10-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118675 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-118675 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.43.5, and 2.44.1 contains a credential guard bypass vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118675",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118675:2026-10-28T19:19"
+  },
+  {
+   "ts": "2026-10-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118649 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-118649 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True n8n before 2.43.5 and 2.44.x before 2.44.1 accepts a client-supplied workflow ID and cac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118649",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118649:2026-10-28T19:19"
+  },
+  {
+   "ts": "2026-10-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118648 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-118648 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 contains a stored cross",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118648",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118648:2026-10-28T19:19"
+  },
+  {
+   "ts": "2026-10-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118647 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-118647 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 saves the SeaTable Trig",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118647",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118647:2026-10-28T19:19"
+  },
+  {
+   "ts": "2026-10-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118646 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-118646 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.43.5, and 2.44.1 contains a regular expression denial of service ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118646",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118646:2026-10-28T19:19"
+  },
+  {
+   "ts": "2026-10-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118645 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-118645 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 contains a filter injec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118645",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118645:2026-10-28T19:19"
+  },
+  {
+   "ts": "2026-10-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118644 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-118644 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True n8n before 2.41.5 and 2.42.x before 2.42.2 passes a failed workflow's full execution con",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118644",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118644:2026-10-28T19:19"
+  },
+  {
+   "ts": "2026-10-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118643 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-118643 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 stores credential secre",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118643",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118643:2026-10-28T19:19"
+  },
+  {
+   "ts": "2026-10-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118642 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-118642 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.43.5, and 2.44.1 contains an authorization bypass vulnerability t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118642",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118642:2026-10-28T19:19"
+  },
+  {
+   "ts": "2026-10-28T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118641 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-118641 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 contains an OData $filt",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118641",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118641:2026-10-28T19:19"
+  },
   {
    "ts": "2026-10-28T17:19:07+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111850",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111850:2026-10-28T13:19"
-  },
-  {
-   "ts": "2026-10-28T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111411 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-111411 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111411",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111411:2026-10-28T13:19"
-  },
-  {
-   "ts": "2026-10-28T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-67073 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-67073 📢 Source: HCL 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True HCL BigFix AEX is affected by an Unrestricted File Upload and Improper Access Control vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67073",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67073:2026-10-28T12:49"
-  },
-  {
-   "ts": "2026-10-28T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118040 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-118040 📢 Source: ProgressSoftware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® Document Processing Libraries prior to version 2026.3.102",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118040",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118040:2026-10-28T12:49"
-  },
-  {
-   "ts": "2026-10-28T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118039 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-118039 📢 Source: ProgressSoftware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® Document Processing Libraries prior to version 2026.3.102",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118039",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118039:2026-10-28T12:49"
-  },
-  {
-   "ts": "2026-10-28T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118038 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-118038 📢 Source: ProgressSoftware 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® Document Processing Libraries prior to version 2026.3.102",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118038",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118038:2026-10-28T12:49"
-  },
-  {
-   "ts": "2026-10-28T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118037 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-118037 📢 Source: ProgressSoftware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® Document Processing Libraries prior to version 2026.3.102",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118037",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118037:2026-10-28T12:49"
-  },
-  {
-   "ts": "2026-10-28T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118036 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-118036 📢 Source: ProgressSoftware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® Document Processing Libraries prior to version 2026.3.102",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118036",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118036:2026-10-28T12:49"
-  },
-  {
-   "ts": "2026-10-28T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118035 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-118035 📢 Source: ProgressSoftware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® Document Processing Libraries prior to version 2026.3.102",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118035",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118035:2026-10-28T12:49"
-  },
-  {
-   "ts": "2026-10-28T12:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-67074 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-67074 📢 Source: HCL 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True HCL BigFix AEX is affected by a Remote Code Execution Vulnerability . It may allow attacker",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67074",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67074:2026-10-28T12:49"
-  },
-  {
-   "ts": "2026-10-28T12:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114278 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-114278 📢 Source: eclipse 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The che-machine-exec service constructs a shell command by concatenating user-controll",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114278",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114278:2026-10-28T12:19"
-  },
-  {
-   "ts": "2026-10-28T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-102790 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-102790 📢 Source: Joomla 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - icagenda.com - Stored XSS via url-type event Custom Field in iCagenda 3.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102790",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102790:2026-10-28T12:19"
-  },
-  {
-   "ts": "2026-10-28T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Unpatched!",
-   "body": "Lemmy · programming.dev · 점수 141",
-   "link": "https://lemmy.zip/pictrs/image/c74620e6-0d68-4059-988e-8ea25ba4279e.webm",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.zip/pictrs/image/c74620e6-0d68-4059-988e-8ea25ba4279e.webm:2026-10-28T12:19"
-  },
-  {
-   "ts": "2026-10-28T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Just gotta protect the family!",
-   "body": "Lemmy · programming.dev · 점수 114",
-   "link": "https://lemy.lol/pictrs/image/3b865d8b-5d42-4281-a1a9-ca4c79daabdc.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemy.lol/pictrs/image/3b865d8b-5d42-4281-a1a9-ca4c79daabdc.jpeg:2026-10-28T12:19"
   }
  ]
 }
