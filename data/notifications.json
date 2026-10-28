@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-10-28T21:19:07+00:00",
+ "generated_at": "2026-10-28T21:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-28T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118804 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-118804 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Bricks Builder 2.4.3 and before contains a broken access control vulnerability that allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118804",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118804:2026-10-28T21:49"
+  },
+  {
+   "ts": "2026-10-28T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118803 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-118803 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Bricks Theme 2.4.3 and before contains an unauthenticated dynamic-data tag injection vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118803",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118803:2026-10-28T21:49"
+  },
+  {
+   "ts": "2026-10-28T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118755 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-118755 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Volmarg Personal Management System through 2.1.0 contains an OS command injection vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118755",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118755:2026-10-28T21:49"
+  },
+  {
+   "ts": "2026-10-28T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118753 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-118753 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False FreeImage (danoli3 fork) before 3.19.25 contains a heap buffer overflow vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118753",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118753:2026-10-28T21:49"
+  },
+  {
+   "ts": "2026-10-28T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118752 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-118752 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False FreeImage (danoli3 fork) before 3.19.22 contains a heap buffer overflow vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118752",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118752:2026-10-28T21:49"
+  },
+  {
+   "ts": "2026-10-28T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118694 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-118694 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True python-markdown2 through 2.5.5 contains a denial of service vulnerability that allows re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118694",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118694:2026-10-28T21:49"
+  },
+  {
+   "ts": "2026-10-28T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118692 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-118692 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False CherryTree through 1.7.2 contains an OS command injection vulnerability in CtActions::l",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118692",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118692:2026-10-28T21:49"
+  },
+  {
+   "ts": "2026-10-28T21:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-118690 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-118690 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Signal K Server before 2.33.0 contains a missing authentication vulnerability that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118690",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118690:2026-10-28T21:49"
+  },
+  {
+   "ts": "2026-10-28T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118689 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-118689 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True OvenMediaEngine through 0.21.0 contains a denial of service vulnerability in OvtPacket::",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118689",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118689:2026-10-28T21:49"
+  },
+  {
+   "ts": "2026-10-28T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118682 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-118682 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True KaringX ClashMi through 1.0.32.1801 disables TLS certificate validation by default in th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118682",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118682:2026-10-28T21:49"
+  },
   {
    "ts": "2026-10-28T20:19:06+00:00",
    "level": "important",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115968",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115968:2026-10-28T14:19"
-  },
-  {
-   "ts": "2026-10-28T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115603 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-115603 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115603",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115603:2026-10-28T14:19"
-  },
-  {
-   "ts": "2026-10-28T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115590 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-115590 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in weDevs Dokan dokan-lite allows Objec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115590",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115590:2026-10-28T14:19"
-  },
-  {
-   "ts": "2026-10-28T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116078 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-116078 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in the HTTP/2 request body ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116078",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116078:2026-10-28T13:49"
-  },
-  {
-   "ts": "2026-10-28T13:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-105420 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-105420 📢 Source: CERT-PL 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Wing FTP Server does not verify user's base folder. An attacker with admin privileges ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105420",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105420:2026-10-28T13:49"
-  },
-  {
-   "ts": "2026-10-28T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93517 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-93517 📢 Source: suse 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A heap buffer overflow in handling GLX RenderLarge request where dataBytes exceeds cmdlen in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93517",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93517:2026-10-28T13:49"
-  },
-  {
-   "ts": "2026-10-28T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116393 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-116393 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in iHomefinder, Inc. Optima Express optima-express ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116393",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116393:2026-10-28T13:19"
-  },
-  {
-   "ts": "2026-10-28T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116392 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-116392 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in PickPlugins Accordion accordions all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116392",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116392:2026-10-28T13:19"
-  },
-  {
-   "ts": "2026-10-28T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116391 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116391 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in GS Plugins GS Logo Slider gs-logo-sl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116391",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116391:2026-10-28T13:19"
-  },
-  {
-   "ts": "2026-10-28T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115612 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-115612 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115612",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115612:2026-10-28T13:19"
-  },
-  {
-   "ts": "2026-10-28T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115609 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-115609 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115609",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115609:2026-10-28T13:19"
   }
  ]
 }
