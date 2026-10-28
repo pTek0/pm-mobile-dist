@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-28T14:19:09+00:00",
+ "generated_at": "2026-10-28T14:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-28T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93518 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-93518 📢 Source: suse 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False An integer truncation issue in XkbResizeKeyType() that could lead to a heap buffer overflow b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93518",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93518:2026-10-28T14:49"
+  },
   {
    "ts": "2026-10-28T14:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110540",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110540:2026-10-28T10:49"
-  },
-  {
-   "ts": "2026-10-28T10:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103792 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-103792 📢 Source: dell 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Dell PowerProtect Data Domain Management Center, Feature Release versions 7.7.1.0 through",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103792",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103792:2026-10-28T10:49"
   }
  ]
 }
