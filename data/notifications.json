@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-29T09:19:09+00:00",
+ "generated_at": "2026-10-29T09:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88941 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-88941 📢 Source: Kaspersky 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Kaspersky has fixed a vulnerability in the Network Agent for Windows module of Kaspersky",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88941",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88941:2026-10-29T09:49"
+  },
   {
    "ts": "2026-10-29T09:19:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-118648",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118648:2026-10-28T19:19"
-  },
-  {
-   "ts": "2026-10-28T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118647 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-118647 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 saves the SeaTable Trig",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118647",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118647:2026-10-28T19:19"
   }
  ]
 }
