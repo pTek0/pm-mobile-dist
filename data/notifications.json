@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-29T13:49:09+00:00",
+ "generated_at": "2026-10-29T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T14:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-39736 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-39736 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-39736",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-39736:2026-10-29T14:19"
+  },
+  {
+   "ts": "2026-10-29T14:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116399 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116399 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in InstaWP InstaWP Connect instawp-conn",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116399",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116399:2026-10-29T14:19"
+  },
   {
    "ts": "2026-10-29T13:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
    "source": "Lemmy · technology",
    "id": "community:https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/:2026-10-29T00:49"
-  },
-  {
-   "ts": "2026-10-29T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AlpineBSD",
-   "body": "Lobsters · 점수 58",
-   "link": "https://wiki.alpinebsd.org/",
-   "source": "Lobsters",
-   "id": "community:https://wiki.alpinebsd.org/:2026-10-29T00:49"
-  },
-  {
-   "ts": "2026-10-29T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Google AI gets cagey when asked who won the 2020 elections: ",
-   "body": "Lemmy · technology · 점수 166",
-   "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/:2026-10-29T00:19"
   }
  ]
 }
