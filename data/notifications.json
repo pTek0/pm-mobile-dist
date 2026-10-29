@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-29T17:49:08+00:00",
+ "generated_at": "2026-10-29T18:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107347 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-107347 📢 Source: HashiCorp 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False HashiCorp Nomad and Nomad Enterprise are vulnerable to symlink following during dispatc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107347",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107347:2026-10-29T18:19"
+  },
   {
    "ts": "2026-10-29T17:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-33924",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33924:2026-10-29T11:19"
-  },
-  {
-   "ts": "2026-10-29T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-33923 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-33923 📢 Source: Nozomi 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A signature verification vulnerability was discovered in the update installation functionali",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-33923",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-33923:2026-10-29T11:19"
   }
  ]
 }
