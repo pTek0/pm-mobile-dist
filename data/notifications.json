@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-29T15:49:12+00:00",
+ "generated_at": "2026-10-29T16:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119129 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-119129 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True ZITADEL 3.0.0 through 3.4.15 and 4.0.0 before 4.19.5 contains a missing authorization vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119129",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119129:2026-10-29T16:19"
+  },
+  {
+   "ts": "2026-10-29T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-119128 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-119128 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True ZITADEL 4.0.0 before 4.19.5 contains an authentication bypass vulnerability in the L",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119128",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119128:2026-10-29T16:19"
+  },
+  {
+   "ts": "2026-10-29T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119127 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-119127 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True ZITADEL 4.0.0 before 4.19.5 contains a host header injection vulnerability in the Login ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119127",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119127:2026-10-29T16:19"
+  },
+  {
+   "ts": "2026-10-29T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119120 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-119120 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Crawl4AI from 0.9.0 before 0.9.5 fails to filter the CosineStrategy model_name field in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119120",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119120:2026-10-29T16:19"
+  },
+  {
+   "ts": "2026-10-29T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119119 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-119119 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Crawl4AI before 0.9.5 contains a denial of service vulnerability in the Docker API serve",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119119",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119119:2026-10-29T16:19"
+  },
+  {
+   "ts": "2026-10-29T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119118 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-119118 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Crawl4AI before 0.9.5 contains an improper certificate validation vulnerability that all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119118",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119118:2026-10-29T16:19"
+  },
   {
    "ts": "2026-10-29T15:49:07+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://www.pcgamer.com/software/ai/valve-admits-steam-has-an-ai-slop-and-cloning-problem-but-says-we-dont-want-to-be-gatekeepers-telling-developers-which-tools-they-should-or-shouldnt-use/",
    "source": "Lemmy · technology",
    "id": "community:https://www.pcgamer.com/software/ai/valve-admits-steam-has-an-ai-slop-and-cloning-problem-but-says-we-dont-want-to-be-gatekeepers-telling-developers-which-tools-they-should-or-shouldnt-use/:2026-10-29T11:19"
-  },
-  {
-   "ts": "2026-10-29T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118984 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-118984 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True OmniRoute 3.8.0 before 3.8.52 contains an unverified password change vulnerability that al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118984",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118984:2026-10-29T10:49"
-  },
-  {
-   "ts": "2026-10-29T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111419 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-111419 📢 Source: Foxit 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A sensitive information exposure vulnerability exists on the Foxit official website because ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111419",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111419:2026-10-29T10:19"
-  },
-  {
-   "ts": "2026-10-29T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111418 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-111418 📢 Source: Foxit 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A server-side request forgery (SSRF) vulnerability exists in the Foxit official website’s HT",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111418",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111418:2026-10-29T10:19"
-  },
-  {
-   "ts": "2026-10-29T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111417 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-111417 📢 Source: Foxit 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A broken access control vulnerability exists in the Foxit official website’s HTML-to-PDF con",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111417",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111417:2026-10-29T10:19"
-  },
-  {
-   "ts": "2026-10-29T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88941 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-88941 📢 Source: Kaspersky 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Kaspersky has fixed a vulnerability in the Network Agent for Windows module of Kaspersky",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88941",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88941:2026-10-29T09:49"
-  },
-  {
-   "ts": "2026-10-29T09:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114358 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-114358 📢 Source: CERT-In 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True This vulnerability exists in the Radius Xenia M2M Platform due to insufficient validat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114358",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114358:2026-10-29T09:19"
   }
  ]
 }
