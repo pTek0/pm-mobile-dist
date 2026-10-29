@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-29T20:49:08+00:00",
+ "generated_at": "2026-10-29T21:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T21:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13303 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-13303 📢 Source: HashiCorp 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False HashiCorp Boundary and Boundary Enterprise are vulnerable to a server-side request forge",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13303",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13303:2026-10-29T21:19"
+  },
   {
    "ts": "2026-10-29T20:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115965",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115965:2026-10-29T11:19"
-  },
-  {
-   "ts": "2026-10-29T11:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-115964 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-115964 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115964",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115964:2026-10-29T11:19"
   }
  ]
 }
