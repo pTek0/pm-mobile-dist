@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-29T16:19:09+00:00",
+ "generated_at": "2026-10-29T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T16:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-11587 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-11587 📢 Source: Centreon 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True SQL injection allowing an authenticated user with access to ACL management to read and mod",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-11587",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-11587:2026-10-29T16:49"
+  },
+  {
+   "ts": "2026-10-29T16:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2023-7357 (CVSS 8.6)",
+   "body": "🚨 CVE-2023-7357 📢 Source: flexera 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A remote code execution (RCE) vulnerability was identified in the FlexNet Publisher lmadmin ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2023-7357",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2023-7357:2026-10-29T16:49"
+  },
+  {
+   "ts": "2026-10-29T16:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119115 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-119115 📢 Source: AMZN 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Incorrect authorization in the issuer resolution logic in AWS Private CA Connector for Kubern",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119115",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119115:2026-10-29T16:49"
+  },
   {
    "ts": "2026-10-29T16:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
    "source": "Hacker News",
    "id": "community:https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1:2026-10-29T11:19"
-  },
-  {
-   "ts": "2026-10-29T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Claude Code regularly sends each background agent’s transcri",
-   "body": "Hacker News · 점수 399",
-   "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-   "source": "Hacker News",
-   "id": "community:https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce:2026-10-29T11:19"
-  },
-  {
-   "ts": "2026-10-29T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A Health Update",
-   "body": "Hacker News · 점수 267",
-   "link": "https://furbo.org/2026/10/28/a-health-update/",
-   "source": "Hacker News",
-   "id": "community:https://furbo.org/2026/10/28/a-health-update/:2026-10-29T11:19"
-  },
-  {
-   "ts": "2026-10-29T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Valve admits Steam has an AI slop and cloning problem, but s",
-   "body": "Lemmy · technology · 점수 205",
-   "link": "https://www.pcgamer.com/software/ai/valve-admits-steam-has-an-ai-slop-and-cloning-problem-but-says-we-dont-want-to-be-gatekeepers-telling-developers-which-tools-they-should-or-shouldnt-use/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.pcgamer.com/software/ai/valve-admits-steam-has-an-ai-slop-and-cloning-problem-but-says-we-dont-want-to-be-gatekeepers-telling-developers-which-tools-they-should-or-shouldnt-use/:2026-10-29T11:19"
   }
  ]
 }
