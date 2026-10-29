@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-29T13:19:08+00:00",
+ "generated_at": "2026-10-29T13:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119052 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-119052 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True llama.cpp b2877 before b11935 contains an uncaught exception vulnerability in the ggml-r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119052",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119052:2026-10-29T13:49"
+  },
+  {
+   "ts": "2026-10-29T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119051 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-119051 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True flat through 6.0.1 contains an uncontrolled resource allocation vulnerability in unflatt",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119051",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119051:2026-10-29T13:49"
+  },
+  {
+   "ts": "2026-10-29T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-119050 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-119050 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Agno through 3.1.11 contains an unsafe reflection vulnerability in PandasTools that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119050",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119050:2026-10-29T13:49"
+  },
+  {
+   "ts": "2026-10-29T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119049 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-119049 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True FreeMail before 5.3.2 contains an authorization bypass vulnerability that allows authent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119049",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119049:2026-10-29T13:49"
+  },
+  {
+   "ts": "2026-10-29T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2019-25781 (CVSS 8.7)",
+   "body": "🚨 CVE-2019-25781 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Python-Markdown 3.0 through 3.11.2 contains an algorithmic complexity vulnerability in in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2019-25781",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2019-25781:2026-10-29T13:49"
+  },
   {
    "ts": "2026-10-29T13:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
    "source": "Lemmy · technology",
    "id": "community:https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/:2026-10-29T00:19"
-  },
-  {
-   "ts": "2026-10-29T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] OpenAI says it will no longer train its AI models on the liv",
-   "body": "Lemmy · technology · 점수 142",
-   "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-   "source": "Lemmy · technology",
-   "id": "community:https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/:2026-10-29T00:19"
-  },
-  {
-   "ts": "2026-10-29T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] This is not sustainable",
-   "body": "Lobsters · 점수 112",
-   "link": "https://www.netmeister.org/blog/defense-ddos.html",
-   "source": "Lobsters",
-   "id": "community:https://www.netmeister.org/blog/defense-ddos.html:2026-10-29T00:19"
-  },
-  {
-   "ts": "2026-10-29T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] 'Minnesota 15' Case Reveals Largest US Government Spying on ",
-   "body": "Lemmy · technology · 점수 81",
-   "link": "https://www.commondreams.org/news/minnesota-15-government-spying",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.commondreams.org/news/minnesota-15-government-spying:2026-10-29T00:19"
-  },
-  {
-   "ts": "2026-10-29T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Massive Leak Exposes 41,000 Homeland Security Workers—Includ",
-   "body": "Lemmy · technology · 점수 74",
-   "link": "https://www.techdirt.com/2026/10/28/latest-drop-by-distributed-denial-of-secrets-ddos-contains-contact-info-for-40000-dhs-employees/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.techdirt.com/2026/10/28/latest-drop-by-distributed-denial-of-secrets-ddos-contains-contact-info-for-40000-dhs-employees/:2026-10-29T00:19"
-  },
-  {
-   "ts": "2026-10-28T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Kentucky man becomes the first humanist granted religious ex",
-   "body": "Hacker News · 점수 397",
-   "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-   "source": "Hacker News",
-   "id": "community:https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/:2026-10-28T23:49"
   }
  ]
 }
