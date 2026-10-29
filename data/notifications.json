@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-29T05:19:07+00:00",
+ "generated_at": "2026-10-29T05:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118905 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-118905 📢 Source: harborist 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Node Version Manager (nvm) is a POSIX-compliant shell function for managing multiple no",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118905",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118905:2026-10-29T05:49"
+  },
   {
    "ts": "2026-10-29T01:49:09+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-118643",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118643:2026-10-28T19:19"
-  },
-  {
-   "ts": "2026-10-28T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118642 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-118642 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.43.5, and 2.44.1 contains an authorization bypass vulnerability t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118642",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118642:2026-10-28T19:19"
   }
  ]
 }
