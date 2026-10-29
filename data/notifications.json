@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-29T05:49:07+00:00",
+ "generated_at": "2026-10-29T06:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T06:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114488 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-114488 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Wildfly. A remote attacker can bypass authentication on IIOP EJB invoca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114488",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114488:2026-10-29T06:19"
+  },
   {
    "ts": "2026-10-29T05:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-118644",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118644:2026-10-28T19:19"
-  },
-  {
-   "ts": "2026-10-28T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118643 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-118643 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 stores credential secre",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118643",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118643:2026-10-28T19:19"
   }
  ]
 }
