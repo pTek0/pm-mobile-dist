@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-29T08:49:07+00:00",
+ "generated_at": "2026-10-29T09:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T09:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-114358 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-114358 📢 Source: CERT-In 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True This vulnerability exists in the Radius Xenia M2M Platform due to insufficient validat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114358",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114358:2026-10-29T09:19"
+  },
   {
    "ts": "2026-10-29T07:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-118647",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118647:2026-10-28T19:19"
-  },
-  {
-   "ts": "2026-10-28T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118646 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-118646 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.43.5, and 2.44.1 contains a regular expression denial of service ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118646",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118646:2026-10-28T19:19"
   }
  ]
 }
