@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-29T09:49:08+00:00",
+ "generated_at": "2026-10-29T10:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111419 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111419 📢 Source: Foxit 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A sensitive information exposure vulnerability exists on the Foxit official website because ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111419",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111419:2026-10-29T10:19"
+  },
+  {
+   "ts": "2026-10-29T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111418 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-111418 📢 Source: Foxit 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A server-side request forgery (SSRF) vulnerability exists in the Foxit official website’s HT",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111418",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111418:2026-10-29T10:19"
+  },
+  {
+   "ts": "2026-10-29T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111417 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-111417 📢 Source: Foxit 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A broken access control vulnerability exists in the Foxit official website’s HTML-to-PDF con",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111417",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111417:2026-10-29T10:19"
+  },
   {
    "ts": "2026-10-29T09:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-118676",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118676:2026-10-28T19:19"
-  },
-  {
-   "ts": "2026-10-28T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118675 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-118675 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.43.5, and 2.44.1 contains a credential guard bypass vulnerability",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118675",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118675:2026-10-28T19:19"
-  },
-  {
-   "ts": "2026-10-28T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118649 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-118649 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True n8n before 2.43.5 and 2.44.x before 2.44.1 accepts a client-supplied workflow ID and cac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118649",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118649:2026-10-28T19:19"
-  },
-  {
-   "ts": "2026-10-28T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118648 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-118648 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 contains a stored cross",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118648",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118648:2026-10-28T19:19"
   }
  ]
 }
