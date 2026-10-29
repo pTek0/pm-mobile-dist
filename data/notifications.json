@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-29T18:49:08+00:00",
+ "generated_at": "2026-10-29T19:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-103093 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-103093 📢 Source: SN 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True ServiceNow has remediated a sandbox escape security issue that was identified in the Servic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103093",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103093:2026-10-29T19:19"
+  },
   {
    "ts": "2026-10-29T18:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115611",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115611:2026-10-29T11:19"
-  },
-  {
-   "ts": "2026-10-29T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115599 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-115599 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in ThimPress LearnPress learnpress allows Exploitin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115599",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115599:2026-10-29T11:19"
   }
  ]
 }
