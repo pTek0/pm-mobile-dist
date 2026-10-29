@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-29T07:19:07+00:00",
+ "generated_at": "2026-10-29T07:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-62841 (CVSS 8.7)",
+   "body": "🚨 CVE-2025-62841 📢 Source: qnap 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False An use of hard-coded cryptographic key vulnerability has been reported to affect HBS 3 Hybrid",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-62841",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-62841:2026-10-29T07:49"
+  },
+  {
+   "ts": "2026-10-29T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-62839 (CVSS 8.7)",
+   "body": "🚨 CVE-2025-62839 📢 Source: qnap 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False An use of hard-coded cryptographic key vulnerability has been reported to affect HBS 3 Hybrid",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-62839",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-62839:2026-10-29T07:49"
+  },
   {
    "ts": "2026-10-29T06:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-118646",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118646:2026-10-28T19:19"
-  },
-  {
-   "ts": "2026-10-28T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118645 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-118645 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 contains a filter injec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118645",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118645:2026-10-28T19:19"
-  },
-  {
-   "ts": "2026-10-28T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118644 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-118644 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True n8n before 2.41.5 and 2.42.x before 2.42.2 passes a failed workflow's full execution con",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118644",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118644:2026-10-28T19:19"
   }
  ]
 }
