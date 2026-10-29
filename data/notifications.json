@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-10-29T15:19:08+00:00",
+ "generated_at": "2026-10-29T15:49:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112256 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-112256 📢 Source: OpenText 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Acceptance of extraneous untrusted data with trusted data vulnerability in OpenText A",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112256",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112256:2026-10-29T15:49"
+  },
+  {
+   "ts": "2026-10-29T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111730 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-111730 📢 Source: rt-labs 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False P-Net before 1.0.3 does not validate the LengthPeerStationName field of a CheckPeers bloc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111730",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111730:2026-10-29T15:49"
+  },
+  {
+   "ts": "2026-10-29T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107328 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-107328 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.4 could allow a remote authenticated attacker to execu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107328",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107328:2026-10-29T15:49"
+  },
+  {
+   "ts": "2026-10-29T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107327 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-107327 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.4 could allow a remote authenticated attacker to execu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107327",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107327:2026-10-29T15:49"
+  },
+  {
+   "ts": "2026-10-29T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107326 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-107326 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.4 could allow a remote authenticated attacker to execute a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107326",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107326:2026-10-29T15:49"
+  },
+  {
+   "ts": "2026-10-29T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-104339 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-104339 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.3 could allow a remote attacker to execute arbitrary c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104339",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104339:2026-10-29T15:49"
+  },
+  {
+   "ts": "2026-10-29T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104328 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-104328 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.3 could allow a remote authenticated attacker to execute a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104328",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104328:2026-10-29T15:49"
+  },
+  {
+   "ts": "2026-10-29T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104324 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-104324 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.3 could allow a remote authenticated attacker to execute a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104324",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104324:2026-10-29T15:49"
+  },
+  {
+   "ts": "2026-10-29T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104317 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-104317 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.3 could allow a remote attacker who could reach the messag",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104317",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104317:2026-10-29T15:49"
+  },
   {
    "ts": "2026-10-29T14:19:08+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-114358",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114358:2026-10-29T09:19"
-  },
-  {
-   "ts": "2026-10-29T07:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-62841 (CVSS 8.7)",
-   "body": "🚨 CVE-2025-62841 📢 Source: qnap 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False An use of hard-coded cryptographic key vulnerability has been reported to affect HBS 3 Hybrid",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-62841",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-62841:2026-10-29T07:49"
-  },
-  {
-   "ts": "2026-10-29T07:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-62839 (CVSS 8.7)",
-   "body": "🚨 CVE-2025-62839 📢 Source: qnap 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False An use of hard-coded cryptographic key vulnerability has been reported to affect HBS 3 Hybrid",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-62839",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-62839:2026-10-29T07:49"
-  },
-  {
-   "ts": "2026-10-29T06:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114488 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-114488 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Wildfly. A remote attacker can bypass authentication on IIOP EJB invoca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114488",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114488:2026-10-29T06:19"
-  },
-  {
-   "ts": "2026-10-29T05:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118905 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-118905 📢 Source: harborist 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Node Version Manager (nvm) is a POSIX-compliant shell function for managing multiple no",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118905",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118905:2026-10-29T05:49"
-  },
-  {
-   "ts": "2026-10-29T01:49:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66090 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-66090 📢 Source: MON-CSIRT 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In openEQUELLA before 2026.1, the XML parser used for item metadata does not disable exte",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66090",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66090:2026-10-29T01:49"
-  },
-  {
-   "ts": "2026-10-29T01:49:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-66088 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-66088 📢 Source: MON-CSIRT 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True In openEQUELLA before 2026.1, the system.execute() function available to the scriptin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66088",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66088:2026-10-29T01:49"
-  },
-  {
-   "ts": "2026-10-29T01:49:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-113387 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-113387 📢 Source: Canva 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True The Ortto plugin for WordPress before 1.0.25 did not authenticate configuration update reque",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113387",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113387:2026-10-29T01:49"
-  },
-  {
-   "ts": "2026-10-29T01:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21157 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-21157 📢 Source: SamsungMobile 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False Improper input validation in Bixby prior to version 4.0.85.6 allows privileged local",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21157",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21157:2026-10-29T01:19"
-  },
-  {
-   "ts": "2026-10-29T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] China’s snooping around Pacific undersea cables raises risks",
-   "body": "Lemmy · technology · 점수 61",
-   "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/:2026-10-29T00:49"
   }
  ]
 }
