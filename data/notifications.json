@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-29T01:19:07+00:00",
+ "generated_at": "2026-10-29T01:49:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-29T01:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66090 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-66090 📢 Source: MON-CSIRT 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In openEQUELLA before 2026.1, the XML parser used for item metadata does not disable exte",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66090",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66090:2026-10-29T01:49"
+  },
+  {
+   "ts": "2026-10-29T01:49:09+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-66088 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-66088 📢 Source: MON-CSIRT 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True In openEQUELLA before 2026.1, the system.execute() function available to the scriptin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66088",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66088:2026-10-29T01:49"
+  },
+  {
+   "ts": "2026-10-29T01:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113387 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-113387 📢 Source: Canva 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True The Ortto plugin for WordPress before 1.0.25 did not authenticate configuration update reque",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113387",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113387:2026-10-29T01:49"
+  },
   {
    "ts": "2026-10-29T01:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-118642",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118642:2026-10-28T19:19"
-  },
-  {
-   "ts": "2026-10-28T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118641 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-118641 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 contains an OData $filt",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118641",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118641:2026-10-28T19:19"
-  },
-  {
-   "ts": "2026-10-28T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82961 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-82961 📢 Source: zephyr 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The GPIO syscall handlers in drivers/gpio/gpio_handlers.c did not validate the pin argument",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82961",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82961:2026-10-28T17:19"
-  },
-  {
-   "ts": "2026-10-28T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106079 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-106079 📢 Source: juniper 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An Improper Neutralization of Special Elements used in an OS Command ('OS Command Injectio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106079",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106079:2026-10-28T16:49"
   }
  ]
 }
