@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-30T15:19:08+00:00",
+ "generated_at": "2026-10-30T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104067 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-104067 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Scribus before 1.6.7 contains an out-of-bounds memory access vulnerability in the impor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104067",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104067:2026-10-30T15:49"
+  },
+  {
+   "ts": "2026-10-30T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104066 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-104066 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Scribus before 1.6.7 contains a heap buffer overflow vulnerability in the Mac PICT imag",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104066",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104066:2026-10-30T15:49"
+  },
+  {
+   "ts": "2026-10-30T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104065 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-104065 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Scribus before 1.6.7 contains an out-of-bounds write vulnerability in the importdrw Mic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104065",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104065:2026-10-30T15:49"
+  },
+  {
+   "ts": "2026-10-30T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104064 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-104064 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Scribus before 1.6.7 contains an integer overflow vulnerability in the scimgdataloader_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104064",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104064:2026-10-30T15:49"
+  },
+  {
+   "ts": "2026-10-30T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104062 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-104062 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Scribus before 1.6.7 contains a heap buffer overflow vulnerability in the PICT image lo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104062",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104062:2026-10-30T15:49"
+  },
+  {
+   "ts": "2026-10-30T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104061 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-104061 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Scribus before 1.6.7 contains a heap out-of-bounds write vulnerability in the scimgdata",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104061",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104061:2026-10-30T15:49"
+  },
   {
    "ts": "2026-10-30T15:19:06+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://www.citationneeded.news/binance-theft/",
    "source": "Lemmy · technology",
    "id": "community:https://www.citationneeded.news/binance-theft/:2026-10-30T11:19"
-  },
-  {
-   "ts": "2026-10-30T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-22110 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-22110 📢 Source: DIVD 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False The web server does not check authentication on POST or PUT. An unauthenticated attacker can ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22110",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22110:2026-10-30T10:49"
-  },
-  {
-   "ts": "2026-10-30T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-22109 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-22109 📢 Source: DIVD 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False The shipped WebUI template database retains the factory default passwords for all five accoun",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22109",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22109:2026-10-30T10:49"
-  },
-  {
-   "ts": "2026-10-30T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-22105 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-22105 📢 Source: DIVD 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Delta UFC500 charging stations derive the default credentials of the Service account from cha",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22105",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22105:2026-10-30T10:49"
-  },
-  {
-   "ts": "2026-10-30T10:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2025-31704 (CVSS 9.8)",
-   "body": "🚨 CVE-2025-31704 📢 Source: dahua 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability has been found in the Dahua Intelligent Connection Center. A remote attac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-31704",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-31704:2026-10-30T10:49"
-  },
-  {
-   "ts": "2026-10-30T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85268 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-85268 📢 Source: GoogleCloud 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A Cross-Site Scripting (XSS) (CWE-79) vulnerability in the auth/handler in Google Cloud",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85268",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85268:2026-10-30T10:49"
-  },
-  {
-   "ts": "2026-10-30T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-14467 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-14467 📢 Source: INCIBE 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True An information disclosure vulnerability in the Forocoches comments editor that allows an att",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14467",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14467:2026-10-30T10:19"
   }
  ]
 }
