@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-30T21:19:07+00:00",
+ "generated_at": "2026-10-30T21:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118938 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-118938 📢 Source: BombadilSystems 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Trail of Bits fickling through 0.1.12, a pickle STACK_GLOBAL operand carrying a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118938",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118938:2026-10-30T21:49"
+  },
+  {
+   "ts": "2026-10-30T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111578 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-111578 📢 Source: WPScan 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False The PDF Invoices & Packing Slips for WooCommerce WordPress plugin from 5.16.2 before 5.16.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111578",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111578:2026-10-30T21:49"
+  },
+  {
+   "ts": "2026-10-30T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16760 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-16760 📢 Source: BombadilSystems 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Trail of Bits fickling through 0.1.12, the _process_import() method in fickle.py",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16760",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16760:2026-10-30T21:49"
+  },
   {
    "ts": "2026-10-30T20:49:07+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91914",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91914:2026-10-30T13:49"
-  },
-  {
-   "ts": "2026-10-30T13:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-119597 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-119597 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True OpenDeepWiki through 2.0.6 contains a hard-coded JWT signing key vulnerability that ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119597",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119597:2026-10-30T13:49"
-  },
-  {
-   "ts": "2026-10-30T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119578 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-119578 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False MONAI from 1.6.0 before 1.6.1 contains a remote code execution vulnerability in Auto3DS",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119578",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119578:2026-10-30T13:49"
-  },
-  {
-   "ts": "2026-10-30T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119577 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-119577 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True ArcadeDB before 26.10.2 contains an improper authorization vulnerability that allows rev",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119577",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119577:2026-10-30T13:49"
   }
  ]
 }
