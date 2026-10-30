@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-30T10:49:08+00:00",
+ "generated_at": "2026-10-30T11:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T11:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-116366 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-116366 📢 Source: ClickHouse 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True An issue has been discovered in ClickHouse Server that, under certain conditions, c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116366",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116366:2026-10-30T11:19"
+  },
+  {
+   "ts": "2026-10-30T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] We ran AI agent swarms in Minecraft and Mindustry",
+   "body": "Hacker News · 점수 295",
+   "link": "https://labs.ycombinator.com/projects/games/index.html",
+   "source": "Hacker News",
+   "id": "community:https://labs.ycombinator.com/projects/games/index.html:2026-10-30T11:19"
+  },
+  {
+   "ts": "2026-10-30T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Bluesky blocks links to leaked DHS employee data as governme",
+   "body": "Lemmy · technology · 점수 285",
+   "link": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
+   "source": "Lemmy · technology",
+   "id": "community:https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/:2026-10-30T11:19"
+  },
+  {
+   "ts": "2026-10-30T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Herdr has released native app",
+   "body": "Hacker News · 점수 222",
+   "link": "https://github.com/herdrdev/herdr-app",
+   "source": "Hacker News",
+   "id": "community:https://github.com/herdrdev/herdr-app:2026-10-30T11:19"
+  },
+  {
+   "ts": "2026-10-30T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A tiny world model running games on a Raspberry Pi Pico 2 W",
+   "body": "Hacker News · 점수 217",
+   "link": "https://github.com/SheepSeb/tinyworldformer",
+   "source": "Hacker News",
+   "id": "community:https://github.com/SheepSeb/tinyworldformer:2026-10-30T11:19"
+  },
+  {
+   "ts": "2026-10-30T11:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Attacker gets away with up to $3 billion from Binance",
+   "body": "Lemmy · technology · 점수 188",
+   "link": "https://www.citationneeded.news/binance-theft/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.citationneeded.news/binance-theft/:2026-10-30T11:19"
+  },
   {
    "ts": "2026-10-30T10:49:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119115",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119115:2026-10-29T16:49"
-  },
-  {
-   "ts": "2026-10-29T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119129 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-119129 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True ZITADEL 3.0.0 through 3.4.15 and 4.0.0 before 4.19.5 contains a missing authorization vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119129",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119129:2026-10-29T16:19"
-  },
-  {
-   "ts": "2026-10-29T16:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-119128 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-119128 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True ZITADEL 4.0.0 before 4.19.5 contains an authentication bypass vulnerability in the L",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119128",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119128:2026-10-29T16:19"
-  },
-  {
-   "ts": "2026-10-29T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119127 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-119127 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True ZITADEL 4.0.0 before 4.19.5 contains a host header injection vulnerability in the Login ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119127",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119127:2026-10-29T16:19"
-  },
-  {
-   "ts": "2026-10-29T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119120 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-119120 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Crawl4AI from 0.9.0 before 0.9.5 fails to filter the CosineStrategy model_name field in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119120",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119120:2026-10-29T16:19"
-  },
-  {
-   "ts": "2026-10-29T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119119 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-119119 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Crawl4AI before 0.9.5 contains a denial of service vulnerability in the Docker API serve",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119119",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119119:2026-10-29T16:19"
-  },
-  {
-   "ts": "2026-10-29T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119118 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-119118 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Crawl4AI before 0.9.5 contains an improper certificate validation vulnerability that all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119118",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119118:2026-10-29T16:19"
   }
  ]
 }
