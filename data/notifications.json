@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-30T14:49:08+00:00",
+ "generated_at": "2026-10-30T15:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T15:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-93327 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-93327 📢 Source: GoogleCloud 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True A Deserialization of Untrusted Data vulnerability in the SubWorkflow task in Google",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93327",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93327:2026-10-30T15:19"
+  },
   {
    "ts": "2026-10-30T14:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14467",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14467:2026-10-30T10:19"
-  },
-  {
-   "ts": "2026-10-30T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59387 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-59387 📢 Source: vmware 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The Nginx routing configuration for Cloud Controller blocks unauthenticated access to /inter",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59387",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59387:2026-10-30T09:19"
   }
  ]
 }
