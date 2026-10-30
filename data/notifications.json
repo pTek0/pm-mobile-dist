@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-10-30T19:49:08+00:00",
+ "generated_at": "2026-10-30T20:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116252 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-116252 📢 Source: PostgreSQL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False pgAdmin 4's materialized view refresh passed the target database's name to psql's --db",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116252",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116252:2026-10-30T20:19"
+  },
+  {
+   "ts": "2026-10-30T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116250 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-116250 📢 Source: PostgreSQL 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False In server mode pgAdmin 4 validates a path a user gives for a file in their storage dir",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116250",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116250:2026-10-30T20:19"
+  },
+  {
+   "ts": "2026-10-30T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116247 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-116247 📢 Source: PostgreSQL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True When a server in pgAdmin 4 had no password file, client certificate or client key confi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116247",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116247:2026-10-30T20:19"
+  },
+  {
+   "ts": "2026-10-30T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116246 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-116246 📢 Source: PostgreSQL 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False To pass a server's password to psql and to the utilities pgAdmin 4 runs as background pr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116246",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116246:2026-10-30T20:19"
+  },
+  {
+   "ts": "2026-10-30T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116245 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-116245 📢 Source: PostgreSQL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True libpq looks a connection service up in the service file of the operating-system account",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116245",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116245:2026-10-30T20:19"
+  },
+  {
+   "ts": "2026-10-30T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116244 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-116244 📢 Source: PostgreSQL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True When a pgAdmin 4 connection was not meant to use a Kerberos user's delegated credential",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116244",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116244:2026-10-30T20:19"
+  },
+  {
+   "ts": "2026-10-30T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116243 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-116243 📢 Source: PostgreSQL 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False pgAdmin 4 runs pg_dump, pg_restore, pg_dumpall and psql from the binary path a user se",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116243",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116243:2026-10-30T20:19"
+  },
+  {
+   "ts": "2026-10-30T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116242 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-116242 📢 Source: PostgreSQL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True pgAdmin 4 opens SSH tunnels with the sshtunnel library but gave it neither host_pkey_di",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116242",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116242:2026-10-30T20:19"
+  },
+  {
+   "ts": "2026-10-30T20:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-116241 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-116241 📢 Source: PostgreSQL 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True pgAdmin 4's Import/Export Data tool wraps a user's query export in a psql \\copy (..",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116241",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116241:2026-10-30T20:19"
+  },
+  {
+   "ts": "2026-10-30T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116240 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-116240 📢 Source: PostgreSQL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False In server mode pgAdmin 4 validates a path into the user's storage directory with check",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116240",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116240:2026-10-30T20:19"
+  },
+  {
+   "ts": "2026-10-30T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116239 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-116239 📢 Source: PostgreSQL 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: False In server mode pgAdmin 4 keeps an account per authentication source, so the same usern",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116239",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116239:2026-10-30T20:19"
+  },
+  {
+   "ts": "2026-10-30T20:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-116238 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-116238 📢 Source: PostgreSQL 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: False In server mode pgAdmin 4 locks an internal account after MAX_LOGIN_ATTEMPTS failed",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116238",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116238:2026-10-30T20:19"
+  },
   {
    "ts": "2026-10-30T19:49:06+00:00",
    "level": "important",
@@ -381,126 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119575",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119575:2026-10-30T13:49"
-  },
-  {
-   "ts": "2026-10-30T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119574 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-119574 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Traefik from 3.2.0 before 3.7.15 contains a data race in the experimental FastProxy that",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119574",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119574:2026-10-30T13:49"
-  },
-  {
-   "ts": "2026-10-30T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119572 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-119572 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Traefik from 3.7.0-ea.1 before 3.7.15 contains an authentication bypass vulnerability in",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119572",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119572:2026-10-30T13:49"
-  },
-  {
-   "ts": "2026-10-30T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75882 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-75882 📢 Source: ESET 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An improper access control vulnerability in ESET Endpoint Encryption and ESET Full Disk Encry",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75882",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75882:2026-10-30T13:19"
-  },
-  {
-   "ts": "2026-10-30T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91917 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-91917 📢 Source: dell 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Input Validation vuln",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91917",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91917:2026-10-30T12:49"
-  },
-  {
-   "ts": "2026-10-30T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111503 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-111503 📢 Source: dell 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Neutralization of S",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111503",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111503:2026-10-30T12:49"
-  },
-  {
-   "ts": "2026-10-30T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111504 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-111504 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Neutralization of A",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111504",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111504:2026-10-30T12:19"
-  },
-  {
-   "ts": "2026-10-30T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110972 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-110972 📢 Source: CERT-PL 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Płatnik performs client-side authentication. An attacker with access to any application i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110972",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110972:2026-10-30T12:19"
-  },
-  {
-   "ts": "2026-10-30T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110971 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-110971 📢 Source: CERT-PL 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Use of a weak password encoding algorithm in Płatnik software allows a user who obtains e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110971",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110971:2026-10-30T12:19"
-  },
-  {
-   "ts": "2026-10-30T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101213 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-101213 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Privilege Manageme",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101213",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101213:2026-10-30T12:19"
-  },
-  {
-   "ts": "2026-10-30T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101210 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-101210 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Neutralization of S",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101210",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101210:2026-10-30T12:19"
-  },
-  {
-   "ts": "2026-10-30T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101214 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-101214 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Neutralization of S",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101214",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101214:2026-10-30T12:19"
-  },
-  {
-   "ts": "2026-10-30T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111505 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-111505 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Neutralization of S",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111505",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111505:2026-10-30T12:19"
   }
  ]
 }
