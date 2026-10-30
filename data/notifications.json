@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-30T17:49:09+00:00",
+ "generated_at": "2026-10-30T18:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T18:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119777 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-119777 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in GStreamer's gst-plugins-bad H.266/VVC parser. When processing a malfor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119777",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119777:2026-10-30T18:19"
+  },
+  {
+   "ts": "2026-10-30T18:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119979 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-119979 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True LM Studio before 0.4.22+1 contains a path traversal vulnerability in the model downloade",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119979",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119979:2026-10-30T18:19"
+  },
   {
    "ts": "2026-10-30T17:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119407",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119407:2026-10-30T11:49"
-  },
-  {
-   "ts": "2026-10-30T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119379 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-119379 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False SQLite before 3.54.0 built with the session extension contains a heap buffer overflow v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119379",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119379:2026-10-30T11:49"
-  },
-  {
-   "ts": "2026-10-30T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119374 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-119374 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False SQLite before 3.54.0 built with FTS5 contains a heap buffer overflow in fts5DoSecureDel",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119374",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119374:2026-10-30T11:49"
   }
  ]
 }
