@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-30T22:49:07+00:00",
+ "generated_at": "2026-10-30T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Backdoor in Claude Code for VS Code extension on the Cursor ",
+   "body": "Hacker News · 점수 690",
+   "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+   "source": "Hacker News",
+   "id": "community:https://phorion.io/blog/offical-claude-code-vsx-compromise/:2026-10-30T23:19"
+  },
+  {
+   "ts": "2026-10-30T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Sam Altman Absolutely Hates the Idea of People Running Their",
+   "body": "Lemmy · technology · 점수 464",
+   "link": "https://futurism.com/artificial-intelligence/sam-altman-hates-local-ai-models-computers",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/artificial-intelligence/sam-altman-hates-local-ai-models-computers:2026-10-30T23:19"
+  },
+  {
+   "ts": "2026-10-30T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI isn't replacing SREs, it's deskilling them",
+   "body": "Hacker News · 점수 458",
+   "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+   "source": "Hacker News",
+   "id": "community:https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling:2026-10-30T23:19"
+  },
+  {
+   "ts": "2026-10-30T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Northflank Breached",
+   "body": "Hacker News · 점수 318",
+   "link": "https://status.northflank.com",
+   "source": "Hacker News",
+   "id": "community:https://status.northflank.com:2026-10-30T23:19"
+  },
+  {
+   "ts": "2026-10-30T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+   "body": "Hacker News · 점수 254",
+   "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+   "source": "Hacker News",
+   "id": "community:https://www.binarysecurity.no/posts/2026/10/one-root-case:2026-10-30T23:19"
+  },
   {
    "ts": "2026-10-30T21:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-112347",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112347:2026-10-30T14:19"
-  },
-  {
-   "ts": "2026-10-30T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91912 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-91912 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Use of Hard-coded Cryptograp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91912",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91912:2026-10-30T14:19"
-  },
-  {
-   "ts": "2026-10-30T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119528 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-119528 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in GIMP. The PSD plug-in’s image resource header loader uses an incorrect",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119528",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119528:2026-10-30T14:19"
-  },
-  {
-   "ts": "2026-10-30T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91913 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-91913 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Neutralization of Sp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91913",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91913:2026-10-30T14:19"
-  },
-  {
-   "ts": "2026-10-30T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86715 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-86715 📢 Source: TR-CERT 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Plaintext storage of a password vulnerability in Kriptek Crypto and Informatics Technologi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86715",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86715:2026-10-30T14:19"
-  },
-  {
-   "ts": "2026-10-30T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91914 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-91914 📢 Source: dell 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Authentication Bypass by Spo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91914",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91914:2026-10-30T13:49"
   }
  ]
 }
