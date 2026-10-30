@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-30T12:49:08+00:00",
+ "generated_at": "2026-10-30T13:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75882 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-75882 📢 Source: ESET 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An improper access control vulnerability in ESET Endpoint Encryption and ESET Full Disk Encry",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75882",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75882:2026-10-30T13:19"
+  },
   {
    "ts": "2026-10-30T12:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
    "source": "Hacker News",
    "id": "community:https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/:2026-10-29T23:49"
-  },
-  {
-   "ts": "2026-10-29T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92744 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-92744 📢 Source: Delinea 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Under certain conditions, privilege manager agent allows a remote unauthenticated attacker ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92744",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92744:2026-10-29T23:19"
   }
  ]
 }
