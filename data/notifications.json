@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-30T07:49:07+00:00",
+ "generated_at": "2026-10-30T08:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T08:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82104 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-82104 📢 Source: tlt_net 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False In Teltonika Networks RUTOS devices running versions from 7.22 through 7.24.2 and TSWO",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82104",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82104:2026-10-30T08:19"
+  },
   {
    "ts": "2026-10-30T04:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-104328",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104328:2026-10-29T15:49"
-  },
-  {
-   "ts": "2026-10-29T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104324 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-104324 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.3 could allow a remote authenticated attacker to execute a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104324",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104324:2026-10-29T15:49"
   }
  ]
 }
