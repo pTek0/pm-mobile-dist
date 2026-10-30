@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-30T16:19:07+00:00",
+ "generated_at": "2026-10-30T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112816 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-112816 📢 Source: canonical 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Improper certificate validation in the HTTPS listener in Canonical LXD 4.0.14, 5.0.10",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112816",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112816:2026-10-30T16:49"
+  },
+  {
+   "ts": "2026-10-30T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115642 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-115642 📢 Source: mitre 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True In OpenStack keystonemiddleware before 13.0.2, by supplying a custom X-Service-Token header ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115642",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115642:2026-10-30T16:49"
+  },
+  {
+   "ts": "2026-10-30T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65566 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-65566 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Meow Apps AI Engine ai-engine allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65566",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65566:2026-10-30T16:49"
+  },
+  {
+   "ts": "2026-10-30T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119148 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-119148 📢 Source: AMZN 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Incomplete string validation in AWS aws-nitro-enclaves-sdk-c before 0.4.6 may allow a third ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119148",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119148:2026-10-30T16:49"
+  },
+  {
+   "ts": "2026-10-30T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119116 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-119116 📢 Source: AMZN 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False A use-after-free and double-free issue in the SetClient command handler of the kmstool-encla",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119116",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119116:2026-10-30T16:49"
+  },
   {
    "ts": "2026-10-30T16:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-launches-personalized-pricing-compensation-inquiry",
    "source": "Lemmy · technology",
    "id": "community:https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-launches-personalized-pricing-compensation-inquiry:2026-10-30T11:49"
-  },
-  {
-   "ts": "2026-10-30T11:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-116366 (CVSS 9.5)",
-   "body": "🚨 CVE-2026-116366 📢 Source: ClickHouse 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True An issue has been discovered in ClickHouse Server that, under certain conditions, c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116366",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116366:2026-10-30T11:19"
-  },
-  {
-   "ts": "2026-10-30T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] We ran AI agent swarms in Minecraft and Mindustry",
-   "body": "Hacker News · 점수 295",
-   "link": "https://labs.ycombinator.com/projects/games/index.html",
-   "source": "Hacker News",
-   "id": "community:https://labs.ycombinator.com/projects/games/index.html:2026-10-30T11:19"
-  },
-  {
-   "ts": "2026-10-30T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Bluesky blocks links to leaked DHS employee data as governme",
-   "body": "Lemmy · technology · 점수 285",
-   "link": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
-   "source": "Lemmy · technology",
-   "id": "community:https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/:2026-10-30T11:19"
-  },
-  {
-   "ts": "2026-10-30T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Herdr has released native app",
-   "body": "Hacker News · 점수 222",
-   "link": "https://github.com/herdrdev/herdr-app",
-   "source": "Hacker News",
-   "id": "community:https://github.com/herdrdev/herdr-app:2026-10-30T11:19"
-  },
-  {
-   "ts": "2026-10-30T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A tiny world model running games on a Raspberry Pi Pico 2 W",
-   "body": "Hacker News · 점수 217",
-   "link": "https://github.com/SheepSeb/tinyworldformer",
-   "source": "Hacker News",
-   "id": "community:https://github.com/SheepSeb/tinyworldformer:2026-10-30T11:19"
   }
  ]
 }
