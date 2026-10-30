@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-30T14:19:07+00:00",
+ "generated_at": "2026-10-30T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2010-20125 (CVSS 8.7)",
+   "body": "🚨 CVE-2010-20125 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True DedeCMS before 5.7 contains a file inclusion vulnerability in plus/carbuyaction.php that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2010-20125",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2010-20125:2026-10-30T14:49"
+  },
+  {
+   "ts": "2026-10-30T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-119660 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-119660 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True MuseBot before 2.0.0 contains an authentication bypass vulnerability that allows una",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119660",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119660:2026-10-30T14:49"
+  },
+  {
+   "ts": "2026-10-30T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119656 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-119656 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True CoreShop by CoreUnion through 1.5.5 contains an unauthenticated sql injection vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119656",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119656:2026-10-30T14:49"
+  },
+  {
+   "ts": "2026-10-30T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119655 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-119655 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True CoreShop through 1.5.5 contains an unauthenticated sql injection vulnerability in the ap",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119655",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119655:2026-10-30T14:49"
+  },
+  {
+   "ts": "2026-10-30T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119654 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-119654 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True DataCap through 2025.1.1 contains a missing authorization vulnerability that allows any ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119654",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119654:2026-10-30T14:49"
+  },
   {
    "ts": "2026-10-30T14:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-59387",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59387:2026-10-30T09:19"
-  },
-  {
-   "ts": "2026-10-30T08:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82104 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-82104 📢 Source: tlt_net 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False In Teltonika Networks RUTOS devices running versions from 7.22 through 7.24.2 and TSWO",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82104",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82104:2026-10-30T08:19"
-  },
-  {
-   "ts": "2026-10-30T04:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103963 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-103963 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in glib-networking. When establishing connections using Transport Layer Se",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103963",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103963:2026-10-30T04:49"
-  },
-  {
-   "ts": "2026-10-30T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] What we know so far about Spain train crash",
-   "body": "Hacker News · 점수 130",
-   "link": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-   "source": "Hacker News",
-   "id": "community:https://www.bbc.com/news/articles/cm8xz7pkd0jjo:2026-10-30T00:49"
-  },
-  {
-   "ts": "2026-10-30T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Reddit is becoming \"a logged-in-only experience\"",
-   "body": "Lemmy · technology · 점수 118",
-   "link": "https://www.dexerto.com/entertainment/reddit-is-making-a-major-change-to-how-users-access-the-platform-3423057/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.dexerto.com/entertainment/reddit-is-making-a-major-change-to-how-users-access-the-platform-3423057/:2026-10-30T00:49"
-  },
-  {
-   "ts": "2026-10-30T00:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] US data centers could wipe out 15 years' worth of progress i",
-   "body": "Lemmy · technology · 점수 96",
-   "link": "https://www.tomshardware.com/tech-industry/data-centers/us-data-centers-could-wipe-out-15-years-worth-of-progress-in-greenhouse-gas-emissions-report-claims-buildouts-could-emit-as-much-carbon-dioxide-as-all-of-mexico",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/data-centers/us-data-centers-could-wipe-out-15-years-worth-of-progress-in-greenhouse-gas-emissions-report-claims-buildouts-could-emit-as-much-carbon-dioxide-as-all-of-mexico:2026-10-30T00:49"
   }
  ]
 }
