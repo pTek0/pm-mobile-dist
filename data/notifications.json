@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-30T12:19:07+00:00",
+ "generated_at": "2026-10-30T12:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91917 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-91917 📢 Source: dell 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Input Validation vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91917",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91917:2026-10-30T12:49"
+  },
+  {
+   "ts": "2026-10-30T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111503 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-111503 📢 Source: dell 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Neutralization of S",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111503",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111503:2026-10-30T12:49"
+  },
   {
    "ts": "2026-10-30T12:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92744",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92744:2026-10-29T23:19"
-  },
-  {
-   "ts": "2026-10-29T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Patrick Stewart has died",
-   "body": "Hacker News · 점수 1893",
-   "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-   "source": "Hacker News",
-   "id": "community:https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html:2026-10-29T23:19"
-  },
-  {
-   "ts": "2026-10-29T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] We're releasing the weights of Mistral Large 4",
-   "body": "Hacker News · 점수 1084",
-   "link": "https://mistral.ai/news/mistral-large-4-oss/",
-   "source": "Hacker News",
-   "id": "community:https://mistral.ai/news/mistral-large-4-oss/:2026-10-29T23:19"
   }
  ]
 }
