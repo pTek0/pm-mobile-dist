@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-30T19:19:07+00:00",
+ "generated_at": "2026-10-30T19:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T19:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78403 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-78403 📢 Source: THA-PSIRT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Stack-based buffer overflow and missing authorization vulnerability in Thales Sentine",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78403",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78403:2026-10-30T19:49"
+  },
+  {
+   "ts": "2026-10-30T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-78402 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-78402 📢 Source: THA-PSIRT 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Stack-based buffer overflow and out-of-bounds write vulnerability in Thales Sentinel Key",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78402",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78402:2026-10-30T19:49"
+  },
   {
    "ts": "2026-10-30T18:49:06+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111505",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111505:2026-10-30T12:19"
-  },
-  {
-   "ts": "2026-10-30T11:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-119418 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-119418 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True CakePHP through 5.4.3 contains an sql injection vulnerability that allows attackers ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119418",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119418:2026-10-30T11:49"
-  },
-  {
-   "ts": "2026-10-30T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119409 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-119409 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True OPNsense before 26.7.8 contains a command injection vulnerability that allows authentica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119409",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119409:2026-10-30T11:49"
   }
  ]
 }
