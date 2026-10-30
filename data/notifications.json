@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-30T11:49:08+00:00",
+ "generated_at": "2026-10-30T12:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111504 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-111504 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Neutralization of A",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111504",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111504:2026-10-30T12:19"
+  },
+  {
+   "ts": "2026-10-30T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110972 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-110972 📢 Source: CERT-PL 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Płatnik performs client-side authentication. An attacker with access to any application i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110972",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110972:2026-10-30T12:19"
+  },
+  {
+   "ts": "2026-10-30T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110971 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-110971 📢 Source: CERT-PL 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Use of a weak password encoding algorithm in Płatnik software allows a user who obtains e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110971",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110971:2026-10-30T12:19"
+  },
+  {
+   "ts": "2026-10-30T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101213 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-101213 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Privilege Manageme",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101213",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101213:2026-10-30T12:19"
+  },
+  {
+   "ts": "2026-10-30T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101210 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-101210 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Neutralization of S",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101210",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101210:2026-10-30T12:19"
+  },
+  {
+   "ts": "2026-10-30T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101214 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-101214 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Neutralization of S",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101214",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101214:2026-10-30T12:19"
+  },
+  {
+   "ts": "2026-10-30T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111505 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-111505 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Neutralization of S",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111505",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111505:2026-10-30T12:19"
+  },
   {
    "ts": "2026-10-30T11:49:06+00:00",
    "level": "important",
@@ -431,76 +501,6 @@
    "link": "https://mistral.ai/news/mistral-large-4-oss/",
    "source": "Hacker News",
    "id": "community:https://mistral.ai/news/mistral-large-4-oss/:2026-10-29T23:19"
-  },
-  {
-   "ts": "2026-10-29T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fun for the whole family",
-   "body": "Lemmy · programming.dev · 점수 418",
-   "link": "https://programming.dev/pictrs/image/1e8b7744-c666-401b-8d15-fbbc219733eb.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://programming.dev/pictrs/image/1e8b7744-c666-401b-8d15-fbbc219733eb.png:2026-10-29T23:19"
-  },
-  {
-   "ts": "2026-10-29T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Man granted first-of-its-kind religious exemption against ma",
-   "body": "Lemmy · technology · 점수 389",
-   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind?ICID=ref_fark",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind?ICID=ref_fark:2026-10-29T23:19"
-  },
-  {
-   "ts": "2026-10-29T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] DoorDash to acquire Instacart",
-   "body": "Hacker News · 점수 384",
-   "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-   "source": "Hacker News",
-   "id": "community:https://about.doordash.com/en-us/news/doordash-to-acquire-instacart:2026-10-29T23:19"
-  },
-  {
-   "ts": "2026-10-29T21:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-13303 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-13303 📢 Source: HashiCorp 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False HashiCorp Boundary and Boundary Enterprise are vulnerable to a server-side request forge",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13303",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13303:2026-10-29T21:19"
-  },
-  {
-   "ts": "2026-10-29T20:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119325 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-119325 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Bricks Theme 2.4 and before for WordPress contains an unauthenticated broken access cont",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119325",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119325:2026-10-29T20:49"
-  },
-  {
-   "ts": "2026-10-29T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92092 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-92092 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in openshift-ansible. The installer container's `run` script downloads and ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92092",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92092:2026-10-29T20:19"
-  },
-  {
-   "ts": "2026-10-29T19:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-103093 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-103093 📢 Source: SN 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True ServiceNow has remediated a sandbox escape security issue that was identified in the Servic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103093",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103093:2026-10-29T19:19"
   }
  ]
 }
