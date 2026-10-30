@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-30T13:19:07+00:00",
+ "generated_at": "2026-10-30T13:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91914 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-91914 📢 Source: dell 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Authentication Bypass by Spo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91914",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91914:2026-10-30T13:49"
+  },
+  {
+   "ts": "2026-10-30T13:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-119597 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-119597 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True OpenDeepWiki through 2.0.6 contains a hard-coded JWT signing key vulnerability that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119597",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119597:2026-10-30T13:49"
+  },
+  {
+   "ts": "2026-10-30T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119578 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-119578 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False MONAI from 1.6.0 before 1.6.1 contains a remote code execution vulnerability in Auto3DS",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119578",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119578:2026-10-30T13:49"
+  },
+  {
+   "ts": "2026-10-30T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119577 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-119577 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True ArcadeDB before 26.10.2 contains an improper authorization vulnerability that allows rev",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119577",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119577:2026-10-30T13:49"
+  },
+  {
+   "ts": "2026-10-30T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119575 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-119575 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ArcadeDB from 26.8.1 before 26.10.2 contains a server-side request forgery vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119575",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119575:2026-10-30T13:49"
+  },
+  {
+   "ts": "2026-10-30T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119574 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-119574 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Traefik from 3.2.0 before 3.7.15 contains a data race in the experimental FastProxy that",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119574",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119574:2026-10-30T13:49"
+  },
+  {
+   "ts": "2026-10-30T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119572 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-119572 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Traefik from 3.7.0-ea.1 before 3.7.15 contains an authentication bypass vulnerability in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119572",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119572:2026-10-30T13:49"
+  },
   {
    "ts": "2026-10-30T13:19:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://www.bbc.com/news/articles/c63djl148n3eo",
    "source": "Lemmy · technology",
    "id": "community:https://www.bbc.com/news/articles/c63djl148n3eo:2026-10-30T00:19"
-  },
-  {
-   "ts": "2026-10-30T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Finnish police have now launched a criminal investigation in",
-   "body": "Lemmy · technology · 점수 173",
-   "link": "https://yle.fi/a/74-20254086",
-   "source": "Lemmy · technology",
-   "id": "community:https://yle.fi/a/74-20254086:2026-10-30T00:19"
-  },
-  {
-   "ts": "2026-10-30T00:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Google Starved Out Publishers With AI Search. Now, Its Pivot",
-   "body": "Lemmy · technology · 점수 140",
-   "link": "https://futurism.com/artificial-intelligence/google-starved-out-publishers-ai-mode-revenue",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/google-starved-out-publishers-ai-mode-revenue:2026-10-30T00:19"
-  },
-  {
-   "ts": "2026-10-29T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Binance-hacker-1029 – $5.6B stolen from Binance",
-   "body": "Hacker News · 점수 312",
-   "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-   "source": "Hacker News",
-   "id": "community:https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8:2026-10-29T23:49"
-  },
-  {
-   "ts": "2026-10-29T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] LLM Voice",
-   "body": "Hacker News · 점수 299",
-   "link": "https://martinfowler.com/bliki/LLM-Voice.html",
-   "source": "Hacker News",
-   "id": "community:https://martinfowler.com/bliki/LLM-Voice.html:2026-10-29T23:49"
-  },
-  {
-   "ts": "2026-10-29T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] H.264 Is Magic (2016)",
-   "body": "Hacker News · 점수 278",
-   "link": "https://sidbala.com/h-264-is-magic/",
-   "source": "Hacker News",
-   "id": "community:https://sidbala.com/h-264-is-magic/:2026-10-29T23:49"
-  },
-  {
-   "ts": "2026-10-29T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Chained PHP2Shell exploit roots 25 servers, including US Gov",
-   "body": "Hacker News · 점수 261",
-   "link": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-   "source": "Hacker News",
-   "id": "community:https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers:2026-10-29T23:49"
-  },
-  {
-   "ts": "2026-10-29T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Alleged Chinese spy had 'close relationship' with Nvidia bos",
-   "body": "Hacker News · 점수 244",
-   "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
-   "source": "Hacker News",
-   "id": "community:https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/:2026-10-29T23:49"
   }
  ]
 }
