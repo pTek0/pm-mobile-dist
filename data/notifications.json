@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-10-30T10:19:07+00:00",
+ "generated_at": "2026-10-30T10:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-22110 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-22110 📢 Source: DIVD 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False The web server does not check authentication on POST or PUT. An unauthenticated attacker can ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22110",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22110:2026-10-30T10:49"
+  },
+  {
+   "ts": "2026-10-30T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-22109 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-22109 📢 Source: DIVD 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False The shipped WebUI template database retains the factory default passwords for all five accoun",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22109",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22109:2026-10-30T10:49"
+  },
+  {
+   "ts": "2026-10-30T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-22105 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-22105 📢 Source: DIVD 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Delta UFC500 charging stations derive the default credentials of the Service account from cha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22105",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22105:2026-10-30T10:49"
+  },
+  {
+   "ts": "2026-10-30T10:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-31704 (CVSS 9.8)",
+   "body": "🚨 CVE-2025-31704 📢 Source: dahua 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability has been found in the Dahua Intelligent Connection Center. A remote attac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-31704",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-31704:2026-10-30T10:49"
+  },
+  {
+   "ts": "2026-10-30T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85268 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-85268 📢 Source: GoogleCloud 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A Cross-Site Scripting (XSS) (CWE-79) vulnerability in the auth/handler in Google Cloud",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85268",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85268:2026-10-30T10:49"
+  },
   {
    "ts": "2026-10-30T10:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119118",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119118:2026-10-29T16:19"
-  },
-  {
-   "ts": "2026-10-29T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-112256 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-112256 📢 Source: OpenText 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Acceptance of extraneous untrusted data with trusted data vulnerability in OpenText A",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112256",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112256:2026-10-29T15:49"
-  },
-  {
-   "ts": "2026-10-29T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111730 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-111730 📢 Source: rt-labs 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False P-Net before 1.0.3 does not validate the LengthPeerStationName field of a CheckPeers bloc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111730",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111730:2026-10-29T15:49"
-  },
-  {
-   "ts": "2026-10-29T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107328 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-107328 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.4 could allow a remote authenticated attacker to execu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107328",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107328:2026-10-29T15:49"
-  },
-  {
-   "ts": "2026-10-29T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107327 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-107327 📢 Source: ibm 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.4 could allow a remote authenticated attacker to execu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107327",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107327:2026-10-29T15:49"
-  },
-  {
-   "ts": "2026-10-29T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107326 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-107326 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.4 could allow a remote authenticated attacker to execute a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107326",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107326:2026-10-29T15:49"
   }
  ]
 }
