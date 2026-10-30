@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-30T09:49:07+00:00",
+ "generated_at": "2026-10-30T10:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-30T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14467 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-14467 📢 Source: INCIBE 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True An information disclosure vulnerability in the Forocoches comments editor that allows an att",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14467",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14467:2026-10-30T10:19"
+  },
   {
    "ts": "2026-10-30T09:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107326",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107326:2026-10-29T15:49"
-  },
-  {
-   "ts": "2026-10-29T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-104339 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-104339 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.3 could allow a remote attacker to execute arbitrary c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104339",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104339:2026-10-29T15:49"
   }
  ]
 }
