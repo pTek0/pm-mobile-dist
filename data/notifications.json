@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-10-31T11:19:08+00:00",
+ "generated_at": "2026-10-31T11:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-31T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Fujifilm pours $64 million into magnetic tape production as ",
+   "body": "Lemmy · technology · 점수 93",
+   "link": "https://www.techspot.com/news/114394-fujifilm-pours-64-million-magnetic-tape-production-ai.html",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.techspot.com/news/114394-fujifilm-pours-64-million-magnetic-tape-production-ai.html:2026-10-31T11:49"
+  },
+  {
+   "ts": "2026-10-31T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] You should know Proton has a customer feedback website, Prot",
+   "body": "Lemmy · programming.dev · 점수 61",
+   "link": "https://protonmail.uservoice.com/",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://protonmail.uservoice.com/:2026-10-31T11:49"
+  },
   {
    "ts": "2026-10-31T11:19:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116240",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116240:2026-10-30T20:19"
-  },
-  {
-   "ts": "2026-10-30T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116239 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-116239 📢 Source: PostgreSQL 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: False In server mode pgAdmin 4 keeps an account per authentication source, so the same usern",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116239",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116239:2026-10-30T20:19"
-  },
-  {
-   "ts": "2026-10-30T20:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-116238 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-116238 📢 Source: PostgreSQL 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: False In server mode pgAdmin 4 locks an internal account after MAX_LOGIN_ATTEMPTS failed",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116238",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116238:2026-10-30T20:19"
   }
  ]
 }
