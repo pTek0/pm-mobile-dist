@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-31T09:49:07+00:00",
+ "generated_at": "2026-10-31T10:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-31T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120194 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-120194 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in json-glib. The JSONPath slice evaluator used by json_path_query() can e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120194",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120194:2026-10-31T10:19"
+  },
   {
    "ts": "2026-10-31T09:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119777",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119777:2026-10-30T18:19"
-  },
-  {
-   "ts": "2026-10-30T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119979 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-119979 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True LM Studio before 0.4.22+1 contains a path traversal vulnerability in the model downloade",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119979",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119979:2026-10-30T18:19"
   }
  ]
 }
