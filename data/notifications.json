@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-10-31T00:49:07+00:00",
+ "generated_at": "2026-10-31T01:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-31T01:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] London meetup",
+   "body": "Lobsters · 점수 59",
+   "link": "https://lobste.rs/s/dsrruj/london_meetup",
+   "source": "Lobsters",
+   "id": "community:https://lobste.rs/s/dsrruj/london_meetup:2026-10-31T01:19"
+  },
   {
    "ts": "2026-10-31T00:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-112816",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112816:2026-10-30T16:49"
-  },
-  {
-   "ts": "2026-10-30T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115642 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-115642 📢 Source: mitre 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True In OpenStack keystonemiddleware before 13.0.2, by supplying a custom X-Service-Token header ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115642",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115642:2026-10-30T16:49"
   }
  ]
 }
