@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-30T23:49:07+00:00",
+ "generated_at": "2026-10-31T00:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-31T00:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-117656 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-117656 📢 Source: EEF 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Acceptance of Extraneous Untrusted Data With Trusted Data vulnerability in the Sign in wit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117656",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117656:2026-10-31T00:19"
+  },
+  {
+   "ts": "2026-10-31T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Bunny CDN Security Incident",
+   "body": "Hacker News · 점수 161",
+   "link": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+   "source": "Hacker News",
+   "id": "community:https://status.bunny.net/incidents/p6gf1by9kr7m:2026-10-31T00:19"
+  },
+  {
+   "ts": "2026-10-31T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Breaking the open web won't stop the bad bots",
+   "body": "Hacker News · 점수 153",
+   "link": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+   "source": "Hacker News",
+   "id": "community:https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/:2026-10-31T00:19"
+  },
+  {
+   "ts": "2026-10-31T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Backdoors in Claude Code for VS, Cursor official extensions",
+   "body": "Lobsters · 점수 134",
+   "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+   "source": "Lobsters",
+   "id": "community:https://cyberplace.social/@GossiTheDog/117528831681803563:2026-10-31T00:19"
+  },
+  {
+   "ts": "2026-10-31T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Intel heads for worst day on Wall Street in more than 50 yea",
+   "body": "Lemmy · technology · 점수 134",
+   "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html:2026-10-31T00:19"
+  },
+  {
+   "ts": "2026-10-31T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] US Reps Lead Democratic Resolution Opposing A.I. Bubble Bail",
+   "body": "Lemmy · technology · 점수 125",
+   "link": "https://progressives.house.gov/press-releases?ID=DD663DD7-1BCE-4683-9352-CDDE4ECAFCE6",
+   "source": "Lemmy · technology",
+   "id": "community:https://progressives.house.gov/press-releases?ID=DD663DD7-1BCE-4683-9352-CDDE4ECAFCE6:2026-10-31T00:19"
+  },
   {
    "ts": "2026-10-30T23:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-104066",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104066:2026-10-30T15:49"
-  },
-  {
-   "ts": "2026-10-30T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104065 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-104065 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Scribus before 1.6.7 contains an out-of-bounds write vulnerability in the importdrw Mic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104065",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104065:2026-10-30T15:49"
-  },
-  {
-   "ts": "2026-10-30T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104064 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-104064 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Scribus before 1.6.7 contains an integer overflow vulnerability in the scimgdataloader_",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104064",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104064:2026-10-30T15:49"
-  },
-  {
-   "ts": "2026-10-30T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104062 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-104062 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Scribus before 1.6.7 contains a heap buffer overflow vulnerability in the PICT image lo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104062",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104062:2026-10-30T15:49"
-  },
-  {
-   "ts": "2026-10-30T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104061 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-104061 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Scribus before 1.6.7 contains a heap out-of-bounds write vulnerability in the scimgdata",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104061",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104061:2026-10-30T15:49"
-  },
-  {
-   "ts": "2026-10-30T15:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-93327 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-93327 📢 Source: GoogleCloud 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True A Deserialization of Untrusted Data vulnerability in the SubWorkflow task in Google",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93327",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93327:2026-10-30T15:19"
-  },
-  {
-   "ts": "2026-10-30T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2010-20125 (CVSS 8.7)",
-   "body": "🚨 CVE-2010-20125 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True DedeCMS before 5.7 contains a file inclusion vulnerability in plus/carbuyaction.php that ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2010-20125",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2010-20125:2026-10-30T14:49"
   }
  ]
 }
