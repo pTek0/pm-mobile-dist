@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-31T00:19:08+00:00",
+ "generated_at": "2026-10-31T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-31T00:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110176 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-110176 📢 Source: drupal 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The File Force Download module for Drupal 7 implements hook_file_download() to add a Conten",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110176",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110176:2026-10-31T00:49"
+  },
+  {
+   "ts": "2026-10-31T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI-driven layoffs are creating a new class of boomerang empl",
+   "body": "Lemmy · technology · 점수 103",
+   "link": "https://www.cnbc.com/make-it/2026/10/30/ai-rebounding-employees.html",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.cnbc.com/make-it/2026/10/30/ai-rebounding-employees.html:2026-10-31T00:49"
+  },
+  {
+   "ts": "2026-10-31T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Do At-Proto Users Know This Is Public?",
+   "body": "Lobsters · 점수 75",
+   "link": "https://melaniekat.com/blog/public-on-pds/",
+   "source": "Lobsters",
+   "id": "community:https://melaniekat.com/blog/public-on-pds/:2026-10-31T00:49"
+  },
+  {
+   "ts": "2026-10-31T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] OpenAI CEO Sam Altman says its “terrible to have everybody h",
+   "body": "Lemmy · programming.dev · 점수 68",
+   "link": "https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/:2026-10-31T00:49"
+  },
+  {
+   "ts": "2026-10-31T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] How curl was accidentally Turing-complete for nine months",
+   "body": "Lobsters · 점수 67",
+   "link": "https://seriot.ch/computation/curl.html",
+   "source": "Lobsters",
+   "id": "community:https://seriot.ch/computation/curl.html:2026-10-31T00:49"
+  },
+  {
+   "ts": "2026-10-31T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] If you love a website, back it up",
+   "body": "Lobsters · 점수 66",
+   "link": "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+   "source": "Lobsters",
+   "id": "community:http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/:2026-10-31T00:49"
+  },
   {
    "ts": "2026-10-31T00:19:06+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115642",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115642:2026-10-30T16:49"
-  },
-  {
-   "ts": "2026-10-30T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65566 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-65566 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Meow Apps AI Engine ai-engine allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65566",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65566:2026-10-30T16:49"
-  },
-  {
-   "ts": "2026-10-30T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119148 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-119148 📢 Source: AMZN 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Incomplete string validation in AWS aws-nitro-enclaves-sdk-c before 0.4.6 may allow a third ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119148",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119148:2026-10-30T16:49"
-  },
-  {
-   "ts": "2026-10-30T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119116 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-119116 📢 Source: AMZN 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False A use-after-free and double-free issue in the SetClient command handler of the kmstool-encla",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119116",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119116:2026-10-30T16:49"
-  },
-  {
-   "ts": "2026-10-30T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104615 (CVSS 7.9)",
-   "body": "🚨 CVE-2026-104615 📢 Source: suse 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: True A security vulnerability was discovered in SUSE Rancher Fleet's cluster registration flow, in",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104615",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104615:2026-10-30T16:19"
-  },
-  {
-   "ts": "2026-10-30T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104067 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-104067 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Scribus before 1.6.7 contains an out-of-bounds memory access vulnerability in the impor",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104067",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104067:2026-10-30T15:49"
-  },
-  {
-   "ts": "2026-10-30T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104066 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-104066 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Scribus before 1.6.7 contains a heap buffer overflow vulnerability in the Mac PICT imag",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104066",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104066:2026-10-30T15:49"
   }
  ]
 }
