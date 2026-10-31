@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-31T17:19:07+00:00",
+ "generated_at": "2026-10-31T17:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-10-31T17:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-120209 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-120209 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True AJ-Report through 1.7.1 signs share tokens with a hard-coded JWT secret, allowing at",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120209",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120209:2026-10-31T17:49"
+  },
+  {
+   "ts": "2026-10-31T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120208 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-120208 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True libheif 1.18.0 before 1.23.3 contains a heap-based buffer overflow vulnerability in unc_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120208",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120208:2026-10-31T17:49"
+  },
+  {
+   "ts": "2026-10-31T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120207 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-120207 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Thelia Page Module before 2.0.4 contains a cross-site request forgery vulnerability that",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120207",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120207:2026-10-31T17:49"
+  },
+  {
+   "ts": "2026-10-31T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120205 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-120205 📢 Source: VulnCheck 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True Thelia before 3.1.0 contains a stored cross-site scripting vulnerability in ForSomeCustome",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120205",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120205:2026-10-31T17:49"
+  },
+  {
+   "ts": "2026-10-31T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120203 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-120203 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ShowDoc 2.8.14 before 3.9.6 contains a code injection vulnerability in its Mock feature ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120203",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120203:2026-10-31T17:49"
+  },
+  {
+   "ts": "2026-10-31T17:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-120201 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-120201 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Jpom 2.10.0 through 2.11.12 contains an authentication bypass vulnerability that all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120201",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120201:2026-10-31T17:49"
+  },
   {
    "ts": "2026-10-31T16:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116247",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116247:2026-10-30T20:19"
-  },
-  {
-   "ts": "2026-10-30T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116246 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-116246 📢 Source: PostgreSQL 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False To pass a server's password to psql and to the utilities pgAdmin 4 runs as background pr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116246",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116246:2026-10-30T20:19"
-  },
-  {
-   "ts": "2026-10-30T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116245 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-116245 📢 Source: PostgreSQL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True libpq looks a connection service up in the service file of the operating-system account",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116245",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116245:2026-10-30T20:19"
-  },
-  {
-   "ts": "2026-10-30T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116244 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-116244 📢 Source: PostgreSQL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True When a pgAdmin 4 connection was not meant to use a Kerberos user's delegated credential",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116244",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116244:2026-10-30T20:19"
-  },
-  {
-   "ts": "2026-10-30T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116243 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-116243 📢 Source: PostgreSQL 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False pgAdmin 4 runs pg_dump, pg_restore, pg_dumpall and psql from the binary path a user se",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116243",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116243:2026-10-30T20:19"
-  },
-  {
-   "ts": "2026-10-30T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116242 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-116242 📢 Source: PostgreSQL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True pgAdmin 4 opens SSH tunnels with the sshtunnel library but gave it neither host_pkey_di",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116242",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116242:2026-10-30T20:19"
-  },
-  {
-   "ts": "2026-10-30T20:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-116241 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-116241 📢 Source: PostgreSQL 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True pgAdmin 4's Import/Export Data tool wraps a user's query export in a psql \\copy (..",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116241",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116241:2026-10-30T20:19"
   }
  ]
 }
