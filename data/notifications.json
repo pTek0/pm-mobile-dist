@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-01T12:49:07+00:00",
+ "generated_at": "2026-11-01T13:19:11+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-01T13:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-120308 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-120308 📢 Source: JFROG 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A Beta9 tenant can attach a volume when deploying a function, endpoint, or task queue. T",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120308",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120308:2026-11-01T13:19"
+  },
+  {
+   "ts": "2026-11-01T13:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-120307 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-120307 📢 Source: JFROG 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True The Beta9 worker serves the sandbox file API from outside the container. getHostPathFrom",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120307",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120307:2026-11-01T13:19"
+  },
+  {
+   "ts": "2026-11-01T13:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-120306 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-120306 📢 Source: JFROG 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Beta9 turns each shell command in a tenant image definition into a Dockerfile RUN line a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120306",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120306:2026-11-01T13:19"
+  },
   {
    "ts": "2026-11-01T11:49:08+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116964",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116964:2026-10-31T09:19"
-  },
-  {
-   "ts": "2026-10-31T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116086 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116086 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in konflux-ci. An attacker with permission to trigger automated workflow r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116086",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116086:2026-10-31T09:19"
-  },
-  {
-   "ts": "2026-10-31T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114217 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-114217 📢 Source: redhat 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False A flaw was found in konflux-ci. Continuous Integration (CI) automation scripts store sensi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114217",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114217:2026-10-31T09:19"
-  },
-  {
-   "ts": "2026-10-31T02:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116755 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-116755 📢 Source: SoftIron 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Improper Neutralization of Special Elements used in a Command ('Command Injection') in t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116755",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116755:2026-10-31T02:19"
   }
  ]
 }
