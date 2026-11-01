@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-01T15:19:07+00:00",
+ "generated_at": "2026-11-01T15:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-01T15:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-120338 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-120338 📢 Source: JFROG 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Prefab UI's Generative UI sandbox runs caller-supplied Python inside Pyodide, Python comp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120338",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120338:2026-11-01T15:49"
+  },
   {
    "ts": "2026-11-01T13:19:08+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-117681",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117681:2026-10-31T09:19"
-  },
-  {
-   "ts": "2026-10-31T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116964 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-116964 📢 Source: redhat 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in konflux-ci. An attacker with repository write access can achieve arbitr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116964",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116964:2026-10-31T09:19"
   }
  ]
 }
