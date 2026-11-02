@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-02T05:49:08+00:00",
+ "generated_at": "2026-11-02T06:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-02T06:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-11969 (CVSS 9.4)",
+   "body": "🚨 CVE-2025-11969 📢 Source: WSO2 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True The System REST APIs do not correctly enforce access control mechanisms, allowing users wi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-11969",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-11969:2026-11-02T06:19"
+  },
   {
    "ts": "2026-11-02T02:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030",
    "source": "Lemmy · technology",
    "id": "community:https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030:2026-11-01T00:19"
-  },
-  {
-   "ts": "2026-10-31T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Anthropic's Claude AI blocks video game cloning and reverse-",
-   "body": "Lemmy · technology · 점수 254",
-   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked:2026-10-31T23:49"
   }
  ]
 }
