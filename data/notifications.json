@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-02T14:49:08+00:00",
+ "generated_at": "2026-11-02T15:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-02T15:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73697 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-73697 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Control Web Panel (CWP) before webpanel_version 1.16 contains an arbitrary file write",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73697",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73697:2026-11-02T15:19"
+  },
+  {
+   "ts": "2026-11-02T15:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73696 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-73696 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Control Web Panel (CWP) before webpanel_version 1.12 contains an execution after redi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73696",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73696:2026-11-02T15:19"
+  },
+  {
+   "ts": "2026-11-02T15:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73695 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-73695 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Control Web Panel (CWP) before webpanel_version 1.16 contains a path traversal vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73695",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73695:2026-11-02T15:19"
+  },
   {
    "ts": "2026-11-02T14:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
    "source": "Hacker News",
    "id": "community:https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/:2026-11-01T23:49"
-  },
-  {
-   "ts": "2026-11-01T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: HackerBooks – HackerTube, but for books mentioned o",
-   "body": "Hacker News · 점수 728",
-   "link": "https://hackerbooks.org",
-   "source": "Hacker News",
-   "id": "community:https://hackerbooks.org:2026-11-01T23:19"
-  },
-  {
-   "ts": "2026-11-01T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Starlink Reportedly Tried to Sell Ukraine a More Expensive I",
-   "body": "Lemmy · technology · 점수 524",
-   "link": "https://truthout.org/articles/starlink-reportedly-tried-to-upsell-ukraine-on-new-plan-after-throttling-service/",
-   "source": "Lemmy · technology",
-   "id": "community:https://truthout.org/articles/starlink-reportedly-tried-to-upsell-ukraine-on-new-plan-after-throttling-service/:2026-11-01T23:19"
-  },
-  {
-   "ts": "2026-11-01T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Lenovo's 'encrypted' fingerprint USB drive is just an unencr",
-   "body": "Lemmy · technology · 점수 414",
-   "link": "https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products:2026-11-01T23:19"
   }
  ]
 }
