@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-11-02T15:19:07+00:00",
+ "generated_at": "2026-11-02T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-02T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-94290 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-94290 📢 Source: suse 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SUSE Rancher Fleet clusters reference a kubeconfig secret that the controller uses to inst",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94290",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94290:2026-11-02T15:49"
+  },
+  {
+   "ts": "2026-11-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77880 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-77880 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Control Web Panel (CWP) before webpanel_version 1.16 contains an OS command injection vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77880",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77880:2026-11-02T15:49"
+  },
+  {
+   "ts": "2026-11-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77879 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-77879 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Control Web Panel (CWP) before webpanel_version 1.16 contains a SQL injection vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77879",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77879:2026-11-02T15:49"
+  },
+  {
+   "ts": "2026-11-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77878 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-77878 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Control Web Panel (CWP) before webpanel_version 1.30 contains an OS command injection vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77878",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77878:2026-11-02T15:49"
+  },
+  {
+   "ts": "2026-11-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77877 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-77877 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Control Web Panel (CWP) before webpanel_version 1.30 contains a missing authentication v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77877",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77877:2026-11-02T15:49"
+  },
+  {
+   "ts": "2026-11-02T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77876 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-77876 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Control Web Panel (CWP) before webpanel_version 1.16 contains an OS command injection",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77876",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77876:2026-11-02T15:49"
+  },
+  {
+   "ts": "2026-11-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104080 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-104080 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Control Web Panel (CWP) before webpanel_version 1.30 contains an OS command injection v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104080",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104080:2026-11-02T15:49"
+  },
+  {
+   "ts": "2026-11-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115653 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-115653 📢 Source: eclipse 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False In Eclipse ThreadX versions 6.0.1 through 6.5.2.202603, the PendSV handler of the Cortex-M ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115653",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115653:2026-11-02T15:49"
+  },
+  {
+   "ts": "2026-11-02T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114408 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-114408 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Eclipse ThreadX NetX Duo versions 6.4.5.202504 through 6.5.2.202603a, built with IPv6 p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114408",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114408:2026-11-02T15:49"
+  },
   {
    "ts": "2026-11-02T15:19:06+00:00",
    "level": "important",
@@ -411,96 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: finance:2026-11-02T00:49"
-  },
-  {
-   "ts": "2026-11-02T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: ship-pentest",
-   "body": "**★ 2026-10-29 활동 — REA 평가·개별 MCP 결정 문서**: `mcp-toolkit/05_REA_평가_개별MCP_결정.html` 산출(번들 대신 개별 MCP를 격리 랩에 두는 결정). metrics ",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: ship-pentest:2026-11-02T00:49"
-  },
-  {
-   "ts": "2026-11-02T00:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: pentest-toolkit",
-   "body": "쉐도우 모드(관찰만) — **정체 지속(마지막 세션 07-17 → 2026-11-02 기준 108일 경과, 지난 7일 커밋 0)**, 커리큘럼도 07-03 이후 미갱신. 2026-08-10 갭분석서 정체 확인해 🟢→",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: pentest-toolkit:2026-11-02T00:49"
-  },
-  {
-   "ts": "2026-11-02T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI agent swarms unleashed in Minecraft to ‘build a thriving ",
-   "body": "Lemmy · technology · 점수 112",
-   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy:2026-11-02T00:19"
-  },
-  {
-   "ts": "2026-11-02T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Introducing Kwi, a new KDE terminal emulator",
-   "body": "Lobsters · 점수 96",
-   "link": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
-   "source": "Lobsters",
-   "id": "community:https://blogs.kde.org/2026/11/01/introducing-kwi/:2026-11-02T00:19"
-  },
-  {
-   "ts": "2026-11-01T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Patrick Stewart taught us what good men do with power",
-   "body": "Hacker News · 점수 315",
-   "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-   "source": "Hacker News",
-   "id": "community:https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism:2026-11-01T23:49"
-  },
-  {
-   "ts": "2026-11-01T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Brazilian Court Sanctions Lawyers for Prompt Injection in Co",
-   "body": "Hacker News · 점수 303",
-   "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-   "source": "Hacker News",
-   "id": "community:https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/:2026-11-01T23:49"
-  },
-  {
-   "ts": "2026-11-01T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The AI cost of JavaScript frameworks",
-   "body": "Hacker News · 점수 270",
-   "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-   "source": "Hacker News",
-   "id": "community:https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/:2026-11-01T23:49"
-  },
-  {
-   "ts": "2026-11-01T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Firm that lets you rent out your idle Mac for AI inference w",
-   "body": "Lemmy · technology · 점수 189",
-   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent:2026-11-01T23:49"
-  },
-  {
-   "ts": "2026-11-01T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Mathematics has changed. Let's act like it",
-   "body": "Hacker News · 점수 167",
-   "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-   "source": "Hacker News",
-   "id": "community:https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/:2026-11-01T23:49"
   }
  ]
 }
