@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-11-02T18:49:08+00:00",
+ "generated_at": "2026-11-02T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-02T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120065 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-120065 📢 Source: PostgreSQL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True For an updatable cursor over a table without OIDs that has an auto-increment int4 colum",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120065",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120065:2026-11-02T19:19"
+  },
+  {
+   "ts": "2026-11-02T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120064 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-120064 📢 Source: PostgreSQL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Several psqlODBC entry points use an application-supplied column number or row index as",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120064",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120064:2026-11-02T19:19"
+  },
+  {
+   "ts": "2026-11-02T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120062 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-120062 📢 Source: PostgreSQL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True SQLSpecialColumns in psqlODBC splices the table and schema names it receives into its c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120062",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120062:2026-11-02T19:19"
+  },
+  {
+   "ts": "2026-11-02T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120061 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-120061 📢 Source: PostgreSQL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The psqlODBC parser for ODBC escape sequences in application SQL text writes the argume",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120061",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120061:2026-11-02T19:19"
+  },
+  {
+   "ts": "2026-11-02T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120058 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-120058 📢 Source: PostgreSQL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True psqlODBC sizes its row cache from the column count of a cursor's first result, but reco",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120058",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120058:2026-11-02T19:19"
+  },
+  {
+   "ts": "2026-11-02T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120057 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-120057 📢 Source: PostgreSQL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True psqlODBC copies the reply to a large-object read (loread) into the application's buffer",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120057",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120057:2026-11-02T19:19"
+  },
+  {
+   "ts": "2026-11-02T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119736 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-119736 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Attendo (formerly Petpooja Payroll) Admin Android application version 3.0.13 and earlier",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119736",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119736:2026-11-02T19:19"
+  },
+  {
+   "ts": "2026-11-02T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119734 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-119734 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Munshi (by Petpooja) before 2026-06-17 contained a broken object level authorization vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119734",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119734:2026-11-02T19:19"
+  },
+  {
+   "ts": "2026-11-02T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119733 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-119733 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Munshi (by Petpooja) before 2026-07-07 contained a missing authorization vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119733",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119733:2026-11-02T19:19"
+  },
+  {
+   "ts": "2026-11-02T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119732 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-119732 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Munshi (by Petpooja) before 2026-07-28 contained a broken object level authorization vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119732",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119732:2026-11-02T19:19"
+  },
+  {
+   "ts": "2026-11-02T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119731 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-119731 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Munshi (by Petpooja) before 2026-06-30 contained a payment bypass vulnerability in its s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119731",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119731:2026-11-02T19:19"
+  },
   {
    "ts": "2026-11-02T17:49:09+00:00",
    "level": "important",
@@ -391,116 +501,6 @@
    "link": "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
    "source": "Lobsters",
    "id": "community:https://www.undeadly.org/cgi?action=article;sid=20261101115637:2026-11-02T11:49"
-  },
-  {
-   "ts": "2026-11-02T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Is my fear of C/++ Justified?",
-   "body": "Lemmy · programming.dev · 점수 51",
-   "link": "https://quokk.au/static/media/posts/eI/uS/eIuStjnj8grQwE6.webp",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://quokk.au/static/media/posts/eI/uS/eIuStjnj8grQwE6.webp:2026-11-02T11:49"
-  },
-  {
-   "ts": "2026-11-02T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ask HN: Which TV do you recommend for privacy?",
-   "body": "Hacker News · 점수 405",
-   "link": "https://news.ycombinator.com/item?id=50328896",
-   "source": "Hacker News",
-   "id": "community:https://news.ycombinator.com/item?id=50328896:2026-11-02T11:19"
-  },
-  {
-   "ts": "2026-11-02T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] OccupySaaS",
-   "body": "Hacker News · 점수 283",
-   "link": "https://occupysaas.com/",
-   "source": "Hacker News",
-   "id": "community:https://occupysaas.com/:2026-11-02T11:19"
-  },
-  {
-   "ts": "2026-11-02T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft Patents an AI That Can Literally Put Words in Peop",
-   "body": "Lemmy · technology · 점수 240",
-   "link": "https://futurism.com/artificial-intelligence/microsoft-patents-ai-words-in-peoples-mouths",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/microsoft-patents-ai-words-in-peoples-mouths:2026-11-02T11:19"
-  },
-  {
-   "ts": "2026-11-02T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] French lawmakers add $11.2 billion internet tax based on tra",
-   "body": "Lemmy · technology · 점수 104",
-   "link": "https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers:2026-11-02T11:19"
-  },
-  {
-   "ts": "2026-11-02T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] An outsider's perspective on Scion and Mononoke",
-   "body": "Lobsters · 점수 85",
-   "link": "https://typesanitizer.com/blog/scion.html",
-   "source": "Lobsters",
-   "id": "community:https://typesanitizer.com/blog/scion.html:2026-11-02T11:19"
-  },
-  {
-   "ts": "2026-11-02T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-117518 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-117518 📢 Source: openjs 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False @fastify /reply-from is a Fastify plugin that forwards requests to an upstream HTTP server",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117518",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117518:2026-11-02T10:49"
-  },
-  {
-   "ts": "2026-11-02T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-8923 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-8923 📢 Source: Zohocorp 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine Eventlog Analyzer and ManageEngine Log360 versions before 13062 are v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8923",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8923:2026-11-02T10:49"
-  },
-  {
-   "ts": "2026-11-02T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-2613 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-2613 📢 Source: WSO2 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The Admin REST API accepts user-supplied input without adequately sanitizing it, allowing it to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-2613",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-2613:2026-11-02T10:49"
-  },
-  {
-   "ts": "2026-11-02T10:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-120213 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-120213 📢 Source: openjs 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False @fastify /http-proxy is a Fastify plugin that proxies HTTP requests to an upstream ser",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120213",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120213:2026-11-02T10:49"
-  },
-  {
-   "ts": "2026-11-02T07:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18199 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-18199 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine Password Manager Pro versions before 13236 and PAM360 versions befor",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18199",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18199:2026-11-02T07:49"
   }
  ]
 }
