@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-02T16:19:07+00:00",
+ "generated_at": "2026-11-02T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-02T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119301 (CVSS 7.9)",
+   "body": "🚨 CVE-2026-119301 📢 Source: AMZN 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of quoting syntax in SQL identifier construction in the Apache Iceber",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119301",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119301:2026-11-02T16:49"
+  },
+  {
+   "ts": "2026-11-02T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88810 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-88810 📢 Source: suse 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A privilege escalation issue was discovered in Rancher Manager's role-based access control. Th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88810",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88810:2026-11-02T16:49"
+  },
   {
    "ts": "2026-11-02T16:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101176",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101176:2026-11-02T07:19"
-  },
-  {
-   "ts": "2026-11-02T06:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2025-11969 (CVSS 9.4)",
-   "body": "🚨 CVE-2025-11969 📢 Source: WSO2 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True The System REST APIs do not correctly enforce access control mechanisms, allowing users wi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-11969",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-11969:2026-11-02T06:19"
-  },
-  {
-   "ts": "2026-11-02T02:49:07+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: finance",
-   "body": "**★ 2026-11-02 ZEC 어깨 모니터 신설(ptek-capital, 알림 전용·주문 코드 없음)**: 결정론 S1~S6·레벨 관찰/주의/경고·매시 중복억제, NAS cron 3줄(매시·11-05 09:00 ",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: finance:2026-11-02T02:49"
   }
  ]
 }
