@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-02T23:19:08+00:00",
+ "generated_at": "2026-11-02T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-02T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Supermarket freezers across Europe hit by second suspected c",
+   "body": "Hacker News · 점수 347",
+   "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+   "source": "Hacker News",
+   "id": "community:https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack:2026-11-02T23:49"
+  },
+  {
+   "ts": "2026-11-02T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] If you love a website, back it up",
+   "body": "Hacker News · 점수 322",
+   "link": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+   "source": "Hacker News",
+   "id": "community:https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/:2026-11-02T23:49"
+  },
+  {
+   "ts": "2026-11-02T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] US boy names that became girl names and vice versa",
+   "body": "Hacker News · 점수 229",
+   "link": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+   "source": "Hacker News",
+   "id": "community:https://namedaisy.com/blog/boy-names-that-became-girl-names:2026-11-02T23:49"
+  },
+  {
+   "ts": "2026-11-02T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Ubuntu still has not released patch for Linux 0day RCE in al",
+   "body": "Hacker News · 점수 216",
+   "link": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+   "source": "Hacker News",
+   "id": "community:https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432:2026-11-02T23:49"
+  },
+  {
+   "ts": "2026-11-02T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Show HN: I've updated my Linux System Call website and API",
+   "body": "Hacker News · 점수 194",
+   "link": "https://syscall.sh/",
+   "source": "Hacker News",
+   "id": "community:https://syscall.sh/:2026-11-02T23:49"
+  },
   {
    "ts": "2026-11-02T23:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120442",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120442:2026-11-02T14:49"
-  },
-  {
-   "ts": "2026-11-02T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120439 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-120439 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True QuickJS-NG before 0.16.0 contains an integer overflow in js_typed_array_sort() in quickj",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120439",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120439:2026-11-02T14:49"
-  },
-  {
-   "ts": "2026-11-02T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120438 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-120438 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False QuickJS-NG before 0.16.0 contains an integer overflow in js_proxy_get_own_property_name",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120438",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120438:2026-11-02T14:49"
-  },
-  {
-   "ts": "2026-11-02T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120436 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-120436 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Netpbm before 10.86.51, 11.x before 11.02.30, and 11.03 before 11.15.08 contains an int",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120436",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120436:2026-11-02T14:49"
-  },
-  {
-   "ts": "2026-11-02T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120435 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-120435 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Netpbm before 10.86.51, 11.x before 11.02.30, and 11.03 before 11.15.08 contains a heap",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120435",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120435:2026-11-02T14:49"
-  },
-  {
-   "ts": "2026-11-02T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120434 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-120434 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Netpbm before 10.86.51, 11.x before 11.02.30, and 11.03 before 11.15.08 contains a stac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120434",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120434:2026-11-02T14:49"
   }
  ]
 }
