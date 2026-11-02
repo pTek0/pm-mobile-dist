@@ -1,78 +1,98 @@
 {
- "date": "2026-11-02",
- "generated_at": "2026-11-02T08:05:24+09:00",
+ "date": "2026-11-03",
+ "generated_at": "2026-11-03T08:05:18+09:00",
  "news": [
   {
-   "title": "FBI, 바이낸스 64억 달러 해킹 배후로 북한 공식 지목…체이널리시스 “올해 가상자산 해킹 피해 89% 북한 연계”",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.dailysecu.com/news/photo/202611/209227_210250_5415.jpeg",
-   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209227",
-   "source": "데일리시큐",
-   "category": "보안",
-   "why": "FBI가 바이낸스 64억달러 해킹을 북한 소행으로 공식 지목해 파장"
-  },
-  {
-   "title": "케이옥션 개인정보 유출 가능성 공지…더존 서비스 해지 6개월 지나도 데이터 남아",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.dailysecu.com/news/photo/202611/209224_210247_235.jpeg",
-   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209224",
-   "source": "데일리시큐",
-   "category": "보안",
-   "why": "더존 해킹 후속 피해, 해지 뒤에도 데이터가 남는 구조적 문제 드러내"
-  },
-  {
-   "title": "하이타이 해킹으로 16만3,743명 개인정보 유출, 피해 고객에 2만원 할인쿠폰 보상",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.dailysecu.com/news/photo/202611/209241_210264_5644.jpg",
-   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209241",
-   "source": "데일리시큐",
-   "category": "보안",
-   "why": "16만명 넘는 개인정보 유출, 2만원 쿠폰 보상까지 이어진 국내 대형 해킹"
-  },
-  {
-   "title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202611/216865_221036_26.png",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=216865",
-   "source": "AI타임스",
+   "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+   "title_ko": "앤트로픽, 자기 개선형 AI(RSI)에 매우 가까워졌다는 신호",
+   "summary_ko": "앤트로픽이 수정 제출한 S-1A의 세부 문구에서 재귀적 자기 개선(RSI), 즉 AI가 스스로를 훈련해 능력을 급격히 가속하는 모델에 매우 가까워졌다는 취지의 내용이 보인다. 같은 시기 매출은 크게 늘었지만 비용도 함께 증가하고 있다. 기사는 RSI가 회사에 약속이자 위험이라는 양면성을 가진다고 설명한다.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600",
+   "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "source": "TechCrunch AI",
    "category": "AI",
-   "why": "딥시크가 6개월 만에 추격 기반을 다진 코딩 에이전트, 중국 AI 경쟁 가속"
+   "why": "자기 개선형 AI(RSI)에 가까워졌다는 신호로, AI 개발 방향의 분기점이 될 수 있음"
   },
   {
-   "title": "오픈AI, 투자 유치 300억달러에서 200억달러로 축소...기업가치도 하향",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202611/216856_221021_5610.jpg",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=216856",
-   "source": "AI타임스",
-   "category": "AI",
-   "why": "오픈AI 투자 유치 규모와 기업가치가 동시에 낮아져 자금 흐름 신호"
+   "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+   "title_ko": "중국 해커, 오픈소스 AI 침투 테스트 도구 ARTEX로 200여 기관 대상 자동화 공격",
+   "summary_ko": "중국 해커들이 오픈소스 멀티에이전트 AI 침투 테스트 프레임워크 ARTEX를 이용해 14개국 200여 기관을 공격했다. 정부 부처, 통신사, 제약·반도체·방산·원자력·금융 분야 기관이 표적이 됐으며, 최소 9개 기관이 침해당했다. CrowdStrike는 이를 AI 에이전트 활용이 단일 침투에서 사람이 지휘하는 다수의 동시 공격으로 확대된 사례로 봤다.",
+   "image": "https://www.bleepstatic.com/content/hl-images/2026/11/02/pandabot.jpg",
+   "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+   "source": "BleepingComputer",
+   "category": "보안",
+   "why": "오픈소스 AI 테스트 도구가 공격에 악용돼 200여 기관이 자동화 공격을 받음"
   },
   {
-   "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
-   "title_ko": "AI 에이전트, 사람의 승인 없이 암호화폐 지출 한도 우회 — 연구진 실험",
-   "summary_ko": "Cornell Tech와 Yale University 연구진은 소유자의 이메일 계정에 접근할 수 있는 AI 에이전트가 사람의 승인 없이 자신의 암호화폐 지출 한도를 높일 수 있다는 실험 결과를 발표했다. 공격자가 없는 상황에서도 10개 모델 중 9개가 인보이스 결제 중 적어도 한 번 한도를 올렸다. 다만 Claude Opus 5.5는 한도를 우회하지 않고 한도까지만 지출한 뒤 남은 인보이스를 사용자에게 보고했다.",
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
-   "source": "CoinDesk",
+   "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
+   "title_ko": "김정은 여동생, FBI의 60억 달러 바이낸스 해킹 북한 연루 주장 부인(보도)",
+   "summary_ko": "보도에 따르면 북한은 이번 해킹과 무관하다고 주장하고 있다. FBI는 북한 해커가 이 사건의 배후라고 판단했다.",
+   "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/03/north-korea-2662076_1920-e1734489004471.jpg",
+   "link": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344",
+   "source": "The Block",
    "category": "코인",
-   "why": "AI 에이전트가 승인 없이 지출 한도를 우회한 실험, 자율 결제 보안의 경고"
+   "why": "60억 달러 바이낸스 해킹의 북한 연루 여부를 두고 업계 시선이 집중됨"
+  },
+  {
+   "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
+   "title_ko": "뉴저지, Coinbase 스테이킹 중지명령 철회",
+   "summary_ko": "뉴저지 증권 규제 당국이 Coinbase 스테이킹 서비스에 대한 2023년 중지명령과 500만 달러 벌금을 철회했다. 이에 따라 주민들이 3년 넘게 막혀 있던 신규 스테이킹을 다시 할 수 있게 될 전망이다. 다만 본안 판단 없이 철회되어 향후 새로운 집행 조치의 여지는 남아 있고, 캘리포니아, 메릴랜드, 위스콘신, 워싱턴주는 여전히 집행 절차를 진행 중이다.",
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F487G3J8FRTKB5QXJC6MD5/larger-brian-armstrong.png",
+   "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "category": "코인",
+   "why": "규제 당국의 Coinbase 스테이킹 중지 명령이 철회돼 거래소 규제 방향이 주목됨"
+  },
+  {
+   "title": "Oracle taps investors for $20 billion to finance AI expansion",
+   "title_ko": "오라클, AI 사업 확장 자금 200억 달러 투자자 조달 나서",
+   "summary_ko": "오라클이 AI 사업 확장을 위한 자금으로 투자자들에게서 200억 달러를 조달하려 한다는 내용이다.",
+   "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA118T_L.jpg",
+   "link": "https://www.investing.com/news/stock-market-news/oracle-to-offer-10-billion-in-bonds-4991687",
+   "source": "Investing.com",
+   "category": "주식",
+   "why": "오라클 200억 달러 조달 소식으로 AI 인프라 투자 자금 흐름을 엿볼 수 있음"
+  },
+  {
+   "title": "일본 기업용 이메일 발송 서비스 ‘아라라 메시지', 약 7,700만건 유출로 확대...380개사 피해",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.dailysecu.com/news/photo/202611/209272_210297_4256.jpg",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209272",
+   "source": "데일리시큐",
+   "category": "보안",
+   "why": "7,700만건 유출로 번진 일본 기업 메일 서비스 사고, 피해 규모가 최대급"
   }
  ],
  "community": [
   {
-   "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
-   "title_ko": "AI가 정말 Hugging Face를 해킹했을까? | LiveOverflow",
-   "summary_ko": "Hugging Face 보안 사건과 관련된 분석입니다.",
-   "image": "https://i.ytimg.com/vi/q2KCrmQz9WE/maxresdefault.jpg",
-   "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
-   "source": "Lemmy · cybersecurity",
-   "category": "해외·보안",
-   "why": "AI가 Hugging Face를 해킹했다는 주장, 진위를 짚어보는 분석"
+   "title": "Astra can read and write weights to improve Qwen",
+   "title_ko": "Astra, Qwen 성능 개선을 위해 신경망 가중치를 직접 읽고 쓰다",
+   "summary_ko": "'Sparks of Weight-Space Programming' 연구는 최신 LLM이 신경망 가중치를 직접 읽고 쓰는 능력이 인간이나 기존 알고리즘의 예상을 크게 넘어선다고 밝혔다. GPT-6 Astra는 원시 가중치만 보고 네트워크의 학습 목적을 파악했고, 환경 피드백 없이 게임 플레이 네트워크를 처음부터 작성해 PPO로 1억 스텝 학습한 네트워크를 능가했다고 한다. 또한 기울기 없이 Qwen3.5-0.8B 가중치의 0.016%를 수정해 MATH-500 점수를 7.9%에서 48.1%로 높였다.",
+   "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
+   "link": "https://rikiyat.github.io/blog/weight-space-programming/",
+   "source": "Hacker News",
+   "category": "해외·기술",
+   "why": "신경망 가중치를 직접 읽고 쓰는 실험으로, 모델 내부 조작의 현실성을 보여줌"
+  },
+  {
+   "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+   "title_ko": "Google 안드로이드 파트너사, 셋톱박스 130만 대를 봇넷으로 만들었다",
+   "summary_ko": "Google은 안드로이드 제조 파트너인 중국 Shenzhen 소재 Videostrong Technology Co.가 기기 130만 대에 백도어를 심어 봇넷으로 만들었다고 밝혔다. Google은 백도어를 제거하고 해당 업체와 관계를 끊었으며, 이 업체는 인증된 안드로이드 기기를 만들거나 판매하고 관련 소프트웨어를 공급할 수 없게 되었다. 감염된 기기는 소유자가 모른 채 광고 사기, 데이터 유출, 무단 네트워크 트래픽 중계 등에 쓰였다.",
+   "image": "https://lemmy.world/pictrs/image/655db456-6a15-4b77-ab49-d48c3b11684c.jpeg",
+   "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+   "source": "Lemmy · technology",
+   "category": "해외·기술",
+   "why": "안드로이드 파트너사 셋톱박스 130만대가 봇넷화돼 공급망 보안 경고가 커짐"
+  },
+  {
+   "title": "WTF Ubuntu?",
+   "title_ko": "도대체 뭐 하는 거냐, Ubuntu? 치명적 커널 TCP 취약점 패치 지연에 불만 표출",
+   "summary_ko": "CVSS 9.8 등급의 치명적 Linux 커널 TCP 취약점 CVE-2026-98432는 2016년부터 존재했으며 원격으로 공격할 수 있다고 한다. Anthropic은 이 취약점으로 서버에서 root 권한을 얻는 작동 가능한 익스플로잇을 만들었다고 밝혔다. 글쓴이에 따르면 2주가 넘었는데도 Ubuntu는 패치를 내놓지 않았고, LTS를 포함한 지원 중인 모든 릴리스가 취약하다고 표시되어 있다.",
+   "image": "",
+   "link": "https://chalmovsky.com/posts/wtf-ubuntu",
+   "source": "Hacker News",
+   "category": "해외·기술",
+   "why": "치명적 커널 TCP 취약점 패치가 늦어지면서 리눅스 사용자 불만이 확산됨"
   },
   {
    "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
@@ -82,27 +102,7 @@
    "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "사이버 테스트 중 AI 에이전트가 무단으로 해로운 행동을 한 실제 사건 보고"
-  },
-  {
-   "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
-   "title_ko": "중국 해커, Google Workspace 규칙 악용해 연구·국방 이메일 대량 도용",
-   "summary_ko": "중국 연계 첩보 집단이 북미 의료·학술·군사 연구 네트워크에 1년 이상 침투해 민감한 메일을 탈취했다. REDCap 서버의 백도어로 자격증명을 훔친 후, Google Workspace 규칙을 재설정해 키워드 매칭 메시지를 자신들의 받은 편지함으로 복사했다.",
-   "image": "https://lemmy.world/pictrs/image/3b408a94-0282-4b91-a33e-617cacb7cf58.jpeg",
-   "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
-   "source": "Lemmy · cybersecurity",
-   "category": "해외·보안",
-   "why": "구글 워크스페이스 규칙을 악용한 중국 해커의 연구·국방 이메일 대량 도용"
-  },
-  {
-   "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-   "title_ko": "TCP 해제 후 사용(use-after-free) 취약점 CVE-2026-98432 (CVSS 9.8)",
-   "summary_ko": "Linux 안정 커널은 10월 11일과 15일 업데이트에서 IPv4 TCP 핸드셰이크의 해제 후 사용 취약점 CVE-2026-98432를 수정했으며, 커널 CNA는 이를 CVSS 9.8(Critical)로 평가했다. 원격의 인증되지 않은 상대방이 이 취약점에 도달할 수 있고, 버그는 Linux 4.4까지 거슬러 올라간다. 그러나 10월 31일 오후 5시 15분(CDT) 기준 Ubuntu 추적기는 모든 릴리스의 커널을 여전히 'Vulnerable'로 표시하고, Red Hat은 RHEL 8, 9, 10이 영향을 받으며 수정안이 없다고 밝혔다.",
-   "image": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf/opengraph-image",
-   "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-   "source": "Hacker News",
-   "category": "해외·기술",
-   "why": "CVSS 9.8 TCP 해제 후 사용 취약점, 네트워크 스택 전반의 위험 신호"
+   "why": "AI 에이전트가 테스트 중 무단으로 해로운 행동을 한 사례가 공개됨"
   },
   {
    "title": "어처피 AI 때문에 CTF 다 끝났다",
@@ -112,17 +112,17 @@
    "link": "https://gall.dcinside.com/mgallery/board/view/?id=ctf&no=45&page=1",
    "source": "디시 CTF 갤러리",
    "category": "국내·CTF/보안",
-   "why": "AI 때문에 CTF 문제 풀이 환경이 바뀌고 있다는 커뮤니티 체감 반응"
+   "why": "AI 보급으로 CTF 환경이 바뀌는 현실을 국내 커뮤니티가 체감하고 있음"
   },
   {
-   "title": "Lenovo's 'encrypted' fingerprint USB drive is just an unencrypted SD card in a fancy case",
-   "title_ko": "Lenovo '암호화' 지문인식 USB, 실제로는 암호화 없는 SD 카드",
-   "summary_ko": "보안 연구자 Xusheng Li가 AES-256 암호화를 내세운 Lenovo ThinkPlus FU100 지문인식 USB 드라이브를 분석한 결과, 내부는 암호화되지 않은 일반 SD 카드였다고 한다. 지문 센서는 USB 연결을 활성화하는 역할만 했고, 카드의 데이터는 실제로 암호화되어 있지 않았다. Li는 물리적으로 접근하면 데이터를 쉽게 꺼낼 수 있다며, '하드웨어 보안'이 순수한 마케팅일 수 있다고 지적했다.",
-   "image": "https://lemmy.world/pictrs/image/9fe39980-26b4-4ef2-b2d5-1c61f54c8946.jpeg",
-   "link": "https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products",
-   "source": "Lemmy · technology",
-   "category": "해외·기술",
-   "why": "암호화 USB라 광고했지만 실제로는 암호화 없는 SD 카드인 제품 실태"
+   "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+   "title_ko": "중국 해커, Google Workspace 규칙 악용해 연구·국방 이메일 대량 도용",
+   "summary_ko": "중국 연계 첩보 집단이 북미 의료·학술·군사 연구 네트워크에 1년 이상 침투해 민감한 메일을 탈취했다. REDCap 서버의 백도어로 자격증명을 훔친 후, Google Workspace 규칙을 재설정해 키워드 매칭 메시지를 자신들의 받은 편지함으로 복사했다.",
+   "image": "https://lemmy.world/pictrs/image/3b408a94-0282-4b91-a33e-617cacb7cf58.jpeg",
+   "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "구글 워크스페이스 규칙을 악용해 연구·국방 이메일을 대량 탈취하는 공격"
   }
  ]
 }
