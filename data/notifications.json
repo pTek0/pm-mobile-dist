@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-02T13:19:07+00:00",
+ "generated_at": "2026-11-02T13:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-02T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74993 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-74993 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74993",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74993:2026-11-02T13:49"
+  },
+  {
+   "ts": "2026-11-02T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103420 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-103420 📢 Source: Joomla 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - php-web-design.com - CSRF for various actions in StageIt 1.0-5.7.5, 6.0-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103420",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103420:2026-11-02T13:49"
+  },
+  {
+   "ts": "2026-11-02T13:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105600 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-105600 📢 Source: Joomla 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - php-web-design.com - RCE via setting strings in StageIt 1.0-5.7.5, 6.0-6",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105600",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105600:2026-11-02T13:49"
+  },
   {
    "ts": "2026-11-02T13:19:07+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-62048",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62048:2026-11-01T16:19"
-  },
-  {
-   "ts": "2026-11-01T15:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-120338 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-120338 📢 Source: JFROG 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Prefab UI's Generative UI sandbox runs caller-supplied Python inside Pyodide, Python comp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120338",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120338:2026-11-01T15:49"
-  },
-  {
-   "ts": "2026-11-01T13:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-120308 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-120308 📢 Source: JFROG 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A Beta9 tenant can attach a volume when deploying a function, endpoint, or task queue. T",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120308",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120308:2026-11-01T13:19"
-  },
-  {
-   "ts": "2026-11-01T13:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-120307 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-120307 📢 Source: JFROG 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True The Beta9 worker serves the sandbox file API from outside the container. getHostPathFrom",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120307",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120307:2026-11-01T13:19"
   }
  ]
 }
