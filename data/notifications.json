@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-02T22:49:07+00:00",
+ "generated_at": "2026-11-02T23:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-02T23:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71450 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-71450 📢 Source: jci 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Authentication bypass using an alternate path or channel vulnerability in Johnson Controls Easy",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71450",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71450:2026-11-02T23:19"
+  },
+  {
+   "ts": "2026-11-02T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Astra can read and write weights to improve Qwen",
+   "body": "Hacker News · 점수 1493",
+   "link": "https://rikiyat.github.io/blog/weight-space-programming/",
+   "source": "Hacker News",
+   "id": "community:https://rikiyat.github.io/blog/weight-space-programming/:2026-11-02T23:19"
+  },
+  {
+   "ts": "2026-11-02T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] WTF Ubuntu?",
+   "body": "Hacker News · 점수 1210",
+   "link": "https://chalmovsky.com/posts/wtf-ubuntu",
+   "source": "Hacker News",
+   "id": "community:https://chalmovsky.com/posts/wtf-ubuntu:2026-11-02T23:19"
+  },
+  {
+   "ts": "2026-11-02T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Show HN: Subvocal – Talk to your computer without making noi",
+   "body": "Hacker News · 점수 446",
+   "link": "https://news.ycombinator.com/item?id=50340088",
+   "source": "Hacker News",
+   "id": "community:https://news.ycombinator.com/item?id=50340088:2026-11-02T23:19"
+  },
+  {
+   "ts": "2026-11-02T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] 'America hates data centers,' new database reveals more than",
+   "body": "Lemmy · technology · 점수 424",
+   "link": "https://www.tomshardware.com/tech-industry/data-centers/america-hates-data-centers-new-database-reveals-more-than-90-percent-of-10-000-public-comments-are-negative-only-21-percent-mention-ai-73-percent-of-meetings-had-no-data-center-supporters-water-is-the-number-one-concern",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.tomshardware.com/tech-industry/data-centers/america-hates-data-centers-new-database-reveals-more-than-90-percent-of-10-000-public-comments-are-negative-only-21-percent-mention-ai-73-percent-of-meetings-had-no-data-center-supporters-water-is-the-number-one-concern:2026-11-02T23:19"
+  },
+  {
+   "ts": "2026-11-02T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Anthropic confirms new Claude Code limits to prevent game cl",
+   "body": "Lemmy · technology · 점수 358",
+   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks:2026-11-02T23:19"
+  },
   {
    "ts": "2026-11-02T22:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120434",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120434:2026-11-02T14:49"
-  },
-  {
-   "ts": "2026-11-02T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120433 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-120433 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Netpbm before 10.86.51, 11.x before 11.02.30, and 11.03 before 11.15.08 contains a stac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120433",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120433:2026-11-02T14:49"
-  },
-  {
-   "ts": "2026-11-02T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120432 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-120432 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Netpbm before 10.86.51, 11.02.30, and 11.15.08 contains an integer overflow vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120432",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120432:2026-11-02T14:49"
-  },
-  {
-   "ts": "2026-11-02T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120431 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-120431 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Netpbm before 10.86.51, 11.x before 11.02.29, and 11.03 before 11.15.07 contains a heap",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120431",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120431:2026-11-02T14:49"
-  },
-  {
-   "ts": "2026-11-02T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120429 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-120429 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Camaleon CMS before 2.9.2 contains a missing authorization vulnerability in Admin::Media",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120429",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120429:2026-11-02T14:49"
-  },
-  {
-   "ts": "2026-11-02T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120426 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-120426 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True OpenCSG CSGHub through v2.6.0-ce contains an authorization bypass vulnerability in the u",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120426",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120426:2026-11-02T14:49"
-  },
-  {
-   "ts": "2026-11-02T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120318 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-120318 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Product Gallery Slider & Additional Variation Images for WooCommerce 2.3.23 before 2.3.2",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120318",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120318:2026-11-02T14:49"
   }
  ]
 }
