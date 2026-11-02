@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-11-02T14:19:07+00:00",
+ "generated_at": "2026-11-02T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-02T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120444 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-120444 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True GoFound through 1.4.1 contains a path traversal vulnerability that allows unauthenticate",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120444",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120444:2026-11-02T14:49"
+  },
+  {
+   "ts": "2026-11-02T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-120442 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-120442 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ape-volo-admin before 3.6.1 contains an authentication bypass vulnerability that all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120442",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120442:2026-11-02T14:49"
+  },
+  {
+   "ts": "2026-11-02T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120439 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-120439 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True QuickJS-NG before 0.16.0 contains an integer overflow in js_typed_array_sort() in quickj",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120439",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120439:2026-11-02T14:49"
+  },
+  {
+   "ts": "2026-11-02T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120438 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-120438 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False QuickJS-NG before 0.16.0 contains an integer overflow in js_proxy_get_own_property_name",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120438",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120438:2026-11-02T14:49"
+  },
+  {
+   "ts": "2026-11-02T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120436 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-120436 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Netpbm before 10.86.51, 11.x before 11.02.30, and 11.03 before 11.15.08 contains an int",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120436",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120436:2026-11-02T14:49"
+  },
+  {
+   "ts": "2026-11-02T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120435 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-120435 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Netpbm before 10.86.51, 11.x before 11.02.30, and 11.03 before 11.15.08 contains a heap",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120435",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120435:2026-11-02T14:49"
+  },
+  {
+   "ts": "2026-11-02T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120434 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-120434 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Netpbm before 10.86.51, 11.x before 11.02.30, and 11.03 before 11.15.08 contains a stac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120434",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120434:2026-11-02T14:49"
+  },
+  {
+   "ts": "2026-11-02T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120433 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-120433 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Netpbm before 10.86.51, 11.x before 11.02.30, and 11.03 before 11.15.08 contains a stac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120433",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120433:2026-11-02T14:49"
+  },
+  {
+   "ts": "2026-11-02T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120432 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-120432 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Netpbm before 10.86.51, 11.02.30, and 11.15.08 contains an integer overflow vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120432",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120432:2026-11-02T14:49"
+  },
+  {
+   "ts": "2026-11-02T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120431 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-120431 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Netpbm before 10.86.51, 11.x before 11.02.29, and 11.03 before 11.15.07 contains a heap",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120431",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120431:2026-11-02T14:49"
+  },
+  {
+   "ts": "2026-11-02T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120429 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-120429 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Camaleon CMS before 2.9.2 contains a missing authorization vulnerability in Admin::Media",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120429",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120429:2026-11-02T14:49"
+  },
+  {
+   "ts": "2026-11-02T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120426 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-120426 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True OpenCSG CSGHub through v2.6.0-ce contains an authorization bypass vulnerability in the u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120426",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120426:2026-11-02T14:49"
+  },
+  {
+   "ts": "2026-11-02T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120318 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-120318 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Product Gallery Slider & Additional Variation Images for WooCommerce 2.3.23 before 2.3.2",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120318",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120318:2026-11-02T14:49"
+  },
   {
    "ts": "2026-11-02T13:49:06+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products",
    "source": "Lemmy · technology",
    "id": "community:https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products:2026-11-01T23:19"
-  },
-  {
-   "ts": "2026-11-01T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Innocent People Are Being Accused of Shoplifting by Faulty A",
-   "body": "Lemmy · technology · 점수 412",
-   "link": "https://futurism.com/future-society/ai-facial-recognition-innocent-shoplifting-uk",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/future-society/ai-facial-recognition-innocent-shoplifting-uk:2026-11-01T23:19"
-  },
-  {
-   "ts": "2026-11-01T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Lenovo's 'encrypted' fingerprint USB is just an unencrypted ",
-   "body": "Hacker News · 점수 350",
-   "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-   "source": "Hacker News",
-   "id": "community:https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/:2026-11-01T23:19"
-  },
-  {
-   "ts": "2026-11-01T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95863 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-95863 📢 Source: apache 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of input during web page generation in Apache Wicket. Apache Wicket ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95863",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95863:2026-11-01T22:49"
-  },
-  {
-   "ts": "2026-11-01T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111089 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-111089 📢 Source: apache 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Apache Wicket reads texts from the application's resource bundles — a localized label, a cs",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111089",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111089:2026-11-01T22:49"
-  },
-  {
-   "ts": "2026-11-01T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84231 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-84231 📢 Source: apache 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of input during web page generation in Apache Wicket. org.apache.wic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84231",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84231:2026-11-01T22:49"
-  },
-  {
-   "ts": "2026-11-01T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84170 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-84170 📢 Source: apache 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Allocation of resources without limits or throttling in Apache Wicket. org.apache.wicket.mar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84170",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84170:2026-11-01T22:49"
-  },
-  {
-   "ts": "2026-11-01T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-83594 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-83594 📢 Source: apache 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Memory allocation with an excessive size value in Apache Wicket. org.apache.wicket.markup.ht",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83594",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83594:2026-11-01T22:49"
-  },
-  {
-   "ts": "2026-11-01T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-83559 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-83559 📢 Source: apache 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Improper encoding or escaping of output in Apache Wicket. org.apache.wicket.core.util.string",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83559",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83559:2026-11-01T22:49"
-  },
-  {
-   "ts": "2026-11-01T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-83539 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-83539 📢 Source: apache 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of input during web page generation in Apache Wicket. org.apache.wic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-83539",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-83539:2026-11-01T22:49"
-  },
-  {
-   "ts": "2026-11-01T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82956 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-82956 📢 Source: apache 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of input during web page generation in Apache Wicket. org.apache.wic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82956",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82956:2026-11-01T22:49"
-  },
-  {
-   "ts": "2026-11-01T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82840 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-82840 📢 Source: apache 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Session fixation in Apache Wicket. org.apache.wicket.authroles.authentication.AuthenticatedW",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82840",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82840:2026-11-01T22:19"
-  },
-  {
-   "ts": "2026-11-01T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66570 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-66570 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66570",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66570:2026-11-01T16:19"
-  },
-  {
-   "ts": "2026-11-01T16:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-62048 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-62048 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62048",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62048:2026-11-01T16:19"
   }
  ]
 }
