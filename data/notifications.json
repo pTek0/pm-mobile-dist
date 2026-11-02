@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-02T10:19:07+00:00",
+ "generated_at": "2026-11-02T10:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-02T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-117518 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-117518 📢 Source: openjs 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False @fastify /reply-from is a Fastify plugin that forwards requests to an upstream HTTP server",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117518",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117518:2026-11-02T10:49"
+  },
+  {
+   "ts": "2026-11-02T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-8923 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-8923 📢 Source: Zohocorp 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine Eventlog Analyzer and ManageEngine Log360 versions before 13062 are v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8923",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8923:2026-11-02T10:49"
+  },
+  {
+   "ts": "2026-11-02T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-2613 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-2613 📢 Source: WSO2 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The Admin REST API accepts user-supplied input without adequately sanitizing it, allowing it to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-2613",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-2613:2026-11-02T10:49"
+  },
+  {
+   "ts": "2026-11-02T10:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-120213 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-120213 📢 Source: openjs 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False @fastify /http-proxy is a Fastify plugin that proxies HTTP requests to an upstream ser",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120213",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120213:2026-11-02T10:49"
+  },
   {
    "ts": "2026-11-02T07:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://futurism.com/advanced-transport/uber-taxi-cabs-waymo-avs-workers",
    "source": "Lemmy · technology",
    "id": "community:https://futurism.com/advanced-transport/uber-taxi-cabs-waymo-avs-workers:2026-11-01T00:49"
-  },
-  {
-   "ts": "2026-11-01T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nature-Inspired Tech Prevents Microplastics Entering Atlanti",
-   "body": "Lemmy · technology · 점수 74",
-   "link": "https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/:2026-11-01T00:49"
-  },
-  {
-   "ts": "2026-11-01T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Jepsen: ParticleDB 1.1.4",
-   "body": "Lobsters · 점수 69",
-   "link": "https://jepsen.io/analyses/particledb-1.1.4",
-   "source": "Lobsters",
-   "id": "community:https://jepsen.io/analyses/particledb-1.1.4:2026-11-01T00:49"
-  },
-  {
-   "ts": "2026-11-01T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Regulated Access Memory",
-   "body": "Lemmy · programming.dev · 점수 168",
-   "link": "https://lemmy.ml/pictrs/image/206c998e-3ef5-4646-8ce1-b9181632317e.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.ml/pictrs/image/206c998e-3ef5-4646-8ce1-b9181632317e.jpeg:2026-11-01T00:19"
-  },
-  {
-   "ts": "2026-11-01T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Statement: Denmark Continues its Work on Digital Sovereignty",
-   "body": "Lemmy · technology · 점수 161",
-   "link": "https://www.collaboraonline.com/blog/denmark-continues-its-work-digital-sovereignty-collabora-office/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.collaboraonline.com/blog/denmark-continues-its-work-digital-sovereignty-collabora-office/:2026-11-01T00:19"
   }
  ]
 }
