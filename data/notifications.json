@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-02T22:19:07+00:00",
+ "generated_at": "2026-11-02T22:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-02T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120752 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-120752 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True PyMuPDF 1.25.3 before 2.0 contains a stack-based buffer overflow vulnerability in JM_set",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120752",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120752:2026-11-02T22:49"
+  },
   {
    "ts": "2026-11-02T22:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120318",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120318:2026-11-02T14:49"
-  },
-  {
-   "ts": "2026-11-02T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-74993 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-74993 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') vulner",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74993",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74993:2026-11-02T13:49"
   }
  ]
 }
