@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-03T12:49:08+00:00",
+ "generated_at": "2026-11-03T13:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121458 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-121458 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Instatic before 0.0.21 contains a missing authorization vulnerability in its AI/MCP cont",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121458",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121458:2026-11-03T13:19"
+  },
   {
    "ts": "2026-11-03T12:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://news.ycombinator.com/item?id=50340088",
    "source": "Hacker News",
    "id": "community:https://news.ycombinator.com/item?id=50340088:2026-11-02T23:19"
-  },
-  {
-   "ts": "2026-11-02T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] 'America hates data centers,' new database reveals more than",
-   "body": "Lemmy · technology · 점수 424",
-   "link": "https://www.tomshardware.com/tech-industry/data-centers/america-hates-data-centers-new-database-reveals-more-than-90-percent-of-10-000-public-comments-are-negative-only-21-percent-mention-ai-73-percent-of-meetings-had-no-data-center-supporters-water-is-the-number-one-concern",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/data-centers/america-hates-data-centers-new-database-reveals-more-than-90-percent-of-10-000-public-comments-are-negative-only-21-percent-mention-ai-73-percent-of-meetings-had-no-data-center-supporters-water-is-the-number-one-concern:2026-11-02T23:19"
   }
  ]
 }
