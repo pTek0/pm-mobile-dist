@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-03T15:19:08+00:00",
+ "generated_at": "2026-11-03T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65168 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-65168 📢 Source: nvidia 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False NVIDIA Slurm contains an attacker-controlled heap-based buffer overflow in the slurmstepd soc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65168",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65168:2026-11-03T15:49"
+  },
+  {
+   "ts": "2026-11-03T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119741 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-119741 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True rsync through 3.5.1 contains a denial of service vulnerability in the delta-transfer sen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119741",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119741:2026-11-03T15:49"
+  },
+  {
+   "ts": "2026-11-03T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118487 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-118487 📢 Source: eclipse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Eclipse Vert.x versions [4.0.0, 4.5.35] or [5.0.0, 5.2.2], the `FrameParser` in vertx-s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118487",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118487:2026-11-03T15:49"
+  },
   {
    "ts": "2026-11-03T15:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76955",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76955:2026-11-03T02:19"
-  },
-  {
-   "ts": "2026-11-03T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107441 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-107441 📢 Source: Zyxel 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False An out-of-bounds write vulnerability in the CGI program of Zyxel GS1900-24E firmware versio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107441",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107441:2026-11-03T02:19"
-  },
-  {
-   "ts": "2026-11-03T00:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120833 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-120833 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False labbench before 0.46.1 contains a deserialization of untrusted data vulnerability in re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120833",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120833:2026-11-03T00:49"
-  },
-  {
-   "ts": "2026-11-03T00:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120830 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-120830 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False A flaw was found in libslirp in icmp_forward_error(). When building an ICMP error response",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120830",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120830:2026-11-03T00:19"
   }
  ]
 }
