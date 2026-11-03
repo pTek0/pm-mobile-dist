@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-11-03T14:19:07+00:00",
+ "generated_at": "2026-11-03T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121404 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-121404 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a denial of service vulnerability in the shadow server th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121404",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121404:2026-11-03T14:49"
+  },
+  {
+   "ts": "2026-11-03T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121402 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-121402 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a NULL pointer dereference vulnerability that allows mali",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121402",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121402:2026-11-03T14:49"
+  },
+  {
+   "ts": "2026-11-03T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121400 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-121400 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a denial-of-service vulnerability in rdg_process_control_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121400",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121400:2026-11-03T14:49"
+  },
+  {
+   "ts": "2026-11-03T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121398 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-121398 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a cross-thread use-after-free vulnerability in the freerd",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121398",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121398:2026-11-03T14:49"
+  },
+  {
+   "ts": "2026-11-03T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121395 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-121395 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.17.0 before 3.32.2 contains an assertion failure in the RemoteFX differen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121395",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121395:2026-11-03T14:49"
+  },
+  {
+   "ts": "2026-11-03T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121394 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-121394 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.11.0 before 3.32.2 contains an assertion failure in the RemoteFX RLGR dec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121394",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121394:2026-11-03T14:49"
+  },
+  {
+   "ts": "2026-11-03T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121393 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-121393 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.0.0 before 3.32.2 contains a denial of service vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121393",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121393:2026-11-03T14:49"
+  },
+  {
+   "ts": "2026-11-03T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-121392 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-121392 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains an improper certificate validation vulnerability in t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121392",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121392:2026-11-03T14:49"
+  },
+  {
+   "ts": "2026-11-03T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121388 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-121388 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.0.0 before 3.32.2 contains an uncontrolled resource allocation vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121388",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121388:2026-11-03T14:49"
+  },
+  {
+   "ts": "2026-11-03T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121386 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-121386 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a denial of service vulnerability in WinPR's winpr_read_p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121386",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121386:2026-11-03T14:49"
+  },
   {
    "ts": "2026-11-03T13:49:07+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://p.migdal.pl/warsaw-vibe-voxel/",
    "source": "Hacker News",
    "id": "community:https://p.migdal.pl/warsaw-vibe-voxel/:2026-11-03T00:19"
-  },
-  {
-   "ts": "2026-11-03T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] BYD sold more EVs last month than the US did all quarter, to",
-   "body": "Hacker News · 점수 157",
-   "link": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
-   "source": "Hacker News",
-   "id": "community:https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/:2026-11-03T00:19"
-  },
-  {
-   "ts": "2026-11-03T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Intel Stock Is Cratering After Trump Poured Taxpayer Money I",
-   "body": "Lemmy · technology · 점수 86",
-   "link": "https://futurism.com/artificial-intelligence/intel-stock-cratering-trump-money",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/intel-stock-cratering-trump-money:2026-11-03T00:19"
-  },
-  {
-   "ts": "2026-11-03T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Hackers claim to have stolen 23TB of data from Russian stati",
-   "body": "Lemmy · technology · 점수 78",
-   "link": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks:2026-11-03T00:19"
-  },
-  {
-   "ts": "2026-11-03T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Jailbreaking my car's navigation system just so I can change",
-   "body": "Lobsters · 점수 59",
-   "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
-   "source": "Lobsters",
-   "id": "community:https://blog.nns.ee/2026/11/02/renault-hack/:2026-11-03T00:19"
-  },
-  {
-   "ts": "2026-11-02T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Supermarket freezers across Europe hit by second suspected c",
-   "body": "Hacker News · 점수 347",
-   "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-   "source": "Hacker News",
-   "id": "community:https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack:2026-11-02T23:49"
-  },
-  {
-   "ts": "2026-11-02T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] If you love a website, back it up",
-   "body": "Hacker News · 점수 322",
-   "link": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-   "source": "Hacker News",
-   "id": "community:https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/:2026-11-02T23:49"
-  },
-  {
-   "ts": "2026-11-02T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] US boy names that became girl names and vice versa",
-   "body": "Hacker News · 점수 229",
-   "link": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-   "source": "Hacker News",
-   "id": "community:https://namedaisy.com/blog/boy-names-that-became-girl-names:2026-11-02T23:49"
-  },
-  {
-   "ts": "2026-11-02T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ubuntu still has not released patch for Linux 0day RCE in al",
-   "body": "Hacker News · 점수 216",
-   "link": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-   "source": "Hacker News",
-   "id": "community:https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432:2026-11-02T23:49"
-  },
-  {
-   "ts": "2026-11-02T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: I've updated my Linux System Call website and API",
-   "body": "Hacker News · 점수 194",
-   "link": "https://syscall.sh/",
-   "source": "Hacker News",
-   "id": "community:https://syscall.sh/:2026-11-02T23:49"
-  },
-  {
-   "ts": "2026-11-02T23:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-71450 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-71450 📢 Source: jci 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Authentication bypass using an alternate path or channel vulnerability in Johnson Controls Easy",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71450",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71450:2026-11-02T23:19"
   }
  ]
 }
