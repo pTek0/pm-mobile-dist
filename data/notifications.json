@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-03T14:49:08+00:00",
+ "generated_at": "2026-11-03T15:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118489 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-118489 📢 Source: eclipse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Eclipse Vert.x versions [4.0.0,4.5.35] or [5.0.0,5.2.2], when one `CachingWebClient` is",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118489",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118489:2026-11-03T15:19"
+  },
   {
    "ts": "2026-11-03T14:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120830",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120830:2026-11-03T00:19"
-  },
-  {
-   "ts": "2026-11-03T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: Warsaw in voxels – An interactive 3D map of the cit",
-   "body": "Hacker News · 점수 182",
-   "link": "https://p.migdal.pl/warsaw-vibe-voxel/",
-   "source": "Hacker News",
-   "id": "community:https://p.migdal.pl/warsaw-vibe-voxel/:2026-11-03T00:19"
   }
  ]
 }
