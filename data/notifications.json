@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-03T08:49:08+00:00",
+ "generated_at": "2026-11-03T09:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105982 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-105982 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Improper input validation in the IPsec VPN function may allow a remote attacker with high ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105982",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105982:2026-11-03T09:19"
+  },
+  {
+   "ts": "2026-11-03T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105981 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-105981 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Improper input validation in the Digital I/O function may allow a remote attacker with hig",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105981",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105981:2026-11-03T09:19"
+  },
+  {
+   "ts": "2026-11-03T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105980 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-105980 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Improper input validation in the WireGuard VPN function may allow a remote attacker with h",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105980",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105980:2026-11-03T09:19"
+  },
+  {
+   "ts": "2026-11-03T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105979 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-105979 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Improper input validation in the ZeroTier VPN function may allow a remote attacker with hi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105979",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105979:2026-11-03T09:19"
+  },
+  {
+   "ts": "2026-11-03T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105978 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-105978 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Improper input validation in management control functions may allow a remote attacker with",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105978",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105978:2026-11-03T09:19"
+  },
+  {
+   "ts": "2026-11-03T09:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-121022 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-121022 📢 Source: AxxonSoft 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Use of Default Password (CWE-1393) in the web client in AxxonSoft Axxon One before 3",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121022",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121022:2026-11-03T09:19"
+  },
   {
    "ts": "2026-11-03T08:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119734",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119734:2026-11-02T19:19"
-  },
-  {
-   "ts": "2026-11-02T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119733 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-119733 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Munshi (by Petpooja) before 2026-07-07 contained a missing authorization vulnerability i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119733",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119733:2026-11-02T19:19"
-  },
-  {
-   "ts": "2026-11-02T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119732 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-119732 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Munshi (by Petpooja) before 2026-07-28 contained a broken object level authorization vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119732",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119732:2026-11-02T19:19"
-  },
-  {
-   "ts": "2026-11-02T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119731 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-119731 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Munshi (by Petpooja) before 2026-06-30 contained a payment bypass vulnerability in its s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119731",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119731:2026-11-02T19:19"
-  },
-  {
-   "ts": "2026-11-02T17:49:09+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-119085 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-119085 📢 Source: AMZN 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in a template engine in the publishing c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119085",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119085:2026-11-02T17:49"
-  },
-  {
-   "ts": "2026-11-02T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-88811 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-88811 📢 Source: suse 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Missing filtering in the SUSE Rancher Manager meta proxy could cause passed in rancher cre",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88811",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88811:2026-11-02T17:19"
-  },
-  {
-   "ts": "2026-11-02T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119301 (CVSS 7.9)",
-   "body": "🚨 CVE-2026-119301 📢 Source: AMZN 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of quoting syntax in SQL identifier construction in the Apache Iceber",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119301",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119301:2026-11-02T16:49"
   }
  ]
 }
