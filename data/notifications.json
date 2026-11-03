@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-11-03T19:49:07+00:00",
+ "generated_at": "2026-11-03T20:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95742 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-95742 📢 Source: hpe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False An arbitrary file write vulnerability exists in the underlying operating system of HPE Network",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95742",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95742:2026-11-03T20:19"
+  },
+  {
+   "ts": "2026-11-03T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95741 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-95741 📢 Source: hpe 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True A missing integrity verification vulnerability exists in the API of HPE Networking Fabric Compose",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95741",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95741:2026-11-03T20:19"
+  },
+  {
+   "ts": "2026-11-03T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95740 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-95740 📢 Source: hpe 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False An improper certificate validation vulnerability in HPE Networking Fabric Composer could allow a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95740",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95740:2026-11-03T20:19"
+  },
+  {
+   "ts": "2026-11-03T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95739 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-95739 📢 Source: hpe 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True An improper restriction of excessive authentication attempts vulnerability in the API of HPE Ne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95739",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95739:2026-11-03T20:19"
+  },
+  {
+   "ts": "2026-11-03T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95738 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-95738 📢 Source: hpe 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Authentication bypass vulnerabilities in the affected interface of HPE Networking Fabric Compos",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95738",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95738:2026-11-03T20:19"
+  },
+  {
+   "ts": "2026-11-03T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95737 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-95737 📢 Source: hpe 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False A privilege escalation vulnerability exists in the underlying operating system of HPE Networki",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95737",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95737:2026-11-03T20:19"
+  },
+  {
+   "ts": "2026-11-03T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95736 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-95736 📢 Source: hpe 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False Improper certificate validation vulnerabilities exist in the affected interface of HPE Network",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95736",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95736:2026-11-03T20:19"
+  },
+  {
+   "ts": "2026-11-03T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95735 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-95735 📢 Source: hpe 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An improper certificate validation vulnerability exists in HPE Networking Fabric Composer. Succ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95735",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95735:2026-11-03T20:19"
+  },
+  {
+   "ts": "2026-11-03T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95734 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-95734 📢 Source: hpe 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A sensitive information disclosure vulnerability in the API of HPE Networking Fabric Composer c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95734",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95734:2026-11-03T20:19"
+  },
+  {
+   "ts": "2026-11-03T20:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-95733 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-95733 📢 Source: hpe 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False A vulnerability exists in a component of HPE Networking Fabric Composer. Successful exploi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95733",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95733:2026-11-03T20:19"
+  },
+  {
+   "ts": "2026-11-03T20:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-95732 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-95732 📢 Source: hpe 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False An authentication bypass vulnerability exists in the underlying operating system of HPE Ne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95732",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95732:2026-11-03T20:19"
+  },
+  {
+   "ts": "2026-11-03T20:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-95731 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-95731 📢 Source: hpe 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Hardcoded password vulnerabilities in the command-line interface of HPE Networking Fabric C",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95731",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95731:2026-11-03T20:19"
+  },
   {
    "ts": "2026-11-03T19:49:06+00:00",
    "level": "general",
@@ -381,126 +501,6 @@
    "link": "https://gizmodo.com/a-raspberry-pi-just-got-26-pricier-you-should-be-worried-2000833783",
    "source": "Lemmy · technology",
    "id": "community:https://gizmodo.com/a-raspberry-pi-just-got-26-pricier-you-should-be-worried-2000833783:2026-11-03T11:49"
-  },
-  {
-   "ts": "2026-11-03T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Brutal NIMBY Regulations Are Crushing the Kind of Solar Farm",
-   "body": "Lemmy · technology · 점수 113",
-   "link": "https://futurism.com/science-energy/regulations-crushing-solar-farms-bees-ecology-alberta",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/science-energy/regulations-crushing-solar-farms-bees-ecology-alberta:2026-11-03T11:49"
-  },
-  {
-   "ts": "2026-11-03T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Supermarket Freezers Across Europe Hit With Another Cyberatt",
-   "body": "Lemmy · technology · 점수 86",
-   "link": "https://gizmodo.com/supermarket-freezers-across-europe-hit-with-another-cyberattack-2000833828",
-   "source": "Lemmy · technology",
-   "id": "community:https://gizmodo.com/supermarket-freezers-across-europe-hit-with-another-cyberattack-2000833828:2026-11-03T11:49"
-  },
-  {
-   "ts": "2026-11-03T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] New York Times and other outlets sue web browser Brave over ",
-   "body": "Lemmy · technology · 점수 72",
-   "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-   "source": "Lemmy · technology",
-   "id": "community:https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/:2026-11-03T11:49"
-  },
-  {
-   "ts": "2026-11-03T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A Decade of Kill Bugs",
-   "body": "Lobsters · 점수 54",
-   "link": "https://alangrow.com/blog/a-decade-of-kill-bugs",
-   "source": "Lobsters",
-   "id": "community:https://alangrow.com/blog/a-decade-of-kill-bugs:2026-11-03T11:49"
-  },
-  {
-   "ts": "2026-11-03T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Proton users cancel subscriptions following CEO Andy Yen’s “",
-   "body": "Lemmy · technology · 점수 529",
-   "link": "https://cybernews.com/ai-news/proton-cancel-subscriptions/",
-   "source": "Lemmy · technology",
-   "id": "community:https://cybernews.com/ai-news/proton-cancel-subscriptions/:2026-11-03T11:19"
-  },
-  {
-   "ts": "2026-11-03T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The SEC Should Block Anthropic's IPO to Protect the Public",
-   "body": "Hacker News · 점수 361",
-   "link": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-   "source": "Hacker News",
-   "id": "community:https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/:2026-11-03T11:19"
-  },
-  {
-   "ts": "2026-11-03T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: Hacker Times, a New York Times-inspired version of ",
-   "body": "Hacker News · 점수 288",
-   "link": "https://hackertimes.ca/",
-   "source": "Hacker News",
-   "id": "community:https://hackertimes.ca/:2026-11-03T11:19"
-  },
-  {
-   "ts": "2026-11-03T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Scaling Git at OpenAI",
-   "body": "Hacker News · 점수 233",
-   "link": "https://openai.com/index/scaling-git-at-openai/",
-   "source": "Hacker News",
-   "id": "community:https://openai.com/index/scaling-git-at-openai/:2026-11-03T11:19"
-  },
-  {
-   "ts": "2026-11-03T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] One of Google’s Android partners turned 1.3 million set-top ",
-   "body": "Lemmy · technology · 점수 200",
-   "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theverge.com/1024807/google-botnet-android-tv-shut-down:2026-11-03T11:19"
-  },
-  {
-   "ts": "2026-11-03T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77691 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-77691 📢 Source: Zohocorp 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine Key Manager Plus versions before 7151 allow authenticated users to e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77691",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77691:2026-11-03T10:19"
-  },
-  {
-   "ts": "2026-11-03T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120333 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-120333 📢 Source: TYPO3 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The actions linked in the emails of the extension (e.g. to confirm a registration or the del",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120333",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120333:2026-11-03T10:19"
-  },
-  {
-   "ts": "2026-11-03T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120330 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-120330 📢 Source: TYPO3 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Backend actions and ajax routes of the mail module do not check whether the backend user has",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120330",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120330:2026-11-03T10:19"
   }
  ]
 }
