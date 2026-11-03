@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-03T13:19:08+00:00",
+ "generated_at": "2026-11-03T13:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119742 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-119742 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Nagios XI before 2026R2 contains an OS command injection vulnerability in the MIB upload",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119742",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119742:2026-11-03T13:49"
+  },
+  {
+   "ts": "2026-11-03T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85035 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-85035 📢 Source: zephyr 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The can_add_rx_filter_msgq() system call installs a CAN RX filter whose callback (can_msgq_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85035",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85035:2026-11-03T13:49"
+  },
+  {
+   "ts": "2026-11-03T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119179 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-119179 📢 Source: mongodb 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True A flaw in the connection management layer of the MongoDB Node.js driver can leave a pooled",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119179",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119179:2026-11-03T13:49"
+  },
   {
    "ts": "2026-11-03T13:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71450",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71450:2026-11-02T23:19"
-  },
-  {
-   "ts": "2026-11-02T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Astra can read and write weights to improve Qwen",
-   "body": "Hacker News · 점수 1493",
-   "link": "https://rikiyat.github.io/blog/weight-space-programming/",
-   "source": "Hacker News",
-   "id": "community:https://rikiyat.github.io/blog/weight-space-programming/:2026-11-02T23:19"
-  },
-  {
-   "ts": "2026-11-02T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] WTF Ubuntu?",
-   "body": "Hacker News · 점수 1210",
-   "link": "https://chalmovsky.com/posts/wtf-ubuntu",
-   "source": "Hacker News",
-   "id": "community:https://chalmovsky.com/posts/wtf-ubuntu:2026-11-02T23:19"
-  },
-  {
-   "ts": "2026-11-02T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: Subvocal – Talk to your computer without making noi",
-   "body": "Hacker News · 점수 446",
-   "link": "https://news.ycombinator.com/item?id=50340088",
-   "source": "Hacker News",
-   "id": "community:https://news.ycombinator.com/item?id=50340088:2026-11-02T23:19"
   }
  ]
 }
