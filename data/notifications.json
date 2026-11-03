@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-03T09:49:07+00:00",
+ "generated_at": "2026-11-03T10:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77691 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-77691 📢 Source: Zohocorp 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine Key Manager Plus versions before 7151 allow authenticated users to e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77691",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77691:2026-11-03T10:19"
+  },
+  {
+   "ts": "2026-11-03T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120333 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-120333 📢 Source: TYPO3 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The actions linked in the emails of the extension (e.g. to confirm a registration or the del",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120333",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120333:2026-11-03T10:19"
+  },
+  {
+   "ts": "2026-11-03T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120330 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-120330 📢 Source: TYPO3 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Backend actions and ajax routes of the mail module do not check whether the backend user has",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120330",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120330:2026-11-03T10:19"
+  },
   {
    "ts": "2026-11-03T09:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120065",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120065:2026-11-02T19:19"
-  },
-  {
-   "ts": "2026-11-02T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120064 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-120064 📢 Source: PostgreSQL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Several psqlODBC entry points use an application-supplied column number or row index as",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120064",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120064:2026-11-02T19:19"
-  },
-  {
-   "ts": "2026-11-02T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120062 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-120062 📢 Source: PostgreSQL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True SQLSpecialColumns in psqlODBC splices the table and schema names it receives into its c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120062",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120062:2026-11-02T19:19"
-  },
-  {
-   "ts": "2026-11-02T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120061 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-120061 📢 Source: PostgreSQL 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The psqlODBC parser for ODBC escape sequences in application SQL text writes the argume",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120061",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120061:2026-11-02T19:19"
   }
  ]
 }
