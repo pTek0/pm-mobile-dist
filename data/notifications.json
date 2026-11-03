@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-11-03T22:49:07+00:00",
+ "generated_at": "2026-11-03T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2022-30267 (CVSS 8.7)",
+   "body": "🚨 CVE-2022-30267 📢 Source: icscert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Emerson Ovation was found to have no authentication of firmware signing and relies on an in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2022-30267",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-30267:2026-11-03T23:19"
+  },
+  {
+   "ts": "2026-11-03T23:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2022-29966 (CVSS 9.8)",
+   "body": "🚨 CVE-2022-29966 📢 Source: icscert 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Emerson Ovation has several protocols that have no authentication, which could allow an",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2022-29966",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2022-29966:2026-11-03T23:19"
+  },
+  {
+   "ts": "2026-11-03T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121731 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-121731 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True RosarioSIS before 12.9 contains a sql injection vulnerability that allows authenticated ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121731",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121731:2026-11-03T23:19"
+  },
+  {
+   "ts": "2026-11-03T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121730 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-121730 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True emailflare before commit cf31f33 contains a missing authorization vulnerability in POST ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121730",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121730:2026-11-03T23:19"
+  },
+  {
+   "ts": "2026-11-03T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121729 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-121729 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True emailflare before commit cf31f33 contains a missing authorization vulnerability in the i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121729",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121729:2026-11-03T23:19"
+  },
+  {
+   "ts": "2026-11-03T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121727 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-121727 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Kore before 4.3.0 contains an integer underflow vulnerability in HTTP request body handl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121727",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121727:2026-11-03T23:19"
+  },
+  {
+   "ts": "2026-11-03T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109836 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-109836 📢 Source: jpcert 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False The Core Temp kernel driver provided by ALCPU is vulnerable to insufficient access control",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109836",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109836:2026-11-03T23:19"
+  },
+  {
+   "ts": "2026-11-03T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104608 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-104608 📢 Source: GitHub_P 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A remote code execution vulnerability was identified in GitHub Enterprise Server in the G",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104608",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104608:2026-11-03T23:19"
+  },
+  {
+   "ts": "2026-11-03T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Postman silently auto-installs AI plugins and attempts to sh",
+   "body": "Hacker News · 점수 900",
+   "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+   "source": "Hacker News",
+   "id": "community:https://github.com/postmanlabs/postman-app-support/issues/14370:2026-11-03T23:19"
+  },
+  {
+   "ts": "2026-11-03T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The 'Astra can read and write weights to improve Qwen' post ",
+   "body": "Hacker News · 점수 852",
+   "link": "https://honnibal.dev/blog/astra-read-write-misleading",
+   "source": "Hacker News",
+   "id": "community:https://honnibal.dev/blog/astra-read-write-misleading:2026-11-03T23:19"
+  },
+  {
+   "ts": "2026-11-03T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Google will turn off search for schools that reject AI",
+   "body": "Hacker News · 점수 507",
+   "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+   "source": "Hacker News",
+   "id": "community:https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html:2026-11-03T23:19"
+  },
+  {
+   "ts": "2026-11-03T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Kalshi and its co-founders face felony charges for violating",
+   "body": "Hacker News · 점수 416",
+   "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+   "source": "Hacker News",
+   "id": "community:https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/:2026-11-03T23:19"
+  },
+  {
+   "ts": "2026-11-03T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "body": "Hacker News · 점수 414",
+   "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "source": "Hacker News",
+   "id": "community:https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/:2026-11-03T23:19"
+  },
   {
    "ts": "2026-11-03T22:19:06+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103916",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103916:2026-11-03T16:49"
-  },
-  {
-   "ts": "2026-11-03T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119675 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-119675 📢 Source: mongodb 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False MongoDB Database Tools mongorestore inconsistently handles the system.buckets. prefix whe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119675",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119675:2026-11-03T16:49"
-  },
-  {
-   "ts": "2026-11-03T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119215 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-119215 📢 Source: EEF 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key vulnerability in team-alembic ash_authenticat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119215",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119215:2026-11-03T16:19"
-  },
-  {
-   "ts": "2026-11-03T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65168 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-65168 📢 Source: nvidia 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False NVIDIA Slurm contains an attacker-controlled heap-based buffer overflow in the slurmstepd soc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65168",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65168:2026-11-03T15:49"
-  },
-  {
-   "ts": "2026-11-03T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119741 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-119741 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True rsync through 3.5.1 contains a denial of service vulnerability in the delta-transfer sen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119741",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119741:2026-11-03T15:49"
-  },
-  {
-   "ts": "2026-11-03T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118487 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-118487 📢 Source: eclipse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Eclipse Vert.x versions [4.0.0, 4.5.35] or [5.0.0, 5.2.2], the `FrameParser` in vertx-s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118487",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118487:2026-11-03T15:49"
-  },
-  {
-   "ts": "2026-11-03T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118489 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-118489 📢 Source: eclipse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Eclipse Vert.x versions [4.0.0,4.5.35] or [5.0.0,5.2.2], when one `CachingWebClient` is",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118489",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118489:2026-11-03T15:19"
-  },
-  {
-   "ts": "2026-11-03T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121404 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-121404 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a denial of service vulnerability in the shadow server th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121404",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121404:2026-11-03T14:49"
-  },
-  {
-   "ts": "2026-11-03T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121402 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-121402 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a NULL pointer dereference vulnerability that allows mali",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121402",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121402:2026-11-03T14:49"
-  },
-  {
-   "ts": "2026-11-03T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121400 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-121400 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a denial-of-service vulnerability in rdg_process_control_",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121400",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121400:2026-11-03T14:49"
-  },
-  {
-   "ts": "2026-11-03T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121398 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-121398 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a cross-thread use-after-free vulnerability in the freerd",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121398",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121398:2026-11-03T14:49"
-  },
-  {
-   "ts": "2026-11-03T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121395 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-121395 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.17.0 before 3.32.2 contains an assertion failure in the RemoteFX differen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121395",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121395:2026-11-03T14:49"
-  },
-  {
-   "ts": "2026-11-03T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121394 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-121394 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.11.0 before 3.32.2 contains an assertion failure in the RemoteFX RLGR dec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121394",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121394:2026-11-03T14:49"
-  },
-  {
-   "ts": "2026-11-03T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121393 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-121393 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.0.0 before 3.32.2 contains a denial of service vulnerability that allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121393",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121393:2026-11-03T14:49"
   }
  ]
 }
