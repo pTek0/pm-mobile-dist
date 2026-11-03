@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-02T23:49:07+00:00",
+ "generated_at": "2026-11-03T00:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T00:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120830 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-120830 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False A flaw was found in libslirp in icmp_forward_error(). When building an ICMP error response",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120830",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120830:2026-11-03T00:19"
+  },
+  {
+   "ts": "2026-11-03T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Show HN: Warsaw in voxels – An interactive 3D map of the cit",
+   "body": "Hacker News · 점수 182",
+   "link": "https://p.migdal.pl/warsaw-vibe-voxel/",
+   "source": "Hacker News",
+   "id": "community:https://p.migdal.pl/warsaw-vibe-voxel/:2026-11-03T00:19"
+  },
+  {
+   "ts": "2026-11-03T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] BYD sold more EVs last month than the US did all quarter, to",
+   "body": "Hacker News · 점수 157",
+   "link": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
+   "source": "Hacker News",
+   "id": "community:https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/:2026-11-03T00:19"
+  },
+  {
+   "ts": "2026-11-03T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Intel Stock Is Cratering After Trump Poured Taxpayer Money I",
+   "body": "Lemmy · technology · 점수 86",
+   "link": "https://futurism.com/artificial-intelligence/intel-stock-cratering-trump-money",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/artificial-intelligence/intel-stock-cratering-trump-money:2026-11-03T00:19"
+  },
+  {
+   "ts": "2026-11-03T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Hackers claim to have stolen 23TB of data from Russian stati",
+   "body": "Lemmy · technology · 점수 78",
+   "link": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks:2026-11-03T00:19"
+  },
+  {
+   "ts": "2026-11-03T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Jailbreaking my car's navigation system just so I can change",
+   "body": "Lobsters · 점수 59",
+   "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
+   "source": "Lobsters",
+   "id": "community:https://blog.nns.ee/2026/11/02/renault-hack/:2026-11-03T00:19"
+  },
   {
    "ts": "2026-11-02T23:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115653",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115653:2026-11-02T15:49"
-  },
-  {
-   "ts": "2026-11-02T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114408 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-114408 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Eclipse ThreadX NetX Duo versions 6.4.5.202504 through 6.5.2.202603a, built with IPv6 p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114408",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114408:2026-11-02T15:49"
-  },
-  {
-   "ts": "2026-11-02T15:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73697 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-73697 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Control Web Panel (CWP) before webpanel_version 1.16 contains an arbitrary file write",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73697",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73697:2026-11-02T15:19"
-  },
-  {
-   "ts": "2026-11-02T15:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73696 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-73696 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Control Web Panel (CWP) before webpanel_version 1.12 contains an execution after redi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73696",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73696:2026-11-02T15:19"
-  },
-  {
-   "ts": "2026-11-02T15:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73695 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-73695 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Control Web Panel (CWP) before webpanel_version 1.16 contains a path traversal vulner",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73695",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73695:2026-11-02T15:19"
-  },
-  {
-   "ts": "2026-11-02T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120444 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-120444 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True GoFound through 1.4.1 contains a path traversal vulnerability that allows unauthenticate",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120444",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120444:2026-11-02T14:49"
-  },
-  {
-   "ts": "2026-11-02T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-120442 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-120442 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ape-volo-admin before 3.6.1 contains an authentication bypass vulnerability that all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120442",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120442:2026-11-02T14:49"
   }
  ]
 }
