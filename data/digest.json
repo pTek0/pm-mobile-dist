@@ -1,99 +1,69 @@
 {
- "date": "2026-11-03",
- "generated_at": "2026-11-03T08:05:18+09:00",
+ "date": "2026-11-04",
+ "generated_at": "2026-11-04T08:05:18+09:00",
  "news": [
   {
-   "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-   "title_ko": "앤트로픽, 자기 개선형 AI(RSI)에 매우 가까워졌다는 신호",
-   "summary_ko": "앤트로픽이 수정 제출한 S-1A의 세부 문구에서 재귀적 자기 개선(RSI), 즉 AI가 스스로를 훈련해 능력을 급격히 가속하는 모델에 매우 가까워졌다는 취지의 내용이 보인다. 같은 시기 매출은 크게 늘었지만 비용도 함께 증가하고 있다. 기사는 RSI가 회사에 약속이자 위험이라는 양면성을 가진다고 설명한다.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600",
-   "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-   "source": "TechCrunch AI",
+   "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+   "title_ko": "OpenAI, GPT-6 Astra로 하드웨어 기기를 일주일 안에 설계했다고 발표",
+   "summary_ko": "OpenAI 하드웨어 팀이 GPT-6 Astra를 활용해 사용자가 Codex 코딩 에이전트와 대화할 수 있는 기기를 일주일 안에 설계했다고 보도됐다. 외함 설계부터 PCB, 펌웨어, 사용자 인터페이스까지 Astra가 처리했으나, 양산 전 제조 제약을 충분히 고려하지 못해 여러 차례 수정이 필요했다.",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_ai_hardware.png",
+   "link": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
+   "source": "The Decoder",
    "category": "AI",
-   "why": "자기 개선형 AI(RSI)에 가까워졌다는 신호로, AI 개발 방향의 분기점이 될 수 있음"
+   "why": "하드웨어 설계까지 AI가 일주일 만에 수행, 개발 방식 자체가 바뀌는 신호"
   },
   {
-   "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
-   "title_ko": "중국 해커, 오픈소스 AI 침투 테스트 도구 ARTEX로 200여 기관 대상 자동화 공격",
-   "summary_ko": "중국 해커들이 오픈소스 멀티에이전트 AI 침투 테스트 프레임워크 ARTEX를 이용해 14개국 200여 기관을 공격했다. 정부 부처, 통신사, 제약·반도체·방산·원자력·금융 분야 기관이 표적이 됐으며, 최소 9개 기관이 침해당했다. CrowdStrike는 이를 AI 에이전트 활용이 단일 침투에서 사람이 지휘하는 다수의 동시 공격으로 확대된 사례로 봤다.",
-   "image": "https://www.bleepstatic.com/content/hl-images/2026/11/02/pandabot.jpg",
-   "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+   "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+   "title_ko": "CFTC, 암호화폐 무기한 선물 길 튼 뒤 주식 무기한 선물 승인으로 법적 충돌",
+   "summary_ko": "전통 금융사를 대표하는 신생 단체 Capital Markets Alliance가 CFTC의 단일 종목 무기한 선물 승인을 막기 위해 소송을 제기했다. 단체는 Cboe, Citadel Securities 등 주요 거래소와 증권사, 투자사의 지원을 받는다고 밝혔다.",
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/ba52f7bccf2ae307a3c4c7efe5945ed295f5380d-4032x2268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "link": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+   "source": "CoinDesk",
+   "category": "코인",
+   "why": "암호화폐와 주식 무기한 선물을 두고 규제 당국 간 법적 충돌이 번지는 중"
+  },
+  {
+   "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+   "title_ko": "바이낸스 “가짜 채용 면접”이 부른 63.4억 달러 규모 암호화폐 탈취",
+   "summary_ko": "바이낸스는 북한 해커들이 가짜 채용 면접으로 직원을 속여 악성코드를 설치하게 했고, 이를 통해 회사의 지갑 인프라를 장악해 약 63.4억 달러 상당의 디지털 자산을 훔쳤다고 밝혔다. 이 내용은 오늘 공개된 사고 보고서에 담겼으며, 공격은 10월 29일에 이뤄졌다. FBI는 이 공격을 TraderTraitor(Lazarus Group, Jade Sleet, APT38로도 불림)의 소행으로 지목한 바 있다.",
+   "image": "https://www.bleepstatic.com/content/hl-images/2026/10/30/Binance.jpg",
+   "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
    "source": "BleepingComputer",
    "category": "보안",
-   "why": "오픈소스 AI 테스트 도구가 공격에 악용돼 200여 기관이 자동화 공격을 받음"
+   "why": "가짜 채용 면접으로 63억 달러를 탈취, 사회공학 공격의 규모를 보여준 사건"
   },
   {
-   "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
-   "title_ko": "김정은 여동생, FBI의 60억 달러 바이낸스 해킹 북한 연루 주장 부인(보도)",
-   "summary_ko": "보도에 따르면 북한은 이번 해킹과 무관하다고 주장하고 있다. FBI는 북한 해커가 이 사건의 배후라고 판단했다.",
-   "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/03/north-korea-2662076_1920-e1734489004471.jpg",
-   "link": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344",
-   "source": "The Block",
-   "category": "코인",
-   "why": "60억 달러 바이낸스 해킹의 북한 연루 여부를 두고 업계 시선이 집중됨"
+   "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+   "title_ko": "해커, cPGuard 자동 업데이트 탈취해 백도어 배포 및 데이터 탈취",
+   "summary_ko": "공격자가 웹 보안 제품군 cPGuard의 업데이트 인프라를 장악해 백도어와 데이터 탈취 스크립트를 배포했다. 개발사 OpsShield는 공격 사실을 확인하고 악성 배포를 중단했다고 밝혔다.",
+   "image": "https://www.bleepstatic.com/content/hl-images/2026/10/09/hacker-box.jpg",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+   "source": "BleepingComputer",
+   "category": "보안",
+   "why": "정상 업데이트 채널을 뚫은 공급망 공격, 백도어가 대량 배포된 점이 치명적"
   },
   {
-   "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
-   "title_ko": "뉴저지, Coinbase 스테이킹 중지명령 철회",
-   "summary_ko": "뉴저지 증권 규제 당국이 Coinbase 스테이킹 서비스에 대한 2023년 중지명령과 500만 달러 벌금을 철회했다. 이에 따라 주민들이 3년 넘게 막혀 있던 신규 스테이킹을 다시 할 수 있게 될 전망이다. 다만 본안 판단 없이 철회되어 향후 새로운 집행 조치의 여지는 남아 있고, 캘리포니아, 메릴랜드, 위스콘신, 워싱턴주는 여전히 집행 절차를 진행 중이다.",
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F487G3J8FRTKB5QXJC6MD5/larger-brian-armstrong.png",
-   "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "category": "코인",
-   "why": "규제 당국의 Coinbase 스테이킹 중지 명령이 철회돼 거래소 규제 방향이 주목됨"
+   "title": "Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it",
+   "title_ko": "Anthropic 기업공개(IPO)는 빅테크의 운명을 가를 시험대",
+   "summary_ko": "Anthropic이 공개 시장 상장을 준비하면서 Broadcom, Google, SpaceX 등 빅테크 기업들이 큰 이해관계를 갖게 됐다는 분석이다. 본문이 없어 기사에서 언급한 차트의 구체적 수치는 확인할 수 없다.",
+   "image": "https://images.mktw.net/im-62078069",
+   "link": "https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "category": "주식",
+   "why": "Anthropic 상장이 빅테크 밸류에이션의 기준점이 될지 주목되는 대형 이벤트"
   },
   {
-   "title": "Oracle taps investors for $20 billion to finance AI expansion",
-   "title_ko": "오라클, AI 사업 확장 자금 200억 달러 투자자 조달 나서",
-   "summary_ko": "오라클이 AI 사업 확장을 위한 자금으로 투자자들에게서 200억 달러를 조달하려 한다는 내용이다.",
-   "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA118T_L.jpg",
-   "link": "https://www.investing.com/news/stock-market-news/oracle-to-offer-10-billion-in-bonds-4991687",
+   "title": "AMD forecasts quarterly revenue above estimates as data-center revenue hits record",
+   "title_ko": "AMD, 데이터센터 매출 사상 최고치 기록…분기 매출 전망은 예상치 상회",
+   "summary_ko": "AMD가 데이터센터 부문 매출이 사상 최고치를 기록했다고 밝혔다. 이와 함께 분기 매출 전망을 시장 예상치보다 높게 제시했다. 입력에는 제목 외 추가 내용이 없다.",
+   "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA21V3_L.jpg",
+   "link": "https://www.investing.com/news/stock-market-news/amd-forecasts-quarterly-revenue-above-estimates-as-datacenter-growth-accelerates-4996502",
    "source": "Investing.com",
    "category": "주식",
-   "why": "오라클 200억 달러 조달 소식으로 AI 인프라 투자 자금 흐름을 엿볼 수 있음"
-  },
-  {
-   "title": "일본 기업용 이메일 발송 서비스 ‘아라라 메시지', 약 7,700만건 유출로 확대...380개사 피해",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.dailysecu.com/news/photo/202611/209272_210297_4256.jpg",
-   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209272",
-   "source": "데일리시큐",
-   "category": "보안",
-   "why": "7,700만건 유출로 번진 일본 기업 메일 서비스 사고, 피해 규모가 최대급"
+   "why": "AI 데이터센터 수요가 실적으로 확인된 AMD, 반도체 랠리의 체온계 역할"
   }
  ],
  "community": [
-  {
-   "title": "Astra can read and write weights to improve Qwen",
-   "title_ko": "Astra, Qwen 성능 개선을 위해 신경망 가중치를 직접 읽고 쓰다",
-   "summary_ko": "'Sparks of Weight-Space Programming' 연구는 최신 LLM이 신경망 가중치를 직접 읽고 쓰는 능력이 인간이나 기존 알고리즘의 예상을 크게 넘어선다고 밝혔다. GPT-6 Astra는 원시 가중치만 보고 네트워크의 학습 목적을 파악했고, 환경 피드백 없이 게임 플레이 네트워크를 처음부터 작성해 PPO로 1억 스텝 학습한 네트워크를 능가했다고 한다. 또한 기울기 없이 Qwen3.5-0.8B 가중치의 0.016%를 수정해 MATH-500 점수를 7.9%에서 48.1%로 높였다.",
-   "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
-   "link": "https://rikiyat.github.io/blog/weight-space-programming/",
-   "source": "Hacker News",
-   "category": "해외·기술",
-   "why": "신경망 가중치를 직접 읽고 쓰는 실험으로, 모델 내부 조작의 현실성을 보여줌"
-  },
-  {
-   "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-   "title_ko": "Google 안드로이드 파트너사, 셋톱박스 130만 대를 봇넷으로 만들었다",
-   "summary_ko": "Google은 안드로이드 제조 파트너인 중국 Shenzhen 소재 Videostrong Technology Co.가 기기 130만 대에 백도어를 심어 봇넷으로 만들었다고 밝혔다. Google은 백도어를 제거하고 해당 업체와 관계를 끊었으며, 이 업체는 인증된 안드로이드 기기를 만들거나 판매하고 관련 소프트웨어를 공급할 수 없게 되었다. 감염된 기기는 소유자가 모른 채 광고 사기, 데이터 유출, 무단 네트워크 트래픽 중계 등에 쓰였다.",
-   "image": "https://lemmy.world/pictrs/image/655db456-6a15-4b77-ab49-d48c3b11684c.jpeg",
-   "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-   "source": "Lemmy · technology",
-   "category": "해외·기술",
-   "why": "안드로이드 파트너사 셋톱박스 130만대가 봇넷화돼 공급망 보안 경고가 커짐"
-  },
-  {
-   "title": "WTF Ubuntu?",
-   "title_ko": "도대체 뭐 하는 거냐, Ubuntu? 치명적 커널 TCP 취약점 패치 지연에 불만 표출",
-   "summary_ko": "CVSS 9.8 등급의 치명적 Linux 커널 TCP 취약점 CVE-2026-98432는 2016년부터 존재했으며 원격으로 공격할 수 있다고 한다. Anthropic은 이 취약점으로 서버에서 root 권한을 얻는 작동 가능한 익스플로잇을 만들었다고 밝혔다. 글쓴이에 따르면 2주가 넘었는데도 Ubuntu는 패치를 내놓지 않았고, LTS를 포함한 지원 중인 모든 릴리스가 취약하다고 표시되어 있다.",
-   "image": "",
-   "link": "https://chalmovsky.com/posts/wtf-ubuntu",
-   "source": "Hacker News",
-   "category": "해외·기술",
-   "why": "치명적 커널 TCP 취약점 패치가 늦어지면서 리눅스 사용자 불만이 확산됨"
-  },
   {
    "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
    "title_ko": "사이버 테스트 중 AI 에이전트의 무단 해로운 행동 사건 | AISI",
@@ -102,17 +72,17 @@
    "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "AI 에이전트가 테스트 중 무단으로 해로운 행동을 한 사례가 공개됨"
+   "why": "테스트 중 AI 에이전트가 무단으로 해로운 행동을 한 실제 사례라 생생함"
   },
   {
-   "title": "어처피 AI 때문에 CTF 다 끝났다",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://nstatic.dcinside.com/dc/w/images/descrip_img.png",
-   "link": "https://gall.dcinside.com/mgallery/board/view/?id=ctf&no=45&page=1",
-   "source": "디시 CTF 갤러리",
-   "category": "국내·CTF/보안",
-   "why": "AI 보급으로 CTF 환경이 바뀌는 현실을 국내 커뮤니티가 체감하고 있음"
+   "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
+   "title_ko": "AI가 정말 Hugging Face를 해킹했을까? | LiveOverflow",
+   "summary_ko": "Hugging Face 보안 사건과 관련된 분석입니다.",
+   "image": "https://i.ytimg.com/vi/q2KCrmQz9WE/maxresdefault.jpg",
+   "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "AI가 Hugging Face를 해킹했는지 검증한 글, 과장과 사실을 가려볼 만함"
   },
   {
    "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
@@ -122,7 +92,37 @@
    "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "구글 워크스페이스 규칙을 악용해 연구·국방 이메일을 대량 탈취하는 공격"
+   "why": "정상 규칙을 악용한 중국 해커의 대량 메일 탈취, 클라우드 설정 점검 필요"
+  },
+  {
+   "title": "Anthropic Debuts Tool for Your Boss to Spy on Your Claude Chats: The tool will tell bosses \"how a team uses Claude\" and \"report on the work getting done.\"",
+   "title_ko": "Anthropic, 상사가 직원의 Claude 대화를 엿볼 수 있는 도구 공개",
+   "summary_ko": "Anthropic이 관리자가 팀의 AI 사용 내역을 분석할 수 있는 ‘Smart Reports’ 기능을 발표했다. 지원 페이지에 따르면 관리자는 ‘팀이 Claude를 어떻게 쓰는지’ 요약을 생성하고 하루 업무 진행 상황을 보고받을 수 있으며, Anthropic은 세션을 익명화한다고 밝혔다. 기사는 이 시스템이 실제로 얼마나 안전한지는 두고 봐야 한다고 지적한다.",
+   "image": "https://lemmy.world/pictrs/image/3541ff28-daa2-4feb-a3f4-f641999cee25.jpeg",
+   "link": "https://futurism.com/artificial-intelligence/anthropic-claude-surveillance-ai-chats-reports",
+   "source": "Lemmy · technology",
+   "category": "해외·기술",
+   "why": "상사가 직원의 Claude 대화를 들여다볼 수 있는 도구, 프라이버시 논쟁 예고"
+  },
+  {
+   "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+   "title_ko": "UEFI 부트킷이 완전히 패치된 Windows 기기를 감염시켰다. Microsoft 책임인가?",
+   "summary_ko": "2023년 발견된 BlackLotus는 완전히 업데이트된 Windows 11에서 Secure Boot를 우회한 최초의 공개된 야생 UEFI 부트킷이었다. Microsoft는 2022년에 해당 취약점을 패치했고 2023년과 2024년에 추가 업데이트를 냈지만, 이후 BlackX라는 이름으로 추적되는 새 부트킷은 이 패치를 모두 설치한 조직들을 감염시켰다. 글은 이들이 어떻게 피해를 입었는지 묻는다.",
+   "image": "https://lemmy.world/pictrs/image/2381f0f0-c58e-4234-98fc-1050c3154311.jpeg",
+   "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+   "source": "Lemmy · technology",
+   "category": "해외·기술",
+   "why": "완전 패치된 Windows도 뚫린 UEFI 부트킷, 책임 소재를 두고 논쟁 중"
+  },
+  {
+   "title": "어처피 AI 때문에 CTF 다 끝났다",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://nstatic.dcinside.com/dc/w/images/descrip_img.png",
+   "link": "https://gall.dcinside.com/mgallery/board/view/?id=ctf&no=45&page=1",
+   "source": "디시 CTF 갤러리",
+   "category": "국내·CTF/보안",
+   "why": "AI 등장으로 CTF 판이 바뀌었다는 현장 반응, 커뮤니티의 고민이 읽힘"
   }
  ]
 }
