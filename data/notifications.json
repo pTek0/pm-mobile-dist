@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-03T15:49:07+00:00",
+ "generated_at": "2026-11-03T16:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119215 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-119215 📢 Source: EEF 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key vulnerability in team-alembic ash_authenticat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119215",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119215:2026-11-03T16:19"
+  },
   {
    "ts": "2026-11-03T15:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77799",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77799:2026-11-03T05:19"
-  },
-  {
-   "ts": "2026-11-03T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76955 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-76955 📢 Source: Zyxel 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A buffer overflow vulnerability in the zdp_wtp binary in Zyxel NWA110AX firmware versions th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76955",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76955:2026-11-03T02:19"
   }
  ]
 }
