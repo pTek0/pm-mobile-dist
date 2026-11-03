@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-03T00:19:07+00:00",
+ "generated_at": "2026-11-03T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120833 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-120833 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False labbench before 0.46.1 contains a deserialization of untrusted data vulnerability in re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120833",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120833:2026-11-03T00:49"
+  },
   {
    "ts": "2026-11-03T00:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-104080",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104080:2026-11-02T15:49"
-  },
-  {
-   "ts": "2026-11-02T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115653 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-115653 📢 Source: eclipse 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False In Eclipse ThreadX versions 6.0.1 through 6.5.2.202603, the PendSV handler of the Cortex-M ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115653",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115653:2026-11-02T15:49"
   }
  ]
 }
