@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-03T07:49:08+00:00",
+ "generated_at": "2026-11-03T08:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T08:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-4052 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-4052 📢 Source: WSO2 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True This issue only impacts deployments where WSO2 Identity Server is configured as a Resident ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-4052",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4052:2026-11-03T08:19"
+  },
+  {
+   "ts": "2026-11-03T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16900 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-16900 📢 Source: Zohocorp 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine Log360 and EventLog Analyzer versions 13071 and below are vulnerable",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16900",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16900:2026-11-03T08:19"
+  },
   {
    "ts": "2026-11-03T07:49:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-88809",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88809:2026-11-02T16:19"
-  },
-  {
-   "ts": "2026-11-02T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-94290 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-94290 📢 Source: suse 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SUSE Rancher Fleet clusters reference a kubeconfig secret that the controller uses to inst",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94290",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94290:2026-11-02T15:49"
-  },
-  {
-   "ts": "2026-11-02T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77880 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-77880 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Control Web Panel (CWP) before webpanel_version 1.16 contains an OS command injection vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77880",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77880:2026-11-02T15:49"
   }
  ]
 }
