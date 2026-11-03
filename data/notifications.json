@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-03T08:19:08+00:00",
+ "generated_at": "2026-11-03T08:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115231 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-115231 📢 Source: eclipse 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False In Eclipse ThreadX versions 6.0.1 through 6.5.2.202603, the Module Manager lets a user-mo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115231",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115231:2026-11-03T08:49"
+  },
+  {
+   "ts": "2026-11-03T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113421 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-113421 📢 Source: eclipse 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False In Eclipse ThreadX versions 6.0.1 through 6.5.2.202603, ThreadX Modules does not revoke a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113421",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113421:2026-11-03T08:49"
+  },
   {
    "ts": "2026-11-03T08:19:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119301",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119301:2026-11-02T16:49"
-  },
-  {
-   "ts": "2026-11-02T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88810 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-88810 📢 Source: suse 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A privilege escalation issue was discovered in Rancher Manager's role-based access control. Th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88810",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88810:2026-11-02T16:49"
-  },
-  {
-   "ts": "2026-11-02T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88809 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-88809 📢 Source: suse 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True A security vulnerability exists in the SUSE Rancher Manager meta proxy endpoint (/meta/proxy).",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88809",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88809:2026-11-02T16:19"
   }
  ]
 }
