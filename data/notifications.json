@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-03T19:19:07+00:00",
+ "generated_at": "2026-11-03T19:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93325 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-93325 📢 Source: Docker 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Buildx bake requires the user to grant entitlements with --allow or an interactive prompt b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93325",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93325:2026-11-03T19:49"
+  },
+  {
+   "ts": "2026-11-03T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105822 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-105822 📢 Source: TPLink 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True The Tapo Cloud MQTT proxy contains a server-side request forgery (SSRF) vulnerability becau",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105822",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105822:2026-11-03T19:49"
+  },
+  {
+   "ts": "2026-11-03T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105821 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-105821 📢 Source: TPLink 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True The Tapo Cloud MQTT broker contains a broken access control vulnerability in a proxy topic ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105821",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105821:2026-11-03T19:49"
+  },
   {
    "ts": "2026-11-03T19:19:06+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120330",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120330:2026-11-03T10:19"
-  },
-  {
-   "ts": "2026-11-03T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-89293 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-89293 📢 Source: eclipse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Eclipse Mnestix Browser versions 1.2.0 up until but excluding 2.3.0 it was possible for ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89293",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89293:2026-11-03T09:49"
-  },
-  {
-   "ts": "2026-11-03T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77778 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-77778 📢 Source: Zohocorp 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ZohoCorp ManageEngine Key Manager Plus versions up to 7150 allow authenticated users to ex",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77778",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77778:2026-11-03T09:49"
-  },
-  {
-   "ts": "2026-11-03T09:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-89292 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-89292 📢 Source: eclipse 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True In Eclipse Mnestix Browser versions 1.6.0 up until but excluding 2.3.0 it was possible ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89292",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89292:2026-11-03T09:49"
   }
  ]
 }
