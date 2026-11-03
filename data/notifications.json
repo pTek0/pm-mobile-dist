@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-03T07:19:07+00:00",
+ "generated_at": "2026-11-03T07:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T07:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-13594 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-13594 📢 Source: Zohocorp 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Zoho Corporation's ManageEngine Log360 and EventLog Analyzer versions 13062 and below ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13594",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13594:2026-11-03T07:49"
+  },
   {
    "ts": "2026-11-03T05:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77880",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77880:2026-11-02T15:49"
-  },
-  {
-   "ts": "2026-11-02T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77879 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-77879 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Control Web Panel (CWP) before webpanel_version 1.16 contains a SQL injection vulnerabil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77879",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77879:2026-11-02T15:49"
   }
  ]
 }
