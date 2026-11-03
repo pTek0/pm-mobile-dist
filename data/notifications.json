@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-03T21:19:07+00:00",
+ "generated_at": "2026-11-03T21:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T21:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-22058 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-22058 📢 Source: netapp 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True StorageGRID (formerly StorageGRID Webscale) versions 11.3 and higher allow an attacker w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22058",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22058:2026-11-03T21:49"
+  },
+  {
+   "ts": "2026-11-03T21:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-119084 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-119084 📢 Source: AMZN 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Unsafe reflection in the connection parameter and credentials profile handling of Amazon ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119084",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119084:2026-11-03T21:49"
+  },
+  {
+   "ts": "2026-11-03T21:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112354 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-112354 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Etrel INCH AC charging station management web interface prior to firmware versions 7",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112354",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112354:2026-11-03T21:49"
+  },
   {
    "ts": "2026-11-03T21:19:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121386",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121386:2026-11-03T14:49"
-  },
-  {
-   "ts": "2026-11-03T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119742 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-119742 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Nagios XI before 2026R2 contains an OS command injection vulnerability in the MIB upload",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119742",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119742:2026-11-03T13:49"
-  },
-  {
-   "ts": "2026-11-03T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85035 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-85035 📢 Source: zephyr 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The can_add_rx_filter_msgq() system call installs a CAN RX filter whose callback (can_msgq_",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85035",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85035:2026-11-03T13:49"
-  },
-  {
-   "ts": "2026-11-03T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119179 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-119179 📢 Source: mongodb 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True A flaw in the connection management layer of the MongoDB Node.js driver can leave a pooled",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119179",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119179:2026-11-03T13:49"
   }
  ]
 }
