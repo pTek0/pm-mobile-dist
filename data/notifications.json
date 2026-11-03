@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-03T16:19:08+00:00",
+ "generated_at": "2026-11-03T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-03T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121603 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-121603 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Solanum before commit 2ea1382 contains a buffer overflow vulnerability in ms_kill() that",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121603",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121603:2026-11-03T16:49"
+  },
+  {
+   "ts": "2026-11-03T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121602 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-121602 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Solanum before commit 2ce64de contains a heap-based buffer overflow vulnerability that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121602",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121602:2026-11-03T16:49"
+  },
+  {
+   "ts": "2026-11-03T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-28336 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-28336 📢 Source: SolarWinds 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True SolarWinds Dameware was found to be affected by a command injection vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-28336",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-28336:2026-11-03T16:49"
+  },
+  {
+   "ts": "2026-11-03T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-28335 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-28335 📢 Source: SolarWinds 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True SolarWinds Dameware was found to be affected by a buffer overflow vulnerability that can",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-28335",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-28335:2026-11-03T16:49"
+  },
+  {
+   "ts": "2026-11-03T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-28327 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-28327 📢 Source: SolarWinds 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False SolarWinds Dameware was found to be affected by a DLL hijacking vulnerability. The hija",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-28327",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-28327:2026-11-03T16:49"
+  },
+  {
+   "ts": "2026-11-03T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103916 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-103916 📢 Source: Docker 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Docker Sandboxes sbx cp does not safely confine host-side paths to a shared workspace. A m",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103916",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103916:2026-11-03T16:49"
+  },
+  {
+   "ts": "2026-11-03T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119675 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-119675 📢 Source: mongodb 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False MongoDB Database Tools mongorestore inconsistently handles the system.buckets. prefix whe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119675",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119675:2026-11-03T16:49"
+  },
   {
    "ts": "2026-11-03T16:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121022",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121022:2026-11-03T09:19"
-  },
-  {
-   "ts": "2026-11-03T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115231 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-115231 📢 Source: eclipse 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False In Eclipse ThreadX versions 6.0.1 through 6.5.2.202603, the Module Manager lets a user-mo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115231",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115231:2026-11-03T08:49"
-  },
-  {
-   "ts": "2026-11-03T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-113421 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-113421 📢 Source: eclipse 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False In Eclipse ThreadX versions 6.0.1 through 6.5.2.202603, ThreadX Modules does not revoke a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113421",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113421:2026-11-03T08:49"
-  },
-  {
-   "ts": "2026-11-03T08:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-4052 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-4052 📢 Source: WSO2 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True This issue only impacts deployments where WSO2 Identity Server is configured as a Resident ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-4052",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4052:2026-11-03T08:19"
-  },
-  {
-   "ts": "2026-11-03T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16900 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-16900 📢 Source: Zohocorp 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine Log360 and EventLog Analyzer versions 13071 and below are vulnerable",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16900",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16900:2026-11-03T08:19"
-  },
-  {
-   "ts": "2026-11-03T07:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-13594 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-13594 📢 Source: Zohocorp 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Zoho Corporation's ManageEngine Log360 and EventLog Analyzer versions 13062 and below ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13594",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13594:2026-11-03T07:49"
-  },
-  {
-   "ts": "2026-11-03T05:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77800 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-77800 📢 Source: Zohocorp 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True ManageEngine Key Manager Plus versions before 7151 are vulnerable to a SAML authentication",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77800",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77800:2026-11-03T05:19"
-  },
-  {
-   "ts": "2026-11-03T05:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77799 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-77799 📢 Source: Zohocorp 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True ManageEngine Key Manager Plus versions before 7150 are vulnerable to a Two-Factor Authenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77799",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77799:2026-11-03T05:19"
   }
  ]
 }
