@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-04T18:19:08+00:00",
+ "generated_at": "2026-11-04T18:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T18:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82033 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-82033 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False DeepSeek Harness prior to 0.1.2-alpha.2, and specifically commit 3e24087, contains a mis",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82033",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82033:2026-11-04T18:49"
+  },
+  {
+   "ts": "2026-11-04T18:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82029 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-82029 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Invoice Ninja before 5.13.28 contains a broken access control vulnerability that allows a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82029",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82029:2026-11-04T18:49"
+  },
+  {
+   "ts": "2026-11-04T18:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-122148 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-122148 📢 Source: mitre 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False In Yealink MeetingBoard Pro before 331.320.0.64, the Web management module has a front-end ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122148",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122148:2026-11-04T18:49"
+  },
+  {
+   "ts": "2026-11-04T18:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-122120 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-122120 📢 Source: mitre 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True In Yealink Plug-in Softwares before 2.35.219.0 , there is an unauthorized file write vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122120",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122120:2026-11-04T18:49"
+  },
   {
    "ts": "2026-11-04T18:19:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115448",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115448:2026-11-04T11:19"
-  },
-  {
-   "ts": "2026-11-04T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100300 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-100300 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Improper handling of exceptional conditions in the quota subsystem of Apache ZooKeeper allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100300",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100300:2026-11-04T11:19"
-  },
-  {
-   "ts": "2026-11-04T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100252 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-100252 📢 Source: apache 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Improper Authorization vulnerability in Apache ZooKeeper. When SASL authentication is enabl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100252",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100252:2026-11-04T11:19"
-  },
-  {
-   "ts": "2026-11-04T11:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Safari introduces Adaptive Dark Mode in 27.3",
-   "body": "Hacker News · 점수 441",
-   "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-   "source": "Hacker News",
-   "id": "community:https://webkit.org/blog/18541/introducing-adaptive-dark-mode/:2026-11-04T11:19"
-  },
-  {
-   "ts": "2026-11-04T11:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Little Book of Generative AI Foundations: An Intuitive M",
-   "body": "Hacker News · 점수 345",
-   "link": "https://arxiv.org/abs/2605.29713",
-   "source": "Hacker News",
-   "id": "community:https://arxiv.org/abs/2605.29713:2026-11-04T11:19"
   }
  ]
 }
