@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-04T06:19:08+00:00",
+ "generated_at": "2026-11-04T06:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121818 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-121818 📢 Source: twcert 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Herowatch Mini developed by About Time Technologies has a system signing vulnerability. Au",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121818",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121818:2026-11-04T06:49"
+  },
+  {
+   "ts": "2026-11-04T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121817 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-121817 📢 Source: twcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Herowatch Go Server developed by About Time Technologies has a Insecure Direct Object Refer",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121817",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121817:2026-11-04T06:49"
+  },
+  {
+   "ts": "2026-11-04T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121816 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-121816 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Herowatch Mini developed by About Time Technologies has a Missing Authentication vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121816",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121816:2026-11-04T06:49"
+  },
   {
    "ts": "2026-11-04T05:49:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-95739",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95739:2026-11-03T20:19"
-  },
-  {
-   "ts": "2026-11-03T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95738 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-95738 📢 Source: hpe 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Authentication bypass vulnerabilities in the affected interface of HPE Networking Fabric Compos",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95738",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95738:2026-11-03T20:19"
-  },
-  {
-   "ts": "2026-11-03T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95737 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-95737 📢 Source: hpe 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False A privilege escalation vulnerability exists in the underlying operating system of HPE Networki",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95737",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95737:2026-11-03T20:19"
-  },
-  {
-   "ts": "2026-11-03T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95736 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-95736 📢 Source: hpe 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False Improper certificate validation vulnerabilities exist in the affected interface of HPE Network",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95736",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95736:2026-11-03T20:19"
   }
  ]
 }
