@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-04T01:49:08+00:00",
+ "generated_at": "2026-11-04T02:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84730 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-84730 📢 Source: ASUS 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Stack-based buffer overflow in certain ASUS Router firmware allows an unauthenticated nearby ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84730",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84730:2026-11-04T02:19"
+  },
+  {
+   "ts": "2026-11-04T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84729 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-84729 📢 Source: ASUS 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False Out-of-bounds write in certain ASUS Router firmware allow an unauthenticated nearby attacker ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84729",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84729:2026-11-04T02:19"
+  },
+  {
+   "ts": "2026-11-04T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112116 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-112116 📢 Source: ASUS 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An exposed IOCTL with insufficient access control in ASUS System Control Interface allows a ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112116",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112116:2026-11-04T02:19"
+  },
   {
    "ts": "2026-11-04T00:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-95731",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95731:2026-11-03T20:19"
-  },
-  {
-   "ts": "2026-11-03T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93325 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-93325 📢 Source: Docker 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Buildx bake requires the user to grant entitlements with --allow or an interactive prompt b",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93325",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93325:2026-11-03T19:49"
-  },
-  {
-   "ts": "2026-11-03T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105822 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-105822 📢 Source: TPLink 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True The Tapo Cloud MQTT proxy contains a server-side request forgery (SSRF) vulnerability becau",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105822",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105822:2026-11-03T19:49"
-  },
-  {
-   "ts": "2026-11-03T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105821 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-105821 📢 Source: TPLink 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True The Tapo Cloud MQTT broker contains a broken access control vulnerability in a proxy topic ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105821",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105821:2026-11-03T19:49"
   }
  ]
 }
