@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-11-04T12:19:07+00:00",
+ "generated_at": "2026-11-04T12:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121620 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-121620 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True CoopCycle coopcycle-web 5.6.0 before 6.20.0 contains a missing authentication vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121620",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121620:2026-11-04T12:49"
+  },
+  {
+   "ts": "2026-11-04T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121145 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-121145 📢 Source: CERT-In 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True This vulnerability exists in the iRA 2.0 and iRA.ev mobile applications due to insufficien",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121145",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121145:2026-11-04T12:49"
+  },
+  {
+   "ts": "2026-11-04T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121946 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-121946 📢 Source: VulnCheck 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True zbateson mail-mime-parser before 3.0.9 and 4.x before 4.0.6 contains a CRLF header injec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121946",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121946:2026-11-04T12:49"
+  },
+  {
+   "ts": "2026-11-04T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121945 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-121945 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True CoopCycle coopcycle-web before 6.20.1 contains a broken access control vulnerability tha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121945",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121945:2026-11-04T12:49"
+  },
+  {
+   "ts": "2026-11-04T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121941 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-121941 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False libmt32emu before 2.8.4 contains a heap buffer overflow vulnerability in MidiStreamPars",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121941",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121941:2026-11-04T12:49"
+  },
+  {
+   "ts": "2026-11-04T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121940 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-121940 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Stonewuu ai-fusion-video before 1.3.0 contains an insecure direct object reference vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121940",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121940:2026-11-04T12:49"
+  },
+  {
+   "ts": "2026-11-04T12:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-121939 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-121939 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Databasement before 1.10.9 contains an authentication bypass vulnerability in OAuthS",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121939",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121939:2026-11-04T12:49"
+  },
+  {
+   "ts": "2026-11-04T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121144 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-121144 📢 Source: CERT-In 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True This vulnerability exists in the iRA 2.0 and iRA.ev mobile applications due to presence of",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121144",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121144:2026-11-04T12:49"
+  },
+  {
+   "ts": "2026-11-04T12:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-65555 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-65555 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in Uncanny Owl Uncanny Toolkit for Lear",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65555",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65555:2026-11-04T12:49"
+  },
+  {
+   "ts": "2026-11-04T12:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-119481 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-119481 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in Crocoblock JetFormBuilder jetformbu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119481",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119481:2026-11-04T12:49"
+  },
+  {
+   "ts": "2026-11-04T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119468 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-119468 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119468",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119468:2026-11-04T12:49"
+  },
+  {
+   "ts": "2026-11-04T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118513 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-118513 📢 Source: Checkmarx 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Authentication bypass by spoofing in X509Authenticator and X509AuthenticationListener of",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118513",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118513:2026-11-04T12:49"
+  },
   {
    "ts": "2026-11-04T12:19:07+00:00",
    "level": "general",
@@ -381,126 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121817",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121817:2026-11-04T06:49"
-  },
-  {
-   "ts": "2026-11-04T06:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121816 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-121816 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Herowatch Mini developed by About Time Technologies has a Missing Authentication vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121816",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121816:2026-11-04T06:49"
-  },
-  {
-   "ts": "2026-11-04T05:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-11229 (CVSS 7.2)",
-   "body": "🚨 CVE-2025-11229 📢 Source: WSO2 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True The system fails to properly enforce scope authorization when the `authorize_all_scopes` confi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-11229",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-11229:2026-11-04T05:49"
-  },
-  {
-   "ts": "2026-11-04T03:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80335 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-80335 📢 Source: Unisoc 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False In the bootloader download module, there is a possible out-of-bounds write due to a failure",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80335",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80335:2026-11-04T03:49"
-  },
-  {
-   "ts": "2026-11-04T03:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-79405 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-79405 📢 Source: Unisoc 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False In Modem Firmware, there is a possible system crash due to improper input validation of ded",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-79405",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-79405:2026-11-04T03:49"
-  },
-  {
-   "ts": "2026-11-04T03:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121803 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-121803 📢 Source: Unisoc 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False In UFS Field Firmware Update (FFU) functionality, there is a possible out-of-bounds write ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121803",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121803:2026-11-04T03:49"
-  },
-  {
-   "ts": "2026-11-04T02:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-121802 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-121802 📢 Source: mitre 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True @better -auth/expo before 1.7.16 allows certain account-takeover outcomes (e.g., unauthe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121802",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121802:2026-11-04T02:49"
-  },
-  {
-   "ts": "2026-11-04T02:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84730 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-84730 📢 Source: ASUS 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Stack-based buffer overflow in certain ASUS Router firmware allows an unauthenticated nearby ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84730",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84730:2026-11-04T02:19"
-  },
-  {
-   "ts": "2026-11-04T02:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84729 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-84729 📢 Source: ASUS 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False Out-of-bounds write in certain ASUS Router firmware allow an unauthenticated nearby attacker ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84729",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84729:2026-11-04T02:19"
-  },
-  {
-   "ts": "2026-11-04T02:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112116 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-112116 📢 Source: ASUS 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An exposed IOCTL with insufficient access control in ASUS System Control Interface allows a ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112116",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112116:2026-11-04T02:19"
-  },
-  {
-   "ts": "2026-11-04T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Death comes for XSLT",
-   "body": "Lobsters · 점수 57",
-   "link": "https://dbushell.com/2026/11/03/xslt-rip/",
-   "source": "Lobsters",
-   "id": "community:https://dbushell.com/2026/11/03/xslt-rip/:2026-11-04T00:49"
-  },
-  {
-   "ts": "2026-11-04T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Linus Torvalds says Linux kernel is out of 'stabilization ph",
-   "body": "Lemmy · technology · 점수 55",
-   "link": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852:2026-11-04T00:49"
-  },
-  {
-   "ts": "2026-11-04T00:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114549 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-114549 📢 Source: zdi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: False NoMachine nxwebrunner Heap-based Buffer Overflow Remote Code Execution Vulnerability. Thi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114549",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114549:2026-11-04T00:19"
   }
  ]
 }
