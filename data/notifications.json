@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-04T09:19:07+00:00",
+ "generated_at": "2026-11-04T09:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111036 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-111036 📢 Source: INCIBE 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Server-side request forgery (SSRF) vulnerability in the Coupa Supplier Portal SaaS platform",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111036",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111036:2026-11-04T09:49"
+  },
+  {
+   "ts": "2026-11-04T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110935 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-110935 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False The PFI plugin framework deployment routine does not validate path components when extrac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110935",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110935:2026-11-04T09:49"
+  },
+  {
+   "ts": "2026-11-04T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-110022 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-110022 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False The PFI plugin framework deploys executable assemblies (DLLs) from a signed plugin packag",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110022",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110022:2026-11-04T09:49"
+  },
+  {
+   "ts": "2026-11-04T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94460 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-94460 📢 Source: Canon_EMEA 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False IRISPowerscan contain an insecure default configuration where the built-in installation",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94460",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94460:2026-11-04T09:49"
+  },
+  {
+   "ts": "2026-11-04T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94459 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-94459 📢 Source: Canon_EMEA 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False IRISPowerscan contain default user accounts with predictable credentials. An unauthenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94459",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94459:2026-11-04T09:49"
+  },
   {
    "ts": "2026-11-04T08:49:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-109836",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109836:2026-11-03T23:19"
-  },
-  {
-   "ts": "2026-11-03T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104608 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-104608 📢 Source: GitHub_P 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A remote code execution vulnerability was identified in GitHub Enterprise Server in the G",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104608",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104608:2026-11-03T23:19"
-  },
-  {
-   "ts": "2026-11-03T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Postman silently auto-installs AI plugins and attempts to sh",
-   "body": "Hacker News · 점수 900",
-   "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-   "source": "Hacker News",
-   "id": "community:https://github.com/postmanlabs/postman-app-support/issues/14370:2026-11-03T23:19"
-  },
-  {
-   "ts": "2026-11-03T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The 'Astra can read and write weights to improve Qwen' post ",
-   "body": "Hacker News · 점수 852",
-   "link": "https://honnibal.dev/blog/astra-read-write-misleading",
-   "source": "Hacker News",
-   "id": "community:https://honnibal.dev/blog/astra-read-write-misleading:2026-11-03T23:19"
-  },
-  {
-   "ts": "2026-11-03T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Google will turn off search for schools that reject AI",
-   "body": "Hacker News · 점수 507",
-   "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-   "source": "Hacker News",
-   "id": "community:https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html:2026-11-03T23:19"
-  },
-  {
-   "ts": "2026-11-03T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Kalshi and its co-founders face felony charges for violating",
-   "body": "Hacker News · 점수 416",
-   "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-   "source": "Hacker News",
-   "id": "community:https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/:2026-11-03T23:19"
   }
  ]
 }
