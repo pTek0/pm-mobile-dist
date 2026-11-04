@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-04T06:49:07+00:00",
+ "generated_at": "2026-11-04T07:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T07:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-62000 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-62000 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in WC Lovers WCFM Marketplace wc-multivendor-marketp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62000",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62000:2026-11-04T07:19"
+  },
+  {
+   "ts": "2026-11-04T07:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-54851 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-54851 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54851",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54851:2026-11-04T07:19"
+  },
   {
    "ts": "2026-11-04T06:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-95741",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95741:2026-11-03T20:19"
-  },
-  {
-   "ts": "2026-11-03T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95740 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-95740 📢 Source: hpe 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False An improper certificate validation vulnerability in HPE Networking Fabric Composer could allow a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95740",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95740:2026-11-03T20:19"
-  },
-  {
-   "ts": "2026-11-03T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95739 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-95739 📢 Source: hpe 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True An improper restriction of excessive authentication attempts vulnerability in the API of HPE Ne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95739",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95739:2026-11-03T20:19"
   }
  ]
 }
