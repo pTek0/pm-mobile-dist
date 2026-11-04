@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-04T00:19:07+00:00",
+ "generated_at": "2026-11-04T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Death comes for XSLT",
+   "body": "Lobsters · 점수 57",
+   "link": "https://dbushell.com/2026/11/03/xslt-rip/",
+   "source": "Lobsters",
+   "id": "community:https://dbushell.com/2026/11/03/xslt-rip/:2026-11-04T00:49"
+  },
+  {
+   "ts": "2026-11-04T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Linus Torvalds says Linux kernel is out of 'stabilization ph",
+   "body": "Lemmy · technology · 점수 55",
+   "link": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852:2026-11-04T00:49"
+  },
   {
    "ts": "2026-11-04T00:19:06+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105821",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105821:2026-11-03T19:49"
-  },
-  {
-   "ts": "2026-11-03T19:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-112917 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-112917 📢 Source: Docker 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: False In Docker Desktop for Windows with the WSL2 backend, an unprivileged Linux container c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112917",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112917:2026-11-03T19:19"
-  },
-  {
-   "ts": "2026-11-03T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120956 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-120956 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True The MongoDB C Driver does not validate the type or format of a namespace field returned by",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120956",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120956:2026-11-03T19:19"
   }
  ]
 }
