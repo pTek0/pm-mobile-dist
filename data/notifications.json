@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-03T23:49:07+00:00",
+ "generated_at": "2026-11-04T00:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T00:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-114549 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-114549 📢 Source: zdi 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: False NoMachine nxwebrunner Heap-based Buffer Overflow Remote Code Execution Vulnerability. Thi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114549",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114549:2026-11-04T00:19"
+  },
+  {
+   "ts": "2026-11-04T00:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Sam Altman Crows That AI Is Now Smarter Than the Brightest H",
+   "body": "Lemmy · technology · 점수 154",
+   "link": "https://futurism.com/artificial-intelligence/sam-altman-crows-that-ai-is-now-smarter-than-the-brightest-human-scientists",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/artificial-intelligence/sam-altman-crows-that-ai-is-now-smarter-than-the-brightest-human-scientists:2026-11-04T00:19"
+  },
+  {
+   "ts": "2026-11-04T00:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Vibe Coded AO3 Clone Site Down After Fanfic Authors Buried I",
+   "body": "Lemmy · technology · 점수 134",
+   "link": "https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/:2026-11-04T00:19"
+  },
+  {
+   "ts": "2026-11-04T00:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Anthropic Debuts Tool for Your Boss to Spy on Your Claude Ch",
+   "body": "Lemmy · technology · 점수 121",
+   "link": "https://futurism.com/artificial-intelligence/anthropic-claude-surveillance-ai-chats-reports",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/artificial-intelligence/anthropic-claude-surveillance-ai-chats-reports:2026-11-04T00:19"
+  },
+  {
+   "ts": "2026-11-04T00:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] This background sound leaks your exact location",
+   "body": "Lobsters · 점수 91",
+   "link": "https://youtu.be/UytYrhYLOKI",
+   "source": "Lobsters",
+   "id": "community:https://youtu.be/UytYrhYLOKI:2026-11-04T00:19"
+  },
+  {
+   "ts": "2026-11-04T00:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Stop Hardcoding Your Timeouts",
+   "body": "Lobsters · 점수 62",
+   "link": "https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html",
+   "source": "Lobsters",
+   "id": "community:https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html:2026-11-04T00:19"
+  },
   {
    "ts": "2026-11-03T23:49:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120956",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120956:2026-11-03T19:19"
-  },
-  {
-   "ts": "2026-11-03T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120955 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-120955 📢 Source: mongodb 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The GridFS file download API in the MongoDB C Driver does not check the result of an inter",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120955",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120955:2026-11-03T19:19"
-  },
-  {
-   "ts": "2026-11-03T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120678 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-120678 📢 Source: mongodb 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A memory management flaw in the MongoDB C Driver's handling of compressed responses may ca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120678",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120678:2026-11-03T19:19"
-  },
-  {
-   "ts": "2026-11-03T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82976 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-82976 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the image-customization-controller used in OpenShift's bare metal provi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82976",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82976:2026-11-03T18:49"
-  },
-  {
-   "ts": "2026-11-03T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119922 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-119922 📢 Source: AMZN 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper access control in the Babelfish for PostgreSQL extension versions 1.2-1.5, 2.1-2.15,",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119922",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119922:2026-11-03T18:49"
-  },
-  {
-   "ts": "2026-11-03T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121624 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-121624 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: False Nanosystems Supremo for Windows and macOS before 5.0.2.3874 contains an improper certif",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121624",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121624:2026-11-03T17:49"
-  },
-  {
-   "ts": "2026-11-03T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121603 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-121603 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Solanum before commit 2ea1382 contains a buffer overflow vulnerability in ms_kill() that",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121603",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121603:2026-11-03T16:49"
   }
  ]
 }
