@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-04T22:49:07+00:00",
+ "generated_at": "2026-11-04T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-122299 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-122299 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dulwich before 1.2.20 contains a commit object parsing vulnerability where the read path",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122299",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122299:2026-11-04T23:19"
+  },
+  {
+   "ts": "2026-11-04T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI is forcing us to pay off 40 years of technical debt",
+   "body": "Hacker News · 점수 989",
+   "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+   "source": "Hacker News",
+   "id": "community:https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability:2026-11-04T23:19"
+  },
+  {
+   "ts": "2026-11-04T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Tell HN: Gemini trains on chat history, even for subscribers",
+   "body": "Hacker News · 점수 603",
+   "link": "https://news.ycombinator.com/item?id=50363461",
+   "source": "Hacker News",
+   "id": "community:https://news.ycombinator.com/item?id=50363461:2026-11-04T23:19"
+  },
+  {
+   "ts": "2026-11-04T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nvidia RTX Spark encrypted firmware slows inference speed to",
+   "body": "Hacker News · 점수 569",
+   "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+   "source": "Hacker News",
+   "id": "community:https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop:2026-11-04T23:19"
+  },
+  {
+   "ts": "2026-11-04T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] North Korean fake job interview led to $6.3B Binance heist",
+   "body": "Hacker News · 점수 541",
+   "link": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+   "source": "Hacker News",
+   "id": "community:https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398:2026-11-04T23:19"
+  },
+  {
+   "ts": "2026-11-04T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] At least let me sit",
+   "body": "Lemmy · programming.dev · 점수 433",
+   "link": "https://gregtech.eu/pictrs/image/cf638a41-9fe7-4ef2-85c2-fbcc0863f49e.jpeg",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://gregtech.eu/pictrs/image/cf638a41-9fe7-4ef2-85c2-fbcc0863f49e.jpeg:2026-11-04T23:19"
+  },
   {
    "ts": "2026-11-04T22:49:06+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121963",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121963:2026-11-04T15:49"
-  },
-  {
-   "ts": "2026-11-04T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121962 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-121962 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a heap buffer overflow in transport_default_read_pdu when",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121962",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121962:2026-11-04T15:49"
-  },
-  {
-   "ts": "2026-11-04T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121961 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-121961 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a use-after-free vulnerability in the freerdp-proxy DRDYN",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121961",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121961:2026-11-04T15:49"
-  },
-  {
-   "ts": "2026-11-04T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121960 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-121960 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a denial of service vulnerability in the NLA-enabled shad",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121960",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121960:2026-11-04T15:49"
-  },
-  {
-   "ts": "2026-11-04T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121959 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-121959 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains an infinite loop vulnerability in websocket_context_read ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121959",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121959:2026-11-04T15:49"
-  },
-  {
-   "ts": "2026-11-04T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121958 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-121958 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True FreeRDP through 3.32.1 has a heap out-of-bounds write in the RDPGFX client because the d",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121958",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121958:2026-11-04T15:49"
-  },
-  {
-   "ts": "2026-11-04T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121957 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-121957 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a use-after-free vulnerability that allows malicious RDP ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121957",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121957:2026-11-04T15:49"
   }
  ]
 }
