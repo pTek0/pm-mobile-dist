@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-04T22:19:08+00:00",
+ "generated_at": "2026-11-04T22:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T22:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-54384 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-54384 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True VitaFit cloud API before 2026-10-30 contained an authentication bypass vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54384",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54384:2026-11-04T22:49"
+  },
+  {
+   "ts": "2026-11-04T22:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-54383 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-54383 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True VitaFit cloud API before 2026-10-30 contained an excessive data exposure vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54383",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54383:2026-11-04T22:49"
+  },
+  {
+   "ts": "2026-11-04T22:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-54382 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-54382 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True VitaFit cloud API before 2026-10-30 contained an improper access control vulnerability in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54382",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54382:2026-11-04T22:49"
+  },
+  {
+   "ts": "2026-11-04T22:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-54381 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-54381 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True VitaFit cloud API before 2026-10-30 contained a misconfigured cloud storage bucket vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54381",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54381:2026-11-04T22:49"
+  },
   {
    "ts": "2026-11-04T22:19:07+00:00",
    "level": "important",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121957",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121957:2026-11-04T15:49"
-  },
-  {
-   "ts": "2026-11-04T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121956 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-121956 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a double free in the WinPR Kerberos SSPI retrieveSomeTgt ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121956",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121956:2026-11-04T15:49"
-  },
-  {
-   "ts": "2026-11-04T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121955 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-121955 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a use-after-free vulnerability in Emulate_SCardReleaseCon",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121955",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121955:2026-11-04T15:49"
-  },
-  {
-   "ts": "2026-11-04T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121954 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-121954 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 has a heap out-of-bounds write in the planar codec because freerdp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121954",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121954:2026-11-04T15:49"
-  },
-  {
-   "ts": "2026-11-04T15:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-121953 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-121953 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 has a use-after-free in the client's rdpgfx dynamic virtual ch",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121953",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121953:2026-11-04T15:49"
   }
  ]
 }
