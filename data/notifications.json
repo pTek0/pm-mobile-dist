@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-04T09:49:07+00:00",
+ "generated_at": "2026-11-04T10:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120422 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-120422 📢 Source: ESET 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True Sogou Input Method for Windows contains a vulnerability in the configuration retrieval mechan",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120422",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120422:2026-11-04T10:19"
+  },
+  {
+   "ts": "2026-11-04T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111038 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-111038 📢 Source: INCIBE 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True CSV formula injection vulnerability in the export functionality of the Coupa Supplier Porta",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111038",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111038:2026-11-04T10:19"
+  },
   {
    "ts": "2026-11-04T09:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121729",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121729:2026-11-03T23:19"
-  },
-  {
-   "ts": "2026-11-03T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121727 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-121727 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Kore before 4.3.0 contains an integer underflow vulnerability in HTTP request body handl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121727",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121727:2026-11-03T23:19"
-  },
-  {
-   "ts": "2026-11-03T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109836 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-109836 📢 Source: jpcert 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False The Core Temp kernel driver provided by ALCPU is vulnerable to insufficient access control",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109836",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109836:2026-11-03T23:19"
   }
  ]
 }
