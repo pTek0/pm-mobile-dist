@@ -1,7 +1,167 @@
 {
- "generated_at": "2026-11-04T15:19:08+00:00",
+ "generated_at": "2026-11-04T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121966 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-121966 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Traefik 2.x before 2.11.60 and 3.x before 3.7.16 sends ForwardAuth subrequests (and, in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121966",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121966:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121964 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-121964 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a heap-based buffer overflow in the RD Gateway RPC client",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121964",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121964:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121963 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-121963 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a use-after-free vulnerability in the asynchronous dynami",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121963",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121963:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121962 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-121962 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a heap buffer overflow in transport_default_read_pdu when",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121962",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121962:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121961 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-121961 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a use-after-free vulnerability in the freerdp-proxy DRDYN",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121961",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121961:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121960 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-121960 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a denial of service vulnerability in the NLA-enabled shad",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121960",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121960:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121959 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-121959 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains an infinite loop vulnerability in websocket_context_read ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121959",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121959:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121958 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-121958 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True FreeRDP through 3.32.1 has a heap out-of-bounds write in the RDPGFX client because the d",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121958",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121958:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121957 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-121957 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a use-after-free vulnerability that allows malicious RDP ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121957",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121957:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121956 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-121956 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a double free in the WinPR Kerberos SSPI retrieveSomeTgt ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121956",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121956:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121955 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-121955 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 contains a use-after-free vulnerability in Emulate_SCardReleaseCon",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121955",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121955:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121954 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-121954 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 has a heap out-of-bounds write in the planar codec because freerdp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121954",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121954:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-121953 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-121953 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 has a use-after-free in the client's rdpgfx dynamic virtual ch",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121953",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121953:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-121952 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-121952 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 has an out-of-bounds write in the proxy because rdp_read_bitma",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121952",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121952:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121951 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-121951 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP 3.0.0 before 3.32.2 server-side RDP peer input parsing skips the six-byte body o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121951",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121951:2026-11-04T15:49"
+  },
+  {
+   "ts": "2026-11-04T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121950 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-121950 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 does not check the product of surface dimensions in gdi_CreateSurf",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121950",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121950:2026-11-04T15:49"
+  },
   {
    "ts": "2026-11-04T15:19:06+00:00",
    "level": "general",
@@ -341,166 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111036",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111036:2026-11-04T09:49"
-  },
-  {
-   "ts": "2026-11-04T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110935 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-110935 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False The PFI plugin framework deployment routine does not validate path components when extrac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110935",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110935:2026-11-04T09:49"
-  },
-  {
-   "ts": "2026-11-04T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110022 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-110022 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False The PFI plugin framework deploys executable assemblies (DLLs) from a signed plugin packag",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110022",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110022:2026-11-04T09:49"
-  },
-  {
-   "ts": "2026-11-04T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94460 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-94460 📢 Source: Canon_EMEA 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False IRISPowerscan contain an insecure default configuration where the built-in installation",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94460",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94460:2026-11-04T09:49"
-  },
-  {
-   "ts": "2026-11-04T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-94459 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-94459 📢 Source: Canon_EMEA 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False IRISPowerscan contain default user accounts with predictable credentials. An unauthenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94459",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94459:2026-11-04T09:49"
-  },
-  {
-   "ts": "2026-11-04T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114421 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-114421 📢 Source: NCSC.ch 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True SEPPmail Secure Email Gateway before 15.1.1 permits password recovery for a created but un",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114421",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114421:2026-11-04T08:49"
-  },
-  {
-   "ts": "2026-11-04T08:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114426 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-114426 📢 Source: NCSC.ch 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SEPPmail Secure Email Gateway before 15.1.1 processes and writes v1 file-interface upload ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114426",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114426:2026-11-04T08:49"
-  },
-  {
-   "ts": "2026-11-04T08:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114425 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-114425 📢 Source: NCSC.ch 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True SEPPmail Secure Email Gateway before 15.1.1 trusts a file path supplied in externally ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114425",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114425:2026-11-04T08:49"
-  },
-  {
-   "ts": "2026-11-04T08:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114424 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-114424 📢 Source: NCSC.ch 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True SEPPmail Secure Email Gateway before 15.1.1 can evaluate attacker-influenced replaceme",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114424",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114424:2026-11-04T08:49"
-  },
-  {
-   "ts": "2026-11-04T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-62126 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-62126 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in miniOrange SAML SP",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62126",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62126:2026-11-04T08:19"
-  },
-  {
-   "ts": "2026-11-04T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-62007 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-62007 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62007",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62007:2026-11-04T08:19"
-  },
-  {
-   "ts": "2026-11-04T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-57666 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-57666 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57666",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57666:2026-11-04T08:19"
-  },
-  {
-   "ts": "2026-11-04T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-57639 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-57639 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-57639",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-57639:2026-11-04T08:19"
-  },
-  {
-   "ts": "2026-11-04T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-56065 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-56065 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Insertion of Sensitive Information into Externally-Accessible File or Directory vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56065",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56065:2026-11-04T08:19"
-  },
-  {
-   "ts": "2026-11-04T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-54861 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-54861 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54861",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54861:2026-11-04T08:19"
-  },
-  {
-   "ts": "2026-11-04T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119477 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-119477 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119477",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119477:2026-11-04T08:19"
-  },
-  {
-   "ts": "2026-11-04T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119366 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-119366 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119366",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119366:2026-11-04T08:19"
   }
  ]
 }
