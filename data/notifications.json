@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-04T21:49:07+00:00",
+ "generated_at": "2026-11-04T22:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-54378 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-54378 📢 Source: VulnCheck 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True VitaFit cloud API before 2026-10-30 contained a broken access control vulnerability t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54378",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54378:2026-11-04T22:19"
+  },
+  {
+   "ts": "2026-11-04T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-54376 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-54376 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False VitaFit Android application (com.vt.vitafit) before 2.8.1.0 contains an insecure custom ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54376",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54376:2026-11-04T22:19"
+  },
+  {
+   "ts": "2026-11-04T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-54375 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-54375 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False VitaFit Android application (com.vt.vitafit) before 2.8.1.0 contains an insecure session",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54375",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54375:2026-11-04T22:19"
+  },
+  {
+   "ts": "2026-11-04T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-54374 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-54374 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True VitaFit Android application (com.vt.vitafit) before 2.8.1.0 contains a hardcoded credenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54374",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54374:2026-11-04T22:19"
+  },
+  {
+   "ts": "2026-11-04T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-54372 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-54372 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False VitaFit Android application (com.vt.vitafit) before 2.8.1.0 contains an insecure TLS/SSL",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54372",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54372:2026-11-04T22:19"
+  },
+  {
+   "ts": "2026-11-04T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-122266 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-122266 📢 Source: AMZN 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Improper isolation of shared resources in aws-network-policy-agent in Amazon EKS Network Pol",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122266",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122266:2026-11-04T22:19"
+  },
   {
    "ts": "2026-11-04T21:19:06+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121953",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121953:2026-11-04T15:49"
-  },
-  {
-   "ts": "2026-11-04T15:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-121952 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-121952 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 has an out-of-bounds write in the proxy because rdp_read_bitma",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121952",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121952:2026-11-04T15:49"
-  },
-  {
-   "ts": "2026-11-04T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121951 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-121951 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP 3.0.0 before 3.32.2 server-side RDP peer input parsing skips the six-byte body o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121951",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121951:2026-11-04T15:49"
-  },
-  {
-   "ts": "2026-11-04T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121950 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-121950 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.32.2 does not check the product of surface dimensions in gdi_CreateSurf",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121950",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121950:2026-11-04T15:49"
-  },
-  {
-   "ts": "2026-11-04T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122007 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-122007 📢 Source: VulnCheck 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Oqtane Framework before 10.3.0 contains a broken access control vulnerability in Setting",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122007",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122007:2026-11-04T15:19"
-  },
-  {
-   "ts": "2026-11-04T14:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-122006 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-122006 📢 Source: mitre 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True The activestorage gem before 8.1.4.1 for Ruby on Rails, when ImageMagick attachment proc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122006",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122006:2026-11-04T14:49"
-  },
-  {
-   "ts": "2026-11-04T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118391 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-118391 📢 Source: EEF 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in elixir-ecto ecto allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118391",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118391:2026-11-04T14:19"
   }
  ]
 }
