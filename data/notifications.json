@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-04T16:49:07+00:00",
+ "generated_at": "2026-11-04T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119749 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-119749 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The GetPaid plugin for WordPress before 2.8.63 contains an improper input validation vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119749",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119749:2026-11-04T17:19"
+  },
+  {
+   "ts": "2026-11-04T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119747 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-119747 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True The GetPaid plugin for WordPress before 2.8.63 contains an incorrect authorization vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119747",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119747:2026-11-04T17:19"
+  },
   {
    "ts": "2026-11-04T16:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://www.theguardian.com/technology/2026/nov/04/uber-australia-high-court-loss-driver-wages-81m-payroll-tax-bill-ntwnfb",
    "source": "Lemmy · technology",
    "id": "community:https://www.theguardian.com/technology/2026/nov/04/uber-australia-high-court-loss-driver-wages-81m-payroll-tax-bill-ntwnfb:2026-11-04T11:19"
-  },
-  {
-   "ts": "2026-11-04T11:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Google dismantles botnet secretly running on 1.3 million And",
-   "body": "Lemmy · technology · 점수 83",
-   "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/:2026-11-04T11:19"
-  },
-  {
-   "ts": "2026-11-04T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120422 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-120422 📢 Source: ESET 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True Sogou Input Method for Windows contains a vulnerability in the configuration retrieval mechan",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120422",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120422:2026-11-04T10:19"
   }
  ]
 }
