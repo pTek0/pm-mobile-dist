@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-04T02:19:07+00:00",
+ "generated_at": "2026-11-04T02:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T02:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-121802 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-121802 📢 Source: mitre 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True @better -auth/expo before 1.7.16 allows certain account-takeover outcomes (e.g., unauthe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121802",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121802:2026-11-04T02:49"
+  },
   {
    "ts": "2026-11-04T02:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-95732",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95732:2026-11-03T20:19"
-  },
-  {
-   "ts": "2026-11-03T20:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-95731 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-95731 📢 Source: hpe 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Hardcoded password vulnerabilities in the command-line interface of HPE Networking Fabric C",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95731",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95731:2026-11-03T20:19"
   }
  ]
 }
