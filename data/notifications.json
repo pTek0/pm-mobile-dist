@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-04T15:49:07+00:00",
+ "generated_at": "2026-11-04T16:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109518 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-109518 📢 Source: canonical 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True On Debian, Ubuntu, and derivative Linux distributions, an on-path attacker who can manip",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109518",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109518:2026-11-04T16:19"
+  },
+  {
+   "ts": "2026-11-04T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119746 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-119746 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True ProSoft Technology ICX35 devices (X35-HWC-A and ICX35-HWC-E) contain a login lockout byp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119746",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119746:2026-11-04T16:19"
+  },
   {
    "ts": "2026-11-04T15:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120422",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120422:2026-11-04T10:19"
-  },
-  {
-   "ts": "2026-11-04T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111038 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-111038 📢 Source: INCIBE 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True CSV formula injection vulnerability in the export functionality of the Coupa Supplier Porta",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111038",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111038:2026-11-04T10:19"
-  },
-  {
-   "ts": "2026-11-04T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111036 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-111036 📢 Source: INCIBE 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Server-side request forgery (SSRF) vulnerability in the Coupa Supplier Portal SaaS platform",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111036",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111036:2026-11-04T09:49"
   }
  ]
 }
