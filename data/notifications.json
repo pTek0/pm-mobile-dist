@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-04T19:19:07+00:00",
+ "generated_at": "2026-11-04T19:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T19:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-122192 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-122192 📢 Source: AMZN 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Improper handling of a failed memory remap in Firecracker versions 0.23.0 through 1.16.1 mig",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122192",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122192:2026-11-04T19:49"
+  },
   {
    "ts": "2026-11-04T18:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100302",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100302:2026-11-04T11:19"
-  },
-  {
-   "ts": "2026-11-04T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115448 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-115448 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Uncontrolled recursion in Apache ZooKeeper. The server serializes its data tree to a snapsh",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115448",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115448:2026-11-04T11:19"
   }
  ]
 }
