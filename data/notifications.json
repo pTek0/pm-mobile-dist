@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-04T17:49:08+00:00",
+ "generated_at": "2026-11-04T18:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-04T18:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-122118 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-122118 📢 Source: mitre 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False In certain Yealink products before 2026-04-15, when the Wi-Fi AP function is enabled, a def",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122118",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122118:2026-11-04T18:19"
+  },
+  {
+   "ts": "2026-11-04T18:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121971 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-121971 📢 Source: Checkmarx 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True The component ScopingHttpClient in Symfony HttpClient merges the options of its default ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121971",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121971:2026-11-04T18:19"
+  },
   {
    "ts": "2026-11-04T17:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://arxiv.org/abs/2605.29713",
    "source": "Hacker News",
    "id": "community:https://arxiv.org/abs/2605.29713:2026-11-04T11:19"
-  },
-  {
-   "ts": "2026-11-04T11:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: HackerTV – HN's most-recommended Youtube videos as ",
-   "body": "Hacker News · 점수 340",
-   "link": "https://hackertv.org",
-   "source": "Hacker News",
-   "id": "community:https://hackertv.org:2026-11-04T11:19"
-  },
-  {
-   "ts": "2026-11-04T11:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Uber pays its drivers ‘wages’ and is liable for $81m payroll",
-   "body": "Lemmy · technology · 점수 100",
-   "link": "https://www.theguardian.com/technology/2026/nov/04/uber-australia-high-court-loss-driver-wages-81m-payroll-tax-bill-ntwnfb",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/technology/2026/nov/04/uber-australia-high-court-loss-driver-wages-81m-payroll-tax-bill-ntwnfb:2026-11-04T11:19"
   }
  ]
 }
