@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-05T14:49:07+00:00",
+ "generated_at": "2026-11-05T15:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-05T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115738 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-115738 📢 Source: trellix 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True SQL injection vulnerability in DLP on-prem extensions version 11.13.1 and earlier allows a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115738",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115738:2026-11-05T15:19"
+  },
+  {
+   "ts": "2026-11-05T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119744 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-119744 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cendio ThinLinc contains an improper authentication vulnerability in its browser-based w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119744",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119744:2026-11-05T15:19"
+  },
   {
    "ts": "2026-11-05T13:49:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-122305",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122305:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-122304 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-122304 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Kyverno from 1.17.0 before 1.19.2 contains an authorization bypass vulnerability tha",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122304",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122304:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-122303 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-122303 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Kyverno from 1.17.0 before 1.19.2 contains an authorization bypass vulnerability tha",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122303",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122303:2026-11-05T03:19"
   }
  ]
 }
