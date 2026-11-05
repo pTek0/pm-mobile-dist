@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-11-05T17:19:07+00:00",
+ "generated_at": "2026-11-05T17:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-05T17:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123184 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-123184 📢 Source: Altium 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True An incorrect authorization vulnerability exists in the Altium 365 Git Service. The permissi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123184",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123184:2026-11-05T17:49"
+  },
+  {
+   "ts": "2026-11-05T17:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107359 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-107359 📢 Source: Silabs 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Improper input validation in the beacon handler for WF200 firmware versions 3.17.0 and ear",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107359",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107359:2026-11-05T17:49"
+  },
+  {
+   "ts": "2026-11-05T17:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97847 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-97847 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the protocol mapper and identity resolution components of Keycloak. The ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97847",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97847:2026-11-05T17:49"
+  },
+  {
+   "ts": "2026-11-05T17:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97175 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-97175 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the idp-auto-link authenticator of the keycloak-services component, whic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97175",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97175:2026-11-05T17:49"
+  },
+  {
+   "ts": "2026-11-05T17:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96453 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-96453 📢 Source: redhat 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the Keycloak Admin CLI kcadm tool, which is used by administrators to mana",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96453",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96453:2026-11-05T17:49"
+  },
+  {
+   "ts": "2026-11-05T17:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93998 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-93998 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the SAML adapter component of Keycloak, which is used to secure applicat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93998",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93998:2026-11-05T17:49"
+  },
+  {
+   "ts": "2026-11-05T17:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92857 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-92857 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Keycloak provides a Dynamic Client Registration feature that allows users with specific toke",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92857",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92857:2026-11-05T17:49"
+  },
+  {
+   "ts": "2026-11-05T17:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92855 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-92855 📢 Source: redhat 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the SAML identity broker component of Keycloak, which is used to delegat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92855",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92855:2026-11-05T17:49"
+  },
+  {
+   "ts": "2026-11-05T17:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120859 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-120859 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False PyMoDAQ before 4.4.13, and pymodaq_data, pymodaq_gui, and pymodaq_utils before 5.1.15, ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120859",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120859:2026-11-05T17:49"
+  },
+  {
+   "ts": "2026-11-05T17:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112109 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-112109 📢 Source: THA-PSIRT 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A local privilege escalation vulnerability in Thales SafeNet Authentication Client (SAC",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112109",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112109:2026-11-05T17:49"
+  },
   {
    "ts": "2026-11-05T17:19:07+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-118869",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118869:2026-11-05T08:49"
-  },
-  {
-   "ts": "2026-11-05T07:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109408 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-109408 📢 Source: Echo 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True vault-java-driver, a Java client for HashiCorp Vault, silently disables TLS certificate and h",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109408",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109408:2026-11-05T07:49"
-  },
-  {
-   "ts": "2026-11-05T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123029 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-123029 📢 Source: mitre 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Wowza Streaming Engine before 4.12.2 processes XML external entities, which allows remote at",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123029",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123029:2026-11-05T07:19"
-  },
-  {
-   "ts": "2026-11-05T06:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-123025 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-123025 📢 Source: mitre 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True An OS Command Injection vulnerability was discovered in the Google Cloud DNS validation ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123025",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123025:2026-11-05T06:49"
-  },
-  {
-   "ts": "2026-11-05T05:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123014 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-123014 📢 Source: mitre 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True iTerm2 before 3.7.7beta2 has an argument injection vulnerability in the x-man-page: URL hand",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123014",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123014:2026-11-05T05:49"
-  },
-  {
-   "ts": "2026-11-05T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123012 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-123012 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Gogs 0.14.3, the Git Smart HTTP authorization layer in internal/route/repo/http.go allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123012",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123012:2026-11-05T05:19"
-  },
-  {
-   "ts": "2026-11-05T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123010 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-123010 📢 Source: mitre 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True @twilio -labs/netlify-okta-auth through 1.0.2 relies on an unverified iss claim. This affect",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123010",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123010:2026-11-05T04:49"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122320 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-122320 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Kyverno before 1.19.2 contains a missing authorization vulnerability that allows namespa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122320",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122320:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122319 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-122319 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Kyverno before 1.19.2 contains a denial-of-service vulnerability in the In and NotIn ope",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122319",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122319:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122318 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-122318 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Kyverno before 1.19.2 contains an authentication bypass in matchCertificateData that ski",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122318",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122318:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122316 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-122316 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Kyverno from 1.17.0 before 1.19.2 contains a missing authorization vulnerability in the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122316",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122316:2026-11-05T03:19"
   }
  ]
 }
