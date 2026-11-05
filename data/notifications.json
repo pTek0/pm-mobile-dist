@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-05T17:49:08+00:00",
+ "generated_at": "2026-11-05T18:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-05T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115452 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-115452 📢 Source: Joomla 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - tassos.gr - Privileged stored XSS in Advanced Custom Fields 2.8.2-2.8.15",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115452",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115452:2026-11-05T18:19"
+  },
   {
    "ts": "2026-11-05T17:49:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.ricursive.com/ripple",
    "source": "Hacker News",
    "id": "community:https://www.ricursive.com/ripple:2026-11-05T11:19"
-  },
-  {
-   "ts": "2026-11-05T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118869 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-118869 📢 Source: jpcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False An OS command injection vulnerability exists in SHIRASAGI, which may allow an authenticate",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118869",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118869:2026-11-05T08:49"
   }
  ]
 }
