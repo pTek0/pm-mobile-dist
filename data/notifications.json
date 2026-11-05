@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-05T15:49:08+00:00",
+ "generated_at": "2026-11-05T16:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-05T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123158 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-123158 📢 Source: mitre 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True sshd in OpenSSH before 10.6p2 on Linux, when musl libc is used without PAM, lacks a workarou",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123158",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123158:2026-11-05T16:19"
+  },
   {
    "ts": "2026-11-05T15:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-122307",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122307:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122306 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-122306 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Kyverno before 1.19.2 contains a denial of service vulnerability that allows namespaced ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122306",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122306:2026-11-05T03:19"
   }
  ]
 }
