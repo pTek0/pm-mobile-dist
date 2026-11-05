@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-05T16:19:07+00:00",
+ "generated_at": "2026-11-05T16:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-05T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119083 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-119083 📢 Source: AMZN 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Path traversal in the archive extraction utility in GluonTS before 0.17.0 might allow an act",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119083",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119083:2026-11-05T16:49"
+  },
+  {
+   "ts": "2026-11-05T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121997 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-121997 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A heap buffer overflow in gdbserver's QTDPsrc packet handler allows an unauthenticated remo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121997",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121997:2026-11-05T16:49"
+  },
+  {
+   "ts": "2026-11-05T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121996 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-121996 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A length validation flaw in gdbserver's agent-expression parser allows an unauthenticated r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121996",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121996:2026-11-05T16:49"
+  },
+  {
+   "ts": "2026-11-05T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121995 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-121995 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A stack buffer overflow in the GDB client's tracepoint upload handler allows an attacker-co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121995",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121995:2026-11-05T16:49"
+  },
+  {
+   "ts": "2026-11-05T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121994 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-121994 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A stack buffer overflow in the GDB client's remote protocol handler allows an attacker-cont",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121994",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121994:2026-11-05T16:49"
+  },
+  {
+   "ts": "2026-11-05T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114232 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-114232 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the UserManagedPermissionService of the Keycloak authorization server. ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114232",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114232:2026-11-05T16:49"
+  },
+  {
+   "ts": "2026-11-05T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112208 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-112208 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the Organization identity-first login flow of the Keycloak authenticati",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112208",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112208:2026-11-05T16:49"
+  },
   {
    "ts": "2026-11-05T16:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-122314",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122314:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-122313 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-122313 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Kyverno from 1.17.0 before 1.19.2 contains a privilege escalation vulnerability that",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122313",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122313:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122312 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-122312 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Kyverno from 1.19.1 before 1.19.2 contains a namespace isolation bypass in APICall Fetch",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122312",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122312:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-122311 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-122311 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Kyverno from 1.16.0 before 1.19.2 fails to validate path segments in the resource ar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122311",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122311:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-122310 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-122310 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Kyverno from 1.19.1 before 1.19.2 validates a Policy's context.apiCall urlPath after",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122310",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122310:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122309 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-122309 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Kyverno before 1.19.2 contains a denial of service vulnerability that allows namespace-s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122309",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122309:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122308 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-122308 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Kyverno before 1.19.2 contains an authorization bypass vulnerability in the Generation H",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122308",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122308:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122307 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-122307 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Kyverno before 1.19.2 contains a policy bypass vulnerability in the admissionpolicygener",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122307",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122307:2026-11-05T03:19"
   }
  ]
 }
