@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-05T00:19:07+00:00",
+ "generated_at": "2026-11-05T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-05T00:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109849 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109849 📢 Source: jpcert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Incorrect privilege assignment issue exists in Hinemos. If this vulnerability is exploited",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109849",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109849:2026-11-05T00:49"
+  },
+  {
+   "ts": "2026-11-05T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQ",
+   "body": "Lobsters · 점수 50",
+   "link": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
+   "source": "Lobsters",
+   "id": "community:https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/:2026-11-05T00:49"
+  },
   {
    "ts": "2026-11-05T00:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82033",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82033:2026-11-04T18:49"
-  },
-  {
-   "ts": "2026-11-04T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82029 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-82029 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Invoice Ninja before 5.13.28 contains a broken access control vulnerability that allows a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82029",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82029:2026-11-04T18:49"
-  },
-  {
-   "ts": "2026-11-04T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122148 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-122148 📢 Source: mitre 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False In Yealink MeetingBoard Pro before 331.320.0.64, the Web management module has a front-end ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122148",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122148:2026-11-04T18:49"
   }
  ]
 }
