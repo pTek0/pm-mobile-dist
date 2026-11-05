@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-05T21:49:07+00:00",
+ "generated_at": "2026-11-05T22:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-05T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-122267 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-122267 📢 Source: chainguard 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True MinIO Signature V4 verification before RELEASE.2026-09-22T19-25-18Z accepts unsigned x-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122267",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122267:2026-11-05T22:19"
+  },
+  {
+   "ts": "2026-11-05T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111494 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-111494 📢 Source: INCIBE 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Incorrect validation of TLS certificates in the MatchPoint Android app due to a TrustMa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111494",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111494:2026-11-05T22:19"
+  },
+  {
+   "ts": "2026-11-05T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111493 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-111493 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Lack of authentication and authorization in the Images.ashx endpoint in MatchPoint, which a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111493",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111493:2026-11-05T22:19"
+  },
+  {
+   "ts": "2026-11-05T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111492 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111492 📢 Source: INCIBE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False SQL injection in the push notification handler of the MatchPoint Android app, which proces",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111492",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111492:2026-11-05T22:19"
+  },
+  {
+   "ts": "2026-11-05T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111490 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-111490 📢 Source: INCIBE 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Insecure direct object reference (IDOR) vulnerability in the MatchPoint API, which reli",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111490",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111490:2026-11-05T22:19"
+  },
+  {
+   "ts": "2026-11-05T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-119757 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-119757 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True BTCPay Server before 2.4.2, including 2.4.2 release candidates, contains an informat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119757",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119757:2026-11-05T22:19"
+  },
+  {
+   "ts": "2026-11-05T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111489 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-111489 📢 Source: INCIBE 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A static credential embedded in the mobile app has been reported to return the 'autoriz",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111489",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111489:2026-11-05T22:19"
+  },
   {
    "ts": "2026-11-05T19:49:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73098",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73098:2026-11-05T12:19"
-  },
-  {
-   "ts": "2026-11-05T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-73095 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-73095 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in Apache Juneau. The Mes",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73095",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73095:2026-11-05T12:19"
-  },
-  {
-   "ts": "2026-11-05T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] NYT demands Brave shut down its paywall blocker and end deal",
-   "body": "Lemmy · technology · 점수 110",
-   "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/:2026-11-05T12:19"
-  },
-  {
-   "ts": "2026-11-05T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] After Texas’ blue wave, what happens to Elon Musk and SpaceX",
-   "body": "Lemmy · technology · 점수 72",
-   "link": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/:2026-11-05T12:19"
-  },
-  {
-   "ts": "2026-11-05T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Your Cryptography Conspiracy Theory Is Wrong",
-   "body": "Lobsters · 점수 60",
-   "link": "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
-   "source": "Lobsters",
-   "id": "community:https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/:2026-11-05T12:19"
-  },
-  {
-   "ts": "2026-11-05T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ouch: The Raspberry Pi 5 just hit an eye-watering $385",
-   "body": "Lemmy · technology · 점수 279",
-   "link": "https://www.pcworld.com/article/3275871/ouch-the-raspberry-pi-5-just-hit-an-eye-watering-385.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.pcworld.com/article/3275871/ouch-the-raspberry-pi-5-just-hit-an-eye-watering-385.html:2026-11-05T11:49"
-  },
-  {
-   "ts": "2026-11-05T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Insects don't swarm at LED lights",
-   "body": "Hacker News · 점수 265",
-   "link": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-   "source": "Hacker News",
-   "id": "community:https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/:2026-11-05T11:49"
-  },
-  {
-   "ts": "2026-11-05T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Big Tech claims voters’ AI backlash is “anti-Trump” not “ant",
-   "body": "Lemmy · technology · 점수 179",
-   "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/:2026-11-05T11:49"
   }
  ]
 }
