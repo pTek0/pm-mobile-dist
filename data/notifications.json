@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-05T18:19:07+00:00",
+ "generated_at": "2026-11-05T18:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-05T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123208 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-123208 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True noname Electron desktop build v1.11.2 through v1.11.6.1 contains an unauthenticated loca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123208",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123208:2026-11-05T18:49"
+  },
+  {
+   "ts": "2026-11-05T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123205 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-123205 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True accel-ppp before 1.15.0 contains a heap buffer overflow vulnerability in the tcp, syslog",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123205",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123205:2026-11-05T18:49"
+  },
+  {
+   "ts": "2026-11-05T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123202 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-123202 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True libnxml before 0.18.6 contains a stack-based buffer overflow vulnerability in src/nxml_p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123202",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123202:2026-11-05T18:49"
+  },
   {
    "ts": "2026-11-05T18:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
    "source": "Hacker News",
    "id": "community:https://openai.com/index/a-thousand-fewer-paths-to-root/:2026-11-05T11:19"
-  },
-  {
-   "ts": "2026-11-05T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ask HN: What's your current AI agentic setup?",
-   "body": "Hacker News · 점수 340",
-   "link": "https://news.ycombinator.com/item?id=50366117",
-   "source": "Hacker News",
-   "id": "community:https://news.ycombinator.com/item?id=50366117:2026-11-05T11:19"
-  },
-  {
-   "ts": "2026-11-05T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Images 2.6",
-   "body": "Hacker News · 점수 308",
-   "link": "https://openai.com/index/introducing-images-2-6/",
-   "source": "Hacker News",
-   "id": "community:https://openai.com/index/introducing-images-2-6/:2026-11-05T11:19"
-  },
-  {
-   "ts": "2026-11-05T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-   "body": "Hacker News · 점수 298",
-   "link": "https://www.ricursive.com/ripple",
-   "source": "Hacker News",
-   "id": "community:https://www.ricursive.com/ripple:2026-11-05T11:19"
   }
  ]
 }
