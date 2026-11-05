@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-05T16:49:07+00:00",
+ "generated_at": "2026-11-05T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-05T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82965 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-82965 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the SAML implementation of Keycloak, an open-source identity and access ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82965",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82965:2026-11-05T17:19"
+  },
+  {
+   "ts": "2026-11-05T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120499 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-120499 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False h5io before 0.2.6 contains a code injection vulnerability in read_hdf5() that allows at",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120499",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120499:2026-11-05T17:19"
+  },
   {
    "ts": "2026-11-05T16:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-122316",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122316:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122315 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-122315 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Kyverno before 1.19.2 contains an unchecked type assertion in buildStatementMap that all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122315",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122315:2026-11-05T03:19"
-  },
-  {
-   "ts": "2026-11-05T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122314 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-122314 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Kyverno before 1.19.2 contains an unchecked type assertion in its variable-substitution ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122314",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122314:2026-11-05T03:19"
   }
  ]
 }
