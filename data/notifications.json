@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-05T07:19:07+00:00",
+ "generated_at": "2026-11-05T07:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-05T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109408 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-109408 📢 Source: Echo 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True vault-java-driver, a Java client for HashiCorp Vault, silently disables TLS certificate and h",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109408",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109408:2026-11-05T07:49"
+  },
   {
    "ts": "2026-11-05T07:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-54374",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54374:2026-11-04T22:19"
-  },
-  {
-   "ts": "2026-11-04T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-54372 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-54372 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False VitaFit Android application (com.vt.vitafit) before 2.8.1.0 contains an insecure TLS/SSL",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54372",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54372:2026-11-04T22:19"
   }
  ]
 }
