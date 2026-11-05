@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-05T22:49:07+00:00",
+ "generated_at": "2026-11-05T23:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-05T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] sshole",
+   "body": "Hacker News · 점수 2172",
+   "link": "https://sshhole.com",
+   "source": "Hacker News",
+   "id": "community:https://sshhole.com:2026-11-05T23:19"
+  },
+  {
+   "ts": "2026-11-05T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Alpine Linux Security Advisory: OpenSSH-server password auth",
+   "body": "Hacker News · 점수 530",
+   "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+   "source": "Hacker News",
+   "id": "community:https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/:2026-11-05T23:19"
+  },
+  {
+   "ts": "2026-11-05T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Motorola Signature 27 with GrapheneOS support",
+   "body": "Hacker News · 점수 354",
+   "link": "https://motorolanews.com/motorola-signature-27-2/",
+   "source": "Hacker News",
+   "id": "community:https://motorolanews.com/motorola-signature-27-2/:2026-11-05T23:19"
+  },
+  {
+   "ts": "2026-11-05T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Kagi Search for Everyone",
+   "body": "Hacker News · 점수 301",
+   "link": "https://kagi.com/changelog",
+   "source": "Hacker News",
+   "id": "community:https://kagi.com/changelog:2026-11-05T23:19"
+  },
+  {
+   "ts": "2026-11-05T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Goodbye from Salon",
+   "body": "Hacker News · 점수 287",
+   "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+   "source": "Hacker News",
+   "id": "community:https://www.salon.com/2026/11/05/goodbye-from-salon/:2026-11-05T23:19"
+  },
   {
    "ts": "2026-11-05T22:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73116",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73116:2026-11-05T12:19"
-  },
-  {
-   "ts": "2026-11-05T12:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73101 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-73101 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Generation of Error Message Containing Sensitive Information vulnerability in Apache June",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73101",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73101:2026-11-05T12:19"
-  },
-  {
-   "ts": "2026-11-05T12:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73100 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-73100 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Insertion of Sensitive Information into Log File vulnerability in Apache Juneau. The defa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73100",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73100:2026-11-05T12:19"
-  },
-  {
-   "ts": "2026-11-05T12:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73099 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-73099 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Apache Juneau. The REST server accepts",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73099",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73099:2026-11-05T12:19"
-  },
-  {
-   "ts": "2026-11-05T12:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-121489 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-121489 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121489",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121489:2026-11-05T12:19"
-  },
-  {
-   "ts": "2026-11-05T12:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-73098 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-73098 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Improper control of dynamically-loaded code vulnerability in Apache Juneau. When Apache J",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73098",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73098:2026-11-05T12:19"
   }
  ]
 }
