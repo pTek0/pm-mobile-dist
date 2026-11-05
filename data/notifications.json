@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-11-05T11:49:07+00:00",
+ "generated_at": "2026-11-05T12:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-05T12:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-96677 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-96677 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96677",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96677:2026-11-05T12:19"
+  },
+  {
+   "ts": "2026-11-05T12:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73117 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-73117 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting') vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73117",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73117:2026-11-05T12:19"
+  },
+  {
+   "ts": "2026-11-05T12:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73116 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-73116 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Insufficiently Protected Credentials vulnerability in Apache Juneau. The Apache Juneau Re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73116",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73116:2026-11-05T12:19"
+  },
+  {
+   "ts": "2026-11-05T12:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73101 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-73101 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Generation of Error Message Containing Sensitive Information vulnerability in Apache June",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73101",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73101:2026-11-05T12:19"
+  },
+  {
+   "ts": "2026-11-05T12:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73100 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-73100 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Insertion of Sensitive Information into Log File vulnerability in Apache Juneau. The defa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73100",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73100:2026-11-05T12:19"
+  },
+  {
+   "ts": "2026-11-05T12:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73099 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-73099 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Apache Juneau. The REST server accepts",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73099",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73099:2026-11-05T12:19"
+  },
+  {
+   "ts": "2026-11-05T12:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-121489 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-121489 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121489",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121489:2026-11-05T12:19"
+  },
+  {
+   "ts": "2026-11-05T12:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-73098 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-73098 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Improper control of dynamically-loaded code vulnerability in Apache Juneau. When Apache J",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73098",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73098:2026-11-05T12:19"
+  },
+  {
+   "ts": "2026-11-05T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-73095 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-73095 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in Apache Juneau. The Mes",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-73095",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-73095:2026-11-05T12:19"
+  },
+  {
+   "ts": "2026-11-05T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] NYT demands Brave shut down its paywall blocker and end deal",
+   "body": "Lemmy · technology · 점수 110",
+   "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/:2026-11-05T12:19"
+  },
+  {
+   "ts": "2026-11-05T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] After Texas’ blue wave, what happens to Elon Musk and SpaceX",
+   "body": "Lemmy · technology · 점수 72",
+   "link": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/:2026-11-05T12:19"
+  },
+  {
+   "ts": "2026-11-05T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Your Cryptography Conspiracy Theory Is Wrong",
+   "body": "Lobsters · 점수 60",
+   "link": "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
+   "source": "Lobsters",
+   "id": "community:https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/:2026-11-05T12:19"
+  },
   {
    "ts": "2026-11-05T11:49:07+00:00",
    "level": "general",
@@ -381,126 +501,6 @@
    "link": "https://gregtech.eu/pictrs/image/518b68f1-63f9-4688-859f-575ab0f972d0.jpeg",
    "source": "Lemmy · programming.dev",
    "id": "community:https://gregtech.eu/pictrs/image/518b68f1-63f9-4688-859f-575ab0f972d0.jpeg:2026-11-05T00:19"
-  },
-  {
-   "ts": "2026-11-05T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Guerrilla bike lanes: San Francisco makes illicit infrastruc",
-   "body": "Hacker News · 점수 233",
-   "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-   "source": "Hacker News",
-   "id": "community:https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/:2026-11-05T00:19"
-  },
-  {
-   "ts": "2026-11-05T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Verification Is Not Knowledge: Science needs more than answe",
-   "body": "Hacker News · 점수 215",
-   "link": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-   "source": "Hacker News",
-   "id": "community:https://blog.cosmos-institute.org/p/verification-is-not-knowledge:2026-11-05T00:19"
-  },
-  {
-   "ts": "2026-11-05T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Elon Musk in Real Trouble After Humiliating Defeat: \"Guess m",
-   "body": "Lemmy · technology · 점수 197",
-   "link": "https://futurism.com/future-society/elon-musk-trouble-humiliating-defeat-midterms",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/future-society/elon-musk-trouble-humiliating-defeat-midterms:2026-11-05T00:19"
-  },
-  {
-   "ts": "2026-11-05T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] So my ISP was hijacking my DNS",
-   "body": "Lobsters · 점수 63",
-   "link": "https://karthihegde.dev/posts/dns_tampering",
-   "source": "Lobsters",
-   "id": "community:https://karthihegde.dev/posts/dns_tampering:2026-11-05T00:19"
-  },
-  {
-   "ts": "2026-11-04T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AMD expects to outsell Intel in Q4 for the first time in his",
-   "body": "Hacker News · 점수 421",
-   "link": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-   "source": "Hacker News",
-   "id": "community:https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections:2026-11-04T23:49"
-  },
-  {
-   "ts": "2026-11-04T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Kimi K3.1 Pro model weights are out",
-   "body": "Hacker News · 점수 305",
-   "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-   "source": "Hacker News",
-   "id": "community:https://huggingface.co/moonshotai/Kimi-K3.1-Pro:2026-11-04T23:49"
-  },
-  {
-   "ts": "2026-11-04T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Truth Social Stock Crashes to All-Time Low After MAGA’s Mass",
-   "body": "Lemmy · technology · 점수 251",
-   "link": "https://futurism.com/future-society/truth-social-stock-crashes-maga-defeat",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/future-society/truth-social-stock-crashes-maga-defeat:2026-11-04T23:49"
-  },
-  {
-   "ts": "2026-11-04T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Incident with Pull Requests, Git Operations and Issues",
-   "body": "Hacker News · 점수 248",
-   "link": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-   "source": "Hacker News",
-   "id": "community:https://www.githubstatus.com/incidents/smtdswd1h2w4:2026-11-04T23:49"
-  },
-  {
-   "ts": "2026-11-04T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Tech Industry Went All in on Trump, and Now They’re in S",
-   "body": "Lemmy · technology · 점수 242",
-   "link": "https://futurism.com/artificial-intelligence/tech-companies-danger-trump",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/tech-companies-danger-trump:2026-11-04T23:49"
-  },
-  {
-   "ts": "2026-11-04T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122299 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-122299 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dulwich before 1.2.20 contains a commit object parsing vulnerability where the read path",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122299",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122299:2026-11-04T23:19"
-  },
-  {
-   "ts": "2026-11-04T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI is forcing us to pay off 40 years of technical debt",
-   "body": "Hacker News · 점수 989",
-   "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-   "source": "Hacker News",
-   "id": "community:https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability:2026-11-04T23:19"
-  },
-  {
-   "ts": "2026-11-04T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tell HN: Gemini trains on chat history, even for subscribers",
-   "body": "Hacker News · 점수 603",
-   "link": "https://news.ycombinator.com/item?id=50363461",
-   "source": "Hacker News",
-   "id": "community:https://news.ycombinator.com/item?id=50363461:2026-11-04T23:19"
   }
  ]
 }
