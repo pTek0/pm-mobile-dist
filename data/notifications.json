@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-06T15:19:07+00:00",
+ "generated_at": "2026-11-06T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-06T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123792 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-123792 📢 Source: Checkmarx 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The Symfony Yaml components Inline and Parser, parse some YAML documents inefficiently, ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123792",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123792:2026-11-06T15:49"
+  },
+  {
+   "ts": "2026-11-06T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123623 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-123623 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Grida through 0.0.24 contains a missing authorization vulnerability in the Forms file-pr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123623",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123623:2026-11-06T15:49"
+  },
   {
    "ts": "2026-11-06T15:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://declarative-dragging.github.io/",
    "source": "Lobsters",
    "id": "community:https://declarative-dragging.github.io/:2026-11-06T00:49"
-  },
-  {
-   "ts": "2026-11-06T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Kids Hooked on AI Chatbots Are Showing Dramatically Worse Me",
-   "body": "Lemmy · technology · 점수 92",
-   "link": "https://futurism.com/artificial-intelligence/kids-hooked-ai-worse-mental-health",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/kids-hooked-ai-worse-mental-health:2026-11-06T00:49"
-  },
-  {
-   "ts": "2026-11-06T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] with Claudes new model we can slop up a 16th and 17th at rec",
-   "body": "Lemmy · programming.dev · 점수 78",
-   "link": "https://sh.itjust.works/pictrs/image/b15ea47f-c02d-49ee-bf12-2e5db804e7d7.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://sh.itjust.works/pictrs/image/b15ea47f-c02d-49ee-bf12-2e5db804e7d7.png:2026-11-06T00:49"
   }
  ]
 }
