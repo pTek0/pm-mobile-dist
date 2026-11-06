@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-06T09:49:08+00:00",
+ "generated_at": "2026-11-06T10:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-06T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116592 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-116592 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False undici is an HTTP client for Node.js. In versions 7.30.1 and 8.12.2 through 8.12.3, when a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116592",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116592:2026-11-06T10:19"
+  },
   {
    "ts": "2026-11-06T09:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-123202",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123202:2026-11-05T18:49"
-  },
-  {
-   "ts": "2026-11-05T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115452 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-115452 📢 Source: Joomla 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - tassos.gr - Privileged stored XSS in Advanced Custom Fields 2.8.2-2.8.15",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115452",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115452:2026-11-05T18:19"
   }
  ]
 }
