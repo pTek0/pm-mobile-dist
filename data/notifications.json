@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-06T21:49:15+00:00",
+ "generated_at": "2026-11-06T22:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-06T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-50240 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-50240 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in OpenShift Pipelines-as-Code (PAC). PAC does not verify whether the creat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-50240",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-50240:2026-11-06T22:19"
+  },
+  {
+   "ts": "2026-11-06T22:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-59104 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-59104 📢 Source: ENISA 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True UgCS server before 6.2 contains an authentication bypass in the HCI protocol login handle",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59104",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59104:2026-11-06T22:19"
+  },
   {
    "ts": "2026-11-06T21:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-109884",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109884:2026-11-06T12:49"
-  },
-  {
-   "ts": "2026-11-06T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109883 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-109883 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109883",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109883:2026-11-06T12:49"
-  },
-  {
-   "ts": "2026-11-06T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85111 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-85111 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling in Apache James Mime4J library prior ve",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85111",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85111:2026-11-06T12:19"
   }
  ]
 }
