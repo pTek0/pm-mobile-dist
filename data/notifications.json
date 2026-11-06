@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-06T17:49:07+00:00",
+ "generated_at": "2026-11-06T18:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-06T18:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-89017 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-89017 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Skyline DataMiner BrokerGateway contains an embedded API key vulnerability that allows un",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89017",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89017:2026-11-06T18:19"
+  },
   {
    "ts": "2026-11-06T17:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116592",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116592:2026-11-06T10:19"
-  },
-  {
-   "ts": "2026-11-06T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123087 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-123087 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SQL injection vulnerability in Atmira’s SIREC. The server retrieves the value of a field fr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123087",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123087:2026-11-06T09:49"
   }
  ]
 }
