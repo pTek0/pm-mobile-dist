@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-06T14:19:07+00:00",
+ "generated_at": "2026-11-06T14:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-06T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87045 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-87045 📢 Source: zephyr 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False The HTTP/2 server in subsys/net/lib/http/http_server_http2.c clears the connection's stream",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87045",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87045:2026-11-06T14:49"
+  },
+  {
+   "ts": "2026-11-06T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106019 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-106019 📢 Source: jci 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Insertion of sensitive information into log file vulnerability in Johnson Controls C-CURE 900",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106019",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106019:2026-11-06T14:49"
+  },
+  {
+   "ts": "2026-11-06T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-64894 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-64894 📢 Source: jci 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Inclusion of functionality from untrusted control sphere vulnerability in Johnson Controls Eas",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-64894",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-64894:2026-11-06T14:49"
+  },
+  {
+   "ts": "2026-11-06T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-59105 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-59105 📢 Source: ENISA 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Jumis (formerly Tildes Jumis) creates and uses a Microsoft SQL Server login named ##Tilde",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59105",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59105:2026-11-06T14:49"
+  },
+  {
+   "ts": "2026-11-06T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106022 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-106022 📢 Source: jci 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Cleartext storage of sensitive information in memory vulnerability in Johnson Controls EasyIO",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106022",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106022:2026-11-06T14:49"
+  },
+  {
+   "ts": "2026-11-06T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106020 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-106020 📢 Source: jci 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Improper neutralization of input used for LLM prompting vulnerability in Johnson Controls Eas",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106020",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106020:2026-11-06T14:49"
+  },
   {
    "ts": "2026-11-06T13:19:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://sshhole.com",
    "source": "Hacker News",
    "id": "community:https://sshhole.com:2026-11-05T23:19"
-  },
-  {
-   "ts": "2026-11-05T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Alpine Linux Security Advisory: OpenSSH-server password auth",
-   "body": "Hacker News · 점수 530",
-   "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-   "source": "Hacker News",
-   "id": "community:https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/:2026-11-05T23:19"
-  },
-  {
-   "ts": "2026-11-05T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Motorola Signature 27 with GrapheneOS support",
-   "body": "Hacker News · 점수 354",
-   "link": "https://motorolanews.com/motorola-signature-27-2/",
-   "source": "Hacker News",
-   "id": "community:https://motorolanews.com/motorola-signature-27-2/:2026-11-05T23:19"
-  },
-  {
-   "ts": "2026-11-05T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Kagi Search for Everyone",
-   "body": "Hacker News · 점수 301",
-   "link": "https://kagi.com/changelog",
-   "source": "Hacker News",
-   "id": "community:https://kagi.com/changelog:2026-11-05T23:19"
-  },
-  {
-   "ts": "2026-11-05T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Goodbye from Salon",
-   "body": "Hacker News · 점수 287",
-   "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-   "source": "Hacker News",
-   "id": "community:https://www.salon.com/2026/11/05/goodbye-from-salon/:2026-11-05T23:19"
-  },
-  {
-   "ts": "2026-11-05T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122267 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-122267 📢 Source: chainguard 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True MinIO Signature V4 verification before RELEASE.2026-09-22T19-25-18Z accepts unsigned x-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122267",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122267:2026-11-05T22:19"
-  },
-  {
-   "ts": "2026-11-05T22:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111494 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-111494 📢 Source: INCIBE 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Incorrect validation of TLS certificates in the MatchPoint Android app due to a TrustMa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111494",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111494:2026-11-05T22:19"
   }
  ]
 }
