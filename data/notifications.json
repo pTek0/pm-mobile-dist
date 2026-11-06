@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-06T18:49:07+00:00",
+ "generated_at": "2026-11-06T19:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-06T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123998 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-123998 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False Hisense VIDAA Smart TV firmware V0000.01.00a.P0220 contains an authentication bypass vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123998",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123998:2026-11-06T19:19"
+  },
+  {
+   "ts": "2026-11-06T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123997 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-123997 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Hisense VIDAA Smart TV firmware V0000.01.00a.P0220 contains an unauthenticated denial-o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123997",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123997:2026-11-06T19:19"
+  },
+  {
+   "ts": "2026-11-06T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123993 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-123993 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Hisense VIDAA Smart TV firmware V0000.01.00a.P0220 contains an unauthenticated access v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123993",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123993:2026-11-06T19:19"
+  },
   {
    "ts": "2026-11-06T18:49:06+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-123279",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123279:2026-11-06T10:49"
-  },
-  {
-   "ts": "2026-11-06T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123276 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-123276 📢 Source: JetBrains 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In JetBrains CLion before 2026.3, 2026.2.4.1 code execution was possible in Safe Mode v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123276",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123276:2026-11-06T10:49"
-  },
-  {
-   "ts": "2026-11-06T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115701 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-115701 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in ninenines cowboy allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115701",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115701:2026-11-06T10:49"
-  },
-  {
-   "ts": "2026-11-06T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-113431 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-113431 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in ninenines cowlib allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113431",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113431:2026-11-06T10:49"
   }
  ]
 }
