@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-06T15:49:07+00:00",
+ "generated_at": "2026-11-06T16:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-06T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121623 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-121623 📢 Source: Checkmarx 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True The Symfony Serializer component DataUriNormalizer::denormalize() matches the data: sche",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121623",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121623:2026-11-06T16:19"
+  },
   {
    "ts": "2026-11-06T15:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2025-71458",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-71458:2026-11-06T00:49"
-  },
-  {
-   "ts": "2026-11-06T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Declarative Dragging",
-   "body": "Lobsters · 점수 109",
-   "link": "https://declarative-dragging.github.io/",
-   "source": "Lobsters",
-   "id": "community:https://declarative-dragging.github.io/:2026-11-06T00:49"
   }
  ]
 }
