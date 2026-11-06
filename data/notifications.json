@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-06T00:49:07+00:00",
+ "generated_at": "2026-11-06T01:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-06T01:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107492 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-107492 📢 Source: TuranSec 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Improper Authentication in the jwt_authn HTTP filter in envoyproxy envoy versions up t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107492",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107492:2026-11-06T01:19"
+  },
+  {
+   "ts": "2026-11-06T01:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] September in Servo: progress, rounded rectangles, and more",
+   "body": "Lobsters · 점수 50",
+   "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
+   "source": "Lobsters",
+   "id": "community:https://servo.org/blog/2026/11/05/september-in-servo/:2026-11-06T01:19"
+  },
   {
    "ts": "2026-11-06T00:49:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-112109",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112109:2026-11-05T17:49"
-  },
-  {
-   "ts": "2026-11-05T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82965 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-82965 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the SAML implementation of Keycloak, an open-source identity and access ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82965",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82965:2026-11-05T17:19"
-  },
-  {
-   "ts": "2026-11-05T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120499 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-120499 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False h5io before 0.2.6 contains a code injection vulnerability in read_hdf5() that allows at",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120499",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120499:2026-11-05T17:19"
   }
  ]
 }
