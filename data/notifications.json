@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-06T16:49:07+00:00",
+ "generated_at": "2026-11-06T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-06T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123962 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-123962 📢 Source: mitre 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False In FreedomBox before 26.15, unprivileged user accounts can read/write files for which they ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123962",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123962:2026-11-06T17:19"
+  },
+  {
+   "ts": "2026-11-06T17:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-122193 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-122193 📢 Source: AMZN 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True OS command injection in the example SSM document provisioning script in Trusted Remote Ex",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122193",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122193:2026-11-06T17:19"
+  },
   {
    "ts": "2026-11-06T16:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19877",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19877:2026-11-06T08:49"
-  },
-  {
-   "ts": "2026-11-06T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-39744 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-39744 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-39744",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-39744:2026-11-06T08:19"
-  },
-  {
-   "ts": "2026-11-06T08:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-120844 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-120844 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in miniOrange OAuth Single Sign On – S",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120844",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120844:2026-11-06T08:19"
   }
  ]
 }
