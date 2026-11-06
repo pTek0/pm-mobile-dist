@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-06T12:19:08+00:00",
+ "generated_at": "2026-11-06T12:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-06T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109884 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109884 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109884",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109884:2026-11-06T12:49"
+  },
+  {
+   "ts": "2026-11-06T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109883 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109883 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109883",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109883:2026-11-06T12:49"
+  },
   {
    "ts": "2026-11-06T12:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111493",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111493:2026-11-05T22:19"
-  },
-  {
-   "ts": "2026-11-05T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111492 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-111492 📢 Source: INCIBE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False SQL injection in the push notification handler of the MatchPoint Android app, which proces",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111492",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111492:2026-11-05T22:19"
-  },
-  {
-   "ts": "2026-11-05T22:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111490 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-111490 📢 Source: INCIBE 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Insecure direct object reference (IDOR) vulnerability in the MatchPoint API, which reli",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111490",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111490:2026-11-05T22:19"
   }
  ]
 }
