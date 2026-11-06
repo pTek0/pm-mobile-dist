@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-06T19:49:07+00:00",
+ "generated_at": "2026-11-06T20:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-06T20:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123974 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-123974 📢 Source: Akrites 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In all versions of PyTorch's TorchServe, a predictable extraction directory in /tmp lets ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123974",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123974:2026-11-06T20:19"
+  },
   {
    "ts": "2026-11-06T19:49:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-123282",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123282:2026-11-06T10:49"
-  },
-  {
-   "ts": "2026-11-06T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123281 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-123281 📢 Source: JetBrains 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In JetBrains Datalore before 2026.4 notebook code could execute commands in the sidecar ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123281",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123281:2026-11-06T10:49"
   }
  ]
 }
