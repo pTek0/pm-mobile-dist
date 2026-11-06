@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-06T10:19:08+00:00",
+ "generated_at": "2026-11-06T10:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-06T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123282 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-123282 📢 Source: JetBrains 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True In JetBrains Datalore before 2026.4 missing expiration validation of account tokens allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123282",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123282:2026-11-06T10:49"
+  },
+  {
+   "ts": "2026-11-06T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123281 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-123281 📢 Source: JetBrains 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In JetBrains Datalore before 2026.4 notebook code could execute commands in the sidecar ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123281",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123281:2026-11-06T10:49"
+  },
+  {
+   "ts": "2026-11-06T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123280 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-123280 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains Datalore before 2026.2.4 unauthenticated users could execute code via publi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123280",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123280:2026-11-06T10:49"
+  },
+  {
+   "ts": "2026-11-06T10:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-123279 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-123279 📢 Source: JetBrains 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True In JetBrains Datalore before 2026.4 code execution was possible in a notebook's comput",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123279",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123279:2026-11-06T10:49"
+  },
+  {
+   "ts": "2026-11-06T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123276 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-123276 📢 Source: JetBrains 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In JetBrains CLion before 2026.3, 2026.2.4.1 code execution was possible in Safe Mode v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123276",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123276:2026-11-06T10:49"
+  },
+  {
+   "ts": "2026-11-06T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115701 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-115701 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in ninenines cowboy allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115701",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115701:2026-11-06T10:49"
+  },
+  {
+   "ts": "2026-11-06T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113431 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-113431 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in ninenines cowlib allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113431",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113431:2026-11-06T10:49"
+  },
   {
    "ts": "2026-11-06T10:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111489",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111489:2026-11-05T22:19"
-  },
-  {
-   "ts": "2026-11-05T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19134 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-19134 📢 Source: OpenText 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A vulnerability in OpenText OpenText Directory Services (OTDS) allows Black Box Reverse En",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19134",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19134:2026-11-05T19:49"
-  },
-  {
-   "ts": "2026-11-05T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123273 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-123273 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ImageMagick before 7.1.2-35 and 6.9.13-60 contains an infinite loop vulnerability in the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123273",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123273:2026-11-05T19:19"
-  },
-  {
-   "ts": "2026-11-05T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123272 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-123272 📢 Source: VulnCheck 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True Mark3labs mcp-go before v1.2.1 contains an improper validation vulnerability in OAuthHandl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123272",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123272:2026-11-05T19:19"
-  },
-  {
-   "ts": "2026-11-05T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123271 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-123271 📢 Source: VulnCheck 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True ChatCLI before v1.215.2 contains an improper validation vulnerability in the MCP OAuth log",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123271",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123271:2026-11-05T19:19"
-  },
-  {
-   "ts": "2026-11-05T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123208 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-123208 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True noname Electron desktop build v1.11.2 through v1.11.6.1 contains an unauthenticated loca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123208",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123208:2026-11-05T18:49"
-  },
-  {
-   "ts": "2026-11-05T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123205 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-123205 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True accel-ppp before 1.15.0 contains a heap buffer overflow vulnerability in the tcp, syslog",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123205",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123205:2026-11-05T18:49"
-  },
-  {
-   "ts": "2026-11-05T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123202 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-123202 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True libnxml before 0.18.6 contains a stack-based buffer overflow vulnerability in src/nxml_p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123202",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123202:2026-11-05T18:49"
   }
  ]
 }
