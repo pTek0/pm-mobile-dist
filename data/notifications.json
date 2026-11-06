@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-06T20:49:07+00:00",
+ "generated_at": "2026-11-06T21:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-06T21:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-71397 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-71397 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in elixir-grpc grpc_server a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-71397",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-71397:2026-11-06T21:19"
+  },
+  {
+   "ts": "2026-11-06T21:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124078 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-124078 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True plist.js (npm package 'plist') before 5.0.1 contains an uncontrolled resource consumptio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124078",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124078:2026-11-06T21:19"
+  },
   {
    "ts": "2026-11-06T20:19:09+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85111",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85111:2026-11-06T12:19"
-  },
-  {
-   "ts": "2026-11-06T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123655 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-123655 📢 Source: fedora 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Moodle. Insufficient access control checks on H5P content files allow u",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123655",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123655:2026-11-06T12:19"
-  },
-  {
-   "ts": "2026-11-06T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123282 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-123282 📢 Source: JetBrains 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True In JetBrains Datalore before 2026.4 missing expiration validation of account tokens allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123282",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123282:2026-11-06T10:49"
   }
  ]
 }
