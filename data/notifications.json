@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-06T11:49:08+00:00",
+ "generated_at": "2026-11-06T12:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-06T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85111 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-85111 📢 Source: apache 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling in Apache James Mime4J library prior ve",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85111",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85111:2026-11-06T12:19"
+  },
+  {
+   "ts": "2026-11-06T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123655 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-123655 📢 Source: fedora 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Moodle. Insufficient access control checks on H5P content files allow u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123655",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123655:2026-11-06T12:19"
+  },
   {
    "ts": "2026-11-06T10:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111490",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111490:2026-11-05T22:19"
-  },
-  {
-   "ts": "2026-11-05T22:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-119757 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-119757 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True BTCPay Server before 2.4.2, including 2.4.2 release candidates, contains an informat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119757",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119757:2026-11-05T22:19"
-  },
-  {
-   "ts": "2026-11-05T22:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111489 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-111489 📢 Source: INCIBE 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A static credential embedded in the mobile app has been reported to return the 'autoriz",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111489",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111489:2026-11-05T22:19"
   }
  ]
 }
