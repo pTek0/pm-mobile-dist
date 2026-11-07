@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-07T03:49:07+00:00",
+ "generated_at": "2026-11-07T04:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-07T04:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-123218 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-123218 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Aspera Faspex 5.0.0 through 5.0.19 could allow an authorized user to craft a specific ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123218",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123218:2026-11-07T04:19"
+  },
   {
    "ts": "2026-11-07T03:49:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-123620",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123620:2026-11-06T15:19"
-  },
-  {
-   "ts": "2026-11-06T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123618 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-123618 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True ABP Framework before 10.7.1 contains an authentication bypass vulnerability that skips a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123618",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123618:2026-11-06T15:19"
   }
  ]
 }
