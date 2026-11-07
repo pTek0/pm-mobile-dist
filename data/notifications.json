@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-07T04:49:07+00:00",
+ "generated_at": "2026-11-07T05:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-07T05:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-18535 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-18535 📢 Source: ibm 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 are vulnerable to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18535",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18535:2026-11-07T05:19"
+  },
   {
    "ts": "2026-11-07T04:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-123841",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123841:2026-11-06T16:49"
-  },
-  {
-   "ts": "2026-11-06T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123838 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-123838 📢 Source: JetBrains 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In JetBrains IntelliJ IDEA before 2026.3 code execution was possible in Safe Mode via U",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123838",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123838:2026-11-06T16:49"
   }
  ]
 }
