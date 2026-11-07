@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-07T03:19:07+00:00",
+ "generated_at": "2026-11-07T03:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-07T03:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-17362 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-17362 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM API Connect 12.1.0.0 through 12.1.1.2 could allow a remote attacker to create, modify, ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17362",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17362:2026-11-07T03:49"
+  },
   {
    "ts": "2026-11-07T00:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-123618",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123618:2026-11-06T15:19"
-  },
-  {
-   "ts": "2026-11-06T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123491 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-123491 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Craft CMS 4.0.0 before 4.18.9 and 5.0.0 before 5.11.2 contains an SQL injection vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123491",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123491:2026-11-06T15:19"
   }
  ]
 }
