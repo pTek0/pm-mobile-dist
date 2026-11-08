@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-08T11:19:08+00:00",
+ "generated_at": "2026-11-08T11:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-08T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Apple’s grey list: Words and phrases your iPhone won’t help ",
+   "body": "Hacker News · 점수 472",
+   "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+   "source": "Hacker News",
+   "id": "community:https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you:2026-11-08T11:49"
+  },
+  {
+   "ts": "2026-11-08T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The end of Microsoft Research's AI Frontiers group",
+   "body": "Hacker News · 점수 463",
+   "link": "https://hunch.net/?p=13764006",
+   "source": "Hacker News",
+   "id": "community:https://hunch.net/?p=13764006:2026-11-08T11:49"
+  },
+  {
+   "ts": "2026-11-08T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 p",
+   "body": "Hacker News · 점수 407",
+   "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "source": "Hacker News",
+   "id": "community:https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again:2026-11-08T11:49"
+  },
+  {
+   "ts": "2026-11-08T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Asahi Linux Progress Linux 7.3",
+   "body": "Hacker News · 점수 386",
+   "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
+   "source": "Hacker News",
+   "id": "community:https://asahilinux.org/2026/11/progress-report-7-3/:2026-11-08T11:49"
+  },
+  {
+   "ts": "2026-11-08T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Goodbye Claude, Hello Pi",
+   "body": "Hacker News · 점수 336",
+   "link": "https://caleb.software/posts/claude-to-pi.html",
+   "source": "Hacker News",
+   "id": "community:https://caleb.software/posts/claude-to-pi.html:2026-11-08T11:49"
+  },
   {
    "ts": "2026-11-08T11:19:08+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119923",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119923:2026-11-06T18:49"
-  },
-  {
-   "ts": "2026-11-06T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-89017 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-89017 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Skyline DataMiner BrokerGateway contains an embedded API key vulnerability that allows un",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89017",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89017:2026-11-06T18:19"
-  },
-  {
-   "ts": "2026-11-06T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119758 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-119758 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ERPNext OCR app for Frappe/ERPNext through 1.1.1 contains a missing authorization and pa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119758",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119758:2026-11-06T17:49"
-  },
-  {
-   "ts": "2026-11-06T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123962 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-123962 📢 Source: mitre 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False In FreedomBox before 26.15, unprivileged user accounts can read/write files for which they ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123962",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123962:2026-11-06T17:19"
-  },
-  {
-   "ts": "2026-11-06T17:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-122193 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-122193 📢 Source: AMZN 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True OS command injection in the example SSM document provisioning script in Trusted Remote Ex",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122193",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122193:2026-11-06T17:19"
-  },
-  {
-   "ts": "2026-11-06T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104657 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-104657 📢 Source: ProgressSoftware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing integrity verification in the Progress Software Fiddler Download and Setu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104657",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104657:2026-11-06T16:49"
   }
  ]
 }
