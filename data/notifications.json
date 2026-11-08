@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-08T17:49:13+00:00",
+ "generated_at": "2026-11-08T18:19:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-08T18:19:12+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18093 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-18093 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM App Connect Enterprise 13.0.1.0 through 13.0.8.2 could allow a remote attacker to obtain se",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18093",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18093:2026-11-08T18:19"
+  },
+  {
+   "ts": "2026-11-08T18:19:12+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-17466 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-17466 📢 Source: ibm 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True IBM Optim 1.0.0, 1.1.0, and 1.2.0 could allow a remote authenticated attacker to obtain sen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17466",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17466:2026-11-08T18:19"
+  },
   {
    "ts": "2026-11-08T17:49:12+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://lemmy.blahaj.zone/pictrs/image/454952b6-353e-4a1b-8d55-55ce215e933d.webp",
    "source": "Lemmy · programming.dev",
    "id": "community:https://lemmy.blahaj.zone/pictrs/image/454952b6-353e-4a1b-8d55-55ce215e933d.webp:2026-11-08T11:19"
-  },
-  {
-   "ts": "2026-11-08T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] What I run on my $10 USD OpenStick homelab",
-   "body": "Hacker News · 점수 592",
-   "link": "https://blog.bosscher.ch/posts/openstick/",
-   "source": "Hacker News",
-   "id": "community:https://blog.bosscher.ch/posts/openstick/:2026-11-08T11:19"
-  },
-  {
-   "ts": "2026-11-07T05:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-18535 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-18535 📢 Source: ibm 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 are vulnerable to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18535",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18535:2026-11-07T05:19"
   }
  ]
 }
