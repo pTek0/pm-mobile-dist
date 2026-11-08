@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-08T18:49:13+00:00",
+ "generated_at": "2026-11-08T19:19:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-08T19:19:12+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-9764 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-9764 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Bob 1.0.4 through 2.0.1 could allow a remote attacker to inject arbitrary code on the system",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9764",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9764:2026-11-08T19:19"
+  },
+  {
+   "ts": "2026-11-08T19:19:12+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97677 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-97677 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.2 An authenticated flow author could write attacker-control",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97677",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97677:2026-11-08T19:19"
+  },
+  {
+   "ts": "2026-11-08T19:19:12+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93879 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-93879 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Hibernate Validator could allow a remote attacker to cause a denial of service due to uncontrol",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93879",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93879:2026-11-08T19:19"
+  },
+  {
+   "ts": "2026-11-08T19:19:12+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-8639 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-8639 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 is vulnerabl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8639",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8639:2026-11-08T19:19"
+  },
   {
    "ts": "2026-11-08T18:49:12+00:00",
    "level": "important",
@@ -461,46 +501,6 @@
    "link": "https://hunch.net/?p=13764006",
    "source": "Hacker News",
    "id": "community:https://hunch.net/?p=13764006:2026-11-08T11:49"
-  },
-  {
-   "ts": "2026-11-08T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 p",
-   "body": "Hacker News · 점수 407",
-   "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-   "source": "Hacker News",
-   "id": "community:https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again:2026-11-08T11:49"
-  },
-  {
-   "ts": "2026-11-08T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Asahi Linux Progress Linux 7.3",
-   "body": "Hacker News · 점수 386",
-   "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
-   "source": "Hacker News",
-   "id": "community:https://asahilinux.org/2026/11/progress-report-7-3/:2026-11-08T11:49"
-  },
-  {
-   "ts": "2026-11-08T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Goodbye Claude, Hello Pi",
-   "body": "Hacker News · 점수 336",
-   "link": "https://caleb.software/posts/claude-to-pi.html",
-   "source": "Hacker News",
-   "id": "community:https://caleb.software/posts/claude-to-pi.html:2026-11-08T11:49"
-  },
-  {
-   "ts": "2026-11-08T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Need for Speed Underground 2 online in the browser",
-   "body": "Hacker News · 점수 998",
-   "link": "https://nfsu2.xyz/",
-   "source": "Hacker News",
-   "id": "community:https://nfsu2.xyz/:2026-11-08T11:19"
   }
  ]
 }
