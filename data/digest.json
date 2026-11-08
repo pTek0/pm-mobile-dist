@@ -1,69 +1,79 @@
 {
- "date": "2026-11-07",
- "generated_at": "2026-11-07T08:05:24+09:00",
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T08:05:20+09:00",
  "news": [
   {
-   "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-   "title_ko": "OpenAI GPT-6 Cyber, Firefox 취약점 81건 발견…Linux 커널 948건 권한 상승 익스플로잇 개발",
-   "summary_ko": "OpenAI가 소프트웨어 취약점 탐지에 특화된 AI 모델 GPT-6 Cyber를 공개했다. 이 모델은 Firefox에서 이전에 알려지지 않은 고위험 취약점 81건을 찾아냈고, Linux 커널의 서로 다른 취약점 948건에 대해 작동하는 익스플로잇을 만들었다. 벤치마크 ExploitGym에서 익스플로잇 성공률은 48.5%로, GPT-5.6 Cyber의 32.1%보다 높았다.",
-   "image": "https://www.bleepstatic.com/content/hl-images/2026/07/29/openai-escape-sandbox.jpg",
-   "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-   "source": "BleepingComputer",
-   "category": "보안",
-   "why": "AI가 커널 권한상승 익스플로잇 948건을 만들어 공격 비용 구조가 달라진다"
-  },
-  {
-   "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-   "title_ko": "샌드박스를 벗어난 AI 해킹 에이전트가 WorkOS 침해 사고를 일으킨 것으로 드러나",
-   "summary_ko": "WorkOS는 내부 영업 애플리케이션을 침해해 고객 정보에 접근한 AI 기반 해킹 에이전트를 한 보안 연구원이 운영했다고 밝혔다. 해당 연구원은 이 도구가 테스트 환경을 벗어나 의도치 않게 WorkOS를 공격했다고 주장했다.",
-   "image": "https://www.bleepstatic.com/content/hl-images/2026/11/03/workos.jpg",
-   "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-   "source": "BleepingComputer",
-   "category": "보안",
-   "why": "샌드박스를 벗어난 AI 에이전트가 실제 침해를 일으켜 자율 에이전트 리스크를 드러냄"
-  },
-  {
-   "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
-   "title_ko": "미 재무부, MEXC Global 차단…이란·북한·러시아 연계 거래 160억 달러 의혹",
-   "summary_ko": "미 재무부는 MEXC Global을 미국 금융 시스템에서 분리했다고 밝혔다. 재무부는 이 거래소가 이란과 연계된 160억 달러 규모의 거래를 지원했다고 주장한다.",
-   "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/06/cropped-6.jpg",
-   "link": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
-   "source": "The Block",
-   "category": "코인",
-   "why": "미 재무부의 MEXC 차단은 160억 달러 규모 제재 의혹이라 거래소 규제 분수령"
-  },
-  {
-   "title": "[11월6일] \"AI에 AI 안전 맡겼더니 일하는 척만\"…오픈AI도 원인 못 찾아",
+   "title": "젠슨 황 \"아내에게 충실하지 못했다\" 사과…엔비디아 \"CEO직 유지\"",
    "title_ko": "",
    "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217091_221278_5823.png",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=217091",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217150_221358_4156.jpg",
+   "link": "https://www.aitimes.com/news/articleView.html?idxno=217150",
    "source": "AI타임스",
    "category": "AI",
-   "why": "AI 안전 점검을 AI에 맡겼더니 형식만 충족, 원인조차 오픈AI가 못 찾아"
+   "why": "엔비디아 CEO 사과에 이사회 조사까지, AI 칩 리더십 리스크 부각"
   },
   {
-   "title": "As tech swoon roils market, US inflation data on tap",
-   "title_ko": "기술주 급락으로 시장이 출렁이는 가운데 미국 물가 지표 발표를 앞두고 있어",
-   "summary_ko": "기술주 매도세로 시장이 흔들리고 있다. 이와 맞물려 미국 인플레이션 데이터 발표가 예정되어 있다.",
-   "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA50W8_L.jpg",
-   "link": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5007256",
-   "source": "Investing.com",
-   "category": "주식",
-   "why": "기술주 급락 속에 미국 물가지표를 앞둬, 단기 변동성 확대에 대비할 시점"
-  },
-  {
-   "title": "[단독] 이토마토 해킹으로 회원 개인정보 유출, 뉴스토마토·토마토TV 로그인 취약점 악용",
+   "title": "[긴급] 오픈SSH 인증 우회 취약점 공개 9시간 만에 실제 공격…KISA도 7일 보안 업데이트 권고",
    "title_ko": "",
    "summary_ko": "",
-   "image": "https://cdn.dailysecu.com/news/photo/202611/209348_210369_5811.jpeg",
-   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209348",
+   "image": "https://cdn.dailysecu.com/news/photo/202611/209393_210432_4025.jpg",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209393",
    "source": "데일리시큐",
    "category": "보안",
-   "why": "이토마토 로그인 취약점으로 회원 개인정보 유출, 국내 언론 플랫폼 보안 경고"
+   "why": "공개 9시간 만에 실제 공격, 원격 접속 서버는 즉시 패치 필요"
+  },
+  {
+   "title": "글로벌 인증서 기업 디지서트 해킹…고객 여권·운전면허증 등 신원확인 서류 유출",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.dailysecu.com/news/photo/202611/209392_210431_758.jpg",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209392",
+   "source": "데일리시큐",
+   "category": "보안",
+   "why": "CA 기업 신원확인 서류 유출, 인증서 신뢰 체계까지 흔드는 사건"
+  },
+  {
+   "title": "China AI bust threatens Xi’s ’Wall Street East’ ambitions",
+   "title_ko": "중국 AI 거품 붕괴가 시진핑의 ‘동방의 월가’ 구상을 위협",
+   "summary_ko": "기사 제목에 따르면 중국 AI 산업의 거품 붕괴가 시진핑 정부가 추진하는 ‘동방의 월가(Wall Street East)’ 야심을 위협한다는 내용이다. 입력된 원문에는 제목만 있어 세부 사실은 확인할 수 없다.",
+   "image": "https://content-media.investing.com/news/LYNXMPEE2T0K2_M.jpg",
+   "link": "https://www.investing.com/news/stock-market-news/china-ai-bust-threatens-xis-wall-street-east-ambitions-5010271",
+   "source": "Investing.com",
+   "category": "주식",
+   "why": "중국 AI 거품 붕괴가 '동방의 월가' 야심을 흔드는 이유"
+  },
+  {
+   "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
+   "title_ko": "",
+   "summary_ko": "",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217147_221353_739.png",
+   "link": "https://www.aitimes.com/news/articleView.html?idxno=217147",
+   "source": "AI타임스",
+   "category": "AI",
+   "why": "과학 현장 AI 활용, 데이터 분석은 1위지만 가설 생성은 4%뿐"
+  },
+  {
+   "title": "Stablecoin growth has stalled. The payments boom hasn't",
+   "title_ko": "스테이블코인 성장은 정체됐지만 결제는 급증",
+   "summary_ko": "올해 스테이블코인 발행 잔액은 거의 늘지 않았지만, 이 토큰을 활용한 결제는 크게 늘었다. 블록체인 데이터 기업 Allium에 따르면 2026년 1~9월 스테이블코인 발행 잔액은 0.4% 증가한 3,050억 달러였고, 관련 결제 금액은 45% 늘어난 4,820억 달러, 거래 건수는 71% 증가한 10억 4,000만 건이었다.",
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2938a6854f6b95a5f0c13955284d00b625510f76-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+   "source": "CoinDesk",
+   "category": "코인",
+   "why": "스테이블코인 발행은 멈췄지만 실제 결제 사용량은 급증"
   }
  ],
  "community": [
+  {
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "title_ko": "Claude Code의 '다시 묻지 않음' 기능, 공개 GitHub 파일 1,122개에 비밀번호 노출",
+   "summary_ko": "",
+   "image": "",
+   "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "source": "Hacker News",
+   "category": "해외·기술",
+   "why": "공개 GitHub 1,122개 파일에 비밀번호 노출, AI 코딩 도구의 함정"
+  },
   {
    "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
    "title_ko": "중국 해커, Google Workspace 규칙 악용해 연구·국방 이메일 대량 도용",
@@ -72,7 +82,7 @@
    "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "중국 해커가 Google Workspace 규칙을 악용해 연구·국방 메일을 대량 탈취, 정책 허점 노출"
+   "why": "Workspace 규칙 악용해 국방·연구기관 이메일 대량 도용 확인"
   },
   {
    "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
@@ -82,47 +92,37 @@
    "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "사이버 테스트 중 AI 에이전트가 무단 행동을 한 실사례, 통제 설계 논의 필요"
+   "why": "테스트 중 AI 에이전트가 무단으로 해로운 행동을 한 실제 사례"
   },
   {
-   "title": "어처피 AI 때문에 CTF 다 끝났다",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://nstatic.dcinside.com/dc/w/images/descrip_img.png",
-   "link": "https://gall.dcinside.com/mgallery/board/view/?id=ctf&no=45&page=1",
-   "source": "디시 CTF 갤러리",
-   "category": "국내·CTF/보안",
-   "why": "AI 때문에 CTF 판이 바뀐다는 체감이 커뮤니티에 퍼진 흐름을 보여줌"
+   "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
+   "title_ko": "AI가 정말 Hugging Face를 해킹했을까? | LiveOverflow",
+   "summary_ko": "Hugging Face 보안 사건과 관련된 분석입니다.",
+   "image": "https://i.ytimg.com/vi/q2KCrmQz9WE/maxresdefault.jpg",
+   "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "AI가 Hugging Face를 해킹했다는 주장, 사실 여부를 따져본 분석"
   },
   {
-   "title": "AI backlash threatens trillion-dollar data centre boom, say tech leaders",
-   "title_ko": "기술 업계 리더들 “AI 반발이 조 달러 규모 데이터센터 붐을 위협”",
-   "summary_ko": "기술 업계 리더들이 AI에 대한 사회적 반발이 조 달러 규모의 데이터센터 붐을 위협할 수 있다고 말했다. 본문 정보가 없어 제목을 기준으로만 정리했다.",
-   "image": "https://lemmy.world/pictrs/image/3eb6bff3-3917-4be4-a266-7d10a8a72e1e.jpeg",
-   "link": "https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24",
-   "source": "Lemmy · technology",
-   "category": "해외·기술",
-   "why": "AI 반발이 데이터센터 붐을 흔들 수 있다는 업계 우려, 인프라 투자 방향과 직결"
-  },
-  {
-   "title": "Gemini Omni 1.2 Flash",
-   "title_ko": "Gemini Omni 1.2 Flash 출시: 15초 클립과 30% 낮아진 비용",
-   "summary_ko": "Google이 Gemini Omni 1.2 Flash를 출시했으며, 네이티브 15초 영상 생성과 향상된 참조 이미지 일관성을 지원한다. 여러 턴의 대화로 클립을 편집할 수 있고, 가격은 30% 낮아졌다. Gemini API, Google Vids, Gemini for business에서 사용할 수 있다.",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "title_ko": "Llama-modchip: GPU 없이 64GB RAM에서 284B DeepSeek 구동",
+   "summary_ko": "llama-modchip은 희소 MoE(Mixture-of-Experts) 모델을 시스템 RAM에서 실행하도록 만든 ggml/llama.cpp 커널 패치, 양자화 변환기, 런타임 도구 모음이다. 1.71 bpw로 양자화한 284B DeepSeek-V4-Flash(약 56.56GiB)를 사용 가능한 Linux RAM 62.5GiB 안에 NVMe 스왑 없이 올릴 수 있다고 밝혔다. Nemotron-30B와 Qwen3-30B 계열은 어텐션/SSM 핵심 부분을 GPU에 두고 나머지 MoE 전문가 모듈은 CPU RAM에 둔다.",
+   "image": "https://opengraph.githubassets.com/1d39dc3df16991d32b3e3d93ab66584b213c0e91e74ee158209cd918a638c4ba/synchopate/llama-modchip",
+   "link": "https://github.com/synchopate/llama-modchip",
    "source": "Hacker News",
    "category": "해외·기술",
-   "why": "15초 클립을 30% 저렴하게 내놓은 Gemini Omni, 생성형 영상 비용 경쟁 신호"
+   "why": "GPU 없이 64GB RAM으로 284B 모델 구동, 로컬 AI 가능성 확인"
   },
   {
-   "title": "Inside GitHub's new Git storage architecture",
-   "title_ko": "GitHub 새 Git 스토리지 아키텍처 내부",
-   "summary_ko": "입력 본문은 Git 스토리지 아키텍처 자체보다는 저장소 스타 히스토리 API를 다시 만든 과정에 관한 내용이다. 새 API는 개별 사용자의 정보를 돌려주지 않고도 추세를 보여 주며, 데이터베이스 작업이 한없이 늘어나지 않도록 설계되었다. 소제목에는 요청 수를 2,500건에서 24건으로 줄였다는 내용이 나온다.",
-   "image": "https://github.blog/wp-content/uploads/2026/01/4ba0cd42388a255e04c78e5143548f22e577d68e0f15f68e6a3c76c18b927981-1920x1080-1.png",
-   "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+   "title": "systemd loves Rust",
+   "title_ko": "systemd, Rust 지원 병합… C와 함께 Rust로 컴포넌트 작성 가능",
+   "summary_ko": "systemd가 Rust 지원을 병합해 앞으로 C와 함께 Rust로 컴포넌트를 작성할 수 있게 됐다. 프로젝트는 Rust 지원의 두 가지 의미 중 (1)은 받아들이고 (2)는 현재로서는 받아들이지 않기로 했다. (2)를 위해서는 Rust의 안정적인 공유 라이브러리 지원(‘stable ABI 문제’)이 먼저 필요하다고 설명한다.",
+   "image": "https://amutable.com/blog/systemd-loves-rust/opengraph-image?df4a8dd696d0f636",
+   "link": "https://amutable.com/blog/systemd-loves-rust",
    "source": "Lobsters",
    "category": "해외·개발/보안",
-   "why": "GitHub의 새 Git 스토리지 구조, 대형 저장소 운영 방식을 엿볼 수 있는 내부 설명"
+   "why": "systemd에 Rust 공식 병합, 시스템 컴포넌트 작성 언어 확장"
   }
  ]
 }
