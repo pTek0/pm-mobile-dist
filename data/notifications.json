@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-08T18:19:13+00:00",
+ "generated_at": "2026-11-08T18:49:13+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-08T18:49:12+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-6715 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-6715 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Concert 1.0 through 3.0.1.1 allows an attacker can supply crafted input that is incorpor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6715",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6715:2026-11-08T18:49"
+  },
+  {
+   "ts": "2026-11-08T18:49:12+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19133 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-19133 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Storage TS4500 Library 1.1.1.6 through 1.12.0.3 could allow a remote authenticated attacker",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19133",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19133:2026-11-08T18:49"
+  },
+  {
+   "ts": "2026-11-08T18:49:12+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18893 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-18893 📢 Source: ibm 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False IBM CockroachDB PostgreSQL for IBM VPC 26.2.0 through 26.2.3, 25.4.0 through 25.4.12, and 25.2",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18893",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18893:2026-11-08T18:49"
+  },
   {
    "ts": "2026-11-08T18:19:12+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://nfsu2.xyz/",
    "source": "Hacker News",
    "id": "community:https://nfsu2.xyz/:2026-11-08T11:19"
-  },
-  {
-   "ts": "2026-11-08T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Every Mac comes with an (undocumented) family member classif",
-   "body": "Hacker News · 점수 737",
-   "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-   "source": "Hacker News",
-   "id": "community:https://8rank.ai/game/apple-intelligence-personal-knowledge-graph:2026-11-08T11:19"
-  },
-  {
-   "ts": "2026-11-08T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] It Turns Out Binance's $6 Billion Hack Happened Because Its ",
-   "body": "Lemmy · technology · 점수 621",
-   "link": "https://futurism.com/future-society/binance-heist-vibe-code-ai",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/future-society/binance-heist-vibe-code-ai:2026-11-08T11:19"
-  },
-  {
-   "ts": "2026-11-08T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] some wrote A bash script that writes to Sam Altman once a da",
-   "body": "Lemmy · programming.dev · 점수 604",
-   "link": "https://lemmy.blahaj.zone/pictrs/image/454952b6-353e-4a1b-8d55-55ce215e933d.webp",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.blahaj.zone/pictrs/image/454952b6-353e-4a1b-8d55-55ce215e933d.webp:2026-11-08T11:19"
   }
  ]
 }
