@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-08T15:49:08+00:00",
+ "generated_at": "2026-11-08T16:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-08T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101117 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-101117 📢 Source: ibm 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True IBM WebSphere Extreme Scale 8.6.1.0 through 8.6.2.2 could allow a remote attacker to bypas",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101117",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101117:2026-11-08T16:19"
+  },
+  {
+   "ts": "2026-11-08T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114189 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-114189 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114189",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114189:2026-11-08T16:19"
+  },
+  {
+   "ts": "2026-11-08T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109900 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-109900 📢 Source: Patchstack 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in Melapress Melapress Role Editor mel",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109900",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109900:2026-11-08T16:19"
+  },
+  {
+   "ts": "2026-11-08T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109899 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109899 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Melapress Melapress Role Editor melapress-role-e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109899",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109899:2026-11-08T16:19"
+  },
   {
    "ts": "2026-11-08T14:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-123218",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123218:2026-11-07T04:19"
-  },
-  {
-   "ts": "2026-11-07T03:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-17362 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-17362 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM API Connect 12.1.0.0 through 12.1.1.2 could allow a remote attacker to create, modify, ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-17362",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-17362:2026-11-07T03:49"
-  },
-  {
-   "ts": "2026-11-07T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] FAA to finally ditch floppy disks in what it calls \"historic",
-   "body": "Lemmy · technology · 점수 71",
-   "link": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/:2026-11-07T00:49"
-  },
-  {
-   "ts": "2026-11-07T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Did Facebook just read your prescription? Users dragging Met",
-   "body": "Lemmy · technology · 점수 65",
-   "link": "https://cybernews.com/news/meta-class-action-lawsuit-health-data/",
-   "source": "Lemmy · technology",
-   "id": "community:https://cybernews.com/news/meta-class-action-lawsuit-health-data/:2026-11-07T00:49"
-  },
-  {
-   "ts": "2026-11-07T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] We've built an open-source feature flag server for 11 years",
-   "body": "Hacker News · 점수 137",
-   "link": "https://github.com/Unleash/unleash",
-   "source": "Hacker News",
-   "id": "community:https://github.com/Unleash/unleash:2026-11-07T00:19"
   }
  ]
 }
