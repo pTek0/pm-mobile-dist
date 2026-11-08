@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-08T14:19:07+00:00",
+ "generated_at": "2026-11-08T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-08T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124553 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-124553 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True BabelDOC from 0.3.61 before 0.7.0 contains a resource exhaustion vulnerability that allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124553",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124553:2026-11-08T14:49"
+  },
   {
    "ts": "2026-11-08T14:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://github.com/Unleash/unleash",
    "source": "Hacker News",
    "id": "community:https://github.com/Unleash/unleash:2026-11-07T00:19"
-  },
-  {
-   "ts": "2026-11-07T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Rune: A native GPU-rendered Rust UI framework for macOS, Win",
-   "body": "Hacker News · 점수 133",
-   "link": "https://github.com/anomalyco/rune",
-   "source": "Hacker News",
-   "id": "community:https://github.com/anomalyco/rune:2026-11-07T00:19"
   }
  ]
 }
