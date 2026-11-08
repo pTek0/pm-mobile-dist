@@ -1,7 +1,157 @@
 {
- "generated_at": "2026-11-08T13:19:08+00:00",
+ "generated_at": "2026-11-08T13:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124442 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-124442 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True AzuraCast before 0.24.0 contains a server-side request forgery vulnerability that allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124442",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124442:2026-11-08T13:49"
+  },
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124441 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-124441 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Kyverno before 1.19.2 contains an authorization bypass vulnerability that allows namespa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124441",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124441:2026-11-08T13:49"
+  },
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-124440 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-124440 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Kyverno from 1.19.1 before 1.19.2 contains an authorization bypass vulnerability in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124440",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124440:2026-11-08T13:49"
+  },
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124439 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-124439 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban and Scriban.Signed before 7.5.3 contain uncontrolled recursion flaws in which po",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124439",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124439:2026-11-08T13:49"
+  },
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-124438 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-124438 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Scriban before 7.5.2 contains an information disclosure and object manipulation vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124438",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124438:2026-11-08T13:49"
+  },
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124437 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-124437 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban before 7.5.3 contains a resource exhaustion vulnerability that allows untrusted ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124437",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124437:2026-11-08T13:49"
+  },
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124436 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-124436 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True OpenRemote before 1.32.2 contains an improper authorization vulnerability that allows re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124436",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124436:2026-11-08T13:49"
+  },
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124434 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-124434 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Grav Lightbox Gallery plugin 1.1.0 before 1.3.2 on Grav 2.x calls any medium method name",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124434",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124434:2026-11-08T13:49"
+  },
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124433 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-124433 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ before 4.1.11 contains an insufficient authorization vulnerability that allows de",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124433",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124433:2026-11-08T13:49"
+  },
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124432 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-124432 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ 4.1.9 before 4.1.11 and 4.2.0 pre-releases before 4.2.0-beta.3 contain an accou",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124432",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124432:2026-11-08T13:49"
+  },
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124430 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-124430 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Craft CMS from 5.10.0 before 5.11.2 contains a remote code execution vulnerability that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124430",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124430:2026-11-08T13:49"
+  },
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124429 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-124429 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Craft CMS from 5.0.0 before 5.11.2 contains a privilege escalation vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124429",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124429:2026-11-08T13:49"
+  },
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124428 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-124428 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Craft CMS from 5.7.0 before 5.11.2 contains an arbitrary file read vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124428",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124428:2026-11-08T13:49"
+  },
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-124427 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-124427 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Craft CMS from 5.0.0 before 5.11.2 contains an authorization bypass vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124427",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124427:2026-11-08T13:49"
+  },
+  {
+   "ts": "2026-11-08T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124424 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-124424 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True WWBN AVideo contains a path traversal vulnerability in plugin/AI/receiveAsync.json.php t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124424",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124424:2026-11-08T13:49"
+  },
   {
    "ts": "2026-11-08T12:49:07+00:00",
    "level": "general",
@@ -351,156 +501,6 @@
    "link": "https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24",
    "source": "Lemmy · technology",
    "id": "community:https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24:2026-11-07T00:19"
-  },
-  {
-   "ts": "2026-11-07T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Software Line Specialist",
-   "body": "Lobsters · 점수 106",
-   "link": "https://lovro-bikic.github.io/software-line-specialist/",
-   "source": "Lobsters",
-   "id": "community:https://lovro-bikic.github.io/software-line-specialist/:2026-11-07T00:19"
-  },
-  {
-   "ts": "2026-11-07T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Global stocks tumble as AI panic grips markets; US adds 165,",
-   "body": "Lemmy · technology · 점수 106",
-   "link": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates:2026-11-07T00:19"
-  },
-  {
-   "ts": "2026-11-06T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A Jev that can ask Opus for help gives Opus accuracy at 4x l",
-   "body": "Hacker News · 점수 229",
-   "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
-   "source": "Hacker News",
-   "id": "community:https://hightouch.com/blog/llm-judges-identity-resolution:2026-11-06T23:49"
-  },
-  {
-   "ts": "2026-11-06T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Protesters break into Microsoft data center site in Amsterda",
-   "body": "Lemmy · technology · 점수 202",
-   "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam:2026-11-06T23:49"
-  },
-  {
-   "ts": "2026-11-06T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Anthropic IPO buyers see valuation as low as $1.1T",
-   "body": "Hacker News · 점수 177",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-   "source": "Hacker News",
-   "id": "community:https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout:2026-11-06T23:49"
-  },
-  {
-   "ts": "2026-11-06T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] First steps in bare-metal programming using UEFI",
-   "body": "Hacker News · 점수 158",
-   "link": "https://kevinboone.me/efitest_index.html",
-   "source": "Hacker News",
-   "id": "community:https://kevinboone.me/efitest_index.html:2026-11-06T23:49"
-  },
-  {
-   "ts": "2026-11-06T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Cybertruck is dead, makes way for Cybercab says Elon Mus",
-   "body": "Lemmy · technology · 점수 145",
-   "link": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/:2026-11-06T23:49"
-  },
-  {
-   "ts": "2026-11-06T23:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-109469 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-109469 📢 Source: microsoft 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-11-06T23:06:41.546Z https://cvefeed.io/vuln/detail/CVE-2",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109469",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109469:2026-11-06T23:19"
-  },
-  {
-   "ts": "2026-11-06T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tesla to wind down Cybertruck production",
-   "body": "Hacker News · 점수 748",
-   "link": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-   "source": "Hacker News",
-   "id": "community:https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817:2026-11-06T23:19"
-  },
-  {
-   "ts": "2026-11-06T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Blender's UI and Runtime: Much Faster Than GPUI",
-   "body": "Hacker News · 점수 669",
-   "link": "https://github.com/ppmpreetham/BUI",
-   "source": "Hacker News",
-   "id": "community:https://github.com/ppmpreetham/BUI:2026-11-06T23:19"
-  },
-  {
-   "ts": "2026-11-06T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Deus Ex",
-   "body": "Hacker News · 점수 310",
-   "link": "https://www.filfre.net/2026/11/deus-ex/",
-   "source": "Hacker News",
-   "id": "community:https://www.filfre.net/2026/11/deus-ex/:2026-11-06T23:19"
-  },
-  {
-   "ts": "2026-11-06T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Gemini Omni 1.2 Flash",
-   "body": "Hacker News · 점수 278",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-   "source": "Hacker News",
-   "id": "community:https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/:2026-11-06T23:19"
-  },
-  {
-   "ts": "2026-11-06T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] US FAA says it will phase out floppy disks from air traffic ",
-   "body": "Hacker News · 점수 241",
-   "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-   "source": "Hacker News",
-   "id": "community:https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/:2026-11-06T23:19"
-  },
-  {
-   "ts": "2026-11-06T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-50240 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-50240 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in OpenShift Pipelines-as-Code (PAC). PAC does not verify whether the creat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-50240",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-50240:2026-11-06T22:19"
-  },
-  {
-   "ts": "2026-11-06T22:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-59104 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-59104 📢 Source: ENISA 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True UgCS server before 6.2 contains an authentication bypass in the HCI protocol login handle",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59104",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59104:2026-11-06T22:19"
   }
  ]
 }
