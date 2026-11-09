@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-09T18:49:07+00:00",
+ "generated_at": "2026-11-09T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112321 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-112321 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The AUTH_GSSAPI handler in lib/rpc/svc_auth_gssapi.c in MIT Kerberos 5 (aka krb5) does not ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112321",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112321:2026-11-09T19:19"
+  },
+  {
+   "ts": "2026-11-09T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112320 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-112320 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The GSS-RPC transport layer in MIT Kerberos 5 (aka krb5) 1.4 and later does not release the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112320",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112320:2026-11-09T19:19"
+  },
+  {
+   "ts": "2026-11-09T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112314 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-112314 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True clnttcp_call() in lib/rpc/clnt_tcp.c in MIT Kerberos 5 (aka krb5) does not free the RPC rep",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112314",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112314:2026-11-09T19:19"
+  },
   {
    "ts": "2026-11-09T18:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://www.nytimes.com./2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
    "source": "Lemmy · technology",
    "id": "community:https://www.nytimes.com./2026/11/08/technology/nvidia-investigation-jensen-huang-china.html:2026-11-09T11:49"
-  },
-  {
-   "ts": "2026-11-09T11:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Crypto foundation demanded employees endorse suicide pledge,",
-   "body": "Lemmy · technology · 점수 176",
-   "link": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/:2026-11-09T11:49"
-  },
-  {
-   "ts": "2026-11-09T11:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia opens investigation after report CEO Jensen Huang was",
-   "body": "Lemmy · technology · 점수 167",
-   "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation:2026-11-09T11:49"
-  },
-  {
-   "ts": "2026-11-09T11:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Asahi Linux Drops MIT and Goes Full GPL After AI Tools Were ",
-   "body": "Lemmy · programming.dev · 점수 61",
-   "link": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/:2026-11-09T11:49"
   }
  ]
 }
