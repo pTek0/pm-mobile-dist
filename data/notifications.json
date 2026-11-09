@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-09T17:19:07+00:00",
+ "generated_at": "2026-11-09T17:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T17:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-119756 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-119756 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Tasmota through 16.0.0, fixed in commit e97e1e4, contains a heap out-of-bounds write",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119756",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119756:2026-11-09T17:49"
+  },
+  {
+   "ts": "2026-11-09T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119755 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-119755 📢 Source: VulnCheck 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Tasmota through 16.0.0, fixed in commit 1cb7ebc, contains a cross-site request forgery v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119755",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119755:2026-11-09T17:49"
+  },
+  {
+   "ts": "2026-11-09T17:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19706 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-19706 📢 Source: redhat 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False During ABI bootstrap, the bootstrap node's approve-csr.service approves and signs every CSR",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19706",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19706:2026-11-09T17:49"
+  },
   {
    "ts": "2026-11-09T17:19:07+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121570",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121570:2026-11-09T11:19"
-  },
-  {
-   "ts": "2026-11-09T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia CEO Jensen Huang's letter to staff about affair",
-   "body": "Hacker News · 점수 697",
-   "link": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-   "source": "Hacker News",
-   "id": "community:https://nvidianews.nvidia.com/news/a-message-to-our-company:2026-11-09T11:19"
-  },
-  {
-   "ts": "2026-11-09T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] KetchUp – Open-source SketchUp alternative built with Rust a",
-   "body": "Hacker News · 점수 514",
-   "link": "https://ketchup3d.github.io/app/",
-   "source": "Hacker News",
-   "id": "community:https://ketchup3d.github.io/app/:2026-11-09T11:19"
-  },
-  {
-   "ts": "2026-11-09T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] RIP, Harvest",
-   "body": "Hacker News · 점수 361",
-   "link": "https://aphyr.com/posts/427-rip-harvest",
-   "source": "Hacker News",
-   "id": "community:https://aphyr.com/posts/427-rip-harvest:2026-11-09T11:19"
   }
  ]
 }
