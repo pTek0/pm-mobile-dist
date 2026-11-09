@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-09T00:49:07+00:00",
+ "generated_at": "2026-11-09T01:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T01:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-119506 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-119506 📢 Source: Patchstack 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in DynamiApps Frontend Admin by Dynami",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119506",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119506:2026-11-09T01:19"
+  },
   {
    "ts": "2026-11-09T00:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124433",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124433:2026-11-08T13:49"
-  },
-  {
-   "ts": "2026-11-08T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124432 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-124432 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ 4.1.9 before 4.1.11 and 4.2.0 pre-releases before 4.2.0-beta.3 contain an accou",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124432",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124432:2026-11-08T13:49"
   }
  ]
 }
