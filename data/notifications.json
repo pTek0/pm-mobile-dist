@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-09T08:49:07+00:00",
+ "generated_at": "2026-11-09T09:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-123870 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-123870 📢 Source: eclipse 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True The otterdog webapp evaluates a format-string built from the incoming GitHub webhook J",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123870",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123870:2026-11-09T09:19"
+  },
   {
    "ts": "2026-11-09T08:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124439",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124439:2026-11-08T13:49"
-  },
-  {
-   "ts": "2026-11-08T13:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-124438 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-124438 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Scriban before 7.5.2 contains an information disclosure and object manipulation vuln",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124438",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124438:2026-11-08T13:49"
   }
  ]
 }
