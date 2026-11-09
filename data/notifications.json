@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-09T12:49:07+00:00",
+ "generated_at": "2026-11-09T13:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119610 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-119610 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A flaw was found in GStreamer's gst-plugins-good, specifically in the H.264 RTP depayloader",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119610",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119610:2026-11-09T13:19"
+  },
+  {
+   "ts": "2026-11-09T13:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-110469 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-110469 📢 Source: CERT-PL 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True WidzialniCMS is vulnerable to Unrestricted File Upload in the /panel/upload.php endpoin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110469",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110469:2026-11-09T13:19"
+  },
+  {
+   "ts": "2026-11-09T13:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-110468 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-110468 📢 Source: CERT-PL 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True WidzialniCMS is vulnerable to Unrestricted File Upload in the /panel/controllers/save_p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110468",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110468:2026-11-09T13:19"
+  },
   {
    "ts": "2026-11-09T12:49:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-113363",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113363:2026-11-09T04:49"
-  },
-  {
-   "ts": "2026-11-09T04:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-113362 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-113362 📢 Source: NEC 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Improper Access Control in the program installation folder in NEC Corporation WebSAM Winshare",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113362",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113362:2026-11-09T04:19"
-  },
-  {
-   "ts": "2026-11-09T01:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-119506 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-119506 📢 Source: Patchstack 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in DynamiApps Frontend Admin by Dynami",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119506",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119506:2026-11-09T01:19"
-  },
-  {
-   "ts": "2026-11-09T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Big tech promised to lead on climate. Now it's driving a fos",
-   "body": "Lemmy · technology · 점수 85",
-   "link": "https://www.msn.com/en-us/news/other/big-tech-promised-to-lead-on-climate-now-its-driving-a-fossil-fuel-boom/ar-AA2gAjgO",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.msn.com/en-us/news/other/big-tech-promised-to-lead-on-climate-now-its-driving-a-fossil-fuel-boom/ar-AA2gAjgO:2026-11-09T00:19"
   }
  ]
 }
