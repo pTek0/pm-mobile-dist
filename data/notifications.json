@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-09T18:19:07+00:00",
+ "generated_at": "2026-11-09T18:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123999 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-123999 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True NASA JPL ION-DTN 3.6.2 through 4.2.0 contains a heap-based buffer overflow in the Networ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123999",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123999:2026-11-09T18:49"
+  },
+  {
+   "ts": "2026-11-09T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119079 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-119079 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True decode_sequence_of() in lib/krb5/asn.1/asn1_encode.c in MIT Kerberos 5 (aka krb5) 1.11 and ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119079",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119079:2026-11-09T18:49"
+  },
+  {
+   "ts": "2026-11-09T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112323 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-112323 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The AUTH_GSSAPI handler in lib/rpc/svc_auth_gssapi.c in MIT Kerberos 5 (aka krb5) 1.5.2 and",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112323",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112323:2026-11-09T18:49"
+  },
+  {
+   "ts": "2026-11-09T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112322 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-112322 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True clean_client() in lib/rpc/svc_auth_gssapi.c in MIT Kerberos 5 (aka krb5) restarts its scan ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112322",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112322:2026-11-09T18:49"
+  },
+  {
+   "ts": "2026-11-09T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70555 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-70555 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True rConfig Core 8.2.3 before 8.2.13 contains an information disclosure vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70555",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70555:2026-11-09T18:49"
+  },
+  {
+   "ts": "2026-11-09T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121769 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-121769 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121769",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121769:2026-11-09T18:49"
+  },
+  {
+   "ts": "2026-11-09T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120834 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-120834 📢 Source: Patchstack 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in Tobias WP2LEADS wp2leads allows Privile",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120834",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120834:2026-11-09T18:49"
+  },
   {
    "ts": "2026-11-09T17:49:06+00:00",
    "level": "important",
@@ -431,76 +501,6 @@
    "link": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
    "source": "Lemmy · programming.dev",
    "id": "community:https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/:2026-11-09T11:49"
-  },
-  {
-   "ts": "2026-11-09T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123476 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-123476 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123476",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123476:2026-11-09T11:19"
-  },
-  {
-   "ts": "2026-11-09T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123475 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-123475 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in PT Norther Lights Production MapSVG mapsvg-lite-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123475",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123475:2026-11-09T11:19"
-  },
-  {
-   "ts": "2026-11-09T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123460 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-123460 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123460",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123460:2026-11-09T11:19"
-  },
-  {
-   "ts": "2026-11-09T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122666 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-122666 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122666",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122666:2026-11-09T11:19"
-  },
-  {
-   "ts": "2026-11-09T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121782 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-121782 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121782",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121782:2026-11-09T11:19"
-  },
-  {
-   "ts": "2026-11-09T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121722 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-121722 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in WP E-Signature Formidable Forms Signature Online",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121722",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121722:2026-11-09T11:19"
-  },
-  {
-   "ts": "2026-11-09T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121570 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-121570 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121570",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121570:2026-11-09T11:19"
   }
  ]
 }
