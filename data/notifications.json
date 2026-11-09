@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-09T22:49:07+00:00",
+ "generated_at": "2026-11-09T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T23:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-115934 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-115934 📢 Source: Hackrate 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated SQL injection in the element search endpoint allows stacked query ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115934",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115934:2026-11-09T23:19"
+  },
+  {
+   "ts": "2026-11-09T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Claude Fable 5.2 and Mythos 5.2",
+   "body": "Hacker News · 점수 806",
+   "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "source": "Hacker News",
+   "id": "community:https://www.anthropic.com/claude-fable-and-mythos-5-2:2026-11-09T23:19"
+  },
+  {
+   "ts": "2026-11-09T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Fold Epic Paper Airplanes",
+   "body": "Hacker News · 점수 782",
+   "link": "https://www.foldableflight.com",
+   "source": "Hacker News",
+   "id": "community:https://www.foldableflight.com:2026-11-09T23:19"
+  },
+  {
+   "ts": "2026-11-09T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+   "body": "Hacker News · 점수 685",
+   "link": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+   "source": "Hacker News",
+   "id": "community:https://twitter.com/shanemelaugh/status/2119192075505893695:2026-11-09T23:19"
+  },
+  {
+   "ts": "2026-11-09T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Payments Canada announces launch of Canada's Real-Time Rail ",
+   "body": "Hacker News · 점수 434",
+   "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+   "source": "Hacker News",
+   "id": "community:https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy:2026-11-09T23:19"
+  },
+  {
+   "ts": "2026-11-09T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nvidia shares plunge as US tech giant investigates CEO Jense",
+   "body": "Lemmy · technology · 점수 413",
+   "link": "https://www.bbc.com/news/live/cm78p221e313t",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.bbc.com/news/live/cm78p221e313t:2026-11-09T23:19"
+  },
   {
    "ts": "2026-11-09T22:49:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-95778",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95778:2026-11-09T14:19"
-  },
-  {
-   "ts": "2026-11-09T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16283 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-16283 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command ('OS command injection') ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16283",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16283:2026-11-09T13:49"
-  },
-  {
-   "ts": "2026-11-09T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119610 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-119610 📢 Source: redhat 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A flaw was found in GStreamer's gst-plugins-good, specifically in the H.264 RTP depayloader",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119610",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119610:2026-11-09T13:19"
-  },
-  {
-   "ts": "2026-11-09T13:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-110469 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-110469 📢 Source: CERT-PL 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True WidzialniCMS is vulnerable to Unrestricted File Upload in the /panel/upload.php endpoin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110469",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110469:2026-11-09T13:19"
-  },
-  {
-   "ts": "2026-11-09T13:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-110468 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-110468 📢 Source: CERT-PL 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True WidzialniCMS is vulnerable to Unrestricted File Upload in the /panel/controllers/save_p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110468",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110468:2026-11-09T13:19"
-  },
-  {
-   "ts": "2026-11-09T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95648 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-95648 📢 Source: TR-CERT 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Improperly controlled modification of Dynamically-Determined object attributes vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95648",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95648:2026-11-09T12:49"
-  },
-  {
-   "ts": "2026-11-09T12:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-124079 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-124079 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True rConfig Core 8.0.0 before 8.2.19 and rConfig Pro before 8.4.1 contain a deserializat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124079",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124079:2026-11-09T12:49"
   }
  ]
 }
