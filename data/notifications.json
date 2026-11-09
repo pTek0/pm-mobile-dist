@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-09T11:19:07+00:00",
+ "generated_at": "2026-11-09T11:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112172 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-112172 📢 Source: ENISA 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True CGM XDent and XMedical expose PHP synchronization endpoints that allow unauthenticated attac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112172",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112172:2026-11-09T11:49"
+  },
+  {
+   "ts": "2026-11-09T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121629 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-121629 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in GStreamer's adaptive streaming demuxers (HLS, DASH, MSS). When processi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121629",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121629:2026-11-09T11:49"
+  },
+  {
+   "ts": "2026-11-09T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nvidia CEO Jensen Huang admits affair, board to launch inves",
+   "body": "Lemmy · technology · 점수 237",
+   "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation:2026-11-09T11:49"
+  },
+  {
+   "ts": "2026-11-09T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nvidia Opens Investigation Into Jensen Huang’s Relationship ",
+   "body": "Lemmy · technology · 점수 180",
+   "link": "https://www.nytimes.com./2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.nytimes.com./2026/11/08/technology/nvidia-investigation-jensen-huang-china.html:2026-11-09T11:49"
+  },
+  {
+   "ts": "2026-11-09T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Crypto foundation demanded employees endorse suicide pledge,",
+   "body": "Lemmy · technology · 점수 176",
+   "link": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/:2026-11-09T11:49"
+  },
+  {
+   "ts": "2026-11-09T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nvidia opens investigation after report CEO Jensen Huang was",
+   "body": "Lemmy · technology · 점수 167",
+   "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation:2026-11-09T11:49"
+  },
+  {
+   "ts": "2026-11-09T11:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Asahi Linux Drops MIT and Goes Full GPL After AI Tools Were ",
+   "body": "Lemmy · programming.dev · 점수 61",
+   "link": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/:2026-11-09T11:49"
+  },
   {
    "ts": "2026-11-09T11:19:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
    "source": "Hacker News",
    "id": "community:https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors:2026-11-08T23:19"
-  },
-  {
-   "ts": "2026-11-08T20:19:12+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118904 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-118904 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM webMethods Integration Server 12.1 could allow a remote authenticated attacker to bypass s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118904",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118904:2026-11-08T20:19"
-  },
-  {
-   "ts": "2026-11-08T20:19:12+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96146 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-96146 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True IBM SevOne Network Performance Management 7.0.0 through 8.2.2 could allow a remote attacker to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96146",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96146:2026-11-08T20:19"
-  },
-  {
-   "ts": "2026-11-08T19:19:12+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-9764 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-9764 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Bob 1.0.4 through 2.0.1 could allow a remote attacker to inject arbitrary code on the system",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-9764",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-9764:2026-11-08T19:19"
-  },
-  {
-   "ts": "2026-11-08T19:19:12+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-97677 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-97677 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Langflow OSS 1.0.0 through 1.12.2 An authenticated flow author could write attacker-control",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97677",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97677:2026-11-08T19:19"
-  },
-  {
-   "ts": "2026-11-08T19:19:12+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93879 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-93879 📢 Source: ibm 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Hibernate Validator could allow a remote attacker to cause a denial of service due to uncontrol",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93879",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93879:2026-11-08T19:19"
-  },
-  {
-   "ts": "2026-11-08T19:19:12+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-8639 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-8639 📢 Source: ibm 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 is vulnerabl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8639",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8639:2026-11-08T19:19"
-  },
-  {
-   "ts": "2026-11-08T18:49:12+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-6715 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-6715 📢 Source: ibm 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True IBM Concert 1.0 through 3.0.1.1 allows an attacker can supply crafted input that is incorpor",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-6715",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-6715:2026-11-08T18:49"
   }
  ]
 }
