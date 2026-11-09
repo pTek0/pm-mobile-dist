@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-09T03:49:07+00:00",
+ "generated_at": "2026-11-09T04:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T04:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113362 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-113362 📢 Source: NEC 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Improper Access Control in the program installation folder in NEC Corporation WebSAM Winshare",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113362",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113362:2026-11-09T04:19"
+  },
   {
    "ts": "2026-11-09T01:19:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124434",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124434:2026-11-08T13:49"
-  },
-  {
-   "ts": "2026-11-08T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124433 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-124433 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ before 4.1.11 contains an insufficient authorization vulnerability that allows de",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124433",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124433:2026-11-08T13:49"
   }
  ]
 }
