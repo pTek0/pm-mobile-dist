@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-09T20:19:07+00:00",
+ "generated_at": "2026-11-09T20:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119759 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-119759 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True TrailBase 0.28.2 before 0.35.10 contains an insecure direct object reference vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119759",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119759:2026-11-09T20:49"
+  },
+  {
+   "ts": "2026-11-09T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-56712 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-56712 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Replicate Cog through 0.23.1 contains a server-side request forgery vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56712",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56712:2026-11-09T20:49"
+  },
+  {
+   "ts": "2026-11-09T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84410 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-84410 📢 Source: canonical 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False In apport before 2.37.0, an improper privilege management vulnerability allows an unpriv",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84410",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84410:2026-11-09T20:49"
+  },
   {
    "ts": "2026-11-09T19:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-118790",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118790:2026-11-09T12:49"
-  },
-  {
-   "ts": "2026-11-09T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118468 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-118468 📢 Source: ENISA 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True XML parsers process attacker-influenced update manifests or network responses with external ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118468",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118468:2026-11-09T12:19"
-  },
-  {
-   "ts": "2026-11-09T12:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-118462 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-118462 📢 Source: ENISA 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Update components download and execute code without proper authenticity verification, re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118462",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118462:2026-11-09T12:19"
-  },
-  {
-   "ts": "2026-11-09T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118461 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-118461 📢 Source: ENISA 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True The shared client accepts caller-controlled doctor identifiers for read and write operations w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118461",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118461:2026-11-09T12:19"
   }
  ]
 }
