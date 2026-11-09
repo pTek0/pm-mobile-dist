@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-09T16:49:07+00:00",
+ "generated_at": "2026-11-09T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T17:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-104989 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-104989 📢 Source: Mandiant 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Uncontrolled search path element in package upload feature in Chaos Software V-Ray ve",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104989",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104989:2026-11-09T17:19"
+  },
+  {
+   "ts": "2026-11-09T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123482 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-123482 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123482",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123482:2026-11-09T17:19"
+  },
+  {
+   "ts": "2026-11-09T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-122664 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-122664 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122664",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122664:2026-11-09T17:19"
+  },
+  {
+   "ts": "2026-11-09T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121576 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-121576 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in AtlasAiDev MCP Server for WordPress ai-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121576",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121576:2026-11-09T17:19"
+  },
+  {
+   "ts": "2026-11-09T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115341 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-115341 📢 Source: ProgressSoftware 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Improper access restrictions in the Thin Client Web Transfer component of Progres",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115341",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115341:2026-11-09T17:19"
+  },
+  {
+   "ts": "2026-11-09T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115340 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-115340 📢 Source: ProgressSoftware 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Progress Software WS_FTP Server versions prior to 2025.0.5 on Windows may write ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115340",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115340:2026-11-09T17:19"
+  },
+  {
+   "ts": "2026-11-09T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115339 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-115339 📢 Source: ProgressSoftware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Insufficient resource limits in Progress Software WS_FTP Server releases prior to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115339",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115339:2026-11-09T17:19"
+  },
   {
    "ts": "2026-11-09T16:49:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://aphyr.com/posts/427-rip-harvest",
    "source": "Hacker News",
    "id": "community:https://aphyr.com/posts/427-rip-harvest:2026-11-09T11:19"
-  },
-  {
-   "ts": "2026-11-09T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I'm not convinced the AI bubble exists",
-   "body": "Hacker News · 점수 308",
-   "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-   "source": "Hacker News",
-   "id": "community:https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists:2026-11-09T11:19"
-  },
-  {
-   "ts": "2026-11-09T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] US intelligence believes Jensen Huang had romantic relations",
-   "body": "Lemmy · technology · 점수 276",
-   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips:2026-11-09T11:19"
-  },
-  {
-   "ts": "2026-11-09T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-54863 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-54863 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54863",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54863:2026-11-09T10:19"
-  },
-  {
-   "ts": "2026-11-09T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123484 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-123484 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123484",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123484:2026-11-09T10:19"
-  },
-  {
-   "ts": "2026-11-09T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123465 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-123465 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Exposure of Sensitive System Information to an Unauthorized Control Sphere vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123465",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123465:2026-11-09T10:19"
-  },
-  {
-   "ts": "2026-11-09T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123463 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-123463 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123463",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123463:2026-11-09T10:19"
-  },
-  {
-   "ts": "2026-11-09T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121780 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-121780 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121780",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121780:2026-11-09T10:19"
   }
  ]
 }
