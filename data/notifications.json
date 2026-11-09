@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-09T19:19:08+00:00",
+ "generated_at": "2026-11-09T19:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125269 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-125269 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False FFmpeg through 9.0.2 contains a double free vulnerability in libavcodec/cbs_sei.c where",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125269",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125269:2026-11-09T19:49"
+  },
+  {
+   "ts": "2026-11-09T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125267 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-125267 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False FFmpeg before 8.1.3 and 9.x before 9.0.2 contains a heap out-of-bounds write vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125267",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125267:2026-11-09T19:49"
+  },
+  {
+   "ts": "2026-11-09T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125262 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-125262 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False FFmpeg through 9.0.2 contains a heap buffer overflow vulnerability in libavcodec/lcevcd",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125262",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125262:2026-11-09T19:49"
+  },
+  {
+   "ts": "2026-11-09T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125260 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-125260 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False FFmpeg through 9.0.2 contains a heap buffer overflow vulnerability in libavcodec/exrenc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125260",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125260:2026-11-09T19:49"
+  },
+  {
+   "ts": "2026-11-09T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125259 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-125259 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False FFmpeg through 9.0.2 contains an integer overflow vulnerability in ff_prores_kostya_enc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125259",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125259:2026-11-09T19:49"
+  },
+  {
+   "ts": "2026-11-09T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125257 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-125257 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False FFmpeg through 9.0.2 contains an off-by-one heap overflow vulnerability in get_exponent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125257",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125257:2026-11-09T19:49"
+  },
+  {
+   "ts": "2026-11-09T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125256 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-125256 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False FFmpeg through 9.0.2 contains a heap buffer overflow vulnerability in ff_llvidenc_diff_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125256",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125256:2026-11-09T19:49"
+  },
   {
    "ts": "2026-11-09T19:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-118461",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118461:2026-11-09T12:19"
-  },
-  {
-   "ts": "2026-11-09T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118460 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-118460 📢 Source: ENISA 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True Embedded private keys protected by a shared password can be used to sign practitioner assertio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118460",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118460:2026-11-09T12:19"
-  },
-  {
-   "ts": "2026-11-09T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118458 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-118458 📢 Source: ENISA 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True The shared AIS login routing selects a production-shipped test DAO and plaintext comparison ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118458",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118458:2026-11-09T12:19"
-  },
-  {
-   "ts": "2026-11-09T12:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Korea, Taiwan and Japan take first jolt from Democratic AI s",
-   "body": "Lemmy · technology · 점수 51",
-   "link": "https://asiatimes.com/2026/11/korea-taiwan-and-japan-take-first-jolt-from-democratic-ai-shock/",
-   "source": "Lemmy · technology",
-   "id": "community:https://asiatimes.com/2026/11/korea-taiwan-and-japan-take-first-jolt-from-democratic-ai-shock/:2026-11-09T12:19"
-  },
-  {
-   "ts": "2026-11-09T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112172 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-112172 📢 Source: ENISA 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True CGM XDent and XMedical expose PHP synchronization endpoints that allow unauthenticated attac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112172",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112172:2026-11-09T11:49"
-  },
-  {
-   "ts": "2026-11-09T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121629 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-121629 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in GStreamer's adaptive streaming demuxers (HLS, DASH, MSS). When processi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121629",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121629:2026-11-09T11:49"
-  },
-  {
-   "ts": "2026-11-09T11:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia CEO Jensen Huang admits affair, board to launch inves",
-   "body": "Lemmy · technology · 점수 237",
-   "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation:2026-11-09T11:49"
-  },
-  {
-   "ts": "2026-11-09T11:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia Opens Investigation Into Jensen Huang’s Relationship ",
-   "body": "Lemmy · technology · 점수 180",
-   "link": "https://www.nytimes.com./2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.nytimes.com./2026/11/08/technology/nvidia-investigation-jensen-huang-china.html:2026-11-09T11:49"
   }
  ]
 }
