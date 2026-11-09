@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-09T08:19:07+00:00",
+ "generated_at": "2026-11-09T08:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T08:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-94249 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-94249 📢 Source: TR-CERT 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in TÜBİTAK BİLGEM Software Technologies Research Instit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-94249",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-94249:2026-11-09T08:49"
+  },
   {
    "ts": "2026-11-09T04:49:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124438",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124438:2026-11-08T13:49"
-  },
-  {
-   "ts": "2026-11-08T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124437 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-124437 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Scriban before 7.5.3 contains a resource exhaustion vulnerability that allows untrusted ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124437",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124437:2026-11-08T13:49"
   }
  ]
 }
