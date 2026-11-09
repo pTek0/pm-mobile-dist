@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-09T21:19:07+00:00",
+ "generated_at": "2026-11-09T21:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114032 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-114032 📢 Source: Illumio 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The OpenSSL library bundled with the Illumio VEN for Windows is affected by an uncontroll",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114032",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114032:2026-11-09T21:49"
+  },
+  {
+   "ts": "2026-11-09T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114031 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-114031 📢 Source: Illumio 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Incorrect permission assignment allows local privilege escalation to SYSTEM on affected r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114031",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114031:2026-11-09T21:49"
+  },
   {
    "ts": "2026-11-09T20:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120854",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120854:2026-11-09T12:49"
-  },
-  {
-   "ts": "2026-11-09T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118791 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-118791 📢 Source: ENISA 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True The application implements software update functionality without adequate authenticity and i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118791",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118791:2026-11-09T12:49"
-  },
-  {
-   "ts": "2026-11-09T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118790 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-118790 📢 Source: ENISA 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Multiple hardcoded credentials are embedded within product components and administrative fun",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118790",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118790:2026-11-09T12:49"
   }
  ]
 }
