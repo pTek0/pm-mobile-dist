@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-09T11:49:07+00:00",
+ "generated_at": "2026-11-09T12:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-09T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118468 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-118468 📢 Source: ENISA 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True XML parsers process attacker-influenced update manifests or network responses with external ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118468",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118468:2026-11-09T12:19"
+  },
+  {
+   "ts": "2026-11-09T12:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-118462 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-118462 📢 Source: ENISA 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Update components download and execute code without proper authenticity verification, re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118462",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118462:2026-11-09T12:19"
+  },
+  {
+   "ts": "2026-11-09T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118461 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-118461 📢 Source: ENISA 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True The shared client accepts caller-controlled doctor identifiers for read and write operations w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118461",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118461:2026-11-09T12:19"
+  },
+  {
+   "ts": "2026-11-09T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118460 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-118460 📢 Source: ENISA 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True Embedded private keys protected by a shared password can be used to sign practitioner assertio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118460",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118460:2026-11-09T12:19"
+  },
+  {
+   "ts": "2026-11-09T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118458 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-118458 📢 Source: ENISA 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True The shared AIS login routing selects a production-shipped test DAO and plaintext comparison ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118458",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118458:2026-11-09T12:19"
+  },
+  {
+   "ts": "2026-11-09T12:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Korea, Taiwan and Japan take first jolt from Democratic AI s",
+   "body": "Lemmy · technology · 점수 51",
+   "link": "https://asiatimes.com/2026/11/korea-taiwan-and-japan-take-first-jolt-from-democratic-ai-shock/",
+   "source": "Lemmy · technology",
+   "id": "community:https://asiatimes.com/2026/11/korea-taiwan-and-japan-take-first-jolt-from-democratic-ai-shock/:2026-11-09T12:19"
+  },
   {
    "ts": "2026-11-09T11:49:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://www.lorekit.io/blog/open-agent-memory-format",
    "source": "Hacker News",
    "id": "community:https://www.lorekit.io/blog/open-agent-memory-format:2026-11-08T23:49"
-  },
-  {
-   "ts": "2026-11-08T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Clj.rs – a Clojure dialect implemented in Rust",
-   "body": "Hacker News · 점수 158",
-   "link": "https://clj.rs/",
-   "source": "Hacker News",
-   "id": "community:https://clj.rs/:2026-11-08T23:49"
-  },
-  {
-   "ts": "2026-11-08T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] major data breach",
-   "body": "Lemmy · programming.dev · 점수 767",
-   "link": "https://media.piefed.social/posts/yk/6O/yk6Or5MH8E2apdc.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://media.piefed.social/posts/yk/6O/yk6Or5MH8E2apdc.jpeg:2026-11-08T23:19"
-  },
-  {
-   "ts": "2026-11-08T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Goldman Sachs is pulling Claude Code from its bankers and tr",
-   "body": "Hacker News · 점수 502",
-   "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-   "source": "Hacker News",
-   "id": "community:https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers:2026-11-08T23:19"
-  },
-  {
-   "ts": "2026-11-08T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Developer ends lucrative screensaver deal with Roku because ",
-   "body": "Lemmy · technology · 점수 412",
-   "link": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/:2026-11-08T23:19"
-  },
-  {
-   "ts": "2026-11-08T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-   "body": "Hacker News · 점수 328",
-   "link": "https://github.com/synchopate/llama-modchip",
-   "source": "Hacker News",
-   "id": "community:https://github.com/synchopate/llama-modchip:2026-11-08T23:19"
-  },
-  {
-   "ts": "2026-11-08T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia Board of Directors Is Investigating Jensen Huang",
-   "body": "Hacker News · 점수 292",
-   "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-   "source": "Hacker News",
-   "id": "community:https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors:2026-11-08T23:19"
   }
  ]
 }
