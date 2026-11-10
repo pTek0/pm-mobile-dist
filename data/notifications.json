@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-11-10T00:49:07+00:00",
+ "generated_at": "2026-11-10T01:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109799 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-109799 📢 Source: sap 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The SAP Cloud SDK for Python contains an improper cryptographic signature verification vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109799",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109799:2026-11-10T01:19"
+  },
+  {
+   "ts": "2026-11-10T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109797 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-109797 📢 Source: sap 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In SAP/astonish, an authenticated user could potentially identify and operate on another team�",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109797",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109797:2026-11-10T01:19"
+  },
+  {
+   "ts": "2026-11-10T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120014 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-120014 📢 Source: sap 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True SAP HANA XSA Web Dispatcher does not perform sufficient request validation in certain administ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120014",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120014:2026-11-10T01:19"
+  },
+  {
+   "ts": "2026-11-10T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120010 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-120010 📢 Source: sap 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True SAP NetWeaver Application Server (SAP Message Server) does not properly size memory allocation",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120010",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120010:2026-11-10T01:19"
+  },
+  {
+   "ts": "2026-11-10T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120009 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-120009 📢 Source: sap 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True SAP ABAP Developer Tools (AMDP Data Preview) does not perform sufficient validation and author",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120009",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120009:2026-11-10T01:19"
+  },
+  {
+   "ts": "2026-11-10T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120008 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-120008 📢 Source: sap 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True SAP NetWeaver (Internet Graphics Service) does not sufficiently validate certain input values ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120008",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120008:2026-11-10T01:19"
+  },
+  {
+   "ts": "2026-11-10T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109807 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-109807 📢 Source: sap 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True SAP NetWeaver (Internet Graphics Service) does not sufficiently validate certain input values ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109807",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109807:2026-11-10T01:19"
+  },
+  {
+   "ts": "2026-11-10T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109806 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-109806 📢 Source: sap 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True SAP NetWeaver (Internet Graphics Service) does not sufficiently validate certain input values ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109806",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109806:2026-11-10T01:19"
+  },
+  {
+   "ts": "2026-11-10T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109804 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-109804 📢 Source: sap 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True SAP Message Server does not properly handle certain malformed requests, which could be leverag",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109804",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109804:2026-11-10T01:19"
+  },
+  {
+   "ts": "2026-11-10T01:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109803 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-109803 📢 Source: sap 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True SAP NetWeaver Knowledge Management (XML Forms) does not sufficiently restrict the selectio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109803",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109803:2026-11-10T01:19"
+  },
+  {
+   "ts": "2026-11-10T01:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109800 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-109800 📢 Source: sap 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True SAP Web Dispatcher does not sufficiently validate certain inputs during processing, which coul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109800",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109800:2026-11-10T01:19"
+  },
+  {
+   "ts": "2026-11-10T01:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109798 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-109798 📢 Source: sap 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SAP BusinessObjects Business Intelligence Platform (Web Intelligence) does not properly re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109798",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109798:2026-11-10T01:19"
+  },
   {
    "ts": "2026-11-10T00:49:06+00:00",
    "level": "general",
@@ -381,126 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-114032",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114032:2026-11-09T21:49"
-  },
-  {
-   "ts": "2026-11-09T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114031 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-114031 📢 Source: Illumio 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Incorrect permission assignment allows local privilege escalation to SYSTEM on affected r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114031",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114031:2026-11-09T21:49"
-  },
-  {
-   "ts": "2026-11-09T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119759 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-119759 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True TrailBase 0.28.2 before 0.35.10 contains an insecure direct object reference vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119759",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119759:2026-11-09T20:49"
-  },
-  {
-   "ts": "2026-11-09T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-56712 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-56712 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Replicate Cog through 0.23.1 contains a server-side request forgery vulnerability that al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-56712",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-56712:2026-11-09T20:49"
-  },
-  {
-   "ts": "2026-11-09T20:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84410 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-84410 📢 Source: canonical 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False In apport before 2.37.0, an improper privilege management vulnerability allows an unpriv",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84410",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84410:2026-11-09T20:49"
-  },
-  {
-   "ts": "2026-11-09T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125269 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-125269 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False FFmpeg through 9.0.2 contains a double free vulnerability in libavcodec/cbs_sei.c where",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125269",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125269:2026-11-09T19:49"
-  },
-  {
-   "ts": "2026-11-09T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125267 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-125267 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False FFmpeg before 8.1.3 and 9.x before 9.0.2 contains a heap out-of-bounds write vulnerabil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125267",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125267:2026-11-09T19:49"
-  },
-  {
-   "ts": "2026-11-09T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125262 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-125262 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False FFmpeg through 9.0.2 contains a heap buffer overflow vulnerability in libavcodec/lcevcd",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125262",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125262:2026-11-09T19:49"
-  },
-  {
-   "ts": "2026-11-09T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125260 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-125260 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False FFmpeg through 9.0.2 contains a heap buffer overflow vulnerability in libavcodec/exrenc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125260",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125260:2026-11-09T19:49"
-  },
-  {
-   "ts": "2026-11-09T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125259 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-125259 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False FFmpeg through 9.0.2 contains an integer overflow vulnerability in ff_prores_kostya_enc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125259",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125259:2026-11-09T19:49"
-  },
-  {
-   "ts": "2026-11-09T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125257 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-125257 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False FFmpeg through 9.0.2 contains an off-by-one heap overflow vulnerability in get_exponent",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125257",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125257:2026-11-09T19:49"
-  },
-  {
-   "ts": "2026-11-09T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125256 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-125256 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False FFmpeg through 9.0.2 contains a heap buffer overflow vulnerability in ff_llvidenc_diff_",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125256",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125256:2026-11-09T19:49"
-  },
-  {
-   "ts": "2026-11-09T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112321 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-112321 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The AUTH_GSSAPI handler in lib/rpc/svc_auth_gssapi.c in MIT Kerberos 5 (aka krb5) does not ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112321",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112321:2026-11-09T19:19"
   }
  ]
 }
