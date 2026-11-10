@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-11-10T19:49:08+00:00",
+ "generated_at": "2026-11-10T20:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120815 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-120815 📢 Source: mongodb 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False An incorrect authorization check in the MongoDB Server authorization subsystem may allow ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120815",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120815:2026-11-10T20:19"
+  },
+  {
+   "ts": "2026-11-10T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120814 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-120814 📢 Source: mongodb 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An improper privilege management issue in the sharding subsystem of MongoDB Server may all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120814",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120814:2026-11-10T20:19"
+  },
+  {
+   "ts": "2026-11-10T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120813 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-120813 📢 Source: mongodb 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True An issue in MongoDB Server's client-side field-level encryption (CSFLE) schema processing ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120813",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120813:2026-11-10T20:19"
+  },
+  {
+   "ts": "2026-11-10T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120810 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-120810 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True An issue in MongoDB server’s aggregation framework allows an authenticated user with read ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120810",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120810:2026-11-10T20:19"
+  },
+  {
+   "ts": "2026-11-10T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-120808 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-120808 📢 Source: mongodb 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True An issue exists in MongoDB's macOS TLS client implementation where certificate chain-o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120808",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120808:2026-11-10T20:19"
+  },
+  {
+   "ts": "2026-11-10T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120807 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-120807 📢 Source: mongodb 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw in MongoDB’s X.509 cluster-membership authentication guard could allow a holder of ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120807",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120807:2026-11-10T20:19"
+  },
+  {
+   "ts": "2026-11-10T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120806 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-120806 📢 Source: mongodb 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True A flaw in MongoDB Server's user management commands may lead to incomplete cleanup of role a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120806",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120806:2026-11-10T20:19"
+  },
+  {
+   "ts": "2026-11-10T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120804 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-120804 📢 Source: mongodb 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A flaw exists in the server-side SSPI Kerberos authentication handler on Windows Enterpris",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120804",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120804:2026-11-10T20:19"
+  },
+  {
+   "ts": "2026-11-10T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120803 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-120803 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A use-after-free issue exists in MongoDB’s SBE (Slot-Based Execution) implementation of a ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120803",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120803:2026-11-10T20:19"
+  },
+  {
+   "ts": "2026-11-10T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-61625 (CVSS 7.3)",
+   "body": "🚨 CVE-2025-61625 📢 Source: fortinet 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True An improper limitation of a pathname to a restricted directory ('path traversal') vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-61625",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-61625:2026-11-10T20:19"
+  },
+  {
+   "ts": "2026-11-10T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115539 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-115539 📢 Source: Docker 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True SwarmKit's Cluster-API proxy can overwrite a forwarded client's TLS identity with an interm",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115539",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115539:2026-11-10T20:19"
+  },
+  {
+   "ts": "2026-11-10T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115538 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-115538 📢 Source: Docker 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Moby's overlay network driver does not restore the iptables rules for encrypted overlay netwo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115538",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115538:2026-11-10T20:19"
+  },
   {
    "ts": "2026-11-10T19:49:07+00:00",
    "level": "general",
@@ -381,126 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-12572",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12572:2026-11-10T11:49"
-  },
-  {
-   "ts": "2026-11-10T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The race is on to sue Nvidia | TechCrunch",
-   "body": "Lemmy · technology · 점수 122",
-   "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-   "source": "Lemmy · technology",
-   "id": "community:https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/:2026-11-10T11:49"
-  },
-  {
-   "ts": "2026-11-10T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Anthropic Just Committed a Shocking Crime Against the Enviro",
-   "body": "Lemmy · technology · 점수 70",
-   "link": "https://futurism.com/artificial-intelligence/anthropic-environment-gas-deal",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/anthropic-environment-gas-deal:2026-11-10T11:49"
-  },
-  {
-   "ts": "2026-11-10T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Companies are using wearable neurotech to train AI models of",
-   "body": "Lemmy · technology · 점수 70",
-   "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F:2026-11-10T11:49"
-  },
-  {
-   "ts": "2026-11-10T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI Is Causing Signal Collapse Everywhere All at Once",
-   "body": "Lemmy · programming.dev · 점수 63",
-   "link": "https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere:2026-11-10T11:49"
-  },
-  {
-   "ts": "2026-11-10T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft are rejecting your mail",
-   "body": "Lobsters · 점수 57",
-   "link": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
-   "source": "Lobsters",
-   "id": "community:https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/:2026-11-10T11:49"
-  },
-  {
-   "ts": "2026-11-10T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95651 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-95651 📢 Source: Zohocorp 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Zoho Corporation ManageEngine DDI Central versions 6500 and below are vulnerable to an una",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95651",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95651:2026-11-10T11:19"
-  },
-  {
-   "ts": "2026-11-10T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95646 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-95646 📢 Source: Zohocorp 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True Zoho Corporation ManageEngine DDI Central versions 6500 and below are vulnerable to a Unicod",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95646",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95646:2026-11-10T11:19"
-  },
-  {
-   "ts": "2026-11-10T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120999 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-120999 📢 Source: EEF 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Improper Authentication vulnerability in Google sign-in and email confirmation in nerves-hub n",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120999",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120999:2026-11-10T11:19"
-  },
-  {
-   "ts": "2026-11-10T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120730 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-120730 📢 Source: EEF 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Improperly Controlled Modification of Dynamically-Determined Object Attributes vulnerability i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120730",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120730:2026-11-10T11:19"
-  },
-  {
-   "ts": "2026-11-10T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120295 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-120295 📢 Source: EEF 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Incorrect Authorization vulnerability in the devices page bulk move in nerves-hub nerves_hub_w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120295",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120295:2026-11-10T11:19"
-  },
-  {
-   "ts": "2026-11-10T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Fable 5.2 one-shotted my nephew's dream game",
-   "body": "Hacker News · 점수 406",
-   "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-   "source": "Hacker News",
-   "id": "community:https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game:2026-11-10T11:19"
-  },
-  {
-   "ts": "2026-11-10T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: Every satellite that passed over any place this wee",
-   "body": "Hacker News · 점수 364",
-   "link": "https://www.watched.earth",
-   "source": "Hacker News",
-   "id": "community:https://www.watched.earth:2026-11-10T11:19"
   }
  ]
 }
