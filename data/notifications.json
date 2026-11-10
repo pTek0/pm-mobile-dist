@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-10T12:19:07+00:00",
+ "generated_at": "2026-11-10T12:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121267 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-121267 📢 Source: TR-CERT 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Incorrect default permissions vulnerability in TÜBİTAK BİLGEM Software Technologies Resea",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121267",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121267:2026-11-10T12:49"
+  },
   {
    "ts": "2026-11-10T12:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91759",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91759:2026-11-10T05:19"
-  },
-  {
-   "ts": "2026-11-10T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91758 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-91758 📢 Source: Hitachi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Out-of-bounds Read and Write Vulnerability in Hitachi Dynamic Link Manager for Linux. This",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91758",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91758:2026-11-10T05:19"
   }
  ]
 }
