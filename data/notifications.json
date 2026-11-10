@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-10T13:49:07+00:00",
+ "generated_at": "2026-11-10T14:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120399 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-120399 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in flightctl. A TLS handshake is performed synchronously in the HTTP serve",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120399",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120399:2026-11-10T14:19"
+  },
   {
    "ts": "2026-11-10T13:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91762",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91762:2026-11-10T05:19"
-  },
-  {
-   "ts": "2026-11-10T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91761 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-91761 📢 Source: Hitachi 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False UNIX Symbolic Link (Symlink) Following Vulnerability in Hitachi Dynamic Link Manager for L",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91761",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91761:2026-11-10T05:19"
   }
  ]
 }
