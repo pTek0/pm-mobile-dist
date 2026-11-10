@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-10T12:49:07+00:00",
+ "generated_at": "2026-11-10T13:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124747 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-124747 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in BusyBox. When resuming a download over File Transfer Protocol (FTP), th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124747",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124747:2026-11-10T13:19"
+  },
+  {
+   "ts": "2026-11-10T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16478 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-16478 📢 Source: TR-CERT 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Permissive list of allowed inputs vulnerability in TÜBİTAK BİLGEM Software Technologies Rese",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16478",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16478:2026-11-10T13:19"
+  },
   {
    "ts": "2026-11-10T12:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91761",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91761:2026-11-10T05:19"
-  },
-  {
-   "ts": "2026-11-10T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91760 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-91760 📢 Source: Hitachi 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Heap-based Buffer Overflow Vulnerability in Hitachi Dynamic Link Manager for Linux. This iss",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91760",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91760:2026-11-10T05:19"
-  },
-  {
-   "ts": "2026-11-10T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91759 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-91759 📢 Source: Hitachi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Out-of-Bounds Write Vulnerability in Hitachi Dynamic Link Manager for Linux. This issue af",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91759",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91759:2026-11-10T05:19"
   }
  ]
 }
