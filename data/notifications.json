@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-10T19:19:08+00:00",
+ "generated_at": "2026-11-10T19:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-50077 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-50077 📢 Source: blackberry 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Invalid Memory Access via the MSI-X table in QVM could allow an attacker in the guest t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-50077",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-50077:2026-11-10T19:49"
+  },
   {
    "ts": "2026-11-10T19:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.watched.earth",
    "source": "Hacker News",
    "id": "community:https://www.watched.earth:2026-11-10T11:19"
-  },
-  {
-   "ts": "2026-11-10T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Amazon saves millions by replacing Sonnet 4.6 with Strands D",
-   "body": "Hacker News · 점수 309",
-   "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-   "source": "Hacker News",
-   "id": "community:https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/:2026-11-10T11:19"
   }
  ]
 }
