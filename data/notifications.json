@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-10T21:49:07+00:00",
+ "generated_at": "2026-11-10T22:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-119017 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-119017 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Incorrect Authorization vulnerability that co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119017",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119017:2026-11-10T22:19"
+  },
+  {
+   "ts": "2026-11-10T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-114371 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-114371 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Incorrect Authorization vulnerability that co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114371",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114371:2026-11-10T22:19"
+  },
+  {
+   "ts": "2026-11-10T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-113580 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-113580 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Improper Control of Generation of Code ('Code",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113580",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113580:2026-11-10T22:19"
+  },
+  {
+   "ts": "2026-11-10T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-113579 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-113579 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Improper Control of Generation of Code ('Code",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113579",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113579:2026-11-10T22:19"
+  },
   {
    "ts": "2026-11-10T21:49:07+00:00",
    "level": "important",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120804",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120804:2026-11-10T20:19"
-  },
-  {
-   "ts": "2026-11-10T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120803 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-120803 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A use-after-free issue exists in MongoDB’s SBE (Slot-Based Execution) implementation of a ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120803",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120803:2026-11-10T20:19"
-  },
-  {
-   "ts": "2026-11-10T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-61625 (CVSS 7.3)",
-   "body": "🚨 CVE-2025-61625 📢 Source: fortinet 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True An improper limitation of a pathname to a restricted directory ('path traversal') vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-61625",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-61625:2026-11-10T20:19"
-  },
-  {
-   "ts": "2026-11-10T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115539 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-115539 📢 Source: Docker 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True SwarmKit's Cluster-API proxy can overwrite a forwarded client's TLS identity with an interm",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115539",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115539:2026-11-10T20:19"
-  },
-  {
-   "ts": "2026-11-10T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-115538 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-115538 📢 Source: Docker 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Moby's overlay network driver does not restore the iptables rules for encrypted overlay netwo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115538",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115538:2026-11-10T20:19"
   }
  ]
 }
