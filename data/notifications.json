@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-10T10:19:07+00:00",
+ "generated_at": "2026-11-10T10:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T10:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125704 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-125704 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A use-after-free flaw was found in GStreamer core buffer value deserialization. When crafte",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125704",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125704:2026-11-10T10:49"
+  },
   {
    "ts": "2026-11-10T09:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-109806",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109806:2026-11-10T01:19"
-  },
-  {
-   "ts": "2026-11-10T01:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109804 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-109804 📢 Source: sap 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True SAP Message Server does not properly handle certain malformed requests, which could be leverag",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109804",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109804:2026-11-10T01:19"
   }
  ]
 }
