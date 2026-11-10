@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-10T15:19:07+00:00",
+ "generated_at": "2026-11-10T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-121683 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-121683 📢 Source: ivanti 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Missing authentication in Ivanti Cloud Services Application version 5.0.8 allows a remo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121683",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121683:2026-11-10T15:49"
+  },
+  {
+   "ts": "2026-11-10T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108187 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-108187 📢 Source: Zoom 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Origin Validation Error in Zoom Workplace for Windows may allow an unauthenticated user to co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108187",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108187:2026-11-10T15:49"
+  },
+  {
+   "ts": "2026-11-10T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-108186 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-108186 📢 Source: Zoom 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Improper Input Validation in Zoom Workplace for Windows may allow an unauthenticated user",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108186",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108186:2026-11-10T15:49"
+  },
+  {
+   "ts": "2026-11-10T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-121653 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-121653 📢 Source: ivanti 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True SQL injection in the Core of Ivanti Endpoint Manager before version 2024 SU8 allows a r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121653",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121653:2026-11-10T15:49"
+  },
   {
    "ts": "2026-11-10T14:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-63288",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63288:2026-11-10T05:49"
-  },
-  {
-   "ts": "2026-11-10T05:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-4762 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-4762 📢 Source: Axis 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A vulnerability to perform a privilege escalation attack on the server as a non-admin user. 📅 ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-4762",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4762:2026-11-10T05:49"
-  },
-  {
-   "ts": "2026-11-10T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92864 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-92864 📢 Source: Hitachi 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Insecure Temporary File Vulnerability in Hitachi Dynamic Link Manager for AIX (for markets",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92864",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92864:2026-11-10T05:19"
-  },
-  {
-   "ts": "2026-11-10T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92863 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-92863 📢 Source: Hitachi 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Integer Overflow Vulnerability in Hitachi Dynamic Link Manager for AIX (for the Japanese mar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92863",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92863:2026-11-10T05:19"
-  },
-  {
-   "ts": "2026-11-10T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91764 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-91764 📢 Source: Hitachi 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False Improper Link Resolution Before File Access Vulnerability in Hitachi Dynamic Link Manager ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91764",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91764:2026-11-10T05:19"
   }
  ]
 }
