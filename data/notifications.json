@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-10T20:49:07+00:00",
+ "generated_at": "2026-11-10T21:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92544 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-92544 📢 Source: Kong 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SQL injection in the LLM usage counters of Kong Gateway Enterprise and Kong AI Gateway may all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92544",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92544:2026-11-10T21:19"
+  },
+  {
+   "ts": "2026-11-10T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105986 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-105986 📢 Source: Kong 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Incorrect authorization in the Admin API RBAC of Kong Gateway Enterprise allows a delegated a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105986",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105986:2026-11-10T21:19"
+  },
+  {
+   "ts": "2026-11-10T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82002 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-82002 📢 Source: adobe 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Media Encoder is affected by an Incorrect Authorization vulnerability that could result in a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82002",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82002:2026-11-10T21:19"
+  },
+  {
+   "ts": "2026-11-10T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113567 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-113567 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Audition is affected by an out-of-bounds write vulnerability that could result in arbitrary",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113567",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113567:2026-11-10T21:19"
+  },
+  {
+   "ts": "2026-11-10T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113565 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-113565 📢 Source: adobe 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Audition is affected by an out-of-bounds write vulnerability that could result in arbitrary",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113565",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113565:2026-11-10T21:19"
+  },
+  {
+   "ts": "2026-11-10T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113563 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-113563 📢 Source: adobe 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Audition is affected by a Violation of Secure Design Principles vulnerability that could re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113563",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113563:2026-11-10T21:19"
+  },
+  {
+   "ts": "2026-11-10T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113562 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-113562 📢 Source: adobe 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Audition is affected by an Improper Input Validation vulnerability that could result in arb",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113562",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113562:2026-11-10T21:19"
+  },
   {
    "ts": "2026-11-10T20:49:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-34016",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-34016:2026-11-10T16:49"
-  },
-  {
-   "ts": "2026-11-10T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-32670 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-32670 📢 Source: intel 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Time-of-check time-of-use race condition for the Intel(R) VTune(TM) Profiler software within",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-32670",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-32670:2026-11-10T16:49"
-  },
-  {
-   "ts": "2026-11-10T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-32667 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-32667 📢 Source: intel 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Out-of-bounds write for the Intel(R) VTune(TM) Profiler software within Ring 1: Device Drive",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-32667",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-32667:2026-11-10T16:49"
-  },
-  {
-   "ts": "2026-11-10T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125271 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-125271 📢 Source: AMZN 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Incorrect normalization of operation names in the custom security policy enforcement in awsl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125271",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125271:2026-11-10T16:49"
-  },
-  {
-   "ts": "2026-11-10T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124037 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-124037 📢 Source: flock 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True An information exposure flaw in the public access-list sign-up feature of the Flock Safety P",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124037",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124037:2026-11-10T16:19"
-  },
-  {
-   "ts": "2026-11-10T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-121683 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-121683 📢 Source: ivanti 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Missing authentication in Ivanti Cloud Services Application version 5.0.8 allows a remo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121683",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121683:2026-11-10T15:49"
-  },
-  {
-   "ts": "2026-11-10T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108187 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-108187 📢 Source: Zoom 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Origin Validation Error in Zoom Workplace for Windows may allow an unauthenticated user to co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108187",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108187:2026-11-10T15:49"
-  },
-  {
-   "ts": "2026-11-10T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-108186 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-108186 📢 Source: Zoom 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Improper Input Validation in Zoom Workplace for Windows may allow an unauthenticated user",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108186",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108186:2026-11-10T15:49"
   }
  ]
 }
