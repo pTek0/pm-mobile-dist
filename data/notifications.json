@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-10T18:49:07+00:00",
+ "generated_at": "2026-11-10T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-40275 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-40275 📢 Source: blackberry 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Heap-based Buffer Overflow in the DCMD_PROC_EVENT handler of the procnto could allow an",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-40275",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-40275:2026-11-10T19:19"
+  },
+  {
+   "ts": "2026-11-10T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14968 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-14968 📢 Source: TianoCore 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False EDK2 contains vulnerabilities in BIOS where skilled and privileged users or attackers may ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14968",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14968:2026-11-10T19:19"
+  },
+  {
+   "ts": "2026-11-10T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-126087 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-126087 📢 Source: AMZN 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Untrusted search path in the cross-user process launcher in Open Job Description (OpenJD)",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126087",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126087:2026-11-10T19:19"
+  },
+  {
+   "ts": "2026-11-10T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-54436 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-54436 📢 Source: blackberry 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Heap-based Buffer Overflow in the io-char library's DCMD_CHR_WAITINFO devctl() handler ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-54436",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-54436:2026-11-10T19:19"
+  },
+  {
+   "ts": "2026-11-10T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105437 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-105437 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Affected versions of Git have a heap buffer overflow in the three-way merge code (xdiff), w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105437",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105437:2026-11-10T19:19"
+  },
   {
    "ts": "2026-11-10T18:19:07+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
    "source": "Hacker News",
    "id": "community:https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/:2026-11-10T11:19"
-  },
-  {
-   "ts": "2026-11-10T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] it career in mage career terms",
-   "body": "Lemmy · programming.dev · 점수 224",
-   "link": "https://lemmy.blahaj.zone/pictrs/image/b38a27b1-e5af-4795-8865-c11b101ee601.webp",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.blahaj.zone/pictrs/image/b38a27b1-e5af-4795-8865-c11b101ee601.webp:2026-11-10T11:19"
-  },
-  {
-   "ts": "2026-11-10T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia",
-   "body": "Lemmy · programming.dev · 점수 168",
-   "link": "https://media.piefed.social/posts/Qr/3Q/Qr3QVW0iVvWVDPH.jpg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://media.piefed.social/posts/Qr/3Q/Qr3QVW0iVvWVDPH.jpg:2026-11-10T11:19"
-  },
-  {
-   "ts": "2026-11-10T10:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125704 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-125704 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A use-after-free flaw was found in GStreamer core buffer value deserialization. When crafte",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125704",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125704:2026-11-10T10:49"
-  },
-  {
-   "ts": "2026-11-10T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104619 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-104619 📢 Source: suse 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Untrusted users could roll back security updates when using the PackageKit Zypp Backend befo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104619",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104619:2026-11-10T09:49"
-  },
-  {
-   "ts": "2026-11-10T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-60046 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-60046 📢 Source: CERTVDE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An unauthenticated remote attacker can perform password resets for any user with known user",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60046",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60046:2026-11-10T08:49"
   }
  ]
 }
