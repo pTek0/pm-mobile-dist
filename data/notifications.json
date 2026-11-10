@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-09T23:49:08+00:00",
+ "generated_at": "2026-11-10T00:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Our Smallest, Most Efficient Model: Muse Ember",
+   "body": "Hacker News · 점수 209",
+   "link": "https://research.meta.ai/blog/muse-ember",
+   "source": "Hacker News",
+   "id": "community:https://research.meta.ai/blog/muse-ember:2026-11-10T00:19"
+  },
+  {
+   "ts": "2026-11-10T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Terminal2Shell: Critical flaw grants instant shell access on",
+   "body": "Lemmy · programming.dev · 점수 177",
+   "link": "https://terminal2shell.com/",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://terminal2shell.com/:2026-11-10T00:19"
+  },
+  {
+   "ts": "2026-11-10T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Claude Code is accidentally exposing secrets all over GitHub",
+   "body": "Lemmy · technology · 점수 167",
+   "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/:2026-11-10T00:19"
+  },
+  {
+   "ts": "2026-11-10T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Jensen Huang Admits Affair with Suspected Chinese Spy",
+   "body": "Lemmy · technology · 점수 158",
+   "link": "https://gizmodo.com/jensen-huang-admits-to-having-an-affair-with-nvidias-chinese-spy-2000836796",
+   "source": "Lemmy · technology",
+   "id": "community:https://gizmodo.com/jensen-huang-admits-to-having-an-affair-with-nvidias-chinese-spy-2000836796:2026-11-10T00:19"
+  },
+  {
+   "ts": "2026-11-10T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Memory shortage spurs smartphone makers to melt used memory ",
+   "body": "Lemmy · technology · 점수 91",
+   "link": "https://www.tomshardware.com/pc-components/dram/memory-shortage-spurs-smartphone-makers-to-melt-used-memory-off-old-devices-then-re-solder-it-onto-new-products-recycled-memory-to-keep-budget-phones-affordable-reballing-adoption-to-double-by-2027",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.tomshardware.com/pc-components/dram/memory-shortage-spurs-smartphone-makers-to-melt-used-memory-off-old-devices-then-re-solder-it-onto-new-products-recycled-memory-to-keep-budget-phones-affordable-reballing-adoption-to-double-by-2027:2026-11-10T00:19"
+  },
   {
    "ts": "2026-11-09T23:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119755",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119755:2026-11-09T17:49"
-  },
-  {
-   "ts": "2026-11-09T17:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19706 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-19706 📢 Source: redhat 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False During ABI bootstrap, the bootstrap node's approve-csr.service approves and signs every CSR",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19706",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19706:2026-11-09T17:49"
-  },
-  {
-   "ts": "2026-11-09T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-104989 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-104989 📢 Source: Mandiant 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Uncontrolled search path element in package upload feature in Chaos Software V-Ray ve",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104989",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104989:2026-11-09T17:19"
-  },
-  {
-   "ts": "2026-11-09T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123482 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-123482 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123482",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123482:2026-11-09T17:19"
-  },
-  {
-   "ts": "2026-11-09T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122664 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-122664 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122664",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122664:2026-11-09T17:19"
-  },
-  {
-   "ts": "2026-11-09T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121576 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-121576 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in AtlasAiDev MCP Server for WordPress ai-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121576",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121576:2026-11-09T17:19"
   }
  ]
 }
