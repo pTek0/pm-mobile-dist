@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-10T05:19:07+00:00",
+ "generated_at": "2026-11-10T05:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12964 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-12964 📢 Source: Axis 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False A vulnerability allowing for privileged escalation of the viewer account to gain administrator ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12964",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12964:2026-11-10T05:49"
+  },
+  {
+   "ts": "2026-11-10T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12963 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-12963 📢 Source: Axis 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A vulnerability that could allow a viewer account to gain unauthorized access to network attac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12963",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12963:2026-11-10T05:49"
+  },
+  {
+   "ts": "2026-11-10T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12389 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-12389 📢 Source: Axis 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False A vulnerability that could lead to a high privileged authenticated user performing a remote c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12389",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12389:2026-11-10T05:49"
+  },
+  {
+   "ts": "2026-11-10T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-8372 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-8372 📢 Source: Axis 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A vulnerability that could allow an attacker to gain unauthorized access. 📅 Published Date: 202",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8372",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8372:2026-11-10T05:49"
+  },
+  {
+   "ts": "2026-11-10T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63288 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-63288 📢 Source: Axis 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False A WebSocket request sent to a specific API endpoint allows unauthorized access to a separate ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63288",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63288:2026-11-10T05:49"
+  },
+  {
+   "ts": "2026-11-10T05:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-4762 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-4762 📢 Source: Axis 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A vulnerability to perform a privilege escalation attack on the server as a non-admin user. 📅 ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-4762",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4762:2026-11-10T05:49"
+  },
   {
    "ts": "2026-11-10T05:19:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://maurycyz.com/projects/badcert/",
    "source": "Lobsters",
    "id": "community:https://maurycyz.com/projects/badcert/:2026-11-10T00:49"
-  },
-  {
-   "ts": "2026-11-10T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Proton removed post on UserVoice calling for Andy Yen to ste",
-   "body": "Lemmy · programming.dev · 점수 59",
-   "link": "https://lemmy.world/post/59163844",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/post/59163844:2026-11-10T00:49"
-  },
-  {
-   "ts": "2026-11-10T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Our Smallest, Most Efficient Model: Muse Ember",
-   "body": "Hacker News · 점수 209",
-   "link": "https://research.meta.ai/blog/muse-ember",
-   "source": "Hacker News",
-   "id": "community:https://research.meta.ai/blog/muse-ember:2026-11-10T00:19"
-  },
-  {
-   "ts": "2026-11-10T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Terminal2Shell: Critical flaw grants instant shell access on",
-   "body": "Lemmy · programming.dev · 점수 177",
-   "link": "https://terminal2shell.com/",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://terminal2shell.com/:2026-11-10T00:19"
-  },
-  {
-   "ts": "2026-11-10T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Claude Code is accidentally exposing secrets all over GitHub",
-   "body": "Lemmy · technology · 점수 167",
-   "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/:2026-11-10T00:19"
-  },
-  {
-   "ts": "2026-11-10T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Jensen Huang Admits Affair with Suspected Chinese Spy",
-   "body": "Lemmy · technology · 점수 158",
-   "link": "https://gizmodo.com/jensen-huang-admits-to-having-an-affair-with-nvidias-chinese-spy-2000836796",
-   "source": "Lemmy · technology",
-   "id": "community:https://gizmodo.com/jensen-huang-admits-to-having-an-affair-with-nvidias-chinese-spy-2000836796:2026-11-10T00:19"
-  },
-  {
-   "ts": "2026-11-10T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Memory shortage spurs smartphone makers to melt used memory ",
-   "body": "Lemmy · technology · 점수 91",
-   "link": "https://www.tomshardware.com/pc-components/dram/memory-shortage-spurs-smartphone-makers-to-melt-used-memory-off-old-devices-then-re-solder-it-onto-new-products-recycled-memory-to-keep-budget-phones-affordable-reballing-adoption-to-double-by-2027",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/pc-components/dram/memory-shortage-spurs-smartphone-makers-to-melt-used-memory-off-old-devices-then-re-solder-it-onto-new-products-recycled-memory-to-keep-budget-phones-affordable-reballing-adoption-to-double-by-2027:2026-11-10T00:19"
   }
  ]
 }
