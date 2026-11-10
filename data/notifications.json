@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-11-10T08:19:08+00:00",
+ "generated_at": "2026-11-10T08:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-60046 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-60046 📢 Source: CERTVDE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An unauthenticated remote attacker can perform password resets for any user with known user",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60046",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60046:2026-11-10T08:49"
+  },
+  {
+   "ts": "2026-11-10T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-60044 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-60044 📢 Source: CERTVDE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The backups created by the application use a weak static password allowing an unauthenticat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60044",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60044:2026-11-10T08:49"
+  },
+  {
+   "ts": "2026-11-10T08:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-60043 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-60043 📢 Source: CERTVDE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated remote attacker can perform a XSS attack on a logged in backend user",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60043",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60043:2026-11-10T08:49"
+  },
+  {
+   "ts": "2026-11-10T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-60041 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-60041 📢 Source: CERTVDE 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True An unauthenticated remote attacker can perform a CSRF attack on a logged in backend user al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60041",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60041:2026-11-10T08:49"
+  },
+  {
+   "ts": "2026-11-10T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-60040 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-60040 📢 Source: CERTVDE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An unauthenticated remote attacker can perform a DoS in the backends backup creation functi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60040",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60040:2026-11-10T08:49"
+  },
+  {
+   "ts": "2026-11-10T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-60039 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-60039 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A high privileged remote attacker can perform a code injection in the backends backup resto",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60039",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60039:2026-11-10T08:49"
+  },
+  {
+   "ts": "2026-11-10T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-60038 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-60038 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A high privileged remote attacker can perform an OpenSSL code injection in the backends Imp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60038",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60038:2026-11-10T08:49"
+  },
+  {
+   "ts": "2026-11-10T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-60037 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-60037 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A high privileged remote attacker can perform an OpenSSL code injection in the frontends de",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60037",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60037:2026-11-10T08:49"
+  },
+  {
+   "ts": "2026-11-10T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-60036 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-60036 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A high privileged remote attacker can perform a code injection in the backends patch activa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60036",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60036:2026-11-10T08:49"
+  },
+  {
+   "ts": "2026-11-10T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-60035 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-60035 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A high privileged remote attacker can perform a code injection in the backends network auth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60035",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60035:2026-11-10T08:49"
+  },
+  {
+   "ts": "2026-11-10T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120012 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-120012 📢 Source: sap 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True SAP Cloud SDK for AI (Node.js) could inadvertently include sensitive authentication credential",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120012",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120012:2026-11-10T08:49"
+  },
   {
    "ts": "2026-11-10T06:19:07+00:00",
    "level": "important",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-109803",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109803:2026-11-10T01:19"
-  },
-  {
-   "ts": "2026-11-10T01:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109800 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-109800 📢 Source: sap 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True SAP Web Dispatcher does not sufficiently validate certain inputs during processing, which coul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109800",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109800:2026-11-10T01:19"
-  },
-  {
-   "ts": "2026-11-10T01:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-109798 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-109798 📢 Source: sap 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SAP BusinessObjects Business Intelligence Platform (Web Intelligence) does not properly re",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109798",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109798:2026-11-10T01:19"
-  },
-  {
-   "ts": "2026-11-10T00:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76970 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-76970 📢 Source: sap 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Due to a Memory Corruption vulnerability in Application Server ABAP for SAP NetWeaver and ABAP ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76970",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76970:2026-11-10T00:49"
-  },
-  {
-   "ts": "2026-11-10T00:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76966 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-76966 📢 Source: sap 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True Due to improper RFC protocol validation in the SAP Kernel used by the Application Server ABAP o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76966",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76966:2026-11-10T00:49"
-  },
-  {
-   "ts": "2026-11-10T00:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76965 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-76965 📢 Source: sap 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True SAP NetWeaver Application Server ABAP and ABAP Platform does not perform necessary authoriz",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76965",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76965:2026-11-10T00:49"
-  },
-  {
-   "ts": "2026-11-10T00:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-76964 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-76964 📢 Source: sap 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True SAP NetWeaver Application Server ABAP does not sufficiently validate certain network input p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76964",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76964:2026-11-10T00:49"
-  },
-  {
-   "ts": "2026-11-10T00:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-124600 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-124600 📢 Source: GV 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True GV-Face transmits sensitive user credentials and related authentication data over unencrypte",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124600",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124600:2026-11-10T00:49"
-  },
-  {
-   "ts": "2026-11-10T00:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124598 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-124598 📢 Source: GV 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An API key is hardcoded and retrievable from the GV-Face package. Since Android applications ca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124598",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124598:2026-11-10T00:49"
-  },
-  {
-   "ts": "2026-11-10T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How Much Energy Does Building Distro Packages Use",
-   "body": "Lobsters · 점수 82",
-   "link": "https://www.wezm.net/v2/posts/2026/distro-energy-use/",
-   "source": "Lobsters",
-   "id": "community:https://www.wezm.net/v2/posts/2026/distro-energy-use/:2026-11-10T00:49"
-  },
-  {
-   "ts": "2026-11-10T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Man who lost $308,000 on sports bets sues Kalshi for offerin",
-   "body": "Lemmy · technology · 점수 80",
-   "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/:2026-11-10T00:49"
-  },
-  {
-   "ts": "2026-11-10T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] unlocking any car from X brand in most of the world",
-   "body": "Lobsters · 점수 75",
-   "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-   "source": "Lobsters",
-   "id": "community:https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/:2026-11-10T00:49"
   }
  ]
 }
