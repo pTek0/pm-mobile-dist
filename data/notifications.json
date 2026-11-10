@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-10T16:49:08+00:00",
+ "generated_at": "2026-11-10T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126050 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-126050 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False apitrace 2.0 through 14.0 contains a heap-based buffer overflow in SnappyFile::flushRea",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126050",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126050:2026-11-10T17:19"
+  },
+  {
+   "ts": "2026-11-10T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112186 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-112186 📢 Source: eclipse 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In Eclipse Kura versions 5.4.0 through 5.6.2, the Service Listing V1 REST API read the JSO",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112186",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112186:2026-11-10T17:19"
+  },
+  {
+   "ts": "2026-11-10T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112185 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-112185 📢 Source: eclipse 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True In Eclipse Kura versions 5.1.0 through 5.6.2, the Configuration REST API v2 (org.eclipse.k",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112185",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112185:2026-11-10T17:19"
+  },
+  {
+   "ts": "2026-11-10T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97891 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-97891 📢 Source: eclipse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Eclipse Kura version 5.0.0 to 5.6.2, the Web Console allocates a new HTTP session for ev",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97891",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97891:2026-11-10T17:19"
+  },
+  {
+   "ts": "2026-11-10T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-92684 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-92684 📢 Source: Neo4j 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Missing Authentication for Critical Function in aggregation queries in Neo4j @neo4j /graphql ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92684",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92684:2026-11-10T17:19"
+  },
   {
    "ts": "2026-11-10T16:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-60038",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60038:2026-11-10T08:49"
-  },
-  {
-   "ts": "2026-11-10T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-60037 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-60037 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A high privileged remote attacker can perform an OpenSSL code injection in the frontends de",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60037",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60037:2026-11-10T08:49"
-  },
-  {
-   "ts": "2026-11-10T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-60036 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-60036 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A high privileged remote attacker can perform a code injection in the backends patch activa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60036",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60036:2026-11-10T08:49"
-  },
-  {
-   "ts": "2026-11-10T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-60035 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-60035 📢 Source: CERTVDE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A high privileged remote attacker can perform a code injection in the backends network auth",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-60035",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-60035:2026-11-10T08:49"
-  },
-  {
-   "ts": "2026-11-10T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120012 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-120012 📢 Source: sap 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True SAP Cloud SDK for AI (Node.js) could inadvertently include sensitive authentication credential",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120012",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120012:2026-11-10T08:49"
-  },
-  {
-   "ts": "2026-11-10T06:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-13312 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-13312 📢 Source: Axis 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability that could allow an attacker to compromise a system. 📅 Published Date: 202",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13312",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13312:2026-11-10T06:19"
   }
  ]
 }
