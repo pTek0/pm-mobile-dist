@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-10T11:49:07+00:00",
+ "generated_at": "2026-11-10T12:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125742 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-125742 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False 7-Zip before 26.06 contains a heap out-of-bounds write vulnerability in the LZX decoder",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125742",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125742:2026-11-10T12:19"
+  },
+  {
+   "ts": "2026-11-10T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12266 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-12266 📢 Source: Zohocorp 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Zoho Corporation ManageEngine DDI Central versions 6200 and below are vulnerable to LDAP b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12266",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12266:2026-11-10T12:19"
+  },
   {
    "ts": "2026-11-10T11:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91758",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91758:2026-11-10T05:19"
-  },
-  {
-   "ts": "2026-11-10T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91757 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-91757 📢 Source: Hitachi 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False OS Command Injection Vulnerability in Hitachi Dynamic Link Manager for VMware. This issue ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91757",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91757:2026-11-10T05:19"
-  },
-  {
-   "ts": "2026-11-10T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91756 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-91756 📢 Source: Hitachi 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True OS Command Injection Vulnerability in Hitachi Dynamic Link Manager for VMware. This issue a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91756",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91756:2026-11-10T05:19"
   }
  ]
 }
