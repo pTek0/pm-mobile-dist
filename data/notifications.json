@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-10T09:19:07+00:00",
+ "generated_at": "2026-11-10T09:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-10T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104619 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-104619 📢 Source: suse 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Untrusted users could roll back security updates when using the PackageKit Zypp Backend befo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104619",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104619:2026-11-10T09:49"
+  },
   {
    "ts": "2026-11-10T08:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-109804",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109804:2026-11-10T01:19"
-  },
-  {
-   "ts": "2026-11-10T01:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-109803 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-109803 📢 Source: sap 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True SAP NetWeaver Knowledge Management (XML Forms) does not sufficiently restrict the selectio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109803",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109803:2026-11-10T01:19"
   }
  ]
 }
