@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-11T10:49:08+00:00",
+ "generated_at": "2026-11-11T11:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T11:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78287 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-78287 📢 Source: Patchstack 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Improper Control of Generation of Code ('Code Injection') vulnerability in Staggs STA",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78287",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78287:2026-11-11T11:19"
+  },
+  {
+   "ts": "2026-11-11T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124253 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-124253 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124253",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124253:2026-11-11T11:19"
+  },
+  {
+   "ts": "2026-11-11T11:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123478 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-123478 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123478",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123478:2026-11-11T11:19"
+  },
   {
    "ts": "2026-11-11T10:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://www.blender.org/download/releases/5-3/",
    "source": "Hacker News",
    "id": "community:https://www.blender.org/download/releases/5-3/:2026-11-10T23:19"
-  },
-  {
-   "ts": "2026-11-10T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] So Unfair",
-   "body": "Lemmy · programming.dev · 점수 336",
-   "link": "https://media.piefed.world/posts/Pg/X7/PgX729SaCpIDqU3.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://media.piefed.world/posts/Pg/X7/PgX729SaCpIDqU3.jpeg:2026-11-10T23:19"
-  },
-  {
-   "ts": "2026-11-10T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Val Town is winding down",
-   "body": "Hacker News · 점수 258",
-   "link": "https://blog.val.town/winding-down",
-   "source": "Hacker News",
-   "id": "community:https://blog.val.town/winding-down:2026-11-10T23:19"
-  },
-  {
-   "ts": "2026-11-10T22:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-126261 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-126261 📢 Source: fortinet 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True A improper authorization vulnerability in Fortinet FortiManager 8.0.0, FortiManager 7.6",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126261",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126261:2026-11-10T22:49"
   }
  ]
 }
