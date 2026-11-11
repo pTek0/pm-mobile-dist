@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-11T14:49:08+00:00",
+ "generated_at": "2026-11-11T15:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T15:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-126325 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-126325 📢 Source: PTC 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True A critical remote code execution (RCE) vulnerability has been reported in PTC Windchill an",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126325",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126325:2026-11-11T15:19"
+  },
+  {
+   "ts": "2026-11-11T15:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-123710 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-123710 📢 Source: redhat 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in Red Hat Quay. An unauthenticated client can obtain an anonymous reg",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123710",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123710:2026-11-11T15:19"
+  },
   {
    "ts": "2026-11-11T14:49:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116645",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116645:2026-11-11T03:19"
-  },
-  {
-   "ts": "2026-11-11T02:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126570 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-126570 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Padloc 4.0.0 before 4.3.1 contains a prototype pollution vulnerability that allows SCIM ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126570",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126570:2026-11-11T02:49"
-  },
-  {
-   "ts": "2026-11-11T02:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126566 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-126566 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Semantic MediaWiki 7.3.1 before 7.4.1 contains an incorrect authorization vulnerability ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126566",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126566:2026-11-11T02:49"
   }
  ]
 }
