@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-11T21:49:07+00:00",
+ "generated_at": "2026-11-11T22:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111521 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-111521 📢 Source: dell 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Dell Display and Peripheral Manager (DDPM Windows), versions prior to 2.4.0.17 , contain a Tim",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111521",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111521:2026-11-11T22:19"
+  },
   {
    "ts": "2026-11-11T21:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91880",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91880:2026-11-11T18:49"
-  },
-  {
-   "ts": "2026-11-11T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91879 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-91879 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell Terraform for ObjectScale and Powerstore, versions prior to 1.1.1 (ObjectScale) and versi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91879",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91879:2026-11-11T18:19"
   }
  ]
 }
