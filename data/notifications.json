@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-11T17:19:08+00:00",
+ "generated_at": "2026-11-11T17:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T17:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106152 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-106152 📢 Source: ProgressSoftware 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® Report Server prior to version 12.3.26.1110, an external ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106152",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106152:2026-11-11T17:49"
+  },
+  {
+   "ts": "2026-11-11T17:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106156 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-106156 📢 Source: ProgressSoftware 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® UI for ASP.NET Core versions `2015.1.318` through `2026.3",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106156",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106156:2026-11-11T17:49"
+  },
+  {
+   "ts": "2026-11-11T17:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106137 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-106137 📢 Source: ProgressSoftware 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True In affected versions of Progress ® Telerik ® UI for ASP.NET MVC `2012.2.710` thro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106137",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106137:2026-11-11T17:49"
+  },
   {
    "ts": "2026-11-11T17:19:07+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-126617",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126617:2026-11-11T08:49"
-  },
-  {
-   "ts": "2026-11-11T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126613 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-126613 📢 Source: GitLab 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Allocation of resources without limits in the JSON reader of Progressive Robot hMailServer ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126613",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126613:2026-11-11T08:49"
-  },
-  {
-   "ts": "2026-11-11T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126612 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-126612 📢 Source: GitLab 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Improper link resolution in the Windows installer of Progressive Robot hMailServer 6.0.0 t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126612",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126612:2026-11-11T08:49"
-  },
-  {
-   "ts": "2026-11-11T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126611 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-126611 📢 Source: GitLab 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Progressive Robot hMailServer 6.3.4 through 6.3.7, with a MySQL or MariaDB database, TlsMode",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126611",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126611:2026-11-11T08:49"
   }
  ]
 }
