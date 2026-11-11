@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-11T10:19:08+00:00",
+ "generated_at": "2026-11-11T10:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124741 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-124741 📢 Source: redhat 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: False A flaw was found in BusyBox. The udhcpc6 DHCPv6 client does not properly validate the size",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124741",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124741:2026-11-11T10:49"
+  },
+  {
+   "ts": "2026-11-11T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124739 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-124739 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in BusyBox. When the httpd web server processes subdirectory configuration",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124739",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124739:2026-11-11T10:49"
+  },
   {
    "ts": "2026-11-11T10:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-126261",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126261:2026-11-10T22:49"
-  },
-  {
-   "ts": "2026-11-10T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-0008 (CVSS 8.4)",
-   "body": "🚨 CVE-2025-0008 📢 Source: AMD 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Insufficient verification of data authenticity may allow a local attacker to bypass Secure Debu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-0008",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-0008:2026-11-10T22:49"
-  },
-  {
-   "ts": "2026-11-10T22:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-119017 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-119017 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Incorrect Authorization vulnerability that co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119017",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119017:2026-11-10T22:19"
   }
  ]
 }
