@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-11T09:19:08+00:00",
+ "generated_at": "2026-11-11T09:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124737 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-124737 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in BusyBox. When the TFTP (Trivial File Transfer Protocol) client requests",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124737",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124737:2026-11-11T09:49"
+  },
   {
    "ts": "2026-11-11T08:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-113580",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113580:2026-11-10T22:19"
-  },
-  {
-   "ts": "2026-11-10T22:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-113579 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-113579 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Improper Control of Generation of Code ('Code",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113579",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113579:2026-11-10T22:19"
   }
  ]
 }
