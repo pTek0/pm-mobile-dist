@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-11T09:49:08+00:00",
+ "generated_at": "2026-11-11T10:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124250 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-124250 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124250",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124250:2026-11-11T10:19"
+  },
+  {
+   "ts": "2026-11-11T10:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-112174 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-112174 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False Local privilege escalation vulnerability in Iperius Backup 8.8.3, due to insufficient ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112174",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112174:2026-11-11T10:19"
+  },
   {
    "ts": "2026-11-11T09:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119017",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119017:2026-11-10T22:19"
-  },
-  {
-   "ts": "2026-11-10T22:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114371 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-114371 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Incorrect Authorization vulnerability that co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114371",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114371:2026-11-10T22:19"
-  },
-  {
-   "ts": "2026-11-10T22:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-113580 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-113580 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by an Improper Control of Generation of Code ('Code",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113580",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113580:2026-11-10T22:19"
   }
  ]
 }
