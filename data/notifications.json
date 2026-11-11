@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-11T16:19:07+00:00",
+ "generated_at": "2026-11-11T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124687 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-124687 📢 Source: ProgressSoftware 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Progress ® Kendo ® UI for jQuery versions from 2022.2.621 prior to 2026.4.1111",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124687",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124687:2026-11-11T16:49"
+  },
+  {
+   "ts": "2026-11-11T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-89061 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-89061 📢 Source: lenovo 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False During an internal security assessment, a potential vulnerability was discovered in Lenovo ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89061",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89061:2026-11-11T16:49"
+  },
+  {
+   "ts": "2026-11-11T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77882 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-77882 📢 Source: lenovo 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A deserialization of untrusted data vulnerability was discovered in Lenovo System Update th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77882",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77882:2026-11-11T16:49"
+  },
+  {
+   "ts": "2026-11-11T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77873 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-77873 📢 Source: lenovo 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False An improper permissions vulnerability was reported in Lenovo System Update that could allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77873",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77873:2026-11-11T16:49"
+  },
+  {
+   "ts": "2026-11-11T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116633 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-116633 📢 Source: lenovo 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A potential vulnerability was reported in some Lenovo Tablets that could allow a third-par",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116633",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116633:2026-11-11T16:49"
+  },
   {
    "ts": "2026-11-11T15:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-12062",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12062:2026-11-11T07:49"
-  },
-  {
-   "ts": "2026-11-11T07:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76981 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-76981 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Zoho Corporation ManageEngine ADAudit Plus versions below 8711 are vulnerable to an authen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76981",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76981:2026-11-11T07:49"
-  },
-  {
-   "ts": "2026-11-11T07:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105948 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-105948 📢 Source: Octopus 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, incorrect validation of permissions assigned to a ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105948",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105948:2026-11-11T07:49"
-  },
-  {
-   "ts": "2026-11-11T07:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93487 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-93487 📢 Source: Octopus 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, incorrect validation of the permissions assigned to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93487",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93487:2026-11-11T07:49"
-  },
-  {
-   "ts": "2026-11-11T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-96414 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-96414 📢 Source: Octopus 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, insufficient integrity protection of authentication",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96414",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96414:2026-11-11T07:19"
-  },
-  {
-   "ts": "2026-11-11T04:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118368 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-118368 📢 Source: Fluid Attacks 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Akaunting 3.3.0 contains a stored cross-site scripting vulnerability in the XLSX item-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118368",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118368:2026-11-11T04:49"
   }
  ]
 }
