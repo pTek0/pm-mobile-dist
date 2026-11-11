@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-11T22:49:06+00:00",
+ "generated_at": "2026-11-11T23:19:06+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] My AI agents found an unmapped Maya site",
+   "body": "Hacker News · 점수 894",
+   "link": "https://pietromiotti.com/latest/maya-site",
+   "source": "Hacker News",
+   "id": "community:https://pietromiotti.com/latest/maya-site:2026-11-11T23:19"
+  },
+  {
+   "ts": "2026-11-11T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Tim Peters has died",
+   "body": "Hacker News · 점수 705",
+   "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+   "source": "Hacker News",
+   "id": "community:https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028:2026-11-11T23:19"
+  },
+  {
+   "ts": "2026-11-11T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AWS emulator",
+   "body": "Hacker News · 점수 530",
+   "link": "https://github.com/aws/aws-emulator",
+   "source": "Hacker News",
+   "id": "community:https://github.com/aws/aws-emulator:2026-11-11T23:19"
+  },
+  {
+   "ts": "2026-11-11T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Hyper-Realistic Sand with WebGL2",
+   "body": "Hacker News · 점수 270",
+   "link": "https://av.github.io/safe-sand/",
+   "source": "Hacker News",
+   "id": "community:https://av.github.io/safe-sand/:2026-11-11T23:19"
+  },
+  {
+   "ts": "2026-11-11T23:19:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Can a Linear Program Do Weight-Space Programming?",
+   "body": "Hacker News · 점수 227",
+   "link": "https://nathan.rs/posts/weight-space-lp/",
+   "source": "Hacker News",
+   "id": "community:https://nathan.rs/posts/weight-space-lp/:2026-11-11T23:19"
+  },
   {
    "ts": "2026-11-11T22:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-123872",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123872:2026-11-11T18:49"
-  },
-  {
-   "ts": "2026-11-11T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123747 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-123747 📢 Source: redhat 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True A flaw was found in pappl-retrofit. The application fails to properly sanitize user-supplie",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123747",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123747:2026-11-11T18:49"
-  },
-  {
-   "ts": "2026-11-11T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123864 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-123864 📢 Source: openjs 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False A re-entrancy flaw in Node.js HTTPS lets an unauthenticated client read memory belonging t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123864",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123864:2026-11-11T18:49"
-  },
-  {
-   "ts": "2026-11-11T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123863 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-123863 📢 Source: openjs 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False A reachable assertion in Node.js HTTP/2 session teardown lets any unauthenticated client a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123863",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123863:2026-11-11T18:49"
-  },
-  {
-   "ts": "2026-11-11T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91891 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-91891 📢 Source: dell 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Dell Terraform Provider for PowerStore, versions prior to 1.3.1 , contains a vulnerability tha",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91891",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91891:2026-11-11T18:49"
-  },
-  {
-   "ts": "2026-11-11T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91880 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-91880 📢 Source: dell 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True Dell Terraform Provider for PowerFlex, versions 1.5.0 through 1.8.0, contains an Improper Cert",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91880",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91880:2026-11-11T18:49"
   }
  ]
 }
