@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-11T23:19:06+00:00",
+ "generated_at": "2026-11-11T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] United Airlines bans AI agents from booking flights on behal",
+   "body": "Hacker News · 점수 177",
+   "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "source": "Hacker News",
+   "id": "community:https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/:2026-11-11T23:49"
+  },
+  {
+   "ts": "2026-11-11T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Atuin Threads: All your agent sessions on every machine",
+   "body": "Hacker News · 점수 177",
+   "link": "https://blog.atuin.sh/threads-agent-sessions/",
+   "source": "Hacker News",
+   "id": "community:https://blog.atuin.sh/threads-agent-sessions/:2026-11-11T23:49"
+  },
+  {
+   "ts": "2026-11-11T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Gemini Decisions API",
+   "body": "Hacker News · 점수 176",
+   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "source": "Hacker News",
+   "id": "community:https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/:2026-11-11T23:49"
+  },
+  {
+   "ts": "2026-11-11T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] ChatGPT’s Teen Mode could deprive teenagers of a fundamental",
+   "body": "Lemmy · technology · 점수 103",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills:2026-11-11T23:49"
+  },
+  {
+   "ts": "2026-11-11T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Half of New Games on Steam Are Now Made With AI. How Does Th",
+   "body": "Lemmy · technology · 점수 96",
+   "link": "https://www.cnet.com/tech/gaming/50-percent-new-steam-games-ai/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.cnet.com/tech/gaming/50-percent-new-steam-games-ai/:2026-11-11T23:49"
+  },
   {
    "ts": "2026-11-11T23:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-126051",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126051:2026-11-11T18:49"
-  },
-  {
-   "ts": "2026-11-11T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108472 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-108472 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the xfs_admin utility in xfsprogs. The tool does not properly validate",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108472",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108472:2026-11-11T18:49"
-  },
-  {
-   "ts": "2026-11-11T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91878 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-91878 📢 Source: dell 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Ansible Modules, versions 6.0.0 through 10.0.3, contains an Improper Neutraliz",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91878",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91878:2026-11-11T18:49"
-  },
-  {
-   "ts": "2026-11-11T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91873 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-91873 📢 Source: dell 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Dell OpenManage Ansible Modules, versions 2.1.2 through 10.0.3, contains an Improper Certifica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91873",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91873:2026-11-11T18:49"
-  },
-  {
-   "ts": "2026-11-11T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123874 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-123874 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False A use-after-free in Node.js HTTP/2 lets an unauthenticated client corrupt server memory, o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123874",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123874:2026-11-11T18:49"
-  },
-  {
-   "ts": "2026-11-11T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123872 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-123872 📢 Source: openjs 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False A client certificate authentication bypass in Node.js TLS lets a client change the servern",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123872",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123872:2026-11-11T18:49"
   }
  ]
 }
