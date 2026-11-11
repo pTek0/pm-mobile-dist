@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-11T12:19:07+00:00",
+ "generated_at": "2026-11-11T12:49:14+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T12:49:13+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105153 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-105153 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Improper Restriction of XML External Entity Reference in Apache Roller 4.0 through 6.1.6 al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105153",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105153:2026-11-11T12:49"
+  },
+  {
+   "ts": "2026-11-11T12:49:13+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126662 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-126662 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Contao 4.0.0 before 5.3.54, 5.4.0 before 5.7.17, and 6.0.0 before 6.0.6 contains an acce",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126662",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126662:2026-11-11T12:49"
+  },
+  {
+   "ts": "2026-11-11T12:49:13+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126659 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-126659 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True BlueprintUE Self-Hosted Edition 1.0.0 before 4.3.5 contains a resource exhaustion vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126659",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126659:2026-11-11T12:49"
+  },
   {
    "ts": "2026-11-11T11:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://www.bbc.com/news/articles/cmzxjvpqrjxro",
    "source": "Lemmy · technology",
    "id": "community:https://www.bbc.com/news/articles/cmzxjvpqrjxro:2026-11-10T23:49"
-  },
-  {
-   "ts": "2026-11-10T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Reddit is turning user conversations into AI-powered product",
-   "body": "Lemmy · technology · 점수 120",
-   "link": "https://redditinc.com/news/introducing-reddit-reviews",
-   "source": "Lemmy · technology",
-   "id": "community:https://redditinc.com/news/introducing-reddit-reviews:2026-11-10T23:49"
-  },
-  {
-   "ts": "2026-11-10T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Smart home devices should work without the internet",
-   "body": "Hacker News · 점수 608",
-   "link": "https://docodethatmatters.com/home-automation-overnight-success/",
-   "source": "Hacker News",
-   "id": "community:https://docodethatmatters.com/home-automation-overnight-success/:2026-11-10T23:19"
-  },
-  {
-   "ts": "2026-11-10T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AlphaProof Code",
-   "body": "Hacker News · 점수 547",
-   "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-   "source": "Hacker News",
-   "id": "community:https://deepmind.google/blog/introducing-alphaproof-code/:2026-11-10T23:19"
   }
  ]
 }
