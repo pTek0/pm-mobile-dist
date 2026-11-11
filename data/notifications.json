@@ -1,7 +1,167 @@
 {
- "generated_at": "2026-11-11T21:19:07+00:00",
+ "generated_at": "2026-11-11T21:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126245 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-126245 📢 Source: fortinet 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A out-of-bounds write vulnerability in Fortinet FortiAuthenticator 8.0.0 through 8.0.3, F",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126245",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126245:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-126229 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-126229 📢 Source: fortinet 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A authorization bypass through user-controlled key vulnerability in Fortinet FortiAna",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126229",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126229:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121528 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-121528 📢 Source: fortinet 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A improper certificate validation vulnerability in Fortinet FortiOS 7.6.0 through 7.6.4, ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121528",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121528:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126244 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-126244 📢 Source: fortinet 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A allocation of resources without limits or throttling vulnerability in Fortinet FortiAut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126244",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126244:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126243 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-126243 📢 Source: fortinet 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A incorrect authorization vulnerability in Fortinet FortiAuthenticator 8.0.0 through 8.0.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126243",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126243:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126242 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-126242 📢 Source: fortinet 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A incorrect authorization vulnerability in Fortinet FortiAuthenticator 8.0.0 through 8.0.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126242",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126242:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126241 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-126241 📢 Source: fortinet 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A improper neutralization of special elements used in an sql command ('sql injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126241",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126241:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126240 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-126240 📢 Source: fortinet 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A improper neutralization of special elements used in an ldap query ('ldap injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126240",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126240:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126239 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-126239 📢 Source: fortinet 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A stack-based buffer overflow vulnerability in Fortinet FortiAuthenticator 8.0.0 through ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126239",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126239:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126238 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-126238 📢 Source: fortinet 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A incorrect authorization vulnerability in Fortinet FortiAuthenticator 8.0.0 through 8.0.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126238",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126238:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126237 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-126237 📢 Source: fortinet 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A loop with unreachable exit condition ('infinite loop') vulnerability in Fortinet FortiA",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126237",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126237:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126236 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-126236 📢 Source: fortinet 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A improper neutralization of special elements used in an os command ('os command injectio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126236",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126236:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126235 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-126235 📢 Source: fortinet 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A improper limitation of a pathname to a restricted directory ('path traversal') vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126235",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126235:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126234 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-126234 📢 Source: fortinet 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A improper neutralization of special elements used in a template engine vulnerability in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126234",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126234:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126233 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-126233 📢 Source: fortinet 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A unrestricted upload of file with dangerous type vulnerability in Fortinet FortiAnalyzer",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126233",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126233:2026-11-11T21:49"
+  },
+  {
+   "ts": "2026-11-11T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126232 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-126232 📢 Source: fortinet 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False A improper certificate validation vulnerability in Fortinet FortiAnalyzer 8.0.0 through ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126232",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126232:2026-11-11T21:49"
+  },
   {
    "ts": "2026-11-11T21:19:06+00:00",
    "level": "general",
@@ -341,166 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91879",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91879:2026-11-11T18:19"
-  },
-  {
-   "ts": "2026-11-11T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-91890 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-91890 📢 Source: dell 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Dell Ansible Storage for Unity , versions prior to 1.2.13 contains an Improper Certificate Val",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91890",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91890:2026-11-11T18:19"
-  },
-  {
-   "ts": "2026-11-11T17:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106152 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-106152 📢 Source: ProgressSoftware 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® Report Server prior to version 12.3.26.1110, an external ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106152",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106152:2026-11-11T17:49"
-  },
-  {
-   "ts": "2026-11-11T17:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106156 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-106156 📢 Source: ProgressSoftware 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® UI for ASP.NET Core versions `2015.1.318` through `2026.3",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106156",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106156:2026-11-11T17:49"
-  },
-  {
-   "ts": "2026-11-11T17:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106137 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-106137 📢 Source: ProgressSoftware 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True In affected versions of Progress ® Telerik ® UI for ASP.NET MVC `2012.2.710` thro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106137",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106137:2026-11-11T17:49"
-  },
-  {
-   "ts": "2026-11-11T17:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-110697 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-110697 📢 Source: redhat 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in Quay where the robot account listing function constructs a SQL LIKE",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110697",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110697:2026-11-11T17:19"
-  },
-  {
-   "ts": "2026-11-11T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124694 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124694 📢 Source: ProgressSoftware 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Progress Kendo UI for jQuery versions 2026.3.1015 up to, but not including, 20",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124694",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124694:2026-11-11T17:19"
-  },
-  {
-   "ts": "2026-11-11T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124693 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124693 📢 Source: ProgressSoftware 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Progress Kendo UI for jQuery versions 2026.3.1015 up to, but not including, 20",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124693",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124693:2026-11-11T17:19"
-  },
-  {
-   "ts": "2026-11-11T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124692 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124692 📢 Source: ProgressSoftware 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Progress Kendo UI for jQuery versions 2026.3.1015 up to, but not including, 20",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124692",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124692:2026-11-11T17:19"
-  },
-  {
-   "ts": "2026-11-11T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124690 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124690 📢 Source: ProgressSoftware 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Progress Kendo UI for jQuery, sanitizeSvgContent() parses custom icon markup i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124690",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124690:2026-11-11T17:19"
-  },
-  {
-   "ts": "2026-11-11T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124689 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124689 📢 Source: ProgressSoftware 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Progress Kendo UI for jQuery versions 2026.3.1014 up to, but not including, 20",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124689",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124689:2026-11-11T17:19"
-  },
-  {
-   "ts": "2026-11-11T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124688 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124688 📢 Source: ProgressSoftware 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Progress ® Kendo ® UI for jQuery prior to 2026.4.1111 the TabStrip, PanelBar, ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124688",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124688:2026-11-11T17:19"
-  },
-  {
-   "ts": "2026-11-11T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124687 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124687 📢 Source: ProgressSoftware 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Progress ® Kendo ® UI for jQuery versions from 2022.2.621 prior to 2026.4.1111",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124687",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124687:2026-11-11T16:49"
-  },
-  {
-   "ts": "2026-11-11T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-89061 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-89061 📢 Source: lenovo 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False During an internal security assessment, a potential vulnerability was discovered in Lenovo ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-89061",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-89061:2026-11-11T16:49"
-  },
-  {
-   "ts": "2026-11-11T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77882 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-77882 📢 Source: lenovo 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A deserialization of untrusted data vulnerability was discovered in Lenovo System Update th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77882",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77882:2026-11-11T16:49"
-  },
-  {
-   "ts": "2026-11-11T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77873 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-77873 📢 Source: lenovo 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False An improper permissions vulnerability was reported in Lenovo System Update that could allow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77873",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77873:2026-11-11T16:49"
-  },
-  {
-   "ts": "2026-11-11T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116633 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-116633 📢 Source: lenovo 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False A potential vulnerability was reported in some Lenovo Tablets that could allow a third-par",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116633",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116633:2026-11-11T16:49"
   }
  ]
 }
