@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-11T13:49:08+00:00",
+ "generated_at": "2026-11-11T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123040 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-123040 📢 Source: Kaspersky 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An attacker who gains the ability to execute arbitrary code on a system with TrueConf S",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123040",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123040:2026-11-11T14:19"
+  },
+  {
+   "ts": "2026-11-11T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125840 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-125840 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in webriti Rambo rambo allows Cross Sit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125840",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125840:2026-11-11T14:19"
+  },
+  {
+   "ts": "2026-11-11T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125839 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-125839 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in webriti ElitePress elitepress allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125839",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125839:2026-11-11T14:19"
+  },
+  {
+   "ts": "2026-11-11T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125838 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-125838 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in webriti Quality quality allows Cross",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125838",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125838:2026-11-11T14:19"
+  },
   {
    "ts": "2026-11-11T13:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-126561",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126561:2026-11-11T02:49"
-  },
-  {
-   "ts": "2026-11-11T01:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126543 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-126543 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True WWBN AVideo through 29.7.1 contains an improper payment verification vulnerability in pl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126543",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126543:2026-11-11T01:19"
-  },
-  {
-   "ts": "2026-11-11T01:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-126542 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-126542 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True WWBN AVideo 6.5 through 29.7.1 contains an authentication bypass vulnerability that ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126542",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126542:2026-11-11T01:19"
-  },
-  {
-   "ts": "2026-11-11T01:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126541 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-126541 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True WWBN AVideo through 29.7.1 contains a missing authorization vulnerability in Live plugin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126541",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126541:2026-11-11T01:19"
-  },
-  {
-   "ts": "2026-11-11T01:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-126539 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-126539 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Directus before 12.1.0 contains an authorization bypass vulnerability that allows un",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126539",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126539:2026-11-11T01:19"
   }
  ]
 }
