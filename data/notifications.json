@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-11T06:49:08+00:00",
+ "generated_at": "2026-11-11T07:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-96414 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-96414 📢 Source: Octopus 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, insufficient integrity protection of authentication",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96414",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96414:2026-11-11T07:19"
+  },
   {
    "ts": "2026-11-11T04:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-118483",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118483:2026-11-10T21:49"
-  },
-  {
-   "ts": "2026-11-10T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92544 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-92544 📢 Source: Kong 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SQL injection in the LLM usage counters of Kong Gateway Enterprise and Kong AI Gateway may all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92544",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92544:2026-11-10T21:19"
   }
  ]
 }
