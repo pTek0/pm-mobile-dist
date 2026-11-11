@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-11T19:49:06+00:00",
+ "generated_at": "2026-11-11T20:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126815 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-126815 📢 Source: Grayback 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Pre-account hijacking in the authentication flow in Lagarto Chivato 0.4.1 and earlier on ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126815",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126815:2026-11-11T20:19"
+  },
+  {
+   "ts": "2026-11-11T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91151 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-91151 📢 Source: redhat 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A flaw was found in Cockpit. A local authenticated user with control over a target account'",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91151",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91151:2026-11-11T20:19"
+  },
   {
    "ts": "2026-11-11T19:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-125846",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125846:2026-11-11T13:49"
-  },
-  {
-   "ts": "2026-11-11T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125845 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-125845 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in webriti vdequator vdequator allows C",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125845",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125845:2026-11-11T13:49"
-  },
-  {
-   "ts": "2026-11-11T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125844 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-125844 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in webriti vice vice allows Cross Site ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125844",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125844:2026-11-11T13:49"
   }
  ]
 }
