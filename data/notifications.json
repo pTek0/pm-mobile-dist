@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-11T07:19:08+00:00",
+ "generated_at": "2026-11-11T07:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12062 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-12062 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Zoho Corporation ManageEngine ADAudit Plus versions below 8703 are vulnerable to an authen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12062",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12062:2026-11-11T07:49"
+  },
+  {
+   "ts": "2026-11-11T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76981 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76981 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Zoho Corporation ManageEngine ADAudit Plus versions below 8711 are vulnerable to an authen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76981",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76981:2026-11-11T07:49"
+  },
+  {
+   "ts": "2026-11-11T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105948 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-105948 📢 Source: Octopus 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, incorrect validation of permissions assigned to a ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105948",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105948:2026-11-11T07:49"
+  },
+  {
+   "ts": "2026-11-11T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93487 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-93487 📢 Source: Octopus 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, incorrect validation of the permissions assigned to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93487",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93487:2026-11-11T07:49"
+  },
   {
    "ts": "2026-11-11T07:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92442",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92442:2026-11-10T21:49"
-  },
-  {
-   "ts": "2026-11-10T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125882 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-125882 📢 Source: N-able 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Relative path traversal vulnerability in N-able N-central allows Path Traversal. This issue",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125882",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125882:2026-11-10T21:49"
-  },
-  {
-   "ts": "2026-11-10T21:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-125881 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-125881 📢 Source: N-able 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Server-Side request forgery (SSRF) vulnerability in N-able N-central allows Server Side",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125881",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125881:2026-11-10T21:49"
-  },
-  {
-   "ts": "2026-11-10T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125880 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-125880 📢 Source: N-able 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of HTTP headers for scripting syntax vulnerability in N-able N-cent",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125880",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125880:2026-11-10T21:49"
-  },
-  {
-   "ts": "2026-11-10T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118483 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-118483 📢 Source: adobe 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Dimension is affected by an Improper Input Validation vulnerability that could result in ar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118483",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118483:2026-11-10T21:49"
   }
  ]
 }
