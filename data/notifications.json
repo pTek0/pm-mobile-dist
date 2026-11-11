@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-11T17:49:08+00:00",
+ "generated_at": "2026-11-11T18:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-11T18:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91879 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-91879 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell Terraform for ObjectScale and Powerstore, versions prior to 1.1.1 (ObjectScale) and versi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91879",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91879:2026-11-11T18:19"
+  },
+  {
+   "ts": "2026-11-11T18:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91890 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-91890 📢 Source: dell 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Dell Ansible Storage for Unity , versions prior to 1.2.13 contains an Improper Certificate Val",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91890",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91890:2026-11-11T18:19"
+  },
   {
    "ts": "2026-11-11T17:49:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-126623",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126623:2026-11-11T08:49"
-  },
-  {
-   "ts": "2026-11-11T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126622 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-126622 📢 Source: GitLab 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Incorrect default permissions in the Windows installer of Progressive Robot hMailServer 6.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126622",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126622:2026-11-11T08:49"
-  },
-  {
-   "ts": "2026-11-11T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126617 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-126617 📢 Source: GitLab 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SQL injection in the database layer of Progressive Robot hMailServer 6.0.0-B1 through 6.2.1",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126617",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126617:2026-11-11T08:49"
   }
  ]
 }
