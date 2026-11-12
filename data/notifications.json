@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-12T09:49:07+00:00",
+ "generated_at": "2026-11-12T10:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124699 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-124699 📢 Source: ProgressSoftware 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In Telerik UI for WinForms, versions prior to 2026.4.1111, an improper control o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124699",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124699:2026-11-12T10:19"
+  },
+  {
+   "ts": "2026-11-12T10:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-127016 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-127016 📢 Source: CIRCL 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True The MISP Modules website component exposes external tool management endpoints (add, dele",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127016",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127016:2026-11-12T10:19"
+  },
+  {
+   "ts": "2026-11-12T10:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106140 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-106140 📢 Source: ProgressSoftware 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False In Progress ® Telerik ® Reporting prior to version 20.3.26.1110, a deserializati",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106140",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106140:2026-11-12T10:19"
+  },
   {
    "ts": "2026-11-12T09:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
    "source": "Lemmy · technology",
    "id": "community:https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/:2026-11-12T00:19"
-  },
-  {
-   "ts": "2026-11-11T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] United Airlines bans AI agents from booking flights on behal",
-   "body": "Hacker News · 점수 177",
-   "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-   "source": "Hacker News",
-   "id": "community:https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/:2026-11-11T23:49"
-  },
-  {
-   "ts": "2026-11-11T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Atuin Threads: All your agent sessions on every machine",
-   "body": "Hacker News · 점수 177",
-   "link": "https://blog.atuin.sh/threads-agent-sessions/",
-   "source": "Hacker News",
-   "id": "community:https://blog.atuin.sh/threads-agent-sessions/:2026-11-11T23:49"
-  },
-  {
-   "ts": "2026-11-11T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Gemini Decisions API",
-   "body": "Hacker News · 점수 176",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-   "source": "Hacker News",
-   "id": "community:https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/:2026-11-11T23:49"
   }
  ]
 }
