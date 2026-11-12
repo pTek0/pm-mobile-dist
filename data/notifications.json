@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-12T08:49:07+00:00",
+ "generated_at": "2026-11-12T09:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-90908 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-90908 📢 Source: Payara 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in the GenericAdminAuthenticator component of Azul Payara Server and Azu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90908",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90908:2026-11-12T09:19"
+  },
+  {
+   "ts": "2026-11-12T09:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-110003 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-110003 📢 Source: Payara 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in the administration REST interface of Azul Payara allows a remote, un",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110003",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110003:2026-11-12T09:19"
+  },
   {
    "ts": "2026-11-12T08:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills",
    "source": "Lemmy · technology",
    "id": "community:https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills:2026-11-11T23:49"
-  },
-  {
-   "ts": "2026-11-11T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Half of New Games on Steam Are Now Made With AI. How Does Th",
-   "body": "Lemmy · technology · 점수 96",
-   "link": "https://www.cnet.com/tech/gaming/50-percent-new-steam-games-ai/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.cnet.com/tech/gaming/50-percent-new-steam-games-ai/:2026-11-11T23:49"
-  },
-  {
-   "ts": "2026-11-11T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] My AI agents found an unmapped Maya site",
-   "body": "Hacker News · 점수 894",
-   "link": "https://pietromiotti.com/latest/maya-site",
-   "source": "Hacker News",
-   "id": "community:https://pietromiotti.com/latest/maya-site:2026-11-11T23:19"
   }
  ]
 }
