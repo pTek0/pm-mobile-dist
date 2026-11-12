@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-12T21:49:07+00:00",
+ "generated_at": "2026-11-12T22:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126823 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-126823 📢 Source: mongodb 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A local user with an ordinary account on the same host can place a file in a shared tempo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126823",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126823:2026-11-12T22:19"
+  },
+  {
+   "ts": "2026-11-12T22:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127211 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-127211 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True MultiVendorX plugin for WordPress before 5.0.22 contains a broken access control vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127211",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127211:2026-11-12T22:19"
+  },
   {
    "ts": "2026-11-12T21:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116320",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116320:2026-11-12T14:49"
-  },
-  {
-   "ts": "2026-11-12T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116319 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116319 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Use after free in PostgreSQL plperl allows an object creator to execute arbitrary code",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116319",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116319:2026-11-12T14:49"
-  },
-  {
-   "ts": "2026-11-12T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116318 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116318 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False SQL injection in PostgreSQL pg_dump allows an object creator to execute arbitrary SQL ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116318",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116318:2026-11-12T14:49"
   }
  ]
 }
