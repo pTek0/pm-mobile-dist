@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-12T20:19:07+00:00",
+ "generated_at": "2026-11-12T20:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86322 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-86322 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Foreman’s Api::V2::PersonalAccessTokensController, where Foreman::Contro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86322",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86322:2026-11-12T20:49"
+  },
   {
    "ts": "2026-11-12T20:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116315",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116315:2026-11-12T14:49"
-  },
-  {
-   "ts": "2026-11-12T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116314 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116314 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Improper input validation in PostgreSQL pg_restore allows a non-plain archive provider",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116314",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116314:2026-11-12T14:49"
   }
  ]
 }
