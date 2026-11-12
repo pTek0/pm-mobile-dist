@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-12T11:19:07+00:00",
+ "generated_at": "2026-11-12T11:49:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T11:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127036 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-127036 📢 Source: tibco 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of CRLF sequences ('CRLF injection') vulnerability in ibi WebFOCUS. ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127036",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127036:2026-11-12T11:49"
+  },
+  {
+   "ts": "2026-11-12T11:49:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] T-Mobile illegally imposed 50GB cap on low-income home Inter",
+   "body": "Lemmy · technology · 점수 175",
+   "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/:2026-11-12T11:49"
+  },
+  {
+   "ts": "2026-11-12T11:49:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nvidia prepares to oust Jensen Huang, WSJ reports — stock si",
+   "body": "Lemmy · technology · 점수 131",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html:2026-11-12T11:49"
+  },
+  {
+   "ts": "2026-11-12T11:49:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nvidia’s Board reportedly preparing to oust CEO Jensen Huang",
+   "body": "Lemmy · technology · 점수 129",
+   "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years:2026-11-12T11:49"
+  },
+  {
+   "ts": "2026-11-12T11:49:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] How I accidentally became a millionaire",
+   "body": "Lobsters · 점수 118",
+   "link": "https://lyra.horse/blog/2026/11/disinformation-machine/",
+   "source": "Lobsters",
+   "id": "community:https://lyra.horse/blog/2026/11/disinformation-machine/:2026-11-12T11:49"
+  },
+  {
+   "ts": "2026-11-12T11:49:09+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] United Airlines bans AI agents from booking flights on behal",
+   "body": "Lemmy · technology · 점수 102",
+   "link": "https://www.united.com/en/us/newsroom/announcements/cision-125496",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.united.com/en/us/newsroom/announcements/cision-125496:2026-11-12T11:49"
+  },
   {
    "ts": "2026-11-12T11:19:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-114563",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114563:2026-11-12T03:19"
-  },
-  {
-   "ts": "2026-11-12T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114562 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-114562 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False OriginLab Origin Viewer OGWU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114562",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114562:2026-11-12T03:19"
-  },
-  {
-   "ts": "2026-11-12T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114561 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-114561 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False OriginLab Origin Viewer OPJU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114561",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114561:2026-11-12T03:19"
-  },
-  {
-   "ts": "2026-11-12T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114560 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-114560 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False OriginLab Origin Viewer OPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerabil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114560",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114560:2026-11-12T03:19"
-  },
-  {
-   "ts": "2026-11-12T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114559 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-114559 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False OriginLab Origin Viewer OGG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerabil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114559",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114559:2026-11-12T03:19"
-  },
-  {
-   "ts": "2026-11-12T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114558 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-114558 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False OriginLab Origin Viewer OPJU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114558",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114558:2026-11-12T03:19"
-  },
-  {
-   "ts": "2026-11-12T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114556 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-114556 📢 Source: zdi 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False MailEnable Save Directory Traversal Arbitrary File Creation Vulnerability. This vulnerability",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114556",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114556:2026-11-12T03:19"
   }
  ]
 }
