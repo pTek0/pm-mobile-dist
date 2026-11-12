@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-12T11:49:10+00:00",
+ "generated_at": "2026-11-12T12:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19421 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-19421 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine DDI Central versions below 6301 is affected by a PowerShell injectio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19421",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19421:2026-11-12T12:19"
+  },
+  {
+   "ts": "2026-11-12T12:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-127046 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-127046 📢 Source: CIRCL 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True The MISP Modules website component contains an information disclosure vulnerability in t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127046",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127046:2026-11-12T12:19"
+  },
+  {
+   "ts": "2026-11-12T12:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124705 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-124705 📢 Source: ProgressSoftware 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In Progress ® Telerik ® UI for .NET MAUI prior to version 16.0.0, an untrusted U",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124705",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124705:2026-11-12T12:19"
+  },
+  {
+   "ts": "2026-11-12T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, O",
+   "body": "Lemmy · technology · 점수 78",
+   "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/:2026-11-12T12:19"
+  },
+  {
+   "ts": "2026-11-12T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] How a false smoke alarm almost drowned Jane Street's only NY",
+   "body": "Lobsters · 점수 59",
+   "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+   "source": "Lobsters",
+   "id": "community:https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/:2026-11-12T12:19"
+  },
+  {
+   "ts": "2026-11-12T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] 4th Circuit Rebukes Trump Administration for Asking LinkedIn",
+   "body": "Lemmy · programming.dev · 점수 52",
+   "link": "https://reason.com/2026/11/11/4th-circuit-rebukes-trump-administration-for-asking-linkedin-to-turn-over-info-on-critics-in-the-news-media/",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://reason.com/2026/11/11/4th-circuit-rebukes-trump-administration-for-asking-linkedin-to-turn-over-info-on-critics-in-the-news-media/:2026-11-12T12:19"
+  },
   {
    "ts": "2026-11-12T11:49:09+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-114569",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114569:2026-11-12T03:19"
-  },
-  {
-   "ts": "2026-11-12T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114568 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-114568 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False OriginLab Origin Viewer OPJ File Parsing Heap-based Buffer Overflow Remote Code Execution Vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114568",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114568:2026-11-12T03:19"
-  },
-  {
-   "ts": "2026-11-12T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114567 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-114567 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False OriginLab Origin Viewer OGWU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114567",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114567:2026-11-12T03:19"
-  },
-  {
-   "ts": "2026-11-12T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114566 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-114566 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False OriginLab Origin Viewer OGM File Parsing Memory Corruption Remote Code Execution Vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114566",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114566:2026-11-12T03:19"
-  },
-  {
-   "ts": "2026-11-12T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114565 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-114565 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False OriginLab Origin Viewer OGG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerabil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114565",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114565:2026-11-12T03:19"
-  },
-  {
-   "ts": "2026-11-12T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114564 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-114564 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False OriginLab Origin Viewer OGG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerabil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114564",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114564:2026-11-12T03:19"
-  },
-  {
-   "ts": "2026-11-12T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114563 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-114563 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False OriginLab Origin Viewer OGWU File Parsing Stack-based Buffer Overflow Remote Code Execution V",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114563",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114563:2026-11-12T03:19"
   }
  ]
 }
