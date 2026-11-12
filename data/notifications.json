@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-12T13:49:08+00:00",
+ "generated_at": "2026-11-12T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123039 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-123039 📢 Source: checkpoint 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socke",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123039",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123039:2026-11-12T14:19"
+  },
+  {
+   "ts": "2026-11-12T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-120869 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-120869 📢 Source: NetScaler 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated attacker can bypass authentication controls to access restricted ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120869",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120869:2026-11-12T14:19"
+  },
+  {
+   "ts": "2026-11-12T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107484 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-107484 📢 Source: checkpoint 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False An input and authorization validation vulnerability in Gaia Portal backend handlers co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107484",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107484:2026-11-12T14:19"
+  },
   {
    "ts": "2026-11-12T13:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-87772",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87772:2026-11-12T06:49"
-  },
-  {
-   "ts": "2026-11-12T06:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-8333 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-8333 📢 Source: Microchip 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in Microchip TimePictra. This issue affects TimePictra: before 12.0. 📅",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8333",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8333:2026-11-12T06:49"
-  },
-  {
-   "ts": "2026-11-12T06:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-8332 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-8332 📢 Source: Microchip 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A vulnerability in Microchip TimePictra. This issue affects TimePictra: before 12.0. 📅 Pub",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8332",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8332:2026-11-12T06:49"
-  },
-  {
-   "ts": "2026-11-12T06:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-8331 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-8331 📢 Source: Microchip 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An unrestricted upload of files with dangerous type vulnerability in the Microchip TimePic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8331",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8331:2026-11-12T06:49"
   }
  ]
 }
