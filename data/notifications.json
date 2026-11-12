@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-12T23:19:07+00:00",
+ "generated_at": "2026-11-12T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T23:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-120868 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-120868 📢 Source: NetScaler 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Memory overflow in Packet Processing can lead to unpredictable or erroneous behavior",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120868",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120868:2026-11-12T23:49"
+  },
+  {
+   "ts": "2026-11-12T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Why writing correct software is hard and why math (alone) wo",
+   "body": "Hacker News · 점수 341",
+   "link": "https://pron.github.io/posts/correctness-and-complexity",
+   "source": "Hacker News",
+   "id": "community:https://pron.github.io/posts/correctness-and-complexity:2026-11-12T23:49"
+  },
+  {
+   "ts": "2026-11-12T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nintendo Takes Down Emulators and Firmware in Massive GitHub",
+   "body": "Hacker News · 점수 249",
+   "link": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+   "source": "Hacker News",
+   "id": "community:https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep:2026-11-12T23:49"
+  },
+  {
+   "ts": "2026-11-12T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I'm making LLMs work on small and old devices",
+   "body": "Hacker News · 점수 248",
+   "link": "https://github.com/hyperionaidev/smolmaxxing/",
+   "source": "Hacker News",
+   "id": "community:https://github.com/hyperionaidev/smolmaxxing/:2026-11-12T23:49"
+  },
+  {
+   "ts": "2026-11-12T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Show HN: My $300 embroidery machine needed a subscription, s",
+   "body": "Hacker News · 점수 240",
+   "link": "https://github.com/simpsoka/zigzag",
+   "source": "Hacker News",
+   "id": "community:https://github.com/simpsoka/zigzag:2026-11-12T23:49"
+  },
+  {
+   "ts": "2026-11-12T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Microsoft Outlook experiencing widespread outage",
+   "body": "Lemmy · technology · 점수 173",
+   "link": "https://9to5mac.com/2026/11/12/microsoft-outlook-experiencing-widespread-outage/",
+   "source": "Lemmy · technology",
+   "id": "community:https://9to5mac.com/2026/11/12/microsoft-outlook-experiencing-widespread-outage/:2026-11-12T23:49"
+  },
   {
    "ts": "2026-11-12T23:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124691",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124691:2026-11-12T16:49"
-  },
-  {
-   "ts": "2026-11-12T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-127030 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-127030 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in freeradius. An improper length validation in the EAP-FAST module allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127030",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127030:2026-11-12T16:49"
-  },
-  {
-   "ts": "2026-11-12T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-127029 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-127029 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in freeradius's Extensible Authentication Protocol Method for Subscriber I",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127029",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127029:2026-11-12T16:49"
-  },
-  {
-   "ts": "2026-11-12T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-127141 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-127141 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True SOGo before 5.12.13 contains a denial of service vulnerability that allows authenticated",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127141",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127141:2026-11-12T16:19"
-  },
-  {
-   "ts": "2026-11-12T16:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-127131 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-127131 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SOGo before 5.12.13 contains a missing rate limiting vulnerability in its web login ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127131",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127131:2026-11-12T16:19"
-  },
-  {
-   "ts": "2026-11-12T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-127121 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-127121 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True SOGo before 5.12.13 contains an improper cryptographic signature verification vulnerabil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127121",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127121:2026-11-12T16:19"
-  },
-  {
-   "ts": "2026-11-12T16:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-127111 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-127111 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SOGo before 5.12.13 contains an improper restriction of excessive authentication att",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127111",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127111:2026-11-12T16:19"
   }
  ]
 }
