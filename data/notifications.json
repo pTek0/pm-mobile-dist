@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-12T07:49:07+00:00",
+ "generated_at": "2026-11-12T08:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-47832 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-47832 📢 Source: vmware 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True The vulnerability lies in the way application credentials are handled within the BOSH deploy",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47832",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47832:2026-11-12T08:19"
+  },
   {
    "ts": "2026-11-12T07:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://pietromiotti.com/latest/maya-site",
    "source": "Hacker News",
    "id": "community:https://pietromiotti.com/latest/maya-site:2026-11-11T23:19"
-  },
-  {
-   "ts": "2026-11-11T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tim Peters has died",
-   "body": "Hacker News · 점수 705",
-   "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-   "source": "Hacker News",
-   "id": "community:https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028:2026-11-11T23:19"
   }
  ]
 }
