@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-12T19:19:07+00:00",
+ "generated_at": "2026-11-12T19:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-124004 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-124004 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True XWEB EVO before 5.6.2 contains a hardcoded backdoor password vulnerability that allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124004",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124004:2026-11-12T19:49"
+  },
+  {
+   "ts": "2026-11-12T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124003 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-124003 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False XWEB EVO before 5.6.2 contains a command injection vulnerability where the setuid-root ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124003",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124003:2026-11-12T19:49"
+  },
+  {
+   "ts": "2026-11-12T19:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-124002 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-124002 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True XWEB EVO versions 5.2.3 through before 5.7.0 contains a pre-authentication OS comman",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124002",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124002:2026-11-12T19:49"
+  },
+  {
+   "ts": "2026-11-12T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-0043 (CVSS 7.0)",
+   "body": "🚨 CVE-2025-0043 📢 Source: AMD 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Incorrect directory permissions within AMD Vivado ™ Lab Solutions could allow a local user-privil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-0043",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-0043:2026-11-12T19:49"
+  },
   {
    "ts": "2026-11-12T19:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124628",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124628:2026-11-12T13:49"
-  },
-  {
-   "ts": "2026-11-12T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124018 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124018 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Gutenverse Form plugin for WordPress before 3.2.2 contains a CSV formula injection vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124018",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124018:2026-11-12T13:49"
-  },
-  {
-   "ts": "2026-11-12T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124627 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-124627 📢 Source: Octopus 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, incorrect validation of the external identity link",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124627",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124627:2026-11-12T13:49"
-  },
-  {
-   "ts": "2026-11-12T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116835 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-116835 📢 Source: Octopus 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, insufficient validation of custom claims on OIDC a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116835",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116835:2026-11-12T13:49"
-  },
-  {
-   "ts": "2026-11-12T13:19:09+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125285 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-125285 📢 Source: tibco 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Authentication bypass using an alternate path or channel vulnerability in TIBCO TIBCO Platfo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125285",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125285:2026-11-12T13:19"
   }
  ]
 }
