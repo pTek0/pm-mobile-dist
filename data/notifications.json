@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-11-12T19:49:07+00:00",
+ "generated_at": "2026-11-12T20:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124015 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-124015 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True XWEB EVO 5.6.2 through 5.8.8 contains an authentication bypass vulnerability that allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124015",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124015:2026-11-12T20:19"
+  },
+  {
+   "ts": "2026-11-12T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-124014 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-124014 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True XWEB EVO 4.3.0 through 5.8.8 contains an unauthenticated arbitrary file write vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124014",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124014:2026-11-12T20:19"
+  },
+  {
+   "ts": "2026-11-12T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124013 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-124013 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True XWEB EVO 5.6.2 through 5.8.8 contains an authenticated OS command injection vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124013",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124013:2026-11-12T20:19"
+  },
+  {
+   "ts": "2026-11-12T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-124012 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-124012 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True XWEB EVO 5.6.2 through 5.8.8 contains a hardcoded credential vulnerability where the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124012",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124012:2026-11-12T20:19"
+  },
+  {
+   "ts": "2026-11-12T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111456 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-111456 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A missing authorization check has been found in ConsumerResource.setupOwner() function of c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111456",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111456:2026-11-12T20:19"
+  },
+  {
+   "ts": "2026-11-12T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107443 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-107443 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Foreman. An authenticated user with view_hosts privileges can retrieve ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107443",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107443:2026-11-12T20:19"
+  },
+  {
+   "ts": "2026-11-12T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107360 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-107360 📢 Source: redhat 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in rubygem-safemode. Compound assignment expressions in sandboxed code",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107360",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107360:2026-11-12T20:19"
+  },
+  {
+   "ts": "2026-11-12T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107152 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-107152 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True An improper authentication vulnerability has been found in the task console in the smart_pr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107152",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107152:2026-11-12T20:19"
+  },
+  {
+   "ts": "2026-11-12T20:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-124010 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-124010 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True XWEB EVO before 5.6.2 contains a command injection vulnerability that allows unauthe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124010",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124010:2026-11-12T20:19"
+  },
+  {
+   "ts": "2026-11-12T20:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124009 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-124009 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True XWEB EVO 5.2.3 through 5.8.8 contains an authenticated OS command injection vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124009",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124009:2026-11-12T20:19"
+  },
   {
    "ts": "2026-11-12T19:49:07+00:00",
    "level": "important",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116314",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116314:2026-11-12T14:49"
-  },
-  {
-   "ts": "2026-11-12T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116313 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-116313 📢 Source: PostgreSQL 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False Untrusted search path in PostgreSQL vacuumdb allows a database owner to execute arbitr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116313",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116313:2026-11-12T14:49"
-  },
-  {
-   "ts": "2026-11-12T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116309 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116309 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Type confusion in PostgreSQL plperl may allow an object creator to execute arbitrary c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116309",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116309:2026-11-12T14:49"
-  },
-  {
-   "ts": "2026-11-12T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116307 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116307 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Use after free in PostgreSQL plperl allows an object creator to execute arbitrary code",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116307",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116307:2026-11-12T14:49"
-  },
-  {
-   "ts": "2026-11-12T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116306 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116306 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Type confusion in PostgreSQL composite-value field assignment allows an object creator",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116306",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116306:2026-11-12T14:49"
-  },
-  {
-   "ts": "2026-11-12T14:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116304 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116304 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Use after free in PostgreSQL coordination of anonymous RECORD type identifiers among p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116304",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116304:2026-11-12T14:49"
-  },
-  {
-   "ts": "2026-11-12T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123039 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-123039 📢 Source: checkpoint 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socke",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123039",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123039:2026-11-12T14:19"
-  },
-  {
-   "ts": "2026-11-12T14:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-120869 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-120869 📢 Source: NetScaler 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An unauthenticated attacker can bypass authentication controls to access restricted ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120869",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120869:2026-11-12T14:19"
-  },
-  {
-   "ts": "2026-11-12T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107484 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-107484 📢 Source: checkpoint 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False An input and authorization validation vulnerability in Gaia Portal backend handlers co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107484",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107484:2026-11-12T14:19"
-  },
-  {
-   "ts": "2026-11-12T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-92083 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-92083 📢 Source: TR-CERT 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Missing Authorization vulnerability in TÜBİTAK BİLGEM Yazılım Teknolojileri Araştırma Enst",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-92083",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-92083:2026-11-12T13:49"
-  },
-  {
-   "ts": "2026-11-12T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124628 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-124628 📢 Source: Octopus 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, incorrect validation of changes a user made to the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124628",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124628:2026-11-12T13:49"
   }
  ]
 }
