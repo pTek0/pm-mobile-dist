@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-11-12T03:19:07+00:00",
+ "generated_at": "2026-11-12T03:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81584 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-81584 📢 Source: synology 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True An improper neutralization of special elements used in an SQL command vulnerability in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81584",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81584:2026-11-12T03:49"
+  },
+  {
+   "ts": "2026-11-12T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75785 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-75785 📢 Source: synology 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True An improper neutralization of special elements used in an OS command vulnerability in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75785",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75785:2026-11-12T03:49"
+  },
+  {
+   "ts": "2026-11-12T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-74857 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-74857 📢 Source: synology 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A missing critical step in authentication vulnerability in the Auth API in Synology DiskSt",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74857",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74857:2026-11-12T03:49"
+  },
+  {
+   "ts": "2026-11-12T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19048 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-19048 📢 Source: synology 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True An improper link resolution before file access vulnerability in the thumb in Synology Disk",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19048",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19048:2026-11-12T03:49"
+  },
+  {
+   "ts": "2026-11-12T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18792 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-18792 📢 Source: synology 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An improper limitation of a pathname to a restricted directory vulnerability in the Sharin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18792",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18792:2026-11-12T03:49"
+  },
+  {
+   "ts": "2026-11-12T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18633 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-18633 📢 Source: synology 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An access of uninitialized pointer vulnerability in the nfsd in Synology DiskStation Manag",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18633",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18633:2026-11-12T03:49"
+  },
+  {
+   "ts": "2026-11-12T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18596 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-18596 📢 Source: synology 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True An authentication bypass using an alternate path or channel vulnerability in the OTP in Sy",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18596",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18596:2026-11-12T03:49"
+  },
+  {
+   "ts": "2026-11-12T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13672 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-13672 📢 Source: synology 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An authorization bypass through user-controlled key vulnerability in the SSOAuth in Synolo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13672",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13672:2026-11-12T03:49"
+  },
   {
    "ts": "2026-11-12T03:19:06+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-126240",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126240:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126239 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-126239 📢 Source: fortinet 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A stack-based buffer overflow vulnerability in Fortinet FortiAuthenticator 8.0.0 through ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126239",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126239:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126238 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-126238 📢 Source: fortinet 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A incorrect authorization vulnerability in Fortinet FortiAuthenticator 8.0.0 through 8.0.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126238",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126238:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126237 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-126237 📢 Source: fortinet 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A loop with unreachable exit condition ('infinite loop') vulnerability in Fortinet FortiA",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126237",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126237:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126236 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-126236 📢 Source: fortinet 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A improper neutralization of special elements used in an os command ('os command injectio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126236",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126236:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126235 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-126235 📢 Source: fortinet 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A improper limitation of a pathname to a restricted directory ('path traversal') vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126235",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126235:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126234 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-126234 📢 Source: fortinet 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A improper neutralization of special elements used in a template engine vulnerability in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126234",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126234:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126233 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-126233 📢 Source: fortinet 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A unrestricted upload of file with dangerous type vulnerability in Fortinet FortiAnalyzer",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126233",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126233:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126232 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-126232 📢 Source: fortinet 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False A improper certificate validation vulnerability in Fortinet FortiAnalyzer 8.0.0 through ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126232",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126232:2026-11-11T21:49"
   }
  ]
 }
