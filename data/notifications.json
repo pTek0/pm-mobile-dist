@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-12T06:49:07+00:00",
+ "generated_at": "2026-11-12T07:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125836 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-125836 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Nicu Micle Simple JWT Login simple-j",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125836",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125836:2026-11-12T07:49"
+  },
+  {
+   "ts": "2026-11-12T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118855 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-118855 📢 Source: Fluid Attacks 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Akaunting 3.3.0 contains a stored cross-site scripting vulnerability through invoice i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118855",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118855:2026-11-12T07:49"
+  },
+  {
+   "ts": "2026-11-12T07:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-12591 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-12591 📢 Source: Zohocorp 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Zohocorp ManageEngine M365 Manager Plus versions below 4818 is affected by an authenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12591",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12591:2026-11-12T07:49"
+  },
+  {
+   "ts": "2026-11-12T07:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-12507 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-12507 📢 Source: Zohocorp 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Zohocorp ManageEngine AssetExplorer versions below 7860, ServiceDesk Plus versions bel",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12507",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12507:2026-11-12T07:49"
+  },
   {
    "ts": "2026-11-12T06:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
    "source": "Hacker News",
    "id": "community:https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028:2026-11-11T23:19"
-  },
-  {
-   "ts": "2026-11-11T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AWS emulator",
-   "body": "Hacker News · 점수 530",
-   "link": "https://github.com/aws/aws-emulator",
-   "source": "Hacker News",
-   "id": "community:https://github.com/aws/aws-emulator:2026-11-11T23:19"
-  },
-  {
-   "ts": "2026-11-11T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Hyper-Realistic Sand with WebGL2",
-   "body": "Hacker News · 점수 270",
-   "link": "https://av.github.io/safe-sand/",
-   "source": "Hacker News",
-   "id": "community:https://av.github.io/safe-sand/:2026-11-11T23:19"
-  },
-  {
-   "ts": "2026-11-11T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Can a Linear Program Do Weight-Space Programming?",
-   "body": "Hacker News · 점수 227",
-   "link": "https://nathan.rs/posts/weight-space-lp/",
-   "source": "Hacker News",
-   "id": "community:https://nathan.rs/posts/weight-space-lp/:2026-11-11T23:19"
-  },
-  {
-   "ts": "2026-11-11T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111521 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-111521 📢 Source: dell 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Dell Display and Peripheral Manager (DDPM Windows), versions prior to 2.4.0.17 , contain a Tim",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111521",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111521:2026-11-11T22:19"
   }
  ]
 }
