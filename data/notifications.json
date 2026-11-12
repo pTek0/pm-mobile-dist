@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-12T05:19:07+00:00",
+ "generated_at": "2026-11-12T05:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T05:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101107 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-101107 📢 Source: jpcert 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False An OS command Injection issue exists in Air Terminal 6 provided by SoftBank Corp. Arbitrar",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101107",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101107:2026-11-12T05:49"
+  },
   {
    "ts": "2026-11-12T04:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-126243",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126243:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126242 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-126242 📢 Source: fortinet 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True A incorrect authorization vulnerability in Fortinet FortiAuthenticator 8.0.0 through 8.0.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126242",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126242:2026-11-11T21:49"
   }
  ]
 }
