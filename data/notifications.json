@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-12T05:49:07+00:00",
+ "generated_at": "2026-11-12T06:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T06:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118597 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-118597 📢 Source: Fluid Attacks 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Akaunting 3.3.0 contains a stored cross-site scripting vulnerability in custom invoi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118597",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118597:2026-11-12T06:19"
+  },
   {
    "ts": "2026-11-12T05:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-126244",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126244:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126243 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-126243 📢 Source: fortinet 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A incorrect authorization vulnerability in Fortinet FortiAuthenticator 8.0.0 through 8.0.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126243",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126243:2026-11-11T21:49"
   }
  ]
 }
