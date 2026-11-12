@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-12T09:19:07+00:00",
+ "generated_at": "2026-11-12T09:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76173 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-76173 📢 Source: INCIBE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Blind SQL injection vulnerability in the public endpoint `public/webhook/receiver.php` of th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76173",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76173:2026-11-12T09:49"
+  },
   {
    "ts": "2026-11-12T09:19:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
    "source": "Hacker News",
    "id": "community:https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/:2026-11-11T23:49"
-  },
-  {
-   "ts": "2026-11-11T23:49:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] ChatGPT’s Teen Mode could deprive teenagers of a fundamental",
-   "body": "Lemmy · technology · 점수 103",
-   "link": "https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills:2026-11-11T23:49"
   }
  ]
 }
