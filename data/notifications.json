@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-12T15:49:07+00:00",
+ "generated_at": "2026-11-12T16:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127141 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-127141 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True SOGo before 5.12.13 contains a denial of service vulnerability that allows authenticated",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127141",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127141:2026-11-12T16:19"
+  },
+  {
+   "ts": "2026-11-12T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-127131 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-127131 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SOGo before 5.12.13 contains a missing rate limiting vulnerability in its web login ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127131",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127131:2026-11-12T16:19"
+  },
+  {
+   "ts": "2026-11-12T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127121 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-127121 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True SOGo before 5.12.13 contains an improper cryptographic signature verification vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127121",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127121:2026-11-12T16:19"
+  },
+  {
+   "ts": "2026-11-12T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-127111 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-127111 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SOGo before 5.12.13 contains an improper restriction of excessive authentication att",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127111",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127111:2026-11-12T16:19"
+  },
+  {
+   "ts": "2026-11-12T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126329 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-126329 📢 Source: Docker 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Docker Sandboxes reuses existing state and configuration directories without verifying the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126329",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126329:2026-11-12T16:19"
+  },
   {
    "ts": "2026-11-12T15:49:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://www.united.com/en/us/newsroom/announcements/cision-125496",
    "source": "Lemmy · technology",
    "id": "community:https://www.united.com/en/us/newsroom/announcements/cision-125496:2026-11-12T11:49"
-  },
-  {
-   "ts": "2026-11-12T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124704 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-124704 📢 Source: ProgressSoftware 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In Telerik UI for WPF, versions prior to 2026.4.1110, a deserialization of untru",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124704",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124704:2026-11-12T11:19"
-  },
-  {
-   "ts": "2026-11-12T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124703 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-124703 📢 Source: ProgressSoftware 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In Telerik UI for WPF, versions prior to 2026.4.1110, an improper control of cod",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124703",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124703:2026-11-12T11:19"
-  },
-  {
-   "ts": "2026-11-12T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124701 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-124701 📢 Source: ProgressSoftware 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In Telerik UI for WinForms, versions prior to 2026.4.1111, a deserialization of ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124701",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124701:2026-11-12T11:19"
-  },
-  {
-   "ts": "2026-11-12T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia is preparing to oust Jensen Huang",
-   "body": "Hacker News · 점수 1048",
-   "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-   "source": "Hacker News",
-   "id": "community:https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad:2026-11-12T11:19"
-  },
-  {
-   "ts": "2026-11-12T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia CEO Huang allegedly involved in a second affair with ",
-   "body": "Lemmy · technology · 점수 668",
-   "link": "https://finance.yahoo.com/technology/article/nvidia-ceo-huang-allegedly-involved-in-a-second-affair-with-an-nvidia-exec-221824237.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://finance.yahoo.com/technology/article/nvidia-ceo-huang-allegedly-involved-in-a-second-affair-with-an-nvidia-exec-221824237.html:2026-11-12T11:19"
   }
  ]
 }
