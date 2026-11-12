@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-12T06:19:07+00:00",
+ "generated_at": "2026-11-12T06:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87772 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-87772 📢 Source: TR-CERT 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Incorrect Authorization vulnerability in TÜBİTAK BİLGEM Software Technologies Research Ins",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87772",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87772:2026-11-12T06:49"
+  },
+  {
+   "ts": "2026-11-12T06:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-8333 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-8333 📢 Source: Microchip 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in Microchip TimePictra. This issue affects TimePictra: before 12.0. 📅",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8333",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8333:2026-11-12T06:49"
+  },
+  {
+   "ts": "2026-11-12T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-8332 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-8332 📢 Source: Microchip 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A vulnerability in Microchip TimePictra. This issue affects TimePictra: before 12.0. 📅 Pub",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8332",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8332:2026-11-12T06:49"
+  },
+  {
+   "ts": "2026-11-12T06:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-8331 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-8331 📢 Source: Microchip 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An unrestricted upload of files with dangerous type vulnerability in the Microchip TimePic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-8331",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-8331:2026-11-12T06:49"
+  },
   {
    "ts": "2026-11-12T06:19:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111521",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111521:2026-11-11T22:19"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126245 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-126245 📢 Source: fortinet 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A out-of-bounds write vulnerability in Fortinet FortiAuthenticator 8.0.0 through 8.0.3, F",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126245",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126245:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-126229 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-126229 📢 Source: fortinet 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A authorization bypass through user-controlled key vulnerability in Fortinet FortiAna",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126229",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126229:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121528 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-121528 📢 Source: fortinet 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A improper certificate validation vulnerability in Fortinet FortiOS 7.6.0 through 7.6.4, ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121528",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121528:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126244 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-126244 📢 Source: fortinet 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A allocation of resources without limits or throttling vulnerability in Fortinet FortiAut",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126244",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126244:2026-11-11T21:49"
   }
  ]
 }
