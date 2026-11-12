@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-12T03:49:07+00:00",
+ "generated_at": "2026-11-12T04:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T04:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111435 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-111435 📢 Source: openEuler 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Relative path traversal vulnerability in openEuler iSulad on Linux. This vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111435",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111435:2026-11-12T04:19"
+  },
+  {
+   "ts": "2026-11-12T04:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111433 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-111433 📢 Source: openEuler 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True UNIX symbolic link (symlink) following vulnerability in openEuler iSulad on Linux. This ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111433",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111433:2026-11-12T04:19"
+  },
   {
    "ts": "2026-11-12T03:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-126242",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126242:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126241 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-126241 📢 Source: fortinet 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A improper neutralization of special elements used in an sql command ('sql injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126241",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126241:2026-11-11T21:49"
-  },
-  {
-   "ts": "2026-11-11T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126240 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-126240 📢 Source: fortinet 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A improper neutralization of special elements used in an ldap query ('ldap injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126240",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126240:2026-11-11T21:49"
   }
  ]
 }
