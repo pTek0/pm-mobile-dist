@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-11-12T14:19:08+00:00",
+ "generated_at": "2026-11-12T14:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116323 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116323 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Use after free in PostgreSQL pltcl allows an object creator to execute arbitrary code ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116323",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116323:2026-11-12T14:49"
+  },
+  {
+   "ts": "2026-11-12T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116320 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116320 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Use after free in PostgreSQL plperl allows an object creator to execute arbitrary code",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116320",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116320:2026-11-12T14:49"
+  },
+  {
+   "ts": "2026-11-12T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116319 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116319 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Use after free in PostgreSQL plperl allows an object creator to execute arbitrary code",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116319",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116319:2026-11-12T14:49"
+  },
+  {
+   "ts": "2026-11-12T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116318 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116318 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False SQL injection in PostgreSQL pg_dump allows an object creator to execute arbitrary SQL ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116318",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116318:2026-11-12T14:49"
+  },
+  {
+   "ts": "2026-11-12T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116317 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116317 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Heap-based buffer overflow in PostgreSQL ts_rank_cd() may allow a database user to exe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116317",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116317:2026-11-12T14:49"
+  },
+  {
+   "ts": "2026-11-12T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116316 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116316 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Improper protection of alternate path in PostgreSQL security-restricted operations all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116316",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116316:2026-11-12T14:49"
+  },
+  {
+   "ts": "2026-11-12T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116315 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116315 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Heap-based buffer overflow in PostgreSQL tsvector_delete() allows a database user to e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116315",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116315:2026-11-12T14:49"
+  },
+  {
+   "ts": "2026-11-12T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116314 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116314 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Improper input validation in PostgreSQL pg_restore allows a non-plain archive provider",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116314",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116314:2026-11-12T14:49"
+  },
+  {
+   "ts": "2026-11-12T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116313 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-116313 📢 Source: PostgreSQL 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False Untrusted search path in PostgreSQL vacuumdb allows a database owner to execute arbitr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116313",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116313:2026-11-12T14:49"
+  },
+  {
+   "ts": "2026-11-12T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116309 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116309 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Type confusion in PostgreSQL plperl may allow an object creator to execute arbitrary c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116309",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116309:2026-11-12T14:49"
+  },
+  {
+   "ts": "2026-11-12T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116307 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116307 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Use after free in PostgreSQL plperl allows an object creator to execute arbitrary code",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116307",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116307:2026-11-12T14:49"
+  },
+  {
+   "ts": "2026-11-12T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116306 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116306 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Type confusion in PostgreSQL composite-value field assignment allows an object creator",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116306",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116306:2026-11-12T14:49"
+  },
+  {
+   "ts": "2026-11-12T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116304 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-116304 📢 Source: PostgreSQL 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Use after free in PostgreSQL coordination of anonymous RECORD type identifiers among p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116304",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116304:2026-11-12T14:49"
+  },
   {
    "ts": "2026-11-12T14:19:07+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://lemmy.world/pictrs/image/6234cf37-0cef-44a1-b651-e3ebd916bc48.jpeg",
    "source": "Lemmy · programming.dev",
    "id": "community:https://lemmy.world/pictrs/image/6234cf37-0cef-44a1-b651-e3ebd916bc48.jpeg:2026-11-12T11:19"
-  },
-  {
-   "ts": "2026-11-12T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Jensen Huang accused of having another affair — with an Nvid",
-   "body": "Lemmy · technology · 점수 243",
-   "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-   "source": "Lemmy · technology",
-   "id": "community:https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/:2026-11-12T11:19"
-  },
-  {
-   "ts": "2026-11-12T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124699 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-124699 📢 Source: ProgressSoftware 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In Telerik UI for WinForms, versions prior to 2026.4.1111, an improper control o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124699",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124699:2026-11-12T10:19"
-  },
-  {
-   "ts": "2026-11-12T10:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-127016 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-127016 📢 Source: CIRCL 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True The MISP Modules website component exposes external tool management endpoints (add, dele",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127016",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127016:2026-11-12T10:19"
-  },
-  {
-   "ts": "2026-11-12T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106140 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-106140 📢 Source: ProgressSoftware 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False In Progress ® Telerik ® Reporting prior to version 20.3.26.1110, a deserializati",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106140",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106140:2026-11-12T10:19"
-  },
-  {
-   "ts": "2026-11-12T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-76173 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-76173 📢 Source: INCIBE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Blind SQL injection vulnerability in the public endpoint `public/webhook/receiver.php` of th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76173",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76173:2026-11-12T09:49"
-  },
-  {
-   "ts": "2026-11-12T09:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-90908 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-90908 📢 Source: Payara 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in the GenericAdminAuthenticator component of Azul Payara Server and Azu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-90908",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-90908:2026-11-12T09:19"
-  },
-  {
-   "ts": "2026-11-12T09:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-110003 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-110003 📢 Source: Payara 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in the administration REST interface of Azul Payara allows a remote, un",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110003",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110003:2026-11-12T09:19"
-  },
-  {
-   "ts": "2026-11-12T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-47832 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-47832 📢 Source: vmware 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True The vulnerability lies in the way application credentials are handled within the BOSH deploy",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-47832",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-47832:2026-11-12T08:19"
-  },
-  {
-   "ts": "2026-11-12T07:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125836 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-125836 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Nicu Micle Simple JWT Login simple-j",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125836",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125836:2026-11-12T07:49"
-  },
-  {
-   "ts": "2026-11-12T07:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118855 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-118855 📢 Source: Fluid Attacks 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Akaunting 3.3.0 contains a stored cross-site scripting vulnerability through invoice i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118855",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118855:2026-11-12T07:49"
-  },
-  {
-   "ts": "2026-11-12T07:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-12591 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-12591 📢 Source: Zohocorp 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Zohocorp ManageEngine M365 Manager Plus versions below 4818 is affected by an authenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12591",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12591:2026-11-12T07:49"
-  },
-  {
-   "ts": "2026-11-12T07:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-12507 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-12507 📢 Source: Zohocorp 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Zohocorp ManageEngine AssetExplorer versions below 7860, ServiceDesk Plus versions bel",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12507",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12507:2026-11-12T07:49"
-  },
-  {
-   "ts": "2026-11-12T06:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87772 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-87772 📢 Source: TR-CERT 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Incorrect Authorization vulnerability in TÜBİTAK BİLGEM Software Technologies Research Ins",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87772",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87772:2026-11-12T06:49"
   }
  ]
 }
