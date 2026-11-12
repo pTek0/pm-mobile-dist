@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-12T15:19:07+00:00",
+ "generated_at": "2026-11-12T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-70641 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-70641 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True ToolJet before 3.21.94, fixed in commit 1ba63f2, contains a missing authorization vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-70641",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-70641:2026-11-12T15:49"
+  },
+  {
+   "ts": "2026-11-12T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-91007 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-91007 📢 Source: zephyr 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The user-mode syscall verifiers for the charger driver API in drivers/charger/charger_handl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-91007",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-91007:2026-11-12T15:49"
+  },
   {
    "ts": "2026-11-12T14:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://finance.yahoo.com/technology/article/nvidia-ceo-huang-allegedly-involved-in-a-second-affair-with-an-nvidia-exec-221824237.html",
    "source": "Lemmy · technology",
    "id": "community:https://finance.yahoo.com/technology/article/nvidia-ceo-huang-allegedly-involved-in-a-second-affair-with-an-nvidia-exec-221824237.html:2026-11-12T11:19"
-  },
-  {
-   "ts": "2026-11-12T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] 93% of paint splatters are valid Perl programs (2019)",
-   "body": "Hacker News · 점수 440",
-   "link": "https://www.mcmillen.dev/sigbovik/",
-   "source": "Hacker News",
-   "id": "community:https://www.mcmillen.dev/sigbovik/:2026-11-12T11:19"
-  },
-  {
-   "ts": "2026-11-12T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Honeypot 2.0",
-   "body": "Lemmy · programming.dev · 점수 411",
-   "link": "https://lemmy.world/pictrs/image/6234cf37-0cef-44a1-b651-e3ebd916bc48.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/6234cf37-0cef-44a1-b651-e3ebd916bc48.jpeg:2026-11-12T11:19"
   }
  ]
 }
