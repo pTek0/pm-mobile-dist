@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-12T17:19:07+00:00",
+ "generated_at": "2026-11-12T17:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119275 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-119275 📢 Source: Fluid Attacks 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Akaunting 3.3.0 contains a stored cross-site scripting vulnerability in the XLSX invoi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119275",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119275:2026-11-12T17:49"
+  },
+  {
+   "ts": "2026-11-12T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124702 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-124702 📢 Source: ProgressSoftware 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In Telerik UI for WPF, versions prior to 2026.4.1110, an untrusted URL redirecti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124702",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124702:2026-11-12T17:49"
+  },
+  {
+   "ts": "2026-11-12T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124700 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-124700 📢 Source: ProgressSoftware 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In Telerik UI for WinForms, versions prior to 2026.4.1111, an untrusted URL redi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124700",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124700:2026-11-12T17:49"
+  },
+  {
+   "ts": "2026-11-12T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106146 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-106146 📢 Source: ProgressSoftware 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® UI for ASP.NET MVC versions `2012.2.710` through `2026.3.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106146",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106146:2026-11-12T17:49"
+  },
+  {
+   "ts": "2026-11-12T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106154 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-106154 📢 Source: ProgressSoftware 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® UI for ASP.NET Core versions `2015.1.318` through `2026.3",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106154",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106154:2026-11-12T17:49"
+  },
   {
    "ts": "2026-11-12T17:19:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110951",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110951:2026-11-12T12:49"
-  },
-  {
-   "ts": "2026-11-12T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75864 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-75864 📢 Source: Zohocorp 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine DDI Central versions below 6301 is affected by an improper authoriza",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75864",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75864:2026-11-12T12:49"
-  },
-  {
-   "ts": "2026-11-12T12:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-19422 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-19422 📢 Source: Zohocorp 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Zohocorp ManageEngine DDI Central versions below 6301 is affected by an authentication",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19422",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19422:2026-11-12T12:49"
-  },
-  {
-   "ts": "2026-11-12T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19421 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-19421 📢 Source: Zohocorp 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Zohocorp ManageEngine DDI Central versions below 6301 is affected by a PowerShell injectio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19421",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19421:2026-11-12T12:19"
-  },
-  {
-   "ts": "2026-11-12T12:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-127046 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-127046 📢 Source: CIRCL 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True The MISP Modules website component contains an information disclosure vulnerability in t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127046",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127046:2026-11-12T12:19"
-  },
-  {
-   "ts": "2026-11-12T12:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124705 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-124705 📢 Source: ProgressSoftware 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In Progress ® Telerik ® UI for .NET MAUI prior to version 16.0.0, an untrusted U",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124705",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124705:2026-11-12T12:19"
   }
  ]
 }
