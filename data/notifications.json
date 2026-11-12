@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-12T12:49:07+00:00",
+ "generated_at": "2026-11-12T13:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-12T13:19:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125285 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-125285 📢 Source: tibco 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Authentication bypass using an alternate path or channel vulnerability in TIBCO TIBCO Platfo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125285",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125285:2026-11-12T13:19"
+  },
   {
    "ts": "2026-11-12T12:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81584",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81584:2026-11-12T03:49"
-  },
-  {
-   "ts": "2026-11-12T03:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-75785 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-75785 📢 Source: synology 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True An improper neutralization of special elements used in an OS command vulnerability in the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75785",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75785:2026-11-12T03:49"
   }
  ]
 }
