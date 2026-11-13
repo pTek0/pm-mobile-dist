@@ -1,7 +1,147 @@
 {
- "generated_at": "2026-11-13T09:19:07+00:00",
+ "generated_at": "2026-11-13T09:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T09:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-126473 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-126473 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True OpenEMR before 8.4.0 contains OAuth scope canonicalization and containment flaws tha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126473",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126473:2026-11-13T09:49"
+  },
+  {
+   "ts": "2026-11-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126472 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-126472 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.5.0 contains a missing authorization vulnerability in ccdaservice/ccda_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126472",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126472:2026-11-13T09:49"
+  },
+  {
+   "ts": "2026-11-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126471 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-126471 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.5.0 contains a missing authorization vulnerability in print_referral.ph",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126471",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126471:2026-11-13T09:49"
+  },
+  {
+   "ts": "2026-11-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126470 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-126470 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.5.0 contains an insecure direct object reference vulnerability in the C",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126470",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126470:2026-11-13T09:49"
+  },
+  {
+   "ts": "2026-11-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126469 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-126469 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.5.0 contains a missing authorization vulnerability in several custom/ s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126469",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126469:2026-11-13T09:49"
+  },
+  {
+   "ts": "2026-11-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126468 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-126468 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.5.0 contains a missing authorization vulnerability that allows any auth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126468",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126468:2026-11-13T09:49"
+  },
+  {
+   "ts": "2026-11-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126467 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-126467 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.5.0 contains a mass assignment vulnerability in ObservationController::",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126467",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126467:2026-11-13T09:49"
+  },
+  {
+   "ts": "2026-11-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126466 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-126466 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.5.0 contains a missing authorization vulnerability that allows any auth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126466",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126466:2026-11-13T09:49"
+  },
+  {
+   "ts": "2026-11-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126465 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-126465 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.5.0 contains an SQL injection vulnerability in the patient portal api/o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126465",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126465:2026-11-13T09:49"
+  },
+  {
+   "ts": "2026-11-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126463 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-126463 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.5.0 contains multiple sql injection vulnerabilities that allow authenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126463",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126463:2026-11-13T09:49"
+  },
+  {
+   "ts": "2026-11-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126461 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-126461 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.5.0 contains a missing authorization vulnerability in library/ajax/user",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126461",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126461:2026-11-13T09:49"
+  },
+  {
+   "ts": "2026-11-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126460 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-126460 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.5.0 contains a persistent SQL injection vulnerability in SLEOB::slInvoi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126460",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126460:2026-11-13T09:49"
+  },
+  {
+   "ts": "2026-11-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126458 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-126458 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.5.0 contains a missing authorization vulnerability in authorizations_fu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126458",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126458:2026-11-13T09:49"
+  },
+  {
+   "ts": "2026-11-13T09:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126457 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-126457 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.5.0 contains a missing authorization vulnerability in InstallerControll",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126457",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126457:2026-11-13T09:49"
+  },
   {
    "ts": "2026-11-13T09:19:07+00:00",
    "level": "general",
@@ -361,146 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120868",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120868:2026-11-12T23:49"
-  },
-  {
-   "ts": "2026-11-12T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Why writing correct software is hard and why math (alone) wo",
-   "body": "Hacker News · 점수 341",
-   "link": "https://pron.github.io/posts/correctness-and-complexity",
-   "source": "Hacker News",
-   "id": "community:https://pron.github.io/posts/correctness-and-complexity:2026-11-12T23:49"
-  },
-  {
-   "ts": "2026-11-12T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nintendo Takes Down Emulators and Firmware in Massive GitHub",
-   "body": "Hacker News · 점수 249",
-   "link": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
-   "source": "Hacker News",
-   "id": "community:https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep:2026-11-12T23:49"
-  },
-  {
-   "ts": "2026-11-12T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I'm making LLMs work on small and old devices",
-   "body": "Hacker News · 점수 248",
-   "link": "https://github.com/hyperionaidev/smolmaxxing/",
-   "source": "Hacker News",
-   "id": "community:https://github.com/hyperionaidev/smolmaxxing/:2026-11-12T23:49"
-  },
-  {
-   "ts": "2026-11-12T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: My $300 embroidery machine needed a subscription, s",
-   "body": "Hacker News · 점수 240",
-   "link": "https://github.com/simpsoka/zigzag",
-   "source": "Hacker News",
-   "id": "community:https://github.com/simpsoka/zigzag:2026-11-12T23:49"
-  },
-  {
-   "ts": "2026-11-12T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft Outlook experiencing widespread outage",
-   "body": "Lemmy · technology · 점수 173",
-   "link": "https://9to5mac.com/2026/11/12/microsoft-outlook-experiencing-widespread-outage/",
-   "source": "Lemmy · technology",
-   "id": "community:https://9to5mac.com/2026/11/12/microsoft-outlook-experiencing-widespread-outage/:2026-11-12T23:49"
-  },
-  {
-   "ts": "2026-11-12T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Jensen Huang resigns",
-   "body": "Hacker News · 점수 2634",
-   "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-   "source": "Hacker News",
-   "id": "community:https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f:2026-11-12T23:19"
-  },
-  {
-   "ts": "2026-11-12T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Anthropic IPO",
-   "body": "Hacker News · 점수 766",
-   "link": "https://ipo.anthropic.com/us/",
-   "source": "Hacker News",
-   "id": "community:https://ipo.anthropic.com/us/:2026-11-12T23:19"
-  },
-  {
-   "ts": "2026-11-12T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Gemini 4 Hydrogen",
-   "body": "Hacker News · 점수 409",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-   "source": "Hacker News",
-   "id": "community:https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/:2026-11-12T23:19"
-  },
-  {
-   "ts": "2026-11-12T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Service degradation on Microsoft 365",
-   "body": "Hacker News · 점수 362",
-   "link": "https://status.cloud.microsoft/",
-   "source": "Hacker News",
-   "id": "community:https://status.cloud.microsoft/:2026-11-12T23:19"
-  },
-  {
-   "ts": "2026-11-12T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A live tree of systemd jobs on the boot console",
-   "body": "Hacker News · 점수 344",
-   "link": "https://codeberg.org/wvhulle/bootvine",
-   "source": "Hacker News",
-   "id": "community:https://codeberg.org/wvhulle/bootvine:2026-11-12T23:19"
-  },
-  {
-   "ts": "2026-11-12T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126823 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-126823 📢 Source: mongodb 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A local user with an ordinary account on the same host can place a file in a shared tempo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126823",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126823:2026-11-12T22:19"
-  },
-  {
-   "ts": "2026-11-12T22:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-127211 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-127211 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True MultiVendorX plugin for WordPress before 5.0.22 contains a broken access control vulnera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127211",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127211:2026-11-12T22:19"
-  },
-  {
-   "ts": "2026-11-12T21:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126793 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-126793 📢 Source: AMZN 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An untrusted search path issue in Aurora PostgreSQL dialect detection in the AWS Advanced Go ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126793",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126793:2026-11-12T21:19"
-  },
-  {
-   "ts": "2026-11-12T21:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-127208 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-127208 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True datamodel-code-generator before 0.84.0 contains a code injection vulnerability that allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127208",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127208:2026-11-12T21:19"
   }
  ]
 }
