@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-11-13T16:19:07+00:00",
+ "generated_at": "2026-11-13T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129130 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129130 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True agent-device from 0.21.36 before 0.21.37 contains a local file disclosure vulnerability ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129130",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129130:2026-11-13T16:49"
+  },
+  {
+   "ts": "2026-11-13T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129128 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-129128 📢 Source: VulnCheck 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Goose CLI 1.35.0 before 1.53.0 contains a local code execution vulnerability that allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129128",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129128:2026-11-13T16:49"
+  },
+  {
+   "ts": "2026-11-13T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129126 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-129126 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True C-Kermit before 11.1.515 contains a heap buffer overflow vulnerability in putsrv() i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129126",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129126:2026-11-13T16:49"
+  },
+  {
+   "ts": "2026-11-13T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129125 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-129125 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True C-Kermit 6.0.192 before 11.1.515 contains a remote code execution vulnerability that",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129125",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129125:2026-11-13T16:49"
+  },
+  {
+   "ts": "2026-11-13T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129124 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-129124 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True C-Kermit before 11.1.515 contains an OS command injection vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129124",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129124:2026-11-13T16:49"
+  },
+  {
+   "ts": "2026-11-13T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129123 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-129123 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True C-Kermit 8.0.200 before 11.1.515 contains a buffer overflow vulnerability in getreply() ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129123",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129123:2026-11-13T16:49"
+  },
+  {
+   "ts": "2026-11-13T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129122 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-129122 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True C-Kermit 6.0.192 before 11.1.515 contains a buffer overflow vulnerability in tn_snenv() ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129122",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129122:2026-11-13T16:49"
+  },
+  {
+   "ts": "2026-11-13T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129119 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129119 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True C-Kermit from 6.0.192 before 11.1.515 contains a file collision protection bypass that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129119",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129119:2026-11-13T16:49"
+  },
+  {
+   "ts": "2026-11-13T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129118 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-129118 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True C-Kermit 8.0.200 before 11.1.515 contains an improper certificate hostname validation vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129118",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129118:2026-11-13T16:49"
+  },
+  {
+   "ts": "2026-11-13T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129117 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-129117 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True C-Kermit 8.0.200 before 11.1.515 contains an improper certificate validation vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129117",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129117:2026-11-13T16:49"
+  },
+  {
+   "ts": "2026-11-13T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129116 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-129116 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True C-Kermit from 7.0.197 before 11.1.515 contains an authentication bypass vulnerability in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129116",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129116:2026-11-13T16:49"
+  },
+  {
+   "ts": "2026-11-13T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124279 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-124279 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in elixir-grpc grpc_server ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124279",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124279:2026-11-13T16:49"
+  },
+  {
+   "ts": "2026-11-13T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121809 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-121809 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Loop with Unreachable Exit Condition ('Infinite Loop') vulnerability in elixir-grpc grpc_serve",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121809",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121809:2026-11-13T16:49"
+  },
   {
    "ts": "2026-11-13T16:19:07+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-128909",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128909:2026-11-13T14:49"
-  },
-  {
-   "ts": "2026-11-13T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-128908 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-128908 📢 Source: NCSC.ch 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False OS command injection (CWE-78) in the network-configuration handling of the management ser",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128908",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128908:2026-11-13T14:49"
-  },
-  {
-   "ts": "2026-11-13T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-127031 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-127031 📢 Source: eclipse 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In Eclipse AAS4J before 3.0.1, `XmlSchemaValidator.validateSchema()` (and `AASXValidator.v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127031",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127031:2026-11-13T14:49"
-  },
-  {
-   "ts": "2026-11-13T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107524 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-107524 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an integer overflow vulnerability. An authenticated storage host cou",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107524",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107524:2026-11-13T14:49"
-  },
-  {
-   "ts": "2026-11-13T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82177 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-82177 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an OS Command Injection vulnerability. A high-privileged attacker cou",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82177",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82177:2026-11-13T14:19"
-  },
-  {
-   "ts": "2026-11-13T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-128790 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-128790 📢 Source: eclipse 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Eclipse BaSyx Go Components versions up to and including 1.1.2, ABAC-enabled deployment",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128790",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128790:2026-11-13T14:19"
-  },
-  {
-   "ts": "2026-11-13T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116411 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116411 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains a Server-Side Request Forgery (SSRF) vulnerability. An authenticated",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116411",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116411:2026-11-13T14:19"
-  },
-  {
-   "ts": "2026-11-13T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-127124 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-127124 📢 Source: rt-labs 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False P-Net before 1.0.4 keeps the RPC session that is allocated for a fragment of a request wi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127124",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127124:2026-11-13T13:49"
-  },
-  {
-   "ts": "2026-11-13T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-127122 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-127122 📢 Source: rt-labs 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False P-Net before 1.0.4 does not check the number of MCR request blocks in a Connect request a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127122",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127122:2026-11-13T13:49"
-  },
-  {
-   "ts": "2026-11-13T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124761 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124761 📢 Source: rt-labs 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False P-Net before 1.0.4 copies the IP suite of a DCP Set request to the current and the non-vo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124761",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124761:2026-11-13T13:49"
-  },
-  {
-   "ts": "2026-11-13T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124759 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124759 📢 Source: rt-labs 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False P-Net before 1.0.4 routes a received RTA alarm frame to an Application Relationship using",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124759",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124759:2026-11-13T13:49"
-  },
-  {
-   "ts": "2026-11-13T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116413 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-116413 📢 Source: dell 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains a use-of-broken-cryptography vulnerability. A low-privileged attacke",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116413",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116413:2026-11-13T13:49"
-  },
-  {
-   "ts": "2026-11-13T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95518 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-95518 📢 Source: TR-CERT 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Time-of-check time-of-use (TOCTOU) race condition vulnerability in TÜBİTAK BİLGEM Yazılım Te",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95518",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95518:2026-11-13T13:19"
-  },
-  {
-   "ts": "2026-11-13T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86355 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-86355 📢 Source: dell 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an External Control of File Name or Path vulnerability. A remote auth",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86355",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86355:2026-11-13T12:49"
   }
  ]
 }
