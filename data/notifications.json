@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-13T09:49:07+00:00",
+ "generated_at": "2026-11-13T10:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112181 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-112181 📢 Source: INCIBE 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Vulnerability due to inadequate restriction of references to external XML entities in OpenK",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112181",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112181:2026-11-13T10:19"
+  },
   {
    "ts": "2026-11-13T09:49:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://executivedigest.sapo.pt/lg-enfrenta-acao-judicial-em-portugal-por-alegada-espionagem-domestica-atraves-de-televisoes/",
    "source": "Lemmy · programming.dev",
    "id": "community:https://executivedigest.sapo.pt/lg-enfrenta-acao-judicial-em-portugal-por-alegada-espionagem-domestica-atraves-de-televisoes/:2026-11-13T00:19"
-  },
-  {
-   "ts": "2026-11-12T23:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-120868 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-120868 📢 Source: NetScaler 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Memory overflow in Packet Processing can lead to unpredictable or erroneous behavior",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120868",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120868:2026-11-12T23:49"
   }
  ]
 }
