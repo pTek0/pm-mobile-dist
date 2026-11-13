@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-13T07:49:08+00:00",
+ "generated_at": "2026-11-13T08:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120863 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-120863 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in the management plane can lead to unpredictable or erroneous behavior ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120863",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120863:2026-11-13T08:19"
+  },
+  {
+   "ts": "2026-11-13T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120862 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-120862 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in SIP ALG (LSN) and DNS answer-section logging datapaths can lead to un",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120862",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120862:2026-11-13T08:19"
+  },
+  {
+   "ts": "2026-11-13T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120861 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-120861 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow / improper handling in GSLB and geolocation (MEP, static-proximity, conf",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120861",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120861:2026-11-13T08:19"
+  },
+  {
+   "ts": "2026-11-13T08:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120860 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-120860 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in protocol load-balancing traffic handling (Diameter, SIP-over-TCP, MQT",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120860",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120860:2026-11-13T08:19"
+  },
   {
    "ts": "2026-11-13T07:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124012",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124012:2026-11-12T20:19"
-  },
-  {
-   "ts": "2026-11-12T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111456 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-111456 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A missing authorization check has been found in ConsumerResource.setupOwner() function of c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111456",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111456:2026-11-12T20:19"
-  },
-  {
-   "ts": "2026-11-12T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107443 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-107443 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Foreman. An authenticated user with view_hosts privileges can retrieve ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107443",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107443:2026-11-12T20:19"
-  },
-  {
-   "ts": "2026-11-12T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-107360 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-107360 📢 Source: redhat 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True A flaw was found in rubygem-safemode. Compound assignment expressions in sandboxed code",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107360",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107360:2026-11-12T20:19"
-  },
-  {
-   "ts": "2026-11-12T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107152 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-107152 📢 Source: redhat 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True An improper authentication vulnerability has been found in the task console in the smart_pr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107152",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107152:2026-11-12T20:19"
   }
  ]
 }
