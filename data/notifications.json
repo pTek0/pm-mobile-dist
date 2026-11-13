@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-13T16:49:08+00:00",
+ "generated_at": "2026-11-13T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63167 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-63167 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Omnispace Agora Project through 26.10.0 contains a SQL injection vulnerability that allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63167",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63167:2026-11-13T17:19"
+  },
+  {
+   "ts": "2026-11-13T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63164 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-63164 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Omnispace Agora Project through 26.10.0 contains an insecure direct object reference vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63164",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63164:2026-11-13T17:19"
+  },
+  {
+   "ts": "2026-11-13T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63151 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-63151 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Omnispace Agora Project through 26.10.0 contains a predictable token generation vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63151",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63151:2026-11-13T17:19"
+  },
+  {
+   "ts": "2026-11-13T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63150 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-63150 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Omnispace Agora Project through 26.10.0 contains a cross-site request forgery vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63150",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63150:2026-11-13T17:19"
+  },
   {
    "ts": "2026-11-13T16:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107522",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107522:2026-11-13T15:19"
-  },
-  {
-   "ts": "2026-11-13T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125811 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-125811 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125811",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125811:2026-11-13T14:49"
-  },
-  {
-   "ts": "2026-11-13T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111547 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-111547 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an out-of-bounds read vulnerability. An attacker could exploit this ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111547",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111547:2026-11-13T14:49"
-  },
-  {
-   "ts": "2026-11-13T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118976 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-118976 📢 Source: ProgressSoftware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® UI for Blazor versions v11.1.0 through v14.0.0, the demo ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118976",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118976:2026-11-13T14:49"
-  },
-  {
-   "ts": "2026-11-13T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-128909 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-128909 📢 Source: NCSC.ch 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Improper verification of cryptographic signature (CWE-347) in the firmware update handler",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128909",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128909:2026-11-13T14:49"
   }
  ]
 }
