@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-13T08:49:07+00:00",
+ "generated_at": "2026-11-13T09:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116417 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-116417 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: False Dell PowerScale InsightIQ, versions 6.3.0 through 6.4.0, contains a Weak Password Requiremen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116417",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116417:2026-11-13T09:19"
+  },
   {
    "ts": "2026-11-13T08:49:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-127208",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127208:2026-11-12T21:19"
-  },
-  {
-   "ts": "2026-11-12T21:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-106018 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-106018 📢 Source: jci 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Authentication bypass using an alternate path or channel vulnerability in Johnson Controls Eas",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106018",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106018:2026-11-12T21:19"
   }
  ]
 }
