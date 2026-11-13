@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-13T14:19:08+00:00",
+ "generated_at": "2026-11-13T14:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125811 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-125811 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125811",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125811:2026-11-13T14:49"
+  },
+  {
+   "ts": "2026-11-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111547 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-111547 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an out-of-bounds read vulnerability. An attacker could exploit this ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111547",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111547:2026-11-13T14:49"
+  },
+  {
+   "ts": "2026-11-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118976 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-118976 📢 Source: ProgressSoftware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Progress ® Telerik ® UI for Blazor versions v11.1.0 through v14.0.0, the demo ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118976",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118976:2026-11-13T14:49"
+  },
+  {
+   "ts": "2026-11-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-128909 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-128909 📢 Source: NCSC.ch 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Improper verification of cryptographic signature (CWE-347) in the firmware update handler",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128909",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128909:2026-11-13T14:49"
+  },
+  {
+   "ts": "2026-11-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-128908 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-128908 📢 Source: NCSC.ch 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False OS command injection (CWE-78) in the network-configuration handling of the management ser",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128908",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128908:2026-11-13T14:49"
+  },
+  {
+   "ts": "2026-11-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127031 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-127031 📢 Source: eclipse 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In Eclipse AAS4J before 3.0.1, `XmlSchemaValidator.validateSchema()` (and `AASXValidator.v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127031",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127031:2026-11-13T14:49"
+  },
+  {
+   "ts": "2026-11-13T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107524 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-107524 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an integer overflow vulnerability. An authenticated storage host cou",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107524",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107524:2026-11-13T14:49"
+  },
   {
    "ts": "2026-11-13T14:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120867",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120867:2026-11-13T08:49"
-  },
-  {
-   "ts": "2026-11-13T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120866 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-120866 📢 Source: NetScaler 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Memory overflow / improper handling in BGP dynamic routing can lead to unpredictable or",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120866",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120866:2026-11-13T08:49"
-  },
-  {
-   "ts": "2026-11-13T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120865 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-120865 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in HTTP/3 (QUIC) can lead to unpredictable or erroneous behavior or Deni",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120865",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120865:2026-11-13T08:49"
-  },
-  {
-   "ts": "2026-11-13T08:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-120864 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-120864 📢 Source: NetScaler 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Memory overflow in ICA proxy can lead to unpredictable or erroneous behavior or Deni",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120864",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120864:2026-11-13T08:49"
-  },
-  {
-   "ts": "2026-11-13T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120863 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-120863 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in the management plane can lead to unpredictable or erroneous behavior ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120863",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120863:2026-11-13T08:19"
-  },
-  {
-   "ts": "2026-11-13T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120862 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-120862 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in SIP ALG (LSN) and DNS answer-section logging datapaths can lead to un",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120862",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120862:2026-11-13T08:19"
-  },
-  {
-   "ts": "2026-11-13T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120861 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-120861 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow / improper handling in GSLB and geolocation (MEP, static-proximity, conf",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120861",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120861:2026-11-13T08:19"
-  },
-  {
-   "ts": "2026-11-13T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120860 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-120860 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in protocol load-balancing traffic handling (Diameter, SIP-over-TCP, MQT",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120860",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120860:2026-11-13T08:19"
   }
  ]
 }
