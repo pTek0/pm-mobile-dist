@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-11-13T15:19:07+00:00",
+ "generated_at": "2026-11-13T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129105 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-129105 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Cudy TR3000 before 2.5.42 contains an option injection vulnerability that allows authentic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129105",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129105:2026-11-13T15:49"
+  },
+  {
+   "ts": "2026-11-13T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129104 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-129104 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Cudy TR3000 before 2.5.42 contains a dnsmasq configuration injection vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129104",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129104:2026-11-13T15:49"
+  },
+  {
+   "ts": "2026-11-13T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129103 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-129103 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Cudy TR3000 before 2.5.42 contains a command injection vulnerability that allows authent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129103",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129103:2026-11-13T15:49"
+  },
+  {
+   "ts": "2026-11-13T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129102 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-129102 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Cudy TR3000 before 2.5.42 contains a command injection vulnerability that allows authent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129102",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129102:2026-11-13T15:49"
+  },
+  {
+   "ts": "2026-11-13T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129101 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-129101 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Cudy TR3000 before 2.5.42 contains a mass assignment vulnerability in the vpn.set_conf A",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129101",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129101:2026-11-13T15:49"
+  },
+  {
+   "ts": "2026-11-13T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129099 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-129099 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Cudy TR3000 before 2.5.42 contains a remote code execution vulnerability that allows aut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129099",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129099:2026-11-13T15:49"
+  },
+  {
+   "ts": "2026-11-13T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126818 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-126818 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A Ruby object-document mapper does not apply its automatic field-level encryption configur",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126818",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126818:2026-11-13T15:49"
+  },
+  {
+   "ts": "2026-11-13T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-103813 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-103813 📢 Source: dell 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Dell PowerStore contains an OS Command Injection vulnerability. An authenticated user wit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103813",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103813:2026-11-13T15:49"
+  },
+  {
+   "ts": "2026-11-13T15:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-63079 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-63079 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True RBH Access Technologies Integra32 Security Management System 5.1.11 R5.0 contains an ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63079",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63079:2026-11-13T15:49"
+  },
   {
    "ts": "2026-11-13T15:19:07+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-109903",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109903:2026-11-13T11:19"
-  },
-  {
-   "ts": "2026-11-13T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia employees petition to bring back Jensen Huang",
-   "body": "Hacker News · 점수 612",
-   "link": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-   "source": "Hacker News",
-   "id": "community:https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/:2026-11-13T11:19"
-  },
-  {
-   "ts": "2026-11-13T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Gemini 4 Hydrogen and Orchestrator",
-   "body": "Hacker News · 점수 422",
-   "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-   "source": "Hacker News",
-   "id": "community:https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/:2026-11-13T11:19"
-  },
-  {
-   "ts": "2026-11-13T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft Outlook/365 still down after 12 hours",
-   "body": "Hacker News · 점수 319",
-   "link": "https://twitter.com/MSFT365Status/status/2121079061774491735",
-   "source": "Hacker News",
-   "id": "community:https://twitter.com/MSFT365Status/status/2121079061774491735:2026-11-13T11:19"
-  },
-  {
-   "ts": "2026-11-13T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I don't understand the Microsoft Outage",
-   "body": "Lemmy · programming.dev · 점수 175",
-   "link": "https://lemmy.world/post/59327829",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/post/59327829:2026-11-13T11:19"
-  },
-  {
-   "ts": "2026-11-13T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Announcing Rust 1.100.0",
-   "body": "Lobsters · 점수 116",
-   "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-   "source": "Lobsters",
-   "id": "community:https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/:2026-11-13T11:19"
-  },
-  {
-   "ts": "2026-11-13T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112182 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-112182 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Unauthorization vulnerability in the management of workflow definitions in OpenKM Community",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112182",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112182:2026-11-13T10:49"
-  },
-  {
-   "ts": "2026-11-13T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112181 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-112181 📢 Source: INCIBE 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Vulnerability due to inadequate restriction of references to external XML entities in OpenK",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112181",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112181:2026-11-13T10:19"
-  },
-  {
-   "ts": "2026-11-13T09:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-126473 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-126473 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True OpenEMR before 8.4.0 contains OAuth scope canonicalization and containment flaws tha",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126473",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126473:2026-11-13T09:49"
-  },
-  {
-   "ts": "2026-11-13T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126472 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-126472 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True OpenEMR before 8.5.0 contains a missing authorization vulnerability in ccdaservice/ccda_",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126472",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126472:2026-11-13T09:49"
   }
  ]
 }
