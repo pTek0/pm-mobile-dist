@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-13T12:49:07+00:00",
+ "generated_at": "2026-11-13T13:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95518 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-95518 📢 Source: TR-CERT 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Time-of-check time-of-use (TOCTOU) race condition vulnerability in TÜBİTAK BİLGEM Yazılım Te",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95518",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95518:2026-11-13T13:19"
+  },
   {
    "ts": "2026-11-13T12:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111342",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111342:2026-11-13T03:49"
-  },
-  {
-   "ts": "2026-11-13T03:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111341 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-111341 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in client-certificate authentication can lead to unpredictable or errone",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111341",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111341:2026-11-13T03:49"
   }
  ]
 }
