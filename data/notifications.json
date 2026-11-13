@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-11-13T15:49:07+00:00",
+ "generated_at": "2026-11-13T16:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124278 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-124278 📢 Source: EEF 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Authorization Bypass Through User-Controlled Key vulnerability in elixir-grpc grpc_server and ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124278",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124278:2026-11-13T16:19"
+  },
+  {
+   "ts": "2026-11-13T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2024-58406 (CVSS 8.7)",
+   "body": "🚨 CVE-2024-58406 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Huatian Dynamic OA8000 collaborative office system contains an unauthenticated path trave",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2024-58406",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-58406:2026-11-13T16:19"
+  },
+  {
+   "ts": "2026-11-13T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95615 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-95615 📢 Source: Zenitel 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True OS command injection vulnerability in audio messages API in Zenitel Connect before 1.11.0 a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95615",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95615:2026-11-13T16:19"
+  },
+  {
+   "ts": "2026-11-13T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-95614 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-95614 📢 Source: Zenitel 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False The host configuration watcher in Zenitel Connect before 1.11.0 applies a rsyslog conf",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95614",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95614:2026-11-13T16:19"
+  },
+  {
+   "ts": "2026-11-13T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95613 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-95613 📢 Source: Zenitel 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True The pREST database REST API in Zenitel Connect firmware before 1.11.0 signs and verifies JW",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95613",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95613:2026-11-13T16:19"
+  },
+  {
+   "ts": "2026-11-13T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95379 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-95379 📢 Source: Zenitel 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Path traversal in the certificate.deleteCertificate JSON-RPC method (POST /api/rpc) of the tu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95379",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95379:2026-11-13T16:19"
+  },
+  {
+   "ts": "2026-11-13T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95378 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-95378 📢 Source: Zenitel 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Path traversal in the certificate upload endpoint (/api/certificate/upload) of the turbinew",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95378",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95378:2026-11-13T16:19"
+  },
+  {
+   "ts": "2026-11-13T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-95377 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-95377 📢 Source: Zenitel 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False OS command injection in the TFTP provisioning module of Zenitel EdgeAudioClient before",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95377",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95377:2026-11-13T16:19"
+  },
+  {
+   "ts": "2026-11-13T16:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129110 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-129110 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True sysPass 3.0.1 through 3.2.11 contains an authentication bypass vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129110",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129110:2026-11-13T16:19"
+  },
   {
    "ts": "2026-11-13T15:49:07+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86355",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86355:2026-11-13T12:49"
-  },
-  {
-   "ts": "2026-11-13T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86356 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-86356 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an authorization-bypass vulnerability that could lead to elevation of",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86356",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86356:2026-11-13T12:49"
-  },
-  {
-   "ts": "2026-11-13T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120221 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-120221 📢 Source: NetDEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In FRRouting 8.4 and later, bgpd frees the same memory twice when dynamic BGP neighbors dis",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120221",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120221:2026-11-13T12:19"
-  },
-  {
-   "ts": "2026-11-13T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The entirety of \"Let Over Lambda\" is now freely available on",
-   "body": "Lobsters · 점수 54",
-   "link": "https://letoverlambda.com/",
-   "source": "Lobsters",
-   "id": "community:https://letoverlambda.com/:2026-11-13T12:19"
-  },
-  {
-   "ts": "2026-11-13T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] I can proudly announce my private Mailcow server has higher ",
-   "body": "Lemmy · programming.dev · 점수 110",
-   "link": "https://lemmy.world/post/59323502",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/post/59323502:2026-11-13T11:49"
-  },
-  {
-   "ts": "2026-11-13T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Major PC makers are shifting production back to China as cos",
-   "body": "Lemmy · technology · 점수 89",
-   "link": "https://www.techradar.com/pro/major-pc-makers-are-shifting-production-back-to-china-as-costs-rise-hp-asus-among-firms-moving-work-in-efficiency-push",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.techradar.com/pro/major-pc-makers-are-shifting-production-back-to-china-as-costs-rise-hp-asus-among-firms-moving-work-in-efficiency-push:2026-11-13T11:49"
-  },
-  {
-   "ts": "2026-11-13T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Trying Tourette's device tested by Lewis Capaldi was the bes",
-   "body": "Lemmy · technology · 점수 72",
-   "link": "https://www.bbc.com/news/articles/cmp3g3e5q4zxo",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.bbc.com/news/articles/cmp3g3e5q4zxo:2026-11-13T11:49"
-  },
-  {
-   "ts": "2026-11-13T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Hello Baochip",
-   "body": "Lobsters · 점수 61",
-   "link": "https://ratfactor.com/cards/hello-baochip",
-   "source": "Lobsters",
-   "id": "community:https://ratfactor.com/cards/hello-baochip:2026-11-13T11:49"
-  },
-  {
-   "ts": "2026-11-13T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The AI-Assisted Linux Driver for DisplayLink Gets Legal Noti",
-   "body": "Lemmy · technology · 점수 59",
-   "link": "https://itsfoss.com/news/synaptics-vino-fiasco/",
-   "source": "Lemmy · technology",
-   "id": "community:https://itsfoss.com/news/synaptics-vino-fiasco/:2026-11-13T11:49"
-  },
-  {
-   "ts": "2026-11-13T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109903 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-109903 📢 Source: suse 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A buffer overread caused by casting a negative integer to CARD32 in XvQueryImageAttributes i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109903",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109903:2026-11-13T11:19"
   }
  ]
 }
