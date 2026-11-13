@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-13T07:19:07+00:00",
+ "generated_at": "2026-11-13T07:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111337 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-111337 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in Base64 decoding in advanced policy expressions leading to unpredictab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111337",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111337:2026-11-13T07:49"
+  },
+  {
+   "ts": "2026-11-13T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111336 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-111336 📢 Source: NetScaler 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Memory overflow in HTTP/2 handling can lead to unpredictable or erroneous behavior or De",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111336",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111336:2026-11-13T07:49"
+  },
+  {
+   "ts": "2026-11-13T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59081 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-59081 📢 Source: CERT-PL 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Edito CMS deserializes JSON data without further validation. A user (even an administrator",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59081",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59081:2026-11-13T07:49"
+  },
+  {
+   "ts": "2026-11-13T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59079 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-59079 📢 Source: CERT-PL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Edito CMS restricts the ability to upload files via the UI to specific file types. However,",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59079",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59079:2026-11-13T07:49"
+  },
+  {
+   "ts": "2026-11-13T07:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111334 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-111334 📢 Source: NetScaler 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Memory overflow in Endpoint Analysis (EPA/EPAS) can lead to unpredictable or erroneo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111334",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111334:2026-11-13T07:49"
+  },
+  {
+   "ts": "2026-11-13T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59075 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-59075 📢 Source: CERT-PL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Edito CMS is vulnerable to Dynamic LINQ injection. Due to improper input validation, an aut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59075",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59075:2026-11-13T07:49"
+  },
+  {
+   "ts": "2026-11-13T07:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59074 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-59074 📢 Source: CERT-PL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Edito CMS is vulnerable to improper cryptographic signature verification in the JWT refresh",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59074",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59074:2026-11-13T07:49"
+  },
   {
    "ts": "2026-11-13T03:49:06+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107152",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107152:2026-11-12T20:19"
-  },
-  {
-   "ts": "2026-11-12T20:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-124010 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-124010 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True XWEB EVO before 5.6.2 contains a command injection vulnerability that allows unauthe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124010",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124010:2026-11-12T20:19"
-  },
-  {
-   "ts": "2026-11-12T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124009 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-124009 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True XWEB EVO 5.2.3 through 5.8.8 contains an authenticated OS command injection vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124009",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124009:2026-11-12T20:19"
-  },
-  {
-   "ts": "2026-11-12T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-124004 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-124004 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True XWEB EVO before 5.6.2 contains a hardcoded backdoor password vulnerability that allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124004",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124004:2026-11-12T19:49"
-  },
-  {
-   "ts": "2026-11-12T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124003 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-124003 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False XWEB EVO before 5.6.2 contains a command injection vulnerability where the setuid-root ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124003",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124003:2026-11-12T19:49"
-  },
-  {
-   "ts": "2026-11-12T19:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-124002 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-124002 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True XWEB EVO versions 5.2.3 through before 5.7.0 contains a pre-authentication OS comman",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124002",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124002:2026-11-12T19:49"
-  },
-  {
-   "ts": "2026-11-12T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-0043 (CVSS 7.0)",
-   "body": "🚨 CVE-2025-0043 📢 Source: AMD 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Incorrect directory permissions within AMD Vivado ™ Lab Solutions could allow a local user-privil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-0043",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-0043:2026-11-12T19:49"
-  },
-  {
-   "ts": "2026-11-12T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2024-21954 (CVSS 7.0)",
-   "body": "🚨 CVE-2024-21954 📢 Source: AMD 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Improper exception handling in IOMMU could allow an invalidate command to be sent to PCIe devices",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2024-21954",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-21954:2026-11-12T19:19"
   }
  ]
 }
