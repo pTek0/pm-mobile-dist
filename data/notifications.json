@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-13T03:19:07+00:00",
+ "generated_at": "2026-11-13T03:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111342 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-111342 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in LDAP authentication can lead to unpredictable or erroneous behavior o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111342",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111342:2026-11-13T03:49"
+  },
+  {
+   "ts": "2026-11-13T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111341 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-111341 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in client-certificate authentication can lead to unpredictable or errone",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111341",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111341:2026-11-13T03:49"
+  },
+  {
+   "ts": "2026-11-13T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111340 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-111340 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in KBA (knowledge-based authentication) can lead to unpredictable or err",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111340",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111340:2026-11-13T03:49"
+  },
+  {
+   "ts": "2026-11-13T03:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107415 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-107415 📢 Source: NetScaler 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Memory overflow in Email OTP authentication can lead to unpredictable or erroneous b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107415",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107415:2026-11-13T03:49"
+  },
   {
    "ts": "2026-11-13T02:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2024-21954",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-21954:2026-11-12T19:19"
-  },
-  {
-   "ts": "2026-11-12T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18379 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-18379 📢 Source: redhat 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in yggdrasil-worker-package-manager. An authenticated attacker can exploit ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18379",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18379:2026-11-12T19:19"
-  },
-  {
-   "ts": "2026-11-12T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120467 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-120467 📢 Source: Joomla 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Joomla / WordPress Extension - acymailing.com - Subscriber identity not bound to the record",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120467",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120467:2026-11-12T18:49"
-  },
-  {
-   "ts": "2026-11-12T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120466 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-120466 📢 Source: Joomla 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Joomla / WordPress Extension - acymailing.com - Missing authorization on subscription chang",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120466",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120466:2026-11-12T18:19"
-  },
-  {
-   "ts": "2026-11-12T18:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-127063 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-127063 📢 Source: ConnectWise 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The third-party RMM+ extension for ConnectWise ScreenConnect uses a static API sec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127063",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127063:2026-11-12T18:19"
   }
  ]
 }
