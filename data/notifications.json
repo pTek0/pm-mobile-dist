@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-12T23:49:07+00:00",
+ "generated_at": "2026-11-13T00:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T00:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126982 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-126982 📢 Source: mongodb 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A type allow-list bypass in the BSON serialization library of the MongoDB C# Driver allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126982",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126982:2026-11-13T00:19"
+  },
+  {
+   "ts": "2026-11-13T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all",
+   "body": "Lemmy · technology · 점수 165",
+   "link": "https://mashable.com/tech/microsoft-outage-affecting-365-teams-outlook-copilot-nov-12-2026",
+   "source": "Lemmy · technology",
+   "id": "community:https://mashable.com/tech/microsoft-outage-affecting-365-teams-outlook-copilot-nov-12-2026:2026-11-13T00:19"
+  },
+  {
+   "ts": "2026-11-13T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] President Trump calls on Tim Cook to be next NVIDIA CEO - 9t",
+   "body": "Lemmy · technology · 점수 122",
+   "link": "https://9to5mac.com/2026/11/12/president-trump-calls-on-tim-cook-to-be-next-nvidia-ceo/",
+   "source": "Lemmy · technology",
+   "id": "community:https://9to5mac.com/2026/11/12/president-trump-calls-on-tim-cook-to-be-next-nvidia-ceo/:2026-11-13T00:19"
+  },
+  {
+   "ts": "2026-11-13T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a",
+   "body": "Lemmy · technology · 점수 93",
+   "link": "https://www.reuters.com./technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.reuters.com./technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/:2026-11-13T00:19"
+  },
+  {
+   "ts": "2026-11-13T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Jensen Huang To Step Down As Nvidia CEO Amid Affair Scandal",
+   "body": "Lemmy · technology · 점수 79",
+   "link": "https://www.huffpost.com/entry/jensen-huang-steps-down-nvidia_n_6af5c608e4b06534290580f1",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.huffpost.com/entry/jensen-huang-steps-down-nvidia_n_6af5c608e4b06534290580f1:2026-11-13T00:19"
+  },
+  {
+   "ts": "2026-11-13T00:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] LG facing a lawsuit in Portugal for alleged “domestic espion",
+   "body": "Lemmy · programming.dev · 점수 63",
+   "link": "https://executivedigest.sapo.pt/lg-enfrenta-acao-judicial-em-portugal-por-alegada-espionagem-domestica-atraves-de-televisoes/",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://executivedigest.sapo.pt/lg-enfrenta-acao-judicial-em-portugal-por-alegada-espionagem-domestica-atraves-de-televisoes/:2026-11-13T00:19"
+  },
   {
    "ts": "2026-11-12T23:49:06+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124698",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124698:2026-11-12T17:19"
-  },
-  {
-   "ts": "2026-11-12T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124697 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124697 📢 Source: ProgressSoftware 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Progress Kendo UI for jQuery, Chart shared-tooltip rendering treats bound cate",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124697",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124697:2026-11-12T17:19"
-  },
-  {
-   "ts": "2026-11-12T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124696 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124696 📢 Source: ProgressSoftware 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Progress Kendo UI for jQuery, Spreadsheet sheet names are inserted into the Sh",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124696",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124696:2026-11-12T17:19"
-  },
-  {
-   "ts": "2026-11-12T17:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-126837 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-126837 📢 Source: mongodb 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True A validation flaw in the DNS SRV host discovery of the MongoDB Node.js driver may caus",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126837",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126837:2026-11-12T17:19"
-  },
-  {
-   "ts": "2026-11-12T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121876 (CVSS 7.9)",
-   "body": "🚨 CVE-2026-121876 📢 Source: redhat 💣 CVSS Score: 7.9 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the interaction between systemd-gpt-auto-generator and confidential co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121876",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121876:2026-11-12T17:19"
-  },
-  {
-   "ts": "2026-11-12T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124695 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124695 📢 Source: ProgressSoftware 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Progress Kendo UI for jQuery Form, the items[].hint option is documented as a ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124695",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124695:2026-11-12T17:19"
-  },
-  {
-   "ts": "2026-11-12T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124691 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124691 📢 Source: ProgressSoftware 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Progress Kendo UI for jQuery Gantt, the task editor's Parent dropdown renders ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124691",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124691:2026-11-12T16:49"
   }
  ]
 }
