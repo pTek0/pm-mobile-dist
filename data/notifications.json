@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-13T17:49:07+00:00",
+ "generated_at": "2026-11-13T18:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97361 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-97361 📢 Source: B.Braun 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False There exists an improper privilege management vulnerability that could cause privilege esc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97361",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97361:2026-11-13T18:19"
+  },
+  {
+   "ts": "2026-11-13T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-97358 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-97358 📢 Source: B.Braun 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True An inclusion of web functionality from an untrusted source could allow remote code execution ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97358",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97358:2026-11-13T18:19"
+  },
+  {
+   "ts": "2026-11-13T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124680 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-124680 📢 Source: apache 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Interpretation Conflict, resulting in (Incorrect Authorization) vulnerability in Apache APISI",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124680",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124680:2026-11-13T18:19"
+  },
+  {
+   "ts": "2026-11-13T18:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124679 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-124679 📢 Source: apache 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: True Authentication bypass by spoofing vulnerability in Apache APISIX. On routes using jwe-decry",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124679",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124679:2026-11-13T18:19"
+  },
   {
    "ts": "2026-11-13T17:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124265",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124265:2026-11-13T15:19"
-  },
-  {
-   "ts": "2026-11-13T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124260 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124260 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124260",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124260:2026-11-13T15:19"
-  },
-  {
-   "ts": "2026-11-13T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120835 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-120835 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in VillaTheme AFFI – Affiliate Marketin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120835",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120835:2026-11-13T15:19"
-  },
-  {
-   "ts": "2026-11-13T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119517 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-119517 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119517",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119517:2026-11-13T15:19"
-  },
-  {
-   "ts": "2026-11-13T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119512 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-119512 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Tribulant Software Newsletters newsl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119512",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119512:2026-11-13T15:19"
   }
  ]
 }
