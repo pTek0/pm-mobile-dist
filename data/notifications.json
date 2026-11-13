@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-13T02:19:09+00:00",
+ "generated_at": "2026-11-13T02:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T02:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107414 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-107414 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in WebAuth authentication can lead to unpredictable or erroneous behavio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107414",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107414:2026-11-13T02:49"
+  },
+  {
+   "ts": "2026-11-13T02:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107413 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-107413 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in SAML authentication can lead to unpredictable or erroneous behavior o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107413",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107413:2026-11-13T02:49"
+  },
+  {
+   "ts": "2026-11-13T02:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-107412 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-107412 📢 Source: NetScaler 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True Multiple Memory overflow vulnerabilities can lead to unpredictable or erroneous beha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107412",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107412:2026-11-13T02:49"
+  },
+  {
+   "ts": "2026-11-13T02:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107411 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-107411 📢 Source: NetScaler 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Memory overflow in RTSP ALG can lead to unpredictable or erroneous behavior or Denial of",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107411",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107411:2026-11-13T02:49"
+  },
   {
    "ts": "2026-11-13T02:19:08+00:00",
    "level": "important",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-127063",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127063:2026-11-12T18:19"
-  },
-  {
-   "ts": "2026-11-12T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118495 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-118495 📢 Source: Joomla 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Joomla / WordPress Extension - acymailing.com - Exposure of sensitive information to an una",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118495",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118495:2026-11-12T18:19"
-  },
-  {
-   "ts": "2026-11-12T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-127204 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-127204 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True WooCommerce PayPal Pro Payment Gateway plugin before 4.1.1 contains an unauthenticated p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127204",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127204:2026-11-12T18:19"
-  },
-  {
-   "ts": "2026-11-12T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119275 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-119275 📢 Source: Fluid Attacks 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Akaunting 3.3.0 contains a stored cross-site scripting vulnerability in the XLSX invoi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119275",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119275:2026-11-12T17:49"
-  },
-  {
-   "ts": "2026-11-12T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124702 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-124702 📢 Source: ProgressSoftware 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In Telerik UI for WPF, versions prior to 2026.4.1110, an untrusted URL redirecti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124702",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124702:2026-11-12T17:49"
   }
  ]
 }
