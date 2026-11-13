@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-13T17:19:07+00:00",
+ "generated_at": "2026-11-13T17:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-13T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123177 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-123177 📢 Source: redhat 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False A flaw was found in dnf5daemon-server. Unauthenticated D-Bus methods pass caller-controlle",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123177",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123177:2026-11-13T17:49"
+  },
+  {
+   "ts": "2026-11-13T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129153 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129153 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True SurveyKing 1.12.0 through 1.13.2 contains an authorization bypass in the linked survey f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129153",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129153:2026-11-13T17:49"
+  },
+  {
+   "ts": "2026-11-13T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129151 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-129151 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SurveyKing 1.13.2 contains a missing authorization vulnerability in result lookup: the a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129151",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129151:2026-11-13T17:49"
+  },
+  {
+   "ts": "2026-11-13T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129143 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-129143 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True paicoding 1.0.3 contains a missing authorization vulnerability in the ArticleRestControl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129143",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129143:2026-11-13T17:49"
+  },
+  {
+   "ts": "2026-11-13T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129139 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-129139 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True paicoding from commit b8206b9 through commit 903adce uses predictable credentials for ac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129139",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129139:2026-11-13T17:49"
+  },
   {
    "ts": "2026-11-13T17:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119512",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119512:2026-11-13T15:19"
-  },
-  {
-   "ts": "2026-11-13T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103769 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-103769 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Acowebs PDF Invoices and Packing Sli",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103769",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103769:2026-11-13T15:19"
-  },
-  {
-   "ts": "2026-11-13T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-128990 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-128990 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False xschem 2.9.9 through 3.4.7 contains a heap out-of-bounds write vulnerability in read_da",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128990",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128990:2026-11-13T15:19"
-  },
-  {
-   "ts": "2026-11-13T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123975 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-123975 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Grid Community Toolkit before 6.2.20261111 (globus-gss-assist before 12.9) contains a he",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123975",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123975:2026-11-13T15:19"
-  },
-  {
-   "ts": "2026-11-13T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109092 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-109092 📢 Source: suse 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Incorrectly handled negative sizes when processing ProcXvShmPutImage requests in the X.Org x",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109092",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109092:2026-11-13T15:19"
-  },
-  {
-   "ts": "2026-11-13T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107522 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-107522 📢 Source: dell 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an Improper Authorization vulnerability. An authenticated user could",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107522",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107522:2026-11-13T15:19"
   }
  ]
 }
