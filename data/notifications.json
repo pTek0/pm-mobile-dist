@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-13T23:49:07+00:00",
+ "generated_at": "2026-11-14T00:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-14T00:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Hua",
+   "body": "Lemmy · technology · 점수 185",
+   "link": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
+   "source": "Lemmy · technology",
+   "id": "community:https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/:2026-11-14T00:19"
+  },
+  {
+   "ts": "2026-11-14T00:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A technical vision for the Haskell ecosystem",
+   "body": "Hacker News · 점수 161",
+   "link": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+   "source": "Hacker News",
+   "id": "community:https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078:2026-11-14T00:19"
+  },
+  {
+   "ts": "2026-11-14T00:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Big tech is here to let us down",
+   "body": "Hacker News · 점수 157",
+   "link": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
+   "source": "Hacker News",
+   "id": "community:https://blog.jsweeting.me/big-tech-is-here-to-let-us-down:2026-11-14T00:19"
+  },
+  {
+   "ts": "2026-11-14T00:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Japanese workers return to fax machines during ongoing Micro",
+   "body": "Lemmy · technology · 점수 151",
+   "link": "https://www.tomshardware.com/software/japanese-workers-return-to-fax-machines-during-ongoing-microsoft-365-outage-were-going-full-analog-say-workers-forced-to-ditch-pdfs",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.tomshardware.com/software/japanese-workers-return-to-fax-machines-during-ongoing-microsoft-365-outage-were-going-full-analog-say-workers-forced-to-ditch-pdfs:2026-11-14T00:19"
+  },
+  {
+   "ts": "2026-11-14T00:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] No AI Slop: A Manifesto",
+   "body": "Hacker News · 점수 142",
+   "link": "https://www.slopmanifesto.com/",
+   "source": "Hacker News",
+   "id": "community:https://www.slopmanifesto.com/:2026-11-14T00:19"
+  },
   {
    "ts": "2026-11-13T23:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-95615",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95615:2026-11-13T16:19"
-  },
-  {
-   "ts": "2026-11-13T16:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-95614 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-95614 📢 Source: Zenitel 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False The host configuration watcher in Zenitel Connect before 1.11.0 applies a rsyslog conf",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95614",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95614:2026-11-13T16:19"
-  },
-  {
-   "ts": "2026-11-13T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95613 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-95613 📢 Source: Zenitel 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True The pREST database REST API in Zenitel Connect firmware before 1.11.0 signs and verifies JW",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95613",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95613:2026-11-13T16:19"
-  },
-  {
-   "ts": "2026-11-13T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95379 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-95379 📢 Source: Zenitel 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Path traversal in the certificate.deleteCertificate JSON-RPC method (POST /api/rpc) of the tu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95379",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95379:2026-11-13T16:19"
-  },
-  {
-   "ts": "2026-11-13T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95378 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-95378 📢 Source: Zenitel 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Path traversal in the certificate upload endpoint (/api/certificate/upload) of the turbinew",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95378",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95378:2026-11-13T16:19"
-  },
-  {
-   "ts": "2026-11-13T16:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-95377 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-95377 📢 Source: Zenitel 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False OS command injection in the TFTP provisioning module of Zenitel EdgeAudioClient before",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95377",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95377:2026-11-13T16:19"
   }
  ]
 }
