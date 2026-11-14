@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-14T06:49:09+00:00",
+ "generated_at": "2026-11-14T07:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-14T07:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129319 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-129319 📢 Source: harborist 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True create-ecdh is a browserifiable implementation of Node.js crypto.createECDH. In versions",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129319",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129319:2026-11-14T07:19"
+  },
   {
    "ts": "2026-11-14T01:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129118",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129118:2026-11-13T16:49"
-  },
-  {
-   "ts": "2026-11-13T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129117 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-129117 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True C-Kermit 8.0.200 before 11.1.515 contains an improper certificate validation vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129117",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129117:2026-11-13T16:49"
   }
  ]
 }
