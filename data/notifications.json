@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-14T12:19:07+00:00",
+ "generated_at": "2026-11-14T12:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-14T12:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129433 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-129433 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Dokploy before 0.31.1 contains an OS command injection vulnerability in getComposeCo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129433",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129433:2026-11-14T12:49"
+  },
+  {
+   "ts": "2026-11-14T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129432 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129432 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Ettercap through 0.8.5.1 contains a heap out-of-bounds read vulnerability in dissector_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129432",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129432:2026-11-14T12:49"
+  },
+  {
+   "ts": "2026-11-14T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129431 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129431 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Ettercap through 0.8.5.1 contains a heap out-of-bounds read vulnerability in dissector_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129431",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129431:2026-11-14T12:49"
+  },
+  {
+   "ts": "2026-11-14T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129429 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129429 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Frappe india-payroll before 16.0.4 contains a missing authorization vulnerability in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129429",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129429:2026-11-14T12:49"
+  },
   {
    "ts": "2026-11-14T12:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129153",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129153:2026-11-13T17:49"
-  },
-  {
-   "ts": "2026-11-13T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129151 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-129151 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SurveyKing 1.13.2 contains a missing authorization vulnerability in result lookup: the a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129151",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129151:2026-11-13T17:49"
-  },
-  {
-   "ts": "2026-11-13T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129143 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-129143 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True paicoding 1.0.3 contains a missing authorization vulnerability in the ArticleRestControl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129143",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129143:2026-11-13T17:49"
-  },
-  {
-   "ts": "2026-11-13T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129139 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-129139 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True paicoding from commit b8206b9 through commit 903adce uses predictable credentials for ac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129139",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129139:2026-11-13T17:49"
-  },
-  {
-   "ts": "2026-11-13T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-63167 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-63167 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Omnispace Agora Project through 26.10.0 contains a SQL injection vulnerability that allow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63167",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63167:2026-11-13T17:19"
   }
  ]
 }
