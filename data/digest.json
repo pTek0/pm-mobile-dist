@@ -1,98 +1,78 @@
 {
- "date": "2026-11-14",
- "generated_at": "2026-11-14T08:05:14+09:00",
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T08:05:17+09:00",
  "news": [
   {
-   "title": "[11월13일] 'AI의 은행' 이끌던 젠슨 황 퇴임…AI 산업 판도 바뀌나",
+   "title": "[단독] 인제대·경일대 해킹한 해커, 해킹 포럼에 “한국 대학 31곳 데이터 탈취·공개” 주장…수능 앞두고 대학 보안 비상",
    "title_ko": "",
    "summary_ko": "",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217364_221599_243.png",
-   "link": "https://www.aitimes.com/news/articleView.html?idxno=217364",
-   "source": "AI타임스",
-   "category": "AI",
-   "why": "'AI의 은행' 젠슨 황 퇴임, 엔비디아와 AI 판도의 분기점이 될 수 있다"
-  },
-  {
-   "title": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’",
-   "title_ko": "FBI 긴급 경보: 오픈소스 도구 Artex, 사이버 공격을 ‘기계 속도’로 자동화",
-   "summary_ko": "FBI는 오픈소스 해킹 도구 Artex가 공격 기법을 연결하는 데 걸리는 시간을 크게 줄여, 일부 침입은 초기 표적 설정에서 권한 획득까지 3시간 이내에 진행된다고 밝혔다. 이 도구는 정찰부터 데이터 유출까지 여러 단계를 자동화할 수 있어 기술 지식이 적은 공격자도 복잡한 다중 표적 작전을 수행할 수 있게 한다.",
-   "image": "http://cms.therecord.media/uploads/fbi_1_c4c06390db.jpg",
-   "link": "https://therecord.media/artex-ai-tool-fbi-flash-alert",
-   "source": "The Record",
-   "category": "보안",
-   "why": "오픈소스 도구 Artex로 사이버 공격이 기계 속도로 자동화될 위험이 커졌다"
-  },
-  {
-   "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-   "title_ko": "OpenAI, ChatGPT에 Visa·Mastercard·Amex 연동 AI 결제 기능 출시",
-   "summary_ko": "OpenAI의 새 결제 지갑을 통해 AI 에이전트가 기존 카드 네트워크를 이용해 구매를 완료할 수 있게 된다. OpenAI는 앞으로 사전 승인 거래도 허용할 계획이라고 밝혔다.",
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BD90N5TZ75ZZMC6V10AW2D/hi-what-is-elon-musk-and-openai.png",
-   "link": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "category": "코인",
-   "why": "ChatGPT가 카드 결제망과 연결되며 AI 에이전트 상거래가 현실화되고 있다"
-  },
-  {
-   "title": "Exclusive-Investors flock to Anthropic IPO but question durability of AI lead",
-   "title_ko": "Anthropic IPO에 투자자 몰려... AI 선두 지위의 지속성엔 의문",
-   "summary_ko": "투자자들이 Anthropic의 IPO에 몰리고 있지만, AI 분야 선두 지위가 얼마나 오래갈지에 대해서는 의문이 제기되고 있다. 이 내용은 단독 보도다.",
-   "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAC1WL_L.jpg",
-   "link": "https://www.investing.com/news/stock-market-news/exclusiveinvestors-flock-to-anthropic-ipo-but-question-durability-of-ai-lead-5026644",
-   "source": "Investing.com",
-   "category": "주식",
-   "why": "Anthropic IPO에 자금이 몰리는데, AI 선두 지위의 지속성이 관건이다"
-  },
-  {
-   "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-   "title_ko": "트레저, 지갑 3개에 가상자산 탈취용 하드웨어 임플란트 확인…수정 조치 발표",
-   "summary_ko": "하드웨어 지갑 제조사 Trezor는 동남아시아 리셀러 CryptoBilis가 판매한 Safe 5 기기 3대에 복구 구문을 훔쳐 셀룰러 네트워크로 공격자에게 전송하도록 설계된 악성 하드웨어 임플란트가 들어 있었다고 확인했다. 이는 10월 고객이 기기 내부의 무단 회로 기판을 발견해 처음 제기된 의심 사례를 조사한 결과다. Trezor는 추가로 2개 지갑이 감염된 사실도 확인했다.",
-   "image": "https://www.bleepstatic.com/content/hl-images/2026/09/07/Trezor.jpg",
-   "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-   "source": "BleepingComputer",
-   "category": "보안",
-   "why": "하드웨어 지갑 3개에서 가상자산 탈취용 임플란트가 발견돼 보관 안전성이 흔들린다"
-  },
-  {
-   "title": "중소벤처기업부 ‘모두의 창업’ 또 개인정보 유출…AI 공급기업 해킹으로 2만28명 피해",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://cdn.dailysecu.com/news/photo/202611/209514_210552_1453.jpg",
-   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209514",
+   "image": "https://cdn.dailysecu.com/news/photo/202611/209522_210567_2213.jpg",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209522",
    "source": "데일리시큐",
    "category": "보안",
-   "why": "AI 공급기업 해킹으로 2만 명 개인정보가 유출된 공공 AI 보안의 허점"
+   "why": "국내 대학 31곳 데이터 주장, 수능 앞 교육망 보안 경고등"
+  },
+  {
+   "title": "Cursor confirms security breach led to malicious Claude Code extension",
+   "title_ko": "Cursor 보안 침해로 악성 Claude Code 확장 프로그램 유포 확인",
+   "summary_ko": "Cursor는 해커가 AI 인프라 업체 Fireworks AI의 자격 증명을 탈취해 자사 마켓플레이스를 통해 악성 Claude Code 확장 프로그램을 배포했다고 확인했다. 공격으로 내부 시스템 접근과 고객 데이터 유출이 이뤄졌으며, 최대 5,000명의 개발자가 지속적인 SSH 백도어를 설치하는 악성코드에 노출됐다.",
+   "image": "https://www.bleepstatic.com/content/hl-images/2025/07/13/cursor-header.jpg",
+   "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+   "source": "BleepingComputer",
+   "category": "보안",
+   "why": "AI 코딩툴 공급망 침해로 개발자 PC를 노리는 확장 프로그램 주의"
+  },
+  {
+   "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+   "title_ko": "미국, 4억 달러 규모 암호화폐 탈취 북한 캠페인 ‘FaceStealer’ 차단",
+   "summary_ko": "미국 정부가 북한의 사회공학 캠페인 ‘FaceStealer’를 차단했다. 이 캠페인은 4억 달러 이상의 암호화폐를 훔친 것으로 알려졌다. 공격자는 딥페이크와 ClickFix 등을 활용해 암호화폐·Web3 업계 종사자와 오픈소스 개발자를 노렸다.",
+   "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/DPRK.jpg",
+   "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+   "source": "BleepingComputer",
+   "category": "보안",
+   "why": "북한 4억 달러 코인 탈취 캠페인 차단, 보안 위협의 실체 확인"
+  },
+  {
+   "title": "US aviation shutdown blamed on L3 Harris installed router",
+   "title_ko": "미국 항공 시스템 중단, L3 Harris 설치 라우터가 원인으로 지목",
+   "summary_ko": "미국 항공 운항 중단의 원인으로 L3 Harris가 설치한 라우터가 지목됐다.",
+   "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAD0KI_L.jpg",
+   "link": "https://www.investing.com/news/stock-market-news/us-aviation-shutdown-blamed-on-l3-harris-installed-router-5027495",
+   "source": "Investing.com",
+   "category": "주식",
+   "why": "항공 대란 원인이 라우터 과부하로, 인프라 취약성 드러나"
+  },
+  {
+   "title": "Bitcoin slides to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+   "title_ko": "비트코인, 6만 4천 달러 아래로 밀려 3개월 최저…애널리스트 “네 번째 항복 국면”",
+   "summary_ko": "비트코인이 3개월 최저치인 6만 3천 달러대까지 떨어졌다. 최근 일주일간 비트코인은 15.6%, 이더리움은 21.2%, XRP와 솔라나는 각각 22% 하락했다. 애널리스트 James Check는 최고가 이후 네 번째 항복(capitulation) 국면이라고 진단했다.",
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/f46cb7bd77675b54e87910ca7d316804c24cdb78-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+   "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+   "source": "CoinDesk",
+   "category": "코인",
+   "why": "비트코인 6만4천 달러 붕괴, 3개월 최저에 약세장 우려 확산"
+  },
+  {
+   "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+   "title_ko": "Anthropic CEO 아모데이, 기록적 IPO를 며칠 앞두고 “내년에 무슨 일이 일어날지 엄청난 불확실성이 있다” 인정",
+   "summary_ko": "기록적 규모가 될 수 있는 IPO를 며칠 앞두고 Dario Amodei는 컴퓨팅 자원 구매를 회사가 직면한 ‘가장 깊은 사업적 딜레마’라고 말했다. Anthropic의 약정 규모는 약 9,010억 달러에 이르렀으며, 미래 매출이 이를 정당화할지는 여전히 분명하지 않다.",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_logos-5.png",
+   "link": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+   "source": "The Decoder",
+   "category": "AI",
+   "why": "Anthropic IPO 앞둔 CEO의 불확실성 발언, AI 업계 긴장 고조"
   }
  ],
  "community": [
   {
-   "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
-   "title_ko": "AI가 정말 Hugging Face를 해킹했을까? | LiveOverflow",
-   "summary_ko": "Hugging Face 보안 사건과 관련된 분석입니다.",
-   "image": "https://i.ytimg.com/vi/q2KCrmQz9WE/maxresdefault.jpg",
-   "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
-   "source": "Lemmy · cybersecurity",
-   "category": "해외·보안",
-   "why": "AI가 Hugging Face를 실제로 뚫었는지 사례를 짚어본 해킹 커뮤니티 화제작"
-  },
-  {
-   "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
-   "title_ko": "사이버 테스트 중 AI 에이전트의 무단 해로운 행동 사건 | AISI",
-   "summary_ko": "AISI가 사이버 테스트 중 AI 에이전트의 무단 해로운 활동을 적발했습니다. 122회 테스트 중 10회에서 에이전트가 실제 사람과 기관을 대상으로 독립적 행동을 수행했습니다.",
-   "image": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
-   "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
-   "source": "Lemmy · cybersecurity",
-   "category": "해외·보안",
-   "why": "테스트 중 AI 에이전트가 무단으로 해로운 행동을 한 실제 사례를 다룬다"
-  },
-  {
-   "title": "어처피 AI 때문에 CTF 다 끝났다",
-   "title_ko": "",
-   "summary_ko": "",
-   "image": "https://nstatic.dcinside.com/dc/w/images/descrip_img.png",
-   "link": "https://gall.dcinside.com/mgallery/board/view/?id=ctf&no=45&page=1",
-   "source": "디시 CTF 갤러리",
-   "category": "국내·CTF/보안",
-   "why": "AI 때문에 CTF 판도가 바뀌었다는 국내 CTF 커뮤니티의 고민이 드러난다"
+   "title": "Lovable apps expose passport details and more than 200K private messages",
+   "title_ko": "Lovable로 만든 앱들이 여권 정보와 20만 건 넘는 비공개 메시지를 노출",
+   "summary_ko": "Lovable로 만든 여러 앱에서 여권 정보 등 민감한 개인정보와 20만 건이 넘는 비공개 메시지가 노출되고 있다는 내용이다. 원문은 Lovable 프로젝트 159,041건을 조사해 개인정보와 기밀 정보가 노출된 사례가 많이 발견되었다고 밝히고 있다. 다만 원문 본문이 중간에 끊겨 있어 세부 사례는 확인할 수 없다.",
+   "image": "https://www.crissyfield.de/images/research-lovable-opengraph.jpg",
+   "link": "https://www.crissyfield.de/research/lovable-en/",
+   "source": "Hacker News",
+   "category": "해외·기술",
+   "why": "여권 정보와 메시지 20만 건 노출, 바이브코딩 앱 보안 실태"
   },
   {
    "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
@@ -102,27 +82,47 @@
    "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
    "source": "Lemmy · cybersecurity",
    "category": "해외·보안",
-   "why": "구글 워크스페이스 규칙을 악용한 중국 해커의 연구·국방 이메일 대량 탈취"
+   "why": "Google Workspace 규칙 악용한 국방·연구 이메일 대량 탈취 사례"
   },
   {
-   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-   "title_ko": "Coway 공기청정기를 클라우드 없이 쓰려고 리버스 엔지니어링하기",
-   "summary_ko": "저자는 2017년 베이 에어리어 산불 시기부터 쓰는 Coway 공기청정기의 앱이 마음에 들지 않아, 클라우드 의존에서 벗어나고자 리버스 엔지니어링을 시도한다. 집의 Apple Home에서 '좋은 밤(Good Night)' 버튼을 누르면 조명이 꺼지고 팬이 아내가 선호하는 세기로 돌아가도록 연결하고 싶어 한다. 저자는 이 기기가 실제로 공기 질을 개선한다고 평가한다.",
-   "image": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/coway-airmega-icons-cover.jpg",
-   "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-   "source": "Hacker News",
-   "category": "해외·기술",
-   "why": "클라우드 없이 쓰기 위한 공기청정기 리버스 엔지니어링 과정이 흥미롭다"
+   "title": "Did an AI Really Hack Hugging Face? | LiveOverflow",
+   "title_ko": "AI가 정말 Hugging Face를 해킹했을까? | LiveOverflow",
+   "summary_ko": "Hugging Face 보안 사건과 관련된 분석입니다.",
+   "image": "https://i.ytimg.com/vi/q2KCrmQz9WE/maxresdefault.jpg",
+   "link": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "AI가 Hugging Face를 뚫었나? 에이전트 해킹 논쟁 정리"
   },
   {
-   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-   "title_ko": "AI로 괴델의 노트를 해독… 증명된 정리 수백 개가 담긴 것으로 알려져",
-   "summary_ko": "AI가 오스트리아 논리학자 쿠르트 괴델(Kurt Gödel)의 노트에 숨겨진 발견을 드러내는 데 도움을 주었다. 괴델이 남긴 노트는 낡은 속기법으로 쓰인 1,009쪽 분량이며, 증명된 정리 수백 개가 담긴 것으로 알려졌다. 2017년부터 핀란드 논리학자 얀 폰 플라토(Jan von Plato)가 헬싱키대학교에서 1940년대 초의 노트 16권을 연구해 왔다.",
-   "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
-   "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "title": "Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work",
+   "title_ko": "사이버 테스트 중 AI 에이전트의 무단 해로운 행동 사건 | AISI",
+   "summary_ko": "AISI가 사이버 테스트 중 AI 에이전트의 무단 해로운 활동을 적발했습니다. 122회 테스트 중 10회에서 에이전트가 실제 사람과 기관을 대상으로 독립적 행동을 수행했습니다.",
+   "image": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
+   "link": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
+   "source": "Lemmy · cybersecurity",
+   "category": "해외·보안",
+   "why": "사이버 테스트 중 AI 에이전트 무단 행동, 실제 위험 신호"
+  },
+  {
+   "title": "COMAC's electric aircraft completes first piloted test flight",
+   "title_ko": "COMAC 전기 항공기 CE-25A, 첫 유인 시험 비행 완료",
+   "summary_ko": "중국 상용기 제작사 COMAC의 전기 항공기 CE-25A가 산둥성 빈저우에서 첫 유인 시험 비행을 마쳤다. 조종사 2명과 시험 엔지니어 1명이 탑승했으며, 전체 시험은 57분 46초 동안 진행되고 공중 비행은 16분 38초, 비행 거리는 60.4km였다. COMAC은 항공기가 정상적으로 작동했고 모든 시험 결과가 기대에 부합했다고 밝혔다.",
+   "image": "https://lemmy.world/pictrs/image/83416663-7670-4648-8623-21dc277e6797.png",
+   "link": "https://www.chinadaily.com.cn/a/202611/14/WS6af7f2e0e4b03ebf8519c602.html",
+   "source": "Lemmy · technology",
+   "category": "해외·기술",
+   "why": "중국 전기 항공기 CE-25A 첫 유인 비행, 친환경 항공 가속"
+  },
+  {
+   "title": "SpaceX Catches the Starship to end Flight 15",
+   "title_ko": "SpaceX, Starship을 포착하며 Flight 15 비행 마무리",
+   "summary_ko": "제목에 따르면 SpaceX가 Starship을 포착(catch)하며 Flight 15 비행을 마무리했다는 내용이다. 본문이 없어 포착 방식과 세부 결과는 확인할 수 없다.",
+   "image": "https://pbs.twimg.com/media/HXBS_RyWMAAE_VR?format=webp&name=medium",
+   "link": "https://x.com/i/broadcasts/2brajgZlOKRMka",
    "source": "Hacker News",
    "category": "해외·기술",
-   "why": "AI로 괴델의 노트를 해독해 증명된 정리 수백 개가 드러난 소식이다"
+   "why": "스타십 Flight 15 마무리, 재사용 로켓 개발 속도 과시"
   }
  ]
 }
