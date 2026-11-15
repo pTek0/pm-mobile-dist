@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-15T09:19:08+00:00",
+ "generated_at": "2026-11-15T09:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-15T09:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129349 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-129349 📢 Source: apache 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True When authentication caching is enabled on DefaultLdapRealm, after a user logs in succes",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129349",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129349:2026-11-15T09:49"
+  },
   {
    "ts": "2026-11-15T02:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
    "source": "Hacker News",
    "id": "community:https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078:2026-11-14T00:19"
-  },
-  {
-   "ts": "2026-11-14T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Big tech is here to let us down",
-   "body": "Hacker News · 점수 157",
-   "link": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
-   "source": "Hacker News",
-   "id": "community:https://blog.jsweeting.me/big-tech-is-here-to-let-us-down:2026-11-14T00:19"
   }
  ]
 }
