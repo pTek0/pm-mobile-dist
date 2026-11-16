@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-11-16T14:19:07+00:00",
+ "generated_at": "2026-11-16T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-16T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129865 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129865 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Dinky through 1.2.5 contains a missing authorization vulnerability in DataSourceControll",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129865",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129865:2026-11-16T14:49"
+  },
+  {
+   "ts": "2026-11-16T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129864 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129864 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Frappe CRM before 1.84.0 contains a missing authorization vulnerability in the get_deal_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129864",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129864:2026-11-16T14:49"
+  },
+  {
+   "ts": "2026-11-16T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129863 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129863 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True GitBucket through 4.48.0 contains an incorrect authorization vulnerability that allows a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129863",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129863:2026-11-16T14:49"
+  },
+  {
+   "ts": "2026-11-16T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129857 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-129857 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Microsoft jxrlib through 1.1 and the mircomir jxrlib fork before 1.3.1 contain a heap b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129857",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129857:2026-11-16T14:49"
+  },
+  {
+   "ts": "2026-11-16T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129855 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-129855 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False RedAmon before 7.8.0 contains a missing authentication vulnerability in the kali-sandbo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129855",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129855:2026-11-16T14:49"
+  },
+  {
+   "ts": "2026-11-16T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129854 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-129854 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True RedAmon 4.0.0 before 7.8.0 contains a missing object-level authorization vulnerability t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129854",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129854:2026-11-16T14:49"
+  },
+  {
+   "ts": "2026-11-16T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129853 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-129853 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True LimeSurvey before 6.17.16+260814 and 7.x before 7.0.10+260813 contains an unauthenticate",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129853",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129853:2026-11-16T14:49"
+  },
+  {
+   "ts": "2026-11-16T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127044 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-127044 📢 Source: INCIBE 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Insecure direct object reference (IDOR) in the STEL Order Tempo module. The server retrieve",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127044",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127044:2026-11-16T14:49"
+  },
+  {
+   "ts": "2026-11-16T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127043 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-127043 📢 Source: INCIBE 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Insecure direct object reference (IDOR) in the myGESTIÓN Time Tracking module. The server s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127043",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127043:2026-11-16T14:49"
+  },
   {
    "ts": "2026-11-16T13:49:07+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
    "source": "Lemmy · technology",
    "id": "community:https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html:2026-11-16T00:19"
-  },
-  {
-   "ts": "2026-11-16T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A short explainer on how El Niño works [video]",
-   "body": "Hacker News · 점수 130",
-   "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-   "source": "Hacker News",
-   "id": "community:https://www.youtube.com/watch?v=7_JF3etiAv8:2026-11-16T00:19"
-  },
-  {
-   "ts": "2026-11-16T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft Word Changes Could Break Formatting in Older Docum",
-   "body": "Lemmy · technology · 점수 81",
-   "link": "https://windowsreport.com/microsoft-word-changes-could-break-formatting-in-older-documents-starting-december-2026/",
-   "source": "Lemmy · technology",
-   "id": "community:https://windowsreport.com/microsoft-word-changes-could-break-formatting-in-older-documents-starting-december-2026/:2026-11-16T00:19"
-  },
-  {
-   "ts": "2026-11-15T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Eric Trump-backed robot soldier startup can’t pay staff afte",
-   "body": "Lemmy · technology · 점수 278",
-   "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html:2026-11-15T23:49"
-  },
-  {
-   "ts": "2026-11-15T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Meta and TikTok Have Been Secretly Paying Millions of Dollar",
-   "body": "Lemmy · technology · 점수 252",
-   "link": "https://futurism.com/health-medicine/meta-tiktok-secretly-paying-off-teens",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/health-medicine/meta-tiktok-secretly-paying-off-teens:2026-11-15T23:49"
-  },
-  {
-   "ts": "2026-11-15T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Why did some Apollo missions carry a grenade launcher? (2019",
-   "body": "Hacker News · 점수 213",
-   "link": "https://space.stackexchange.com/questions/37775",
-   "source": "Hacker News",
-   "id": "community:https://space.stackexchange.com/questions/37775:2026-11-15T23:49"
-  },
-  {
-   "ts": "2026-11-15T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Understanding Positional Embeddings in Modern LLMs",
-   "body": "Hacker News · 점수 184",
-   "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-   "source": "Hacker News",
-   "id": "community:https://magazine.sebastianraschka.com/p/understanding-positional-embeddings:2026-11-15T23:49"
-  },
-  {
-   "ts": "2026-11-15T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Things That Turbo Pascal Is Smaller Than (2011)",
-   "body": "Hacker News · 점수 178",
-   "link": "https://prog21.dadgum.com/116.html",
-   "source": "Hacker News",
-   "id": "community:https://prog21.dadgum.com/116.html:2026-11-15T23:49"
-  },
-  {
-   "ts": "2026-11-15T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] All AI-generated code should be Open Source",
-   "body": "Hacker News · 점수 1015",
-   "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-   "source": "Hacker News",
-   "id": "community:https://jakub.jankiewicz.org/blog/ai-code-open-source/:2026-11-15T23:19"
-  },
-  {
-   "ts": "2026-11-15T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The MacBook Pro's OLED PWM problem",
-   "body": "Hacker News · 점수 374",
-   "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-   "source": "Hacker News",
-   "id": "community:https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/:2026-11-15T23:19"
   }
  ]
 }
