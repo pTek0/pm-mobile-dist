@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-16T18:49:08+00:00",
+ "generated_at": "2026-11-16T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-16T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101327 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-101327 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DLL placed in a predictable, attacker-writable temporary directory",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101327",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101327:2026-11-16T19:19"
+  },
   {
    "ts": "2026-11-16T18:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://burntsushi.net/jiff/",
    "source": "Lobsters",
    "id": "community:https://burntsushi.net/jiff/:2026-11-16T11:49"
-  },
-  {
-   "ts": "2026-11-16T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Reports of AI-related child sexual abuse material rise 8,400",
-   "body": "Lemmy · technology · 점수 76",
-   "link": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes:2026-11-16T11:49"
   }
  ]
 }
