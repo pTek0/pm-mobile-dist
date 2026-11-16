@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-16T11:49:08+00:00",
+ "generated_at": "2026-11-16T12:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-16T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116288 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-116288 📢 Source: Octopus 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, a user with permission to edit team scoped roles c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116288",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116288:2026-11-16T12:19"
+  },
+  {
+   "ts": "2026-11-16T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-21153 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-21153 📢 Source: SamsungMobile 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Stack-based buffer overflow in libsecuibc.so prior to SMR Nov-2026 Release 1 allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21153",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21153:2026-11-16T12:19"
+  },
+  {
+   "ts": "2026-11-16T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-21152 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-21152 📢 Source: SamsungMobile 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Improper input validation in libMyFilterPlugin.camera.samsung.so prior to SMR Nov-2026",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21152",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21152:2026-11-16T12:19"
+  },
+  {
+   "ts": "2026-11-16T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-21151 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-21151 📢 Source: SamsungMobile 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False Improper privilege management in TransitionPlayer prior to SMR Nov-2026 Release 1 al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21151",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21151:2026-11-16T12:19"
+  },
+  {
+   "ts": "2026-11-16T12:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The Chinese spy allegation that toppled Nvidia's CEO is star",
+   "body": "Lemmy · technology · 점수 70",
+   "link": "https://www.businessinsider.com/intelligence-jensen-huang-downfall-shaky-nvidia-china-spy-gpus-2026-11",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.businessinsider.com/intelligence-jensen-huang-downfall-shaky-nvidia-china-spy-gpus-2026-11:2026-11-16T12:19"
+  },
+  {
+   "ts": "2026-11-16T12:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] MediEvil Is Back From the Dead on PC, and Its Developers Wan",
+   "body": "Lemmy · technology · 점수 65",
+   "link": "https://gardinerbryant.com/medievil-is-back-from-the-dead-on-pc/",
+   "source": "Lemmy · technology",
+   "id": "community:https://gardinerbryant.com/medievil-is-back-from-the-dead-on-pc/:2026-11-16T12:19"
+  },
+  {
+   "ts": "2026-11-16T12:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Memory management in 40 major C projects, a survey",
+   "body": "Lobsters · 점수 54",
+   "link": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html",
+   "source": "Lobsters",
+   "id": "community:https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html:2026-11-16T12:19"
+  },
   {
    "ts": "2026-11-16T11:49:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-125817",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125817:2026-11-15T19:19"
-  },
-  {
-   "ts": "2026-11-15T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125804 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-125804 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125804",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125804:2026-11-15T19:19"
-  },
-  {
-   "ts": "2026-11-15T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125798 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-125798 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125798",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125798:2026-11-15T19:19"
-  },
-  {
-   "ts": "2026-11-15T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125760 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-125760 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125760",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125760:2026-11-15T19:19"
-  },
-  {
-   "ts": "2026-11-15T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-128893 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-128893 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128893",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128893:2026-11-15T15:19"
-  },
-  {
-   "ts": "2026-11-15T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125799 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-125799 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Insertion of Sensitive Information into Externally-Accessible File or Directory vulnera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125799",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125799:2026-11-15T15:19"
-  },
-  {
-   "ts": "2026-11-15T15:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-125795 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-125795 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Rem",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125795",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125795:2026-11-15T15:19"
-  },
-  {
-   "ts": "2026-11-15T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125793 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-125793 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125793",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125793:2026-11-15T15:19"
   }
  ]
 }
