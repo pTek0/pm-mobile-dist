@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-16T22:19:08+00:00",
+ "generated_at": "2026-11-16T22:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-16T22:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130327 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-130327 📢 Source: mitre 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False In Open Object Rexx (ooRexx) before 5.2.0, RXAPI relies on a world-writable /tmp file u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130327",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130327:2026-11-16T22:49"
+  },
+  {
+   "ts": "2026-11-16T22:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130320 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-130320 📢 Source: mitre 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False In Open Object Rexx (ooRexx) before 5.2.0, RXAPI mishandles nameArg and userid bounds c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130320",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130320:2026-11-16T22:49"
+  },
   {
    "ts": "2026-11-16T22:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19732",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19732:2026-11-16T12:49"
-  },
-  {
-   "ts": "2026-11-16T12:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111559 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-111559 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Batflat CMS does not sanitize data passed to the /contact endpoint. A remote unauthent",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111559",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111559:2026-11-16T12:49"
-  },
-  {
-   "ts": "2026-11-16T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116288 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-116288 📢 Source: Octopus 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True In affected versions of Octopus Server, a user with permission to edit team scoped roles c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116288",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116288:2026-11-16T12:19"
   }
  ]
 }
