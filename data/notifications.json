@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-11-16T16:19:08+00:00",
+ "generated_at": "2026-11-16T16:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-16T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108169 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-108169 📢 Source: Document Fdn. 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False LibreOffice can open a web query file (.iqy), which names a web page to import into",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108169",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108169:2026-11-16T16:49"
+  },
+  {
+   "ts": "2026-11-16T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104920 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-104920 📢 Source: Document Fdn. 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False LibreOffice Calc can link a cell range to an external data source, and the link is ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104920",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104920:2026-11-16T16:49"
+  },
+  {
+   "ts": "2026-11-16T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104692 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-104692 📢 Source: Document Fdn. 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False LibreOffice bundles the HSQLDB database engine, which can be used through the gener",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104692",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104692:2026-11-16T16:49"
+  },
+  {
+   "ts": "2026-11-16T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104007 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-104007 📢 Source: Document Fdn. 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False LibreOffice can connect to databases through JDBC drivers written in Java. A spread",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104007",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104007:2026-11-16T16:49"
+  },
+  {
+   "ts": "2026-11-16T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101930 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-101930 📢 Source: Document Fdn. 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False LibreOffice Writer can open HTML documents, and an HTML document can bind macros to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101930",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101930:2026-11-16T16:49"
+  },
+  {
+   "ts": "2026-11-16T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101892 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-101892 📢 Source: Document Fdn. 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False LibreOffice documents in ODF format can contain form controls, such as buttons and ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101892",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101892:2026-11-16T16:49"
+  },
+  {
+   "ts": "2026-11-16T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101352 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-101352 📢 Source: Document Fdn. 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A document can carry its own user interface customizations, such as keyboard shortc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101352",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101352:2026-11-16T16:49"
+  },
+  {
+   "ts": "2026-11-16T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100101 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-100101 📢 Source: Document Fdn. 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False On Linux and other Unix-like systems, LibreOffice can send the current document as ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100101",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100101:2026-11-16T16:49"
+  },
+  {
+   "ts": "2026-11-16T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113630 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-113630 📢 Source: rapid7 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Command injection in the documentserver-flush-cache.sh maintenance helper in ONLYOFFICE Do",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113630",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113630:2026-11-16T16:49"
+  },
   {
    "ts": "2026-11-16T15:19:07+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-63245",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63245:2026-11-16T11:19"
-  },
-  {
-   "ts": "2026-11-16T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129784 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-129784 📢 Source: JFROG 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True The httpx Ruby gem parses JSON response bodies through its transcoder layer. HTTPX::Response",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129784",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129784:2026-11-16T11:19"
-  },
-  {
-   "ts": "2026-11-16T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Qwen4-Max",
-   "body": "Hacker News · 점수 483",
-   "link": "https://qwen.ai/blog?id=qwen4-max",
-   "source": "Hacker News",
-   "id": "community:https://qwen.ai/blog?id=qwen4-max:2026-11-16T11:19"
-  },
-  {
-   "ts": "2026-11-16T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Universal XSS in uBlock Origin from website-driven element p",
-   "body": "Hacker News · 점수 347",
-   "link": "https://iter.ca/post/ubo-uxss/",
-   "source": "Hacker News",
-   "id": "community:https://iter.ca/post/ubo-uxss/:2026-11-16T11:19"
-  },
-  {
-   "ts": "2026-11-16T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Protomaps: Self-hosting map tiles has gotten cheap and easy",
-   "body": "Hacker News · 점수 329",
-   "link": "https://bruceroettgers.eu/blog/protomaps/",
-   "source": "Hacker News",
-   "id": "community:https://bruceroettgers.eu/blog/protomaps/:2026-11-16T11:19"
-  },
-  {
-   "ts": "2026-11-16T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Handwriting, as a Font",
-   "body": "Hacker News · 점수 281",
-   "link": "https://ductus.sorenblank.com",
-   "source": "Hacker News",
-   "id": "community:https://ductus.sorenblank.com:2026-11-16T11:19"
-  },
-  {
-   "ts": "2026-11-16T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Old Bitly links are being hijacked",
-   "body": "Hacker News · 점수 279",
-   "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-   "source": "Hacker News",
-   "id": "community:https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/:2026-11-16T11:19"
-  },
-  {
-   "ts": "2026-11-16T09:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129703 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-129703 📢 Source: CIRCL 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: True In the vulnerability-lookup web application, the authentication decorators for feed-key requ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129703",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129703:2026-11-16T09:19"
-  },
-  {
-   "ts": "2026-11-16T07:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105925 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-105925 📢 Source: Qt 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False A denial of service vulnerability in the Qt QXmlSimpleReader class of the Qt 5 Core Compatibil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105925",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105925:2026-11-16T07:49"
-  },
-  {
-   "ts": "2026-11-16T06:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129606 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-129606 📢 Source: samsung.tv_appliance 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Buffer Copy without Checking Size of Input ('Classic Buffer Overflow') vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129606",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129606:2026-11-16T06:19"
   }
  ]
 }
