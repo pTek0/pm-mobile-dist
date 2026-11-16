@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-16T11:19:07+00:00",
+ "generated_at": "2026-11-16T11:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-16T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-67250 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-67250 📢 Source: CSA 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A local privilege escalation (LPE) vulnerability in Pebble’s installers could allow a local at",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67250",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67250:2026-11-16T11:49"
+  },
+  {
+   "ts": "2026-11-16T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] What's Next for Nvidia?",
+   "body": "Hacker News · 점수 254",
+   "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+   "source": "Hacker News",
+   "id": "community:https://steveblank.com/2026/11/15/whats-next-for-nvidia/:2026-11-16T11:49"
+  },
+  {
+   "ts": "2026-11-16T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] How to make almost anything",
+   "body": "Hacker News · 점수 252",
+   "link": "https://pub.cba.mit.edu/863.26/site/",
+   "source": "Hacker News",
+   "id": "community:https://pub.cba.mit.edu/863.26/site/:2026-11-16T11:49"
+  },
+  {
+   "ts": "2026-11-16T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Crows make decisions faster than we can",
+   "body": "Hacker News · 점수 237",
+   "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+   "source": "Hacker News",
+   "id": "community:https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html:2026-11-16T11:49"
+  },
+  {
+   "ts": "2026-11-16T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A datetime library for Rust",
+   "body": "Lobsters · 점수 77",
+   "link": "https://burntsushi.net/jiff/",
+   "source": "Lobsters",
+   "id": "community:https://burntsushi.net/jiff/:2026-11-16T11:49"
+  },
+  {
+   "ts": "2026-11-16T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Reports of AI-related child sexual abuse material rise 8,400",
+   "body": "Lemmy · technology · 점수 76",
+   "link": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes:2026-11-16T11:49"
+  },
   {
    "ts": "2026-11-16T11:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-125793",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125793:2026-11-15T15:19"
-  },
-  {
-   "ts": "2026-11-15T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125771 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-125771 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in AtlasAiDev MCP Server for WordPress ai-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125771",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125771:2026-11-15T15:19"
-  },
-  {
-   "ts": "2026-11-15T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125765 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-125765 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125765",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125765:2026-11-15T15:19"
-  },
-  {
-   "ts": "2026-11-15T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125733 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-125733 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125733",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125733:2026-11-15T15:19"
-  },
-  {
-   "ts": "2026-11-15T15:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125447 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-125447 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125447",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125447:2026-11-15T15:19"
-  },
-  {
-   "ts": "2026-11-15T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125832 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-125832 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125832",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125832:2026-11-15T14:19"
-  },
-  {
-   "ts": "2026-11-15T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125828 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-125828 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125828",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125828:2026-11-15T14:19"
   }
  ]
 }
