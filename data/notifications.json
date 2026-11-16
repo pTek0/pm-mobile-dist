@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-16T13:19:07+00:00",
+ "generated_at": "2026-11-16T13:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129690 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-129690 📢 Source: cirosec 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True The vulnerability enables any attacker with admin access to dump credentials of all accoun",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129690",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129690:2026-11-16T13:49"
+  },
+  {
+   "ts": "2026-11-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-128835 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-128835 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /busboy is a streaming parser for multipart form data used by Fastify. In version",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128835",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128835:2026-11-16T13:49"
+  },
+  {
+   "ts": "2026-11-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124724 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-124724 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /busboy is a streaming parser for multipart form data used by Fastify. In version",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124724",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124724:2026-11-16T13:49"
+  },
+  {
+   "ts": "2026-11-16T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124289 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-124289 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /multipart is the official Fastify plugin for handling multipart/form-data upload",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124289",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124289:2026-11-16T13:49"
+  },
   {
    "ts": "2026-11-16T13:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
    "source": "Hacker News",
    "id": "community:https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/:2026-11-15T23:19"
-  },
-  {
-   "ts": "2026-11-15T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia deliberately kept GPU prices high through circular fi",
-   "body": "Lemmy · technology · 점수 369",
-   "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html:2026-11-15T23:19"
-  },
-  {
-   "ts": "2026-11-15T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Algorithm",
-   "body": "Lemmy · programming.dev · 점수 284",
-   "link": "https://lemmy.world/pictrs/image/867a7577-9e61-4393-b35a-9f434f663d12.jpeg",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.world/pictrs/image/867a7577-9e61-4393-b35a-9f434f663d12.jpeg:2026-11-15T23:19"
-  },
-  {
-   "ts": "2026-11-15T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Claude Code and Codex reverse engineered my 1994 Jeep's ECU ",
-   "body": "Hacker News · 점수 280",
-   "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-   "source": "Hacker News",
-   "id": "community:https://www.youtube.com/watch?v=WPj3aQ-xxpI:2026-11-15T23:19"
-  },
-  {
-   "ts": "2026-11-15T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129091 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-129091 📢 Source: Patchstack 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129091",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129091:2026-11-15T19:19"
   }
  ]
 }
