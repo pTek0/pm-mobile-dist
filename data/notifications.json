@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-11-16T21:49:08+00:00",
+ "generated_at": "2026-11-16T22:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-16T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130078 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-130078 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True B3log Solo through 4.4.0 contains a missing authorization vulnerability in B3Receiver.re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130078",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130078:2026-11-16T22:19"
+  },
+  {
+   "ts": "2026-11-16T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130074 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-130074 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True free5GC WebConsole through 1.4.6 contains an authorization flaw in the ChangePasswordInf",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130074",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130074:2026-11-16T22:19"
+  },
+  {
+   "ts": "2026-11-16T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130073 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-130073 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True CBoard before commit 7bd8180 contains a missing authorization vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130073",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130073:2026-11-16T22:19"
+  },
+  {
+   "ts": "2026-11-16T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130072 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-130072 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Cloud Commander (cloudcmd) before 19.21.4 contains an authentication bypass and path",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130072",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130072:2026-11-16T22:19"
+  },
+  {
+   "ts": "2026-11-16T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130071 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-130071 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True TridotsTech go1cms master branch through commit 7f68d05 and version-3 branch before ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130071",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130071:2026-11-16T22:19"
+  },
+  {
+   "ts": "2026-11-16T22:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130070 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-130070 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Ghost by muneeb141 on the main branch from commit c731cdf through commit 672dfec con",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130070",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130070:2026-11-16T22:19"
+  },
+  {
+   "ts": "2026-11-16T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130067 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-130067 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False 7-Zip File Manager before 26.03 fails to detect archive entry names padded with Unicode",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130067",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130067:2026-11-16T22:19"
+  },
+  {
+   "ts": "2026-11-16T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130066 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-130066 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Alinto SOGo before 5.12.13 contains an SQL injection vulnerability in SQLSource contact ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130066",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130066:2026-11-16T22:19"
+  },
   {
    "ts": "2026-11-16T20:49:07+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116288",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116288:2026-11-16T12:19"
-  },
-  {
-   "ts": "2026-11-16T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21153 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-21153 📢 Source: SamsungMobile 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Stack-based buffer overflow in libsecuibc.so prior to SMR Nov-2026 Release 1 allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21153",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21153:2026-11-16T12:19"
-  },
-  {
-   "ts": "2026-11-16T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21152 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-21152 📢 Source: SamsungMobile 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Improper input validation in libMyFilterPlugin.camera.samsung.so prior to SMR Nov-2026",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21152",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21152:2026-11-16T12:19"
-  },
-  {
-   "ts": "2026-11-16T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-21151 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-21151 📢 Source: SamsungMobile 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False Improper privilege management in TransitionPlayer prior to SMR Nov-2026 Release 1 al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-21151",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-21151:2026-11-16T12:19"
-  },
-  {
-   "ts": "2026-11-16T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Chinese spy allegation that toppled Nvidia's CEO is star",
-   "body": "Lemmy · technology · 점수 70",
-   "link": "https://www.businessinsider.com/intelligence-jensen-huang-downfall-shaky-nvidia-china-spy-gpus-2026-11",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.businessinsider.com/intelligence-jensen-huang-downfall-shaky-nvidia-china-spy-gpus-2026-11:2026-11-16T12:19"
-  },
-  {
-   "ts": "2026-11-16T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] MediEvil Is Back From the Dead on PC, and Its Developers Wan",
-   "body": "Lemmy · technology · 점수 65",
-   "link": "https://gardinerbryant.com/medievil-is-back-from-the-dead-on-pc/",
-   "source": "Lemmy · technology",
-   "id": "community:https://gardinerbryant.com/medievil-is-back-from-the-dead-on-pc/:2026-11-16T12:19"
-  },
-  {
-   "ts": "2026-11-16T12:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Memory management in 40 major C projects, a survey",
-   "body": "Lobsters · 점수 54",
-   "link": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html",
-   "source": "Lobsters",
-   "id": "community:https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html:2026-11-16T12:19"
-  },
-  {
-   "ts": "2026-11-16T11:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-67250 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-67250 📢 Source: CSA 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A local privilege escalation (LPE) vulnerability in Pebble’s installers could allow a local at",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67250",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67250:2026-11-16T11:49"
-  },
-  {
-   "ts": "2026-11-16T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] What's Next for Nvidia?",
-   "body": "Hacker News · 점수 254",
-   "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-   "source": "Hacker News",
-   "id": "community:https://steveblank.com/2026/11/15/whats-next-for-nvidia/:2026-11-16T11:49"
   }
  ]
 }
