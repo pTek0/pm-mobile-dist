@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-17T16:49:07+00:00",
+ "generated_at": "2026-11-17T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126558 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-126558 📢 Source: ca 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True OS Command Injection, Incomplete List of Disallowed Inputs vulnerability in Broadcom AutoSys Wo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126558",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126558:2026-11-17T17:19"
+  },
   {
    "ts": "2026-11-17T16:49:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119622",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119622:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119621 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-119621 📢 Source: TYPO3 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False When importing a T3D or XML file in the Import/Export module, the file hash values of impor",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119621",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119621:2026-11-17T11:19"
   }
  ]
 }
