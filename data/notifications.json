@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-17T01:19:07+00:00",
+ "generated_at": "2026-11-17T01:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130357 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-130357 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ from 4.2.0-alpha.2 before 4.2.0-RC.2 contains an improper authorization vulnerabi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130357",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130357:2026-11-17T01:49"
+  },
+  {
+   "ts": "2026-11-17T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130351 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-130351 📢 Source: VulnCheck 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ from 4.2.0-alpha before 4.2.0-RC.2 contains an authorization bypass vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130351",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130351:2026-11-17T01:49"
+  },
   {
    "ts": "2026-11-17T00:49:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129952",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129952:2026-11-16T15:19"
-  },
-  {
-   "ts": "2026-11-16T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129948 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-129948 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Contentlayer @contentlayer /source-files through 0.3.4 contains a code injection vulnera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129948",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129948:2026-11-16T15:19"
-  },
-  {
-   "ts": "2026-11-16T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129947 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-129947 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Contentlayer @contentlayer /core through 0.3.4 contains a code injection vulnerability t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129947",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129947:2026-11-16T15:19"
   }
  ]
 }
