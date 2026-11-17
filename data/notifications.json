@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-17T15:49:07+00:00",
+ "generated_at": "2026-11-17T16:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100980 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-100980 📢 Source: nvidia 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False NVIDIA OpenShell for Linux contains a vulnerability in its command-line diagnostic interfa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100980",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100980:2026-11-17T16:19"
+  },
+  {
+   "ts": "2026-11-17T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100977 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-100977 📢 Source: nvidia 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False NVIDIA OpenShell for Linux contains a vulnerability in L7 REST policy enforcement where a ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100977",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100977:2026-11-17T16:19"
+  },
+  {
+   "ts": "2026-11-17T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100975 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-100975 📢 Source: nvidia 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: False NVIDIA OpenShell for Linux contains a vulnerability in the Kubernetes sandbox SSH authenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100975",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100975:2026-11-17T16:19"
+  },
+  {
+   "ts": "2026-11-17T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100972 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-100972 📢 Source: nvidia 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True NVIDIA OpenShell for Linux contains a vulnerability in resource-level authorization for cre",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100972",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100972:2026-11-17T16:19"
+  },
+  {
+   "ts": "2026-11-17T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100971 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-100971 📢 Source: nvidia 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False NVIDIA OpenShell for Linux contains a vulnerability in the L7 path allowlist enforcement c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100971",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100971:2026-11-17T16:19"
+  },
+  {
+   "ts": "2026-11-17T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100963 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-100963 📢 Source: nvidia 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True NVIDIA TensorRT for Linux contains a vulnerability where a user could cause an integer over",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100963",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100963:2026-11-17T16:19"
+  },
   {
    "ts": "2026-11-17T15:49:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121865",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121865:2026-11-17T09:19"
-  },
-  {
-   "ts": "2026-11-17T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121864 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-121864 📢 Source: tenable 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True In nanobot, when sandboxed exec is enabled, the shell executable used to run commands can ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121864",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121864:2026-11-17T09:19"
-  },
-  {
-   "ts": "2026-11-17T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109154 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-109154 📢 Source: YesWeHack 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False In the Matter door lock applications of the Nordic Semiconductor nRF Door Lock and Access",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109154",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109154:2026-11-17T09:19"
-  },
-  {
-   "ts": "2026-11-17T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109151 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-109151 📢 Source: YesWeHack 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False In the Matter and Aliro Door Lock Application of the Nordic Semiconductor nRF Door Lock a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109151",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109151:2026-11-17T09:19"
-  },
-  {
-   "ts": "2026-11-17T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109148 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-109148 📢 Source: YesWeHack 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False In the Aliro access control reference applications of the Nordic Semiconductor nRF Door L",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109148",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109148:2026-11-17T09:19"
-  },
-  {
-   "ts": "2026-11-17T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109138 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-109138 📢 Source: YesWeHack 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False In the Aliro access control reference applications of the Nordic Semiconductor nRF Door",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109138",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109138:2026-11-17T09:19"
-  },
-  {
-   "ts": "2026-11-17T05:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-120387 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-120387 📢 Source: Circutor 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True An improper JWT signature verification vulnerability in CIRCUTOR PowerStudio SCADA WAV",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120387",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120387:2026-11-17T05:19"
   }
  ]
 }
