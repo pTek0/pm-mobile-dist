@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-17T01:49:08+00:00",
+ "generated_at": "2026-11-17T02:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-12487 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-12487 📢 Source: Zyxel 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An incorrect authorization vulnerability in the SNMP parameter of Zyxel EE5301-00 customized ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12487",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12487:2026-11-17T02:19"
+  },
+  {
+   "ts": "2026-11-17T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86676 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-86676 📢 Source: Zyxel 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A post-authentication command injection vulnerability in the “Description” parameter of a CGI",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86676",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86676:2026-11-17T02:19"
+  },
   {
    "ts": "2026-11-17T01:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129956",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129956:2026-11-16T15:19"
-  },
-  {
-   "ts": "2026-11-16T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129955 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-129955 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True NodePress through 8.5.1 contains an authentication bypass vulnerability that allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129955",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129955:2026-11-16T15:19"
-  },
-  {
-   "ts": "2026-11-16T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129952 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-129952 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True NodePress through 8.5.1 contains an authentication bypass vulnerability that allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129952",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129952:2026-11-16T15:19"
   }
  ]
 }
