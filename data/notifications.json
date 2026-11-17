@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-11-17T13:49:07+00:00",
+ "generated_at": "2026-11-17T14:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T14:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130603 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-130603 📢 Source: eclipse 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Eclipse Zenoh's zenoh-pico implementation, versions 0.7.2-rc up to but excluding 1.10.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130603",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130603:2026-11-17T14:19"
+  },
+  {
+   "ts": "2026-11-17T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130615 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-130615 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Flowise through 3.1.4 contains a server-side request forgery vulnerability that allows a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130615",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130615:2026-11-17T14:19"
+  },
+  {
+   "ts": "2026-11-17T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130591 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-130591 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True 53AIHub before 0.5.5 contains a missing authentication vulnerability that allows unauthe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130591",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130591:2026-11-17T14:19"
+  },
+  {
+   "ts": "2026-11-17T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130589 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-130589 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Emitter through 3.1 contains a privilege escalation vulnerability that allows any channe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130589",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130589:2026-11-17T14:19"
+  },
+  {
+   "ts": "2026-11-17T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130588 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-130588 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenFunction through 1.2.0 contains a NULL pointer dereference vulnerability in getServi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130588",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130588:2026-11-17T14:19"
+  },
+  {
+   "ts": "2026-11-17T14:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130587 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-130587 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True OpenFunction through 1.2.0 contains a privilege escalation vulnerability that allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130587",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130587:2026-11-17T14:19"
+  },
+  {
+   "ts": "2026-11-17T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130584 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-130584 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Xibo CMS before 4.5.3 contains an insecure direct object reference vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130584",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130584:2026-11-17T14:19"
+  },
+  {
+   "ts": "2026-11-17T14:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130583 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-130583 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Rootways Authorize.net CIM Pro extension for Magento 2 before 4.1.5 contains an unau",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130583",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130583:2026-11-17T14:19"
+  },
+  {
+   "ts": "2026-11-17T14:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130386 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-130386 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Contiki-NG through 5.2 contains an out-of-bounds access vulnerability in buffer_reclaim(",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130386",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130386:2026-11-17T14:19"
+  },
   {
    "ts": "2026-11-17T13:49:06+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-12487",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12487:2026-11-17T02:19"
-  },
-  {
-   "ts": "2026-11-17T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86676 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-86676 📢 Source: Zyxel 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True A post-authentication command injection vulnerability in the “Description” parameter of a CGI",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86676",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86676:2026-11-17T02:19"
-  },
-  {
-   "ts": "2026-11-17T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130357 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-130357 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ from 4.2.0-alpha.2 before 4.2.0-RC.2 contains an improper authorization vulnerabi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130357",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130357:2026-11-17T01:49"
-  },
-  {
-   "ts": "2026-11-17T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130351 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-130351 📢 Source: VulnCheck 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True phpMyFAQ from 4.2.0-alpha before 4.2.0-RC.2 contains an authorization bypass vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130351",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130351:2026-11-17T01:49"
-  },
-  {
-   "ts": "2026-11-17T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Migrating from GitHub to Codeberg",
-   "body": "Lobsters · 점수 63",
-   "link": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
-   "source": "Lobsters",
-   "id": "community:https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/:2026-11-17T00:49"
-  },
-  {
-   "ts": "2026-11-17T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] 33% of gamedevs laid off over 2 years: GDC 2026 State of the",
-   "body": "Lemmy · programming.dev · 점수 63",
-   "link": "https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/:2026-11-17T00:49"
-  },
-  {
-   "ts": "2026-11-17T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] you won't win at copyright",
-   "body": "Lobsters · 점수 63",
-   "link": "https://ingrids.space/posts/you-wont-win-at-copyright/",
-   "source": "Lobsters",
-   "id": "community:https://ingrids.space/posts/you-wont-win-at-copyright/:2026-11-17T00:49"
-  },
-  {
-   "ts": "2026-11-17T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Paint in the memory of other programs",
-   "body": "Lobsters · 점수 62",
-   "link": "https://citrons.xyz/journal/2026-04-13",
-   "source": "Lobsters",
-   "id": "community:https://citrons.xyz/journal/2026-04-13:2026-11-17T00:49"
-  },
-  {
-   "ts": "2026-11-17T00:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Every processor die anyone has photographed (and put on the ",
-   "body": "Lemmy · technology · 점수 51",
-   "link": "https://sheets.works/data-viz/cpu-dies",
-   "source": "Lemmy · technology",
-   "id": "community:https://sheets.works/data-viz/cpu-dies:2026-11-17T00:49"
-  },
-  {
-   "ts": "2026-11-17T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Microsoft blames monster email outage on software defect int",
-   "body": "Hacker News · 점수 164",
-   "link": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-   "source": "Hacker News",
-   "id": "community:https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026:2026-11-17T00:19"
   }
  ]
 }
