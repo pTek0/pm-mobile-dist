@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-11-17T16:19:07+00:00",
+ "generated_at": "2026-11-17T16:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-126553 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-126553 📢 Source: ca 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Broadcom AutoSys Workload Automation (Wo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126553",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126553:2026-11-17T16:49"
+  },
+  {
+   "ts": "2026-11-17T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-126552 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-126552 📢 Source: ca 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Missing Authentication for Critical Function, OS Command Injection vulnerability in Broadco",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126552",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126552:2026-11-17T16:49"
+  },
+  {
+   "ts": "2026-11-17T16:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-126551 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-126551 📢 Source: ca 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Use of Hard-coded Cryptographic Key vulnerability in Broadcom AutoSys Workload Automation (",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126551",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126551:2026-11-17T16:49"
+  },
+  {
+   "ts": "2026-11-17T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126550 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-126550 📢 Source: ca 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Insertion of Sensitive Information into Log File, Insufficiently Protected Credentials vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126550",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126550:2026-11-17T16:49"
+  },
+  {
+   "ts": "2026-11-17T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119726 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-119726 📢 Source: NCSC.ch 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119726",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119726:2026-11-17T16:49"
+  },
+  {
+   "ts": "2026-11-17T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-67455 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-67455 📢 Source: nvidia 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True NVIDIA Model Optimizer for Linux and Windows contains a vulnerability where an attacker coul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67455",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67455:2026-11-17T16:49"
+  },
+  {
+   "ts": "2026-11-17T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65132 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-65132 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA Megatron-LM contains a vulnerability in checkpoint loading where an attacker could c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65132",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65132:2026-11-17T16:49"
+  },
+  {
+   "ts": "2026-11-17T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119725 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-119725 📢 Source: NCSC.ch 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119725",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119725:2026-11-17T16:49"
+  },
+  {
+   "ts": "2026-11-17T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100968 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-100968 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA Megatron-LM contains a vulnerability in dataset loading where an attacker could cau",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100968",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100968:2026-11-17T16:49"
+  },
+  {
+   "ts": "2026-11-17T16:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100967 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-100967 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA Megatron-LM contains a vulnerability where an attacker could cause deserialization ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100967",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100967:2026-11-17T16:49"
+  },
   {
    "ts": "2026-11-17T16:19:06+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119621",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119621:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129448 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-129448 📢 Source: apache 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data in Apache Roller versions 4.0.0 through 6.1.4 allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129448",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129448:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Windows 11 is collecting data on which coding agents and dev",
-   "body": "Hacker News · 점수 619",
-   "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-   "source": "Hacker News",
-   "id": "community:https://xusheng.dev/posts/windows-coding-agent-telemetry/:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] BugMeNot has closed",
-   "body": "Hacker News · 점수 559",
-   "link": "https://www.bugmenot.com/",
-   "source": "Hacker News",
-   "id": "community:https://www.bugmenot.com/:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] What is w2rt6byl5nf1opmc-a.com?",
-   "body": "Hacker News · 점수 353",
-   "link": "https://jack.cab/blog/siterate",
-   "source": "Hacker News",
-   "id": "community:https://jack.cab/blog/siterate:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] World's Largest Brands Infected With Malware Via Optimizely",
-   "body": "Lemmy · technology · 점수 200",
-   "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-   "source": "Lemmy · technology",
-   "id": "community:https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Someone Has Made the Dreamcast Play Nintendo 64 Cartridges, ",
-   "body": "Lemmy · technology · 점수 158",
-   "link": "https://handheldhideout.neocities.org/articles/someone-made-dreamcast-play-nintendo-64-cartridges.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://handheldhideout.neocities.org/articles/someone-made-dreamcast-play-nintendo-64-cartridges.html:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118498 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-118498 📢 Source: CERTVDE 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The CODESYS Automation Server Connector uses server-supplied file names without sufficient",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118498",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118498:2026-11-17T09:49"
-  },
-  {
-   "ts": "2026-11-17T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118497 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-118497 📢 Source: CERTVDE 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True The affected products do not sufficiently validate CODESYS Automation Server TLS certifica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118497",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118497:2026-11-17T09:49"
-  },
-  {
-   "ts": "2026-11-17T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118496 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-118496 📢 Source: CERTVDE 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The affected products process a server-supplied URL without sufficient validation. An unau",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118496",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118496:2026-11-17T09:49"
-  },
-  {
-   "ts": "2026-11-17T09:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121865 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-121865 📢 Source: tenable 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True In nanobot, the WebSocket gateway allows a standard client holding a valid client token to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121865",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121865:2026-11-17T09:19"
   }
  ]
 }
