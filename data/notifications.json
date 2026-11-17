@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-17T19:49:07+00:00",
+ "generated_at": "2026-11-17T20:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130623 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-130623 📢 Source: AMZN 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Incorrect authorization in the credential handling for namespace-scoped issuers in AWS Privat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130623",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130623:2026-11-17T20:19"
+  },
+  {
+   "ts": "2026-11-17T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130622 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-130622 📢 Source: AMZN 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Incorrect authorization in the credential loading logic in AWS Private CA Connector for Kuber",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130622",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130622:2026-11-17T20:19"
+  },
+  {
+   "ts": "2026-11-17T20:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130838 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-130838 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Radicale 3.3.0 before 3.8.3 contains an authorization bypass vulnerability that allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130838",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130838:2026-11-17T20:19"
+  },
+  {
+   "ts": "2026-11-17T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130835 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-130835 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Storyden before 1.26.17 contains a missing authorization vulnerability in the AccountRemov",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130835",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130835:2026-11-17T20:19"
+  },
+  {
+   "ts": "2026-11-17T20:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130796 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-130796 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Flowise 3.1.3 through 3.1.4 contains an information disclosure vulnerability that allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130796",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130796:2026-11-17T20:19"
+  },
   {
    "ts": "2026-11-17T19:49:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-130588",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130588:2026-11-17T14:19"
-  },
-  {
-   "ts": "2026-11-17T14:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-130587 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-130587 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True OpenFunction through 1.2.0 contains a privilege escalation vulnerability that allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130587",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130587:2026-11-17T14:19"
-  },
-  {
-   "ts": "2026-11-17T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130584 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-130584 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Xibo CMS before 4.5.3 contains an insecure direct object reference vulnerability that al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130584",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130584:2026-11-17T14:19"
-  },
-  {
-   "ts": "2026-11-17T14:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-130583 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-130583 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Rootways Authorize.net CIM Pro extension for Magento 2 before 4.1.5 contains an unau",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130583",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130583:2026-11-17T14:19"
-  },
-  {
-   "ts": "2026-11-17T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130386 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-130386 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Contiki-NG through 5.2 contains an out-of-bounds access vulnerability in buffer_reclaim(",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130386",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130386:2026-11-17T14:19"
-  },
-  {
-   "ts": "2026-11-17T13:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82025 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-82025 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True WP File Manager before 8.0.7 contains a file upload restriction bypass vulnerability that",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82025",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82025:2026-11-17T13:49"
   }
  ]
 }
