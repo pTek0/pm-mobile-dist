@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-17T09:19:07+00:00",
+ "generated_at": "2026-11-17T09:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118498 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-118498 📢 Source: CERTVDE 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The CODESYS Automation Server Connector uses server-supplied file names without sufficient",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118498",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118498:2026-11-17T09:49"
+  },
+  {
+   "ts": "2026-11-17T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118497 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-118497 📢 Source: CERTVDE 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True The affected products do not sufficiently validate CODESYS Automation Server TLS certifica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118497",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118497:2026-11-17T09:49"
+  },
+  {
+   "ts": "2026-11-17T09:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118496 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-118496 📢 Source: CERTVDE 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The affected products process a server-supplied URL without sufficient validation. An unau",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118496",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118496:2026-11-17T09:49"
+  },
   {
    "ts": "2026-11-17T09:19:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124017",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124017:2026-11-16T20:49"
-  },
-  {
-   "ts": "2026-11-16T20:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124019 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-124019 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False VB-Audio VB-CABLE virtual audio device kernel streaming driver (vbaudio_cable64_win10.s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124019",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124019:2026-11-16T20:19"
-  },
-  {
-   "ts": "2026-11-16T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124223 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-124223 📢 Source: microsoft 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False None 📅 Published Date: 2026-11-16T19:27:01.478Z https://cvefeed.io/vuln/detail/CVE-2026",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124223",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124223:2026-11-16T19:49"
-  },
-  {
-   "ts": "2026-11-16T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101327 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-101327 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DLL placed in a predictable, attacker-writable temporary directory",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101327",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101327:2026-11-16T19:19"
   }
  ]
 }
