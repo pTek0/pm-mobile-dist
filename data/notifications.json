@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-17T04:19:07+00:00",
+ "generated_at": "2026-11-17T04:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-108153 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-108153 📢 Source: GitLab 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 16.1 before 19.3",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108153",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108153:2026-11-17T04:49"
+  },
+  {
+   "ts": "2026-11-17T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105739 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-105739 📢 Source: GitLab 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 17.2 before 19.3",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105739",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105739:2026-11-17T04:49"
+  },
   {
    "ts": "2026-11-17T03:49:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101892",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101892:2026-11-16T16:49"
-  },
-  {
-   "ts": "2026-11-16T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101352 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-101352 📢 Source: Document Fdn. 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False A document can carry its own user interface customizations, such as keyboard shortc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101352",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101352:2026-11-16T16:49"
-  },
-  {
-   "ts": "2026-11-16T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100101 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-100101 📢 Source: Document Fdn. 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False On Linux and other Unix-like systems, LibreOffice can send the current document as ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100101",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100101:2026-11-16T16:49"
   }
  ]
 }
