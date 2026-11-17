@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-17T22:49:07+00:00",
+ "generated_at": "2026-11-17T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129025 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-129025 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Brainstorm Force ZIP AI zip-ai allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129025",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129025:2026-11-17T23:19"
+  },
+  {
+   "ts": "2026-11-17T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] New Evidence Shows School Phone Bans Are Gradually Improving",
+   "body": "Hacker News · 점수 1105",
+   "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+   "source": "Hacker News",
+   "id": "community:https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html:2026-11-17T23:19"
+  },
+  {
+   "ts": "2026-11-17T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] GPT‑6.2 Astra and Sol",
+   "body": "Hacker News · 점수 971",
+   "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+   "source": "Hacker News",
+   "id": "community:https://openai.com/index/introducing-gpt-6-2-astra-sol/:2026-11-17T23:19"
+  },
+  {
+   "ts": "2026-11-17T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Apple Services Down",
+   "body": "Hacker News · 점수 571",
+   "link": "https://developer.apple.com/system-status/",
+   "source": "Hacker News",
+   "id": "community:https://developer.apple.com/system-status/:2026-11-17T23:19"
+  },
+  {
+   "ts": "2026-11-17T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] “They Never Even Unpacked the Racks”: Police Raid on Nvidia ",
+   "body": "Lemmy · technology · 점수 529",
+   "link": "https://respawnfirst.com/they-never-even-unpacked-the-racks-police-raid-on-nvidia-partner-megaspeed-finds-empty-server-frames-and-missing-h100-gpus-amid-allegations-chips-were-flown-to-china-during-retail-shortages/",
+   "source": "Lemmy · technology",
+   "id": "community:https://respawnfirst.com/they-never-even-unpacked-the-racks-police-raid-on-nvidia-partner-megaspeed-finds-empty-server-frames-and-missing-h100-gpus-amid-allegations-chips-were-flown-to-china-during-retail-shortages/:2026-11-17T23:19"
+  },
+  {
+   "ts": "2026-11-17T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Highly classified US national security communications networ",
+   "body": "Hacker News · 점수 384",
+   "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+   "source": "Hacker News",
+   "id": "community:https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down:2026-11-17T23:19"
+  },
   {
    "ts": "2026-11-17T20:19:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-118789",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118789:2026-11-17T14:49"
-  },
-  {
-   "ts": "2026-11-17T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130626 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-130626 📢 Source: redhat-cnalr 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The core JDK HTTP client (a2a-java-sdk-http-client) applies the GHSA-9rhm redirect-ne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130626",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130626:2026-11-17T14:49"
-  },
-  {
-   "ts": "2026-11-17T14:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-130603 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-130603 📢 Source: eclipse 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Eclipse Zenoh's zenoh-pico implementation, versions 0.7.2-rc up to but excluding 1.10.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130603",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130603:2026-11-17T14:19"
-  },
-  {
-   "ts": "2026-11-17T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130615 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-130615 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Flowise through 3.1.4 contains a server-side request forgery vulnerability that allows a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130615",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130615:2026-11-17T14:19"
-  },
-  {
-   "ts": "2026-11-17T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130591 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-130591 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True 53AIHub before 0.5.5 contains a missing authentication vulnerability that allows unauthe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130591",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130591:2026-11-17T14:19"
-  },
-  {
-   "ts": "2026-11-17T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130589 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-130589 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Emitter through 3.1 contains a privilege escalation vulnerability that allows any channe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130589",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130589:2026-11-17T14:19"
-  },
-  {
-   "ts": "2026-11-17T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130588 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-130588 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True OpenFunction through 1.2.0 contains a NULL pointer dereference vulnerability in getServi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130588",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130588:2026-11-17T14:19"
   }
  ]
 }
