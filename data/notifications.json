@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-17T04:49:07+00:00",
+ "generated_at": "2026-11-17T05:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T05:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-120387 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-120387 📢 Source: Circutor 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True An improper JWT signature verification vulnerability in CIRCUTOR PowerStudio SCADA WAV",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120387",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120387:2026-11-17T05:19"
+  },
   {
    "ts": "2026-11-17T04:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101930",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101930:2026-11-16T16:49"
-  },
-  {
-   "ts": "2026-11-16T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101892 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-101892 📢 Source: Document Fdn. 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False LibreOffice documents in ODF format can contain form controls, such as buttons and ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101892",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101892:2026-11-16T16:49"
   }
  ]
 }
