@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-17T14:19:07+00:00",
+ "generated_at": "2026-11-17T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77224 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-77224 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Camunda 7.24.0 before 7.24.14 and 7.23.0 before 7.23.17 contains an XML External Entity (",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77224",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77224:2026-11-17T14:49"
+  },
+  {
+   "ts": "2026-11-17T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130627 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-130627 📢 Source: redhat-cnalr 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The Vert.x HTTP client transport (a2a-java-sdk-http-client-vertx) hand-rolls a POST r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130627",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130627:2026-11-17T14:49"
+  },
+  {
+   "ts": "2026-11-17T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123050 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-123050 📢 Source: ENISA 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Multiple Farmasimplex healthcare integration modules do not properly validate TLS certificat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123050",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123050:2026-11-17T14:49"
+  },
+  {
+   "ts": "2026-11-17T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118789 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-118789 📢 Source: ENISA 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Farmasimplex retrieves a CIP News file over HTTP and executes embedded SQL statements agains",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118789",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118789:2026-11-17T14:49"
+  },
+  {
+   "ts": "2026-11-17T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130626 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-130626 📢 Source: redhat-cnalr 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The core JDK HTTP client (a2a-java-sdk-http-client) applies the GHSA-9rhm redirect-ne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130626",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130626:2026-11-17T14:49"
+  },
   {
    "ts": "2026-11-17T14:19:06+00:00",
    "level": "important",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108153",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108153:2026-11-17T04:49"
-  },
-  {
-   "ts": "2026-11-17T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105739 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-105739 📢 Source: GitLab 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 17.2 before 19.3",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105739",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105739:2026-11-17T04:49"
-  },
-  {
-   "ts": "2026-11-17T03:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107902 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-107902 📢 Source: jpcert 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False TELLUS and TELLUS Lite provided by FUJI ELECTRIC CO., LTD. contain a use after free vulner",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107902",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107902:2026-11-17T03:49"
-  },
-  {
-   "ts": "2026-11-17T03:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107901 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-107901 📢 Source: jpcert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False TELLUS and TELLUS Lite provided by FUJI ELECTRIC CO., LTD. contain an out-of-bounds read v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107901",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107901:2026-11-17T03:49"
-  },
-  {
-   "ts": "2026-11-17T03:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125275 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-125275 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Loop with Unreachable Exit Condition ('Infinite Loop') vulnerability in device certificate ver",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125275",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125275:2026-11-17T03:19"
-  },
-  {
-   "ts": "2026-11-17T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-12487 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-12487 📢 Source: Zyxel 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An incorrect authorization vulnerability in the SNMP parameter of Zyxel EE5301-00 customized ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-12487",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-12487:2026-11-17T02:19"
   }
  ]
 }
