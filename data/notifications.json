@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-11-17T18:49:07+00:00",
+ "generated_at": "2026-11-17T19:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85648 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-85648 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DDS file, when parsed through Autodesk AutoCAD, can force a Heap-Ba",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85648",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85648:2026-11-17T19:19"
+  },
+  {
+   "ts": "2026-11-17T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85647 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-85647 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DWG file containing a malformed embedded image, when parsed through",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85647",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85647:2026-11-17T19:19"
+  },
+  {
+   "ts": "2026-11-17T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-85646 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-85646 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DWF file, when parsed through Autodesk AutoCAD, can force a Heap-Ba",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85646",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85646:2026-11-17T19:19"
+  },
+  {
+   "ts": "2026-11-17T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-84855 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-84855 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DGN file, when parsed through Autodesk AutoCAD, can force a Heap-Ba",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84855",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84855:2026-11-17T19:19"
+  },
+  {
+   "ts": "2026-11-17T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130621 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-130621 📢 Source: AMZN 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A time-of-check time-of-use (TOCTOU) race condition in the local port selection in AWS efs-ut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130621",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130621:2026-11-17T19:19"
+  },
+  {
+   "ts": "2026-11-17T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104868 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-104868 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DWG file, when parsed by Autodesk AutoCAD, can trigger an Integer ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104868",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104868:2026-11-17T19:19"
+  },
+  {
+   "ts": "2026-11-17T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77943 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-77943 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DXF file, when parsed through Autodesk AutoCAD, can force an Out-of",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77943",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77943:2026-11-17T19:19"
+  },
+  {
+   "ts": "2026-11-17T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-77942 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-77942 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted IES file, when parsed through Autodesk AutoCAD, can force an Out-of",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77942",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77942:2026-11-17T19:19"
+  },
+  {
+   "ts": "2026-11-17T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18827 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-18827 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DWG file containing an attacker-controlled Excel Data Link connecti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18827",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18827:2026-11-17T19:19"
+  },
+  {
+   "ts": "2026-11-17T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-18826 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-18826 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DXF file, when parsed through Autodesk AutoCAD, can force a Type Co",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18826",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18826:2026-11-17T19:19"
+  },
+  {
+   "ts": "2026-11-17T19:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16780 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-16780 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DXF file, when parsed through Autodesk AutoCAD, can force a Heap-Ba",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16780",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16780:2026-11-17T19:19"
+  },
   {
    "ts": "2026-11-17T18:19:06+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124643",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124643:2026-11-17T12:19"
-  },
-  {
-   "ts": "2026-11-17T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Quote of the day by computer scientist Judea Pearl: 'Deep le",
-   "body": "Lemmy · technology · 점수 102",
-   "link": "https://www.techradar.com/pro/quote-of-the-day-by-computer-scientist-judea-pearl-deep-learning-has-instead-given-us-machines-with-truly-impressive-abilities-but-no-intelligence-capturing-the-central-fault-line-in-modern-ai",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.techradar.com/pro/quote-of-the-day-by-computer-scientist-judea-pearl-deep-learning-has-instead-given-us-machines-with-truly-impressive-abilities-but-no-intelligence-capturing-the-central-fault-line-in-modern-ai:2026-11-17T11:49"
-  },
-  {
-   "ts": "2026-11-17T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Jensen Huang, Elizabeth Holmes, and America's most powerful ",
-   "body": "Lemmy · technology · 점수 75",
-   "link": "https://www.businessinsider.com/jensen-huang-elizabeth-holmes-founder-cult-2026-11",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.businessinsider.com/jensen-huang-elizabeth-holmes-founder-cult-2026-11:2026-11-17T11:49"
-  },
-  {
-   "ts": "2026-11-17T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] What is w2rt6byl5nf1opmc-a[.]com?",
-   "body": "Lobsters · 점수 62",
-   "link": "https://jack.cab/blog/siterate.html",
-   "source": "Lobsters",
-   "id": "community:https://jack.cab/blog/siterate.html:2026-11-17T11:49"
-  },
-  {
-   "ts": "2026-11-17T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129275 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-129275 📢 Source: N-able 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False N-able N-central before 2026.4.1 HF3 allows the repositoryItemGet operation to be called w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129275",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129275:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129274 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-129274 📢 Source: N-able 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False N-able N-central before 2026.4.1 HF3 does not authenticate callers of the ServerMMS2 Remot",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129274",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129274:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129273 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-129273 📢 Source: N-able 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False N-able N-central before 2026.4.1 HF3 does not neutralise control characters in an Audit Ex",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129273",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129273:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129272 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-129272 📢 Source: N-able 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False N-able N-central before 2026.4.1 HF3 uses a predictable credential to authenticate app",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129272",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129272:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129271 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-129271 📢 Source: N-able 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False The Patch Management Engine in N-central is vulnerable to LPE via attacker controlled meta",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129271",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129271:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125162 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-125162 📢 Source: TYPO3 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False The cHash argument, which ensures that only URL arguments originally generated by TYPO3 cre",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125162",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125162:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125159 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-125159 📢 Source: TYPO3 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False ImageMagick and GraphicsMagick use small modules, called \"coders\", to read each image forma",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125159",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125159:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-119623 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-119623 📢 Source: TYPO3 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False The installer (first installation wizard) could be re-enabled on an already configured ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119623",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119623:2026-11-17T11:19"
   }
  ]
 }
