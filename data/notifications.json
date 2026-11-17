@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-11-17T23:19:07+00:00",
+ "generated_at": "2026-11-17T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131857 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-131857 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Supergateway 4.2.0 through 4.2.2 contains a denial of service vulnerability in stdio-to-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131857",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131857:2026-11-17T23:49"
+  },
+  {
+   "ts": "2026-11-17T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131854 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-131854 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Ettercap through 0.8.5.1 contains a heap out-of-bounds read vulnerability in dissector_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131854",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131854:2026-11-17T23:49"
+  },
+  {
+   "ts": "2026-11-17T23:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-131852 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-131852 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True OwnTracks Recorder before 1.0.5 contains a format string vulnerability in json_respo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131852",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131852:2026-11-17T23:49"
+  },
+  {
+   "ts": "2026-11-17T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131851 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-131851 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True ILIAS before 9.25, 10.13, and 11.6 contains an SQL injection vulnerability in ilPRGAssig",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131851",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131851:2026-11-17T23:49"
+  },
+  {
+   "ts": "2026-11-17T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131850 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-131850 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True ILIAS 11.0 before 11.6 contains an sql injection vulnerability in RegistrationCodeReposi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131850",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131850:2026-11-17T23:49"
+  },
+  {
+   "ts": "2026-11-17T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131849 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-131849 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Snap7 through 1.4.3 contains a heap-based buffer overflow in TSnap7MicroClient::opReadSZ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131849",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131849:2026-11-17T23:49"
+  },
+  {
+   "ts": "2026-11-17T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131848 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-131848 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Snap7 through 1.4.3 contains an out-of-bounds write vulnerability in TSnap7MicroClient::",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131848",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131848:2026-11-17T23:49"
+  },
+  {
+   "ts": "2026-11-17T23:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131844 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-131844 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Poppler through 26.11.0 contains an uncontrolled memory allocation vulnerability in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131844",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131844:2026-11-17T23:49"
+  },
+  {
+   "ts": "2026-11-17T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] What is the best harness for each model?",
+   "body": "Hacker News · 점수 310",
+   "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+   "source": "Hacker News",
+   "id": "community:https://runta.com/blog/introducing-frontierharness-eval-v1-1/:2026-11-17T23:49"
+  },
+  {
+   "ts": "2026-11-17T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nvidia stopped disclosing Singapore sales as revenues hit $1",
+   "body": "Hacker News · 점수 282",
+   "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+   "source": "Hacker News",
+   "id": "community:https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf:2026-11-17T23:49"
+  },
+  {
+   "ts": "2026-11-17T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] How the Claude Code team thinks about verification",
+   "body": "Hacker News · 점수 246",
+   "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+   "source": "Hacker News",
+   "id": "community:https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/:2026-11-17T23:49"
+  },
+  {
+   "ts": "2026-11-17T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] MAI Code 2 and Code 2 Flash",
+   "body": "Hacker News · 점수 238",
+   "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+   "source": "Hacker News",
+   "id": "community:https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/:2026-11-17T23:49"
+  },
+  {
+   "ts": "2026-11-17T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Phrack 73 Released",
+   "body": "Hacker News · 점수 206",
+   "link": "https://phrack.org/issues/73/introduction_md",
+   "source": "Hacker News",
+   "id": "community:https://phrack.org/issues/73/introduction_md:2026-11-17T23:49"
+  },
   {
    "ts": "2026-11-17T23:19:06+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119725",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119725:2026-11-17T16:49"
-  },
-  {
-   "ts": "2026-11-17T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100968 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-100968 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA Megatron-LM contains a vulnerability in dataset loading where an attacker could cau",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100968",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100968:2026-11-17T16:49"
-  },
-  {
-   "ts": "2026-11-17T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100967 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-100967 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA Megatron-LM contains a vulnerability where an attacker could cause deserialization ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100967",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100967:2026-11-17T16:49"
-  },
-  {
-   "ts": "2026-11-17T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100980 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-100980 📢 Source: nvidia 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False NVIDIA OpenShell for Linux contains a vulnerability in its command-line diagnostic interfa",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100980",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100980:2026-11-17T16:19"
-  },
-  {
-   "ts": "2026-11-17T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100977 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-100977 📢 Source: nvidia 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False NVIDIA OpenShell for Linux contains a vulnerability in L7 REST policy enforcement where a ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100977",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100977:2026-11-17T16:19"
-  },
-  {
-   "ts": "2026-11-17T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100975 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-100975 📢 Source: nvidia 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: False NVIDIA OpenShell for Linux contains a vulnerability in the Kubernetes sandbox SSH authenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100975",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100975:2026-11-17T16:19"
-  },
-  {
-   "ts": "2026-11-17T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100972 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-100972 📢 Source: nvidia 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True NVIDIA OpenShell for Linux contains a vulnerability in resource-level authorization for cre",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100972",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100972:2026-11-17T16:19"
-  },
-  {
-   "ts": "2026-11-17T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100971 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-100971 📢 Source: nvidia 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False NVIDIA OpenShell for Linux contains a vulnerability in the L7 path allowlist enforcement c",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100971",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100971:2026-11-17T16:19"
-  },
-  {
-   "ts": "2026-11-17T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100963 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-100963 📢 Source: nvidia 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True NVIDIA TensorRT for Linux contains a vulnerability where a user could cause an integer over",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100963",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100963:2026-11-17T16:19"
-  },
-  {
-   "ts": "2026-11-17T15:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-65106 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-65106 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA Transformer Engine for Linux contains a vulnerability where a user could cause deser",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65106",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65106:2026-11-17T15:49"
-  },
-  {
-   "ts": "2026-11-17T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77224 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-77224 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Camunda 7.24.0 before 7.24.14 and 7.23.0 before 7.23.17 contains an XML External Entity (",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77224",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77224:2026-11-17T14:49"
-  },
-  {
-   "ts": "2026-11-17T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130627 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-130627 📢 Source: redhat-cnalr 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True The Vert.x HTTP client transport (a2a-java-sdk-http-client-vertx) hand-rolls a POST r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130627",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130627:2026-11-17T14:49"
-  },
-  {
-   "ts": "2026-11-17T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123050 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-123050 📢 Source: ENISA 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Multiple Farmasimplex healthcare integration modules do not properly validate TLS certificat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123050",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123050:2026-11-17T14:49"
-  },
-  {
-   "ts": "2026-11-17T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118789 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-118789 📢 Source: ENISA 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Farmasimplex retrieves a CIP News file over HTTP and executes embedded SQL statements agains",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118789",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118789:2026-11-17T14:49"
   }
  ]
 }
