@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-17T08:49:14+00:00",
+ "generated_at": "2026-11-17T09:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121865 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-121865 📢 Source: tenable 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True In nanobot, the WebSocket gateway allows a standard client holding a valid client token to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121865",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121865:2026-11-17T09:19"
+  },
+  {
+   "ts": "2026-11-17T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121864 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-121864 📢 Source: tenable 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True In nanobot, when sandboxed exec is enabled, the shell executable used to run commands can ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121864",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121864:2026-11-17T09:19"
+  },
+  {
+   "ts": "2026-11-17T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109154 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-109154 📢 Source: YesWeHack 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False In the Matter door lock applications of the Nordic Semiconductor nRF Door Lock and Access",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109154",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109154:2026-11-17T09:19"
+  },
+  {
+   "ts": "2026-11-17T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109151 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-109151 📢 Source: YesWeHack 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False In the Matter and Aliro Door Lock Application of the Nordic Semiconductor nRF Door Lock a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109151",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109151:2026-11-17T09:19"
+  },
+  {
+   "ts": "2026-11-17T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109148 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-109148 📢 Source: YesWeHack 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False In the Aliro access control reference applications of the Nordic Semiconductor nRF Door L",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109148",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109148:2026-11-17T09:19"
+  },
+  {
+   "ts": "2026-11-17T09:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109138 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-109138 📢 Source: YesWeHack 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False In the Aliro access control reference applications of the Nordic Semiconductor nRF Door",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109138",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109138:2026-11-17T09:19"
+  },
   {
    "ts": "2026-11-17T05:19:06+00:00",
    "level": "important",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101327",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101327:2026-11-16T19:19"
-  },
-  {
-   "ts": "2026-11-16T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129266 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-129266 📢 Source: AMZN 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True External control of a file path in Amazon Deep Java Library (DJL) versions 0.7.0 through 0.38",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129266",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129266:2026-11-16T18:49"
-  },
-  {
-   "ts": "2026-11-16T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108169 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-108169 📢 Source: Document Fdn. 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False LibreOffice can open a web query file (.iqy), which names a web page to import into",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108169",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108169:2026-11-16T16:49"
-  },
-  {
-   "ts": "2026-11-16T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104920 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-104920 📢 Source: Document Fdn. 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False LibreOffice Calc can link a cell range to an external data source, and the link is ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104920",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104920:2026-11-16T16:49"
-  },
-  {
-   "ts": "2026-11-16T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104692 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-104692 📢 Source: Document Fdn. 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False LibreOffice bundles the HSQLDB database engine, which can be used through the gener",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104692",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104692:2026-11-16T16:49"
-  },
-  {
-   "ts": "2026-11-16T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104007 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-104007 📢 Source: Document Fdn. 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False LibreOffice can connect to databases through JDBC drivers written in Java. A spread",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104007",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104007:2026-11-16T16:49"
-  },
-  {
-   "ts": "2026-11-16T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101930 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-101930 📢 Source: Document Fdn. 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False LibreOffice Writer can open HTML documents, and an HTML document can bind macros to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101930",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101930:2026-11-16T16:49"
   }
  ]
 }
