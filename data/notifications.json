@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-17T15:19:07+00:00",
+ "generated_at": "2026-11-17T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T15:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-65106 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-65106 📢 Source: nvidia 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False NVIDIA Transformer Engine for Linux contains a vulnerability where a user could cause deser",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65106",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65106:2026-11-17T15:49"
+  },
   {
    "ts": "2026-11-17T14:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120387",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120387:2026-11-17T05:19"
-  },
-  {
-   "ts": "2026-11-17T04:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-108153 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-108153 📢 Source: GitLab 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True GitLab has remediated an issue in GitLab CE/EE affecting all versions from 16.1 before 19.3",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-108153",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-108153:2026-11-17T04:49"
   }
  ]
 }
