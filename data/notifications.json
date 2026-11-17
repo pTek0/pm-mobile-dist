@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-17T17:49:07+00:00",
+ "generated_at": "2026-11-17T18:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T18:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80322 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-80322 📢 Source: Ping Identity 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Under specific conditions, PingAuthorize in Gateway mode can continue an asynchronous",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80322",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80322:2026-11-17T18:19"
+  },
   {
    "ts": "2026-11-17T17:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119623",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119623:2026-11-17T11:19"
-  },
-  {
-   "ts": "2026-11-17T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119622 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-119622 📢 Source: TYPO3 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False The backend endpoint for adding online media (e.g. YouTube or Vimeo videos) accepted a targ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119622",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119622:2026-11-17T11:19"
   }
  ]
 }
