@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-17T03:19:08+00:00",
+ "generated_at": "2026-11-17T03:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107902 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-107902 📢 Source: jpcert 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False TELLUS and TELLUS Lite provided by FUJI ELECTRIC CO., LTD. contain a use after free vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107902",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107902:2026-11-17T03:49"
+  },
+  {
+   "ts": "2026-11-17T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107901 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-107901 📢 Source: jpcert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False TELLUS and TELLUS Lite provided by FUJI ELECTRIC CO., LTD. contain an out-of-bounds read v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107901",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107901:2026-11-17T03:49"
+  },
   {
    "ts": "2026-11-17T03:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-100101",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100101:2026-11-16T16:49"
-  },
-  {
-   "ts": "2026-11-16T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-113630 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-113630 📢 Source: rapid7 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Command injection in the documentserver-flush-cache.sh maintenance helper in ONLYOFFICE Do",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113630",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113630:2026-11-16T16:49"
-  },
-  {
-   "ts": "2026-11-16T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129957 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-129957 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True PrestaShop before 8.2.9 and 9.0.0 before 9.2.1 contains a path traversal vulnerability i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129957",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129957:2026-11-16T15:19"
   }
  ]
 }
