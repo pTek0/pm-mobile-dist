@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-17T02:49:07+00:00",
+ "generated_at": "2026-11-17T03:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-17T03:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125275 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-125275 📢 Source: EEF 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Loop with Unreachable Exit Condition ('Infinite Loop') vulnerability in device certificate ver",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125275",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125275:2026-11-17T03:19"
+  },
   {
    "ts": "2026-11-17T02:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129957",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129957:2026-11-16T15:19"
-  },
-  {
-   "ts": "2026-11-16T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129956 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-129956 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Sandboxie-Plus before 1.18.6 contains a local privilege escalation vulnerability in Sbi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129956",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129956:2026-11-16T15:19"
   }
  ]
 }
