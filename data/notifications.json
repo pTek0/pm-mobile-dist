@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-18T09:19:07+00:00",
+ "generated_at": "2026-11-18T09:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T09:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-19707 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-19707 📢 Source: Airlock 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True A bug in the Airlock Gateway (8.5.2 and earlier, and 8.6.0) allows attacker-controlled ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19707",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19707:2026-11-18T09:49"
+  },
+  {
+   "ts": "2026-11-18T09:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-95643 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-95643 📢 Source: Zohocorp 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Zohocorp Manageengine DDI Central build below 6500 are affected by a authenticated Pow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95643",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95643:2026-11-18T09:49"
+  },
   {
    "ts": "2026-11-18T09:19:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
    "source": "Hacker News",
    "id": "community:https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/:2026-11-17T23:49"
-  },
-  {
-   "ts": "2026-11-17T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Phrack 73 Released",
-   "body": "Hacker News · 점수 206",
-   "link": "https://phrack.org/issues/73/introduction_md",
-   "source": "Hacker News",
-   "id": "community:https://phrack.org/issues/73/introduction_md:2026-11-17T23:49"
-  },
-  {
-   "ts": "2026-11-17T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129025 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-129025 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Brainstorm Force ZIP AI zip-ai allow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129025",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129025:2026-11-17T23:19"
   }
  ]
 }
