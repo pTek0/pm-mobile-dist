@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-11-18T01:49:08+00:00",
+ "generated_at": "2026-11-18T02:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93459 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-93459 📢 Source: ASUS 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Use of externally-controlled format string in certain ASUS Router firmware allows a nearby ad",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93459",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93459:2026-11-18T02:19"
+  },
+  {
+   "ts": "2026-11-18T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88711 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-88711 📢 Source: ASUS 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command in certain ASUS Router firmw",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88711",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88711:2026-11-18T02:19"
+  },
+  {
+   "ts": "2026-11-18T02:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-126574 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-126574 📢 Source: ASUS 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Missing authorization vulnerability in ASUS Control Center Datacenter and Control Center ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126574",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126574:2026-11-18T02:19"
+  },
+  {
+   "ts": "2026-11-18T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119469 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-119469 📢 Source: ASUS 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Incorrect default permissions in the ASUS DisplayWidget Center allow a local, low-privileged u",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119469",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119469:2026-11-18T02:19"
+  },
+  {
+   "ts": "2026-11-18T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116643 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-116643 📢 Source: GitHub_P 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An SSH certificate authentication bypass vulnerability in GitHub Enterprise Server allowe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116643",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116643:2026-11-18T02:19"
+  },
+  {
+   "ts": "2026-11-18T02:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-114205 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-114205 📢 Source: ASUS 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Incorrect authorization in ASUS Control Center Express allows a remote authenticated user",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114205",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114205:2026-11-18T02:19"
+  },
+  {
+   "ts": "2026-11-18T02:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-114204 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-114204 📢 Source: ASUS 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Use of Hard-coded Cryptographic Key in ASUS Control Center Express allows a remote user to ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114204",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114204:2026-11-18T02:19"
+  },
+  {
+   "ts": "2026-11-18T02:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-114202 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-114202 📢 Source: ASUS 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Use of Hard-coded Cryptographic Key in ASUS Control Center Express allows a remote user to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114202",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114202:2026-11-18T02:19"
+  },
+  {
+   "ts": "2026-11-18T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112117 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-112117 📢 Source: ASUS 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') in ASUS Sys",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112117",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112117:2026-11-18T02:19"
+  },
+  {
+   "ts": "2026-11-18T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-112115 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-112115 📢 Source: ASUS 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An untrusted search path in ASUS Armoury Crate allows a local, low-privileged user to achiev",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112115",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112115:2026-11-18T02:19"
+  },
+  {
+   "ts": "2026-11-18T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116637 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-116637 📢 Source: GitHub_P 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A site administrator could modify files on the appliance host with root privileges and di",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116637",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116637:2026-11-18T02:19"
+  },
+  {
+   "ts": "2026-11-18T02:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105929 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-105929 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A path traversal vulnerability (CWE-22) was found in ansible-core's ansible-galaxy role ins",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105929",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105929:2026-11-18T02:19"
+  },
   {
    "ts": "2026-11-18T01:49:07+00:00",
    "level": "general",
@@ -381,126 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85648",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85648:2026-11-17T19:19"
-  },
-  {
-   "ts": "2026-11-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85647 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-85647 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DWG file containing a malformed embedded image, when parsed through",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85647",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85647:2026-11-17T19:19"
-  },
-  {
-   "ts": "2026-11-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85646 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-85646 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DWF file, when parsed through Autodesk AutoCAD, can force a Heap-Ba",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85646",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85646:2026-11-17T19:19"
-  },
-  {
-   "ts": "2026-11-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-84855 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-84855 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DGN file, when parsed through Autodesk AutoCAD, can force a Heap-Ba",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-84855",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-84855:2026-11-17T19:19"
-  },
-  {
-   "ts": "2026-11-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130621 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-130621 📢 Source: AMZN 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A time-of-check time-of-use (TOCTOU) race condition in the local port selection in AWS efs-ut",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130621",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130621:2026-11-17T19:19"
-  },
-  {
-   "ts": "2026-11-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-104868 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-104868 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DWG file, when parsed by Autodesk AutoCAD, can trigger an Integer ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104868",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104868:2026-11-17T19:19"
-  },
-  {
-   "ts": "2026-11-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77943 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-77943 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DXF file, when parsed through Autodesk AutoCAD, can force an Out-of",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77943",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77943:2026-11-17T19:19"
-  },
-  {
-   "ts": "2026-11-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-77942 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-77942 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted IES file, when parsed through Autodesk AutoCAD, can force an Out-of",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77942",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77942:2026-11-17T19:19"
-  },
-  {
-   "ts": "2026-11-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18827 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-18827 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DWG file containing an attacker-controlled Excel Data Link connecti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18827",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18827:2026-11-17T19:19"
-  },
-  {
-   "ts": "2026-11-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-18826 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-18826 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DXF file, when parsed through Autodesk AutoCAD, can force a Type Co",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18826",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18826:2026-11-17T19:19"
-  },
-  {
-   "ts": "2026-11-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-16780 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-16780 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DXF file, when parsed through Autodesk AutoCAD, can force a Heap-Ba",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16780",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16780:2026-11-17T19:19"
-  },
-  {
-   "ts": "2026-11-17T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80322 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-80322 📢 Source: Ping Identity 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Under specific conditions, PingAuthorize in Gateway mode can continue an asynchronous",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80322",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80322:2026-11-17T18:19"
-  },
-  {
-   "ts": "2026-11-17T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-126558 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-126558 📢 Source: ca 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True OS Command Injection, Incomplete List of Disallowed Inputs vulnerability in Broadcom AutoSys Wo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126558",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126558:2026-11-17T17:19"
   }
  ]
 }
