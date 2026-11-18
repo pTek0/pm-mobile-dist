@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-18T00:19:07+00:00",
+ "generated_at": "2026-11-18T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Redict is deprecated",
+   "body": "Lobsters · 점수 64",
+   "link": "https://redict.io/posts/2026-11-17-redict-deprecated/",
+   "source": "Lobsters",
+   "id": "community:https://redict.io/posts/2026-11-17-redict-deprecated/:2026-11-18T00:49"
+  },
+  {
+   "ts": "2026-11-18T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] California sues OpenAI over hacking risks",
+   "body": "Lemmy · technology · 점수 54",
+   "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident:2026-11-18T00:49"
+  },
   {
    "ts": "2026-11-18T00:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-126553",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126553:2026-11-17T16:49"
-  },
-  {
-   "ts": "2026-11-17T16:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-126552 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-126552 📢 Source: ca 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Missing Authentication for Critical Function, OS Command Injection vulnerability in Broadco",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126552",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126552:2026-11-17T16:49"
-  },
-  {
-   "ts": "2026-11-17T16:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-126551 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-126551 📢 Source: ca 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Use of Hard-coded Cryptographic Key vulnerability in Broadcom AutoSys Workload Automation (",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126551",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126551:2026-11-17T16:49"
   }
  ]
 }
