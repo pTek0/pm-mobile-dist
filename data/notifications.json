@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-11-18T18:49:08+00:00",
+ "generated_at": "2026-11-18T19:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130764 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-130764 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Obot from 0.8.0 before 0.27.0 contains a server-side request forgery vulnerability that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130764",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130764:2026-11-18T19:19"
+  },
+  {
+   "ts": "2026-11-18T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130762 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-130762 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Fleet before 4.92.0 contains an SQL injection vulnerability that allows authenticated ob",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130762",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130762:2026-11-18T19:19"
+  },
+  {
+   "ts": "2026-11-18T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130761 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-130761 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Fleet before 4.92.0 contains a denial of service vulnerability that allows enrolled host",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130761",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130761:2026-11-18T19:19"
+  },
+  {
+   "ts": "2026-11-18T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130760 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-130760 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Fleet before 4.86.2 contains a denial of service vulnerability that allows unauthenticat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130760",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130760:2026-11-18T19:19"
+  },
+  {
+   "ts": "2026-11-18T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130759 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-130759 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Fleet from 4.71.0 before 4.88.2 contains an authentication bypass vulnerability in t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130759",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130759:2026-11-18T19:19"
+  },
+  {
+   "ts": "2026-11-18T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130758 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-130758 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Fleet before 4.92.0 contains an authorization bypass vulnerability in the deprecated POS",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130758",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130758:2026-11-18T19:19"
+  },
+  {
+   "ts": "2026-11-18T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130757 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-130757 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Fleet before 4.92.0 contains an improper authentication vulnerability that allows at",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130757",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130757:2026-11-18T19:19"
+  },
+  {
+   "ts": "2026-11-18T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130756 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-130756 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True pnpm exe before 10.34.8 embeds an outdated Node.js runtime that still trusts comprom",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130756",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130756:2026-11-18T19:19"
+  },
+  {
+   "ts": "2026-11-18T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130754 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-130754 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True All versions of LaraDashboard contain an authentication bypass in SocialAuthService:",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130754",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130754:2026-11-18T19:19"
+  },
+  {
+   "ts": "2026-11-18T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130753 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-130753 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True heym before 0.0.142 contains a remote code execution vulnerability in the Playwright ste",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130753",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130753:2026-11-18T19:19"
+  },
+  {
+   "ts": "2026-11-18T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130751 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-130751 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True OpenWrt LuCI luci-app-travelmate on master before 3.0.0-1 and on openwrt-25.12 before 2.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130751",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130751:2026-11-18T19:19"
+  },
   {
    "ts": "2026-11-18T17:49:07+00:00",
    "level": "important",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2012-20007",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2012-20007:2026-11-18T15:49"
-  },
-  {
-   "ts": "2026-11-18T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132038 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-132038 📢 Source: rapid7 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Rapid7 Metasploit Framework versions prior to 6.5.10 suffer from an Improper Access Contro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132038",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132038:2026-11-18T15:19"
-  },
-  {
-   "ts": "2026-11-18T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-116446 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-116446 📢 Source: dell 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Dell PowerStore SDNAS contains an out-of-bounds memory vulnerability in the NAS NFS servi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116446",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116446:2026-11-18T15:19"
-  },
-  {
-   "ts": "2026-11-18T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132150 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-132150 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the file-xmc plugin in GIMP. When processing a specially crafted XMC i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132150",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132150:2026-11-18T14:49"
-  },
-  {
-   "ts": "2026-11-18T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116447 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-116447 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Dell PowerStore SDNAS contains a local privilege-escalation vulnerability that could allow a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116447",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116447:2026-11-18T14:49"
-  },
-  {
-   "ts": "2026-11-18T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109908 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-109908 📢 Source: suse 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A heap buffer overflow in reading encoding files in X.Org libfontenc before 1.11.0 could be ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109908",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109908:2026-11-18T14:49"
-  },
-  {
-   "ts": "2026-11-18T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-116448 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-116448 📢 Source: dell 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Dell PowerStore SDNAS contains an OS Command Injection vulnerability that could allow an ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116448",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116448:2026-11-18T14:49"
-  },
-  {
-   "ts": "2026-11-18T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95823 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-95823 📢 Source: zephyr 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False tcp_pkt_linearize() in subsys/net/ip/tcp.c is used by th_get() whenever a received TCP head",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95823",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95823:2026-11-18T14:49"
-  },
-  {
-   "ts": "2026-11-18T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82171 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-82171 📢 Source: dell 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an XML External Entity (XXE) Injection vulnerability. A high-privileged",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82171",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82171:2026-11-18T14:49"
-  },
-  {
-   "ts": "2026-11-18T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-15263 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-15263 📢 Source: Everpure 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A server-side request forgery (SSRF) vulnerability in the Pure Storage FlashArray extensio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-15263",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-15263:2026-11-18T14:49"
-  },
-  {
-   "ts": "2026-11-18T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111507 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-111507 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an authorization bypass vulnerability. A remote attacker could explo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111507",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111507:2026-11-18T14:49"
-  },
-  {
-   "ts": "2026-11-18T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107515 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-107515 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an Improper Privilege Management vulnerability. An authenticated att",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107515",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107515:2026-11-18T14:19"
   }
  ]
 }
