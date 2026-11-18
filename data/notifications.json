@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-18T01:19:07+00:00",
+ "generated_at": "2026-11-18T01:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131820 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-131820 📢 Source: GitHub_P 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A server-side request forgery vulnerability in GitHub Enterprise Server allowed an authen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131820",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131820:2026-11-18T01:49"
+  },
   {
    "ts": "2026-11-18T00:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-126558",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126558:2026-11-17T17:19"
-  },
-  {
-   "ts": "2026-11-17T16:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-126553 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-126553 📢 Source: ca 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Broadcom AutoSys Workload Automation (Wo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126553",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126553:2026-11-17T16:49"
   }
  ]
 }
