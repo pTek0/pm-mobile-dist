@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-18T03:19:07+00:00",
+ "generated_at": "2026-11-18T03:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130644 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-130644 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A path traversal flaw was found in ansible-core. When installing a collection with ansible-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130644",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130644:2026-11-18T03:49"
+  },
   {
    "ts": "2026-11-18T02:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-130835",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130835:2026-11-17T20:19"
-  },
-  {
-   "ts": "2026-11-17T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130796 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-130796 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Flowise 3.1.3 through 3.1.4 contains an information disclosure vulnerability that allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130796",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130796:2026-11-17T20:19"
   }
  ]
 }
