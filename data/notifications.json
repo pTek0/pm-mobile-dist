@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-18T08:19:08+00:00",
+ "generated_at": "2026-11-18T08:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113497 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-113497 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A low-privileged remote attacker can change the password of arbitrary users using the REST",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113497",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113497:2026-11-18T08:49"
+  },
   {
    "ts": "2026-11-18T08:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
    "source": "Hacker News",
    "id": "community:https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html:2026-11-17T23:19"
-  },
-  {
-   "ts": "2026-11-17T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GPT‑6.2 Astra and Sol",
-   "body": "Hacker News · 점수 971",
-   "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-   "source": "Hacker News",
-   "id": "community:https://openai.com/index/introducing-gpt-6-2-astra-sol/:2026-11-17T23:19"
   }
  ]
 }
