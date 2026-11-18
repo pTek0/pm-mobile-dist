@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-18T20:19:08+00:00",
+ "generated_at": "2026-11-18T20:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132144 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-132144 📢 Source: CIRCL 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True MISP contains an authorization flaw in the user login-email change logic. When an external a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132144",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132144:2026-11-18T20:49"
+  },
+  {
+   "ts": "2026-11-18T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130091 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-130091 📢 Source: Temporal 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A caller with write permission in a namespace can terminate temporal-proxy through memory",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130091",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130091:2026-11-18T20:49"
+  },
+  {
+   "ts": "2026-11-18T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127222 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-127222 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SGLang through 0.5.23, fixed in commit 7b5fb39, contains a missing authorization vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127222",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127222:2026-11-18T20:49"
+  },
+  {
+   "ts": "2026-11-18T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130092 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-130092 📢 Source: Temporal 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A caller who can reach the temporal-proxy gRPC listener, with or without a valid credenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130092",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130092:2026-11-18T20:49"
+  },
+  {
+   "ts": "2026-11-18T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130089 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-130089 📢 Source: Temporal 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True A caller who can send requests to the temporal-proxy gRPC listener can obtain the static ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130089",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130089:2026-11-18T20:49"
+  },
   {
    "ts": "2026-11-18T19:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2018-25443",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2018-25443:2026-11-18T15:49"
-  },
-  {
-   "ts": "2026-11-18T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2018-25442 (CVSS 8.3)",
-   "body": "🚨 CVE-2018-25442 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Baidu UEditor 1.4.0 before 1.4.3.1 contains a server-side request forgery vulnerability t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2018-25442",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2018-25442:2026-11-18T15:49"
-  },
-  {
-   "ts": "2026-11-18T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2016-20106 (CVSS 8.7)",
-   "body": "🚨 CVE-2016-20106 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True NUUO NVRmini 2 through 3.0.8 contains a file disclosure vulnerability that allows unauthe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2016-20106",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2016-20106:2026-11-18T15:49"
-  },
-  {
-   "ts": "2026-11-18T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2016-20105 (CVSS 9.2)",
-   "body": "🚨 CVE-2016-20105 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Lucee Server versions 5.0.0.0 before 5.3.4.46 contain an insecure default configurati",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2016-20105",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2016-20105:2026-11-18T15:49"
-  },
-  {
-   "ts": "2026-11-18T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2012-20008 (CVSS 8.8)",
-   "body": "🚨 CVE-2012-20008 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True openSIS 5.1 before 9.0 contains a local file inclusion vulnerability that allows authenti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2012-20008",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2012-20008:2026-11-18T15:49"
-  },
-  {
-   "ts": "2026-11-18T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2012-20007 (CVSS 9.8)",
-   "body": "🚨 CVE-2012-20007 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ThinkPHP 2.0 through 2.2 and 3.0 Lite mode contains an eval injection vulnerability i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2012-20007",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2012-20007:2026-11-18T15:49"
   }
  ]
 }
