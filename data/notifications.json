@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-18T15:49:08+00:00",
+ "generated_at": "2026-11-18T16:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T16:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132224 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-132224 📢 Source: mitre 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Optimizely Web Experimentation before 2026-11-17 mishandles the account signup flow, leading",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132224",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132224:2026-11-18T16:19"
+  },
   {
    "ts": "2026-11-18T15:49:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2025-59911",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-59911:2026-11-18T11:19"
-  },
-  {
-   "ts": "2026-11-18T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-59910 (CVSS 7.1)",
-   "body": "🚨 CVE-2025-59910 📢 Source: INCIBE 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Insecure Direct Object Reference (IDOR) vulnerability. Exploiting this vulnerability allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-59910",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-59910:2026-11-18T11:19"
   }
  ]
 }
