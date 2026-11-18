@@ -1,7 +1,167 @@
 {
- "generated_at": "2026-11-18T16:49:12+00:00",
+ "generated_at": "2026-11-18T17:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132245 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-132245 📢 Source: JetBrains 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 doS via agent command results was possi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132245",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132245:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132244 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-132244 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 stored XSS on the Disk Usage and Build ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132244",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132244:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132243 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-132243 📢 Source: JetBrains 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 stored XSS on the Docker Container Info",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132243",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132243:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132242 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-132242 📢 Source: JetBrains 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 stored XSS in the Promote build dialog ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132242",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132242:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132241 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-132241 📢 Source: JetBrains 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 xXE in the .NET build steps auto-discov",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132241",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132241:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132240 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-132240 📢 Source: JetBrains 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 xXE via Maven settings file upload was ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132240",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132240:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132239 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-132239 📢 Source: JetBrains 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 missing authorization in the Kubernetes",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132239",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132239:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132238 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-132238 📢 Source: JetBrains 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.8 disclosure of password parameter values",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132238",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132238:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132237 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-132237 📢 Source: JetBrains 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 remote code execution was possible via ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132237",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132237:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132236 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-132236 📢 Source: JetBrains 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 remote code execution was possible via ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132236",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132236:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132235 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-132235 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 remote code execution was possible via ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132235",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132235:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-132234 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-132234 📢 Source: JetBrains 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 remote code execution was possible ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132234",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132234:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-132233 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-132233 📢 Source: JetBrains 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 remote code execution was possible ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132233",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132233:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-132232 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-132232 📢 Source: JetBrains 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 remote code execution was possible ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132232",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132232:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-132231 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-132231 📢 Source: JetBrains 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 remote code execution was possible ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132231",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132231:2026-11-18T17:19"
+  },
+  {
+   "ts": "2026-11-18T17:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126675 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-126675 📢 Source: Nitro 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Incorrect default permissions on the folder-level JavaScript directory in Nitro PDF Pro bef",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126675",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126675:2026-11-18T17:19"
+  },
   {
    "ts": "2026-11-18T16:49:09+00:00",
    "level": "important",
@@ -341,166 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129961",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129961:2026-11-18T13:19"
-  },
-  {
-   "ts": "2026-11-18T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-127143 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-127143 📢 Source: CERT-PL 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True LMS (Lan Management System) is vulnerable to privilege escalation in the lmsd daemon. ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127143",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127143:2026-11-18T13:19"
-  },
-  {
-   "ts": "2026-11-18T13:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-127142 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-127142 📢 Source: CERT-PL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True LMS (Lan Management System) is vulnerable to Remote Code Execution via unrestricted upload",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127142",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127142:2026-11-18T13:19"
-  },
-  {
-   "ts": "2026-11-18T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-113699 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-113699 📢 Source: TR-CERT 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command ('OS command injection')",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113699",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113699:2026-11-18T12:49"
-  },
-  {
-   "ts": "2026-11-18T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107519 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-107519 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an integer underflow vulnerability. An attacker could exploit this v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107519",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107519:2026-11-18T12:49"
-  },
-  {
-   "ts": "2026-11-18T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132121 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-132121 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Supergateway 2.4.0 through 4.2.2 contains a cross-site WebSocket hijacking vulnerability",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132121",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132121:2026-11-18T12:49"
-  },
-  {
-   "ts": "2026-11-18T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109861 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-109861 📢 Source: CERT-PL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True CAST Imaging contains a hardcoded authentication token in the \"KeyCloakController\" class o",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109861",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109861:2026-11-18T12:49"
-  },
-  {
-   "ts": "2026-11-18T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109860 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-109860 📢 Source: CERT-PL 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True CAST Imaging is vulnerable to Path Traversal vulnerability in \"/api/server-folders\" and \"/",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109860",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109860:2026-11-18T12:49"
-  },
-  {
-   "ts": "2026-11-18T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-109858 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-109858 📢 Source: CERT-PL 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True CAST Imaging has multiple path traversal vulnerabilities in various endpoints. The applica",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109858",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109858:2026-11-18T12:49"
-  },
-  {
-   "ts": "2026-11-18T12:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-109857 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-109857 📢 Source: CERT-PL 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True CAST Imaging is vulnerable to authentication bypass in the TenantFilter class. The Ten",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109857",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109857:2026-11-18T12:49"
-  },
-  {
-   "ts": "2026-11-18T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107518 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-107518 📢 Source: dell 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains a Server-Side Request Forgery (SSRF) vulnerability. An authenticated",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107518",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107518:2026-11-18T12:49"
-  },
-  {
-   "ts": "2026-11-18T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87790 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-87790 📢 Source: ENISA 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Latvijas Valsts radio un televīzijas centrs (LVRTC) eParakstītājs 3.0 version 1.10.0-resolute",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87790",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87790:2026-11-18T12:19"
-  },
-  {
-   "ts": "2026-11-18T12:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-111508 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-111508 📢 Source: dell 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Dell PowerStore contains an OS Command Injection vulnerability. Exploitation could lead t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111508",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111508:2026-11-18T12:19"
-  },
-  {
-   "ts": "2026-11-18T12:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87789 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-87789 📢 Source: ENISA 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Latvijas Valsts radio un televīzijas centrs (LVRTC) eParakstītājs 3.0 version 1.10.0 for macO",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87789",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87789:2026-11-18T12:19"
-  },
-  {
-   "ts": "2026-11-18T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nation wide emergency alert test Tuesday in USA",
-   "body": "Lemmy · technology · 점수 56",
-   "link": "https://www.wral.com/news/ap/nationwide-emergency-alert-tuesday-november-17-2026/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.wral.com/news/ap/nationwide-emergency-alert-tuesday-november-17-2026/:2026-11-18T12:19"
-  },
-  {
-   "ts": "2026-11-18T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Java4Shell Vulnerability For OpenJDK Java That Can Lead To R",
-   "body": "Lemmy · technology · 점수 52",
-   "link": "https://www.phoronix.com/news/Java4Shell-Vulnerability",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.phoronix.com/news/Java4Shell-Vulnerability:2026-11-18T12:19"
-  },
-  {
-   "ts": "2026-11-18T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] ID.me terms required for IRS sign-in",
-   "body": "Hacker News · 점수 371",
-   "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-   "source": "Hacker News",
-   "id": "community:https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in:2026-11-18T11:49"
   }
  ]
 }
