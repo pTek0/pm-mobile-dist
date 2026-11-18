@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-18T11:49:07+00:00",
+ "generated_at": "2026-11-18T12:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87790 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-87790 📢 Source: ENISA 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Latvijas Valsts radio un televīzijas centrs (LVRTC) eParakstītājs 3.0 version 1.10.0-resolute",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87790",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87790:2026-11-18T12:19"
+  },
+  {
+   "ts": "2026-11-18T12:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111508 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-111508 📢 Source: dell 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Dell PowerStore contains an OS Command Injection vulnerability. Exploitation could lead t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111508",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111508:2026-11-18T12:19"
+  },
+  {
+   "ts": "2026-11-18T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87789 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-87789 📢 Source: ENISA 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Latvijas Valsts radio un televīzijas centrs (LVRTC) eParakstītājs 3.0 version 1.10.0 for macO",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87789",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87789:2026-11-18T12:19"
+  },
+  {
+   "ts": "2026-11-18T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nation wide emergency alert test Tuesday in USA",
+   "body": "Lemmy · technology · 점수 56",
+   "link": "https://www.wral.com/news/ap/nationwide-emergency-alert-tuesday-november-17-2026/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.wral.com/news/ap/nationwide-emergency-alert-tuesday-november-17-2026/:2026-11-18T12:19"
+  },
+  {
+   "ts": "2026-11-18T12:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Java4Shell Vulnerability For OpenJDK Java That Can Lead To R",
+   "body": "Lemmy · technology · 점수 52",
+   "link": "https://www.phoronix.com/news/Java4Shell-Vulnerability",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.phoronix.com/news/Java4Shell-Vulnerability:2026-11-18T12:19"
+  },
   {
    "ts": "2026-11-18T11:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-112117",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112117:2026-11-18T02:19"
-  },
-  {
-   "ts": "2026-11-18T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112115 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-112115 📢 Source: ASUS 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An untrusted search path in ASUS Armoury Crate allows a local, low-privileged user to achiev",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112115",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112115:2026-11-18T02:19"
-  },
-  {
-   "ts": "2026-11-18T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116637 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-116637 📢 Source: GitHub_P 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A site administrator could modify files on the appliance host with root privileges and di",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116637",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116637:2026-11-18T02:19"
-  },
-  {
-   "ts": "2026-11-18T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105929 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-105929 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A path traversal vulnerability (CWE-22) was found in ansible-core's ansible-galaxy role ins",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105929",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105929:2026-11-18T02:19"
-  },
-  {
-   "ts": "2026-11-18T01:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-131820 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-131820 📢 Source: GitHub_P 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A server-side request forgery vulnerability in GitHub Enterprise Server allowed an authen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131820",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131820:2026-11-18T01:49"
-  },
-  {
-   "ts": "2026-11-18T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Redict is deprecated",
-   "body": "Lobsters · 점수 64",
-   "link": "https://redict.io/posts/2026-11-17-redict-deprecated/",
-   "source": "Lobsters",
-   "id": "community:https://redict.io/posts/2026-11-17-redict-deprecated/:2026-11-18T00:49"
   }
  ]
 }
