@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-18T20:49:07+00:00",
+ "generated_at": "2026-11-18T21:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-76007 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-76007 📢 Source: ibm 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True IBM Engineering AI Hub 1.0.0 through 1.4.0 could allow a remote attacker to obtain sensitive in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-76007",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-76007:2026-11-18T21:19"
+  },
+  {
+   "ts": "2026-11-18T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114585 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-114585 📢 Source: ibm 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True IBM Engineering AI Hub 1.0.0 through 1.4.0 could allow a remote authenticated attacker to obta",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114585",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114585:2026-11-18T21:19"
+  },
+  {
+   "ts": "2026-11-18T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111513 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-111513 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell Alienware Command Center (AWCC), versions prior to 6.14.105.0 , contain an Improper Ver",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111513",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111513:2026-11-18T21:19"
+  },
   {
    "ts": "2026-11-18T20:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2019-25785",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2019-25785:2026-11-18T15:49"
-  },
-  {
-   "ts": "2026-11-18T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2019-25784 (CVSS 8.8)",
-   "body": "🚨 CVE-2019-25784 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True FineCMS versions 5.0.4 before 5.0.11 contain an unauthenticated SQL injection vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2019-25784",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2019-25784:2026-11-18T15:49"
-  },
-  {
-   "ts": "2026-11-18T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2019-25782 (CVSS 9.8)",
-   "body": "🚨 CVE-2019-25782 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ThinkPHP 5.0.0 before 5.0.24 contains a code injection vulnerability that allows unau",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2019-25782",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2019-25782:2026-11-18T15:49"
-  },
-  {
-   "ts": "2026-11-18T15:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2018-25443 (CVSS 9.8)",
-   "body": "🚨 CVE-2018-25443 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Baidu UEditor 1.4.0 through 1.4.3.3 contains an unrestricted file upload vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2018-25443",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2018-25443:2026-11-18T15:49"
   }
  ]
 }
