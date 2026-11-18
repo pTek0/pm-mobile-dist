@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-18T16:19:08+00:00",
+ "generated_at": "2026-11-18T16:49:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T16:49:09+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-116441 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-116441 📢 Source: dell 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False Dell PowerStore SDNAS contains an out-of-bounds write vulnerability in the storage-proce",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116441",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116441:2026-11-18T16:49"
+  },
+  {
+   "ts": "2026-11-18T16:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132219 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-132219 📢 Source: INCIBE 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Insecure Direct Object Reference (IDOR) vulnerability. Exploiting this vulnerability allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132219",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132219:2026-11-18T16:49"
+  },
+  {
+   "ts": "2026-11-18T16:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132218 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-132218 📢 Source: INCIBE 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Insecure Direct Object Reference (IDOR) vulnerability. Exploiting this vulnerability allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132218",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132218:2026-11-18T16:49"
+  },
+  {
+   "ts": "2026-11-18T16:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116442 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-116442 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore SDNAS contains an authentication-bypass-by-replay vulnerability in the NAS ND",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116442",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116442:2026-11-18T16:49"
+  },
+  {
+   "ts": "2026-11-18T16:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132217 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-132217 📢 Source: INCIBE 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Insecure Direct Object Reference (IDOR) vulnerability. Exploiting this vulnerability allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132217",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132217:2026-11-18T16:49"
+  },
+  {
+   "ts": "2026-11-18T16:49:09+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132216 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-132216 📢 Source: INCIBE 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Insecure Direct Object Reference (IDOR) vulnerability. Exploiting this vulnerability allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132216",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132216:2026-11-18T16:49"
+  },
   {
    "ts": "2026-11-18T16:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
    "source": "Hacker News",
    "id": "community:https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in:2026-11-18T11:49"
-  },
-  {
-   "ts": "2026-11-18T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Outages reported at the NSA and Apple",
-   "body": "Lemmy · technology · 점수 250",
-   "link": "https://www.nbcnews.com/now/video/outages-reported-at-the-nsa-and-apple-273663557942",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.nbcnews.com/now/video/outages-reported-at-the-nsa-and-apple-273663557942:2026-11-18T11:49"
-  },
-  {
-   "ts": "2026-11-18T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Chatbots know climate science. But only until you disagree.",
-   "body": "Lemmy · technology · 점수 121",
-   "link": "https://messaging-custom-newsletters.nytimes.com/dynamic/render?uri=nyt%3A%2F%2Fnewsletter%2F687f1ae7-1a1b-597b-bc68-7d0ba23ad92f",
-   "source": "Lemmy · technology",
-   "id": "community:https://messaging-custom-newsletters.nytimes.com/dynamic/render?uri=nyt%3A%2F%2Fnewsletter%2F687f1ae7-1a1b-597b-bc68-7d0ba23ad92f:2026-11-18T11:49"
-  },
-  {
-   "ts": "2026-11-18T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nuclear Explosion in Low Earth Orbit Would Disable 98% of Sa",
-   "body": "Lemmy · technology · 점수 73",
-   "link": "https://gizmodo.com/scientists-simulated-a-nuclear-blast-in-orbit-and-nearly-every-satellite-died-2000841217",
-   "source": "Lemmy · technology",
-   "id": "community:https://gizmodo.com/scientists-simulated-a-nuclear-blast-in-orbit-and-nearly-every-satellite-died-2000841217:2026-11-18T11:49"
-  },
-  {
-   "ts": "2026-11-18T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Codeberg's domain suddenly disappeared from their account, s",
-   "body": "Lobsters · 점수 56",
-   "link": "https://social.anoxinon.de/@Codeberg/117636454915265360",
-   "source": "Lobsters",
-   "id": "community:https://social.anoxinon.de/@Codeberg/117636454915265360:2026-11-18T11:49"
-  },
-  {
-   "ts": "2026-11-18T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-59912 (CVSS 7.1)",
-   "body": "🚨 CVE-2025-59912 📢 Source: INCIBE 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Insecure Direct Object Reference (IDOR) vulnerability. Exploiting this vulnerability allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-59912",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-59912:2026-11-18T11:19"
-  },
-  {
-   "ts": "2026-11-18T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2025-59911 (CVSS 7.1)",
-   "body": "🚨 CVE-2025-59911 📢 Source: INCIBE 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Insecure Direct Object Reference (IDOR) vulnerability. Exploiting this vulnerability allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2025-59911",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-59911:2026-11-18T11:19"
   }
  ]
 }
