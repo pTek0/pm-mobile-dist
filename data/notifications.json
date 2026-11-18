@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-18T13:49:08+00:00",
+ "generated_at": "2026-11-18T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107515 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-107515 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an Improper Privilege Management vulnerability. An authenticated att",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107515",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107515:2026-11-18T14:19"
+  },
   {
    "ts": "2026-11-18T13:49:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-131800",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131800:2026-11-18T02:49"
-  },
-  {
-   "ts": "2026-11-18T02:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-131876 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-131876 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True fqterm 0.9.9 before 0.9.11 contains an out-of-bounds memory access vulnerability in its ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131876",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131876:2026-11-18T02:49"
   }
  ]
 }
