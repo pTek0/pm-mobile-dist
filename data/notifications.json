@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-18T12:49:07+00:00",
+ "generated_at": "2026-11-18T13:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129961 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-129961 📢 Source: CERT-PL 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True LMS (Lan Management System) is vulnerable to Remote Code Execution in its e-mail-based",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129961",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129961:2026-11-18T13:19"
+  },
+  {
+   "ts": "2026-11-18T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-127143 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-127143 📢 Source: CERT-PL 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True LMS (Lan Management System) is vulnerable to privilege escalation in the lmsd daemon. ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127143",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127143:2026-11-18T13:19"
+  },
+  {
+   "ts": "2026-11-18T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127142 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-127142 📢 Source: CERT-PL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True LMS (Lan Management System) is vulnerable to Remote Code Execution via unrestricted upload",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127142",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127142:2026-11-18T13:19"
+  },
   {
    "ts": "2026-11-18T12:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-131875",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131875:2026-11-18T02:49"
-  },
-  {
-   "ts": "2026-11-18T02:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-131871 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-131871 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False WLA DX 9.7 through 10.7 contains a stack-based buffer overflow vulnerability in parse_d",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131871",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131871:2026-11-18T02:49"
-  },
-  {
-   "ts": "2026-11-18T02:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-107950 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-107950 📢 Source: HCL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True An XML External Entity (XXE) vulnerability affects a Storefront REST API in HCL Commerce versi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107950",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107950:2026-11-18T02:49"
-  },
-  {
-   "ts": "2026-11-18T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93459 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-93459 📢 Source: ASUS 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Use of externally-controlled format string in certain ASUS Router firmware allows a nearby ad",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93459",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93459:2026-11-18T02:19"
   }
  ]
 }
