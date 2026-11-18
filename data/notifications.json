@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-18T14:49:08+00:00",
+ "generated_at": "2026-11-18T15:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132038 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-132038 📢 Source: rapid7 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Rapid7 Metasploit Framework versions prior to 6.5.10 suffer from an Improper Access Contro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132038",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132038:2026-11-18T15:19"
+  },
+  {
+   "ts": "2026-11-18T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-116446 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-116446 📢 Source: dell 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Dell PowerStore SDNAS contains an out-of-bounds memory vulnerability in the NAS NFS servi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116446",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116446:2026-11-18T15:19"
+  },
   {
    "ts": "2026-11-18T14:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-113497",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113497:2026-11-18T08:49"
-  },
-  {
-   "ts": "2026-11-18T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125829 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-125829 📢 Source: Patchstack 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125829",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125829:2026-11-18T08:19"
-  },
-  {
-   "ts": "2026-11-18T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125820 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-125820 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Rymera Web Co Product Feed PRO for W",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125820",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125820:2026-11-18T08:19"
   }
  ]
 }
