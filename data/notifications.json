@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-18T04:49:07+00:00",
+ "generated_at": "2026-11-18T05:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T05:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118900 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-118900 📢 Source: jpcert 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False An OS command injection vulnerability exists in the Android application \"Imperial Palaces ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118900",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118900:2026-11-18T05:19"
+  },
   {
    "ts": "2026-11-18T04:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-130622",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130622:2026-11-17T20:19"
-  },
-  {
-   "ts": "2026-11-17T20:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-130838 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-130838 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Radicale 3.3.0 before 3.8.3 contains an authorization bypass vulnerability that allo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130838",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130838:2026-11-17T20:19"
   }
  ]
 }
