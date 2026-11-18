@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-18T21:19:08+00:00",
+ "generated_at": "2026-11-18T21:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-106094 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-106094 📢 Source: Westell 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command ('OS command injection')",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-106094",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-106094:2026-11-18T21:49"
+  },
+  {
+   "ts": "2026-11-18T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121720 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-121720 📢 Source: OpenVPN 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False OpenVPN 2.4.0 through 2.6.23 and 2.7_alpha1 through 2.7.8 on Windows allows local authent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121720",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121720:2026-11-18T21:49"
+  },
   {
    "ts": "2026-11-18T21:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2021-48022",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-48022:2026-11-18T15:49"
-  },
-  {
-   "ts": "2026-11-18T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2021-48021 (CVSS 8.8)",
-   "body": "🚨 CVE-2021-48021 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Chamilo LMS 1.11.10 before 1.11.16 contains an unauthenticated SQL injection vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2021-48021",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2021-48021:2026-11-18T15:49"
-  },
-  {
-   "ts": "2026-11-18T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2019-25785 (CVSS 8.7)",
-   "body": "🚨 CVE-2019-25785 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FineReport 8.0 contains a path traversal vulnerability that allows unauthenticated attack",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2019-25785",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2019-25785:2026-11-18T15:49"
   }
  ]
 }
