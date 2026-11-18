@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-11-18T12:19:08+00:00",
+ "generated_at": "2026-11-18T12:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113699 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-113699 📢 Source: TR-CERT 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command ('OS command injection')",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113699",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113699:2026-11-18T12:49"
+  },
+  {
+   "ts": "2026-11-18T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107519 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-107519 📢 Source: dell 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains an integer underflow vulnerability. An attacker could exploit this v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107519",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107519:2026-11-18T12:49"
+  },
+  {
+   "ts": "2026-11-18T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132121 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-132121 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Supergateway 2.4.0 through 4.2.2 contains a cross-site WebSocket hijacking vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132121",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132121:2026-11-18T12:49"
+  },
+  {
+   "ts": "2026-11-18T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109861 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-109861 📢 Source: CERT-PL 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True CAST Imaging contains a hardcoded authentication token in the \"KeyCloakController\" class o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109861",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109861:2026-11-18T12:49"
+  },
+  {
+   "ts": "2026-11-18T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109860 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-109860 📢 Source: CERT-PL 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True CAST Imaging is vulnerable to Path Traversal vulnerability in \"/api/server-folders\" and \"/",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109860",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109860:2026-11-18T12:49"
+  },
+  {
+   "ts": "2026-11-18T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-109858 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-109858 📢 Source: CERT-PL 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True CAST Imaging has multiple path traversal vulnerabilities in various endpoints. The applica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109858",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109858:2026-11-18T12:49"
+  },
+  {
+   "ts": "2026-11-18T12:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-109857 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-109857 📢 Source: CERT-PL 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True CAST Imaging is vulnerable to authentication bypass in the TenantFilter class. The Ten",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-109857",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-109857:2026-11-18T12:49"
+  },
+  {
+   "ts": "2026-11-18T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107518 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-107518 📢 Source: dell 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Dell PowerStore contains a Server-Side Request Forgery (SSRF) vulnerability. An authenticated",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107518",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107518:2026-11-18T12:49"
+  },
   {
    "ts": "2026-11-18T12:19:07+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93459",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93459:2026-11-18T02:19"
-  },
-  {
-   "ts": "2026-11-18T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88711 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-88711 📢 Source: ASUS 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an OS command in certain ASUS Router firmw",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88711",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88711:2026-11-18T02:19"
-  },
-  {
-   "ts": "2026-11-18T02:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-126574 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-126574 📢 Source: ASUS 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Missing authorization vulnerability in ASUS Control Center Datacenter and Control Center ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126574",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126574:2026-11-18T02:19"
-  },
-  {
-   "ts": "2026-11-18T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119469 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-119469 📢 Source: ASUS 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Incorrect default permissions in the ASUS DisplayWidget Center allow a local, low-privileged u",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119469",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119469:2026-11-18T02:19"
-  },
-  {
-   "ts": "2026-11-18T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-116643 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-116643 📢 Source: GitHub_P 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An SSH certificate authentication bypass vulnerability in GitHub Enterprise Server allowe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116643",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116643:2026-11-18T02:19"
-  },
-  {
-   "ts": "2026-11-18T02:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114205 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-114205 📢 Source: ASUS 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Incorrect authorization in ASUS Control Center Express allows a remote authenticated user",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114205",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114205:2026-11-18T02:19"
-  },
-  {
-   "ts": "2026-11-18T02:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114204 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-114204 📢 Source: ASUS 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Use of Hard-coded Cryptographic Key in ASUS Control Center Express allows a remote user to ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114204",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114204:2026-11-18T02:19"
-  },
-  {
-   "ts": "2026-11-18T02:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114202 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-114202 📢 Source: ASUS 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Use of Hard-coded Cryptographic Key in ASUS Control Center Express allows a remote user to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114202",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114202:2026-11-18T02:19"
-  },
-  {
-   "ts": "2026-11-18T02:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-112117 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-112117 📢 Source: ASUS 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') in ASUS Sys",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-112117",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-112117:2026-11-18T02:19"
   }
  ]
 }
