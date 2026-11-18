@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-18T03:49:07+00:00",
+ "generated_at": "2026-11-18T04:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T04:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101113 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-101113 📢 Source: vulncheck-cvelist-v5 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Multiple ELECOM wireless LAN routers contain an OS command injection vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101113",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101113:2026-11-18T04:19"
+  },
   {
    "ts": "2026-11-18T03:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-130838",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130838:2026-11-17T20:19"
-  },
-  {
-   "ts": "2026-11-17T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130835 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-130835 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Storyden before 1.26.17 contains a missing authorization vulnerability in the AccountRemov",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130835",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130835:2026-11-17T20:19"
   }
  ]
 }
