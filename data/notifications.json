@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-18T13:19:07+00:00",
+ "generated_at": "2026-11-18T13:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T13:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123123 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-123123 📢 Source: SICK AG 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An attacker that is able to send a crafted network packet to the affected component may tr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123123",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123123:2026-11-18T13:49"
+  },
   {
    "ts": "2026-11-18T13:19:07+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-131876",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131876:2026-11-18T02:49"
-  },
-  {
-   "ts": "2026-11-18T02:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-131875 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-131875 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True fqterm before 0.9.11 contains a heap out-of-bounds write vulnerability in FQTermDecode t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131875",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131875:2026-11-18T02:49"
   }
  ]
 }
