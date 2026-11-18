@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-18T02:19:07+00:00",
+ "generated_at": "2026-11-18T02:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T02:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125276 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-125276 📢 Source: jpcert 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Pleasanter contains an issue with insertion of sensitive information into sent data in the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125276",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125276:2026-11-18T02:49"
+  },
+  {
+   "ts": "2026-11-18T02:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131800 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-131800 📢 Source: GitHub_P 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True A stored cross-site scripting vulnerability was identified in GitHub Enterprise Server th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131800",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131800:2026-11-18T02:49"
+  },
+  {
+   "ts": "2026-11-18T02:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131876 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-131876 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True fqterm 0.9.9 before 0.9.11 contains an out-of-bounds memory access vulnerability in its ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131876",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131876:2026-11-18T02:49"
+  },
+  {
+   "ts": "2026-11-18T02:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131875 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-131875 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True fqterm before 0.9.11 contains a heap out-of-bounds write vulnerability in FQTermDecode t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131875",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131875:2026-11-18T02:49"
+  },
+  {
+   "ts": "2026-11-18T02:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131871 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-131871 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False WLA DX 9.7 through 10.7 contains a stack-based buffer overflow vulnerability in parse_d",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131871",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131871:2026-11-18T02:49"
+  },
+  {
+   "ts": "2026-11-18T02:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-107950 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-107950 📢 Source: HCL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True An XML External Entity (XXE) vulnerability affects a Storefront REST API in HCL Commerce versi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-107950",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107950:2026-11-18T02:49"
+  },
   {
    "ts": "2026-11-18T02:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-130796",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130796:2026-11-17T20:19"
-  },
-  {
-   "ts": "2026-11-17T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82143 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-82143 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell SupportAssist OS Recovery, versions prior to 5.5.16.3 contain an Improper Authorization ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82143",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82143:2026-11-17T19:49"
-  },
-  {
-   "ts": "2026-11-17T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82139 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-82139 📢 Source: dell 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Dell SupportAssist OS Recovery, versions prior to 5.5.16.3 , contain an Improper Certificate ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82139",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82139:2026-11-17T19:49"
-  },
-  {
-   "ts": "2026-11-17T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82150 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-82150 📢 Source: dell 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: False Dell SupportAssist OS Recovery, versions prior to 5.5.16.3 , contain an Insufficient Verificati",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82150",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82150:2026-11-17T19:49"
-  },
-  {
-   "ts": "2026-11-17T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82142 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-82142 📢 Source: dell 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False Dell SupportAssist OS Recovery, versions prior to 5.5.16.3 , contain a Missing Authorization ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82142",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82142:2026-11-17T19:49"
-  },
-  {
-   "ts": "2026-11-17T19:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82138 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-82138 📢 Source: dell 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Dell SupportAssist OS Recovery, versions prior to 5.5.16.3 contain a Download of Code Without",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82138",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82138:2026-11-17T19:49"
-  },
-  {
-   "ts": "2026-11-17T19:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-85648 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-85648 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted DDS file, when parsed through Autodesk AutoCAD, can force a Heap-Ba",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85648",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85648:2026-11-17T19:19"
   }
  ]
 }
