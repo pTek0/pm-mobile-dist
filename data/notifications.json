@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-18T17:19:09+00:00",
+ "generated_at": "2026-11-18T17:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T17:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130001 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-130001 📢 Source: github-security-advisories 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True > [!NOTE] > The vulnerability was fully disclosed to the maintainer",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130001",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130001:2026-11-18T17:49"
+  },
+  {
+   "ts": "2026-11-18T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132229 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-132229 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A flaw was found in hypershift-addon. Due to an overly permissive role-based access control",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132229",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132229:2026-11-18T17:49"
+  },
   {
    "ts": "2026-11-18T17:19:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107515",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-107515:2026-11-18T14:19"
-  },
-  {
-   "ts": "2026-11-18T13:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123123 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-123123 📢 Source: SICK AG 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True An attacker that is able to send a crafted network packet to the affected component may tr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123123",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123123:2026-11-18T13:49"
-  },
-  {
-   "ts": "2026-11-18T13:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129961 (CVSS 9.5)",
-   "body": "🚨 CVE-2026-129961 📢 Source: CERT-PL 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True LMS (Lan Management System) is vulnerable to Remote Code Execution in its e-mail-based",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129961",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129961:2026-11-18T13:19"
   }
  ]
 }
