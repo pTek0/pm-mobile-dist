@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-18T10:19:08+00:00",
+ "generated_at": "2026-11-18T10:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-18T10:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2025-59906 (CVSS 9.3)",
+   "body": "🚨 CVE-2025-59906 📢 Source: INCIBE 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Hardcoded credentials in the executable file. These can be extracted using the “Strings.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-59906",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-59906:2026-11-18T10:49"
+  },
+  {
+   "ts": "2026-11-18T10:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-110486 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-110486 📢 Source: vulncheck-cvelist-v5 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True In Eclipse Mosquitto versions 2.1 through 2.1.2, a listener configured wi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110486",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110486:2026-11-18T10:49"
+  },
   {
    "ts": "2026-11-18T09:49:06+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
    "source": "Hacker News",
    "id": "community:https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf:2026-11-17T23:49"
-  },
-  {
-   "ts": "2026-11-17T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How the Claude Code team thinks about verification",
-   "body": "Hacker News · 점수 246",
-   "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-   "source": "Hacker News",
-   "id": "community:https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/:2026-11-17T23:49"
-  },
-  {
-   "ts": "2026-11-17T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] MAI Code 2 and Code 2 Flash",
-   "body": "Hacker News · 점수 238",
-   "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-   "source": "Hacker News",
-   "id": "community:https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/:2026-11-17T23:49"
   }
  ]
 }
