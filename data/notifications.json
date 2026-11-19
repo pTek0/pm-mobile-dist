@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-11-19T14:49:08+00:00",
+ "generated_at": "2026-11-19T15:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87868 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-87868 📢 Source: CERT-PL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True MRemoteNG uses single MD5 hash with no salt and no iterations for key-derivation. An attack",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87868",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87868:2026-11-19T15:19"
+  },
+  {
+   "ts": "2026-11-19T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87867 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-87867 📢 Source: CERT-PL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False MRemoteNG establishes encrypted but unauthenticated channel with Microsoft SQL Server back",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87867",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87867:2026-11-19T15:19"
+  },
+  {
+   "ts": "2026-11-19T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129496 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-129496 📢 Source: php 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Timezone cache use-after-free can lead to remote code execution. In non-thread-safe builds",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129496",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129496:2026-11-19T15:19"
+  },
+  {
+   "ts": "2026-11-19T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129481 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-129481 📢 Source: php 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Use-after-free after interrupted session shutdown. The session extension records the filen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129481",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129481:2026-11-19T15:19"
+  },
+  {
+   "ts": "2026-11-19T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129474 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-129474 📢 Source: php 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Use-after-free in magic method backtraces can lead to remote code execution. When collecti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129474",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129474:2026-11-19T15:19"
+  },
+  {
+   "ts": "2026-11-19T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129291 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-129291 📢 Source: php 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False PHP-FPM epoll use-after-free can lead to local privilege escalation. When catch_workers_outpu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129291",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129291:2026-11-19T15:19"
+  },
+  {
+   "ts": "2026-11-19T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129289 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-129289 📢 Source: php 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True PHP-FPM request smuggling through an unread HTTP request body. PHP does not discard the un",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129289",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129289:2026-11-19T15:19"
+  },
+  {
+   "ts": "2026-11-19T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129182 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-129182 📢 Source: php 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Use-after-free via repopulation of last_fatal_error_backtrace global after shutdown. A fat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129182",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129182:2026-11-19T15:19"
+  },
+  {
+   "ts": "2026-11-19T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-128090 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-128090 📢 Source: php 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True PHAR OpenSSL signature bypass via algorithm downgrade. The Phar extension selects the signatur",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128090",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128090:2026-11-19T15:19"
+  },
+  {
+   "ts": "2026-11-19T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-128064 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-128064 📢 Source: php 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Mixed-case HTTPS and FTPS URLs can expose data in plaintext. The HTTP and FTP stream wrappers ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128064",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128064:2026-11-19T15:19"
+  },
+  {
+   "ts": "2026-11-19T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127960 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-127960 📢 Source: php 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Denial of service through folded HTTP response headers. The HTTP stream wrapper joins each con",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127960",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127960:2026-11-19T15:19"
+  },
   {
    "ts": "2026-11-19T14:49:07+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-133018",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133018:2026-11-19T11:49"
-  },
-  {
-   "ts": "2026-11-19T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133017 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-133017 📢 Source: JetBrains 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.1, 2026.1.5 remote code execution was possible via Git",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133017",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133017:2026-11-19T11:49"
-  },
-  {
-   "ts": "2026-11-19T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133016 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-133016 📢 Source: JetBrains 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.1, 2026.1.5 remote code execution was possible via s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133016",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133016:2026-11-19T11:49"
-  },
-  {
-   "ts": "2026-11-19T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133015 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-133015 📢 Source: JetBrains 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.1, 2026.1.5 remote code execution was possible via b",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133015",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133015:2026-11-19T11:49"
-  },
-  {
-   "ts": "2026-11-19T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133014 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-133014 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.1, 2026.1.5 remote code execution was possible via p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133014",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133014:2026-11-19T11:49"
-  },
-  {
-   "ts": "2026-11-19T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-125060 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-125060 📢 Source: ENISA 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The checkout of JTL-Shop stores the delivery address ID submitted by the customer in the ses",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125060",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125060:2026-11-19T11:49"
-  },
-  {
-   "ts": "2026-11-19T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132131 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-132131 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False @fastify /middie is the middleware engine that adds Express and Connect style middleware s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132131",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132131:2026-11-19T11:49"
-  },
-  {
-   "ts": "2026-11-19T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132128 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-132128 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False @fastify /middie is the middleware engine that adds Express and Connect style middleware s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132128",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132128:2026-11-19T11:49"
-  },
-  {
-   "ts": "2026-11-19T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] We made GTA 6, the world’s biggest video game – we should ha",
-   "body": "Lemmy · technology · 점수 184",
-   "link": "https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition:2026-11-19T11:49"
-  },
-  {
-   "ts": "2026-11-19T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI Is Breaking the Entire Structure of Software That Powers ",
-   "body": "Lemmy · technology · 점수 127",
-   "link": "https://futurism.com/artificial-intelligence/ai-breaking-software-powers-world",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/artificial-intelligence/ai-breaking-software-powers-world:2026-11-19T11:49"
-  },
-  {
-   "ts": "2026-11-19T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] After gutting newsrooms, McClatchy plans to rebuild itself a",
-   "body": "Lemmy · technology · 점수 71",
-   "link": "https://www.niemanlab.org/2026/11/after-gutting-newsrooms-mcclatchy-plans-to-rebuild-itself-around-ai/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.niemanlab.org/2026/11/after-gutting-newsrooms-mcclatchy-plans-to-rebuild-itself-around-ai/:2026-11-19T11:49"
-  },
-  {
-   "ts": "2026-11-19T11:49:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GTA 6 Hacker Faces Jail as Crypto Thief Gets 6 Years",
-   "body": "Lemmy · technology · 점수 62",
-   "link": "https://yipzap.com/gta-6-hacker-faces-jail-as-crypto-thief-gets-6-years/",
-   "source": "Lemmy · technology",
-   "id": "community:https://yipzap.com/gta-6-hacker-faces-jail-as-crypto-thief-gets-6-years/:2026-11-19T11:49"
   }
  ]
 }
