@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-19T11:49:08+00:00",
+ "generated_at": "2026-11-19T12:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115677 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-115677 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Buffer Copy without Checking Size of Input ('Classic Buffer Overflow') vulnerability in Ai",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115677",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115677:2026-11-19T12:19"
+  },
+  {
+   "ts": "2026-11-19T12:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-22311 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-22311 📢 Source: ENISA 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The failed-login limiter of the JTL-Wawi synchronisation interface of JTL-Shop derives the cl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22311",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22311:2026-11-19T12:19"
+  },
+  {
+   "ts": "2026-11-19T12:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-123058 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-123058 📢 Source: ENISA 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True The web installer of JTL-Shop executes its state-changing installation tasks without che",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123058",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123058:2026-11-19T12:19"
+  },
   {
    "ts": "2026-11-19T11:49:08+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-128999",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128999:2026-11-19T08:19"
-  },
-  {
-   "ts": "2026-11-19T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19609 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-19609 📢 Source: NCSC.ch 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Cross-site scripting in the embedded co-browsing feature in Unblu inc. Unblu Spark 7.0 thro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19609",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19609:2026-11-19T07:19"
-  },
-  {
-   "ts": "2026-11-19T06:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132825 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-132825 📢 Source: mitre 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Ruby before 3.3.14, 3.4.13, and 4.0.10 has a heap-based buffer overflow during case convers",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132825",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132825:2026-11-19T06:49"
-  },
-  {
-   "ts": "2026-11-19T06:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-110462 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-110462 📢 Source: NCSC-FI 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True The Comelit 1456B Multi-User Gateway, in firmware versions up to and including 2.10.0, all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-110462",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-110462:2026-11-19T06:49"
   }
  ]
 }
