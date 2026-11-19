@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-19T06:49:07+00:00",
+ "generated_at": "2026-11-19T07:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T07:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19609 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-19609 📢 Source: NCSC.ch 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Cross-site scripting in the embedded co-browsing feature in Unblu inc. Unblu Spark 7.0 thro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19609",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19609:2026-11-19T07:19"
+  },
   {
    "ts": "2026-11-19T06:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-130759",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130759:2026-11-18T19:19"
-  },
-  {
-   "ts": "2026-11-18T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130758 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-130758 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Fleet before 4.92.0 contains an authorization bypass vulnerability in the deprecated POS",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130758",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130758:2026-11-18T19:19"
   }
  ]
 }
