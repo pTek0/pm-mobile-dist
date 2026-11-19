@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-19T22:49:07+00:00",
+ "generated_at": "2026-11-19T23:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T23:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-122676 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-122676 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122676",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122676:2026-11-19T23:19"
+  },
+  {
+   "ts": "2026-11-19T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Anthropic hits $2T in Nasdaq debut",
+   "body": "Hacker News · 점수 762",
+   "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "source": "Hacker News",
+   "id": "community:https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/:2026-11-19T23:19"
+  },
+  {
+   "ts": "2026-11-19T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Garage Door Spam",
+   "body": "Hacker News · 점수 698",
+   "link": "https://blog.harrison.page/garage-door-spam/",
+   "source": "Hacker News",
+   "id": "community:https://blog.harrison.page/garage-door-spam/:2026-11-19T23:19"
+  },
+  {
+   "ts": "2026-11-19T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] How the European Commission rolled out Matrix to more than 4",
+   "body": "Hacker News · 점수 630",
+   "link": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+   "source": "Hacker News",
+   "id": "community:https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/:2026-11-19T23:19"
+  },
+  {
+   "ts": "2026-11-19T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Evidence Is Growing That the Massive Tech Outages Are Trump’",
+   "body": "Lemmy · technology · 점수 516",
+   "link": "https://futurism.com/future-society/evidence-growing-outages-trump-fault",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/future-society/evidence-growing-outages-trump-fault:2026-11-19T23:19"
+  },
+  {
+   "ts": "2026-11-19T23:19:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] UK government forced to admit it issued Apple a secret encry",
+   "body": "Hacker News · 점수 426",
+   "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+   "source": "Hacker News",
+   "id": "community:https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/:2026-11-19T23:19"
+  },
   {
    "ts": "2026-11-19T21:49:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-133243",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133243:2026-11-19T16:19"
-  },
-  {
-   "ts": "2026-11-19T15:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133062 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-133062 📢 Source: fedora 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Moodle's external database enrolment plugin. Insufficient sanitization ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133062",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133062:2026-11-19T15:49"
-  },
-  {
-   "ts": "2026-11-19T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87868 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-87868 📢 Source: CERT-PL 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True MRemoteNG uses single MD5 hash with no salt and no iterations for key-derivation. An attack",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87868",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87868:2026-11-19T15:19"
-  },
-  {
-   "ts": "2026-11-19T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-87867 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-87867 📢 Source: CERT-PL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False MRemoteNG establishes encrypted but unauthenticated channel with Microsoft SQL Server back",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87867",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87867:2026-11-19T15:19"
-  },
-  {
-   "ts": "2026-11-19T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129496 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-129496 📢 Source: php 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Timezone cache use-after-free can lead to remote code execution. In non-thread-safe builds",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129496",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129496:2026-11-19T15:19"
-  },
-  {
-   "ts": "2026-11-19T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129481 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-129481 📢 Source: php 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Use-after-free after interrupted session shutdown. The session extension records the filen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129481",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129481:2026-11-19T15:19"
-  },
-  {
-   "ts": "2026-11-19T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129474 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-129474 📢 Source: php 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Use-after-free in magic method backtraces can lead to remote code execution. When collecti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129474",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129474:2026-11-19T15:19"
   }
  ]
 }
