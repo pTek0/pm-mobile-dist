@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-11-19T16:49:07+00:00",
+ "generated_at": "2026-11-19T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T17:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-22309 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-22309 📢 Source: ENISA 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The visitor tracking of JTL-Shop automatically registers unknown crawler user agents with",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22309",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22309:2026-11-19T17:19"
+  },
+  {
+   "ts": "2026-11-19T17:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129411 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-129411 📢 Source: Joomla 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - Unauthenticated SQL injection in frontend data view f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129411",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129411:2026-11-19T17:19"
+  },
+  {
+   "ts": "2026-11-19T17:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129410 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-129410 📢 Source: Joomla 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - Code injection via calculation formulas in Visforms e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129410",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129410:2026-11-19T17:19"
+  },
+  {
+   "ts": "2026-11-19T17:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129402 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-129402 📢 Source: Joomla 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - Unauthenticated SQL injection in reload task in Visfo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129402",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129402:2026-11-19T17:19"
+  },
+  {
+   "ts": "2026-11-19T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129398 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-129398 📢 Source: Joomla 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - Authorization bypass in saveAjaxTextarea task in Visforms e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129398",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129398:2026-11-19T17:19"
+  },
+  {
+   "ts": "2026-11-19T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129397 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-129397 📢 Source: Joomla 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - Arbitrary file deletion via path traversal in CSS editor in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129397",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129397:2026-11-19T17:19"
+  },
+  {
+   "ts": "2026-11-19T17:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129396 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-129396 📢 Source: Joomla 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - Arbitrary file write leading to remote code execution",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129396",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129396:2026-11-19T17:19"
+  },
+  {
+   "ts": "2026-11-19T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-22310 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-22310 📢 Source: ENISA 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True When the setting for saving requests to non-existent pages (404) is enabled, JTL-Shop stores th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22310",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22310:2026-11-19T17:19"
+  },
   {
    "ts": "2026-11-19T16:49:06+00:00",
    "level": "important",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-133091",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133091:2026-11-19T12:49"
-  },
-  {
-   "ts": "2026-11-19T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133090 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-133090 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 improper authorization allowed overwriti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133090",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133090:2026-11-19T12:49"
-  },
-  {
-   "ts": "2026-11-19T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133089 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-133089 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 the TFS helper process exposed an unauth",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133089",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133089:2026-11-19T12:49"
-  },
-  {
-   "ts": "2026-11-19T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133088 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-133088 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 remote code execution was possible via F",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133088",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133088:2026-11-19T12:49"
-  },
-  {
-   "ts": "2026-11-19T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133087 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-133087 📢 Source: JetBrains 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 remote code execution was possible via a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133087",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133087:2026-11-19T12:49"
-  },
-  {
-   "ts": "2026-11-19T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133086 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-133086 📢 Source: JetBrains 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 remote code execution was possible via a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133086",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133086:2026-11-19T12:49"
-  },
-  {
-   "ts": "2026-11-19T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133085 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-133085 📢 Source: JetBrains 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 an XXE was possible in the TFS helper pr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133085",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133085:2026-11-19T12:49"
-  },
-  {
-   "ts": "2026-11-19T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133084 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-133084 📢 Source: JetBrains 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 vCS root credentials could be exposed vi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133084",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133084:2026-11-19T12:49"
-  },
-  {
-   "ts": "2026-11-19T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133083 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-133083 📢 Source: JetBrains 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 stored XSS in Server Health reports was po",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133083",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133083:2026-11-19T12:49"
   }
  ]
 }
