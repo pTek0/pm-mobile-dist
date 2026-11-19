@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-19T18:19:07+00:00",
+ "generated_at": "2026-11-19T18:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129502 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-129502 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /http-proxy is a Fastify plugin that proxies HTTP and WebSocket traffic to an ups",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129502",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129502:2026-11-19T18:49"
+  },
+  {
+   "ts": "2026-11-19T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129500 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-129500 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /http-proxy is a Fastify plugin that proxies HTTP and WebSocket traffic to an ups",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129500",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129500:2026-11-19T18:49"
+  },
   {
    "ts": "2026-11-19T17:49:07+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-133117",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133117:2026-11-19T12:49"
-  },
-  {
-   "ts": "2026-11-19T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133094 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-133094 📢 Source: JetBrains 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2 missing authorization allowed project developers t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133094",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133094:2026-11-19T12:49"
-  },
-  {
-   "ts": "2026-11-19T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133093 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-133093 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 code injection in parent project Kotlin ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133093",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133093:2026-11-19T12:49"
   }
  ]
 }
