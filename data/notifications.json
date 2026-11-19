@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-19T13:19:08+00:00",
+ "generated_at": "2026-11-19T13:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132858 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-132858 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in gdm. The CreateRemoteDisplay D-Bus method fails to perform proper auth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132858",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132858:2026-11-19T13:49"
+  },
+  {
+   "ts": "2026-11-19T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-111506 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-111506 📢 Source: dell 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Dell PowerStore contains a Missing Authentication vulnerability that a network-adjacent atta",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111506",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111506:2026-11-19T13:49"
+  },
   {
    "ts": "2026-11-19T13:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://handheldhideout.neocities.org/articles/a-45-year-old-commodore-program-recovered-from-paper-printout",
    "source": "Lemmy · technology",
    "id": "community:https://handheldhideout.neocities.org/articles/a-45-year-old-commodore-program-recovered-from-paper-printout:2026-11-19T11:19"
-  },
-  {
-   "ts": "2026-11-19T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Anthropic prices initial public offering",
-   "body": "Hacker News · 점수 241",
-   "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-   "source": "Hacker News",
-   "id": "community:https://www.anthropic.com/news/anthropic-prices-initial-public-offering:2026-11-19T11:19"
-  },
-  {
-   "ts": "2026-11-19T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] LLM assisted reverse engineering",
-   "body": "Hacker News · 점수 222",
-   "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-   "source": "Hacker News",
-   "id": "community:https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering:2026-11-19T11:19"
   }
  ]
 }
