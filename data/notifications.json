@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-19T13:49:08+00:00",
+ "generated_at": "2026-11-19T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126826 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-126826 📢 Source: autodesk 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A maliciously crafted SBSAR file, when imported or loaded through the Substance in 3ds M",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126826",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126826:2026-11-19T14:19"
+  },
+  {
+   "ts": "2026-11-19T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133113 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-133113 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Gogs through 0.14.4 contains an authorization bypass vulnerability that allows collabora",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133113",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133113:2026-11-19T14:19"
+  },
   {
    "ts": "2026-11-19T13:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
    "source": "Hacker News",
    "id": "community:https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/:2026-11-19T11:19"
-  },
-  {
-   "ts": "2026-11-19T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ukraine blew up Putin’s bridge using relay drones to bypass ",
-   "body": "Lemmy · technology · 점수 280",
-   "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/:2026-11-19T11:19"
-  },
-  {
-   "ts": "2026-11-19T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A 45-Year-Old Commodore Program Was Recovered From a Paper P",
-   "body": "Lemmy · technology · 점수 274",
-   "link": "https://handheldhideout.neocities.org/articles/a-45-year-old-commodore-program-recovered-from-paper-printout",
-   "source": "Lemmy · technology",
-   "id": "community:https://handheldhideout.neocities.org/articles/a-45-year-old-commodore-program-recovered-from-paper-printout:2026-11-19T11:19"
   }
  ]
 }
