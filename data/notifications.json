@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-19T12:49:08+00:00",
+ "generated_at": "2026-11-19T13:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T13:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115342 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-115342 📢 Source: OpenVPN 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Argument injection in OpenVPN version 2.4.0 through 2.6.23 and 2.7_alpha1 through 2.7.8 o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115342",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115342:2026-11-19T13:19"
+  },
+  {
+   "ts": "2026-11-19T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-111509 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-111509 📢 Source: dell 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Dell PowerStore SDNAS contains a cryptographically weak PRNG vulnerability that could all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111509",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111509:2026-11-19T13:19"
+  },
+  {
+   "ts": "2026-11-19T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-116439 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-116439 📢 Source: dell 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Dell PowerStore SDNAS contains a path traversal vulnerability that could allow an unauthe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116439",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116439:2026-11-19T13:19"
+  },
+  {
+   "ts": "2026-11-19T13:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-116440 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-116440 📢 Source: dell 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Dell PowerStore SDNAS contains a buffer overflow vulnerability that could allow an unauth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116440",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116440:2026-11-19T13:19"
+  },
   {
    "ts": "2026-11-19T12:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
    "source": "Hacker News",
    "id": "community:https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering:2026-11-19T11:19"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132908 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-132908 📢 Source: JetBrains 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 remote code execution was possi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132908",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132908:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132907 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-132907 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 project viewers could redirect ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132907",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132907:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132906 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-132906 📢 Source: JetBrains 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 remote code execution was possi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132906",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132906:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132905 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-132905 📢 Source: JetBrains 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 stored XSS in the AWS Credentia",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132905",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132905:2026-11-19T10:49"
   }
  ]
 }
