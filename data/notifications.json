@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-19T17:19:07+00:00",
+ "generated_at": "2026-11-19T17:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T17:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-22308 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-22308 📢 Source: ENISA 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The preview mode of the OPC (OnPage Composer) page builder of JTL-Shop is activated by a ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22308",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22308:2026-11-19T17:49"
+  },
+  {
+   "ts": "2026-11-19T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129412 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-129412 📢 Source: Joomla 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - SQL injection in backend data search and export in Visfor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129412",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129412:2026-11-19T17:49"
+  },
   {
    "ts": "2026-11-19T17:19:06+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-133093",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133093:2026-11-19T12:49"
-  },
-  {
-   "ts": "2026-11-19T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133092 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-133092 📢 Source: JetBrains 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 remote code execution was possible via G",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133092",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133092:2026-11-19T12:49"
-  },
-  {
-   "ts": "2026-11-19T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133091 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-133091 📢 Source: JetBrains 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 stored XSS on the Users page was possible ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133091",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133091:2026-11-19T12:49"
   }
  ]
 }
