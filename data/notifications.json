@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-19T15:19:08+00:00",
+ "generated_at": "2026-11-19T15:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133062 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-133062 📢 Source: fedora 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in Moodle's external database enrolment plugin. Insufficient sanitization ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133062",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133062:2026-11-19T15:49"
+  },
   {
    "ts": "2026-11-19T15:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-133019",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133019:2026-11-19T11:49"
-  },
-  {
-   "ts": "2026-11-19T11:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133018 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-133018 📢 Source: JetBrains 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.1, 2026.1.5 remote code execution was possible via a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133018",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133018:2026-11-19T11:49"
   }
  ]
 }
