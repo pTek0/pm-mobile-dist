@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-19T07:49:07+00:00",
+ "generated_at": "2026-11-19T08:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T08:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129048 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-129048 📢 Source: Patchstack 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Improper Control of Generation of Code ('Code Injection') vulnerability in Jacob N.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129048",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129048:2026-11-19T08:19"
+  },
+  {
+   "ts": "2026-11-19T08:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129030 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-129030 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Exposure of Sensitive System Information to an Unauthorized Control Sphere vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129030",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129030:2026-11-19T08:19"
+  },
+  {
+   "ts": "2026-11-19T08:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129013 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-129013 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Deepen Bajracharya Video Conferencing with Zoom ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129013",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129013:2026-11-19T08:19"
+  },
+  {
+   "ts": "2026-11-19T08:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129001 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129001 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129001",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129001:2026-11-19T08:19"
+  },
+  {
+   "ts": "2026-11-19T08:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-128999 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-128999 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128999",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128999:2026-11-19T08:19"
+  },
   {
    "ts": "2026-11-19T07:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-130089",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130089:2026-11-18T20:49"
-  },
-  {
-   "ts": "2026-11-18T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130764 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-130764 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Obot from 0.8.0 before 0.27.0 contains a server-side request forgery vulnerability that ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130764",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130764:2026-11-18T19:19"
-  },
-  {
-   "ts": "2026-11-18T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130762 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-130762 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Fleet before 4.92.0 contains an SQL injection vulnerability that allows authenticated ob",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130762",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130762:2026-11-18T19:19"
-  },
-  {
-   "ts": "2026-11-18T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130761 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-130761 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Fleet before 4.92.0 contains a denial of service vulnerability that allows enrolled host",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130761",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130761:2026-11-18T19:19"
-  },
-  {
-   "ts": "2026-11-18T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130760 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-130760 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Fleet before 4.86.2 contains a denial of service vulnerability that allows unauthenticat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130760",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130760:2026-11-18T19:19"
-  },
-  {
-   "ts": "2026-11-18T19:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-130759 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-130759 📢 Source: VulnCheck 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Fleet from 4.71.0 before 4.88.2 contains an authentication bypass vulnerability in t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130759",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130759:2026-11-18T19:19"
   }
  ]
 }
