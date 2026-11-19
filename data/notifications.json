@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-19T04:19:08+00:00",
+ "generated_at": "2026-11-19T04:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-132808 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-132808 📢 Source: Ubiquiti 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A malicious actor with access to the network and low privileges could exploit an Inco",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132808",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132808:2026-11-19T04:49"
+  },
+  {
+   "ts": "2026-11-19T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-132807 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-132807 📢 Source: Ubiquiti 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True A malicious actor with access to the network and under certain conditions could exploit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132807",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132807:2026-11-19T04:49"
+  },
+  {
+   "ts": "2026-11-19T04:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132806 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-132806 📢 Source: Ubiquiti 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A malicious actor with access to the network and low privileges could exploit an authenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132806",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132806:2026-11-19T04:49"
+  },
+  {
+   "ts": "2026-11-19T04:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132805 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-132805 📢 Source: Ubiquiti 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A malicious actor with access to the network could exploit a Server-Side Request Forgery ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132805",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132805:2026-11-19T04:49"
+  },
+  {
+   "ts": "2026-11-19T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-132804 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-132804 📢 Source: Ubiquiti 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A malicious actor with access to the network and low privileges could exploit a Serve",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132804",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132804:2026-11-19T04:49"
+  },
+  {
+   "ts": "2026-11-19T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-132803 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-132803 📢 Source: Ubiquiti 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A malicious actor with access to the network and low privileges could exploit a serie",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132803",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132803:2026-11-19T04:49"
+  },
+  {
+   "ts": "2026-11-19T04:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-132802 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-132802 📢 Source: Ubiquiti 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True A malicious actor with access to the network and low privileges could exploit an Impr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132802",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132802:2026-11-19T04:49"
+  },
   {
    "ts": "2026-11-19T04:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-130754",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130754:2026-11-18T19:19"
-  },
-  {
-   "ts": "2026-11-18T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130753 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-130753 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True heym before 0.0.142 contains a remote code execution vulnerability in the Playwright ste",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130753",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130753:2026-11-18T19:19"
-  },
-  {
-   "ts": "2026-11-18T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130751 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-130751 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True OpenWrt LuCI luci-app-travelmate on master before 3.0.0-1 and on openwrt-25.12 before 2.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130751",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130751:2026-11-18T19:19"
-  },
-  {
-   "ts": "2026-11-18T17:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-130001 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-130001 📢 Source: github-security-advisories 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True > [!NOTE] > The vulnerability was fully disclosed to the maintainer",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130001",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130001:2026-11-18T17:49"
-  },
-  {
-   "ts": "2026-11-18T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132229 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-132229 📢 Source: redhat 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A flaw was found in hypershift-addon. Due to an overly permissive role-based access control",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132229",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132229:2026-11-18T17:49"
-  },
-  {
-   "ts": "2026-11-18T17:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132245 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-132245 📢 Source: JetBrains 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 doS via agent command results was possi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132245",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132245:2026-11-18T17:19"
-  },
-  {
-   "ts": "2026-11-18T17:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132244 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-132244 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 stored XSS on the Disk Usage and Build ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132244",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132244:2026-11-18T17:19"
-  },
-  {
-   "ts": "2026-11-18T17:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132243 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-132243 📢 Source: JetBrains 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.1.3, 2025.11.7 stored XSS on the Docker Container Info",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132243",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132243:2026-11-18T17:19"
   }
  ]
 }
