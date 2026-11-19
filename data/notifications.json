@@ -1,7 +1,197 @@
 {
- "generated_at": "2026-11-19T12:19:08+00:00",
+ "generated_at": "2026-11-19T12:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133117 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-133117 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True WebToffee Product Feed before 2.4.4 for WordPress contains a use of hard-coded cryptogra",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133117",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133117:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133094 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-133094 📢 Source: JetBrains 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2 missing authorization allowed project developers t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133094",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133094:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133093 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-133093 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 code injection in parent project Kotlin ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133093",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133093:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133092 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-133092 📢 Source: JetBrains 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 remote code execution was possible via G",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133092",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133092:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133091 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-133091 📢 Source: JetBrains 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 stored XSS on the Users page was possible ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133091",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133091:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133090 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-133090 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 improper authorization allowed overwriti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133090",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133090:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133089 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-133089 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 the TFS helper process exposed an unauth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133089",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133089:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133088 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-133088 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 remote code execution was possible via F",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133088",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133088:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133087 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-133087 📢 Source: JetBrains 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 remote code execution was possible via a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133087",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133087:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133086 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-133086 📢 Source: JetBrains 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 remote code execution was possible via a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133086",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133086:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133085 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-133085 📢 Source: JetBrains 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 an XXE was possible in the TFS helper pr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133085",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133085:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133084 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-133084 📢 Source: JetBrains 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 vCS root credentials could be exposed vi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133084",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133084:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133083 (CVSS 8.0)",
+   "body": "🚨 CVE-2026-133083 📢 Source: JetBrains 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 stored XSS in Server Health reports was po",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133083",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133083:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133082 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-133082 📢 Source: JetBrains 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 a DoS attack was possible via unauthenti",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133082",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133082:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133081 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-133081 📢 Source: JetBrains 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 remote code execution was possible via G",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133081",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133081:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133080 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-133080 📢 Source: JetBrains 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 remote code execution was possible via M",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133080",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133080:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133079 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-133079 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 remote code execution was possible via M",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133079",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133079:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133078 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-133078 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 remote code execution was possible via s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133078",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133078:2026-11-19T12:49"
+  },
+  {
+   "ts": "2026-11-19T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133077 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-133077 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2.2, 2026.1.6 privilege escalation to system administr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133077",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133077:2026-11-19T12:49"
+  },
   {
    "ts": "2026-11-19T12:19:07+00:00",
    "level": "general",
@@ -311,196 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-132905",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132905:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132904 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-132904 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 missing authorization allowed p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132904",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132904:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132903 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-132903 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 missing authorization allowed a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132903",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132903:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132902 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-132902 📢 Source: JetBrains 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 access keys of parent project A",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132902",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132902:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132901 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-132901 📢 Source: JetBrains 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 improper authorization allowed ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132901",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132901:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132900 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-132900 📢 Source: JetBrains 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 secure parameter values were di",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132900",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132900:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132899 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-132899 📢 Source: JetBrains 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 stored XSS in the NPM Registry ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132899",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132899:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132898 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-132898 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 arbitrary file write on the ser",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132898",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132898:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132897 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-132897 📢 Source: JetBrains 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 improper authorization allowed ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132897",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132897:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132896 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-132896 📢 Source: JetBrains 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4 remote code execution was possible via Kub",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132896",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132896:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132895 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-132895 📢 Source: JetBrains 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 remote code execution was possi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132895",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132895:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132894 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-132894 📢 Source: JetBrains 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 an SSRF in AWS connection setti",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132894",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132894:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132893 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-132893 📢 Source: JetBrains 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 an SSRF via pipeline repository",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132893",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132893:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132892 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-132892 📢 Source: JetBrains 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2 privilege escalation was possible via the authorizat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132892",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132892:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T10:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-132891 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-132891 📢 Source: JetBrains 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 remote code execution was p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132891",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132891:2026-11-19T10:49"
-  },
-  {
-   "ts": "2026-11-19T08:19:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129048 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-129048 📢 Source: Patchstack 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Improper Control of Generation of Code ('Code Injection') vulnerability in Jacob N.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129048",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129048:2026-11-19T08:19"
-  },
-  {
-   "ts": "2026-11-19T08:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129030 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-129030 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Exposure of Sensitive System Information to an Unauthorized Control Sphere vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129030",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129030:2026-11-19T08:19"
-  },
-  {
-   "ts": "2026-11-19T08:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129013 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-129013 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Deepen Bajracharya Video Conferencing with Zoom ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129013",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129013:2026-11-19T08:19"
-  },
-  {
-   "ts": "2026-11-19T08:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129001 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-129001 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129001",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129001:2026-11-19T08:19"
-  },
-  {
-   "ts": "2026-11-19T08:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-128999 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-128999 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128999",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128999:2026-11-19T08:19"
   }
  ]
 }
