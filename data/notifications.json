@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-19T21:19:07+00:00",
+ "generated_at": "2026-11-19T21:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-19T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133476 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-133476 📢 Source: mitre 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Dolibarr before 24.0.3, dolForgeSQLCriteriaCallback() in htdocs/core/lib/functions.lib.ph",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133476",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133476:2026-11-19T21:49"
+  },
   {
    "ts": "2026-11-19T21:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129474",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129474:2026-11-19T15:19"
-  },
-  {
-   "ts": "2026-11-19T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129291 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-129291 📢 Source: php 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False PHP-FPM epoll use-after-free can lead to local privilege escalation. When catch_workers_outpu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129291",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129291:2026-11-19T15:19"
   }
  ]
 }
