@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-20T06:49:07+00:00",
+ "generated_at": "2026-11-20T07:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-20T07:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133577 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-133577 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the Kuadrant WebAssembly (WASM) shim shipped in Red Hat Connectivity Li",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133577",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133577:2026-11-20T07:19"
+  },
+  {
+   "ts": "2026-11-20T07:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129972 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-129972 📢 Source: Moxa 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A buffer overflow vulnerability exists in the web management service of the Ethernet Remote I",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129972",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129972:2026-11-20T07:19"
+  },
+  {
+   "ts": "2026-11-20T07:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129971 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-129971 📢 Source: Moxa 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A buffer overflow vulnerability exists in the SNMP service of the Ethernet Remote I/Os produc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129971",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129971:2026-11-20T07:19"
+  },
   {
    "ts": "2026-11-20T04:19:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129410",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129410:2026-11-19T17:19"
-  },
-  {
-   "ts": "2026-11-19T17:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129402 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-129402 📢 Source: Joomla 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - Unauthenticated SQL injection in reload task in Visfo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129402",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129402:2026-11-19T17:19"
-  },
-  {
-   "ts": "2026-11-19T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129398 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-129398 📢 Source: Joomla 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - Authorization bypass in saveAjaxTextarea task in Visforms e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129398",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129398:2026-11-19T17:19"
-  },
-  {
-   "ts": "2026-11-19T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129397 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-129397 📢 Source: Joomla 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - Arbitrary file deletion via path traversal in CSS editor in",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129397",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129397:2026-11-19T17:19"
   }
  ]
 }
