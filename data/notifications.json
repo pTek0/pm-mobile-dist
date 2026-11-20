@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-20T14:19:08+00:00",
+ "generated_at": "2026-11-20T14:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-20T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133848 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-133848 📢 Source: CIRCL 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True flowintel contains an authorization flaw in its user deletion functionality. Organization-sc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133848",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133848:2026-11-20T14:49"
+  },
+  {
+   "ts": "2026-11-20T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133847 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-133847 📢 Source: CIRCL 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True flowintel contains an authorization bypass in the browser-based admin user editing interface",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133847",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133847:2026-11-20T14:49"
+  },
+  {
+   "ts": "2026-11-20T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133839 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-133839 📢 Source: CIRCL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FlowIntel contains a missing authorization vulnerability in its task file deletion functiona",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133839",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133839:2026-11-20T14:49"
+  },
+  {
+   "ts": "2026-11-20T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133837 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-133837 📢 Source: CIRCL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True flowintel contains an authorization bypass in its task completion workflow for privileged ca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133837",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133837:2026-11-20T14:49"
+  },
   {
    "ts": "2026-11-20T14:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129075",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129075:2026-11-20T08:19"
-  },
-  {
-   "ts": "2026-11-20T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129065 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-129065 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Backup For WP WP Database Backup wp-database-bac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129065",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129065:2026-11-20T08:19"
-  },
-  {
-   "ts": "2026-11-20T08:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129056 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-129056 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in Paul Ryan Authorizer authorizer all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129056",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129056:2026-11-20T08:19"
-  },
-  {
-   "ts": "2026-11-20T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129036 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-129036 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in weDevs WP ERP erp allows Privilege Esca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129036",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129036:2026-11-20T08:19"
-  },
-  {
-   "ts": "2026-11-20T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129015 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-129015 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper Restriction of XML External Entity Reference vulnerability in ReviewX ReviewX ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129015",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129015:2026-11-20T08:19"
   }
  ]
 }
