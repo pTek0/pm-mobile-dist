@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-20T16:49:07+00:00",
+ "generated_at": "2026-11-20T17:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-20T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133879 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-133879 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in KubeVirt/containerized-data-importer. When a VirtualMachine with an emb",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133879",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133879:2026-11-20T17:19"
+  },
   {
    "ts": "2026-11-20T16:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
    "source": "Hacker News",
    "id": "community:https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/:2026-11-20T11:19"
-  },
-  {
-   "ts": "2026-11-20T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-1214",
-   "body": "Hacker News · 점수 265",
-   "link": "https://github.com/openssl/openssl/pull/33652",
-   "source": "Hacker News",
-   "id": "community:https://github.com/openssl/openssl/pull/33652:2026-11-20T11:19"
   }
  ]
 }
