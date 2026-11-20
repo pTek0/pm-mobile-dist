@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-20T12:19:07+00:00",
+ "generated_at": "2026-11-20T12:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-20T12:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101340 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-101340 📢 Source: NLnet Labs 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False Net::DNS uses a 16-bit query ID to match responses to the corresponding requests. ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101340",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101340:2026-11-20T12:49"
+  },
+  {
+   "ts": "2026-11-20T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133707 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-133707 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False The targets R package before 1.12.1 contains a code execution vulnerability that allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133707",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133707:2026-11-20T12:49"
+  },
+  {
+   "ts": "2026-11-20T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129423 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-129423 📢 Source: Joomla 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - phoca.cz - Stored XSS through author website in frontend upload in Phoca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129423",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129423:2026-11-20T12:49"
+  },
+  {
+   "ts": "2026-11-20T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133710 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-133710 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False llama.cpp b11003 before b12556 contains an integer overflow in the hrm_text loader load",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133710",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133710:2026-11-20T12:49"
+  },
+  {
+   "ts": "2026-11-20T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133708 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-133708 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False diffpy.structure before 3.5.1 contains a code execution vulnerability that allows attac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133708",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133708:2026-11-20T12:49"
+  },
+  {
+   "ts": "2026-11-20T12:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133705 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-133705 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Hanko before 3.2.0 contains an open redirect vulnerability in Saml.IsAllowedRedirect tha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133705",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133705:2026-11-20T12:49"
+  },
   {
    "ts": "2026-11-20T12:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://finance.yahoo.com/technology/ai/article/memory-supply-constraints-will-be-even-tighter-in-2027-micron-cto-173141999.html",
    "source": "Lemmy · technology",
    "id": "community:https://finance.yahoo.com/technology/ai/article/memory-supply-constraints-will-be-even-tighter-in-2027-micron-cto-173141999.html:2026-11-20T00:49"
-  },
-  {
-   "ts": "2026-11-20T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] PostgreSQL 19 Released",
-   "body": "Lobsters · 점수 50",
-   "link": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
-   "source": "Lobsters",
-   "id": "community:https://www.postgresql.org/about/news/postgresql-19-released-3449/:2026-11-20T00:49"
-  },
-  {
-   "ts": "2026-11-20T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] What's New in PHP 8.6",
-   "body": "Hacker News · 점수 261",
-   "link": "https://www.php.net/releases/8.6/en.php",
-   "source": "Hacker News",
-   "id": "community:https://www.php.net/releases/8.6/en.php:2026-11-20T00:19"
-  },
-  {
-   "ts": "2026-11-20T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI isn’t replacing your job. It’s turning it into low-paid g",
-   "body": "Lemmy · technology · 점수 253",
-   "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
-   "source": "Lemmy · technology",
-   "id": "community:https://restofworld.org/2026/ai-jobs-skills-gig-work/:2026-11-20T00:19"
-  },
-  {
-   "ts": "2026-11-20T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] 99.9% accurate",
-   "body": "Lemmy · programming.dev · 점수 157",
-   "link": "https://media.piefed.social/posts/3J/EQ/3JEQ0rKPL5rhJyi.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://media.piefed.social/posts/3J/EQ/3JEQ0rKPL5rhJyi.png:2026-11-20T00:19"
-  },
-  {
-   "ts": "2026-11-20T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] UK government forced to come clean about Apple secret encryp",
-   "body": "Lemmy · technology · 점수 74",
-   "link": "https://privacyinternational.org/news-analysis/5896/win-tribunal-orders-uk-government-come-clean-about-secret-order-apple/",
-   "source": "Lemmy · technology",
-   "id": "community:https://privacyinternational.org/news-analysis/5896/win-tribunal-orders-uk-government-come-clean-about-secret-order-apple/:2026-11-20T00:19"
-  },
-  {
-   "ts": "2026-11-20T00:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] ChatGPT Helped “Sadistic” School Shooter Build 3D-Printed We",
-   "body": "Lemmy · technology · 점수 61",
-   "link": "https://www.motherjones.com/media/2026/11/chatgpt-openai-tumbler-ridge-shooting-3d-printed-weapons-magazine/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.motherjones.com/media/2026/11/chatgpt-openai-tumbler-ridge-shooting-3d-printed-weapons-magazine/:2026-11-20T00:19"
   }
  ]
 }
