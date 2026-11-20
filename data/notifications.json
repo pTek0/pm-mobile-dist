@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-20T00:49:07+00:00",
+ "generated_at": "2026-11-20T01:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-20T01:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-133528 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-133528 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False BeamNG.drive before 0.40.6 contains an out-of-bounds write vulnerability because JI",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133528",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133528:2026-11-20T01:19"
+  },
   {
    "ts": "2026-11-20T00:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-133310",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133310:2026-11-19T16:49"
-  },
-  {
-   "ts": "2026-11-19T16:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133309 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-133309 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False @scalar /typebox before 0.1.4 contains a code injection vulnerability in TypeCompiler t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133309",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133309:2026-11-19T16:49"
   }
  ]
 }
