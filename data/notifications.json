@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-11-20T14:49:07+00:00",
+ "generated_at": "2026-11-20T15:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-20T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132664 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-132664 📢 Source: EDB 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True In Postgres Enterprise Manager (PEM), any PEM user can read the encrypted passwords that PEM age",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132664",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132664:2026-11-20T15:19"
+  },
+  {
+   "ts": "2026-11-20T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132663 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-132663 📢 Source: EDB 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True In Postgres Enterprise Manager (PEM), webhook URLs are not validated, and the PEM agent does n",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132663",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132663:2026-11-20T15:19"
+  },
+  {
+   "ts": "2026-11-20T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132662 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-132662 📢 Source: EDB 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In Postgres Enterprise Manager (PEM), the SQL Profiler save and load functions in the PEM web ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132662",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132662:2026-11-20T15:19"
+  },
+  {
+   "ts": "2026-11-20T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132661 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-132661 📢 Source: EDB 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True In Postgres Enterprise Manager (PEM), multi-factor authentication (MFA) is not enforced on the",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132661",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132661:2026-11-20T15:19"
+  },
+  {
+   "ts": "2026-11-20T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-132660 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-132660 📢 Source: EDB 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True In Postgres Enterprise Manager (PEM), several SECURITY DEFINER functions in the pem schema",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132660",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132660:2026-11-20T15:19"
+  },
+  {
+   "ts": "2026-11-20T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-132659 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-132659 📢 Source: EDB 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True In Postgres Enterprise Manager (PEM), the row-level security policies on pem.job and pem.j",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132659",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132659:2026-11-20T15:19"
+  },
+  {
+   "ts": "2026-11-20T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-132658 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-132658 📢 Source: EDB 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True In Postgres Enterprise Manager (PEM), the pem_agent role, which every PEM agent login inhe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132658",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132658:2026-11-20T15:19"
+  },
+  {
+   "ts": "2026-11-20T15:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-126054 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-126054 📢 Source: GoogleCloud 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A Path Traversal vulnerability in workspace directory handling and Git integration",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126054",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126054:2026-11-20T15:19"
+  },
   {
    "ts": "2026-11-20T14:49:07+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-133652",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133652:2026-11-20T10:49"
-  },
-  {
-   "ts": "2026-11-20T10:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-133648 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-133648 📢 Source: CIRCL 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Flowintel disabled TLS certificate verification for all MISP API connections and used un",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133648",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133648:2026-11-20T10:49"
-  },
-  {
-   "ts": "2026-11-20T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124768 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-124768 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Authorization bypass via a user-controlled key in XOneManager 3.8.3.0 . The 'ConvertBDToPro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124768",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124768:2026-11-20T10:49"
-  },
-  {
-   "ts": "2026-11-20T10:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124767 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-124767 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Authorization bypass in the creation of projects in XOneManager 3.8.3.0 . The server proces",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124767",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124767:2026-11-20T10:19"
-  },
-  {
-   "ts": "2026-11-20T09:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133631 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-133631 📢 Source: CIRCL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FlowIntel contains multiple security flaws in its note variable resolution, chatbot API tool",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133631",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133631:2026-11-20T09:49"
-  },
-  {
-   "ts": "2026-11-20T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-131797 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-131797 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131797",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131797:2026-11-20T08:19"
-  },
-  {
-   "ts": "2026-11-20T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-131795 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-131795 📢 Source: Patchstack 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131795",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131795:2026-11-20T08:19"
-  },
-  {
-   "ts": "2026-11-20T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130813 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-130813 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130813",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130813:2026-11-20T08:19"
-  },
-  {
-   "ts": "2026-11-20T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129075 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-129075 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129075",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129075:2026-11-20T08:19"
   }
  ]
 }
