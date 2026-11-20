@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-20T13:49:07+00:00",
+ "generated_at": "2026-11-20T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-20T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129074 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129074 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in miniOrange miniOrange's Google Authenticator min",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129074",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129074:2026-11-20T14:19"
+  },
+  {
+   "ts": "2026-11-20T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129043 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-129043 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129043",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129043:2026-11-20T14:19"
+  },
+  {
+   "ts": "2026-11-20T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129039 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-129039 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Tribulant Software Newsletters n",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129039",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129039:2026-11-20T14:19"
+  },
+  {
+   "ts": "2026-11-20T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129017 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129017 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129017",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129017:2026-11-20T14:19"
+  },
+  {
+   "ts": "2026-11-20T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-128996 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-128996 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128996",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128996:2026-11-20T14:19"
+  },
+  {
+   "ts": "2026-11-20T14:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-14914 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-14914 📢 Source: TR-CERT 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Unrestricted upload of file with dangerous type vulnerability in Tegsoft Yönetim ve Bili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14914",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14914:2026-11-20T14:19"
+  },
   {
    "ts": "2026-11-20T13:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129015",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129015:2026-11-20T08:19"
-  },
-  {
-   "ts": "2026-11-20T07:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133577 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-133577 📢 Source: redhat 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the Kuadrant WebAssembly (WASM) shim shipped in Red Hat Connectivity Li",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133577",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133577:2026-11-20T07:19"
-  },
-  {
-   "ts": "2026-11-20T07:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129972 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-129972 📢 Source: Moxa 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A buffer overflow vulnerability exists in the web management service of the Ethernet Remote I",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129972",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129972:2026-11-20T07:19"
-  },
-  {
-   "ts": "2026-11-20T07:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129971 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-129971 📢 Source: Moxa 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A buffer overflow vulnerability exists in the SNMP service of the Ethernet Remote I/Os produc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129971",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129971:2026-11-20T07:19"
-  },
-  {
-   "ts": "2026-11-20T04:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133553 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-133553 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in crun. When copying files onto a tmpfs mounted with tmpcopyup, crun ope",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133553",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133553:2026-11-20T04:19"
-  },
-  {
-   "ts": "2026-11-20T04:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-113347 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-113347 📢 Source: jpcert 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Multiple products produced by Ruijie Networks Co., Ltd. contain an OS command injection vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113347",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113347:2026-11-20T04:19"
-  },
-  {
-   "ts": "2026-11-20T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133534 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-133534 📢 Source: twcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True PowerLink developed by Neotroni Lighting has a SQL Injection vulnerability, allowing unauth",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133534",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133534:2026-11-20T03:19"
   }
  ]
 }
