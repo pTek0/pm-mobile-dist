@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-11-20T07:49:07+00:00",
+ "generated_at": "2026-11-20T08:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-20T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131797 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-131797 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131797",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131797:2026-11-20T08:19"
+  },
+  {
+   "ts": "2026-11-20T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131795 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-131795 📢 Source: Patchstack 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131795",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131795:2026-11-20T08:19"
+  },
+  {
+   "ts": "2026-11-20T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130813 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-130813 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130813",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130813:2026-11-20T08:19"
+  },
+  {
+   "ts": "2026-11-20T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129075 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129075 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129075",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129075:2026-11-20T08:19"
+  },
+  {
+   "ts": "2026-11-20T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129065 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-129065 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Backup For WP WP Database Backup wp-database-bac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129065",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129065:2026-11-20T08:19"
+  },
+  {
+   "ts": "2026-11-20T08:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129056 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-129056 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in Paul Ryan Authorizer authorizer all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129056",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129056:2026-11-20T08:19"
+  },
+  {
+   "ts": "2026-11-20T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129036 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-129036 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in weDevs WP ERP erp allows Privilege Esca",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129036",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129036:2026-11-20T08:19"
+  },
+  {
+   "ts": "2026-11-20T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129015 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-129015 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper Restriction of XML External Entity Reference vulnerability in ReviewX ReviewX ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129015",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129015:2026-11-20T08:19"
+  },
   {
    "ts": "2026-11-20T07:19:06+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-125288",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125288:2026-11-19T20:19"
-  },
-  {
-   "ts": "2026-11-19T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118977 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-118977 📢 Source: Perforce 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Authorization bypass through a user-controlled key in the PuppetDB facts terminus used by",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118977",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118977:2026-11-19T19:49"
-  },
-  {
-   "ts": "2026-11-19T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129502 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-129502 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /http-proxy is a Fastify plugin that proxies HTTP and WebSocket traffic to an ups",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129502",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129502:2026-11-19T18:49"
-  },
-  {
-   "ts": "2026-11-19T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129500 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-129500 📢 Source: openjs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False @fastify /http-proxy is a Fastify plugin that proxies HTTP and WebSocket traffic to an ups",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129500",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129500:2026-11-19T18:49"
-  },
-  {
-   "ts": "2026-11-19T17:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-22308 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-22308 📢 Source: ENISA 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The preview mode of the OPC (OnPage Composer) page builder of JTL-Shop is activated by a ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22308",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22308:2026-11-19T17:49"
-  },
-  {
-   "ts": "2026-11-19T17:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129412 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-129412 📢 Source: Joomla 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - SQL injection in backend data search and export in Visfor",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129412",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129412:2026-11-19T17:49"
-  },
-  {
-   "ts": "2026-11-19T17:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-22309 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-22309 📢 Source: ENISA 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The visitor tracking of JTL-Shop automatically registers unknown crawler user agents with",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22309",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22309:2026-11-19T17:19"
-  },
-  {
-   "ts": "2026-11-19T17:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129411 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-129411 📢 Source: Joomla 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - Unauthenticated SQL injection in frontend data view f",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129411",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129411:2026-11-19T17:19"
-  },
-  {
-   "ts": "2026-11-19T17:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129410 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-129410 📢 Source: Joomla 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - Code injection via calculation formulas in Visforms e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129410",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129410:2026-11-19T17:19"
   }
  ]
 }
