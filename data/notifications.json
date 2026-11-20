@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-11-20T18:49:08+00:00",
+ "generated_at": "2026-11-20T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-20T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-133949 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-133949 📢 Source: PSF 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True pip prior to v26.2.2 the certifi bundled with pip contains the compromised eMudhra certifi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133949",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133949:2026-11-20T19:19"
+  },
+  {
+   "ts": "2026-11-20T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-96805 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-96805 📢 Source: icscert 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False The affected products have an unauthenticated command injection, which may allow an in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-96805",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-96805:2026-11-20T19:19"
+  },
+  {
+   "ts": "2026-11-20T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130602 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-130602 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130602",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130602:2026-11-20T19:19"
+  },
+  {
+   "ts": "2026-11-20T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-130601 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-130601 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130601",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130601:2026-11-20T19:19"
+  },
+  {
+   "ts": "2026-11-20T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129063 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129063 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129063",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129063:2026-11-20T19:19"
+  },
+  {
+   "ts": "2026-11-20T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129054 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-129054 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Insertion of Sensitive Information Into Sent Data vulnerability in Datasolution AcyMail",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129054",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129054:2026-11-20T19:19"
+  },
+  {
+   "ts": "2026-11-20T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129042 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129042 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129042",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129042:2026-11-20T19:19"
+  },
+  {
+   "ts": "2026-11-20T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129037 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129037 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129037",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129037:2026-11-20T19:19"
+  },
+  {
+   "ts": "2026-11-20T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129033 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129033 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129033",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129033:2026-11-20T19:19"
+  },
+  {
+   "ts": "2026-11-20T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129029 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-129029 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Server-Side Request Forgery (SSRF) vulnerability in Brainstorm Force OttoKit suretrigge",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129029",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129029:2026-11-20T19:19"
+  },
+  {
+   "ts": "2026-11-20T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129007 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-129007 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129007",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129007:2026-11-20T19:19"
+  },
   {
    "ts": "2026-11-20T18:49:07+00:00",
    "level": "important",
@@ -391,116 +501,6 @@
    "link": "https://futurism.com/future-society/anthropic-safety-researcher-claude-ipo-fear",
    "source": "Lemmy · technology",
    "id": "community:https://futurism.com/future-society/anthropic-safety-researcher-claude-ipo-fear:2026-11-20T11:49"
-  },
-  {
-   "ts": "2026-11-20T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Amazon fights the Delivery Protection Act with homepage bann",
-   "body": "Lemmy · technology · 점수 136",
-   "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-   "source": "Lemmy · technology",
-   "id": "community:https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/:2026-11-20T11:49"
-  },
-  {
-   "ts": "2026-11-20T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] AI data center power demand will double by 2030 thanks to $4",
-   "body": "Lemmy · technology · 점수 98",
-   "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts:2026-11-20T11:49"
-  },
-  {
-   "ts": "2026-11-20T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Hackers Leak User Data From JPMorgan, Visa, and Mastercard: ",
-   "body": "Lemmy · technology · 점수 71",
-   "link": "https://futurism.com/future-society/hackers-leak-jpmorgan-visa-mastercard-n0n",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/future-society/hackers-leak-jpmorgan-visa-mastercard-n0n:2026-11-20T11:49"
-  },
-  {
-   "ts": "2026-11-20T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133663 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-133663 📢 Source: CIRCL 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True flowintel contains an Insecure Direct Object Reference (IDOR) vulnerability affecting multip",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133663",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133663:2026-11-20T11:19"
-  },
-  {
-   "ts": "2026-11-20T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133662 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-133662 📢 Source: CIRCL 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True flowintel contains multiple authorization bypass vulnerabilities in its Analyzer (MISP Modul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133662",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133662:2026-11-20T11:19"
-  },
-  {
-   "ts": "2026-11-20T11:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-124772 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-124772 📢 Source: INCIBE 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Authorization bypass in the publication of XOneManager 3.8.3.0 updates. During testing,",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124772",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124772:2026-11-20T11:19"
-  },
-  {
-   "ts": "2026-11-20T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133660 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-133660 📢 Source: CIRCL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FlowIntel contains an authorization bypass in its user directory and assignment endpoints th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133660",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133660:2026-11-20T11:19"
-  },
-  {
-   "ts": "2026-11-20T11:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133659 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-133659 📢 Source: CIRCL 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Flowintel contains multiple SSO identity and organisation trust boundary violations that col",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133659",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133659:2026-11-20T11:19"
-  },
-  {
-   "ts": "2026-11-20T11:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-127057 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-127057 📢 Source: Danfoss 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True The Danfoss legacy AK-SC 355 and AK-SM 800 Series are vulnerable to unauthorized acces",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127057",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127057:2026-11-20T11:19"
-  },
-  {
-   "ts": "2026-11-20T11:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129713 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-129713 📢 Source: Danfoss 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A stack-based buffer overflow in an unauthenticated CGI handler of the Danfoss AK-SM 8",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129713",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129713:2026-11-20T11:19"
-  },
-  {
-   "ts": "2026-11-20T11:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-124770 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-124770 📢 Source: INCIBE 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Authorization bypass in the ‘tablesData’ operation of the POST request to ‘/xmanagercor",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124770",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124770:2026-11-20T11:19"
   }
  ]
 }
