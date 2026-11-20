@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-20T16:19:07+00:00",
+ "generated_at": "2026-11-20T16:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-20T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133199 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-133199 📢 Source: AMZN 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Incorrect privilege assignment in the user and group reconciliation logic in AWS ssosync befo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133199",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133199:2026-11-20T16:49"
+  },
+  {
+   "ts": "2026-11-20T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133874 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-133874 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Iceburg CRM through 5.0.0 contains an incorrect authorization vulnerability in Module::s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133874",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133874:2026-11-20T16:49"
+  },
+  {
+   "ts": "2026-11-20T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-133872 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-133872 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True LessPass self-hosted sync server backend before commit 9469b0c lacks rate limiting o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133872",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133872:2026-11-20T16:49"
+  },
   {
    "ts": "2026-11-20T15:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://github.com/openssl/openssl/pull/33652",
    "source": "Hacker News",
    "id": "community:https://github.com/openssl/openssl/pull/33652:2026-11-20T11:19"
-  },
-  {
-   "ts": "2026-11-20T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Pete Warden on local AI, open models, voice interfaces, the ",
-   "body": "Hacker News · 점수 250",
-   "link": "https://thedataexchange.media/pete-warden-moonshine/",
-   "source": "Hacker News",
-   "id": "community:https://thedataexchange.media/pete-warden-moonshine/:2026-11-20T11:19"
-  },
-  {
-   "ts": "2026-11-20T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] PostgreSQL 19",
-   "body": "Hacker News · 점수 210",
-   "link": "https://www.postgresql.org/docs/release/19.0/",
-   "source": "Hacker News",
-   "id": "community:https://www.postgresql.org/docs/release/19.0/:2026-11-20T11:19"
-  },
-  {
-   "ts": "2026-11-20T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133652 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-133652 📢 Source: CIRCL 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Flowintel , contained a session management vulnerability in its browser authentication mecha",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133652",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133652:2026-11-20T10:49"
   }
  ]
 }
