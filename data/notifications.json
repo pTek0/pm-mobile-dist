@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-20T22:19:07+00:00",
+ "generated_at": "2026-11-20T22:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-20T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134170 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-134170 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Cesanta Mongoose 7.22 before 7.24 with the built-in TLS stack contains an out-of-bounds ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134170",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134170:2026-11-20T22:49"
+  },
+  {
+   "ts": "2026-11-20T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134169 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-134169 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Qwik City before 1.20.3 ( @builder .io/qwik-city) and @qwik .dev/router before 2.0.0-rc.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134169",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134169:2026-11-20T22:49"
+  },
+  {
+   "ts": "2026-11-20T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134167 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-134167 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True devpi-web before 5.2.0 contains an unauthenticated path traversal vulnerability in the +",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134167",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134167:2026-11-20T22:49"
+  },
+  {
+   "ts": "2026-11-20T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134164 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-134164 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True probe-image-size before 7.5.0 contains an algorithmic-complexity denial of service vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134164",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134164:2026-11-20T22:49"
+  },
+  {
+   "ts": "2026-11-20T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134172 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-134172 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False audio-separator before 0.47.2 contains an insecure deserialization vulnerability that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134172",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134172:2026-11-20T22:49"
+  },
   {
    "ts": "2026-11-20T21:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101340",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101340:2026-11-20T12:49"
-  },
-  {
-   "ts": "2026-11-20T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133707 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-133707 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False The targets R package before 1.12.1 contains a code execution vulnerability that allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133707",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133707:2026-11-20T12:49"
-  },
-  {
-   "ts": "2026-11-20T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129423 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-129423 📢 Source: Joomla 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - phoca.cz - Stored XSS through author website in frontend upload in Phoca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129423",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129423:2026-11-20T12:49"
-  },
-  {
-   "ts": "2026-11-20T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133710 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-133710 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False llama.cpp b11003 before b12556 contains an integer overflow in the hrm_text loader load",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133710",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133710:2026-11-20T12:49"
-  },
-  {
-   "ts": "2026-11-20T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133708 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-133708 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False diffpy.structure before 3.5.1 contains a code execution vulnerability that allows attac",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133708",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133708:2026-11-20T12:49"
-  },
-  {
-   "ts": "2026-11-20T12:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133705 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-133705 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Hanko before 3.2.0 contains an open redirect vulnerability in Saml.IsAllowedRedirect tha",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133705",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133705:2026-11-20T12:49"
   }
  ]
 }
