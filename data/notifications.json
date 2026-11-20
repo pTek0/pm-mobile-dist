@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-20T03:49:08+00:00",
+ "generated_at": "2026-11-20T04:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-20T04:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133553 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-133553 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in crun. When copying files onto a tmpfs mounted with tmpcopyup, crun ope",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133553",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133553:2026-11-20T04:19"
+  },
+  {
+   "ts": "2026-11-20T04:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-113347 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-113347 📢 Source: jpcert 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False Multiple products produced by Ruijie Networks Co., Ltd. contain an OS command injection vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-113347",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-113347:2026-11-20T04:19"
+  },
   {
    "ts": "2026-11-20T03:19:06+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129397",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129397:2026-11-19T17:19"
-  },
-  {
-   "ts": "2026-11-19T17:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129396 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-129396 📢 Source: Joomla 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - Arbitrary file write leading to remote code execution",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129396",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129396:2026-11-19T17:19"
-  },
-  {
-   "ts": "2026-11-19T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-22310 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-22310 📢 Source: ENISA 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True When the setting for saving requests to non-existent pages (404) is enabled, JTL-Shop stores th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-22310",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22310:2026-11-19T17:19"
   }
  ]
 }
