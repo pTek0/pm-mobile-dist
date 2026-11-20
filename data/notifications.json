@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-20T02:49:07+00:00",
+ "generated_at": "2026-11-20T03:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-20T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133534 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-133534 📢 Source: twcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True PowerLink developed by Neotroni Lighting has a SQL Injection vulnerability, allowing unauth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133534",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133534:2026-11-20T03:19"
+  },
   {
    "ts": "2026-11-20T02:49:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-22310",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-22310:2026-11-19T17:19"
-  },
-  {
-   "ts": "2026-11-19T16:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-133323 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-133323 📢 Source: mitre 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in the Audio, Web, and Video Conferencing (AWV) component of Mitel MiColl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133323",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133323:2026-11-19T16:49"
   }
  ]
 }
