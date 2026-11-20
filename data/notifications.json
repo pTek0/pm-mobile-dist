@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-20T11:19:07+00:00",
+ "generated_at": "2026-11-20T11:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-20T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131167 (CVSS 8.9)",
+   "body": "🚨 CVE-2026-131167 📢 Source: pretix 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: True pretix offloads certain processes to background tasks that are run by a different server to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131167",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131167:2026-11-20T11:49"
+  },
+  {
+   "ts": "2026-11-20T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131163 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-131163 📢 Source: pretix 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A stored XSS in pretix-adyen has been discovered where an attacker could configure his own ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131163",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131163:2026-11-20T11:49"
+  },
+  {
+   "ts": "2026-11-20T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Google is finally mask-off trying to kill GrapheneOS",
+   "body": "Lemmy · programming.dev · 점수 154",
+   "link": "https://lemmy.world/post/59646135",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.world/post/59646135:2026-11-20T11:49"
+  },
+  {
+   "ts": "2026-11-20T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Anthropic Researcher Says Pretty Much All Humans Will Become",
+   "body": "Lemmy · technology · 점수 144",
+   "link": "https://futurism.com/future-society/anthropic-safety-researcher-claude-ipo-fear",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/future-society/anthropic-safety-researcher-claude-ipo-fear:2026-11-20T11:49"
+  },
+  {
+   "ts": "2026-11-20T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Amazon fights the Delivery Protection Act with homepage bann",
+   "body": "Lemmy · technology · 점수 136",
+   "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/:2026-11-20T11:49"
+  },
+  {
+   "ts": "2026-11-20T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AI data center power demand will double by 2030 thanks to $4",
+   "body": "Lemmy · technology · 점수 98",
+   "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts:2026-11-20T11:49"
+  },
+  {
+   "ts": "2026-11-20T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Hackers Leak User Data From JPMorgan, Visa, and Mastercard: ",
+   "body": "Lemmy · technology · 점수 71",
+   "link": "https://futurism.com/future-society/hackers-leak-jpmorgan-visa-mastercard-n0n",
+   "source": "Lemmy · technology",
+   "id": "community:https://futurism.com/future-society/hackers-leak-jpmorgan-visa-mastercard-n0n:2026-11-20T11:49"
+  },
   {
    "ts": "2026-11-20T11:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
    "source": "Hacker News",
    "id": "community:https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/:2026-11-19T23:49"
-  },
-  {
-   "ts": "2026-11-19T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ruby2ßhell: Pre-authentication RCE on stock Rails",
-   "body": "Hacker News · 점수 366",
-   "link": "https://verialabs.com/ruby2shell/",
-   "source": "Hacker News",
-   "id": "community:https://verialabs.com/ruby2shell/:2026-11-19T23:49"
-  },
-  {
-   "ts": "2026-11-19T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Everything you need to survive and rebuild society",
-   "body": "Hacker News · 점수 330",
-   "link": "https://lastbook.org/",
-   "source": "Hacker News",
-   "id": "community:https://lastbook.org/:2026-11-19T23:49"
-  },
-  {
-   "ts": "2026-11-19T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Someone reported java4shell bug in September 2026",
-   "body": "Hacker News · 점수 325",
-   "link": "https://github.com/openjdk/jdk/pull/32781",
-   "source": "Hacker News",
-   "id": "community:https://github.com/openjdk/jdk/pull/32781:2026-11-19T23:49"
-  },
-  {
-   "ts": "2026-11-19T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Claude solves two open problems in the physics of black hole",
-   "body": "Hacker News · 점수 321",
-   "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-   "source": "Hacker News",
-   "id": "community:https://www.anthropic.com/research/claude-black-hole-physics:2026-11-19T23:49"
-  },
-  {
-   "ts": "2026-11-19T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122676 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-122676 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122676",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122676:2026-11-19T23:19"
-  },
-  {
-   "ts": "2026-11-19T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Anthropic hits $2T in Nasdaq debut",
-   "body": "Hacker News · 점수 762",
-   "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-   "source": "Hacker News",
-   "id": "community:https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/:2026-11-19T23:19"
-  },
-  {
-   "ts": "2026-11-19T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Garage Door Spam",
-   "body": "Hacker News · 점수 698",
-   "link": "https://blog.harrison.page/garage-door-spam/",
-   "source": "Hacker News",
-   "id": "community:https://blog.harrison.page/garage-door-spam/:2026-11-19T23:19"
   }
  ]
 }
