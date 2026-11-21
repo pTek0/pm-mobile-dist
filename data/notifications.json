@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-11-21T16:19:10+00:00",
+ "generated_at": "2026-11-21T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-21T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134264 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-134264 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Admidio from 5.0.2 before 5.0.17 contains an arbitrary file read vulnerability that allo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134264",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134264:2026-11-21T16:49"
+  },
+  {
+   "ts": "2026-11-21T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-134262 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-134262 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Admidio 5.0.0 before 5.0.18 contains a stored cross-site scripting vulnerability tha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134262",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134262:2026-11-21T16:49"
+  },
+  {
+   "ts": "2026-11-21T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134261 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-134261 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Admidio before 5.0.18 contains an insecure direct object reference vulnerability in myli",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134261",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134261:2026-11-21T16:49"
+  },
+  {
+   "ts": "2026-11-21T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-134258 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-134258 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Admidio 5.0.0 before 5.0.18 contains a path traversal vulnerability in the Documents",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134258",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134258:2026-11-21T16:49"
+  },
+  {
+   "ts": "2026-11-21T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134254 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-134254 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Admidio from 5.0.0 before 5.0.18 contains a path traversal vulnerability in DocumentsSer",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134254",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134254:2026-11-21T16:49"
+  },
+  {
+   "ts": "2026-11-21T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134253 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-134253 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Grav API plugin from 1.0.0 before 1.1.4 contains a remote code execution vulnerability t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134253",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134253:2026-11-21T16:49"
+  },
+  {
+   "ts": "2026-11-21T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134250 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-134250 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Grav Form plugin 1.1.0 before 9.1.40 contains a stored cross-site scripting vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134250",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134250:2026-11-21T16:49"
+  },
+  {
+   "ts": "2026-11-21T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134249 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-134249 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan before 3.8.10 contains an authentication bypass vulnerability that allows unauthe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134249",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134249:2026-11-21T16:49"
+  },
+  {
+   "ts": "2026-11-21T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134248 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-134248 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True SiYuan 3.6.0 before 3.8.10 contains an information disclosure vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134248",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134248:2026-11-21T16:49"
+  },
+  {
+   "ts": "2026-11-21T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134247 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-134247 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan 3.8.0 before 3.8.10 contains an incorrect authorization vulnerability that allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134247",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134247:2026-11-21T16:49"
+  },
+  {
+   "ts": "2026-11-21T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134246 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-134246 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan 3.6.0 before 3.6.2 and 3.7.3 before 3.8.10 contains a missing authorization vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134246",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134246:2026-11-21T16:49"
+  },
+  {
+   "ts": "2026-11-21T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134242 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-134242 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Parse Server 2.5.0 before 8.6.121 and 9.0.0 before 9.11.1-alpha.1 does not handle a fail",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134242",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134242:2026-11-21T16:49"
+  },
   {
    "ts": "2026-11-21T15:19:08+00:00",
    "level": "important",
@@ -381,126 +501,6 @@
    "link": "https://www.wired.com/story/internet-archive-staffers-are-unionizing/",
    "source": "Lemmy · technology",
    "id": "community:https://www.wired.com/story/internet-archive-staffers-are-unionizing/:2026-11-20T23:49"
-  },
-  {
-   "ts": "2026-11-20T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Levent Alpöge claims proof of the Generalized Riemann Hypoth",
-   "body": "Hacker News · 점수 2214",
-   "link": "https://alpo.ge/remark.pdf",
-   "source": "Hacker News",
-   "id": "community:https://alpo.ge/remark.pdf:2026-11-20T23:19"
-  },
-  {
-   "ts": "2026-11-20T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Hurried Announcement: Alessandro Masullo GRH",
-   "body": "Hacker News · 점수 1227",
-   "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-   "source": "Hacker News",
-   "id": "community:https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/:2026-11-20T23:19"
-  },
-  {
-   "ts": "2026-11-20T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Frostbite: A new CPU architecture discovered, designed and v",
-   "body": "Hacker News · 점수 596",
-   "link": "https://architectlabs.com/blog/frostbite",
-   "source": "Hacker News",
-   "id": "community:https://architectlabs.com/blog/frostbite:2026-11-20T23:19"
-  },
-  {
-   "ts": "2026-11-20T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] If you can't explain something in simple terms, you don't un",
-   "body": "Hacker News · 점수 591",
-   "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-   "source": "Hacker News",
-   "id": "community:https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it:2026-11-20T23:19"
-  },
-  {
-   "ts": "2026-11-20T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Signal Is Serious About Protecting Your Privacy",
-   "body": "Hacker News · 점수 453",
-   "link": "https://signal.org/blog/protecting-your-privacy/",
-   "source": "Hacker News",
-   "id": "community:https://signal.org/blog/protecting-your-privacy/:2026-11-20T23:19"
-  },
-  {
-   "ts": "2026-11-20T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134170 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-134170 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Cesanta Mongoose 7.22 before 7.24 with the built-in TLS stack contains an out-of-bounds ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134170",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134170:2026-11-20T22:49"
-  },
-  {
-   "ts": "2026-11-20T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134169 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-134169 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Qwik City before 1.20.3 ( @builder .io/qwik-city) and @qwik .dev/router before 2.0.0-rc.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134169",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134169:2026-11-20T22:49"
-  },
-  {
-   "ts": "2026-11-20T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134167 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-134167 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True devpi-web before 5.2.0 contains an unauthenticated path traversal vulnerability in the +",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134167",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134167:2026-11-20T22:49"
-  },
-  {
-   "ts": "2026-11-20T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134164 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-134164 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True probe-image-size before 7.5.0 contains an algorithmic-complexity denial of service vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134164",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134164:2026-11-20T22:49"
-  },
-  {
-   "ts": "2026-11-20T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134172 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-134172 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False audio-separator before 0.47.2 contains an insecure deserialization vulnerability that a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134172",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134172:2026-11-20T22:49"
-  },
-  {
-   "ts": "2026-11-20T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134126 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-134126 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True WPC Smart Messages for WooCommerce plugin before 4.3.6 contains a missing authorization ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134126",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134126:2026-11-20T21:19"
-  },
-  {
-   "ts": "2026-11-20T20:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134043 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-134043 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Krita TIF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability. This v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134043",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134043:2026-11-20T20:19"
   }
  ]
 }
