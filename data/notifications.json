@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-21T00:19:07+00:00",
+ "generated_at": "2026-11-21T00:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-21T00:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-104883 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-104883 📢 Source: github-security-advisories 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Commit `2b83a60f7763` (5.7.3) hardened the template editor: it added `T",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-104883",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-104883:2026-11-21T00:49"
+  },
+  {
+   "ts": "2026-11-21T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Lenders aim to bar SpaceX from launching $40bn of chips into",
+   "body": "Lemmy · technology · 점수 79",
+   "link": "https://dealroom.co/news/other-yu0xh5-lenders-aim-to-bar-spacex-from-launching-40bn-of-chips-into-orbit/",
+   "source": "Lemmy · technology",
+   "id": "community:https://dealroom.co/news/other-yu0xh5-lenders-aim-to-bar-spacex-from-launching-40bn-of-chips-into-orbit/:2026-11-21T00:49"
+  },
+  {
+   "ts": "2026-11-21T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] US tech companies that build AI data centers in other countr",
+   "body": "Lemmy · technology · 점수 57",
+   "link": "https://apnews.com/article/trump-artificial-intelligence-data-centers-f1ac03b73d13445400eeed8631d9d879",
+   "source": "Lemmy · technology",
+   "id": "community:https://apnews.com/article/trump-artificial-intelligence-data-centers-f1ac03b73d13445400eeed8631d9d879:2026-11-21T00:49"
+  },
+  {
+   "ts": "2026-11-21T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I like to live dangerously",
+   "body": "Lemmy · programming.dev · 점수 53",
+   "link": "https://lemmy.world/post/59672980",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://lemmy.world/post/59672980:2026-11-21T00:49"
+  },
+  {
+   "ts": "2026-11-21T00:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Vim Classic 8.3.1 released",
+   "body": "Lobsters · 점수 50",
+   "link": "https://vim-classic.org/news/vim-8.3.1-released.html",
+   "source": "Lobsters",
+   "id": "community:https://vim-classic.org/news/vim-8.3.1-released.html:2026-11-21T00:49"
+  },
   {
    "ts": "2026-11-21T00:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-132662",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132662:2026-11-20T15:19"
-  },
-  {
-   "ts": "2026-11-20T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132661 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-132661 📢 Source: EDB 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True In Postgres Enterprise Manager (PEM), multi-factor authentication (MFA) is not enforced on the",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132661",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132661:2026-11-20T15:19"
-  },
-  {
-   "ts": "2026-11-20T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-132660 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-132660 📢 Source: EDB 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True In Postgres Enterprise Manager (PEM), several SECURITY DEFINER functions in the pem schema",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132660",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132660:2026-11-20T15:19"
-  },
-  {
-   "ts": "2026-11-20T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-132659 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-132659 📢 Source: EDB 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True In Postgres Enterprise Manager (PEM), the row-level security policies on pem.job and pem.j",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132659",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132659:2026-11-20T15:19"
-  },
-  {
-   "ts": "2026-11-20T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-132658 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-132658 📢 Source: EDB 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True In Postgres Enterprise Manager (PEM), the pem_agent role, which every PEM agent login inhe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132658",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132658:2026-11-20T15:19"
-  },
-  {
-   "ts": "2026-11-20T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-126054 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-126054 📢 Source: GoogleCloud 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A Path Traversal vulnerability in workspace directory handling and Git integration",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126054",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126054:2026-11-20T15:19"
   }
  ]
 }
