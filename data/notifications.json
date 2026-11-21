@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-21T14:49:09+00:00",
+ "generated_at": "2026-11-21T15:19:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-21T15:19:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-74127 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-74127 📢 Source: AMD 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: False Improper verification of a cryptographic signature in the PSP Boot ROM of AMD Zeppelin (Ze",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-74127",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-74127:2026-11-21T15:19"
+  },
+  {
+   "ts": "2026-11-21T15:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2025-61963 (CVSS 8.4)",
+   "body": "🚨 CVE-2025-61963 📢 Source: AMD 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Improper input validation within the AmdPlatformRasSmm driver could allow an attacker with pri",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2025-61963",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2025-61963:2026-11-21T15:19"
+  },
   {
    "ts": "2026-11-21T12:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-134043",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134043:2026-11-20T20:19"
-  },
-  {
-   "ts": "2026-11-20T20:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134042 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-134042 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Krita HEIC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134042",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134042:2026-11-20T20:19"
-  },
-  {
-   "ts": "2026-11-20T19:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19779 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-19779 📢 Source: zdi 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False G DATA Total Security Backup Service Uncontrolled Search Path Element Local Privilege Escalati",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19779",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19779:2026-11-20T19:49"
   }
  ]
 }
