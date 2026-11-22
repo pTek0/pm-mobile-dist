@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-22T18:49:07+00:00",
+ "generated_at": "2026-11-22T19:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-22T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-134624 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-134624 📢 Source: N-able 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False N-able MailAssure (SpamExperts) before 20261121.1943 does not restrict the destination",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134624",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134624:2026-11-22T19:19"
+  },
   {
    "ts": "2026-11-22T16:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://www.engadget.com/2324090/etsy-not-use-seller-content-train-ai/",
    "source": "Lemmy · technology",
    "id": "community:https://www.engadget.com/2324090/etsy-not-use-seller-content-train-ai/:2026-11-21T23:49"
-  },
-  {
-   "ts": "2026-11-21T23:19:15+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Lean verification of the Riemann Hypothesis",
-   "body": "Hacker News · 점수 717",
-   "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-   "source": "Hacker News",
-   "id": "community:https://leanprover-community.github.io/blog/posts/riemann-hypothesis/:2026-11-21T23:19"
   }
  ]
 }
