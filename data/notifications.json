@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-22T10:49:14+00:00",
+ "generated_at": "2026-11-22T11:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-22T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131742 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-131742 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131742",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131742:2026-11-22T11:19"
+  },
+  {
+   "ts": "2026-11-22T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131724 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-131724 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131724",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131724:2026-11-22T11:19"
+  },
+  {
+   "ts": "2026-11-22T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131718 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-131718 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131718",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131718:2026-11-22T11:19"
+  },
+  {
+   "ts": "2026-11-22T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131714 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-131714 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131714",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131714:2026-11-22T11:19"
+  },
+  {
+   "ts": "2026-11-22T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131702 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-131702 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131702",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131702:2026-11-22T11:19"
+  },
+  {
+   "ts": "2026-11-22T11:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131701 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-131701 📢 Source: Patchstack 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131701",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131701:2026-11-22T11:19"
+  },
   {
    "ts": "2026-11-22T10:19:12+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129811",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129811:2026-11-21T12:49"
-  },
-  {
-   "ts": "2026-11-21T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129801 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-129801 📢 Source: rt-labs 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False The FoE DATA frame handler computes the payload length from the master-supplied mailbox l",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129801",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129801:2026-11-21T12:49"
-  },
-  {
-   "ts": "2026-11-21T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129798 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-129798 📢 Source: rt-labs 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The CoE SDO segmented download handler advances a write pointer by each incoming segment'",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129798",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129798:2026-11-21T12:49"
-  },
-  {
-   "ts": "2026-11-21T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129797 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-129797 📢 Source: rt-labs 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False SDO_downloadsegment is called whenever a mailbox frame carries the DOWNLOADSEGREQ command",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129797",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129797:2026-11-21T12:49"
-  },
-  {
-   "ts": "2026-11-21T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129796 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-129796 📢 Source: rt-labs 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The CoE SDO download handler for flexible-length objects (VISIBLE_STRING, OCTET_STRING, a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129796",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129796:2026-11-21T12:49"
-  },
-  {
-   "ts": "2026-11-21T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129794 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-129794 📢 Source: rt-labs 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False The EoE fragment reassembly code uses a frame size from the wire as the bound for memcpy ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129794",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129794:2026-11-21T12:49"
-  },
-  {
-   "ts": "2026-11-21T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Removing binder.c",
-   "body": "Lobsters · 점수 63",
-   "link": "https://lwn.net/Articles/1102982/",
-   "source": "Lobsters",
-   "id": "community:https://lwn.net/Articles/1102982/:2026-11-21T12:19"
   }
  ]
 }
