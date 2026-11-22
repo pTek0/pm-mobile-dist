@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-11-22T21:19:07+00:00",
+ "generated_at": "2026-11-22T21:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-22T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134808 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-134808 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Gogs before 0.14.4 on Windows contains a path equivalence vulnerability in isRepositoryG",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134808",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134808:2026-11-22T21:49"
+  },
+  {
+   "ts": "2026-11-22T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134805 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-134805 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Zipline before 4.8.3 contains a server-side request forgery vulnerability that allows auth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134805",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134805:2026-11-22T21:49"
+  },
+  {
+   "ts": "2026-11-22T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134804 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-134804 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Portainer 2.39.0 before 2.39.9, 2.40.0 before 2.45.4, and 3.0.0 before 3.1.0 contains an",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134804",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134804:2026-11-22T21:49"
+  },
+  {
+   "ts": "2026-11-22T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134803 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-134803 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True DBHub before 1.7.0 contains a read-only mode bypass vulnerability that allows MCP client",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134803",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134803:2026-11-22T21:49"
+  },
+  {
+   "ts": "2026-11-22T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134802 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-134802 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True VoidAuth before 1.19.2 contains an access control bypass vulnerability that allows authe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134802",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134802:2026-11-22T21:49"
+  },
+  {
+   "ts": "2026-11-22T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134794 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-134794 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True HedgeDoc before 1.12.1 contains a prototype pollution vulnerability in the POST /history",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134794",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134794:2026-11-22T21:49"
+  },
+  {
+   "ts": "2026-11-22T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134793 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-134793 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Electerm before 5.9.0 on Windows contains an OS command injection vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134793",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134793:2026-11-22T21:49"
+  },
+  {
+   "ts": "2026-11-22T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134765 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-134765 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Kirby 5.0.0 before 5.6.4 contains a race condition in Kirby\\Api\\Upload::processChunk() t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134765",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134765:2026-11-22T21:49"
+  },
   {
    "ts": "2026-11-22T19:19:07+00:00",
    "level": "important",
@@ -421,86 +501,6 @@
    "link": "https://slopstrap.mikelacher.com/l",
    "source": "Lobsters",
    "id": "community:https://slopstrap.mikelacher.com/l:2026-11-22T00:19"
-  },
-  {
-   "ts": "2026-11-22T00:19:13+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] My Monitor Was Cutting My Download Speed by 75%",
-   "body": "Lobsters · 점수 68",
-   "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-   "source": "Lobsters",
-   "id": "community:https://blog.tymscar.com/posts/studiodisplayethernet/:2026-11-22T00:19"
-  },
-  {
-   "ts": "2026-11-22T00:19:13+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The AI Riemann hypothesis proof is true, independent mathema",
-   "body": "Lemmy · technology · 점수 68",
-   "link": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/:2026-11-22T00:19"
-  },
-  {
-   "ts": "2026-11-22T00:19:13+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] FBI reportedly investigating apparent hack of its criminal d",
-   "body": "Lemmy · technology · 점수 55",
-   "link": "http://www.bbc.com/news/articles/cvze7de86pk3o",
-   "source": "Lemmy · technology",
-   "id": "community:http://www.bbc.com/news/articles/cvze7de86pk3o:2026-11-22T00:19"
-  },
-  {
-   "ts": "2026-11-21T23:49:15+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] another CVE",
-   "body": "Lemmy · programming.dev · 점수 431",
-   "link": "https://lemmy.blahaj.zone/pictrs/image/7044cf80-f8b2-497e-945e-e0b8236f1a52.webp",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.blahaj.zone/pictrs/image/7044cf80-f8b2-497e-945e-e0b8236f1a52.webp:2026-11-21T23:49"
-  },
-  {
-   "ts": "2026-11-21T23:49:15+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Pill to treat pancreatic cancer hailed as 'biggest breakthro",
-   "body": "Hacker News · 점수 356",
-   "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-   "source": "Hacker News",
-   "id": "community:https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib:2026-11-21T23:49"
-  },
-  {
-   "ts": "2026-11-21T23:49:15+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] this me",
-   "body": "Lemmy · programming.dev · 점수 293",
-   "link": "https://lemmy.blahaj.zone/pictrs/image/2e619c21-b54f-4430-9d0c-7282b63ec9a3.webp",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.blahaj.zone/pictrs/image/2e619c21-b54f-4430-9d0c-7282b63ec9a3.webp:2026-11-21T23:49"
-  },
-  {
-   "ts": "2026-11-21T23:49:15+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A new Windows zero-day reportedly gets past BitLocker using ",
-   "body": "Lemmy · technology · 점수 160",
-   "link": "https://www.techspot.com/news/114655-new-windows-zero-day-reportedly-gets-past-bitlocker.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.techspot.com/news/114655-new-windows-zero-day-reportedly-gets-past-bitlocker.html:2026-11-21T23:49"
-  },
-  {
-   "ts": "2026-11-21T23:49:15+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Etsy says it will not use sellers' content to train AI after",
-   "body": "Lemmy · technology · 점수 156",
-   "link": "https://www.engadget.com/2324090/etsy-not-use-seller-content-train-ai/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.engadget.com/2324090/etsy-not-use-seller-content-train-ai/:2026-11-21T23:49"
   }
  ]
 }
