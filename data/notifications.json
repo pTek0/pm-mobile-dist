@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-23T10:19:14+00:00",
+ "generated_at": "2026-11-23T10:49:14+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T10:49:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59442 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-59442 📢 Source: vmware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True TypesenseFilterExpressionConverter does not correctly translate grouped (parenthesized) filt",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59442",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59442:2026-11-23T10:49"
+  },
+  {
+   "ts": "2026-11-23T10:49:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133646 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-133646 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Synchronet BBS, in versions 3.20b to 3.21e, contains an out-of-bounds write vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133646",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133646:2026-11-23T10:49"
+  },
+  {
+   "ts": "2026-11-23T10:49:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123886 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-123886 📢 Source: vmware 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Spring Data Elasticsearch replaces positional placeholders in string-based @Query methods w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123886",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123886:2026-11-23T10:49"
+  },
   {
    "ts": "2026-11-23T10:19:13+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129066",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129066:2026-11-22T16:19"
-  },
-  {
-   "ts": "2026-11-22T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129024 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-129024 📢 Source: Patchstack 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129024",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129024:2026-11-22T16:19"
-  },
-  {
-   "ts": "2026-11-22T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-131782 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-131782 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in mra13 / Team Tips and Tricks HQ ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131782",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131782:2026-11-22T15:19"
-  },
-  {
-   "ts": "2026-11-22T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-131775 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-131775 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131775",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131775:2026-11-22T15:19"
   }
  ]
 }
