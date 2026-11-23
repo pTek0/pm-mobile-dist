@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-23T09:49:09+00:00",
+ "generated_at": "2026-11-23T10:19:14+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T10:19:13+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: learning",
+   "body": "**★ 2026-11-20~22 — [정보보안기사 실습랩 구축계획 v4/v5](learning/subjects/infosec-engineer-lab/구축계획-호스트배치.md)**(출제기준 2027~2029 매핑 + ",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: learning:2026-11-23T10:19"
+  },
+  {
+   "ts": "2026-11-23T10:19:13+00:00",
+   "level": "general",
+   "category": "project",
+   "title": "프로젝트 갱신: ship-pentest",
+   "body": "**★ 2026-11-22 — Proxmox 선박랩 정리**: 전수조사 후 선박 VM 8대·VXLAN 삭제(백업=NAS 아카이브 검증 OK, 허브 폴더 원본 유지 — 실습랩 자원 확보). 자체 ICS 랩은 재구축 필",
+   "link": "",
+   "source": "PROJECTS.md",
+   "id": "project:프로젝트 갱신: ship-pentest:2026-11-23T10:19"
+  },
   {
    "ts": "2026-11-23T09:49:08+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-131775",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131775:2026-11-22T15:19"
-  },
-  {
-   "ts": "2026-11-22T15:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-131754 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-131754 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Pierre Lannoy APCu Manager apcu-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131754",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131754:2026-11-22T15:19"
-  },
-  {
-   "ts": "2026-11-22T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129085 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-129085 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Aguila Technologies WP Customer Area customer-ar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129085",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129085:2026-11-22T15:19"
   }
  ]
 }
