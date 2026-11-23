@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-23T18:49:09+00:00",
+ "generated_at": "2026-11-23T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T19:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-49965 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-49965 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True DreameHome cloud API before 2026-11-19 contained an insecure direct object reference vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-49965",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-49965:2026-11-23T19:19"
+  },
+  {
+   "ts": "2026-11-23T19:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-49964 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-49964 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True DreameHome cloud API before 2026-10-14 contained an insecure direct object reference vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-49964",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-49964:2026-11-23T19:19"
+  },
+  {
+   "ts": "2026-11-23T19:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-49963 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-49963 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True DreameHome for Android (com.dreame.smartlife) before 2.6.4.0 contains a download of code ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-49963",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-49963:2026-11-23T19:19"
+  },
   {
    "ts": "2026-11-23T18:49:08+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "",
    "source": "PROJECTS.md",
    "id": "project:프로젝트 갱신: learning:2026-11-23T10:19"
-  },
-  {
-   "ts": "2026-11-23T10:19:13+00:00",
-   "level": "general",
-   "category": "project",
-   "title": "프로젝트 갱신: ship-pentest",
-   "body": "**★ 2026-11-22 — Proxmox 선박랩 정리**: 전수조사 후 선박 VM 8대·VXLAN 삭제(백업=NAS 아카이브 검증 OK, 허브 폴더 원본 유지 — 실습랩 자원 확보). 자체 ICS 랩은 재구축 필",
-   "link": "",
-   "source": "PROJECTS.md",
-   "id": "project:프로젝트 갱신: ship-pentest:2026-11-23T10:19"
-  },
-  {
-   "ts": "2026-11-23T09:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-88850 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-88850 📢 Source: CERTVDE 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True The Web-Based Management (WBM) authorization model does not properly enforce permissions fo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88850",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88850:2026-11-23T09:49"
-  },
-  {
-   "ts": "2026-11-23T09:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80466 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-80466 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A vulnerability in the Web-Based Management (WBM) routing configuration allows a low-privil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80466",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80466:2026-11-23T09:49"
   }
  ]
 }
