@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-23T15:19:09+00:00",
+ "generated_at": "2026-11-23T15:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T15:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133632 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-133632 📢 Source: GitLab 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False In astro-airflow-mcp 0.5.0 through 0.9.1, the af CLI and the MCP server send telemetry fro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133632",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133632:2026-11-23T15:49"
+  },
   {
    "ts": "2026-11-23T14:49:11+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-134805",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134805:2026-11-22T21:49"
-  },
-  {
-   "ts": "2026-11-22T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134804 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-134804 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Portainer 2.39.0 before 2.39.9, 2.40.0 before 2.45.4, and 3.0.0 before 3.1.0 contains an",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134804",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134804:2026-11-22T21:49"
   }
  ]
 }
