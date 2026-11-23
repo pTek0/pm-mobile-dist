@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-23T20:49:08+00:00",
+ "generated_at": "2026-11-23T21:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82303 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-82303 📢 Source: elastic 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False A buffer over-read vulnerability in Elasticsearch transport decompression can expose data ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82303",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82303:2026-11-23T21:19"
+  },
   {
    "ts": "2026-11-23T20:19:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
    "source": "Hacker News",
    "id": "community:https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527:2026-11-23T11:19"
-  },
-  {
-   "ts": "2026-11-23T10:49:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-59442 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-59442 📢 Source: vmware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True TypesenseFilterExpressionConverter does not correctly translate grouped (parenthesized) filt",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59442",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59442:2026-11-23T10:49"
   }
  ]
 }
