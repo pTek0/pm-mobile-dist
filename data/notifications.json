@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-23T19:49:08+00:00",
+ "generated_at": "2026-11-23T20:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T20:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95793 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-95793 📢 Source: hpe 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An arbitrary remote code execution vulnerability exists in HPE Morpheus Manager. 📅 Published Da",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95793",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95793:2026-11-23T20:19"
+  },
+  {
+   "ts": "2026-11-23T20:19:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134056 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-134056 📢 Source: AMZN 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True An out-of-bounds write issue exists in padded block cipher decryption in AWS-LC. It affects a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134056",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134056:2026-11-23T20:19"
+  },
   {
    "ts": "2026-11-23T19:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-59442",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59442:2026-11-23T10:49"
-  },
-  {
-   "ts": "2026-11-23T10:49:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133646 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-133646 📢 Source: INCIBE 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Synchronet BBS, in versions 3.20b to 3.21e, contains an out-of-bounds write vulnerability i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133646",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133646:2026-11-23T10:49"
-  },
-  {
-   "ts": "2026-11-23T10:49:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123886 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-123886 📢 Source: vmware 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Spring Data Elasticsearch replaces positional placeholders in string-based @Query methods w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123886",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123886:2026-11-23T10:49"
   }
  ]
 }
