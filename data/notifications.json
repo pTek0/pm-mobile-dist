@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-23T17:19:08+00:00",
+ "generated_at": "2026-11-23T17:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127224 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-127224 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True GFI HelpDesk before 4.99.13 contains an SQL injection vulnerability in the archiver expo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127224",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127224:2026-11-23T17:49"
+  },
+  {
+   "ts": "2026-11-23T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127223 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-127223 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True GFI HelpDesk before 4.99.13 contains an SQL injection vulnerability in the staff group m",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127223",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127223:2026-11-23T17:49"
+  },
   {
    "ts": "2026-11-23T17:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
    "source": "Hacker News",
    "id": "community:https://www.oreilly.com/radar/what-happened-to-silicon-valley/:2026-11-22T23:49"
-  },
-  {
-   "ts": "2026-11-22T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Show HN: I built a game where you are an LLM's subagent",
-   "body": "Hacker News · 점수 252",
-   "link": "https://github.com/gulivan/worker755",
-   "source": "Hacker News",
-   "id": "community:https://github.com/gulivan/worker755:2026-11-22T23:49"
-  },
-  {
-   "ts": "2026-11-22T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Birds of GTA 6: A Field Guide to Vice City and Leonida's",
-   "body": "Hacker News · 점수 246",
-   "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-   "source": "Hacker News",
-   "id": "community:https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife:2026-11-22T23:49"
   }
  ]
 }
