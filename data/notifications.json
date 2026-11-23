@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-23T13:49:14+00:00",
+ "generated_at": "2026-11-23T14:19:16+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T14:19:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93585 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-93585 📢 Source: OTRS 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An improper authorization vulnerability in the EV Reach Client Agent allows authenticated user",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93585",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93585:2026-11-23T14:19"
+  },
+  {
+   "ts": "2026-11-23T14:19:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132856 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-132856 📢 Source: checkpoint 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A vulnerability was discovered in the ZoneAlarm client for Windows that allows a low-p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132856",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132856:2026-11-23T14:19"
+  },
   {
    "ts": "2026-11-23T13:49:11+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-134765",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134765:2026-11-22T21:49"
-  },
-  {
-   "ts": "2026-11-22T19:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-134624 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-134624 📢 Source: N-able 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False N-able MailAssure (SpamExperts) before 20261121.1943 does not restrict the destination",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134624",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134624:2026-11-22T19:19"
-  },
-  {
-   "ts": "2026-11-22T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-131794 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-131794 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131794",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131794:2026-11-22T16:19"
   }
  ]
 }
