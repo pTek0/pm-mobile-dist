@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-23T12:49:14+00:00",
+ "generated_at": "2026-11-23T13:19:14+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T13:19:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-86312 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-86312 📢 Source: apache 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Under some configurations a request to the ping endpoint could carry out more than a simple ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86312",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86312:2026-11-23T13:19"
+  },
   {
    "ts": "2026-11-23T12:19:13+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-131793",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131793:2026-11-22T16:19"
-  },
-  {
-   "ts": "2026-11-22T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-131791 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-131791 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131791",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131791:2026-11-22T16:19"
   }
  ]
 }
