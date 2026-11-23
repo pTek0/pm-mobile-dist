@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-23T14:19:16+00:00",
+ "generated_at": "2026-11-23T14:49:14+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T14:49:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135164 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-135164 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Formance Ledger 2.2.0-beta.3 before 2.4.18 contains an SQL injection vulnerability that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135164",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135164:2026-11-23T14:49"
+  },
+  {
+   "ts": "2026-11-23T14:49:11+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-135163 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-135163 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Okou API before 1.762.0 contains a missing authentication vulnerability in its Micro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135163",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135163:2026-11-23T14:49"
+  },
+  {
+   "ts": "2026-11-23T14:49:11+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-135161 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-135161 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Interstellar before 6.3.0 contains a server-side request forgery vulnerability that ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135161",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135161:2026-11-23T14:49"
+  },
+  {
+   "ts": "2026-11-23T14:49:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135160 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-135160 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Medplum server 5.1.4 before 5.1.42 contains an incorrect authorization vulnerability in ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135160",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135160:2026-11-23T14:49"
+  },
+  {
+   "ts": "2026-11-23T14:49:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135157 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-135157 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Future AGI before 1.51.0 contains an authentication bypass vulnerability in ACSView.post",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135157",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135157:2026-11-23T14:49"
+  },
   {
    "ts": "2026-11-23T14:19:11+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-134804",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134804:2026-11-22T21:49"
-  },
-  {
-   "ts": "2026-11-22T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134803 (CVSS 8.1)",
-   "body": "🚨 CVE-2026-134803 📢 Source: VulnCheck 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True DBHub before 1.7.0 contains a read-only mode bypass vulnerability that allows MCP client",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134803",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134803:2026-11-22T21:49"
-  },
-  {
-   "ts": "2026-11-22T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134802 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-134802 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True VoidAuth before 1.19.2 contains an access control bypass vulnerability that allows authe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134802",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134802:2026-11-22T21:49"
-  },
-  {
-   "ts": "2026-11-22T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134794 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-134794 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True HedgeDoc before 1.12.1 contains a prototype pollution vulnerability in the POST /history",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134794",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134794:2026-11-22T21:49"
-  },
-  {
-   "ts": "2026-11-22T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134793 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-134793 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Electerm before 5.9.0 on Windows contains an OS command injection vulnerability that al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134793",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134793:2026-11-22T21:49"
-  },
-  {
-   "ts": "2026-11-22T21:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134765 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-134765 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Kirby 5.0.0 before 5.6.4 contains a race condition in Kirby\\Api\\Upload::processChunk() t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134765",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134765:2026-11-22T21:49"
   }
  ]
 }
