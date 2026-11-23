@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-23T09:19:08+00:00",
+ "generated_at": "2026-11-23T09:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T09:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-88850 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-88850 📢 Source: CERTVDE 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True The Web-Based Management (WBM) authorization model does not properly enforce permissions fo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-88850",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-88850:2026-11-23T09:49"
+  },
+  {
+   "ts": "2026-11-23T09:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80466 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-80466 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A vulnerability in the Web-Based Management (WBM) routing configuration allows a low-privil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80466",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80466:2026-11-23T09:49"
+  },
+  {
+   "ts": "2026-11-23T09:49:08+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-121613 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-121613 📢 Source: CERTVDE 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Missing authentication and authorization on an exposed interface allows an unauthentic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121613",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121613:2026-11-23T09:49"
+  },
   {
    "ts": "2026-11-23T08:49:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129085",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129085:2026-11-22T15:19"
-  },
-  {
-   "ts": "2026-11-22T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129083 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-129083 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129083",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129083:2026-11-22T15:19"
-  },
-  {
-   "ts": "2026-11-22T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134754 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-134754 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True anacrolix/torrent before 1.62.0 contains an uncontrolled recursion vulnerability in Deco",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134754",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134754:2026-11-22T14:49"
-  },
-  {
-   "ts": "2026-11-22T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134753 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-134753 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True dsniff through 2.5a2 contains an integer underflow in decode_sniffer() in decode_sniffer",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134753",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134753:2026-11-22T14:49"
   }
  ]
 }
