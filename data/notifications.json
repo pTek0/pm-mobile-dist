@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-11-23T22:19:08+00:00",
+ "generated_at": "2026-11-23T22:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101872 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-101872 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True EUSurvey through 1.6, prior to commit 4bf95a3, contains a blind SQL injection vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101872",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101872:2026-11-23T22:49"
+  },
+  {
+   "ts": "2026-11-23T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101871 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-101871 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True EUSurvey 1.5.2 through 1.6, prior to commit ffd5da7, contains a missing authorization vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101871",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101871:2026-11-23T22:49"
+  },
+  {
+   "ts": "2026-11-23T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101870 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-101870 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True EUSurvey through 1.6, prior to commit de1145c, contains an authorization bypass vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101870",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101870:2026-11-23T22:49"
+  },
+  {
+   "ts": "2026-11-23T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101869 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-101869 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True EUSurvey 1.4.4.6738 through 1.6, prior to commit de1145c, contains an SQL injection vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101869",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101869:2026-11-23T22:49"
+  },
+  {
+   "ts": "2026-11-23T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101868 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-101868 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True EUSurvey through 1.6, prior to commit 4bf95a3, contains an authorization bypass vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101868",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101868:2026-11-23T22:49"
+  },
+  {
+   "ts": "2026-11-23T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101867 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-101867 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True EUSurvey through 1.6, prior to commit edb5021, contains an incorrect authorization vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101867",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101867:2026-11-23T22:49"
+  },
+  {
+   "ts": "2026-11-23T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101866 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-101866 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True EUSurvey through 1.6, prior to commit 118facd, contains an authorization bypass vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101866",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101866:2026-11-23T22:49"
+  },
+  {
+   "ts": "2026-11-23T22:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-101864 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-101864 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True EUSurvey through 1.6, prior to commit a4161a9, contains a weak password recovery mec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101864",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101864:2026-11-23T22:49"
+  },
+  {
+   "ts": "2026-11-23T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101863 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-101863 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True EUSurvey 1.5.5 through 1.6, prior to commit d5295d5, contains a missing authorization vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101863",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101863:2026-11-23T22:49"
+  },
+  {
+   "ts": "2026-11-23T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-101862 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-101862 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True EUSurvey through 1.6, prior to commit 0669a36, contains a path traversal vulnerability i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101862",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101862:2026-11-23T22:49"
+  },
   {
    "ts": "2026-11-23T22:19:07+00:00",
    "level": "general",
@@ -401,106 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86312",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86312:2026-11-23T13:19"
-  },
-  {
-   "ts": "2026-11-23T12:19:13+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Meta's Muse AI Accessed Signal Messages in Tests, Sent Emplo",
-   "body": "Lemmy · programming.dev · 점수 50",
-   "link": "https://www.ibtimes.co.uk/meta-muse-ai-signal-messages-bank-balances-1833200?=0",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.ibtimes.co.uk/meta-muse-ai-signal-messages-bank-balances-1833200?=0:2026-11-23T12:19"
-  },
-  {
-   "ts": "2026-11-23T11:49:13+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Silicon Valley Is Suffering From Model Collapse",
-   "body": "Lemmy · technology · 점수 96",
-   "link": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505:2026-11-23T11:49"
-  },
-  {
-   "ts": "2026-11-23T11:49:13+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Iron Maiden's Lost 1997 PC Game Has Finally Been Recovered",
-   "body": "Lemmy · technology · 점수 84",
-   "link": "https://handheldhideout.neocities.org/articles/iron-maidens-lost-1997-pc-game-has-finally-been-recovered",
-   "source": "Lemmy · technology",
-   "id": "community:https://handheldhideout.neocities.org/articles/iron-maidens-lost-1997-pc-game-has-finally-been-recovered:2026-11-23T11:49"
-  },
-  {
-   "ts": "2026-11-23T11:49:13+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Datacentre bosses met Australian state premiers and minister",
-   "body": "Lemmy · technology · 점수 78",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds:2026-11-23T11:49"
-  },
-  {
-   "ts": "2026-11-23T11:49:13+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] New report demonstrates urgent need to expand high school le",
-   "body": "Lemmy · technology · 점수 72",
-   "link": "https://nkytribune.com/2026/11/new-report-demonstrates-urgent-need-to-expand-high-school-level-cybersecurity-courses/",
-   "source": "Lemmy · technology",
-   "id": "community:https://nkytribune.com/2026/11/new-report-demonstrates-urgent-need-to-expand-high-school-level-cybersecurity-courses/:2026-11-23T11:49"
-  },
-  {
-   "ts": "2026-11-23T11:49:13+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GitHub Actions accepts invalid YAML",
-   "body": "Lobsters · 점수 59",
-   "link": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
-   "source": "Lobsters",
-   "id": "community:https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/:2026-11-23T11:49"
-  },
-  {
-   "ts": "2026-11-23T11:19:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135055 (CVSS 8.0)",
-   "body": "🚨 CVE-2026-135055 📢 Source: redhat 💣 CVSS Score: 8 (HIGH) 📡 Remotely Exploitable: True A flaw was found in the GLib DMA-BUF path of WebKitGTK. The UIProcess trusted fds.size() as t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135055",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135055:2026-11-23T11:19"
-  },
-  {
-   "ts": "2026-11-23T11:19:13+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Free alternative TV network built from the Internet Archive'",
-   "body": "Hacker News · 점수 543",
-   "link": "https://spelunkr.tv",
-   "source": "Hacker News",
-   "id": "community:https://spelunkr.tv:2026-11-23T11:19"
-  },
-  {
-   "ts": "2026-11-23T11:19:13+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A Beginner's Guide to Local AI with Inkling, Qwen, and Unslo",
-   "body": "Hacker News · 점수 528",
-   "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-   "source": "Hacker News",
-   "id": "community:https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth:2026-11-23T11:19"
-  },
-  {
-   "ts": "2026-11-23T11:19:13+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] XNU Linux: Full OS X GUI Userspace on Linux",
-   "body": "Hacker News · 점수 342",
-   "link": "https://github.com/AFK-surf/xnulinux",
-   "source": "Hacker News",
-   "id": "community:https://github.com/AFK-surf/xnulinux:2026-11-23T11:19"
   }
  ]
 }
