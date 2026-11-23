@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-23T22:49:08+00:00",
+ "generated_at": "2026-11-23T23:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T23:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-122090 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-122090 📢 Source: Fluid Attacks 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Pelican 4.12.0 contains an OS command injection vulnerability in pelican-import. An",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122090",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122090:2026-11-23T23:19"
+  },
+  {
+   "ts": "2026-11-23T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nvidia Reinstates Jensen Huang as CEO",
+   "body": "Hacker News · 점수 1819",
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+   "source": "Hacker News",
+   "id": "community:https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html:2026-11-23T23:19"
+  },
+  {
+   "ts": "2026-11-23T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] GLM-5.4: Toward generalized coding with our first loop trans",
+   "body": "Hacker News · 점수 1000",
+   "link": "https://z.ai/blog/glm-5.4",
+   "source": "Hacker News",
+   "id": "community:https://z.ai/blog/glm-5.4:2026-11-23T23:19"
+  },
+  {
+   "ts": "2026-11-23T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Dario is hyping the dangers so OSS models are illegal and he",
+   "body": "Hacker News · 점수 858",
+   "link": "https://twitter.com/ylecun/status/2124550037912920090",
+   "source": "Hacker News",
+   "id": "community:https://twitter.com/ylecun/status/2124550037912920090:2026-11-23T23:19"
+  },
+  {
+   "ts": "2026-11-23T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Nvidia reinstates Jensen Huang as CEO",
+   "body": "Lemmy · technology · 점수 773",
+   "link": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864:2026-11-23T23:19"
+  },
+  {
+   "ts": "2026-11-23T23:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Per Arm's request, this site will be discontinued on 4 Decem",
+   "body": "Hacker News · 점수 693",
+   "link": "https://arm.jonpalmisc.com/",
+   "source": "Hacker News",
+   "id": "community:https://arm.jonpalmisc.com/:2026-11-23T23:19"
+  },
   {
    "ts": "2026-11-23T22:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-135161",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135161:2026-11-23T14:49"
-  },
-  {
-   "ts": "2026-11-23T14:49:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135160 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-135160 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Medplum server 5.1.4 before 5.1.42 contains an incorrect authorization vulnerability in ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135160",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135160:2026-11-23T14:49"
-  },
-  {
-   "ts": "2026-11-23T14:49:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135157 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-135157 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Future AGI before 1.51.0 contains an authentication bypass vulnerability in ACSView.post",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135157",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135157:2026-11-23T14:49"
-  },
-  {
-   "ts": "2026-11-23T14:19:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93585 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-93585 📢 Source: OTRS 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An improper authorization vulnerability in the EV Reach Client Agent allows authenticated user",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93585",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93585:2026-11-23T14:19"
-  },
-  {
-   "ts": "2026-11-23T14:19:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132856 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-132856 📢 Source: checkpoint 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A vulnerability was discovered in the ZoneAlarm client for Windows that allows a low-p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132856",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132856:2026-11-23T14:19"
-  },
-  {
-   "ts": "2026-11-23T13:49:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119068 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-119068 📢 Source: NLnet Labs 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False An rsync server can send diagnostic data to the client which is mirrored to stdout and",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119068",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119068:2026-11-23T13:49"
-  },
-  {
-   "ts": "2026-11-23T13:19:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-86312 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-86312 📢 Source: apache 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Under some configurations a request to the ping endpoint could carry out more than a simple ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86312",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86312:2026-11-23T13:19"
   }
  ]
 }
