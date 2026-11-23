@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-23T21:49:09+00:00",
+ "generated_at": "2026-11-23T22:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134069 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-134069 📢 Source: AMZN 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Use of a default cryptographic key in the instance registration component in Amazon SSM Agen",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134069",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134069:2026-11-23T22:19"
+  },
   {
    "ts": "2026-11-23T21:49:08+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://github.com/AFK-surf/xnulinux",
    "source": "Hacker News",
    "id": "community:https://github.com/AFK-surf/xnulinux:2026-11-23T11:19"
-  },
-  {
-   "ts": "2026-11-23T11:19:13+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] A miniature San Francisco with live buses, planes and boats",
-   "body": "Hacker News · 점수 280",
-   "link": "https://smallsf.com/",
-   "source": "Hacker News",
-   "id": "community:https://smallsf.com/:2026-11-23T11:19"
   }
  ]
 }
