@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-23T18:19:09+00:00",
+ "generated_at": "2026-11-23T18:49:09+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-23T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-49962 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-49962 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True DreameHome device sharing and MQTT broker before 2026-10-26 contained an incorrect author",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-49962",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-49962:2026-11-23T18:49"
+  },
+  {
+   "ts": "2026-11-23T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-49961 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-49961 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True DreameHome MQTT broker before 2026-10-26 contained an incorrect authorization vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-49961",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-49961:2026-11-23T18:49"
+  },
+  {
+   "ts": "2026-11-23T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-49960 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-49960 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True DreameHome cloud API before 2026-10-14 contained an insecure direct object reference vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-49960",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-49960:2026-11-23T18:49"
+  },
+  {
+   "ts": "2026-11-23T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135452 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-135452 📢 Source: hp 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False A potential security vulnerability has been identified in the HP Hotkey UWP Service, which mig",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135452",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135452:2026-11-23T18:49"
+  },
+  {
+   "ts": "2026-11-23T18:49:08+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-100374 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-100374 📢 Source: zephyr 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The system call verification handlers for smbus_block_read() and smbus_block_pcall() in dr",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100374",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100374:2026-11-23T18:49"
+  },
   {
    "ts": "2026-11-23T18:19:08+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-80466",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80466:2026-11-23T09:49"
-  },
-  {
-   "ts": "2026-11-23T09:49:08+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-121613 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-121613 📢 Source: CERTVDE 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Missing authentication and authorization on an exposed interface allows an unauthentic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121613",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121613:2026-11-23T09:49"
-  },
-  {
-   "ts": "2026-11-23T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93584 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-93584 📢 Source: OTRS 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An SQL injection vulnerability in OTRS versions 2024.3.1 through 2026.8.1 allows unauthenticat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93584",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93584:2026-11-23T08:49"
-  },
-  {
-   "ts": "2026-11-23T08:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-120382 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-120382 📢 Source: synology 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An improper neutralization of argument delimiters in a command vulnerability in the O",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120382",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120382:2026-11-23T08:19"
-  },
-  {
-   "ts": "2026-11-23T08:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134935 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-134935 📢 Source: mitre 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False The dell-xps-touchpad-haptics package before 1.0.0-4 for Omarchy allows local users to change",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134935",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134935:2026-11-23T08:19"
-  },
-  {
-   "ts": "2026-11-23T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] There is no European sovereignty in relation to US cloud ser",
-   "body": "Lemmy · technology · 점수 153",
-   "link": "https://www.techradar.com/pro/microsoft-admits-it-would-have-to-let-trump-spy-on-eu-data-if-demanded",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.techradar.com/pro/microsoft-admits-it-would-have-to-let-trump-spy-on-eu-data-if-demanded:2026-11-23T00:19"
   }
  ]
 }
