@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-24T07:49:07+00:00",
+ "generated_at": "2026-11-24T08:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120935 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-120935 📢 Source: ASUSTOR1 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True An argument injection vulnerability exists in the settings/vpn.cgi endpoint in the ADM. Whe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120935",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120935:2026-11-24T08:19"
+  },
+  {
+   "ts": "2026-11-24T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121018 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-121018 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The affected products insufficiently restrict runtime-supplied visualization commands, all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121018",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121018:2026-11-24T08:19"
+  },
+  {
+   "ts": "2026-11-24T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121017 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-121017 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The affected products insufficiently restrict runtime-supplied visualization data, allowin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121017",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121017:2026-11-24T08:19"
+  },
+  {
+   "ts": "2026-11-24T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121016 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-121016 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The affected products insufficiently restrict runtime-supplied visualization data, allowin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121016",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121016:2026-11-24T08:19"
+  },
+  {
+   "ts": "2026-11-24T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134897 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-134897 📢 Source: ASUSTOR1 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An OS command injection vulnerability in ADM allows an authenticated administrator to cre",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134897",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134897:2026-11-24T08:19"
+  },
+  {
+   "ts": "2026-11-24T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134896 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-134896 📢 Source: ASUSTOR1 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True An improper input validation vulnerability in the OpenVPN client configuration import fea",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134896",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134896:2026-11-24T08:19"
+  },
   {
    "ts": "2026-11-24T07:49:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101870",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101870:2026-11-23T22:49"
-  },
-  {
-   "ts": "2026-11-23T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101869 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-101869 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True EUSurvey 1.4.4.6738 through 1.6, prior to commit de1145c, contains an SQL injection vuln",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101869",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101869:2026-11-23T22:49"
-  },
-  {
-   "ts": "2026-11-23T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101868 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-101868 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True EUSurvey through 1.6, prior to commit 4bf95a3, contains an authorization bypass vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101868",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101868:2026-11-23T22:49"
-  },
-  {
-   "ts": "2026-11-23T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101867 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-101867 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True EUSurvey through 1.6, prior to commit edb5021, contains an incorrect authorization vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101867",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101867:2026-11-23T22:49"
-  },
-  {
-   "ts": "2026-11-23T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101866 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-101866 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True EUSurvey through 1.6, prior to commit 118facd, contains an authorization bypass vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101866",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101866:2026-11-23T22:49"
-  },
-  {
-   "ts": "2026-11-23T22:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-101864 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-101864 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True EUSurvey through 1.6, prior to commit a4161a9, contains a weak password recovery mec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101864",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101864:2026-11-23T22:49"
-  },
-  {
-   "ts": "2026-11-23T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101863 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-101863 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True EUSurvey 1.5.5 through 1.6, prior to commit d5295d5, contains a missing authorization vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101863",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101863:2026-11-23T22:49"
   }
  ]
 }
