@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-24T06:49:07+00:00",
+ "generated_at": "2026-11-24T07:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T07:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120951 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-120951 📢 Source: ASUSTOR1 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An externally-controlled format string vulnerability exists in the authenticated upload_w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120951",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120951:2026-11-24T07:19"
+  },
   {
    "ts": "2026-11-24T06:19:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82303",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82303:2026-11-23T21:19"
-  },
-  {
-   "ts": "2026-11-23T20:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95793 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-95793 📢 Source: hpe 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An arbitrary remote code execution vulnerability exists in HPE Morpheus Manager. 📅 Published Da",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95793",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95793:2026-11-23T20:19"
   }
  ]
 }
