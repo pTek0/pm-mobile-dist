@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-24T07:19:07+00:00",
+ "generated_at": "2026-11-24T07:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120948 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-120948 📢 Source: ASUSTOR1 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An OS command injection vulnerability in the PPPoE configuration of ADM allows an authent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120948",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120948:2026-11-24T07:49"
+  },
+  {
+   "ts": "2026-11-24T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120946 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-120946 📢 Source: ASUSTOR1 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An OS command injection vulnerability in ADM allows remote authenticated administrators t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120946",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120946:2026-11-24T07:49"
+  },
+  {
+   "ts": "2026-11-24T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120936 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-120936 📢 Source: ASUSTOR1 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An arbitrary file creation and truncation vulnerability exists in the File Explorer of AD",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120936",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120936:2026-11-24T07:49"
+  },
+  {
+   "ts": "2026-11-24T07:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120934 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-120934 📢 Source: ASUSTOR1 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True An External Control of File Name or Path (Argument Injection) vulnerability in the settings",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120934",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120934:2026-11-24T07:49"
+  },
   {
    "ts": "2026-11-24T07:19:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101863",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101863:2026-11-23T22:49"
-  },
-  {
-   "ts": "2026-11-23T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-101862 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-101862 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True EUSurvey through 1.6, prior to commit 0669a36, contains a path traversal vulnerability i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-101862",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-101862:2026-11-23T22:49"
-  },
-  {
-   "ts": "2026-11-23T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134069 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-134069 📢 Source: AMZN 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Use of a default cryptographic key in the instance registration component in Amazon SSM Agen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134069",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134069:2026-11-23T22:19"
-  },
-  {
-   "ts": "2026-11-23T21:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129837 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-129837 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in rsyslog. A remote, unauthenticated attacker can cause a Denial of Servi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129837",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129837:2026-11-23T21:49"
-  },
-  {
-   "ts": "2026-11-23T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82303 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-82303 📢 Source: elastic 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False A buffer over-read vulnerability in Elasticsearch transport decompression can expose data ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82303",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82303:2026-11-23T21:19"
   }
  ]
 }
