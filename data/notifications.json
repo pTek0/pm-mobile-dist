@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-24T15:49:07+00:00",
+ "generated_at": "2026-11-24T16:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132157 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-132157 📢 Source: OS-S 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The OSI Presentation Protocol analyzer in DINA-community's icsnpp-pres 1.0.0 plugin for Zeek ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132157",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132157:2026-11-24T16:19"
+  },
+  {
+   "ts": "2026-11-24T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133002 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-133002 📢 Source: OS-S 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The DINA-community icsnpp-mms 1.0.0 plugin for Zeek does not release partially decoded Manufa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133002",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133002:2026-11-24T16:19"
+  },
+  {
+   "ts": "2026-11-24T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132887 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-132887 📢 Source: OS-S 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The DINA-community icsnpp-acse 1.0.0 plugin for Zeek does not release partially decoded ACSE ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132887",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132887:2026-11-24T16:19"
+  },
   {
    "ts": "2026-11-24T15:19:06+00:00",
    "level": "important",
@@ -471,36 +501,6 @@
    "link": "https://feddit.org/pictrs/image/edd05265-7852-4a00-9a52-8910e58f78c6.png",
    "source": "Lemmy · programming.dev",
    "id": "community:https://feddit.org/pictrs/image/edd05265-7852-4a00-9a52-8910e58f78c6.png:2026-11-24T11:19"
-  },
-  {
-   "ts": "2026-11-24T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] New York Bans Subscription and Post-Purchase Fees on Cars",
-   "body": "Hacker News · 점수 377",
-   "link": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-   "source": "Hacker News",
-   "id": "community:https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription:2026-11-24T11:19"
-  },
-  {
-   "ts": "2026-11-24T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nespresso's project to reduce grams of coffee per capsule",
-   "body": "Hacker News · 점수 315",
-   "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
-   "source": "Hacker News",
-   "id": "community:https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/:2026-11-24T11:19"
-  },
-  {
-   "ts": "2026-11-24T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GPUI is getting its own repository",
-   "body": "Hacker News · 점수 265",
-   "link": "https://github.com/zed-industries/gpui",
-   "source": "Hacker News",
-   "id": "community:https://github.com/zed-industries/gpui:2026-11-24T11:19"
   }
  ]
 }
