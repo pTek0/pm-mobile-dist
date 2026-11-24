@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-24T14:49:07+00:00",
+ "generated_at": "2026-11-24T15:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T15:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-124286 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-124286 📢 Source: EEF 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Improper Verification of Cryptographic Signature vulnerability in Erlang OTP ssl (ssl_hand",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124286",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124286:2026-11-24T15:19"
+  },
+  {
+   "ts": "2026-11-24T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116293 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-116293 📢 Source: EEF 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False Out-of-bounds Write vulnerability in the external term format decoder in Erlang OTP erts allows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116293",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116293:2026-11-24T15:19"
+  },
+  {
+   "ts": "2026-11-24T15:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-116225 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-116225 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Improper Validation of Specified Quantity in Input vulnerability in the BER decoder in Erlang/",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-116225",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-116225:2026-11-24T15:19"
+  },
+  {
+   "ts": "2026-11-24T15:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130411 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-130411 📢 Source: EEF 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in woylie flop allows a remote attacker to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130411",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130411:2026-11-24T15:19"
+  },
   {
    "ts": "2026-11-24T14:49:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://github.com/zed-industries/gpui",
    "source": "Hacker News",
    "id": "community:https://github.com/zed-industries/gpui:2026-11-24T11:19"
-  },
-  {
-   "ts": "2026-11-24T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-127182 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-127182 📢 Source: suse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A stack buffer overflow in DLP/WAF in the enforcer dataplane of SUSE NeuVector before 5.5, 5.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127182",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127182:2026-11-24T10:49"
-  },
-  {
-   "ts": "2026-11-24T09:49:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134894 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-134894 📢 Source: ASUSTOR1 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True An SQL injection vulnerability exists in the firewall management component of ADM Defender ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134894",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134894:2026-11-24T09:49"
-  },
-  {
-   "ts": "2026-11-24T09:49:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120949 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-120949 📢 Source: ASUSTOR1 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True An improper authorization vulnerability exists in the wallpaper component of ADM. An auth",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120949",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120949:2026-11-24T09:49"
-  },
-  {
-   "ts": "2026-11-24T09:49:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124828 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-124828 📢 Source: INCIBE 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Authorization bypass using a user-controlled token (IDOR) on the GlobalEduca job portal. Th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124828",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124828:2026-11-24T09:49"
   }
  ]
 }
