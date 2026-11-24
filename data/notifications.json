@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-11-24T16:19:07+00:00",
+ "generated_at": "2026-11-24T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82322 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-82322 📢 Source: SolarWinds 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SolarWinds Serv-U is affected by an Insecure Direct Object Reference (IDOR) vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82322",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82322:2026-11-24T16:49"
+  },
+  {
+   "ts": "2026-11-24T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82321 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-82321 📢 Source: SolarWinds 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SolarWinds Serv-U was found to be affected by a type confusion vulnerability that ma",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82321",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82321:2026-11-24T16:49"
+  },
+  {
+   "ts": "2026-11-24T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82320 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-82320 📢 Source: SolarWinds 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SolarWinds Serv-U was found to be affected by another type confusion vulnerability t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82320",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82320:2026-11-24T16:49"
+  },
+  {
+   "ts": "2026-11-24T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82319 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-82319 📢 Source: SolarWinds 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SolarWinds Serv-U is affected by a time-of-check to time-of-use (TOCTOU) vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82319",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82319:2026-11-24T16:49"
+  },
+  {
+   "ts": "2026-11-24T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-129833 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-129833 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in rsyslog. A remote, unauthenticated attacker can trigger a stack-based b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129833",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129833:2026-11-24T16:49"
+  },
+  {
+   "ts": "2026-11-24T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-123168 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-123168 📢 Source: SolarWinds 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SolarWinds Serv-U is affected by an insufficient validation vulnerability that, whe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123168",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123168:2026-11-24T16:49"
+  },
+  {
+   "ts": "2026-11-24T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-123167 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-123167 📢 Source: SolarWinds 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SolarWinds Serv-U is affected by a privilege escalation vulnerability that, when ex",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123167",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123167:2026-11-24T16:49"
+  },
+  {
+   "ts": "2026-11-24T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123166 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-123166 📢 Source: SolarWinds 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True SolarWinds Serv-U fails to properly sanitize user-controlled arguments, which could all",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123166",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123166:2026-11-24T16:49"
+  },
+  {
+   "ts": "2026-11-24T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82316 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-82316 📢 Source: SolarWinds 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SolarWinds Serv-U is affected by a Time-of-Check to Time-of-Use (TOCTOU) vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82316",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82316:2026-11-24T16:49"
+  },
+  {
+   "ts": "2026-11-24T16:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-82315 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-82315 📢 Source: SolarWinds 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SolarWinds Serv-U is affected by another Time-of-Check to Time-of-Use (TOCTOU) vulne",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82315",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82315:2026-11-24T16:49"
+  },
+  {
+   "ts": "2026-11-24T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82313 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-82313 📢 Source: SolarWinds 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True SolarWinds Serv-U is affected by a business logic vulnerability that may allow access to",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82313",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82313:2026-11-24T16:49"
+  },
   {
    "ts": "2026-11-24T16:19:06+00:00",
    "level": "general",
@@ -391,116 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119582",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119582:2026-11-24T11:49"
-  },
-  {
-   "ts": "2026-11-24T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119543 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-119543 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Authorization bypass through User-Controlled key vulnerability in ITG Bilgisayar Teknoloji",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119543",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119543:2026-11-24T11:49"
-  },
-  {
-   "ts": "2026-11-24T11:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-117593 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-117593 📢 Source: TR-CERT 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Weak Password Recovery Mechanism for Forgotten Password vulnerability in ITG Bilgisaya",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117593",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117593:2026-11-24T11:49"
-  },
-  {
-   "ts": "2026-11-24T11:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-103333 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-103333 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Improper input validation in some SPARQL functions available in Apache Jena ARQ allows user",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103333",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103333:2026-11-24T11:49"
-  },
-  {
-   "ts": "2026-11-24T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Jensen Huang admitted to having more affairs to the board be",
-   "body": "Lemmy · technology · 점수 198",
-   "link": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961:2026-11-24T11:49"
-  },
-  {
-   "ts": "2026-11-24T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Grand Theft Auto 6 is really about the death of the American",
-   "body": "Lemmy · technology · 점수 122",
-   "link": "https://www.engadget.com/2325713/grand-theft-auto/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.engadget.com/2325713/grand-theft-auto/:2026-11-24T11:49"
-  },
-  {
-   "ts": "2026-11-24T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Protests in Chicago After Google Warns Schools About Disabli",
-   "body": "Lemmy · technology · 점수 104",
-   "link": "https://goodmenproject.com/featured-content/protests-in-chicago-after-google-warns-schools-about-disabling-ai-feature/",
-   "source": "Lemmy · technology",
-   "id": "community:https://goodmenproject.com/featured-content/protests-in-chicago-after-google-warns-schools-about-disabling-ai-feature/:2026-11-24T11:49"
-  },
-  {
-   "ts": "2026-11-24T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Amazon drone crashes into garage after delivering shampoo",
-   "body": "Lemmy · technology · 점수 89",
-   "link": "https://lite.cnn.com/2026/11/23/us/amazon-drone-crashes",
-   "source": "Lemmy · technology",
-   "id": "community:https://lite.cnn.com/2026/11/23/us/amazon-drone-crashes:2026-11-24T11:49"
-  },
-  {
-   "ts": "2026-11-24T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Cameras Built to Catch Criminals Are Helping ICE Hunt Immigr",
-   "body": "Lemmy · technology · 점수 85",
-   "link": "https://www.washingtoninformer.com/ice-license-plate-surveillance-shootings/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.washingtoninformer.com/ice-license-plate-surveillance-shootings/:2026-11-24T11:49"
-  },
-  {
-   "ts": "2026-11-24T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-127183 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-127183 📢 Source: suse 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Various memory-safety issues in dataplane of SUSE Neuvector before 5.5, 5.5.0 before 5.5.6, 5",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127183",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127183:2026-11-24T11:19"
-  },
-  {
-   "ts": "2026-11-24T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Stalwart is now a drop-in replacement for Microsoft Exchange",
-   "body": "Hacker News · 점수 484",
-   "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
-   "source": "Hacker News",
-   "id": "community:https://stalw.art/blog/microsoft-exchange-replacement/:2026-11-24T11:19"
-  },
-  {
-   "ts": "2026-11-24T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] new kerning just dropped",
-   "body": "Lemmy · programming.dev · 점수 461",
-   "link": "https://feddit.org/pictrs/image/edd05265-7852-4a00-9a52-8910e58f78c6.png",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://feddit.org/pictrs/image/edd05265-7852-4a00-9a52-8910e58f78c6.png:2026-11-24T11:19"
   }
  ]
 }
