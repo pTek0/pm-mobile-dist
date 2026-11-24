@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-24T12:19:17+00:00",
+ "generated_at": "2026-11-24T12:49:15+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T12:49:12+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-14569 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-14569 📢 Source: Hitachi Energy 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Use of externally-controlled format string vulnerability exists in RTU500 component ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-14569",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-14569:2026-11-24T12:49"
+  },
   {
    "ts": "2026-11-24T12:19:13+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-128797",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128797:2026-11-24T06:19"
-  },
-  {
-   "ts": "2026-11-24T06:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-128796 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-128796 📢 Source: Acer 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False System service 'antaiuiserver' exposes transaction 14 (sendMyATCmd) & 4, allowing ANY app on",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128796",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128796:2026-11-24T06:19"
   }
  ]
 }
