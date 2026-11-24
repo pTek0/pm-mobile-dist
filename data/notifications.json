@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-24T08:49:08+00:00",
+ "generated_at": "2026-11-24T09:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120933 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-120933 📢 Source: ASUSTOR1 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True A cleartext transmission of sensitive information vulnerability in the ADM Notifications al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120933",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120933:2026-11-24T09:19"
+  },
+  {
+   "ts": "2026-11-24T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120943 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-120943 📢 Source: ASUSTOR1 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False An improper TLS certificate validation vulnerability exists in the ADM online update ser",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120943",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120943:2026-11-24T09:19"
+  },
+  {
+   "ts": "2026-11-24T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120941 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-120941 📢 Source: ASUSTOR1 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True An improper certificate validation vulnerability exists in ADM App Central, due to disabl",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120941",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120941:2026-11-24T09:19"
+  },
+  {
+   "ts": "2026-11-24T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133781 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-133781 📢 Source: Symfony 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False The controllers.json loader of @symfony /stimulus-bridge loads the package.json file of e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133781",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133781:2026-11-24T09:19"
+  },
+  {
+   "ts": "2026-11-24T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133780 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-133780 📢 Source: Symfony 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False The @symfony /stimulus-bridge npm package includes a Webpack loader called lazy-controlle",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133780",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133780:2026-11-24T09:19"
+  },
   {
    "ts": "2026-11-24T08:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://variety.com/2026/digital/news/trump-ai-meme-jensen-huang-bra-nvidia-reinstates-ceo-1236956004/",
    "source": "Lemmy · technology",
    "id": "community:https://variety.com/2026/digital/news/trump-ai-meme-jensen-huang-bra-nvidia-reinstates-ceo-1236956004/:2026-11-23T23:49"
-  },
-  {
-   "ts": "2026-11-23T23:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-122090 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-122090 📢 Source: Fluid Attacks 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Pelican 4.12.0 contains an OS command injection vulnerability in pelican-import. An",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-122090",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-122090:2026-11-23T23:19"
-  },
-  {
-   "ts": "2026-11-23T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia Reinstates Jensen Huang as CEO",
-   "body": "Hacker News · 점수 1819",
-   "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-   "source": "Hacker News",
-   "id": "community:https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html:2026-11-23T23:19"
-  },
-  {
-   "ts": "2026-11-23T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GLM-5.4: Toward generalized coding with our first loop trans",
-   "body": "Hacker News · 점수 1000",
-   "link": "https://z.ai/blog/glm-5.4",
-   "source": "Hacker News",
-   "id": "community:https://z.ai/blog/glm-5.4:2026-11-23T23:19"
-  },
-  {
-   "ts": "2026-11-23T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Dario is hyping the dangers so OSS models are illegal and he",
-   "body": "Hacker News · 점수 858",
-   "link": "https://twitter.com/ylecun/status/2124550037912920090",
-   "source": "Hacker News",
-   "id": "community:https://twitter.com/ylecun/status/2124550037912920090:2026-11-23T23:19"
-  },
-  {
-   "ts": "2026-11-23T23:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia reinstates Jensen Huang as CEO",
-   "body": "Lemmy · technology · 점수 773",
-   "link": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864:2026-11-23T23:19"
   }
  ]
 }
