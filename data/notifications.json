@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-24T09:19:07+00:00",
+ "generated_at": "2026-11-24T09:49:12+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T09:49:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134894 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-134894 📢 Source: ASUSTOR1 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True An SQL injection vulnerability exists in the firewall management component of ADM Defender ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134894",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134894:2026-11-24T09:49"
+  },
+  {
+   "ts": "2026-11-24T09:49:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-120949 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-120949 📢 Source: ASUSTOR1 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True An improper authorization vulnerability exists in the wallpaper component of ADM. An auth",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120949",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120949:2026-11-24T09:49"
+  },
+  {
+   "ts": "2026-11-24T09:49:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-124828 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-124828 📢 Source: INCIBE 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Authorization bypass using a user-controlled token (IDOR) on the GlobalEduca job portal. Th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124828",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124828:2026-11-24T09:49"
+  },
+  {
+   "ts": "2026-11-24T09:49:11+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-19881 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-19881 📢 Source: NCSC.ch 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Cross-site scripting in the conversation file-sharing feature of Unblu inc. Unblu Spark 7.0",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19881",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19881:2026-11-24T09:49"
+  },
   {
    "ts": "2026-11-24T09:19:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
    "source": "Hacker News",
    "id": "community:https://github.com/glushchenko/fsnotes/discussions/2056:2026-11-23T23:49"
-  },
-  {
-   "ts": "2026-11-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Kagi Mail (public beta)",
-   "body": "Hacker News · 점수 300",
-   "link": "https://blog.kagi.com/kagi-mail-public-beta",
-   "source": "Hacker News",
-   "id": "community:https://blog.kagi.com/kagi-mail-public-beta:2026-11-23T23:49"
-  },
-  {
-   "ts": "2026-11-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Spacecraft reaches Mercury on second-ever mission to enter i",
-   "body": "Hacker News · 점수 263",
-   "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
-   "source": "Hacker News",
-   "id": "community:https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo:2026-11-23T23:49"
-  },
-  {
-   "ts": "2026-11-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Trump tells CNBC ‘I convinced’ Nvidia board to reinstate Jen",
-   "body": "Lemmy · technology · 점수 187",
-   "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html:2026-11-23T23:49"
-  },
-  {
-   "ts": "2026-11-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Trump Posts Bizarre AI Meme of Jensen Huang Holding Up a Bra",
-   "body": "Lemmy · technology · 점수 150",
-   "link": "https://variety.com/2026/digital/news/trump-ai-meme-jensen-huang-bra-nvidia-reinstates-ceo-1236956004/",
-   "source": "Lemmy · technology",
-   "id": "community:https://variety.com/2026/digital/news/trump-ai-meme-jensen-huang-bra-nvidia-reinstates-ceo-1236956004/:2026-11-23T23:49"
   }
  ]
 }
