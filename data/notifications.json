@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-24T20:19:07+00:00",
+ "generated_at": "2026-11-24T20:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T20:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-136522 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-136522 📢 Source: VulnCheck 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True CubeWP Forms before 1.1.13 contains an unauthenticated stored cross-site scripting v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136522",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136522:2026-11-24T20:49"
+  },
   {
    "ts": "2026-11-24T20:19:06+00:00",
    "level": "important",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-136184",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136184:2026-11-24T17:19"
-  },
-  {
-   "ts": "2026-11-24T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136183 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-136183 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Mercur @mercurjs /core before 2.3.2 contains a missing object-level authorization vulner",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136183",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136183:2026-11-24T17:19"
   }
  ]
 }
