@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-24T21:19:07+00:00",
+ "generated_at": "2026-11-24T21:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T21:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-16663 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-16663 📢 Source: zephyr 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False MCUboot's encrypted serial-recovery path contains an attacker-controlled out-of-bounds stac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-16663",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16663:2026-11-24T21:49"
+  },
+  {
+   "ts": "2026-11-24T21:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-124284 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-124284 📢 Source: Genetec 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: False A critical security vulnerability affects certain authentication methods in Genetec S",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124284",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124284:2026-11-24T21:49"
+  },
   {
    "ts": "2026-11-24T21:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-136190",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136190:2026-11-24T17:19"
-  },
-  {
-   "ts": "2026-11-24T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136189 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-136189 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Schmitech ORBIT before 2.17.15 contains an improper authorization vulnerability in the p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136189",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136189:2026-11-24T17:19"
-  },
-  {
-   "ts": "2026-11-24T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136188 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-136188 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Spug before 4.1.1 contains an information disclosure vulnerability that allows authentic",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136188",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136188:2026-11-24T17:19"
   }
  ]
 }
