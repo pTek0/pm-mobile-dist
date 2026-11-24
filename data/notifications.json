@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-24T11:49:07+00:00",
+ "generated_at": "2026-11-24T12:19:17+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T12:19:13+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-13137 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-13137 📢 Source: Hitachi Energy 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A stack-based buffer overflow vulnerability exists in multiple parsers of RTU500 com",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-13137",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-13137:2026-11-24T12:19"
+  },
+  {
+   "ts": "2026-11-24T12:19:13+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-125735 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-125735 📢 Source: INCIBE 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False SQL injection in the CabinPaq manual code entry module, versions v.1.2.94 and v.1.2.136. T",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125735",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125735:2026-11-24T12:19"
+  },
+  {
+   "ts": "2026-11-24T12:19:13+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-10765 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-10765 📢 Source: Hitachi Energy 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True RTU500 contains a denial-of-service vulnerability in its IEC 61850 MMS server implem",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-10765",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-10765:2026-11-24T12:19"
+  },
+  {
+   "ts": "2026-11-24T12:19:13+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59698 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-59698 📢 Source: EEF 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False Relative path traversal in ex_aws allows an attacker who controls an S3 object key to escape t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59698",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59698:2026-11-24T12:19"
+  },
+  {
+   "ts": "2026-11-24T12:19:13+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-59697 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-59697 📢 Source: EEF 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: False Server-Side Request Forgery (SSRF) vulnerability in ex_aws (instance metadata token provider).",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59697",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59697:2026-11-24T12:19"
+  },
+  {
+   "ts": "2026-11-24T12:19:16+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Stop force-feeding AI to your developers",
+   "body": "Lemmy · programming.dev · 점수 76",
+   "link": "https://stevefenton.co.uk/blog/2026/11/stop-force-feeding-ai/",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://stevefenton.co.uk/blog/2026/11/stop-force-feeding-ai/:2026-11-24T12:19"
+  },
+  {
+   "ts": "2026-11-24T12:19:16+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Surveillance pricing uses our personal data to make us pay m",
+   "body": "Lemmy · programming.dev · 점수 51",
+   "link": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/:2026-11-24T12:19"
+  },
   {
    "ts": "2026-11-24T11:49:06+00:00",
    "level": "important",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-128796",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128796:2026-11-24T06:19"
-  },
-  {
-   "ts": "2026-11-24T05:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105304 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-105304 📢 Source: jpcert 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: False ACME challenge routing logic of Zoraxy fails to validate request URIs properly, that allow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105304",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105304:2026-11-24T05:49"
-  },
-  {
-   "ts": "2026-11-24T04:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-128791 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-128791 📢 Source: Acer 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Any WiFi client can send HTTP DELETE to /meeting-recording/delete to permanently delete fi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128791",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128791:2026-11-24T04:19"
-  },
-  {
-   "ts": "2026-11-24T03:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135709 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-135709 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False FFmpeg before 9.1 contains an out-of-bounds write vulnerability in ogg_buffer_data() in",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135709",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135709:2026-11-24T03:49"
-  },
-  {
-   "ts": "2026-11-24T03:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135706 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-135706 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False FFmpeg before 9.1 contains a heap buffer overflow vulnerability in modplug_read_header(",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135706",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135706:2026-11-24T03:49"
-  },
-  {
-   "ts": "2026-11-24T02:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124283 (CVSS 8.9)",
-   "body": "🚨 CVE-2026-124283 📢 Source: EEF 💣 CVSS Score: 8.9 (HIGH) 📡 Remotely Exploitable: False Deserialization of Untrusted Data vulnerability in ash-project ash allows an unauthenticated ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124283",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124283:2026-11-24T02:49"
-  },
-  {
-   "ts": "2026-11-24T02:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-93457 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-93457 📢 Source: ASUS 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False Out-of-bounds write vulnerability in certain ASUS routers allows an unauthenticated nearby us",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93457",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93457:2026-11-24T02:19"
-  },
-  {
-   "ts": "2026-11-24T02:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114203 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-114203 📢 Source: ASUS 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An Improper Neutralization of Special Elements used in an OS Command（'OS Command Injectio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114203",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114203:2026-11-24T02:19"
   }
  ]
 }
