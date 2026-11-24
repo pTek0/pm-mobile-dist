@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-24T12:49:15+00:00",
+ "generated_at": "2026-11-24T13:19:14+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T13:19:10+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136128 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-136128 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True WPC Linked Variation plugin for WordPress, all versions before 4.6.1, contain a stored c",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136128",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136128:2026-11-24T13:19"
+  },
+  {
+   "ts": "2026-11-24T13:19:10+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-136126 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-136126 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True c-icap-server through 0.5.15 and 0.6.5 contains an out-of-bounds write in process_en",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136126",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136126:2026-11-24T13:19"
+  },
+  {
+   "ts": "2026-11-24T13:19:10+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136123 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-136123 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Friendica through 2026.05-1 contains an improper validation vulnerability in APContact::",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136123",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136123:2026-11-24T13:19"
+  },
+  {
+   "ts": "2026-11-24T13:19:10+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136120 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-136120 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Ziit 1.3.2 contains a cross-site request forgery vulnerability in the /api/auth/epilogue",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136120",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136120:2026-11-24T13:19"
+  },
+  {
+   "ts": "2026-11-24T13:19:10+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-82216 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-82216 📢 Source: TR-CERT 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Server-Side request forgery (SSRF) vulnerability in ITG Bilgisayar Teknolojileri Grubu Ltd.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82216",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82216:2026-11-24T13:19"
+  },
   {
    "ts": "2026-11-24T12:49:12+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120946",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120946:2026-11-24T07:49"
-  },
-  {
-   "ts": "2026-11-24T07:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120936 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-120936 📢 Source: ASUSTOR1 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An arbitrary file creation and truncation vulnerability exists in the File Explorer of AD",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120936",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120936:2026-11-24T07:49"
-  },
-  {
-   "ts": "2026-11-24T07:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120934 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-120934 📢 Source: ASUSTOR1 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True An External Control of File Name or Path (Argument Injection) vulnerability in the settings",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120934",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120934:2026-11-24T07:49"
-  },
-  {
-   "ts": "2026-11-24T07:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120951 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-120951 📢 Source: ASUSTOR1 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An externally-controlled format string vulnerability exists in the authenticated upload_w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120951",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120951:2026-11-24T07:19"
-  },
-  {
-   "ts": "2026-11-24T06:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-128798 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-128798 📢 Source: Acer 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Any connected WiFi client can fetch device info and meeting recording metadata without cre",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128798",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128798:2026-11-24T06:19"
-  },
-  {
-   "ts": "2026-11-24T06:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-128797 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-128797 📢 Source: Acer 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Web administration panel (port 8080) binds to all network interfaces including public IPv6",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128797",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128797:2026-11-24T06:19"
   }
  ]
 }
