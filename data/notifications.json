@@ -1,7 +1,137 @@
 {
- "generated_at": "2026-11-24T14:19:07+00:00",
+ "generated_at": "2026-11-24T14:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136172 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-136172 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Assimp through 6.0.6 contains a heap out-of-bounds write vulnerability in the OBJ expor",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136172",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136172:2026-11-24T14:49"
+  },
+  {
+   "ts": "2026-11-24T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136170 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-136170 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Assimp through 6.0.6 contains a use-after-free and double free vulnerability in OpenGEX",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136170",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136170:2026-11-24T14:49"
+  },
+  {
+   "ts": "2026-11-24T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136168 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-136168 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True RedVector before 8.1.0 contains a hard-coded credentials vulnerability that allows unaut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136168",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136168:2026-11-24T14:49"
+  },
+  {
+   "ts": "2026-11-24T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136167 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-136167 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False vedo through 2026.6.3 contains an insecure deserialization vulnerability that allows at",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136167",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136167:2026-11-24T14:49"
+  },
+  {
+   "ts": "2026-11-24T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-136165 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-136165 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Fider before 0.40.0 contains an account takeover vulnerability that allows unauthent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136165",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136165:2026-11-24T14:49"
+  },
+  {
+   "ts": "2026-11-24T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136159 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-136159 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True TypiCMS Core before 17.0.46 contains an insufficiently protected credentials vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136159",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136159:2026-11-24T14:49"
+  },
+  {
+   "ts": "2026-11-24T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-75582 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-75582 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Frappe LMS before 2.65.0 contains an improper authorization vulnerability that allows Bat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-75582",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-75582:2026-11-24T14:49"
+  },
+  {
+   "ts": "2026-11-24T14:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-65320 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-65320 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True fastcore through 2.2.44 contains a path traversal vulnerability in the fastcore.xtras",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-65320",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-65320:2026-11-24T14:49"
+  },
+  {
+   "ts": "2026-11-24T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-63583 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-63583 📢 Source: EEF 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False ExAws.S3.Utils.build_lifecycle_rule/1 in ex_aws_s3 interpolates caller-supplied lifecycle rule f",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-63583",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-63583:2026-11-24T14:49"
+  },
+  {
+   "ts": "2026-11-24T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136160 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-136160 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Pyro through 1.9.2 contains an insecure deserialization vulnerability in ParamStoreDict",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136160",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136160:2026-11-24T14:49"
+  },
+  {
+   "ts": "2026-11-24T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136158 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-136158 📢 Source: Akrites 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Valkey JSON 1.0.0 through 1.0.2, a recursive JSONPath expression such as $..* returns b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136158",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136158:2026-11-24T14:49"
+  },
+  {
+   "ts": "2026-11-24T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136157 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-136157 📢 Source: Akrites 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True In Valkey 8.0.x before 8.0.11, 8.1.x before 8.1.10, 9.0.x before 9.0.6 and 9.1.x before 9.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136157",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136157:2026-11-24T14:49"
+  },
+  {
+   "ts": "2026-11-24T14:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136156 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-136156 📢 Source: Akrites 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True In Valkey before 7.2.15, 8.0.x before 8.0.12, 8.1.x before 8.1.11, 9.0.x before 9.0.7, 9.1",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136156",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136156:2026-11-24T14:49"
+  },
   {
    "ts": "2026-11-24T14:19:06+00:00",
    "level": "general",
@@ -371,136 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124828",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124828:2026-11-24T09:49"
-  },
-  {
-   "ts": "2026-11-24T09:49:11+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-19881 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-19881 📢 Source: NCSC.ch 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Cross-site scripting in the conversation file-sharing feature of Unblu inc. Unblu Spark 7.0",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-19881",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-19881:2026-11-24T09:49"
-  },
-  {
-   "ts": "2026-11-24T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120933 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-120933 📢 Source: ASUSTOR1 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True A cleartext transmission of sensitive information vulnerability in the ADM Notifications al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120933",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120933:2026-11-24T09:19"
-  },
-  {
-   "ts": "2026-11-24T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120943 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-120943 📢 Source: ASUSTOR1 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False An improper TLS certificate validation vulnerability exists in the ADM online update ser",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120943",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120943:2026-11-24T09:19"
-  },
-  {
-   "ts": "2026-11-24T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120941 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-120941 📢 Source: ASUSTOR1 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True An improper certificate validation vulnerability exists in ADM App Central, due to disabl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120941",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120941:2026-11-24T09:19"
-  },
-  {
-   "ts": "2026-11-24T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133781 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-133781 📢 Source: Symfony 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False The controllers.json loader of @symfony /stimulus-bridge loads the package.json file of e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133781",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133781:2026-11-24T09:19"
-  },
-  {
-   "ts": "2026-11-24T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133780 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-133780 📢 Source: Symfony 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False The @symfony /stimulus-bridge npm package includes a Webpack loader called lazy-controlle",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133780",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133780:2026-11-24T09:19"
-  },
-  {
-   "ts": "2026-11-24T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120945 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-120945 📢 Source: ASUSTOR1 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True A relative path traversal vulnerability in the FTP Backup of ADM, allows an attacker cont",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120945",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120945:2026-11-24T08:49"
-  },
-  {
-   "ts": "2026-11-24T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134898 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-134898 📢 Source: ASUSTOR1 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True A path traversal vulnerability in the File Explorer share-link folder-listing endpoint al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134898",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134898:2026-11-24T08:49"
-  },
-  {
-   "ts": "2026-11-24T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134895 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-134895 📢 Source: ASUSTOR1 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True A path traversal vulnerability in the File Explorer share-link upload component allows a ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134895",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134895:2026-11-24T08:49"
-  },
-  {
-   "ts": "2026-11-24T08:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120944 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-120944 📢 Source: ASUSTOR1 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A stack-based buffer overflow vulnerability in the ADM allows remote authenticated admini",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120944",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120944:2026-11-24T08:49"
-  },
-  {
-   "ts": "2026-11-24T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-120935 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-120935 📢 Source: ASUSTOR1 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True An argument injection vulnerability exists in the settings/vpn.cgi endpoint in the ADM. Whe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-120935",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-120935:2026-11-24T08:19"
-  },
-  {
-   "ts": "2026-11-24T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121018 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-121018 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The affected products insufficiently restrict runtime-supplied visualization commands, all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121018",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121018:2026-11-24T08:19"
-  },
-  {
-   "ts": "2026-11-24T08:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121017 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-121017 📢 Source: CERTVDE 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True The affected products insufficiently restrict runtime-supplied visualization data, allowin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121017",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121017:2026-11-24T08:19"
   }
  ]
 }
