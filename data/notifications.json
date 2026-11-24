@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-11-24T11:19:07+00:00",
+ "generated_at": "2026-11-24T11:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T11:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-119582 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-119582 📢 Source: TR-CERT 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper neutralization of special elements used in an SQL command ('SQL injection') v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119582",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119582:2026-11-24T11:49"
+  },
+  {
+   "ts": "2026-11-24T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119543 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-119543 📢 Source: TR-CERT 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Authorization bypass through User-Controlled key vulnerability in ITG Bilgisayar Teknoloji",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119543",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119543:2026-11-24T11:49"
+  },
+  {
+   "ts": "2026-11-24T11:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-117593 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-117593 📢 Source: TR-CERT 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Weak Password Recovery Mechanism for Forgotten Password vulnerability in ITG Bilgisaya",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-117593",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-117593:2026-11-24T11:49"
+  },
+  {
+   "ts": "2026-11-24T11:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-103333 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-103333 📢 Source: apache 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Improper input validation in some SPARQL functions available in Apache Jena ARQ allows user",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-103333",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-103333:2026-11-24T11:49"
+  },
+  {
+   "ts": "2026-11-24T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Jensen Huang admitted to having more affairs to the board be",
+   "body": "Lemmy · technology · 점수 198",
+   "link": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961:2026-11-24T11:49"
+  },
+  {
+   "ts": "2026-11-24T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Grand Theft Auto 6 is really about the death of the American",
+   "body": "Lemmy · technology · 점수 122",
+   "link": "https://www.engadget.com/2325713/grand-theft-auto/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.engadget.com/2325713/grand-theft-auto/:2026-11-24T11:49"
+  },
+  {
+   "ts": "2026-11-24T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Protests in Chicago After Google Warns Schools About Disabli",
+   "body": "Lemmy · technology · 점수 104",
+   "link": "https://goodmenproject.com/featured-content/protests-in-chicago-after-google-warns-schools-about-disabling-ai-feature/",
+   "source": "Lemmy · technology",
+   "id": "community:https://goodmenproject.com/featured-content/protests-in-chicago-after-google-warns-schools-about-disabling-ai-feature/:2026-11-24T11:49"
+  },
+  {
+   "ts": "2026-11-24T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Amazon drone crashes into garage after delivering shampoo",
+   "body": "Lemmy · technology · 점수 89",
+   "link": "https://lite.cnn.com/2026/11/23/us/amazon-drone-crashes",
+   "source": "Lemmy · technology",
+   "id": "community:https://lite.cnn.com/2026/11/23/us/amazon-drone-crashes:2026-11-24T11:49"
+  },
+  {
+   "ts": "2026-11-24T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Cameras Built to Catch Criminals Are Helping ICE Hunt Immigr",
+   "body": "Lemmy · technology · 점수 85",
+   "link": "https://www.washingtoninformer.com/ice-license-plate-surveillance-shootings/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.washingtoninformer.com/ice-license-plate-surveillance-shootings/:2026-11-24T11:49"
+  },
   {
    "ts": "2026-11-24T11:19:06+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-114203",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114203:2026-11-24T02:19"
-  },
-  {
-   "ts": "2026-11-24T01:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-18530 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-18530 📢 Source: Pentraze 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True OS command injection in the a3cli restricted shell in Lantronix S2220 Series 2 allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-18530",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-18530:2026-11-24T01:49"
-  },
-  {
-   "ts": "2026-11-24T00:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135696 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-135696 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True rConfig Core 8.2.19 before 8.2.22 contains a server-side request forgery vulnerability t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135696",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135696:2026-11-24T00:49"
-  },
-  {
-   "ts": "2026-11-24T00:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135695 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-135695 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True rConfig Core 8.0.0 before 8.2.13 and rConfig Pro before 8.4.0 contain an authorization b",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135695",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135695:2026-11-24T00:49"
-  },
-  {
-   "ts": "2026-11-24T00:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135694 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-135694 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True rConfig Core 8.1.0 before 8.2.20 and rConfig Pro before 8.4.0 contain a missing authoriz",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135694",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135694:2026-11-24T00:49"
-  },
-  {
-   "ts": "2026-11-24T00:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-135693 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-135693 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True rConfig Core 8.0.0 before 8.2.17 and rConfig Pro before 8.4.0 contain a stored cross",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135693",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135693:2026-11-24T00:49"
-  },
-  {
-   "ts": "2026-11-24T00:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135692 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-135692 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True rConfig Core 8.0.0 before 8.2.17 and rConfig Pro before 8.4.0 contain a PHP object injec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135692",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135692:2026-11-24T00:49"
-  },
-  {
-   "ts": "2026-11-24T00:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135689 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-135689 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Community Store for Concrete CMS before 2.8.0 contains a stored cross-site scripting vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135689",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135689:2026-11-24T00:49"
-  },
-  {
-   "ts": "2026-11-24T00:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-135686 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-135686 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Trilium through 0.107.0 contains an sql injection vulnerability in updateNormalEntit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135686",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135686:2026-11-24T00:49"
-  },
-  {
-   "ts": "2026-11-24T00:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] DeFlock Amerca Facebook Group Suspended as a Dangerous Organ",
-   "body": "Lemmy · programming.dev · 점수 73",
-   "link": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/shugvermonte",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/shugvermonte:2026-11-24T00:49"
   }
  ]
 }
