@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-24T18:19:08+00:00",
+ "generated_at": "2026-11-24T18:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-121357 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-121357 📢 Source: adobe 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121357",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121357:2026-11-24T18:49"
+  },
+  {
+   "ts": "2026-11-24T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-119579 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-119579 📢 Source: adobe 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119579",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119579:2026-11-24T18:49"
+  },
+  {
+   "ts": "2026-11-24T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134066 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-134066 📢 Source: AMZN 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements in data query logic in the query construction of ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134066",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134066:2026-11-24T18:49"
+  },
   {
    "ts": "2026-11-24T18:19:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82316",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82316:2026-11-24T16:49"
-  },
-  {
-   "ts": "2026-11-24T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82315 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-82315 📢 Source: SolarWinds 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SolarWinds Serv-U is affected by another Time-of-Check to Time-of-Use (TOCTOU) vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82315",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82315:2026-11-24T16:49"
-  },
-  {
-   "ts": "2026-11-24T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-82313 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-82313 📢 Source: SolarWinds 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True SolarWinds Serv-U is affected by a business logic vulnerability that may allow access to",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82313",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82313:2026-11-24T16:49"
-  },
-  {
-   "ts": "2026-11-24T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-132157 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-132157 📢 Source: OS-S 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The OSI Presentation Protocol analyzer in DINA-community's icsnpp-pres 1.0.0 plugin for Zeek ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132157",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132157:2026-11-24T16:19"
   }
  ]
 }
