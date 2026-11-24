@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-24T01:49:07+00:00",
+ "generated_at": "2026-11-24T02:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T02:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-93457 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-93457 📢 Source: ASUS 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False Out-of-bounds write vulnerability in certain ASUS routers allows an unauthenticated nearby us",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-93457",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-93457:2026-11-24T02:19"
+  },
+  {
+   "ts": "2026-11-24T02:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-114203 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-114203 📢 Source: ASUS 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True An Improper Neutralization of Special Elements used in an OS Command（'OS Command Injectio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114203",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114203:2026-11-24T02:19"
+  },
   {
    "ts": "2026-11-24T01:49:06+00:00",
    "level": "important",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-49960",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-49960:2026-11-23T18:49"
-  },
-  {
-   "ts": "2026-11-23T18:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135452 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-135452 📢 Source: hp 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False A potential security vulnerability has been identified in the HP Hotkey UWP Service, which mig",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135452",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135452:2026-11-23T18:49"
-  },
-  {
-   "ts": "2026-11-23T18:49:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-100374 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-100374 📢 Source: zephyr 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False The system call verification handlers for smbus_block_read() and smbus_block_pcall() in dr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-100374",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-100374:2026-11-23T18:49"
   }
  ]
 }
