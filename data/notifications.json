@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-24T18:49:07+00:00",
+ "generated_at": "2026-11-24T19:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134986 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-134986 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Brainstorm Force SureCart surecart a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134986",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134986:2026-11-24T19:19"
+  },
+  {
+   "ts": "2026-11-24T19:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134716 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-134716 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Mahmudul Hasan Arif Ninja Charts nin",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134716",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134716:2026-11-24T19:19"
+  },
+  {
+   "ts": "2026-11-24T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-86155 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-86155 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in Apache Jena Fuseki in the SHACL validation functionality cause server ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86155",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86155:2026-11-24T19:19"
+  },
+  {
+   "ts": "2026-11-24T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-136412 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-136412 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True OpenResty stream-lua-nginx-module before 0.0.20rc4 contains a use-after-free vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136412",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136412:2026-11-24T19:19"
+  },
+  {
+   "ts": "2026-11-24T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-136411 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-136411 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True BusyBox through 1.38.0 contains an absolute path traversal vulnerability in tftpd th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136411",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136411:2026-11-24T19:19"
+  },
+  {
+   "ts": "2026-11-24T19:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-136410 (CVSS 9.5)",
+   "body": "🚨 CVE-2026-136410 📢 Source: VulnCheck 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True Thymeleaf before 3.1.6.RELEASE contains a restricted expression mode bypass vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136410",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136410:2026-11-24T19:19"
+  },
   {
    "ts": "2026-11-24T18:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82320",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82320:2026-11-24T16:49"
-  },
-  {
-   "ts": "2026-11-24T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82319 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-82319 📢 Source: SolarWinds 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SolarWinds Serv-U is affected by a time-of-check to time-of-use (TOCTOU) vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82319",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82319:2026-11-24T16:49"
-  },
-  {
-   "ts": "2026-11-24T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-129833 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-129833 📢 Source: redhat 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A flaw was found in rsyslog. A remote, unauthenticated attacker can trigger a stack-based b",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129833",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129833:2026-11-24T16:49"
-  },
-  {
-   "ts": "2026-11-24T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-123168 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-123168 📢 Source: SolarWinds 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SolarWinds Serv-U is affected by an insufficient validation vulnerability that, whe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123168",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123168:2026-11-24T16:49"
-  },
-  {
-   "ts": "2026-11-24T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-123167 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-123167 📢 Source: SolarWinds 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SolarWinds Serv-U is affected by a privilege escalation vulnerability that, when ex",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123167",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123167:2026-11-24T16:49"
-  },
-  {
-   "ts": "2026-11-24T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123166 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-123166 📢 Source: SolarWinds 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True SolarWinds Serv-U fails to properly sanitize user-controlled arguments, which could all",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123166",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123166:2026-11-24T16:49"
-  },
-  {
-   "ts": "2026-11-24T16:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-82316 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-82316 📢 Source: SolarWinds 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True SolarWinds Serv-U is affected by a Time-of-Check to Time-of-Use (TOCTOU) vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-82316",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-82316:2026-11-24T16:49"
   }
  ]
 }
