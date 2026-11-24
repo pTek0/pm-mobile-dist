@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-24T10:19:07+00:00",
+ "generated_at": "2026-11-24T10:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127182 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-127182 📢 Source: suse 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A stack buffer overflow in DLP/WAF in the enforcer dataplane of SUSE NeuVector before 5.5, 5.",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127182",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127182:2026-11-24T10:49"
+  },
   {
    "ts": "2026-11-24T09:49:11+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://itsfoss.com/news/cachyos-november-release/",
    "source": "Lemmy · programming.dev",
    "id": "community:https://itsfoss.com/news/cachyos-november-release/:2026-11-24T00:19"
-  },
-  {
-   "ts": "2026-11-23T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Apple removed my open-source app from EU App Stores after 9 ",
-   "body": "Hacker News · 점수 424",
-   "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
-   "source": "Hacker News",
-   "id": "community:https://github.com/glushchenko/fsnotes/discussions/2056:2026-11-23T23:49"
   }
  ]
 }
