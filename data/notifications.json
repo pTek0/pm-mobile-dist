@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-24T03:49:08+00:00",
+ "generated_at": "2026-11-24T04:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-24T04:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-128791 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-128791 📢 Source: Acer 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Any WiFi client can send HTTP DELETE to /meeting-recording/delete to permanently delete fi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-128791",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-128791:2026-11-24T04:19"
+  },
   {
    "ts": "2026-11-24T03:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-49964",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-49964:2026-11-23T19:19"
-  },
-  {
-   "ts": "2026-11-23T19:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-49963 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-49963 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True DreameHome for Android (com.dreame.smartlife) before 2.6.4.0 contains a download of code ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-49963",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-49963:2026-11-23T19:19"
   }
  ]
 }
