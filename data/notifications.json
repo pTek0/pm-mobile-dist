@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-25T16:49:08+00:00",
+ "generated_at": "2026-11-25T17:19:10+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136267 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-136267 📢 Source: AMZN 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Improper sanitization of mixed data and markup elements when processing content in Kiro Web b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136267",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136267:2026-11-25T17:19"
+  },
+  {
+   "ts": "2026-11-25T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135133 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-135133 📢 Source: mongodb 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An invalid memory release in the MongoDB PHP Driver extension occurs when certain string-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135133",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135133:2026-11-25T17:19"
+  },
   {
    "ts": "2026-11-25T16:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105609",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105609:2026-11-25T11:19"
-  },
-  {
-   "ts": "2026-11-25T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Matrix Multiplication is Θ(n^2.25) [pdf]",
-   "body": "Hacker News · 점수 661",
-   "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-   "source": "Hacker News",
-   "id": "community:https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf:2026-11-25T11:19"
-  },
-  {
-   "ts": "2026-11-25T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Ask HN: Anthropic is accusing my company of distilling. How ",
-   "body": "Hacker News · 점수 301",
-   "link": "https://news.ycombinator.com/item?id=50630809",
-   "source": "Hacker News",
-   "id": "community:https://news.ycombinator.com/item?id=50630809:2026-11-25T11:19"
   }
  ]
 }
