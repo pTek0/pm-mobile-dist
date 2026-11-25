@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-25T20:19:07+00:00",
+ "generated_at": "2026-11-25T20:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131827 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-131827 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False RustDesk Client for Windows reg_recovery Missing Authorization Local Privilege Escalation Vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131827",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131827:2026-11-25T20:49"
+  },
+  {
+   "ts": "2026-11-25T20:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-102957 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-102957 📢 Source: zephyr 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False z_impl_pwm_capture_cycles() in drivers/pwm/pwm_capture.c stores its capture context (struc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-102957",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-102957:2026-11-25T20:49"
+  },
   {
    "ts": "2026-11-25T19:49:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-80297",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80297:2026-11-25T13:19"
-  },
-  {
-   "ts": "2026-11-25T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80296 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-80296 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a P",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80296",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80296:2026-11-25T13:19"
-  },
-  {
-   "ts": "2026-11-25T13:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-129968 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-129968 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True LiteSpeed Cache Plugin for Prestashop does not verify authenticity of \"pd\" parameter a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129968",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129968:2026-11-25T13:19"
   }
  ]
 }
