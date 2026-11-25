@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-25T18:19:08+00:00",
+ "generated_at": "2026-11-25T18:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T18:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-77230 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-77230 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Camunda 8.8.0 before 8.8.47, 8.9.0 before 8.9.29, 8.10.0 before 8.10.10, and 8.11.0-a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77230",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77230:2026-11-25T18:49"
+  },
   {
    "ts": "2026-11-25T18:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2024-7431",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-7431:2026-11-25T12:49"
-  },
-  {
-   "ts": "2026-11-25T12:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2024-7430 (CVSS 8.4)",
-   "body": "🚨 CVE-2024-7430 📢 Source: OpenText 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Application Performance Management 9.60 patch versions before IP4 are affected. This issue ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2024-7430",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-7430:2026-11-25T12:49"
   }
  ]
 }
