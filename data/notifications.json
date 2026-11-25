@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-25T14:49:08+00:00",
+ "generated_at": "2026-11-25T15:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136911 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-136911 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Boost.JSON 1.75.0 through 1.92.0 contains a denial of service vulnerability in monotonic",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136911",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136911:2026-11-25T15:19"
+  },
+  {
+   "ts": "2026-11-25T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136910 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-136910 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True POCO C++ Libraries through 1.15.4 contain a denial of service vulnerability in Inflating",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136910",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136910:2026-11-25T15:19"
+  },
+  {
+   "ts": "2026-11-25T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136908 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-136908 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True libyang through 6.4.13 contains a release of invalid pointer vulnerability in ly_in_memo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136908",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136908:2026-11-25T15:19"
+  },
+  {
+   "ts": "2026-11-25T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136904 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-136904 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True POCO C++ Libraries through 1.15.4 contain a denial of service vulnerability in Inflating",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136904",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136904:2026-11-25T15:19"
+  },
   {
    "ts": "2026-11-25T14:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-134791",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134791:2026-11-25T10:19"
-  },
-  {
-   "ts": "2026-11-25T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133761 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-133761 📢 Source: Symfony 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False CsvEncoder::decode() splits each header cell on the key separator, . by default, and nest",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133761",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133761:2026-11-25T10:19"
-  },
-  {
-   "ts": "2026-11-25T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133760 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-133760 📢 Source: Symfony 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False The fix for CVE-2026-109449 made the expression parser check the nesting level of long ex",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133760",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133760:2026-11-25T10:19"
-  },
-  {
-   "ts": "2026-11-25T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133757 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-133757 📢 Source: Symfony 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Since Symfony 5.4.48, 6.4.16, 7.1.9 and 7.2.0, NoPrivateNetworkHttpClient follows redirec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133757",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133757:2026-11-25T10:19"
-  },
-  {
-   "ts": "2026-11-25T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133743 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-133743 📢 Source: Symfony 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False The fix for CVE-2026-123339 (GHSA-wg5q-m2ww-f3c9) restores the router context of the main r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133743",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133743:2026-11-25T10:19"
   }
  ]
 }
