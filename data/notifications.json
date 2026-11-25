@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-25T09:49:07+00:00",
+ "generated_at": "2026-11-25T10:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134792 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-134792 📢 Source: Symfony 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False When the proxy option isn't set, HttpClient takes the proxy from environment variables li",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134792",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134792:2026-11-25T10:19"
+  },
+  {
+   "ts": "2026-11-25T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134791 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-134791 📢 Source: Symfony 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Since Symfony 7.2, expressions can contain comments. The lexer used a regular expression ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134791",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134791:2026-11-25T10:19"
+  },
+  {
+   "ts": "2026-11-25T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133761 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-133761 📢 Source: Symfony 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False CsvEncoder::decode() splits each header cell on the key separator, . by default, and nest",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133761",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133761:2026-11-25T10:19"
+  },
+  {
+   "ts": "2026-11-25T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133760 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-133760 📢 Source: Symfony 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False The fix for CVE-2026-109449 made the expression parser check the nesting level of long ex",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133760",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133760:2026-11-25T10:19"
+  },
+  {
+   "ts": "2026-11-25T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133757 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-133757 📢 Source: Symfony 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False Since Symfony 5.4.48, 6.4.16, 7.1.9 and 7.2.0, NoPrivateNetworkHttpClient follows redirec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133757",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133757:2026-11-25T10:19"
+  },
+  {
+   "ts": "2026-11-25T10:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133743 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-133743 📢 Source: Symfony 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False The fix for CVE-2026-123339 (GHSA-wg5q-m2ww-f3c9) restores the router context of the main r",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133743",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133743:2026-11-25T10:19"
+  },
   {
    "ts": "2026-11-25T09:49:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
    "source": "Hacker News",
    "id": "community:https://quad9.net/news/blog/quad9-service-deactivation-in-france/:2026-11-24T23:49"
-  },
-  {
-   "ts": "2026-11-24T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Home Sweet Home",
-   "body": "Lemmy · programming.dev · 점수 306",
-   "link": "https://lemmy.zip/pictrs/image/faa4f7a5-9019-4b95-900c-23729b884fdf.avif",
-   "source": "Lemmy · programming.dev",
-   "id": "community:https://lemmy.zip/pictrs/image/faa4f7a5-9019-4b95-900c-23729b884fdf.avif:2026-11-24T23:49"
-  },
-  {
-   "ts": "2026-11-24T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The Spray Bottle",
-   "body": "Hacker News · 점수 301",
-   "link": "https://mechanical-pencil.com/products/spray-bottle",
-   "source": "Hacker News",
-   "id": "community:https://mechanical-pencil.com/products/spray-bottle:2026-11-24T23:49"
-  },
-  {
-   "ts": "2026-11-24T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nvidia CEO Jensen Huang Reportedly Had at Least 4 Affairs",
-   "body": "Lemmy · technology · 점수 242",
-   "link": "https://gizmodo.com/the-jensen-huang-affair-tally-is-reportedly-up-to-at-least-four-2000844456",
-   "source": "Lemmy · technology",
-   "id": "community:https://gizmodo.com/the-jensen-huang-affair-tally-is-reportedly-up-to-at-least-four-2000844456:2026-11-24T23:49"
-  },
-  {
-   "ts": "2026-11-24T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Active intrusion campaign against Check Point security manag",
-   "body": "Hacker News · 점수 239",
-   "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-   "source": "Hacker News",
-   "id": "community:https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign:2026-11-24T23:49"
-  },
-  {
-   "ts": "2026-11-24T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123626 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-123626 📢 Source: Fluid Attacks 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Akaunting 3.3.0 contains a stored cross-site scripting vulnerability in the company lo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123626",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123626:2026-11-24T23:19"
-  },
-  {
-   "ts": "2026-11-24T23:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136613 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-136613 📢 Source: zdi 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False GNU Inetutils FTP Client File Retrieval Command Injection Remote Code Execution Vulnerability",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136613",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136613:2026-11-24T23:19"
   }
  ]
 }
