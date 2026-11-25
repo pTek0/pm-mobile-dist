@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-25T03:19:07+00:00",
+ "generated_at": "2026-11-25T03:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134444 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-134444 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Webmin through 2.670 contains a cleartext transmission vulnerability in connect_ldap_db ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134444",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134444:2026-11-25T03:49"
+  },
+  {
+   "ts": "2026-11-25T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134440 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-134440 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Webmin through 2.670 contains a Perl code injection vulnerability in cluster-useradmin/s",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134440",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134440:2026-11-25T03:49"
+  },
+  {
+   "ts": "2026-11-25T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134438 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-134438 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Webmin through 2.670 contains an insecure download vulnerability in webmin/upgrade.cgi, ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134438",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134438:2026-11-25T03:49"
+  },
+  {
+   "ts": "2026-11-25T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134326 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-134326 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Webmin through 2.670 contains a signature verification bypass vulnerability in webmin-li",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134326",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134326:2026-11-25T03:49"
+  },
+  {
+   "ts": "2026-11-25T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134323 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-134323 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Webmin through 2.670 contains an improper certificate validation vulnerability in generi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134323",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134323:2026-11-25T03:49"
+  },
+  {
+   "ts": "2026-11-25T03:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134283 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-134283 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Webmin through 2.670 contains an improper certificate validation vulnerability in the ht",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134283",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134283:2026-11-25T03:49"
+  },
   {
    "ts": "2026-11-25T03:19:06+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-134986",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134986:2026-11-24T19:19"
-  },
-  {
-   "ts": "2026-11-24T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134716 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-134716 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Mahmudul Hasan Arif Ninja Charts nin",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134716",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134716:2026-11-24T19:19"
-  },
-  {
-   "ts": "2026-11-24T19:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-86155 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-86155 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in Apache Jena Fuseki in the SHACL validation functionality cause server ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-86155",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-86155:2026-11-24T19:19"
-  },
-  {
-   "ts": "2026-11-24T19:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-136412 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-136412 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True OpenResty stream-lua-nginx-module before 0.0.20rc4 contains a use-after-free vulnera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136412",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136412:2026-11-24T19:19"
-  },
-  {
-   "ts": "2026-11-24T19:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-136411 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-136411 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True BusyBox through 1.38.0 contains an absolute path traversal vulnerability in tftpd th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136411",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136411:2026-11-24T19:19"
-  },
-  {
-   "ts": "2026-11-24T19:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-136410 (CVSS 9.5)",
-   "body": "🚨 CVE-2026-136410 📢 Source: VulnCheck 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True Thymeleaf before 3.1.6.RELEASE contains a restricted expression mode bypass vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136410",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136410:2026-11-24T19:19"
-  },
-  {
-   "ts": "2026-11-24T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121357 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-121357 📢 Source: adobe 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121357",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121357:2026-11-24T18:49"
   }
  ]
 }
