@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-25T12:19:07+00:00",
+ "generated_at": "2026-11-25T12:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80287 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-80287 📢 Source: dell 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a M",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80287",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80287:2026-11-25T12:49"
+  },
+  {
+   "ts": "2026-11-25T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80286 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-80286 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains an ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80286",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80286:2026-11-25T12:49"
+  },
+  {
+   "ts": "2026-11-25T12:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-135888 (CVSS 9.2)",
+   "body": "🚨 CVE-2026-135888 📢 Source: POSIT 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Directory traversal vulnerability in the custom-homepage asset endpoint (/__api__/custom",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135888",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135888:2026-11-25T12:49"
+  },
+  {
+   "ts": "2026-11-25T12:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-125812 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-125812 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vuln",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125812",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125812:2026-11-25T12:49"
+  },
+  {
+   "ts": "2026-11-25T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2024-7431 (CVSS 8.4)",
+   "body": "🚨 CVE-2024-7431 📢 Source: OpenText 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True In Application Performance Management versions before 9.60 IP4, The application is vulnerab",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2024-7431",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-7431:2026-11-25T12:49"
+  },
+  {
+   "ts": "2026-11-25T12:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2024-7430 (CVSS 8.4)",
+   "body": "🚨 CVE-2024-7430 📢 Source: OpenText 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: True Application Performance Management 9.60 patch versions before IP4 are affected. This issue ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2024-7430",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2024-7430:2026-11-25T12:49"
+  },
   {
    "ts": "2026-11-25T11:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-130336",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130336:2026-11-25T04:49"
-  },
-  {
-   "ts": "2026-11-25T03:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134444 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-134444 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Webmin through 2.670 contains a cleartext transmission vulnerability in connect_ldap_db ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134444",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134444:2026-11-25T03:49"
-  },
-  {
-   "ts": "2026-11-25T03:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134440 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-134440 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Webmin through 2.670 contains a Perl code injection vulnerability in cluster-useradmin/s",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134440",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134440:2026-11-25T03:49"
-  },
-  {
-   "ts": "2026-11-25T03:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134438 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-134438 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Webmin through 2.670 contains an insecure download vulnerability in webmin/upgrade.cgi, ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134438",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134438:2026-11-25T03:49"
-  },
-  {
-   "ts": "2026-11-25T03:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134326 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-134326 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Webmin through 2.670 contains a signature verification bypass vulnerability in webmin-li",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134326",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134326:2026-11-25T03:49"
-  },
-  {
-   "ts": "2026-11-25T03:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134323 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-134323 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Webmin through 2.670 contains an improper certificate validation vulnerability in generi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134323",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134323:2026-11-25T03:49"
-  },
-  {
-   "ts": "2026-11-25T03:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134283 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-134283 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Webmin through 2.670 contains an improper certificate validation vulnerability in the ht",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134283",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134283:2026-11-25T03:49"
   }
  ]
 }
