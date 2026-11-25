@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-25T12:49:08+00:00",
+ "generated_at": "2026-11-25T13:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80297 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-80297 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a P",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80297",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80297:2026-11-25T13:19"
+  },
+  {
+   "ts": "2026-11-25T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80296 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-80296 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a P",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80296",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80296:2026-11-25T13:19"
+  },
+  {
+   "ts": "2026-11-25T13:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-129968 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-129968 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True LiteSpeed Cache Plugin for Prestashop does not verify authenticity of \"pd\" parameter a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-129968",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-129968:2026-11-25T13:19"
+  },
+  {
+   "ts": "2026-11-25T13:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80291 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-80291 📢 Source: dell 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a M",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80291",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80291:2026-11-25T13:19"
+  },
+  {
+   "ts": "2026-11-25T13:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-97180 (CVSS 9.4)",
+   "body": "🚨 CVE-2026-97180 📢 Source: CERT-PL 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True ASSA ABLOY Seawing SC-1000 WebConfig is vulnerable to remote command injection via HTTP",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-97180",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-97180:2026-11-25T13:19"
+  },
   {
    "ts": "2026-11-25T12:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-134478",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134478:2026-11-25T07:49"
-  },
-  {
-   "ts": "2026-11-25T07:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134476 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-134476 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in WP ManageNinja LLC Fluent Support fl",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134476",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134476:2026-11-25T07:49"
-  },
-  {
-   "ts": "2026-11-25T07:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134475 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-134475 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in WPManageNinja FluentCart fluent-cart",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134475",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134475:2026-11-25T07:49"
-  },
-  {
-   "ts": "2026-11-25T07:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134473 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-134473 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in WP ManageNinja LLC WP Social Ninja w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134473",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134473:2026-11-25T07:49"
-  },
-  {
-   "ts": "2026-11-25T05:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-118898 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-118898 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in lasp-lang partisan allows an unauthenticate",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118898",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118898:2026-11-25T05:19"
-  },
-  {
-   "ts": "2026-11-25T04:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-130336 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-130336 📢 Source: rapid7 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') in t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130336",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130336:2026-11-25T04:49"
   }
  ]
 }
