@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-25T14:19:07+00:00",
+ "generated_at": "2026-11-25T14:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134945 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-134945 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Brainstorm Force SureForms sureforms",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134945",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134945:2026-11-25T14:49"
+  },
+  {
+   "ts": "2026-11-25T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134873 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-134873 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Brainstorm Force CartFlows cartflows",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134873",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134873:2026-11-25T14:49"
+  },
+  {
+   "ts": "2026-11-25T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114347 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-114347 📢 Source: CERT-PL 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True The phsuperpack module for PrestaShop is vulnerable to SQL injection in the /module/phsupe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114347",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114347:2026-11-25T14:49"
+  },
+  {
+   "ts": "2026-11-25T14:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-114346 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-114346 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The phsuperpack module for PrestaShop is vulnerable to a missing authorization check. ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114346",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114346:2026-11-25T14:49"
+  },
+  {
+   "ts": "2026-11-25T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135985 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-135985 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in John-Michael L'Allier Create mediavi",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135985",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135985:2026-11-25T14:49"
+  },
+  {
+   "ts": "2026-11-25T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133742 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-133742 📢 Source: ProgressSoftware 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Incorrect permission assignment for critical resource in the media management fun",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133742",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133742:2026-11-25T14:49"
+  },
+  {
+   "ts": "2026-11-25T14:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136862 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-136862 📢 Source: eclipse 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True In Eclipse Apoapsis ORT Server Credential Helper versions 0.1.0 to 0.2.0, as shipped with Ec",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136862",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136862:2026-11-25T14:49"
+  },
   {
    "ts": "2026-11-25T14:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-133743",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133743:2026-11-25T10:19"
-  },
-  {
-   "ts": "2026-11-25T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80285 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-80285 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains an ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80285",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80285:2026-11-25T09:49"
-  },
-  {
-   "ts": "2026-11-25T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80284 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-80284 📢 Source: dell 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains an ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80284",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80284:2026-11-25T09:49"
-  },
-  {
-   "ts": "2026-11-25T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80283 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-80283 📢 Source: dell 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a M",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80283",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80283:2026-11-25T09:49"
-  },
-  {
-   "ts": "2026-11-25T09:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-136706 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-136706 📢 Source: CERT-In 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True This vulnerability exists in the DIGIT Platform due to improper neutralization of user",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136706",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136706:2026-11-25T09:49"
-  },
-  {
-   "ts": "2026-11-25T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80273 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-80273 📢 Source: dell 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains an ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80273",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80273:2026-11-25T09:49"
-  },
-  {
-   "ts": "2026-11-25T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80271 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-80271 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a U",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80271",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80271:2026-11-25T09:49"
-  },
-  {
-   "ts": "2026-11-25T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80269 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-80269 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains an ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80269",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80269:2026-11-25T09:49"
   }
  ]
 }
