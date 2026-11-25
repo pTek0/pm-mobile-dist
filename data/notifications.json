@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-11-25T02:49:07+00:00",
+ "generated_at": "2026-11-25T03:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136632 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-136632 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True OpenProject 17.2.0 before 17.5.2, 17.6.0 before 17.6.1, 17.7.0 before 17.7.3, 17.8.0 bef",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136632",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136632:2026-11-25T03:19"
+  },
+  {
+   "ts": "2026-11-25T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136631 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-136631 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Mastodon 4.7.4 and 4.8.0-alpha.3 before 5.0.0-beta.1 contains an authentication bypass v",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136631",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136631:2026-11-25T03:19"
+  },
+  {
+   "ts": "2026-11-25T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136630 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-136630 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Electerm before 5.9.0 contains an origin validation vulnerability in the MCP Server widg",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136630",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136630:2026-11-25T03:19"
+  },
+  {
+   "ts": "2026-11-25T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136629 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-136629 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Nektos act 0.2.92 before 0.2.95 contains an argument injection vulnerability in readPro",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136629",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136629:2026-11-25T03:19"
+  },
+  {
+   "ts": "2026-11-25T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136628 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-136628 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Wails before 2.17.1 on Linux contains an origin validation error in the sendMessageToBac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136628",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136628:2026-11-25T03:19"
+  },
+  {
+   "ts": "2026-11-25T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136627 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-136627 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SRS 4.0.0 before 6.0.194, 7.0.0 before 7.0.214, and 8.0.0 before 8.0.73 contains a reach",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136627",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136627:2026-11-25T03:19"
+  },
+  {
+   "ts": "2026-11-25T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136626 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-136626 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SRS 4.0.0 before 6.0.194, 7.0.0 before 7.0.214, and 8.0.0 before 8.0.73 contains a heap-",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136626",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136626:2026-11-25T03:19"
+  },
+  {
+   "ts": "2026-11-25T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136624 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-136624 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True lightNVR before 0.44.3 contains an authorization bypass vulnerability in go2rtc_proxy_au",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136624",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136624:2026-11-25T03:19"
+  },
+  {
+   "ts": "2026-11-25T03:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136620 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-136620 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: False pain001-mcp 0.0.72 before 0.0.80 contains a path traversal vulnerability in the commit_",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136620",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136620:2026-11-25T03:19"
+  },
   {
    "ts": "2026-11-25T01:49:06+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121357",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121357:2026-11-24T18:49"
-  },
-  {
-   "ts": "2026-11-24T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-119579 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-119579 📢 Source: adobe 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-119579",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-119579:2026-11-24T18:49"
-  },
-  {
-   "ts": "2026-11-24T18:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134066 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-134066 📢 Source: AMZN 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: True Improper neutralization of special elements in data query logic in the query construction of ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134066",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134066:2026-11-24T18:49"
-  },
-  {
-   "ts": "2026-11-24T18:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-121756 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-121756 📢 Source: zdi 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Parallels Desktop CSHAShellExt Improper Access Control Local Privilege Escalation Vulnerabili",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-121756",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-121756:2026-11-24T18:19"
-  },
-  {
-   "ts": "2026-11-24T18:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-125723 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-125723 📢 Source: adobe 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Campaign Classic (ACC) is affected by a stored Cross-Site Scripting (XSS) vulnerabil",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125723",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125723:2026-11-24T18:19"
-  },
-  {
-   "ts": "2026-11-24T18:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-125718 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-125718 📢 Source: adobe 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Adobe Campaign Classic (ACC) is affected by an Improper Neutralization of Special Elemen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125718",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125718:2026-11-24T18:19"
-  },
-  {
-   "ts": "2026-11-24T18:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-125717 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-125717 📢 Source: adobe 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True Adobe Campaign Classic (ACC) is affected by an Improper Neutralization of Special Elemen",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125717",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125717:2026-11-24T18:19"
-  },
-  {
-   "ts": "2026-11-24T18:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-125716 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-125716 📢 Source: adobe 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Adobe Campaign Classic (ACC) is affected by a reflected Cross-Site Scripting (XSS) vulne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125716",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125716:2026-11-24T18:19"
-  },
-  {
-   "ts": "2026-11-24T18:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-125676 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-125676 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Campaign Classic (ACC) is affected by an Improper Control of Generation of Code ('",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125676",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125676:2026-11-24T18:19"
-  },
-  {
-   "ts": "2026-11-24T18:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-125675 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-125675 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Campaign Classic (ACC) is affected by an Improper Control of Generation of Code ('",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-125675",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125675:2026-11-24T18:19"
   }
  ]
 }
