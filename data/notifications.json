@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-25T04:49:07+00:00",
+ "generated_at": "2026-11-25T05:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T05:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-118898 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-118898 📢 Source: EEF 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in lasp-lang partisan allows an unauthenticate",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-118898",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-118898:2026-11-25T05:19"
+  },
   {
    "ts": "2026-11-25T04:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-136453",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136453:2026-11-24T19:49"
-  },
-  {
-   "ts": "2026-11-24T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135046 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-135046 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Rymera Web Co Store Exporter woocomm",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135046",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135046:2026-11-24T19:49"
   }
  ]
 }
