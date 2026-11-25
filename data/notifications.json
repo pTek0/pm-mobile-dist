@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-25T15:19:08+00:00",
+ "generated_at": "2026-11-25T16:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-62154 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-62154 📢 Source: EDB 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False During IMPORT FOREIGN SCHEMA, mysql_fdw copies column metadata returned by the remote MySQL se",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62154",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62154:2026-11-25T16:49"
+  },
+  {
+   "ts": "2026-11-25T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136329 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-136329 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the file-gif-load plugin in GIMP. When processing a specially crafted ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136329",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136329:2026-11-25T16:49"
+  },
+  {
+   "ts": "2026-11-25T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135228 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-135228 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A vulnerability in the MongoDB integration package for the Laravel framework allows an una",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135228",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135228:2026-11-25T16:49"
+  },
+  {
+   "ts": "2026-11-25T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135147 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-135147 📢 Source: mongodb 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True A data-query neutralization weakness in the query builder of the MongoDB integration for a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135147",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135147:2026-11-25T16:49"
+  },
+  {
+   "ts": "2026-11-25T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135145 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-135145 📢 Source: mongodb 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A polymorphic relationship query helper in the MongoDB Eloquent integration for Laravel re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135145",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135145:2026-11-25T16:49"
+  },
+  {
+   "ts": "2026-11-25T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135144 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-135144 📢 Source: mongodb 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True A query builder component in a MongoDB integration library for a PHP web framework does no",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135144",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135144:2026-11-25T16:49"
+  },
+  {
+   "ts": "2026-11-25T16:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135142 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-135142 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True An incorrect authorization weakness in the embedded relation handling of the Laravel Mongo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135142",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135142:2026-11-25T16:49"
+  },
   {
    "ts": "2026-11-25T15:19:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://news.ycombinator.com/item?id=50630809",
    "source": "Hacker News",
    "id": "community:https://news.ycombinator.com/item?id=50630809:2026-11-25T11:19"
-  },
-  {
-   "ts": "2026-11-25T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GPT-6 models demonstrate intrinsic protein-design capabiliti",
-   "body": "Hacker News · 점수 270",
-   "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-   "source": "Hacker News",
-   "id": "community:https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/:2026-11-25T11:19"
-  },
-  {
-   "ts": "2026-11-25T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] PenGPT: A Generative Transformer for Handwriting and Sketche",
-   "body": "Hacker News · 점수 260",
-   "link": "https://greydanus.github.io/2026/11/12/pengpt/",
-   "source": "Hacker News",
-   "id": "community:https://greydanus.github.io/2026/11/12/pengpt/:2026-11-25T11:19"
-  },
-  {
-   "ts": "2026-11-25T11:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Models Can Communicate via Inference Servers Despite Being S",
-   "body": "Hacker News · 점수 245",
-   "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-   "source": "Hacker News",
-   "id": "community:https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being:2026-11-25T11:19"
-  },
-  {
-   "ts": "2026-11-25T10:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-95533 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-95533 📢 Source: eclipse 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Eclipse Jetty, the JSON parsing utilities provided by artifact `jetty-util-ajax` are vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95533",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95533:2026-11-25T10:49"
-  },
-  {
-   "ts": "2026-11-25T10:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-78114 (CVSS 10.0)",
-   "body": "🚨 CVE-2026-78114 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Session Fixation in the login flow of Apache JSPWiki versions 2.10 through 3.0.0 on all p",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78114",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78114:2026-11-25T10:49"
-  },
-  {
-   "ts": "2026-11-25T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134792 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-134792 📢 Source: Symfony 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: False When the proxy option isn't set, HttpClient takes the proxy from environment variables li",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134792",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134792:2026-11-25T10:19"
-  },
-  {
-   "ts": "2026-11-25T10:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134791 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-134791 📢 Source: Symfony 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: False Since Symfony 7.2, expressions can contain comments. The lexer used a regular expression ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134791",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134791:2026-11-25T10:19"
   }
  ]
 }
