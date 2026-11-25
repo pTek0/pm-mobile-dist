@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-25T11:19:07+00:00",
+ "generated_at": "2026-11-25T11:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T11:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-87753 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-87753 📢 Source: TR-CERT 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Authorization bypass through User-Controlled key vulnerability in İdeal Data Finansal Tekno",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-87753",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-87753:2026-11-25T11:49"
+  },
+  {
+   "ts": "2026-11-25T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Microsoft’s historic cloud outage exposed an engineering “fo",
+   "body": "Lemmy · technology · 점수 84",
+   "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/:2026-11-25T11:49"
+  },
+  {
+   "ts": "2026-11-25T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] I checked Clojure's core with Lean and found 17 unreported b",
+   "body": "Lobsters · 점수 71",
+   "link": "https://s.conao3.com/blog/2026/e4f733",
+   "source": "Lobsters",
+   "id": "community:https://s.conao3.com/blog/2026/e4f733:2026-11-25T11:49"
+  },
+  {
+   "ts": "2026-11-25T11:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Security incident on Hex.pm",
+   "body": "Lobsters · 점수 61",
+   "link": "https://hex.pm/blog/security-incident-on-hexpm",
+   "source": "Lobsters",
+   "id": "community:https://hex.pm/blog/security-incident-on-hexpm:2026-11-25T11:49"
+  },
   {
    "ts": "2026-11-25T11:19:06+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-134283",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134283:2026-11-25T03:49"
-  },
-  {
-   "ts": "2026-11-25T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136632 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-136632 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True OpenProject 17.2.0 before 17.5.2, 17.6.0 before 17.6.1, 17.7.0 before 17.7.3, 17.8.0 bef",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136632",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136632:2026-11-25T03:19"
-  },
-  {
-   "ts": "2026-11-25T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136631 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-136631 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Mastodon 4.7.4 and 4.8.0-alpha.3 before 5.0.0-beta.1 contains an authentication bypass v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136631",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136631:2026-11-25T03:19"
-  },
-  {
-   "ts": "2026-11-25T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136630 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-136630 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Electerm before 5.9.0 contains an origin validation vulnerability in the MCP Server widg",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136630",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136630:2026-11-25T03:19"
-  },
-  {
-   "ts": "2026-11-25T03:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136629 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-136629 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Nektos act 0.2.92 before 0.2.95 contains an argument injection vulnerability in readPro",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136629",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136629:2026-11-25T03:19"
   }
  ]
 }
