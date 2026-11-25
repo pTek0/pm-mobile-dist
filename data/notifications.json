@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-25T08:49:07+00:00",
+ "generated_at": "2026-11-25T09:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135040 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-135040 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Themefic Hydra Booking hydra-booking",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135040",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135040:2026-11-25T09:19"
+  },
+  {
+   "ts": "2026-11-25T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135840 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-135840 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Arraytics Timetics timetics allows C",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135840",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135840:2026-11-25T09:19"
+  },
+  {
+   "ts": "2026-11-25T09:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135008 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-135008 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Tainacan Community Tainacan tainacan",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135008",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135008:2026-11-25T09:19"
+  },
   {
    "ts": "2026-11-25T08:49:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16663",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-16663:2026-11-24T21:49"
-  },
-  {
-   "ts": "2026-11-24T21:49:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-124284 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-124284 📢 Source: Genetec 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: False A critical security vulnerability affects certain authentication methods in Genetec S",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124284",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124284:2026-11-24T21:49"
-  },
-  {
-   "ts": "2026-11-24T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136539 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-136539 📢 Source: zdi 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False LiteLLM Pass-Through Endpoint Code Injection Remote Code Execution Vulnerability. This vulner",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136539",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136539:2026-11-24T21:19"
-  },
-  {
-   "ts": "2026-11-24T21:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136535 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-136535 📢 Source: zdi 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: False LiteLLM MCP Command Injection Remote Code Execution Vulnerability. This vulnerability allows ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136535",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136535:2026-11-24T21:19"
   }
  ]
 }
