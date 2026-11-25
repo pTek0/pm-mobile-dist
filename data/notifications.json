@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-25T21:49:07+00:00",
+ "generated_at": "2026-11-25T22:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T22:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-66052 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-66052 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Comviva Revenue Plus (MobiLytix Customer Value Management) 3.0.0 contains an expression l",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66052",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66052:2026-11-25T22:19"
+  },
   {
    "ts": "2026-11-25T21:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-136862",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136862:2026-11-25T14:49"
-  },
-  {
-   "ts": "2026-11-25T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136881 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-136881 📢 Source: eclipse 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In the `setup-osc` GitHub Action of Eclipse Apoapsis, from commit 4e9eaff up to, but not i",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136881",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136881:2026-11-25T14:19"
   }
  ]
 }
