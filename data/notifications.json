@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-25T21:19:07+00:00",
+ "generated_at": "2026-11-25T21:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-69695 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-69695 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Handesk through 1.5 contains an unrestricted file upload vulnerability in Attachment::sto",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69695",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69695:2026-11-25T21:49"
+  },
+  {
+   "ts": "2026-11-25T21:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133445 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-133445 📢 Source: canonical 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False In gdm3 before 51.2, an improper privilege management vulnerability allows an unprivile",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133445",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133445:2026-11-25T21:49"
+  },
   {
    "ts": "2026-11-25T21:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-136881",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136881:2026-11-25T14:19"
-  },
-  {
-   "ts": "2026-11-25T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136863 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-136863 📢 Source: eclipse 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True In Eclipse Apoapsis ORT Server versions 0.1.0 to 0.83.0, the file-based configuration provid",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136863",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136863:2026-11-25T14:19"
-  },
-  {
-   "ts": "2026-11-25T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80369 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-80369 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains an ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80369",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80369:2026-11-25T14:19"
   }
  ]
 }
