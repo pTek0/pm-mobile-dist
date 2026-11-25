@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-25T10:19:07+00:00",
+ "generated_at": "2026-11-25T10:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T10:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-95533 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-95533 📢 Source: eclipse 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True In Eclipse Jetty, the JSON parsing utilities provided by artifact `jetty-util-ajax` are vul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-95533",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-95533:2026-11-25T10:49"
+  },
+  {
+   "ts": "2026-11-25T10:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-78114 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-78114 📢 Source: apache 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True Session Fixation in the login flow of Apache JSPWiki versions 2.10 through 3.0.0 on all p",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-78114",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-78114:2026-11-25T10:49"
+  },
   {
    "ts": "2026-11-25T10:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
    "source": "Hacker News",
    "id": "community:https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg:2026-11-25T00:19"
-  },
-  {
-   "ts": "2026-11-25T00:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] How a Mechanical Watch Keeps Time (Interactive 3D)",
-   "body": "Hacker News · 점수 200",
-   "link": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
-   "source": "Hacker News",
-   "id": "community:https://martincmartin.github.io/slidev-stem/watches/article/1/:2026-11-25T00:19"
-  },
-  {
-   "ts": "2026-11-24T23:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Quad9 pulled their DNS service from France",
-   "body": "Hacker News · 점수 321",
-   "link": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
-   "source": "Hacker News",
-   "id": "community:https://quad9.net/news/blog/quad9-service-deactivation-in-france/:2026-11-24T23:49"
   }
  ]
 }
