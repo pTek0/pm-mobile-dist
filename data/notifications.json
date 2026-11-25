@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-25T13:49:09+00:00",
+ "generated_at": "2026-11-25T14:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136881 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-136881 📢 Source: eclipse 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In the `setup-osc` GitHub Action of Eclipse Apoapsis, from commit 4e9eaff up to, but not i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136881",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136881:2026-11-25T14:19"
+  },
+  {
+   "ts": "2026-11-25T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136863 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-136863 📢 Source: eclipse 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True In Eclipse Apoapsis ORT Server versions 0.1.0 to 0.83.0, the file-based configuration provid",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136863",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136863:2026-11-25T14:19"
+  },
+  {
+   "ts": "2026-11-25T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80369 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-80369 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains an ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80369",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80369:2026-11-25T14:19"
+  },
+  {
+   "ts": "2026-11-25T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80367 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-80367 📢 Source: dell 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains an ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80367",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80367:2026-11-25T14:19"
+  },
   {
    "ts": "2026-11-25T13:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-80269",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80269:2026-11-25T09:49"
-  },
-  {
-   "ts": "2026-11-25T09:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80267 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-80267 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a U",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80267",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80267:2026-11-25T09:49"
-  },
-  {
-   "ts": "2026-11-25T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135040 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-135040 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Themefic Hydra Booking hydra-booking",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135040",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135040:2026-11-25T09:19"
-  },
-  {
-   "ts": "2026-11-25T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135840 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-135840 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Arraytics Timetics timetics allows C",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135840",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135840:2026-11-25T09:19"
-  },
-  {
-   "ts": "2026-11-25T09:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135008 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-135008 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Tainacan Community Tainacan tainacan",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135008",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135008:2026-11-25T09:19"
   }
  ]
 }
