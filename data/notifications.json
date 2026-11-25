@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-25T07:49:07+00:00",
+ "generated_at": "2026-11-25T08:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T08:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-80247 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-80247 📢 Source: dell 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a M",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80247",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80247:2026-11-25T08:19"
+  },
   {
    "ts": "2026-11-25T07:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-136534",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136534:2026-11-24T21:19"
-  },
-  {
-   "ts": "2026-11-24T20:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-136522 (CVSS 9.6)",
-   "body": "🚨 CVE-2026-136522 📢 Source: VulnCheck 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: True CubeWP Forms before 1.1.13 contains an unauthenticated stored cross-site scripting v",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136522",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136522:2026-11-24T20:49"
   }
  ]
 }
