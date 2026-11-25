@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-25T01:19:07+00:00",
+ "generated_at": "2026-11-25T01:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-126536 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-126536 📢 Source: Fluid Attacks 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True Akaunting 3.3.0 contains a stored cross-site scripting vulnerability in the XLSX tax-i",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-126536",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-126536:2026-11-25T01:49"
+  },
   {
    "ts": "2026-11-25T00:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-125675",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-125675:2026-11-24T18:19"
-  },
-  {
-   "ts": "2026-11-24T18:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-123987 (CVSS 9.9)",
-   "body": "🚨 CVE-2026-123987 📢 Source: adobe 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Adobe Campaign Classic (ACC) is affected by an Improper Control of Generation of Code ('",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123987",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123987:2026-11-24T18:19"
   }
  ]
 }
