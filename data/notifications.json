@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-25T20:49:07+00:00",
+ "generated_at": "2026-11-25T21:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-67209 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-67209 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True metasfresh through 5.175 contains a SQL injection vulnerability in the stressTest_massCac",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-67209",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-67209:2026-11-25T21:19"
+  },
+  {
+   "ts": "2026-11-25T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131818 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-131818 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False ChargePoint Home Flex busybox Unnecessary Privileges Local Privilege Escalation Vulnerability",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131818",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131818:2026-11-25T21:19"
+  },
+  {
+   "ts": "2026-11-25T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131817 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-131817 📢 Source: zdi 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False ChargePoint Home Flex wpa_passphrase Command Injection Remote Code Execution Vulnerability. T",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131817",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131817:2026-11-25T21:19"
+  },
+  {
+   "ts": "2026-11-25T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131815 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-131815 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False ChargePoint Home Flex uploadsm filetype Link Following Local Privilege Escalation Vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131815",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131815:2026-11-25T21:19"
+  },
+  {
+   "ts": "2026-11-25T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-131814 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-131814 📢 Source: zdi 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False ChargePoint Home Flex dwnldlogsm tar Command Injection Local Privilege Escalation Vulnerabili",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-131814",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-131814:2026-11-25T21:19"
+  },
+  {
+   "ts": "2026-11-25T21:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123879 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-123879 📢 Source: canonical 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True In authd before 0.7.2, an improper access control vulnerability allows an authenticated ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123879",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123879:2026-11-25T21:19"
+  },
   {
    "ts": "2026-11-25T20:49:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-80369",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80369:2026-11-25T14:19"
-  },
-  {
-   "ts": "2026-11-25T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80367 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-80367 📢 Source: dell 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains an ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80367",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80367:2026-11-25T14:19"
-  },
-  {
-   "ts": "2026-11-25T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80365 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-80365 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a U",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80365",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80365:2026-11-25T13:49"
-  },
-  {
-   "ts": "2026-11-25T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80364 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-80364 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a D",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80364",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80364:2026-11-25T13:49"
-  },
-  {
-   "ts": "2026-11-25T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80363 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-80363 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a U",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80363",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80363:2026-11-25T13:49"
-  },
-  {
-   "ts": "2026-11-25T13:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80361 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-80361 📢 Source: dell 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a M",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80361",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80361:2026-11-25T13:49"
-  },
-  {
-   "ts": "2026-11-25T13:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80297 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-80297 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a P",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80297",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80297:2026-11-25T13:19"
   }
  ]
 }
