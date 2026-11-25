@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-25T23:19:07+00:00",
+ "generated_at": "2026-11-25T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Google releases Cogentic papers on integer factorization, di",
+   "body": "Hacker News · 점수 417",
+   "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+   "source": "Hacker News",
+   "id": "community:https://github.com/google-research/google-research/tree/master/cogentic_research_papers:2026-11-25T23:49"
+  },
+  {
+   "ts": "2026-11-25T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A few questions for the guy who went snorkeling in a Home De",
+   "body": "Hacker News · 점수 415",
+   "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+   "source": "Hacker News",
+   "id": "community:https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts:2026-11-25T23:49"
+  },
+  {
+   "ts": "2026-11-25T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] OpenProject wins contract as Jira replacement in German fede",
+   "body": "Lemmy · technology · 점수 372",
+   "link": "https://www.openproject.org/blog/itzbund-jira-alternative-openproject/",
+   "source": "Lemmy · technology",
+   "id": "community:https://www.openproject.org/blog/itzbund-jira-alternative-openproject/:2026-11-25T23:49"
+  },
+  {
+   "ts": "2026-11-25T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Windows Loudness Equalization, reverse-engineered and ported",
+   "body": "Hacker News · 점수 299",
+   "link": "https://github.com/xoxorwr/pw-loudness-eq",
+   "source": "Hacker News",
+   "id": "community:https://github.com/xoxorwr/pw-loudness-eq:2026-11-25T23:49"
+  },
+  {
+   "ts": "2026-11-25T23:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Smart people who give a shit use tools",
+   "body": "Hacker News · 점수 243",
+   "link": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+   "source": "Hacker News",
+   "id": "community:https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools:2026-11-25T23:49"
+  },
   {
    "ts": "2026-11-25T23:19:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-136267",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136267:2026-11-25T17:19"
-  },
-  {
-   "ts": "2026-11-25T17:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135133 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-135133 📢 Source: mongodb 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False An invalid memory release in the MongoDB PHP Driver extension occurs when certain string-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135133",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135133:2026-11-25T17:19"
-  },
-  {
-   "ts": "2026-11-25T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-62154 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-62154 📢 Source: EDB 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False During IMPORT FOREIGN SCHEMA, mysql_fdw copies column metadata returned by the remote MySQL se",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-62154",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-62154:2026-11-25T16:49"
-  },
-  {
-   "ts": "2026-11-25T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136329 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-136329 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in the file-gif-load plugin in GIMP. When processing a specially crafted ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136329",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136329:2026-11-25T16:49"
-  },
-  {
-   "ts": "2026-11-25T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135228 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-135228 📢 Source: mongodb 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True A vulnerability in the MongoDB integration package for the Laravel framework allows an una",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135228",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135228:2026-11-25T16:49"
-  },
-  {
-   "ts": "2026-11-25T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135147 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-135147 📢 Source: mongodb 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True A data-query neutralization weakness in the query builder of the MongoDB integration for a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135147",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135147:2026-11-25T16:49"
   }
  ]
 }
