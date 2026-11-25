@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-25T17:19:10+00:00",
+ "generated_at": "2026-11-25T17:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135227 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-135227 📢 Source: mongodb 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True An improper restriction of dynamically determined object attributes in the object-document",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135227",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135227:2026-11-25T17:49"
+  },
+  {
+   "ts": "2026-11-25T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81412 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-81412 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Nmap before 7.992 contains an excessive memory allocation vulnerability in the unmarshall",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81412",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81412:2026-11-25T17:49"
+  },
+  {
+   "ts": "2026-11-25T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81411 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-81411 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Nmap before 7.992 contains an infinite loop vulnerability in the ConfCreateResponse GCC b",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81411",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81411:2026-11-25T17:49"
+  },
+  {
+   "ts": "2026-11-25T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81408 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-81408 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Nmap before 7.992 contains a loop with an unreachable exit condition in the parameter-lis",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81408",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81408:2026-11-25T17:49"
+  },
+  {
+   "ts": "2026-11-25T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81406 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-81406 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Nmap before 7.992 contains an uncontrolled resource consumption vulnerability in the read",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81406",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81406:2026-11-25T17:49"
+  },
+  {
+   "ts": "2026-11-25T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-81405 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-81405 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Nmap before 7.992 contains an uncontrolled resource consumption vulnerability in the Comm",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-81405",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81405:2026-11-25T17:49"
+  },
   {
    "ts": "2026-11-25T17:19:07+00:00",
    "level": "general",
@@ -441,66 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-135937",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135937:2026-11-25T11:19"
-  },
-  {
-   "ts": "2026-11-25T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135932 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-135932 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in WP ManageNinja LLC FluentBoards flue",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135932",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135932:2026-11-25T11:19"
-  },
-  {
-   "ts": "2026-11-25T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133738 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-133738 📢 Source: INCIBE 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Vulnerability involving the exposure of sensitive information in the ver_usuarios endpoint.",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133738",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133738:2026-11-25T11:19"
-  },
-  {
-   "ts": "2026-11-25T11:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-133335 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-133335 📢 Source: Joomla 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - virtuemart.net - Unauthenticated local file inclusion leading to rem",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133335",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133335:2026-11-25T11:19"
-  },
-  {
-   "ts": "2026-11-25T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133334 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-133334 📢 Source: Joomla 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - virtuemart.net - Cross-product paid file download in Download Simple plu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133334",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133334:2026-11-25T11:19"
-  },
-  {
-   "ts": "2026-11-25T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133333 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-133333 📢 Source: Joomla 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - virtuemart.net - Unpaid order confirmation via PayPal Checkout order com",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133333",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133333:2026-11-25T11:19"
-  },
-  {
-   "ts": "2026-11-25T11:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-105609 (CVSS 8.3)",
-   "body": "🚨 CVE-2026-105609 📢 Source: eclipse 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True In Eclipse Che versions 7.61.0 through 7.124.0 three related defects in the SCM-OAuth flow",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105609",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105609:2026-11-25T11:19"
   }
  ]
 }
