@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-11-25T22:19:08+00:00",
+ "generated_at": "2026-11-25T22:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-25T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133979 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-133979 📢 Source: hpe 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Improper certificate validation vulnerabilities in the web-based management interface of HPE N",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133979",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133979:2026-11-25T22:49"
+  },
+  {
+   "ts": "2026-11-25T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133978 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-133978 📢 Source: hpe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A command injection vulnerability exists in the web-based management interface of HPE Networki",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133978",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133978:2026-11-25T22:49"
+  },
+  {
+   "ts": "2026-11-25T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133977 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-133977 📢 Source: hpe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A sensitive information disclosure vulnerability exists in the affected interface of HPE Netwo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133977",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133977:2026-11-25T22:49"
+  },
+  {
+   "ts": "2026-11-25T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133976 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-133976 📢 Source: hpe 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A missing integrity verification vulnerability exists in HPE Networking Management Software (",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133976",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133976:2026-11-25T22:49"
+  },
+  {
+   "ts": "2026-11-25T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133975 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-133975 📢 Source: hpe 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Authenticated SQL injection vulnerabilities in the web-based management interface and API of H",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133975",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133975:2026-11-25T22:49"
+  },
+  {
+   "ts": "2026-11-25T22:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133974 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-133974 📢 Source: hpe 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A vulnerability in a system functionality could allow a low-privilege authenticated attacker w",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133974",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133974:2026-11-25T22:49"
+  },
+  {
+   "ts": "2026-11-25T22:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-133973 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-133973 📢 Source: hpe 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A command injection vulnerability exists in the web-based management interface of HPE Netw",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133973",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133973:2026-11-25T22:49"
+  },
+  {
+   "ts": "2026-11-25T22:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-133972 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-133972 📢 Source: hpe 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in system functionality could allow an attacker with network access to byp",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133972",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133972:2026-11-25T22:49"
+  },
+  {
+   "ts": "2026-11-25T22:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-133971 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-133971 📢 Source: hpe 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True An authentication bypass vulnerability exists in the web management interface of HPE Netwo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133971",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133971:2026-11-25T22:49"
+  },
   {
    "ts": "2026-11-25T22:19:07+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-136910",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136910:2026-11-25T15:19"
-  },
-  {
-   "ts": "2026-11-25T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136908 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-136908 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True libyang through 6.4.13 contains a release of invalid pointer vulnerability in ly_in_memo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136908",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136908:2026-11-25T15:19"
-  },
-  {
-   "ts": "2026-11-25T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136904 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-136904 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True POCO C++ Libraries through 1.15.4 contain a denial of service vulnerability in Inflating",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136904",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136904:2026-11-25T15:19"
-  },
-  {
-   "ts": "2026-11-25T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134945 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-134945 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Brainstorm Force SureForms sureforms",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134945",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134945:2026-11-25T14:49"
-  },
-  {
-   "ts": "2026-11-25T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134873 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-134873 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in Brainstorm Force CartFlows cartflows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134873",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134873:2026-11-25T14:49"
-  },
-  {
-   "ts": "2026-11-25T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-114347 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-114347 📢 Source: CERT-PL 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True The phsuperpack module for PrestaShop is vulnerable to SQL injection in the /module/phsupe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114347",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114347:2026-11-25T14:49"
-  },
-  {
-   "ts": "2026-11-25T14:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-114346 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-114346 📢 Source: CERT-PL 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True The phsuperpack module for PrestaShop is vulnerable to a missing authorization check. ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114346",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114346:2026-11-25T14:49"
-  },
-  {
-   "ts": "2026-11-25T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135985 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-135985 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Cross-Site Request Forgery (CSRF) vulnerability in John-Michael L'Allier Create mediavi",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135985",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135985:2026-11-25T14:49"
-  },
-  {
-   "ts": "2026-11-25T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133742 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-133742 📢 Source: ProgressSoftware 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Incorrect permission assignment for critical resource in the media management fun",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133742",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133742:2026-11-25T14:49"
-  },
-  {
-   "ts": "2026-11-25T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136862 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-136862 📢 Source: eclipse 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True In Eclipse Apoapsis ORT Server Credential Helper versions 0.1.0 to 0.2.0, as shipped with Ec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136862",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136862:2026-11-25T14:49"
   }
  ]
 }
