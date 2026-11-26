@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-26T01:19:07+00:00",
+ "generated_at": "2026-11-26T01:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-26T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137309 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-137309 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Friendica through 2026.05-1 contains an incorrect authorization vulnerability in item_ed",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137309",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137309:2026-11-26T01:49"
+  },
+  {
+   "ts": "2026-11-26T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137308 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-137308 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True markdownify-mcp before 1.2.0 contains a server-side request forgery vulnerability that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137308",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137308:2026-11-26T01:49"
+  },
+  {
+   "ts": "2026-11-26T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137306 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-137306 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Grav Admin plugin before 1.10.65 contains a password reset poisoning vulnerability in Lo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137306",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137306:2026-11-26T01:49"
+  },
+  {
+   "ts": "2026-11-26T01:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137305 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-137305 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Grav Form plugin before 9.2.4 contains a code injection vulnerability that allows page a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137305",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137305:2026-11-26T01:49"
+  },
   {
    "ts": "2026-11-26T00:49:07+00:00",
    "level": "general",
@@ -461,46 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137056",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137056:2026-11-25T19:49"
-  },
-  {
-   "ts": "2026-11-25T19:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135486 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-135486 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Munshi (by Petpooja) before 2026-07-07 contained a broken object level authorization vul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135486",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135486:2026-11-25T19:19"
-  },
-  {
-   "ts": "2026-11-25T18:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-77230 (CVSS 9.2)",
-   "body": "🚨 CVE-2026-77230 📢 Source: VulnCheck 💣 CVSS Score: 9.2 (CRITICAL) 📡 Remotely Exploitable: True Camunda 8.8.0 before 8.8.47, 8.9.0 before 8.9.29, 8.10.0 before 8.10.10, and 8.11.0-a",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-77230",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-77230:2026-11-25T18:49"
-  },
-  {
-   "ts": "2026-11-25T18:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135898 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-135898 📢 Source: mongodb 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True An out-of-bounds read in the native C BSON decoding extension of the MongoDB Python Driver",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135898",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135898:2026-11-25T18:19"
-  },
-  {
-   "ts": "2026-11-25T18:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-135146 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-135146 📢 Source: mongodb 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True An improper certificate revocation check in the MongoDB Python Driver's optional TLS r",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135146",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135146:2026-11-25T18:19"
   }
  ]
 }
