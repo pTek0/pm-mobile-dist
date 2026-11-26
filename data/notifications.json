@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-11-26T23:19:07+00:00",
+ "generated_at": "2026-11-26T23:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-26T23:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-127163 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-127163 📢 Source: canonical 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Improper certificate validation in websocket connections in Canonical pylxd before 2",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127163",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127163:2026-11-26T23:49"
+  },
+  {
+   "ts": "2026-11-26T23:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127162 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-127162 📢 Source: canonical 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper output encoding in Prometheus metrics exposition in Canonical LXD before 5.0.12",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127162",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127162:2026-11-26T23:49"
+  },
+  {
+   "ts": "2026-11-26T23:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-114454 (CVSS 7.2)",
+   "body": "🚨 CVE-2026-114454 📢 Source: canonical 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Path traversal in TPM device management in Canonical LXD from 4.8 before 5.0.12, 5.21.10",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-114454",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-114454:2026-11-26T23:49"
+  },
+  {
+   "ts": "2026-11-26T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] A new study has found that the largest U.S. data centers use",
+   "body": "Lemmy · technology · 점수 271",
+   "link": "https://newsroom.ucla.edu/stories/these-u-s-data-centers-use-four-times-the-power-used-in-la",
+   "source": "Lemmy · technology",
+   "id": "community:https://newsroom.ucla.edu/stories/these-u-s-data-centers-use-four-times-the-power-used-in-la:2026-11-26T23:49"
+  },
+  {
+   "ts": "2026-11-26T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Lions' Commentary on Unix: Why It Was Secretly Copied for 20",
+   "body": "Hacker News · 점수 267",
+   "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+   "source": "Hacker News",
+   "id": "community:https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/:2026-11-26T23:49"
+  },
+  {
+   "ts": "2026-11-26T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] No more heated seat subscriptions for cars in New York from ",
+   "body": "Lemmy · technology · 점수 263",
+   "link": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
+   "source": "Lemmy · technology",
+   "id": "community:https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/:2026-11-26T23:49"
+  },
+  {
+   "ts": "2026-11-26T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] AMD-specific fork of llama.cpp",
+   "body": "Hacker News · 점수 247",
+   "link": "https://devnull.land/amd-specific-llama-cpp",
+   "source": "Hacker News",
+   "id": "community:https://devnull.land/amd-specific-llama-cpp:2026-11-26T23:49"
+  },
+  {
+   "ts": "2026-11-26T23:49:06+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Moat: OpenRouter replacement",
+   "body": "Hacker News · 점수 236",
+   "link": "https://commandcode.ai/moat",
+   "source": "Hacker News",
+   "id": "community:https://commandcode.ai/moat:2026-11-26T23:49"
+  },
   {
    "ts": "2026-11-26T23:19:06+00:00",
    "level": "general",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137458",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137458:2026-11-26T16:19"
-  },
-  {
-   "ts": "2026-11-26T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137457 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-137457 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.0.0 before 3.33.0 contains a missing authentication vulnerability in the ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137457",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137457:2026-11-26T16:19"
-  },
-  {
-   "ts": "2026-11-26T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137456 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-137456 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.33.0 contains an integer overflow in the client GDI handling of accumul",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137456",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137456:2026-11-26T16:19"
-  },
-  {
-   "ts": "2026-11-26T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137455 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-137455 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The FreeRDP proxy in FreeRDP before 3.33.0 dereferences a NULL backend client context in",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137455",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137455:2026-11-26T16:19"
-  },
-  {
-   "ts": "2026-11-26T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137453 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-137453 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.33.0 contains a credential disclosure vulnerability that allows malicio",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137453",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137453:2026-11-26T16:19"
-  },
-  {
-   "ts": "2026-11-26T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137452 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-137452 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.33.0 contains a race condition in asynchronous RDPDR IRP processing tha",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137452",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137452:2026-11-26T16:19"
-  },
-  {
-   "ts": "2026-11-26T15:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135035 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-135035 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135035",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135035:2026-11-26T15:19"
-  },
-  {
-   "ts": "2026-11-26T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135005 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-135005 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135005",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135005:2026-11-26T14:19"
-  },
-  {
-   "ts": "2026-11-26T14:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134711 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-134711 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134711",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134711:2026-11-26T14:19"
   }
  ]
 }
