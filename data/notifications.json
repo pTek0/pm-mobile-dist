@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-26T16:49:08+00:00",
+ "generated_at": "2026-11-26T17:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-26T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135280 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-135280 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False @fastify /express is the plugin that lets an application run Express middleware and Expres",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135280",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135280:2026-11-26T17:19"
+  },
+  {
+   "ts": "2026-11-26T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135270 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-135270 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False @fastify /express is the plugin that lets an application run Express middleware and Expres",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135270",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135270:2026-11-26T17:19"
+  },
+  {
+   "ts": "2026-11-26T17:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-135279 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-135279 📢 Source: openjs 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False @fastify /express is the plugin that lets an application run Express middleware and Ex",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135279",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135279:2026-11-26T17:19"
+  },
+  {
+   "ts": "2026-11-26T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135264 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-135264 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False @fastify /express is the plugin that lets an application run Express middleware and Expres",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135264",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135264:2026-11-26T17:19"
+  },
+  {
+   "ts": "2026-11-26T17:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135230 (CVSS 7.4)",
+   "body": "🚨 CVE-2026-135230 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False @fastify /express is the plugin that lets an application run Express middleware and Expres",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135230",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135230:2026-11-26T17:19"
+  },
   {
    "ts": "2026-11-26T16:49:07+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124839",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124839:2026-11-26T13:19"
-  },
-  {
-   "ts": "2026-11-26T13:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124838 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-124838 📢 Source: NCSC.ch 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False SEPPmail Secure Email Gateway before 15.1.2 exposes an unauthenticated, world-writable lo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124838",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124838:2026-11-26T13:19"
-  },
-  {
-   "ts": "2026-11-26T13:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124756 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-124756 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Allocation of Resources Without Limits or Throttling vulnerability in Takashi Kitajima ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124756",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124756:2026-11-26T13:19"
-  },
-  {
-   "ts": "2026-11-26T13:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-124266 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-124266 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Arraytics WP Event Solution wp-event",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-124266",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-124266:2026-11-26T13:19"
-  },
-  {
-   "ts": "2026-11-26T13:19:08+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-111846 (CVSS 7.2)",
-   "body": "🚨 CVE-2026-111846 📢 Source: Patchstack 💣 CVSS Score: 7.2 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in WPExperts NOWPayments for WooCommerce nowpayment",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-111846",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-111846:2026-11-26T13:19"
-  },
-  {
-   "ts": "2026-11-26T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Anthropic Created a Honeypot to Lure AI Agents Into Misbehav",
-   "body": "Lemmy · technology · 점수 56",
-   "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/:2026-11-26T12:19"
   }
  ]
 }
