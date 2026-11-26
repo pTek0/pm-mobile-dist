@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-26T13:19:08+00:00",
+ "generated_at": "2026-11-26T13:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136760 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-136760 📢 Source: CODRA 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True When authenticating through the Web HMI or Desktop HMI with POSIX LDAP, an attacker can bypa",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136760",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136760:2026-11-26T13:49"
+  },
+  {
+   "ts": "2026-11-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137578 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-137578 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FacturaONE para WooCommerce con VeriFactu before 5.61 contains an authenticated SQL inje",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137578",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137578:2026-11-26T13:49"
+  },
+  {
+   "ts": "2026-11-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137577 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-137577 📢 Source: VulnCheck 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Iceburg CRM through 5.0.0 contains an authorization bypass vulnerability that allows aut",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137577",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137577:2026-11-26T13:49"
+  },
+  {
+   "ts": "2026-11-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137568 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-137568 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True openFrameworks through 0.12.1 contains a path traversal vulnerability in the ofxAndroid ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137568",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137568:2026-11-26T13:49"
+  },
+  {
+   "ts": "2026-11-26T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-137567 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-137567 📢 Source: VulnCheck 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True llama.cpp b11450 before b12658 contains an out-of-bounds write vulnerability in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137567",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137567:2026-11-26T13:49"
+  },
+  {
+   "ts": "2026-11-26T13:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137566 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-137566 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Argo Workflows 3.0.0 through 3.7.18, 4.0.0 before 4.0.12, and 4.1.0 before 4.1.4 contain",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137566",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137566:2026-11-26T13:49"
+  },
+  {
+   "ts": "2026-11-26T13:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-130637 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-130637 📢 Source: NCSC.ch 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True SEPPMAIL Secure E-Mail Gateway versions before 15.1.2 are affected by a pre-authentica",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-130637",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-130637:2026-11-26T13:49"
+  },
   {
    "ts": "2026-11-26T13:19:08+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-135772",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135772:2026-11-26T08:19"
-  },
-  {
-   "ts": "2026-11-26T07:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133338 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-133338 📢 Source: Joomla 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - chronoengine.com - Unauthenticated stored XSS in DB Table cells in Chron",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133338",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133338:2026-11-26T07:49"
-  },
-  {
-   "ts": "2026-11-26T07:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133337 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-133337 📢 Source: Joomla 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - chronoengine.com - Unauthenticated SQL injection in table sorting in Chr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133337",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133337:2026-11-26T07:49"
-  },
-  {
-   "ts": "2026-11-26T07:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-133336 (CVSS 9.5)",
-   "body": "🚨 CVE-2026-133336 📢 Source: Joomla 💣 CVSS Score: 9.5 (CRITICAL) 📡 Remotely Exploitable: True Joomla Extension - chronoengine.com - Unauthenticated arbitrary file upload in ChronoFo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133336",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133336:2026-11-26T07:49"
-  },
-  {
-   "ts": "2026-11-26T07:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2017-20291 (CVSS 8.7)",
-   "body": "🚨 CVE-2017-20291 📢 Source: symantec 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True An XML External Entity (XXE) injection vulnerability in the Federation Web Services compon",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2017-20291",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2017-20291:2026-11-26T07:19"
-  },
-  {
-   "ts": "2026-11-26T03:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123689 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-123689 📢 Source: TXOne 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True A SQL injection vulnerability exists in the Search Agents API of StellarOne due to improper ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123689",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123689:2026-11-26T03:49"
-  },
-  {
-   "ts": "2026-11-26T03:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123687 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-123687 📢 Source: TXOne 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True An arbitrary file write vulnerability exists in the patch upload functionality of StellarOne",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123687",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123687:2026-11-26T03:19"
-  },
-  {
-   "ts": "2026-11-26T03:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123686 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-123686 📢 Source: TXOne 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False An OS command injection vulnerability exists in the vShell command-line interface of Stella",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123686",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123686:2026-11-26T03:19"
   }
  ]
 }
