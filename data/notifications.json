@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-26T08:19:08+00:00",
+ "generated_at": "2026-11-26T08:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-26T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137390 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-137390 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Mail2000 developed by Openfind has an OS Command Injection vulnerability.Authenticated remo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137390",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137390:2026-11-26T08:49"
+  },
+  {
+   "ts": "2026-11-26T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137389 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-137389 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True MailGates/MailAudit developed by Openfind has a Command Injection vulnerability.Authenticat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137389",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137389:2026-11-26T08:49"
+  },
+  {
+   "ts": "2026-11-26T08:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-133339 (CVSS 8.6)",
+   "body": "🚨 CVE-2026-133339 📢 Source: Joomla 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Joomla Extension - vi-solutions - SQL injection via form IDs in administrative form export ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133339",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133339:2026-11-26T08:49"
+  },
   {
    "ts": "2026-11-26T08:19:07+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-133971",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133971:2026-11-25T22:49"
-  },
-  {
-   "ts": "2026-11-25T22:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-66052 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-66052 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Comviva Revenue Plus (MobiLytix Customer Value Management) 3.0.0 contains an expression l",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-66052",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-66052:2026-11-25T22:19"
-  },
-  {
-   "ts": "2026-11-25T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-69695 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-69695 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Handesk through 1.5 contains an unrestricted file upload vulnerability in Attachment::sto",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-69695",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-69695:2026-11-25T21:49"
-  },
-  {
-   "ts": "2026-11-25T21:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133445 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-133445 📢 Source: canonical 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False In gdm3 before 51.2, an improper privilege management vulnerability allows an unprivile",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133445",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133445:2026-11-25T21:49"
   }
  ]
 }
