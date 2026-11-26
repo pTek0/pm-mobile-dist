@@ -1,7 +1,167 @@
 {
- "generated_at": "2026-11-26T15:49:09+00:00",
+ "generated_at": "2026-11-26T16:19:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-137471 (CVSS 9.0)",
+   "body": "🚨 CVE-2026-137471 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before 3.8.10 contains a cross-site scripting vulnerability where WebDAV sync e",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137471",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137471:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137470 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-137470 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SiYuan before 3.8.11 contains a stored cross-site scripting vulnerability that allows at",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137470",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137470:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137469 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-137469 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True SiYuan 3.7.0 before 3.8.11 contains a DOM-based cross-site scripting vulnerability in th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137469",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137469:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137467 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-137467 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan before 3.8.11 uses DejaVu sync code that accepts a non-hexadecimal 40-byte remote",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137467",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137467:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137466 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-137466 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Parse Server before 9.12.0-alpha.2 matches $in, $nin, $all and $containedBy constraints ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137466",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137466:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-137465 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-137465 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Parse Server 3.10.0 before 8.6.123 and 9.0.0 before 9.11.1-alpha.4 contains an authe",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137465",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137465:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-137463 (CVSS 9.1)",
+   "body": "🚨 CVE-2026-137463 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True HKUDS nanobot from 0.1.4 before 0.4.1 contains an improper certificate validation vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137463",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137463:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137462 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-137462 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.33.0 contains a heap out-of-bounds read in WinPR's save_png_to_buffer()",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137462",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137462:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137460 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-137460 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.10.0 before 3.33.0 contains an invalid free vulnerability in rdg.c becaus",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137460",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137460:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137459 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-137459 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP 2.11.2 before 3.33.0 contains unbounded resource consumption in the Progressive ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137459",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137459:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137458 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-137458 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.0.0 before 3.33.0 contains a reachable assertion in remdesk_server_thread",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137458",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137458:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137457 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-137457 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP from 3.0.0 before 3.33.0 contains a missing authentication vulnerability in the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137457",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137457:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137456 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-137456 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.33.0 contains an integer overflow in the client GDI handling of accumul",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137456",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137456:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137455 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-137455 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True The FreeRDP proxy in FreeRDP before 3.33.0 dereferences a NULL backend client context in",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137455",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137455:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137453 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-137453 📢 Source: VulnCheck 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.33.0 contains a credential disclosure vulnerability that allows malicio",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137453",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137453:2026-11-26T16:19"
+  },
+  {
+   "ts": "2026-11-26T16:19:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137452 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-137452 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True FreeRDP before 3.33.0 contains a race condition in asynchronous RDPDR IRP processing tha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137452",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137452:2026-11-26T16:19"
+  },
   {
    "ts": "2026-11-26T15:19:07+00:00",
    "level": "general",
@@ -341,166 +501,6 @@
    "link": "https://lemmy.world/pictrs/image/4986088a-999a-4cae-88fc-b84ef37cb1df.jpeg",
    "source": "Lemmy · programming.dev",
    "id": "community:https://lemmy.world/pictrs/image/4986088a-999a-4cae-88fc-b84ef37cb1df.jpeg:2026-11-26T12:19"
-  },
-  {
-   "ts": "2026-11-26T12:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Optimizing Rustc's next trait solver",
-   "body": "Lobsters · 점수 52",
-   "link": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
-   "source": "Lobsters",
-   "id": "community:https://donsz.nl/blog/optimizing-rustcs-next-trait-solver:2026-11-26T12:19"
-  },
-  {
-   "ts": "2026-11-26T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] SSH is a GUI framework",
-   "body": "Hacker News · 점수 200",
-   "link": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
-   "source": "Hacker News",
-   "id": "community:https://zydra.sh/articles/ssh-is-a-gui-framework/:2026-11-26T11:49"
-  },
-  {
-   "ts": "2026-11-26T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] This is a collection of preserved UI style guides a.k.a. int",
-   "body": "Lemmy · technology · 점수 177",
-   "link": "https://aresluna.org/ui-style-guides/",
-   "source": "Lemmy · technology",
-   "id": "community:https://aresluna.org/ui-style-guides/:2026-11-26T11:49"
-  },
-  {
-   "ts": "2026-11-26T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GTA 6 Publisher Furious as Reverse Engineers Get It Running ",
-   "body": "Lemmy · technology · 점수 153",
-   "link": "https://futurism.com/future-society/gta-6-publisher-furious-reverse-engineers-pc",
-   "source": "Lemmy · technology",
-   "id": "community:https://futurism.com/future-society/gta-6-publisher-furious-reverse-engineers-pc:2026-11-26T11:49"
-  },
-  {
-   "ts": "2026-11-26T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Japan's data centre boom faces growing revolt from urban res",
-   "body": "Lemmy · technology · 점수 76",
-   "link": "https://www.reuters.com/sustainability/society-equity/japans-data-centre-boom-faces-growing-revolt-urban-residents-2026-11-25/",
-   "source": "Lemmy · technology",
-   "id": "community:https://www.reuters.com/sustainability/society-equity/japans-data-centre-boom-faces-growing-revolt-urban-residents-2026-11-25/:2026-11-26T11:49"
-  },
-  {
-   "ts": "2026-11-26T11:49:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Slow Ubuntu security response times",
-   "body": "Lobsters · 점수 71",
-   "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-   "source": "Lobsters",
-   "id": "community:https://www.openwall.com/lists/oss-security/2026/11/25/9:2026-11-26T11:49"
-  },
-  {
-   "ts": "2026-11-26T11:19:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-135203 (CVSS 9.4)",
-   "body": "🚨 CVE-2026-135203 📢 Source: eclipse 💣 CVSS Score: 9.4 (CRITICAL) 📡 Remotely Exploitable: True In Eclipse Ditto versions 0.3.0-M1 through 3.8.15 and 3.9.0 through 3.9.9, the JavaScr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135203",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135203:2026-11-26T11:19"
-  },
-  {
-   "ts": "2026-11-26T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Much shorter version of GRH Lean verification from Anthropic",
-   "body": "Hacker News · 점수 464",
-   "link": "https://github.com/lsernau/grh-lean",
-   "source": "Hacker News",
-   "id": "community:https://github.com/lsernau/grh-lean:2026-11-26T11:19"
-  },
-  {
-   "ts": "2026-11-26T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] The New York Times warns photographers not to update Photosh",
-   "body": "Hacker News · 점수 402",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-   "source": "Hacker News",
-   "id": "community:https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features:2026-11-26T11:19"
-  },
-  {
-   "ts": "2026-11-26T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] GPT-6.2 Astra is the first model to beat Googlers' code golf",
-   "body": "Hacker News · 점수 385",
-   "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-   "source": "Hacker News",
-   "id": "community:https://bjin.github.io/go-codegolf-benchmark/#leaderboard:2026-11-26T11:19"
-  },
-  {
-   "ts": "2026-11-26T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Tell HN: Lots of Ask HNs again",
-   "body": "Hacker News · 점수 278",
-   "link": "https://news.ycombinator.com/item?id=50649864",
-   "source": "Hacker News",
-   "id": "community:https://news.ycombinator.com/item?id=50649864:2026-11-26T11:19"
-  },
-  {
-   "ts": "2026-11-26T11:19:08+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol",
-   "body": "Hacker News · 점수 265",
-   "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
-   "source": "Hacker News",
-   "id": "community:https://twitter.com/thsottiaux/status/2125784147889393806:2026-11-26T11:19"
-  },
-  {
-   "ts": "2026-11-26T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123913 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-123913 📢 Source: vmware 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False VMware ESX contains a stack-based buffer-overflow vulnerability in the VMkernel. Broadcom ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123913",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123913:2026-11-26T10:49"
-  },
-  {
-   "ts": "2026-11-26T10:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-123912 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-123912 📢 Source: vmware 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False VMware ESXi, Workstation, and Fusion contain an out-of-bounds write vulnerability in t",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123912",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123912:2026-11-26T10:49"
-  },
-  {
-   "ts": "2026-11-26T10:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-123911 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-123911 📢 Source: vmware 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ESX contains a use-after-free vulnerability in the I/O filter service. Broadcom has eva",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123911",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123911:2026-11-26T10:49"
-  },
-  {
-   "ts": "2026-11-26T10:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-123910 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-123910 📢 Source: vmware 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ESX contains a heap out-of-bounds write vulnerability in the I/O filter service. Broadc",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123910",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123910:2026-11-26T10:49"
   }
  ]
 }
