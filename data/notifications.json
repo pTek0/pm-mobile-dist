@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-11-26T10:19:08+00:00",
+ "generated_at": "2026-11-26T10:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-26T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123913 (CVSS 8.2)",
+   "body": "🚨 CVE-2026-123913 📢 Source: vmware 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: False VMware ESX contains a stack-based buffer-overflow vulnerability in the VMkernel. Broadcom ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123913",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123913:2026-11-26T10:49"
+  },
+  {
+   "ts": "2026-11-26T10:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-123912 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-123912 📢 Source: vmware 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False VMware ESXi, Workstation, and Fusion contain an out-of-bounds write vulnerability in t",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123912",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123912:2026-11-26T10:49"
+  },
+  {
+   "ts": "2026-11-26T10:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-123911 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-123911 📢 Source: vmware 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ESX contains a use-after-free vulnerability in the I/O filter service. Broadcom has eva",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123911",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123911:2026-11-26T10:49"
+  },
+  {
+   "ts": "2026-11-26T10:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-123910 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-123910 📢 Source: vmware 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True ESX contains a heap out-of-bounds write vulnerability in the I/O filter service. Broadc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123910",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123910:2026-11-26T10:49"
+  },
+  {
+   "ts": "2026-11-26T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123907 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-123907 📢 Source: vmware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True VMware vCenter contains multiple denial-of-service vulnerabilities in the VMware Directory ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123907",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123907:2026-11-26T10:49"
+  },
+  {
+   "ts": "2026-11-26T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123906 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-123906 📢 Source: vmware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True VMware vCenter contains multiple denial-of-service vulnerabilities in the VMware Directory ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123906",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123906:2026-11-26T10:49"
+  },
+  {
+   "ts": "2026-11-26T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123905 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-123905 📢 Source: vmware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True VMware vCenter contains multiple denial-of-service vulnerabilities in the VMware Directory ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123905",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123905:2026-11-26T10:49"
+  },
+  {
+   "ts": "2026-11-26T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-123904 (CVSS 7.5)",
+   "body": "🚨 CVE-2026-123904 📢 Source: vmware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True VMware vCenter contains an arbitrary file write vulnerability while processing certain arch",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123904",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123904:2026-11-26T10:49"
+  },
+  {
+   "ts": "2026-11-26T10:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-123903 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-123903 📢 Source: vmware 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True VMware vCenter contains an authentication bypass vulnerability in the VMware Directory ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123903",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123903:2026-11-26T10:49"
+  },
   {
    "ts": "2026-11-26T10:19:07+00:00",
    "level": "general",
@@ -411,96 +501,6 @@
    "link": "https://maccus.fr/en/new-york-ai-toy-ban/",
    "source": "Lemmy · technology",
    "id": "community:https://maccus.fr/en/new-york-ai-toy-ban/:2026-11-25T23:19"
-  },
-  {
-   "ts": "2026-11-25T23:19:07+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Rumors swirling that labs might have cracked Factoring in P",
-   "body": "Hacker News · 점수 436",
-   "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
-   "source": "Hacker News",
-   "id": "community:https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/:2026-11-25T23:19"
-  },
-  {
-   "ts": "2026-11-25T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133979 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-133979 📢 Source: hpe 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: True Improper certificate validation vulnerabilities in the web-based management interface of HPE N",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133979",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133979:2026-11-25T22:49"
-  },
-  {
-   "ts": "2026-11-25T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133978 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-133978 📢 Source: hpe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A command injection vulnerability exists in the web-based management interface of HPE Networki",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133978",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133978:2026-11-25T22:49"
-  },
-  {
-   "ts": "2026-11-25T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133977 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-133977 📢 Source: hpe 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True A sensitive information disclosure vulnerability exists in the affected interface of HPE Netwo",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133977",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133977:2026-11-25T22:49"
-  },
-  {
-   "ts": "2026-11-25T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133976 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-133976 📢 Source: hpe 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False A missing integrity verification vulnerability exists in HPE Networking Management Software (",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133976",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133976:2026-11-25T22:49"
-  },
-  {
-   "ts": "2026-11-25T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133975 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-133975 📢 Source: hpe 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Authenticated SQL injection vulnerabilities in the web-based management interface and API of H",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133975",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133975:2026-11-25T22:49"
-  },
-  {
-   "ts": "2026-11-25T22:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-133974 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-133974 📢 Source: hpe 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True A vulnerability in a system functionality could allow a low-privilege authenticated attacker w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133974",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133974:2026-11-25T22:49"
-  },
-  {
-   "ts": "2026-11-25T22:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-133973 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-133973 📢 Source: hpe 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A command injection vulnerability exists in the web-based management interface of HPE Netw",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133973",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133973:2026-11-25T22:49"
-  },
-  {
-   "ts": "2026-11-25T22:49:07+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-133972 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-133972 📢 Source: hpe 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in system functionality could allow an attacker with network access to byp",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-133972",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-133972:2026-11-25T22:49"
   }
  ]
 }
