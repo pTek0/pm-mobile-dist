@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-26T14:49:08+00:00",
+ "generated_at": "2026-11-26T15:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-26T15:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-135035 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-135035 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135035",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135035:2026-11-26T15:19"
+  },
   {
    "ts": "2026-11-26T14:19:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-123910",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123910:2026-11-26T10:49"
-  },
-  {
-   "ts": "2026-11-26T10:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-123907 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-123907 📢 Source: vmware 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True VMware vCenter contains multiple denial-of-service vulnerabilities in the VMware Directory ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-123907",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-123907:2026-11-26T10:49"
   }
  ]
 }
