@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-27T08:49:07+00:00",
+ "generated_at": "2026-11-27T09:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-27T09:19:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-59103 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-59103 📢 Source: ENISA 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True MONEO ERP exposes the Ping method of its _slave JSON-RPC service over WebSocket as @rpc.o",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-59103",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-59103:2026-11-27T09:19"
+  },
   {
    "ts": "2026-11-27T08:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137539",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137539:2026-11-26T20:19"
-  },
-  {
-   "ts": "2026-11-26T20:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137529 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-137529 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False JAL (Just Another Ledger) through 2026.11.3 contains an arbitrary file overwrite vulner",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137529",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137529:2026-11-26T20:19"
   }
  ]
 }
