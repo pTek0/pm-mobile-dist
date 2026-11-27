@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-27T10:19:07+00:00",
+ "generated_at": "2026-11-27T10:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-27T10:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-127118 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-127118 📢 Source: CERT-PL 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True RCDevs OpenOTP SMS integration connector does not validate the TLS certificate of the remo",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-127118",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-127118:2026-11-27T10:49"
+  },
   {
    "ts": "2026-11-27T09:49:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://github.com/intel/intel-one-mono",
    "source": "Hacker News",
    "id": "community:https://github.com/intel/intel-one-mono:2026-11-26T23:19"
-  },
-  {
-   "ts": "2026-11-26T23:19:06+00:00",
-   "level": "general",
-   "category": "community",
-   "title": "[인기] Nextcloud Office Desktop app",
-   "body": "Hacker News · 점수 386",
-   "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-   "source": "Hacker News",
-   "id": "community:https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/:2026-11-26T23:19"
   }
  ]
 }
