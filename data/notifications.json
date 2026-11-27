@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-27T20:19:08+00:00",
+ "generated_at": "2026-11-27T20:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-27T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137974 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-137974 📢 Source: redhat 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False A flaw was found in tuned. This vulnerability allows local privilege escalation because the ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137974",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137974:2026-11-27T20:49"
+  },
+  {
+   "ts": "2026-11-27T20:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137941 (CVSS 7.8)",
+   "body": "🚨 CVE-2026-137941 📢 Source: redhat 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False A flaw was found in GIMP. The Levels configuration setter does not validate the channel en",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137941",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137941:2026-11-27T20:49"
+  },
   {
    "ts": "2026-11-27T20:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85252",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85252:2026-11-27T14:49"
-  },
-  {
-   "ts": "2026-11-27T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80507 (CVSS 8.4)",
-   "body": "🚨 CVE-2026-80507 📢 Source: dell 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains a Heap-",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80507",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80507:2026-11-27T14:49"
-  },
-  {
-   "ts": "2026-11-27T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80505 (CVSS 7.3)",
-   "body": "🚨 CVE-2026-80505 📢 Source: dell 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Impr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80505",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80505:2026-11-27T14:49"
   }
  ]
 }
