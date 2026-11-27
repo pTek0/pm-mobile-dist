@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-27T02:19:07+00:00",
+ "generated_at": "2026-11-27T02:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-27T02:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-137706 (CVSS 9.9)",
+   "body": "🚨 CVE-2026-137706 📢 Source: twcert 💣 CVSS Score: 9.9 (CRITICAL) 📡 Remotely Exploitable: True Smart Portal developed by Direk Tech has a Missing Authorization vulnerability. Authent",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137706",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137706:2026-11-27T02:49"
+  },
+  {
+   "ts": "2026-11-27T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137705 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-137705 📢 Source: twcert 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True Smart Portal developed by Direk Tech has an Arbitrary File Read vulnerability.Unauthenticat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137705",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137705:2026-11-27T02:49"
+  },
+  {
+   "ts": "2026-11-27T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137704 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-137704 📢 Source: twcert 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False D-Link DWM-222W developed by D-Link Corporation has a Use of Hard-coded Credentials vulner",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137704",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137704:2026-11-27T02:49"
+  },
   {
    "ts": "2026-11-27T01:49:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137470",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137470:2026-11-26T16:19"
-  },
-  {
-   "ts": "2026-11-26T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137469 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-137469 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True SiYuan 3.7.0 before 3.8.11 contains a DOM-based cross-site scripting vulnerability in th",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137469",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137469:2026-11-26T16:19"
-  },
-  {
-   "ts": "2026-11-26T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137467 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-137467 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True SiYuan before 3.8.11 uses DejaVu sync code that accepts a non-hexadecimal 40-byte remote",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137467",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137467:2026-11-26T16:19"
-  },
-  {
-   "ts": "2026-11-26T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137466 (CVSS 8.2)",
-   "body": "🚨 CVE-2026-137466 📢 Source: VulnCheck 💣 CVSS Score: 8.2 (HIGH) 📡 Remotely Exploitable: True Parse Server before 9.12.0-alpha.2 matches $in, $nin, $all and $containedBy constraints ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137466",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137466:2026-11-26T16:19"
   }
  ]
 }
