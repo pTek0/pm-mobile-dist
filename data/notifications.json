@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-27T17:19:08+00:00",
+ "generated_at": "2026-11-27T17:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-27T17:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-132876 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-132876 📢 Source: adobe 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Dreamweaver Desktop is affected by a Dependency on Vulnerable Third-Party Component vulnera",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-132876",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-132876:2026-11-27T17:49"
+  },
   {
    "ts": "2026-11-27T16:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85258",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85258:2026-11-27T14:19"
-  },
-  {
-   "ts": "2026-11-27T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80500 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-80500 📢 Source: dell 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Impr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80500",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80500:2026-11-27T14:19"
   }
  ]
 }
