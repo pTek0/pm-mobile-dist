@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-11-27T05:19:07+00:00",
+ "generated_at": "2026-11-27T05:49:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-27T05:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-137724 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-137724 📢 Source: mitre 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in the Platform component of Mitel OpenScape 4000, and OpenScape 4000 Man",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137724",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137724:2026-11-27T05:49"
+  },
+  {
+   "ts": "2026-11-27T05:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-137723 (CVSS 9.6)",
+   "body": "🚨 CVE-2026-137723 📢 Source: mitre 💣 CVSS Score: 9.6 (CRITICAL) 📡 Remotely Exploitable: False A vulnerability in the Platform component of Mitel OpenScape 4000 and OpenScape 4000 Ma",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137723",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137723:2026-11-27T05:49"
+  },
+  {
+   "ts": "2026-11-27T05:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-137721 (CVSS 10.0)",
+   "body": "🚨 CVE-2026-137721 📢 Source: mitre 💣 CVSS Score: 10 (CRITICAL) 📡 Remotely Exploitable: True A vulnerability in the Platform component of Mitel OpenScape 4000 and OpenScape 4000 Mana",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137721",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137721:2026-11-27T05:49"
+  },
   {
    "ts": "2026-11-27T04:49:06+00:00",
    "level": "general",
@@ -471,36 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-134713",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134713:2026-11-26T18:49"
-  },
-  {
-   "ts": "2026-11-26T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134712 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-134712 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134712",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134712:2026-11-26T18:49"
-  },
-  {
-   "ts": "2026-11-26T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134488 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-134488 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Mamunur Rashid Radius Booking — Booking Calendar",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134488",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134488:2026-11-26T18:49"
-  },
-  {
-   "ts": "2026-11-26T18:49:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134470 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-134470 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134470",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134470:2026-11-26T18:49"
   }
  ]
 }
