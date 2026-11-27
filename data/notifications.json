@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-27T19:19:08+00:00",
+ "generated_at": "2026-11-27T19:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-27T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137898 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-137898 📢 Source: redhat 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False A flaw was found in pam. When built with libeconf and an unconfigured vendor directory, th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137898",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137898:2026-11-27T19:49"
+  },
+  {
+   "ts": "2026-11-27T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138034 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-138034 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True bigcommerce-api-mcp before 1.0.1 contains a missing authentication vulnerability that al",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138034",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138034:2026-11-27T19:49"
+  },
+  {
+   "ts": "2026-11-27T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138033 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-138033 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True mcp-video-analyzer 0.2.0 before 0.10.1 contains a server-side request forgery vulnerabilit",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138033",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138033:2026-11-27T19:49"
+  },
+  {
+   "ts": "2026-11-27T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138031 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-138031 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Typebot from 2.14.0 before 3.19.0 contains an authorization flaw that allows authenticat",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138031",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138031:2026-11-27T19:49"
+  },
+  {
+   "ts": "2026-11-27T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138028 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-138028 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Bagel (bagel-mcp) before 2.5.5 contains an argument injection vulnerability in RsyncFile",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138028",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138028:2026-11-27T19:49"
+  },
+  {
+   "ts": "2026-11-27T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138027 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-138027 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Bagel (bagel-mcp) before 2.5.5 exposes unsandboxed DuckDB SQL execution through the read",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138027",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138027:2026-11-27T19:49"
+  },
+  {
+   "ts": "2026-11-27T19:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138026 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-138026 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: True Crypto APIs MCP server packages ( @cryptoapis -io/mcp-*) before 0.4.0, mcp-blockchain-ev",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138026",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138026:2026-11-27T19:49"
+  },
   {
    "ts": "2026-11-27T18:49:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-4642",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4642:2026-11-27T14:49"
-  },
-  {
-   "ts": "2026-11-27T14:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-4641 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-4641 📢 Source: ABB 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: False Incorrect Authorization vulnerability in ABB Relion Protection Relays REX610, ABB Relion Protec",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-4641",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-4641:2026-11-27T14:49"
-  },
-  {
-   "ts": "2026-11-27T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135953 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-135953 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135953",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135953:2026-11-27T14:19"
-  },
-  {
-   "ts": "2026-11-27T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135923 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-135923 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135923",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135923:2026-11-27T14:19"
-  },
-  {
-   "ts": "2026-11-27T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135048 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-135048 📢 Source: Patchstack 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in weDevs WP ERP erp allows Privilege Esca",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135048",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135048:2026-11-27T14:19"
-  },
-  {
-   "ts": "2026-11-27T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135032 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-135032 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Missing Authorization vulnerability in Everest Forms Everest Forms everest-forms allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135032",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135032:2026-11-27T14:19"
-  },
-  {
-   "ts": "2026-11-27T14:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-135009 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-135009 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135009",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135009:2026-11-27T14:19"
-  },
-  {
-   "ts": "2026-11-27T14:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-134994 (CVSS 9.8)",
-   "body": "🚨 CVE-2026-134994 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Deserialization of Untrusted Data vulnerability in Nitramix Revertix – Backup, Migr",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134994",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134994:2026-11-27T14:19"
   }
  ]
 }
