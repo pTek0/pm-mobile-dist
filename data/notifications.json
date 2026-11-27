@@ -1,7 +1,87 @@
 {
- "generated_at": "2026-11-27T04:19:07+00:00",
+ "generated_at": "2026-11-27T04:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-27T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115288 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-115288 📢 Source: Hitachi 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Missing authentication vulnerability in BS2500/BS500 Virtage Firmware. This issue affects",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115288",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115288:2026-11-27T04:49"
+  },
+  {
+   "ts": "2026-11-27T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115287 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-115287 📢 Source: Hitachi 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False DoS vulnerability in BS2500/BS500 Virtage Firmware. This issue affects BladeSymphony BS25",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115287",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115287:2026-11-27T04:49"
+  },
+  {
+   "ts": "2026-11-27T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115286 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-115286 📢 Source: Hitachi 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False DoS vulnerability in BS2500/BS500 Virtage Firmware. This issue affects BladeSymphony BS25",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115286",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115286:2026-11-27T04:49"
+  },
+  {
+   "ts": "2026-11-27T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115285 (CVSS 7.6)",
+   "body": "🚨 CVE-2026-115285 📢 Source: Hitachi 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: False DoS vulnerability in BS2500/BS500 Virtage Firmware. This issue affects BladeSymphony BS25",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115285",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115285:2026-11-27T04:49"
+  },
+  {
+   "ts": "2026-11-27T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115284 (CVSS 8.4)",
+   "body": "🚨 CVE-2026-115284 📢 Source: Hitachi 💣 CVSS Score: 8.4 (HIGH) 📡 Remotely Exploitable: False Missing authentication vulnerability in BS2500/BS500 Virtage Firmware. This issue affects",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115284",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115284:2026-11-27T04:49"
+  },
+  {
+   "ts": "2026-11-27T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-115283 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-115283 📢 Source: Hitachi 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False Missing authentication vulnerability in BS2500/BS500 Virtage Firmware. This issue affects",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-115283",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-115283:2026-11-27T04:49"
+  },
+  {
+   "ts": "2026-11-27T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-105917 (CVSS 8.8)",
+   "body": "🚨 CVE-2026-105917 📢 Source: Hitachi 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: False File Permission Vulnerability in RV3000 Log Monitor for VMware. This issue affects RV3000",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-105917",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-105917:2026-11-27T04:49"
+  },
+  {
+   "ts": "2026-11-27T04:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137715 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-137715 📢 Source: mitre 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Webmin through 2.670 before 07d1949 does not escape a save_log.cgi log file path. This is re",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137715",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137715:2026-11-27T04:49"
+  },
   {
    "ts": "2026-11-27T02:49:06+00:00",
    "level": "important",
@@ -421,86 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-134470",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134470:2026-11-26T18:49"
-  },
-  {
-   "ts": "2026-11-26T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135280 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-135280 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False @fastify /express is the plugin that lets an application run Express middleware and Expres",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135280",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135280:2026-11-26T17:19"
-  },
-  {
-   "ts": "2026-11-26T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135270 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-135270 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False @fastify /express is the plugin that lets an application run Express middleware and Expres",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135270",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135270:2026-11-26T17:19"
-  },
-  {
-   "ts": "2026-11-26T17:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-135279 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-135279 📢 Source: openjs 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: False @fastify /express is the plugin that lets an application run Express middleware and Ex",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135279",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135279:2026-11-26T17:19"
-  },
-  {
-   "ts": "2026-11-26T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135264 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-135264 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False @fastify /express is the plugin that lets an application run Express middleware and Expres",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135264",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135264:2026-11-26T17:19"
-  },
-  {
-   "ts": "2026-11-26T17:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135230 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-135230 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False @fastify /express is the plugin that lets an application run Express middleware and Expres",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135230",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135230:2026-11-26T17:19"
-  },
-  {
-   "ts": "2026-11-26T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135205 (CVSS 7.4)",
-   "body": "🚨 CVE-2026-135205 📢 Source: openjs 💣 CVSS Score: 7.4 (HIGH) 📡 Remotely Exploitable: False @fastify /middie is the plugin that adds Express-style middleware support to the Fastify w",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135205",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135205:2026-11-26T16:49"
-  },
-  {
-   "ts": "2026-11-26T16:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-137471 (CVSS 9.0)",
-   "body": "🚨 CVE-2026-137471 📢 Source: VulnCheck 💣 CVSS Score: 9 (CRITICAL) 📡 Remotely Exploitable: True SiYuan before 3.8.10 contains a cross-site scripting vulnerability where WebDAV sync e",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137471",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137471:2026-11-26T16:19"
-  },
-  {
-   "ts": "2026-11-26T16:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137470 (CVSS 8.8)",
-   "body": "🚨 CVE-2026-137470 📢 Source: VulnCheck 💣 CVSS Score: 8.8 (HIGH) 📡 Remotely Exploitable: True SiYuan before 3.8.11 contains a stored cross-site scripting vulnerability that allows at",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137470",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137470:2026-11-26T16:19"
   }
  ]
 }
