@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-27T18:19:08+00:00",
+ "generated_at": "2026-11-27T18:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-27T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-134129 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-134129 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True smalot/pdfparser before 2.14.0 contains an inefficient algorithmic complexity vulnerabil",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134129",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134129:2026-11-27T18:49"
+  },
+  {
+   "ts": "2026-11-27T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136117 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-136117 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136117",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136117:2026-11-27T18:49"
+  },
+  {
+   "ts": "2026-11-27T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136116 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-136116 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136116",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136116:2026-11-27T18:49"
+  },
+  {
+   "ts": "2026-11-27T18:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-136115 (CVSS 9.8)",
+   "body": "🚨 CVE-2026-136115 📢 Source: Patchstack 💣 CVSS Score: 9.8 (CRITICAL) 📡 Remotely Exploitable: True Incorrect Privilege Assignment vulnerability in expresstechsoftware MemberPress Dis",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136115",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136115:2026-11-27T18:49"
+  },
+  {
+   "ts": "2026-11-27T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136114 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-136114 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136114",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136114:2026-11-27T18:49"
+  },
+  {
+   "ts": "2026-11-27T18:49:07+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-136113 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-136113 📢 Source: Patchstack 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136113",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136113:2026-11-27T18:49"
+  },
+  {
+   "ts": "2026-11-27T18:49:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-136112 (CVSS 7.1)",
+   "body": "🚨 CVE-2026-136112 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136112",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136112:2026-11-27T18:49"
+  },
   {
    "ts": "2026-11-27T17:49:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-134994",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134994:2026-11-27T14:19"
-  },
-  {
-   "ts": "2026-11-27T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134993 (CVSS 7.5)",
-   "body": "🚨 CVE-2026-134993 📢 Source: Patchstack 💣 CVSS Score: 7.5 (HIGH) 📡 Remotely Exploitable: True Path Traversal: '.../...//' vulnerability in Seraphinite Solutions Seraphinite Accelera",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134993",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134993:2026-11-27T14:19"
-  },
-  {
-   "ts": "2026-11-27T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134987 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-134987 📢 Source: Patchstack 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134987",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134987:2026-11-27T14:19"
-  },
-  {
-   "ts": "2026-11-27T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134983 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-134983 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134983",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134983:2026-11-27T14:19"
-  },
-  {
-   "ts": "2026-11-27T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134982 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-134982 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134982",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134982:2026-11-27T14:19"
-  },
-  {
-   "ts": "2026-11-27T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-134708 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-134708 📢 Source: Patchstack 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerab",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-134708",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-134708:2026-11-27T14:19"
-  },
-  {
-   "ts": "2026-11-27T14:19:06+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-80501 (CVSS 7.8)",
-   "body": "🚨 CVE-2026-80501 📢 Source: dell 💣 CVSS Score: 7.8 (HIGH) 📡 Remotely Exploitable: False Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Inco",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-80501",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-80501:2026-11-27T14:19"
-  },
-  {
-   "ts": "2026-11-27T14:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-85258 (CVSS 9.3)",
-   "body": "🚨 CVE-2026-85258 📢 Source: GoogleCloud 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: True A Missing Authorization vulnerability in the private console API in Google Cloud Ve",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-85258",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-85258:2026-11-27T14:19"
   }
  ]
 }
