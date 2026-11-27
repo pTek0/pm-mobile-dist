@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-27T01:19:07+00:00",
+ "generated_at": "2026-11-27T01:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-27T01:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-137702 (CVSS 8.1)",
+   "body": "🚨 CVE-2026-137702 📢 Source: mitre 💣 CVSS Score: 8.1 (HIGH) 📡 Remotely Exploitable: True Exim before 4.100.2 allows attackers to send SMTP traffic that triggers a heap out-of-bounds",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137702",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137702:2026-11-27T01:49"
+  },
   {
    "ts": "2026-11-27T00:19:06+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137466",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137466:2026-11-26T16:19"
-  },
-  {
-   "ts": "2026-11-26T16:19:06+00:00",
-   "level": "important",
-   "category": "security",
-   "title": "심각 CVE CVE-2026-137465 (CVSS 9.1)",
-   "body": "🚨 CVE-2026-137465 📢 Source: VulnCheck 💣 CVSS Score: 9.1 (CRITICAL) 📡 Remotely Exploitable: True Parse Server 3.10.0 before 8.6.123 and 9.0.0 before 9.11.1-alpha.4 contains an authe",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137465",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137465:2026-11-26T16:19"
   }
  ]
 }
