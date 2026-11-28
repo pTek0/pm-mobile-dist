@@ -1,7 +1,57 @@
 {
- "generated_at": "2026-11-28T10:49:08+00:00",
+ "generated_at": "2026-11-28T11:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-28T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Google's DeepCrossAttention achieves comparable model qualit",
+   "body": "Hacker News · 점수 412",
+   "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+   "source": "Hacker News",
+   "id": "community:https://research.google/blog/supercharging-transformer-residual-connections/:2026-11-28T11:19"
+  },
+  {
+   "ts": "2026-11-28T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Los Angeles schools block Google’s AI features, consider dro",
+   "body": "Lemmy · technology · 점수 393",
+   "link": "https://apnews.com/article/google-artificial-intelligence-schools-search-engine-lausd-762a613b11bd316384430112cc223ed1",
+   "source": "Lemmy · technology",
+   "id": "community:https://apnews.com/article/google-artificial-intelligence-schools-search-engine-lausd-762a613b11bd316384430112cc223ed1:2026-11-28T11:19"
+  },
+  {
+   "ts": "2026-11-28T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The Balatro Timeline",
+   "body": "Hacker News · 점수 382",
+   "link": "https://localthunk.com/blog/balatro-timeline-3aarh",
+   "source": "Hacker News",
+   "id": "community:https://localthunk.com/blog/balatro-timeline-3aarh:2026-11-28T11:19"
+  },
+  {
+   "ts": "2026-11-28T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] Unkernel: Real Linux kernel, compiled to WebAssembly",
+   "body": "Hacker News · 점수 337",
+   "link": "https://unkernel.dev",
+   "source": "Hacker News",
+   "id": "community:https://unkernel.dev:2026-11-28T11:19"
+  },
+  {
+   "ts": "2026-11-28T11:19:08+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] False computer-checked proofs",
+   "body": "Hacker News · 점수 230",
+   "link": "https://cr.yp.to/proofs/falseccp.html",
+   "source": "Hacker News",
+   "id": "community:https://cr.yp.to/proofs/falseccp.html:2026-11-28T11:19"
+  },
   {
    "ts": "2026-11-28T02:49:06+00:00",
    "level": "general",
@@ -451,56 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81041",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-81041:2026-11-27T16:49"
-  },
-  {
-   "ts": "2026-11-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137999 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-137999 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False JSONSchema2PoPo2 through 3.0.3 contains a code injection vulnerability that allows atta",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137999",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137999:2026-11-27T16:49"
-  },
-  {
-   "ts": "2026-11-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137998 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-137998 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Detoxify 0.5.3 through 0.5.4 contains an insecure deserialization vulnerability in load",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137998",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137998:2026-11-27T16:49"
-  },
-  {
-   "ts": "2026-11-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137997 (CVSS 8.5)",
-   "body": "🚨 CVE-2026-137997 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False HCIPy through 0.7.1 contains an insecure deserialization vulnerability that allows atta",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137997",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137997:2026-11-27T16:49"
-  },
-  {
-   "ts": "2026-11-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137995 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-137995 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False FOG Project before 1.6.0.119 contains an information disclosure vulnerability that allows",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137995",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137995:2026-11-27T16:49"
-  },
-  {
-   "ts": "2026-11-27T16:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-137992 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-137992 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True libexpat through 2.11.0 contains a denial of service vulnerability in defineAttribute() ",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-137992",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137992:2026-11-27T16:49"
   }
  ]
 }
