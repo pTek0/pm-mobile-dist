@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-28T12:19:07+00:00",
+ "generated_at": "2026-11-28T12:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-28T12:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The files are editable!",
+   "body": "Lemmy · programming.dev · 점수 51",
+   "link": "https://sopuli.xyz/pictrs/image/2d6a35f3-bb09-4ffa-a549-1b9ad583516f.webp",
+   "source": "Lemmy · programming.dev",
+   "id": "community:https://sopuli.xyz/pictrs/image/2d6a35f3-bb09-4ffa-a549-1b9ad583516f.webp:2026-11-28T12:49"
+  },
+  {
+   "ts": "2026-11-28T12:49:07+00:00",
+   "level": "general",
+   "category": "community",
+   "title": "[인기] The State of Allocators in 2026 - Finally Stabilised",
+   "body": "Lobsters · 점수 50",
+   "link": "https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/",
+   "source": "Lobsters",
+   "id": "community:https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/:2026-11-28T12:49"
+  },
   {
    "ts": "2026-11-28T12:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-138031",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138031:2026-11-27T19:49"
-  },
-  {
-   "ts": "2026-11-27T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-138028 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-138028 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Bagel (bagel-mcp) before 2.5.5 contains an argument injection vulnerability in RsyncFile",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138028",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138028:2026-11-27T19:49"
-  },
-  {
-   "ts": "2026-11-27T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-138027 (CVSS 7.7)",
-   "body": "🚨 CVE-2026-138027 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True Bagel (bagel-mcp) before 2.5.5 exposes unsandboxed DuckDB SQL execution through the read",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138027",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138027:2026-11-27T19:49"
   }
  ]
 }
