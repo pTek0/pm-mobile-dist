@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-28T02:19:07+00:00",
+ "generated_at": "2026-11-28T02:49:07+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-28T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138163 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-138163 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Gammu before 1.45.2 contains a heap-based buffer overflow in ReadWAPSettingsEntry() tha",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138163",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138163:2026-11-28T02:49"
+  },
+  {
+   "ts": "2026-11-28T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138162 (CVSS 7.3)",
+   "body": "🚨 CVE-2026-138162 📢 Source: VulnCheck 💣 CVSS Score: 7.3 (HIGH) 📡 Remotely Exploitable: False Gammu before 1.45.2 contains a stack-based buffer overflow vulnerability in ALCATEL_Enc",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138162",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138162:2026-11-28T02:49"
+  },
+  {
+   "ts": "2026-11-28T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138161 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-138161 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Gammu before 1.45.2 contains a buffer overflow vulnerability in LoadBackup() that allow",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138161",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138161:2026-11-28T02:49"
+  },
+  {
+   "ts": "2026-11-28T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138160 (CVSS 8.5)",
+   "body": "🚨 CVE-2026-138160 📢 Source: VulnCheck 💣 CVSS Score: 8.5 (HIGH) 📡 Remotely Exploitable: False Gammu before 1.45.2 contains a stack-based buffer overflow vulnerability in ReadBackupT",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138160",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138160:2026-11-28T02:49"
+  },
+  {
+   "ts": "2026-11-28T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138159 (CVSS 7.7)",
+   "body": "🚨 CVE-2026-138159 📢 Source: VulnCheck 💣 CVSS Score: 7.7 (HIGH) 📡 Remotely Exploitable: True edbrowse through 3.8.19 contains an integer overflow in stringAndBytes() that allows mal",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138159",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138159:2026-11-28T02:49"
+  },
+  {
+   "ts": "2026-11-28T02:49:06+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138158 (CVSS 7.0)",
+   "body": "🚨 CVE-2026-138158 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: False libgphoto2 through 2.5.34 contains a stack buffer overflow in sierra_get_string_register(",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138158",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138158:2026-11-28T02:49"
+  },
+  {
+   "ts": "2026-11-28T02:49:06+00:00",
+   "level": "important",
+   "category": "security",
+   "title": "심각 CVE CVE-2026-138154 (CVSS 9.3)",
+   "body": "🚨 CVE-2026-138154 📢 Source: VulnCheck 💣 CVSS Score: 9.3 (CRITICAL) 📡 Remotely Exploitable: False POSTAL 2 before build 26810491 contains a sandbox escape vulnerability that allows ",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138154",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138154:2026-11-28T02:49"
+  },
   {
    "ts": "2026-11-28T01:49:07+00:00",
    "level": "general",
@@ -431,76 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137992",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137992:2026-11-27T16:49"
-  },
-  {
-   "ts": "2026-11-27T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136119 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-136119 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136119",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136119:2026-11-27T16:19"
-  },
-  {
-   "ts": "2026-11-27T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-136118 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-136118 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-136118",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-136118:2026-11-27T16:19"
-  },
-  {
-   "ts": "2026-11-27T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135983 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-135983 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135983",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135983:2026-11-27T16:19"
-  },
-  {
-   "ts": "2026-11-27T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135979 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-135979 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135979",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135979:2026-11-27T16:19"
-  },
-  {
-   "ts": "2026-11-27T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135974 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-135974 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135974",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135974:2026-11-27T16:19"
-  },
-  {
-   "ts": "2026-11-27T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135968 (CVSS 8.6)",
-   "body": "🚨 CVE-2026-135968 📢 Source: Patchstack 💣 CVSS Score: 8.6 (HIGH) 📡 Remotely Exploitable: True Unrestricted Upload of File with Dangerous Type vulnerability in theMarketer theMarkete",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135968",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135968:2026-11-27T16:19"
-  },
-  {
-   "ts": "2026-11-27T16:19:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-135962 (CVSS 7.1)",
-   "body": "🚨 CVE-2026-135962 📢 Source: Patchstack 💣 CVSS Score: 7.1 (HIGH) 📡 Remotely Exploitable: True Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vu",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-135962",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-135962:2026-11-27T16:19"
   }
  ]
 }
