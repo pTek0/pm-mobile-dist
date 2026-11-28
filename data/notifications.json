@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-11-28T13:49:08+00:00",
+ "generated_at": "2026-11-28T14:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-28T14:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138256 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-138256 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True Apprise before 1.12.0 contains an improper certificate validation vulnerability in Notif",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138256",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138256:2026-11-28T14:19"
+  },
   {
    "ts": "2026-11-28T12:49:07+00:00",
    "level": "general",
@@ -491,16 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-138033",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138033:2026-11-27T19:49"
-  },
-  {
-   "ts": "2026-11-27T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-138031 (CVSS 7.6)",
-   "body": "🚨 CVE-2026-138031 📢 Source: VulnCheck 💣 CVSS Score: 7.6 (HIGH) 📡 Remotely Exploitable: True Typebot from 2.14.0 before 3.19.0 contains an authorization flaw that allows authenticat",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138031",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138031:2026-11-27T19:49"
   }
  ]
 }
