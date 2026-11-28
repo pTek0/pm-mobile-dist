@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-28T16:49:07+00:00",
+ "generated_at": "2026-11-28T17:19:08+00:00",
  "count": 50,
  "items": [
+  {
+   "ts": "2026-11-28T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138294 (CVSS 8.7)",
+   "body": "🚨 CVE-2026-138294 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True GPAC before 26.07.0 contains a path traversal vulnerability in the httpout filter that a",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138294",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138294:2026-11-28T17:19"
+  },
+  {
+   "ts": "2026-11-28T17:19:07+00:00",
+   "level": "general",
+   "category": "security",
+   "title": "CVE-2026-138293 (CVSS 8.3)",
+   "body": "🚨 CVE-2026-138293 📢 Source: VulnCheck 💣 CVSS Score: 8.3 (HIGH) 📡 Remotely Exploitable: True emailjs 3.2.0 before 5.0.4 contains an address parsing vulnerability in addressparser th",
+   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138293",
+   "source": "CVEfeed",
+   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138293:2026-11-28T17:19"
+  },
   {
    "ts": "2026-11-28T14:19:07+00:00",
    "level": "general",
@@ -481,26 +501,6 @@
    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137898",
    "source": "CVEfeed",
    "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-137898:2026-11-27T19:49"
-  },
-  {
-   "ts": "2026-11-27T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-138034 (CVSS 8.7)",
-   "body": "🚨 CVE-2026-138034 📢 Source: VulnCheck 💣 CVSS Score: 8.7 (HIGH) 📡 Remotely Exploitable: True bigcommerce-api-mcp before 1.0.1 contains a missing authentication vulnerability that al",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138034",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138034:2026-11-27T19:49"
-  },
-  {
-   "ts": "2026-11-27T19:49:07+00:00",
-   "level": "general",
-   "category": "security",
-   "title": "CVE-2026-138033 (CVSS 7.0)",
-   "body": "🚨 CVE-2026-138033 📢 Source: VulnCheck 💣 CVSS Score: 7 (HIGH) 📡 Remotely Exploitable: True mcp-video-analyzer 0.2.0 before 0.10.1 contains a server-side request forgery vulnerabilit",
-   "link": "https://cvefeed.io/vuln/detail/CVE-2026-138033",
-   "source": "CVEfeed",
-   "id": "security:https://cvefeed.io/vuln/detail/CVE-2026-138033:2026-11-27T19:49"
   }
  ]
 }
